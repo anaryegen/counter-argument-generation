@@ -35,12 +35,12 @@ if __name__ == '__main__':
             default='data/data.jsonl',
             help="Path to the data with claims to counter",
         )
-        # parser.add_argument(
-        #     "--output_file",
-        #     type=str,
-        #     required=True,
-        #     help="Path to save the generated data",
-        # )
+        parser.add_argument(
+            "--output_file",
+            type=str,
+            required=True,
+            help="Path to save the generated data",
+        )
         args = parser.parse_args()
 
 def rag(data_name: str):
@@ -56,7 +56,7 @@ def rag(data_name: str):
     
     if data_name =='conan':
         print('LOADING DATA: ')
-        res_file = 'conan_save_data.txt'
+        res_file = args.output_file
         data = load_dataset("HiTZ/CONAN-EUS", 'en')
         data = pd.DataFrame(data['test']).drop_duplicates(['HS'])
         argument = data['HS'].to_list()
@@ -64,7 +64,7 @@ def rag(data_name: str):
 
 
     if data_name == 'persuasive':
-        res_file = 'antropic_save_data.txt'
+        res_file = args.output_file
         data = load_dataset("Anthropic/persuasion")
         data = pd.DataFrame(data['train'])
         argument = data[data['rating_final'] == '1 - Strongly oppose'].drop_duplicates('claim')['claim'].to_list()
@@ -75,10 +75,10 @@ def rag(data_name: str):
         counter_argument = counter_argument
 
     if data_name == 'opinion':
-        res_file = 'cmdr_opinion_rag_qa_128.txt'
+        res_file = 'cmdr_opinion_rag_qa.txt'
         data = [eval(l) for l in open('mistral-opinions-norag-qa.jsonl').readlines()]
         argument = [] 
-        for l in data[128:]:
+        for l in data:
             argument.append(l['argument'].strip())
         counter_argument = argument # temporal
 
