@@ -1,0 +1,245 @@
+Skip to main content
+
+Scan this QR code to download the app now
+
+Or check it out in the app stores
+
+A place to discuss developments in the law and the legal profession.
+
+The meaning of the phrase "may not" in a legal context.
+
+I have been having an extremely frustrating conversation with someone who says they worked with a US state legislature, who claims that the phrase "may not" is not a prohibition, but simply a discouragement.
+
+Specifically, a section of a bill signed into law that states:
+
+money in a local watershed protection and restoration fund may not revert or be transferred to the general fund of any county or municipality
+
+Technically, reverting or transferring monies isn't even illegal (connoted by the words "shall not")- only discouraged (connoted by the words "may not"). That language is specifically intended to leave the movement of money to the discretion of the persons to whom the regulations grant that authority. ... Legally speaking, "may not" is not even a near equivalent of "shall not". Laws are full of "may" and "may not". Regulations are full of "shall" and "shall not".
+
+Please, help me settle this one. Share
+
+Open comment sort options
+
+Statutes are always construed by looking at their plain meaning first - and both "shall not" and "may not" read as prohibitions. Unless the legislature has a Dictionary Act that defines "may not" as optional, it is not. In fact, there are legislatures out there that specifically define "shall not" and "may not" as synonyms, like Texas (sec. 311.016(5)).
+
+I think your acquaintance is confused with the positive forms of the verb. "Shall" in law generally imposes a non-discretionary duty, whereas "may" implies a discretionary duty (see that same section). That does not mean the opposite is true for the negative forms, though (otherwise, why bother to use "may not" at all? You may as well say "may" since there would be no difference!).
+
+[edit] If the legislature wants to indicate discouragement, it usually says "should not."
+
+Good analysis. "You may not enter" would be a nonsense statement if may not was a suggestion.
+
+"Do I have to enter the contest?"
+
+"No, you may not enter."
+
+"Ok great! I think I may"
+
+you may enter or not
+
+In that context, it's not a command. In the legal context it is.
+
+It's not a command either way, it's a prohibition. You don't have to do anything -- in fact you can't do it.
+
+More replies More replies More replies
+
+We must admit, however, that Gandalf saying, "You may not pass!" to the Balrog would not have been nearly as dramatic.
+
+That's actually a very illustrative point. "Shall not" literally means it won't happen, and "may not" means it's not allowed to happen. But within the context of a law, they both mean the same thing, since a law doesn't actually have the ability to stop a thing from happening, only make it illegal with consequences.
+
+otherwise, why bother to use "may not" at all? You may as well say "may" since there would be no difference!
+
+Couldn't it be used to expressly state that not doing something is allowed?
+
+"You may not come to work on Friday afternoon if all your work is done".
+
+thats just poor sentence construction, but i'll allow it
+
+I think the meaning of his use of the word is better understood in first person:
+
+"I may not come to work on Friday afternoon if all my work is done."
+
+It implies that I may or may not come in to work contingent on the status of my work. However, it's not prohibitive. I may still come in on Friday even if my work is done, for some other reason.
+
+I don't think this is the kind of use the OP's example is talking about though.
+
+"I may not come to work on Friday if all my work is done" -- means I might not do it.
+
+"You may not come to work on Friday if all your work is done" -- means you are not allowed to.
+
+That's why I thought it made more sense to phrase Orioh's sentence that way. He seemed to mean "might", but his sentence was poorly constructed for that purpose.
+
+More replies More replies More replies
+
+This still sounds like you are not allowed to come to work if all your work is done.
+
+I generally agree with what you wrote, however, I have this gut feeling that I read a decision recently that construed "may not" in a non-prohibitive sense. I can't put my finger on it.
+
+Nevertheless, in a future or predictive sense, "may not" can be interpreted as a chance of something happening along the lines of "might." Something like, "you may not receive the result of your drug test within 5-10 days if you submit your materials through media mail." It might happen. You wouldn't tell your client, "looking at the plain meaning of the phrase 'may not,' this section says that you are prohibited from receiving your results in 5-10 days."
+
+Of course, in that sense its meaning is generally the same as "may" but it is used to indicate increased doubtfulness. But don't confuse me for saying that it is a paragon of writing. Rightly or wrongly, though, we would see that in a writing and wouldn't tell our clients that their results are guaranteed to be delivered outside the window of 5-10 days.
+
+No, but we would look at context, and when one stretched interpretation defeats the entire point of a sentence in a statute when the more natural interpretation keeps in in tact, well...we can be pretty sure what it means.
+
+More replies More replies
+
+Your friend is wrong. When used in the affirmative, his distinction is correct - "may" means you can if you want, "shall" means you WILL. "May not" and "shall not," however, both mean you are not permitted to, period.
+
+Your friend might be confused because may and shall do have different meanings - the first is permissive, the second mandatory. Other posters got it on how that doesn't follow when you add "not" to them though.
+
+Are you in Maryland? If so, your friend is explicitly wrong:
+
+§26. In this Code and any rule, regulation, or directive adopted under it, the phrase “may not” or phrases of like import have a mandatory negative effect and establish a prohibition. Check out page 7
+
+I even pointed this out to him...
+
+To pivot from what gsabram is commenting on, another question is:
+
+Is the Administrator required to "modify such eligibility" if they are "found to have been made in violation of applicable Federal statutes and regulations?"
+
+Or, is the section silent about the Administrator's obligation to act, once the conditions of the prohibition are met?
+
+If read to discuss prohibition but not obligation, then it might be better to phrase it in the positive:
+
+The Administrator shall, within 60 days, modify such eligibility determinations only when the Administrator determines that the earlier eligibility determinations were made in violation of applicable Federal statutes and regulations. (This isn't model writing either. I would like to avoid "only" and the long conditional language.)
+
+Well, in this particular case your question is probably moot, because if the original eligibility determination was made in violation of applicable law, then it could be challenged in court under the APA regardless of what is written here. In general, though, #2 is correct.
+
+The statute gives the Administrator authority to make eligibility determinations and, in general (ignoring admin law for a moment), the Administrator would be free to change those eligibility determinations later, for example, if he got new information, or just changed his mind, or whatever. The purpose of this provision is to limit the Administrator's discretion to change his mind, in order to protect the reliance interest of parties who have received a determination by the agency that a proposed project is eligible for federal payments.
+
+If 'may not' means the Administrator has discretion, it makes no sense at all to say he 'may not' modify eligibility determinations 'unless' some criteria are met.
+
+I lost you here. I believe that the existence of criteria is precisely what confirms that the duty is discretionary. This is not some law creating some mandatory process like a cog in the government structure; the Administrator actually has to evaluate the situation and make a judgment call as to whether the "unless" condition has been satisfied. It's like a police officers duty to stop a crime, they aren't breaking the law by if they stand idly by, but they can still open themselves to potential liability under certain situations.
+
+Yes, the 'may not' / 'unless' construction gives the administrator discretion to do the thing once the criteria is met. In other words, satisfying the criteria converts the 'may not' into a 'may'.
+
+If 'may not' and 'may' were interchangeable, as the OP's friend suggests, the criteria would make no sense.
+
+More replies More replies
+
+"May" connotes permission.
+
+"May not" connotes lack of permission.
+
+Your friend is full of shit.
+
+Check Sutherland on Statutory Construction. It's on Westlaw.
+
+You could also point out that if the legislature really meant it to be a suggestion they would have used the word "should," and find examples of "should not" being used. "May" is a permissive word. "May" in the positive context means allowed but not necessarily required (although note sometimes it is read as a requirement!) and "may not" takes away the "may" which was permission to do something but now is a lack of permission to do something.
+
+Don't ever ask Scalia the different between "shall" and "may"...
+
+scalia had a lot to say about this in a recent oral argument. sorry, but i forget which one. also see the recent levin decision, a battery case from guam decided recently by scotus,
+
+what exactly is your friend's title, position, authority? i mean, does their shady opinion matter?
+
+What works with may may not work with not not always though
+
+If your friend was talking about contract interpretation instead of statutory interpretation, he would be correct. My professor for Contract Drafting explicitly forbade us from ever using the word "may" in a contract precisely to avoid this ambiguity.
+
+More posts you may like
+
+A place to discuss developments in the law and the legal profession.
+
+Citing Dred Scott... points for bravery I guess?
+
+A place to discuss developments in the law and the legal profession.
+
+The First Amendment Doesn’t Create a Right to Bribery
+
+A place to discuss developments in the law and the legal profession.
+
+US sues RealPage, claims rental-pricing algorithm used by landlords is illegal
+
+A place to discuss developments in the law and the legal profession.
+
+Should SCOTUS have binding ethics rules? Ketanji Brown Jackson doesn't see why not
+
+A place to discuss developments in the law and the legal profession.
+
+Federal judge throws out U.S. ban on noncompetes
+
+A place to discuss developments in the law and the legal profession.
+
+Two Wisconsin towns in trouble with feds over lack of accessible voting machines
+
+A place to discuss developments in the law and the legal profession.
+
+What can be done about this Supreme Court’s very worst decisions? Democrats are not about to forgive or forget
+
+A place to discuss developments in the law and the legal profession.
+
+Religious Broadcasters Sue IRS Over Rule Limiting Political Speech For Nonprofits
+
+A place to discuss developments in the law and the legal profession.
+
+Deadly Polluters Think the Supreme Court Just Gave Them a Free Pass
+
+A place to discuss developments in the law and the legal profession.
+
+From the People Who Brought You Project 2025: Manufactured Evidence of Voter Fraud
+
+A place to discuss developments in the law and the legal profession.
+
+Missouri abortion rights measure is invalid, judge says days before deadline
+
+A place to discuss developments in the law and the legal profession.
+
+AZ GOP sues Hobbs over ordering more polling places, voter registration
+
+A place to discuss developments in the law and the legal profession.
+
+Why is the DOJ not prosecuting Trump and the Campaign for violating Arlington rules?
+
+A place to discuss developments in the law and the legal profession.
+
+Missouri abortion rights amendment will be on the ballot in November
+
+A place to discuss developments in the law and the legal profession.
+
+'Every word out of his mouth is admissible': Expert says Trump just gave Jack Smith a gift
+
+A place to discuss developments in the law and the legal profession.
+
+Cop murdered pregnant woman to cover up statutory rape that occurred when she was 15
+
+A place to discuss developments in the law and the legal profession.
+
+Company Using Biden AI Voice Agrees to $1M Settlement
+
+A place to discuss developments in the law and the legal profession.
+
+Google’s Next Antitrust Trial Could Make Online Ads Less Annoying
+
+A place to discuss developments in the law and the legal profession.
+
+White Stripes v Trump (direct copyright infringement) - Complaint
+
+A place to discuss developments in the law and the legal profession.
+
+A North Texas college donated land to a Christian school. State and federal laws prohibit such gifts, experts say
+
+A place to discuss developments in the law and the legal profession.
+
+Federal judge tosses Kansas machine gun possession case on Second Amendment grounds
+
+A place to discuss developments in the law and the legal profession.
+
+Opinion | One urgent reason the justices need a credible ethics code? Ginni Thomas.
+
+A place to discuss developments in the law and the legal profession.
+
+Isaac Hayes v Trump - Plaintiff Reply (Hayes is owner of copyright, song was removed from license 5June2024)
+
+A place to discuss developments in the law and the legal profession.
+
+DeSantis’ election police questioned people who signed abortion petitions
+
+A place to discuss developments in the law and the legal profession.
+
+DOJ: 'Guilty' means guilty; insists Jan. 6 plea deals should stand even after SCOTUS ruling
+
+reReddit: Top posts of April 13, 2013
+
+reReddit: Top posts of April 2013
+
+reReddit: Top posts of 2013

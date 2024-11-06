@@ -1,0 +1,89 @@
+Atlanta: 404-961-7650 Savannah: 912-651-9967 Phones Answered 24 Hours a Day
+
+Can Driverless Vehicles Be Hacked?
+
+By Jeffrey R. Harris | September 28, 2022
+
+The promise of autonomous vehicles – cars and trucks that don’t need a human driver behind the wheel – offer many advantages. Proponents of driverless cars envision fewer traffic accidents caused by human error, more efficient movement of cargo, drunk driving prevention, and improved mass transit. However, as full and partially autonomous vehicles start rolling out on American roads and highways, incidents and, yes, accidents are already happening.
+
+One major concern consumers and experts have about driverless vehicles is their vulnerability to cyberattacks. Because autonomous vehicles rely on advanced computers and technology, they’re potentially open to hackers – and hackers have noticed. Imagine getting behind the wheel of your self-driving vehicle to go to the grocery store, and someone takes remote control of your car with you in it. This is a terrifying scenario, but some experts believe it’s possible.
+
+Autonomous vehicles are vulnerable to hacking
+
+The website HackerNoon discusses the cybersecurity risks in autonomous vehicles, as well as the various ways cybercriminals might remotely attack a self-driving car. They note that technology continues advancing, allowing these types of vehicles to require less human intervention. Still, that same technology also allows hackers to take advantage, for criminal purposes or simply for fun. Regardless of the reason, a hacked vehicle is extremely dangerous.
+
+There are intentional attacks that aim to specifically harm the safety-critical functions of the AI [artificial intelligence] systems. Examples include painting the road to misguide the navigation system or putting stickers on stop signs to prevent it from being recognized. Such alterations can lead the AI systems to wrongly classify objects which as a result could make the self-driving car behave in a dangerous way.
+
+Behaving in a “dangerous way” is a bit of an understatement. Forcing a vehicle to run a stop sign or miss navigation cues will almost certainly cause a car accident, and serious crashes, resulting in catastrophic injuries for everyone involved.
+
+Techniques to hack driverless cars
+
+HackerNoon doesn’t just speak in general terms about cybersecurity risks; they discuss the specific ways hackers can gain control of autonomous cars, including:
+
+“Remote access via the Internet
+
+Remote access via Bluetooth
+
+Inserting a backdoor into the self-driving car via the maker of the vehicle (supply chain)
+
+Planting a specialized device into the vehicle
+
+Messing with the sensory of the vehicle.”
+
+They also discussed some real-world examples of car hacks, including a 2019 attack on a Tesla Model 3. White hat hackers Amat Cama and Richard Zhu exploited the car’s system to take control of the vehicle in a controlled environment. A “white hat hacker” ethically uses their skills to demonstrate vulnerabilities in software and hardware. It took Cama and Zhu only minutes to take control of the Tesla, using a weakness in the car’s infotainment system to run their line of code. You can watch the entire demonstration on YouTube.
+
+These problems don’t exist only with Tesla, although Tesla often finds itself in the news. Other real-life examples of auto cybersecurity hacks include:
+
+In 2010, a disgruntled former employee in Austin, Texas, went into a company computer and disabled over 100 cars, and set the horns honking out of control.
+
+Security researchers found vulnerabilities in the General Motors OnStar system that could allow hackers to take complete control of the vehicle. Although they discovered this issue in 2010, GM didn’t fix it until 2015.
+
+In 2014, Kaspersky Labs published a report analyzing BMW’s ConnectedDrive system. They found various issues: “Connected cars can open the door to threats that have long existed in the PC and smartphone world. For example, the owners of connected cars could find their passwords are stolen. This would identify the location of the vehicle, and enable the doors to be unlocked remotely. Privacy issues are crucial and today’s motorists need to be aware of new risks that simply never existed before.”
+
+In June 2016, the BBC reported an issue with the Mitsubishi Outlander: “The alarm on Mitsubishi’s Outlander hybrid car can be turned off via security bugs in its on-board wi-fi, researchers have found. The loophole could mean thieves who exploit the bugs gain time to break into and steal a vehicle.”
+
+Auto manufacturers should recall vehicles as soon as they discover software or hardware vulnerabilities. However, this often isn’t the case, and sometimes consumers aren’t even aware these risks exist.
+
+How can I protect my vehicle from cyberattacks?
+
+As you can see, with new technologies come new hacking techniques. The good news is you can take steps to protect yourself. IEEE.org discusses a few ways auto manufacturers and drivers themselves can help keep self-driving vehicles more secure:
+
+Change the default password – If your vehicle came with a default password, change it – and ensure you change it to something secure that someone won’t easily guess. IEEE notes, “in 2019, someone hacked into thousands of vehicles simply by guessing the default password of their GPS tracking apps: ‘123456.’”
+
+Update your software – Manufacturers should provide regular updates to their software, but they only work if you ensure these updates are installed in a proper and timely fashion.
+
+Prioritize security – Similarly, manufacturers must prioritize security during design, manufacture, and once vehicles are on the market.
+
+Provide more networks for cities – A single network for connected vehicles puts them at greater risk for potential attacks. Multiple networks reduce the risk.
+
+Enable your GPS only when needed – Your GPS can be hacked through a technique called “spoofing.” Per IEEE, “This is where a bad actor interferes with a GPS location system by using a radio signal.”
+
+They also point out that the best way to know if something is wrong with your autonomous vehicle is to understand how it works, so ensure you familiarize yourself with your car by thoroughly reading the manual before setting out on your first ride.
+
+If you are involved in an accident involving a driverless or autonomous vehicle, the attorneys at Harris Lowry Manton LLP want to help. We know how to investigate these types of accidents to determine how they happened and who should be held responsible. Then, we hold them accountable for their negligence and work to secure the financial compensation to which you are entitled for your injuries and losses. To schedule a free initial consultation, call our Atlanta office at 404-998-8847, our Savannah office at 912-417-3774, or fill out our contact page today.
+
+One of the nation’s top trial attorneys, Jeff Harris is an award-winning litigator who handles high-profile, complex cases across a wide variety of practice areas. He excels at securing justice for clients who have been seriously injured or killed, holding responsible parties accountable for their actions as well as their negligence.
+
+Read more about Jeffrey R. Harris here.
+
+Posted in Auto Accident
+
+Construction Site Accidents
+
+Traumatic Brain Injury
+
+COVID-19 Essential Workers
+
+Whistleblowers / Qui Tam
+
+Film and TV Production Injuries
+
+University of Georgia’s Shahrzad Roshan Zamir Wins 2024 Harris Lowry Manton LLP Civil Justice Scholarship
+
+The Hidden Dangers of Overloaded Trucks
+
+Do You Sue the Truck Driver or the Trucking Company in a Truck Accident?
+
+Understanding Your Rights After a Truck Accident Involving Hazardous Materials
+
+How to File a Truck Accident Lawsuit in Georgia

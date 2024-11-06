@@ -1,0 +1,93 @@
+Subsidies for positive externalities
+
+9 December 201928 June 2019 by Tejvan Pettinger
+
+Subsidies involve the government paying part of the cost to the firm; this reduces the price of the good and should encourage more consumption. A subsidy shifts the supply curve to the right and can be justified for goods which offer benefits to the rest of society.
+
+What is the justification for subsidising goods with positive externalities?
+
+In a free market, people ignore the positive externalities of consumption, e.g. when cycling to work, you don’t consider the reduction in pollution your decision creates. In a free market, there is under-consumption of goods with positive externalities because people usually ignore the ‘external benefits’ their decisions make.
+
+Examples of goods with positive externalities in societies
+
+Health care – free universal health care can ensure everyone gets vaccinated; this prevents the spread of infectious disease, which benefits everyone. In other words, you have a personal benefit from other people being healthy.
+
+Collecting refuse and litter – If litter is picked up, it benefits everyone else who can enjoy a more beautiful environment. It also helps improve public health.
+
+Education. If the long-term structurally unemployed workers gain useful training and education, it enables them to find work. This has benefits for other people in society – The government receives more tax revenue and pays less unemployment benefit. There is also a less tangible benefit of a more cohesive society.
+
+Diagram showing market failure when there is a positive externality
+
+The free market equilibrium is at Q1. because S=D. People maximise their welfare where private marginal benefit = private marginal cost.
+
+But, social efficiency occurs at Q2 (where SMB = SMC), therefore, at the free market equilibrium, the social marginal benefit is greater than the social marginal cost. Society would benefit from increasing output until Q2.
+
+To increase consumption and production, the government can offer a subsidy to reduce the price and increase quantity.
+
+Diagram of subsidy on positive externality
+
+The supply curve shifts to S2 and price falls from P1 to P2
+
+People will now consume more; the quantity increases from Q1 to Q2.
+
+The output (Q2) is social efficient: because here Social marginal cost (SMC) = Social marginal benefit (SMB)
+
+Advantages of subsidies
+
+Enables greater social efficiency. Consumers end up paying the socially efficient price which includes the external benefit.
+
+If you subsidise public transport, it will encourage people to drive less, and reduce their negative externalities. In the long term, subsidies for a good will help change preferences. It will encourage firms to develop more products with positive externalities.
+
+Potential problems of subsidies
+
+The cost will have to be met through taxation. Some taxation, e.g. income tax, may reduce incentives to work. Though the most efficient way to raise revenue for subsidising positive externalities would be to tax goods with negative externalities, e.g. tax cars driving in city centres (congestion charge) and use the money to pay for public transport.
+
+Difficult to estimate the extent of the positive externality. Therefore the government may have poor information about the service and how much to subsidise.
+
+There is a danger that government subsidies may encourage firms to be inefficient and they come to rely on subsidy rather than improve efficiency. (see: government failure)
+
+The effect depends on the elasticity of demand
+
+If demand is price elastic, a subsidy leads to large increase in demand
+
+If demand is price inelastic, a subsidy is relatively ineffective in increasing demand.
+
+Should we pay to see the doctor?
+
+Types of market failure
+
+View: all Revision Guides
+
+A-Level revision guide £8.95
+
+A-Level Model Essays £9.00
+
+Why Brexit Failed the UK
+
+Future of UK House Prices – Boom or Bust?
+
+German Economic Crisis Gets Worse
+
+Denmark vs UK Economy
+
+Causes of Wall Street Crash 1929
+
+Causes of Great Depression
+
+The problem of printing money
+
+The importance of economics
+
+Understanding exchange rates
+
+10 reasons for studying economics
+
+Impact of immigration on UK economy
+
+Random Glossary term
+
+Study Guides for Exams
+
+Tejvan Pettinger studied PPE at LMH, Oxford University. Find out more
+
+Continue Shopping →

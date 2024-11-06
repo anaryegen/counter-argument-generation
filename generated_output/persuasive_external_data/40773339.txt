@@ -1,0 +1,51 @@
+Skip to main content
+
+Your browser does not support the video tag.
+
+Introducing Sora: Creating video from text
+
+Learn more about Sora
+
+Pioneering research on the path to AGI
+
+Learn about our research
+
+Transforming work and creativity with AI
+
+Explore our products
+
+Join us in shaping the future of technology
+
+Safety & responsibility
+
+Our work to create safe and beneficial AI requires a deep understanding of the potential risks and benefits, as well as careful consideration of the impact.
+
+We research generative models and how to align them with human values.
+
+Learn about our research
+
+Video generation models as world simulators
+
+Feb 15, 2024February 15, 2024
+
+Building an early warning system for LLM-aided biological threat creation
+
+Jan 31, 2024January 31, 2024
+
+Weak-to-strong generalization
+
+Dec 14, 2023December 14, 2023
+
+Practices for Governing Agentic AI Systems
+
+Dec 14, 2023December 14, 2023
+
+Our API platform offers our latest models and guides for safety best practices.
+
+Explore our products
+
+Developing safe and beneficial AI requires people from a wide range of disciplines and backgrounds.
+
+I encourage my team to keep learning. Ideas in different topics or fields can often inspire new ideas and broaden the potential solution space.
+
+Lilian WengSafety Systems at OpenAI

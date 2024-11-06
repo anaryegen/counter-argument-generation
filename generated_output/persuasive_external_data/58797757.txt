@@ -1,0 +1,125 @@
+Skip to main content
+
+Latvia’s Frontline Perspective on Europe’s Eastern Flank: A Conversation with President Zatlers
+
+No Time to Waste: A Dialogue on Circularity and Sustainability
+
+Shaping Policies, Shaping Lives: Immigration and the 2024 Election
+
+The Poverty of the World: Rediscovering the Poor at Home and Abroad, 1941-1968
+
+Share on FacebookShare on TwitterShare via EmailSharePrint
+
+ShareCloseCopy LinkFacebookTwitterLinkedInEmail
+
+Closing the Digital Divide
+
+By Jerry Haar on April 21, 2023
+
+Wahba Institute for Strategic Competition
+
+Strategic CompetitionScience and TechnologyGeoeconomics
+
+asharkyu/Shutterstock.com
+
+The physical infrastructure (such as bridges, roads, water supply, electricity, and telecommunication), so essential to our competitiveness and welfare have a parallel world with the introduction of technology and digital information. Some 63% of the world's total population, a total of 5 billion people, use the Internet today. Digital technologies have advanced more rapidly than any innovation in our history – reaching around 50% of the developing world's population in only two decades and transforming societies. This transformation has been made possible by large investments by governments to develop information technology capabilities of their nations, that is, fundamental entities that support high-speed data transfer, large digital networks, radio-wave bandwidths and information storage centers. Examples include fiber-optic cables, communication satellites, and IoT (Internet of Things). Digital infrastructure facilitates economic transactions, bureaucratic procedures and practices, education, and healthcare services, among others. It is essential to a country’s economy and quality of life.
+
+With fast moving technologies and innovations, the necessity of effective digital infrastructure can hardly be understated. In modern cities, it can support urban management, cost savings through automation, and knowledge gathering. It also creates competitive advantage for firms operating in the country. Bureaucratic processes become faster and more efficient through online forms, information websites, payments in terms of tax collection, and other management application services. When integrated well, digital infrastructure creates smart municipalities, cities and states by automation of public transportation services (e.g., optic fibers and broadband facilitating metro routes and providing real-time data for safety), healthcare facilities (e.g., improved patient data and treatment knowledge through Big Data analytics), and financial transactions (e.g., support for blockchain among FinTechs and Wall Street to track trades). The pace and efficiency of automation and digital works is entirely dependent upon the infrastructure that supports it. Digital infrastructure carries data between devices, data infrastructure and services, serving as the basis for “Industry 4.0” innovations, value-adding digital activities, and significant productivity improvement.
+
+Digital infrastructure advancements have been dramatic over the past two decades. In 2000, Estonia became the first country in the world to declare Internet access a human right. It was called “the most advanced digital society in the world” at the time. Today, this transformation – the adoption of digital technology – affects every industry, and an effective digital strategy is essential for countries to ensure their economies remain competitive.
+
+The digital economy is the equivalent of over 15% of global GDP, growing two and a half times faster than total GDP over the past 15 years. It is considered the single most important driver of innovation, growth, and job creation. According to the World Economic Forum (WEF), information and communication technologies (ICT) infrastructure in South Korea was ranked #1 in the world for three consecutive years, followed by Japan and the US. South Korea has the highest smartphone penetration rate in the world (over 95% in 2019) and there are already millions of 5G users in a nation of only 51.5 million people.
+
+The digital economy is the equivalent of over 15% of global GDP, growing two and a half times faster than total GDP over the past 15 years.
+
+Across industries, technology, telecommunications, and financial services are the most digitally mature sectors. They also tend to be more successful at transformation (30% and 28% in the “success” zone for tech and telcos and financial institutions, respectively). According to management consulting firm McKinsey, digital finance companies operate at 70% of the cost of traditional banks, due in large measure to lower costs of acquiring and serving customers. For example, JPMorgan Chase, one of the first large institutions to offer online banking, invests $12 billion per year in technology, ranking it as the most digitized and technologically advanced banks in the US.
+
+As of 2021, the US was ranked as the most digitally competitive country in the world. Digital competitiveness rankings aim to analyze a country's ability to adopt digital technologies and implement these technologies in enterprises and governmental organizations. They have the power to boost productivity, create new jobs, and enhance the quality of life for an economy and society at large. A new study commissioned by the Interactive Advertising Bureau (IAB) and led by a researcher from Harvard Business School found that the internet economy grew 7 times faster than the total US economy during the past 4 years, and now accounts for 12% of GDP. Specifically, the Internet economy’s contribution to US GDP grew 22% per year since 2016, in a national economy that grows between 2-3% annually. In 2020 alone, it contributed $2.45 trillion to a GDP of $21.18 trillion. Since IAB began measuring the economic impact of the internet in 2008, the Internet’s contribution to GDP has grown eightfold, from $300 billion to $2.45 trillion. The commercial internet generated more than 17 million jobs in the U.S., 7 million more than 4 years ago.
+
+Specifically, the Internet economy’s contribution to US GDP grew 22% per year since 2016, in a national economy that grows between 2-3% annually.
+
+In terms of challenges and impediments, while digitization speeds up development, helps economic growth, brings people closer together, and enables better use of resources, many countries struggle to invest in innovation, digital technologies, and infrastructure because they can’t afford to finance it. Although 70% of the population in developed countries purchased goods and services online, only 2% did so in the least developed countries, like sub-Saharan countries, which have the largest coverage gap. The unavailability of mobile broadband coverage deprives workers and consumers of the benefits from e-commerce on both the supply and demand ends. During the pandemic, this significantly disrupted education, as nearly 90% of learners in the sub-Saharan region lacked access to internet and computers at home and were isolated from online learning and digital education.
+
+Factors such as low literacy and income levels, geographical restrictions, lack of motivation to use technology, lack of physical access to technology, and digital illiteracy contribute to a digital divide, resulting in nearly 2.9 billion people around the world (an estimated 37% of the population), particularly women and girls, lacking a telephone, computer, or internet access. Universal access to broadband by 2030 would cost an estimated $428 billion, with 69% of this required in low-income countries and other under-served regions. Asian Infrastructure Investment Bank (AIIB) research showed that digital infrastructure needs an injection of more than $1 trillion in the near future (with 50% of that attributable to Asia) to meet the demand for 5G, data centers, and digital applications such as smart cities and intelligent transportation.
+
+Factors such as low literacy and income levels, geographical restrictions, lack of motivation to use technology, lack of physical access to technology, and digital illiteracy contribute to a digital divide, resulting in nearly 2.9 billion people around the world (an estimated 37% of the population), particularly women and girls, lacking a telephone, computer, or internet access.
+
+While the digital divide is commonly thought of as a problem in developing nations, the US is not exempt. The Research Center reports that 7% of Americans, approximately 23 million people, do not use the Internet, and 23% do not have access to a broadband connection at home. That includes nearly 3 in 10 people—27 percent—who live in rural locations, as well as 2 percent of those living in cities. Research shows that 40 percent of schools lack broadband, as do 60 percent of healthcare facilities outside metropolitan areas. At the start of the COVID-19 pandemic, over 10 million K-12 students could not participate in remote schooling (this number does not include the students who could not attend due to a device deficit)and this accentuated the importance of home Internet access in the country. The work-from-home environment was impacted too, as many faced the issue of unreliable Internet when many users were connected simultaneously.
+
+The digital divide is a significant challenge, but solutions exist. It can be closed by funding and implementing digital inclusion policies, programs and tools that incorporate the following: affordable, robust broadband Internet service; internet-enabled devices that meet the needs of the user; access to digital literacy training; quality technical support; applications and online content designed to enable and encourage self-sufficiency, participation, and collaboration.
+
+The public sector has an important role to play in digitalizing its economy and making it competitive in the global market, by investing in the digital infrastructure needed to support the digital technologies, activities and operations of individuals and businesses. Digital public infrastructure is becoming as essential to society as physical infrastructures such as roads or railways. Perhaps it is no surprise to see that the three largest trade powers have the most ambitious digital infrastructure policies: the US, EU, and China. In the US, $2.8 billion has been allocated to spending on digital infrastructure from President Biden’s $2 trillion infrastructure spending plan. The EU plans to spend $200 billion over the next 10 years through its Digital EU program. Meanwhile, China, with perhaps the most ambitious global policy, plans to spend the most on digital infrastructure, with $1.4 trillion allocated from a total spending plan of $2.1 trillion.
+
+Other important players, alongside the policymakers, regulators and the owners and dispensers of spectrum for mobile networks, are non-governmental organizations (NGOs), industry associations, standards bodies, multistakeholder associations such as the World Wide Web Consortium (W3C), the Internet Corporation for Assigned Names and Numbers (ICANN), and the International Telecommunication Union (ITU), a UN agency. Together, these participants are responsible for building and developing digital infrastructures locally and globally, including fixed and mobile networks, exchange points, data centers, devices and network equipment, and platforms and protocols that make the Internet work.
+
+No discussion of digital infrastructure would be complete without reference to digital infrastructure security, mainly with respect to the US. According to FBI director Christopher Wray, China has the capacity to maliciously modify or steal information via digital infrastructure. Chinese communications technology firms such as Huawei and ZTE, in consort with China’s intelligence services, can cause a loss or interruption of availability, integrity or confidentiality in critical networks. In March 2019, a cellular tower owned by Huawei was less than one-third of a mile from a US missile silo in the Midwest. The US Department of Homeland Security and other departments and agencies are engaged in efforts to prevent and counter China’s treats to cybersecurity, including digital infrastructure. While the federal government has thwarted major threats to digital infrastructure, states and local municipalities are not immune. The critical need to address cybersecurity is highlighted by a significant uptick in data breaches, resulting in about $18.88 billion in recovery costs and downtime in 2020 alone.
+
+In terms of the outlook for digital infrastructure worldwide, an estimated 70% of new value created in the economy over the next decade will be based on digitally enabled platform business models. By 2025, companies around the world are expected to use cloud technology in some way, with 85% of business applications expected to be based on it.
+
+In response to digital infrastructure needs, the federal government included $65 billion toward it in its infrastructure bill. Creating and staffing new departments and planning how to deploy funds will be essential. Multiple stakeholders need to agree, including governments, the health insurance industry, Internet providers, and municipal bondholders. The execution stage will also be lengthy, as the physical build-out of necessary infrastructure will take time. There are some broadband lessons that can be learned from Europe. It has been able to spur more affordable prices thanks to a regulated market environment that promotes competition. In the US, competition among Internet providers has historically been at the infrastructure level, meaning your choice is between DSL, cable, fiberoptic or 5G satellite. With so few competitive options available to consumers, companies don't feel the need to jostle for customers by lowering prices. Meanwhile in Europe, open access infrastructure -- which in the case of broadband means a physical network that different service providers can all make use of -- has allowed multiple companies to compete for customers at a service level, forcing them to offer more competitive prices. Attempts to regulate in favor of more open access infrastructure in the US have elicited pushback from the powerful telecoms lobby, which has a vested interest in keeping competition minimal to ensure prices stay high.
+
+Current global digital trends are driving strong growth in demand for digital infrastructure. The use of connected devices constantly grows, from 22 billion connected devices in 2018 to 38.6 billion in 2025 and forecasted to 50 billion by 2030. Therefore, we recommend the US needs to invest in three major directions to build foundations of a high-tech US: transforming physical world through IoT, connecting the legacy infrastructure (smart traffic lights, smart electric grids, etc.); integrating all databases so the flow of information is timely and seamless (quick and easy access of patient information between hospitals through data centers, improved coordination among public transports); financial transparency through blockchain technology by tracking transactions and maintaining digital registries (accountability of treasury, reduced risk of corruption or fraud).
+
+The future that consumers are demanding is even more digital than today, even more connected, more global and more intelligent. To achieve that future with growing demand for connection and data consumption, we need to invest more in digital infrastructure, whether that is network, internet, data centers, storage, computers, transmission, systems, or applications. Only by doing so will economies be able to compete and thrive in a digitally globalized world.
+
+Global Fellow; Professor of International Business and Executive Director for the Americas, College of Business, Florida International UniversityRead More
+
+Wahba Institute for Strategic Competition
+
+The Wahba Institute for Strategic Competition works to shape conversations and inspire meaningful action to strengthen technology, trade, infrastructure, and energy as part of American economic and global leadership that benefits the nation and the world. Read more
+
+Explore MoreBrowse Insights & Analysis
+
+President von der Leyen Announces Members of New EU Commission
+
+Strategic Competition
+
+North America's Infrastructure in Focus
+
+Strategic Competition
+
+Opportunities for Bolstering Already Strong US-Vietnam Economic Relationship
+
+By Tanner Kimpel on August 30, 2024
+
+Strategic Competition
+
+Election Outcome Could Alter Relations with China, US
+
+Strategic Competition
+
+Lam-Xi meeting suggests Vietnam's supply chain balance tilting toward China
+
+Turning Point: The Impact of AMLO’s Reforms on USMCA and Nearshoring
+
+By Diego Marroquín Bitar on August 21, 2024
+
+Strategic Competition
+
+Infrastructure Investment 101: What is the Blue Dot Network and How Will it Encourage Investment?
+
+By Jeffrey Kucik on August 15, 2024
+
+GeoeconomicsThe Role of Africa in Russia’s Geopolitics
+
+LibsynAugust 14, 2024
+
+Strategic Competition
+
+Rising Global South Discontent Amid Strategic Competition in the Indo-Pacific and Beyond
+
+By Prashanth Parameswaran on August 9, 2024
+
+Strategic Competition
+
+Shielding Developers from Corruption Key to Advancing International Infrastructure Investment Essential to US Interests
+
+By Lea Thome on August 6, 2024
+
+Strategic Competition
+
+Wahba Institute for Strategic Competition and Boston Global Forum Host Roundtable with Politburo Member Nguyen Xuan Thang on AI Strategies and Tech Development of Vietnam
+
+Strategic Competition
+
+At WTO There’s a Climate Emergency, but not in International Relations

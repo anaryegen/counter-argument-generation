@@ -1,0 +1,809 @@
+Back to Top Skip to main content
+
+An official website of the United States government Here's how you know
+
+The .gov means it’s official. Federal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you’re on a federal government site.
+
+The site is secure. The https:// ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely.
+
+Log in Show account info
+
+Logged in as: username
+
+Access keys NCBI Homepage MyNCBI Homepage Main Content Main Navigation
+
+The PMC website is updating on October 15, 2024. Learn More or Try it out now.
+
+HHS Author Manuscripts
+
+As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with, the contents by NLM or the National Institutes of Health. Learn more: PMC Disclaimer | PMC Copyright Notice
+
+J Homosex. Author manuscript; available in PMC 2015 Aug 21.
+
+Published in final edited form as:
+
+J Homosex. 2007; 52(0): 111–150. doi: 10.1300/J082v52n03_06
+
+NIHMSID: NIHMS521882
+
+Beliefs about the Etiology of Homosexuality and about the Ramifications of Discovering Its Possible Genetic Origin
+
+Jane P. Sheldon, PhD, Associate Professor of Psychology, Carla A. Pfeffer, MSW, currently a graduate student, Toby Epstein Jayaratne, PhD, Assistant Research Scientist, Merle Feldbaum, BA, research associate, and Elizabeth M. Petty, MD, Associate Professor
+
+University of Michigan-Dearborn.
+
+Find articles by Jane P. Sheldon
+
+Joint Doctoral Program in Social Work and Sociology at the University of Michigan.
+
+Find articles by Carla A. Pfeffer
+
+Toby Epstein Jayaratne
+
+Institute for Research on Women and Gender at the University of Michigan.
+
+Find articles by Toby Epstein Jayaratne
+
+Institute for Research on Women and Gender at the University of Michigan.
+
+Find articles by Merle Feldbaum
+
+Internal Medicine and Human Genetics at the University of Michigan School of Medicine.
+
+Find articles by Elizabeth M. Petty
+
+Jane P. Sheldon, University of Michigan-Dearborn.
+
+Contributor Information.
+
+Correspondence may be addressed to: Jane P. Sheldon, Ph.D., Department of Behavioral Sciences, University of Michigan-Dearborn, Dearborn, MI, 48128; ude.hcimu@nodlehsj.
+
+Homosexuality is viewed by many as a social problem. As such, there has been keen interest in elucidating the origins of homosexuality among many scholars, from anthropologists to zoologists, psychologists to theologians. Research has shown that those who believe sexual orientation is inborn are more likely to have tolerant attitudes toward gay men and lesbians, whereas those who believe it is a choice have less tolerant attitudes. The current qualitative study used in-depth, open-ended telephone interviews with 42 White and 44 Black Americans to gain insight into the public's beliefs about the possible genetic origins of homosexuality. Along with etiological beliefs (and the sources of information used to develop those beliefs), we asked respondents to describe the benefits and dangers of scientists discovering the possible genetic basis for homosexuality. We found that although limited understanding and biased perspectives likely led to simplistic reasoning concerning the origins and genetic basis of homosexuality, many individuals appreciated complex and interactive etiological perspectives. These interactive perspectives often included recognition of some type of inherent aspect, such as a genetic factor(s), that served as an underlying predisposition that would be manifested after being influenced by other factors such as choice or environmental exposures. We also found that beliefs in a genetic basis for homosexuality could be used to support very diverse opinions, including those in accordance with negative eugenic agendas.
+
+Keywords: Homosexuality, Etiology, Origins, Genetics, Choice, Public Opinion, Lay Beliefs
+
+Recent scientific and media attention has been focused on research attempting to discern potential origins of homosexuality. Homosexuality is generally framed as a social problem, which can explain this intense interest in seeking its causes. Among the scientific studies exploring the etiology of homosexuality, much work has examined the possible influence of genes. Importantly, attributing causation of human characteristics to genetics generates a way of framing the issue that may have particular social implications. For example, when traits are understood to derive from genetic origins, they may be perceived as more immutable, “natural,” and/or as something that “cannot be helped” (Stein, 1999). Such attributions concerning causation can subsequently affect individuals’ beliefs, attitudes and behaviors (Weiner, Perry, & Magnusson, 1988). Considering the potential social and psychological implications of framing homosexuality as something that is or is not caused by genes, it is necessary for more studies to focus on the public's etiologic beliefs. In addition, the field of bioethics has shown the importance of exploring potential dangers and benefits of discovering the genetic bases for many psychosocial phenomena; therefore, a focus on the public's understanding of the ramifications of genetic explanations for homosexuality will expand this important literature.
+
+In response to this need for further study, we present in this paper qualitative data addressing the following two main issues: (a) The public's beliefs about genetic and other potential origins of homosexuality; and (b) public opinion on the psychosocial benefits and dangers connected to discovering the potential genetic origins of homosexuality. We believe that the richness of qualitative data can help us gain important insights into respondents’ ideas and reasoning.
+
+Beliefs About the Origins of Homosexuality
+
+Ascribing the etiology of homosexuality to genetics implies that homosexuality is immutable and uncontrollable, and therefore is not a choice or “lifestyle.” Research has found that positive attitudes toward homosexuality are associated with the belief that its origins are biological, whereas negative attitudes are associated with the view that its origin is personal choice (Jayaratne, 2002; PEW Research Center, 2003; Schneider & Lewis, 1984; Whitley, 1990; Wood & Bartkowski, 2004). Because beliefs about the origins of homosexuality are strongly related to attitudes, it is likely that such beliefs will ultimately relate to social policy and behaviors.
+
+Scientists’ perspectives on the etiology of homosexuality
+
+The factors contributing to an individual's same-sex sexual orientation or sexual preference remain poorly understood. Even the use of general terminology in this field has underlying implications that suggest various assumptions about the etiologic bases. For instance, while the use of the term “sexual orientation” evokes, at best, a relatively neutral stance on etiology, there is no denying the subtle message inherent in the use of the term “sexual preference” to suggest that there is at least some degree of individual choice involved. Two major categories of scientific explanations have been proposed to explain the origins of homosexuality: (a) biological and (b) psychosocial.
+
+Biological theories focus on anatomical (Allen & Gorski, 1992; LeVay, 1991; Swaab & Hofman, 1990), hormonal (Blanchard, 2001; Brown, Fin, Cooke, & Breedlove, 2002; Mustanski, Chivers, & Bailey, 2002) and/or genetic factors (Bailey & Pillard, 1991; Hamer, Hu, Magnuson, Hu, & Pattatucci, 1993). Conclusions drawn from much of this research have been criticized due to problems with sampling bias, reliability of measures, generalizability, representativeness, controls, operationalization of variables and lack of replication (Banks & Gartrell, 1995; Billings, 1994; Byne & Parsons, 1993; De Cecco & Parker, 1995; Schüklenk, Stein, Kerin, & Byne, 1997; Stein, 1999). Furthermore, no single, specific gene has been implicated in an association with homosexuality to date, and researchers have been unable to identify linkages to any genetic region in lesbians (Veniegas & Conley, 2000). Findings from genetic studies of homosexuality in humans have been confusing—contradictory at worst and tantalizing at best—with no clear, strong, compelling evidence for a distinctly genetic basis for homosexuality (Byne, 1994; McGuire, 1995; Nuffield Council on Bioethics, 2001).
+
+In contrast, more psychologically- and sociologically-based studies investigate the roles of individual choice and decision-making, identity development, societal hierarchies, gender role stereotypes, role expectations and conformity in the etiology of homosexuality (Bem, 1996; Cass, 1979; Laumann, Gagnon, Michael, & Michaels, 1994; Peplau & Cochran, 1990; Troiden, 1984). Of the various theories offered to explain the origins of homosexuality, however, it is clear that no single account has won the favor of the scientific community.
+
+Public opinion on the etiology of homosexuality
+
+Despite ambiguity in existing scientific research, analysis of Gallup poll data demonstrates that the percentage of individuals expressing the belief that homosexuality is something people are “born with” more than tripled, from 13% in 1977 to 40% in 2001 (ReligiousTolerance.org, 2004). The percentage of those attributing homosexuality to environment or upbringing dropped from 56% in 1977 to 39% in 2001 (PEW Research Center, 2003; ReligiousTolerance.org, 2004). However, the Gallup polls have framed the question concerning the origins of homosexuality in terms of nature versus nurture, disregarding the possibility that the public believes choice plays a role (PEW Research Center, 2003). In 1985, a Los Angeles Times poll showed that most respondents (42%) believed homosexuality is a choice, whereas fewer believed that it is due to environmental factors (20%) or biology (20%). However, by 2004, the percentage of respondents citing choice (35%) or environment (14%) dropped, while the percentage citing biology increased to 32% (Roper Center, 2004). Although these data have shown historical shifts in the public's beliefs about the origins of homosexuality, data gathered from the different polls have been inconsistent and even slightly contradictory. Therefore, it is necessary to explore further the public's ideas concerning the origins of homosexuality by using an interview format that allows for the expression of all possible etiologic beliefs.
+
+Public Opinion on the Benefits and Dangers Connected to Discovering the Possible Genetic Origins of Homosexuality
+
+As genetic science advances and social policy decisions are made, the general public (as well as scientists themselves) need an awareness of how genetic explanations for human characteristics can be used to both help and harm individuals and societies. While genetic science can better humanity, the histories of genetics-based discrimination and eugenics practices cannot be forgotten or ignored. Bioethicists are greatly concerned with such issues and hope to educate the public concerning the pros and cons of advances in genetic science (Nuffield Council on Bioethics, 2001; President's Council on Bioethics, 2004). Therefore, it is important to gain a sense of the public's awareness of the potential psychosocial ramifications of discovering possible genetic origins for homosexuality.
+
+In some polls and studies of heterosexual people's attributions for homosexuality, it has been demonstrated that when individuals believe that homosexuality is a matter of personal choice, their attitudes toward gay men and lesbians tend to be more negative, whereas more positive attitudes toward gay men and lesbians are associated with attributing homosexuality to something people are “born with” (Schneider & Lewis, 1984; Whitley, 1990; Wood & Bartkowski, 2004). Weiner et al.'s (1988) research concerning people's attributions for psychosocial stigmas also found that attributing the cause of a social stigma to something believed to be uncontrollable and immutable (such as genetics) is related to more positive attitudes. A focus on genetic origins also serves to counter the assertions by religious fundamentalist groups that homosexuality is a chosen “sin” and is “unnatural.” These findings have led some individuals and groups to assume that identifying a genetic causal role for homosexuality will result in more tolerant attitudes, as well as social and legal gains for gays and lesbians. This assumption is anecdotally reflected in the adoption by many gay men and lesbians of the “I was born this way” assertion when advocating for legal and civil rights. It is unclear, however, if the general public has also considered these possible social, political and psychological benefits of discovering a genetic basis for homosexuality. The current study is a much-needed addition to research concerning this sociopolitical issue.
+
+While many believe that identifying a genetic basis for homosexuality may result in concrete gains for gay and lesbian rights, others remain more skeptical (Billings, 1994; Brookey, 2001; Burr, 1996a; Greenberg & Bailey, 1993; Haynes, 1995; Hegarty, 2002; Nardi, 1993; Wilcox, 2003). Similar to other minority populations, gay and lesbian people have been persecuted or considered deviant throughout history. Although homosexuality was no longer defined by the American Psychiatric Association (APA) as a psychiatric illness after 1973, discrimination against gay men and lesbians continues even in the face of the depathologization of homosexuality by some social institutions. The link between homosexuality and stigma seems quite resistant to attempts at normalizing gay and lesbian identity. It seems tenuous, therefore, to assert that the discovery of a genetic link for homosexuality would somehow “legitimate” gay and lesbian identity, or result in the eradication of societal discrimination against homosexual people, despite empirical evidence of an association between genetic explanations and tolerance toward gays and lesbians.
+
+History also demonstrates that establishing causal genetic links connected to stigmatized identities does not necessarily mitigate discrimination (Brookey, 2001; Brookey, 2002; Nardi, 1993). Rather, a genetic link to homosexuality may be interpreted by some as a genetic anomaly, flaw or defect that might someday be preventable or even “cured.” Indeed, the history of persecution of gay men and lesbians over the last 100 years includes the eugenics movement, which attempted to justify discrimination on the basis of perceived genetic inferiority. This movement culminated in Nazi Germany with the genocidal extermination of several populations deemed “subordinate” and “less desirable,” including gay men and lesbians (Black, 2003).
+
+Additionally, some current researchers still advocate positions somewhat reminiscent of eugenics arguments. A recent article by Bailey and Greenberg (2001), published in the Archives of Sexual Behavior, contains the following statement:
+
+Allowing parents, by means morally unproblematic in themselves, to select for heterosexuality would be morally acceptable. This is because allowing parents to select their children's sexual orientation would further parents’ freedom to raise the sort of children they wish to raise and because selection for heterosexuality may benefit parents and children and is unlikely to cause significant harm (from the Abstract).
+
+In light of these findings and assertions, and given that public opinion influences social policy, more systematic and extensive examination of these issues seems critical. Therefore, we also chose to investigate in this study whether the public has considered the psychosocial harm that could result from discovering a genetic basis for homosexuality.
+
+Sample and Procedure
+
+The current study is part of a larger study of the public's understanding of genetic science and the use of genetic explanations for several human behaviors and characteristics, including sexual orientation. The larger study consisted of a 40-minute structured interview with a national probability sample of 1200 White and Black respondents throughout the United States. This survey was conducted from January to June 2001. In order to gain a more complete understanding of how people think about some of these genetic issues, we conducted two separate follow-up interviews with small sub-samples of these respondents using a semi-structured instrument with many open-ended items. We selected respondents who were cooperative and attentive, showed good understanding of questions, and gave us permission during the structured survey to be re-interviewed. The criteria used to select the Black and the White respondents differed due to questions we wished to investigate in the larger survey; however, both subsamples consisted of respondents possessing a wide range of opinions concerning genetic attributions and who varied in terms of demographic characteristics. Participants were interviewed over the phone by professionally trained interviewers (Market Strategies, Inc., South Bend, IN) and all interviews were tape recorded and then transcribed for data analyses. The two sub-samples for this qualitative study consisted of 42 self-identified White respondents and 44 self-identified Black respondents. Table 1 presents the demographic information for both sub-samples.
+
+Demographic Characteristics of the Two Sub-Samples
+
+ High school diploma or less
+
+ Some college/Associate's degree
+
+ Bachelor's or advanced degree
+
+ Not very/not at all religious
+
+Open in a separate window
+
+Note: Frequencies reported within parentheses.
+
+Selection of White respondents
+
+Due to interest in the connection between racism and the use of genetic explanations in our larger study, we selected White respondents based partly on their answers in the structured survey to items measuring racist attitudes. In addition, we selected respondents based partly on their answers to questions about the possible genetic basis for perceived differences between Whites and Blacks in athleticism, violence and intelligence. Thus, the 42 White respondents were selected from the following four groups: (a) high use of genetic explanations/high racism (nmen = 5, nwomen = 6); (b) low use of genetic explanations/high racism (nmen = 5, nwomen = 6); (c) high use of genetic explanations/low racism (nmen = 6, nwomen = 4); and (d) low use of genetic explanations/low racism (nmen = 5, nwomen = 5). The interviews took place during March and April, 2002.
+
+Selection of Black respondents
+
+Black respondents were selected based on their views about (a) the possible genetic basis for perceived differences between men and women in violence and intelligence, and (b) the possible genetic differences between Whites and Blacks in athleticism, violence and intelligence. The sample was also stratified by gender of respondent. Therefore, the 44 respondents were represented from the following four groups: 1) male/high use of genetic explanations (n = 11), 2) male/low use of genetic explanations (n = 11), 3) female/high use of genetic explanations (n = 10), 4) female/low use of genetic explanations (n = 12). The interviews were conducted during May and June, 2002.
+
+Origins of homosexuality
+
+To measure participants’ ideas about the origins of homosexuality and whether they believed that homosexuality has a genetic basis, interviewers asked participants the following question: “Some people told us that homosexuality is due partly to someone's genes or genetic makeup. Others told us genetics has nothing to do with this. What do you think?” If respondents said they believed that homosexuality was either partly or totally genetic, interviewers asked participants to explain why they believed this. When respondents stated that they believed homosexuality is not genetic, the interviewers asked them why they believed it is not genetic. Respondents who did not initially give an answer regarding homosexuality's causes were asked, “What do you think homosexuality is due to?”
+
+Sources of information
+
+Because opinions are not generated within a vacuum and because sources of information can vary in their degree of accuracy and objectivity, we felt it was also important to examine sources of information the public uses to establish and justify their beliefs about the origins of homosexuality. Media, religious teachings, and individuals’ discussions with others, observations, and personal experiences are often used to form and justify their beliefs about homosexuality (Kaiser Family Foundation, 2001). For example, the media tends to distill scientific studies and present them to the public in a highly condensed form or invite “experts” to discuss their studies and findings, sometimes employing the use of scintillating covers or headlines such as “Born Gay: Science Finds a Genetic Link” (Time cover from July 26, 1993) or “Is This Child Gay?” (Newsweek cover from February 24, 1992). In terms of religious teachings, there are different religious views concerning the morality and acceptability of homosexuality. For instance, conservative religious groups often condemn homosexuality as “unnatural,” sinful, and willfully chosen by the individual and tend to argue against the idea that homosexuality has a genetic or biological basis (Herman, 1997; Pew Research Center, 2003). Regarding individuals’ interactions and observations, those who have personal contact with lesbians and gay men tend to hold more positive attitudes toward homosexuality (Herek, 1988; Herek & Capitanio, 1996; Herek & Glunt, 1993). However, such interactions and observations may also increase stereotyping and prejudice when they are biased and/or stereotyped. Research has shown that people often selectively attend to information that confirms their previously held beliefs (i.e., confirmation bias; Klayman & Ha, 1987) and tend to disregard information that contradicts their ideas (i.e., belief perseverance; Shafir & LeBoeuf, 2002).
+
+To assess where participants acquired their information regarding the origins of homosexuality, the interviewers asked respondents about the sources of information on which they had based their ideas. Specifically, if respondents stated that they believed homosexuality is genetic or partially genetic, the interviewers asked, “What have you seen or heard that has influenced your opinion that homosexuality is genetic [partially genetic]?” If respondents initially stated that they believed genes played no role in the etiology of homosexuality, the interviewers asked them, “What have you seen or heard that has influenced your opinion that homosexuality is not genetic?” Participants were also asked, “Have you had any personal experiences that influenced your opinion?” Interviewers probed for more specific information when necessary.
+
+How genetic information can help and harm people
+
+To investigate participants’ ideas about how information concerning a genetic basis for homosexuality could impact individuals and social systems in both beneficial and negative ways, interviewers posed two questions: (a) “If it were found that homosexuality is partly genetic, how do you think that information might be used to help people?” and (b) “If it were found that homosexuality is partly genetic, how do you think that information might be used to harm people?” Interviewers requested clarification when answers were ambiguous or incomplete.
+
+We categorized participants’ responses by using the technique of inductive content analysis, the procedural guidelines of which have been explained by research methodologists (e.g., Boyatzis, 1998; Patton, 1990). When participants gave more than one response to a question, we coded all their responses. Responses with similar meanings were combined into higher order themes. Two of the investigators conferred to reach consensus before moving to the next stage of analysis. Consensual validation is necessary to reduce researcher bias and to obtain the most accurate depiction of participants’ beliefs.
+
+Origins of homosexuality
+
+Participants first answered the question concerning their belief about the extent to which genes play a role in the etiology of homosexuality. We coded their answers into five categories: (a) genes are fully responsible; (b) genes are partly responsible; (c) genes play a role in some gay people but not in others; (d) genes are not at all responsible; (e) don't know.
+
+To gain a richer account of participants’ ideas about the etiology of homosexuality, we not only asked them whether genes play a role, but we also asked them to elaborate on why they believe what they do about the extent to which homosexuality is genetic. Their answers most often included a discussion of other potential causes of homosexuality. Thus, we were then able to code all their responses concerning the origins of homosexuality into four broad categories of causal influences: (a) Genetic/Biological, (b) Environmental, (c) Personal Choice, and (d) Other. Respondents’ answers could be coded into more than one category. Answers coded as Genetic/Biological contained terms related to biology and/or genetics or focused on physical aspects of the body. Responses coded as Environmental focused on external factors that impacted on gay men or lesbians, rather than biological factors or factors relating to individuals’ mental or motivational states. Answers coded as Personal Choice specifically referred to gay men's and lesbians’ personal desires, liking, and choices. Genes/biology, environment, and personal choice are the three main domains of causal explanations that have been investigated in previous research concerning ideas about the origins of homosexuality (PEW Research Center, 2003).
+
+Sources of information
+
+To investigate the sources of information participants used when developing their ideas about the origins of homosexuality, we coded their answers to the question concerning what factors had influenced their opinion. Sources of people's information included (a) gay family members, (b) gay friends, acquaintances, or co-workers, (c) non-gay family and friends, (d) personal experiences, (e) mass media, (f) scientific research, and (g) religious teachings.
+
+How genetic information can help and harm people
+
+We asked participants how it might help people if it were found that homosexuality is partly genetic. Categories that emerged when analyzing the data were the following: (a) increase heterosexuals’ tolerance, (b) show that homosexuality is not a choice, (c) help homosexuals accept themselves, (d) find a cure, (e) do genetic testing, (f) assist in family planning, (g) wouldn't be helpful, and (h) don't know. Participants’ answers to the question concerning how it might harm people if it were found that homosexuality is partly genetic were coded into the following thematic categories: (a) increase hate and discrimination, (b) change or eliminate a person's “homosexual genes,” (c) legitimize homosexuality, (d) increase family blame, (e) wouldn't be harmful, and (f) don't know.
+
+Intercoder reliabilities
+
+All responses to questions were coded by two members of the research team. When disagreements concerning the coding of particular cases occurred, decisions were made by consensus of the entire research team. Intercoder reliabilities (percentage of agreements) were calculated across the entire sample for each subcategory. Reliabilities ranged from 92% to 98% for the coding of genetic/biological, environmental, choice, and other influences on the origins of homosexuality. For the coding of sources of information the reliabilities ranged from 86% to 98%. Intercoder reliabilities were 86% for the questions concerning how discovering a genetic basis for homosexuality might help and harm people.
+
+RESULTS AND DISCUSSION
+
+Origins of Homosexuality
+
+In order to understand what our participants believe about the origins of homosexuality, we first asked them the question concerning whether they believe that genes play a role in homosexuality. As explained previously, we categorized their responses in terms of whether they said genes were responsible fully, partly, for some people, or not at all. Eight respondents gave answers that showed they believed that homosexuality is totally due to genes, 25 respondents believed that genes are at least partly the cause of homosexuality, 5 participants said that genes play a role for some people but not for others, and 43 respondents felt that genes play no role. The remaining participants stated that they did not know.
+
+To understand more fully participants’ beliefs concerning the different potential origins of homosexuality, we also coded their responses into the four broad areas explained previously: (a) genetic/biological; (b) environmental, (c) personal choice; and (d) other influences. Participants often gave multiple answers concerning the causes of homosexuality. Although many participants (n = 31) gave responses that fell into two or more of these four broad categories, some participants gave answers that fell into one and only one of the categories. For example, 17 individuals gave only genetic explanations. (Important to note, however, is that 9 of these 17 participants specifically stated that genes play a partial role in the origin of homosexuality, yet they only discussed the role of genetics and did not elaborate on other possible causes.) In addition, two respondents gave only other biological answers, 12 participants gave only environmental explanations, and 14 respondents gave only personal choice explanations. Additionally, 7 respondents stated that they did not know the cause of homosexuality.
+
+As stated previously, some respondents asserted that homosexuality is totally genetic:
+
+“I think it's genetic. You can't control your feelings. Those feelings happen and if those feelings are for someone of the same sex, well, there they are.” (White male, 39 years old, 1 year college)
+
+“I think it's genetic. I just think it happens to people...I don't think it's anything they really want.” (White male, 66 years old, 2 years of college)
+
+“Certainly with the stigma that's associated with being gay in this country, it's not something people would choose. To the extent that there are gays represented in the population also indicates that it is something that is genetic and inherent and not a lifestyle choice.” (White male, 48 years old, law degree)
+
+“I feel that you can look at a person and know, so to me that has to be genetic. It's not something you see [because of] a certain way they're treated. I think it's there.” (White female, 61 years old, high school degree)
+
+According to these individuals, homosexuality must be genetic because it cannot possibly be due to what they saw as the other possible cause—either choice or environment. In these cases, participants appeared to view the origins of homosexuality through the lens of either the nature vs. free will dichotomy or the nature vs. nurture dichotomy.
+
+Many respondents believed that genes are partly the cause of homosexuality, yet they expressed a variety of opinions regarding the degree of the genetic influence.
+
+“Yeah, [it has] a lot to do with it--very major factor.” (White male, 60 years old, vocational school degree)
+
+“There are genetic factors that can help to predisposition people to be more likely to be homosexual.” (White male, 47 years old, bachelor's degree)
+
+“It ain't too much about genes.” (Black male, 20 years old, one year of college)
+
+“I think genetics play a small part, a small part.” (Black male, 53 years old, 2 years of college)
+
+A few participants stated that they believe homosexuality could have a genetic basis in some gay people, but not in other gay people.
+
+“I think some are born and I think some are made.” (Black female, 71 years old, master's degree)
+
+“I think that sometimes it can be in your genes and then I think sometimes it's a life you live and the people you associate with.” (White female, 69 years old, education unknown)
+
+“I think that people can have the genes to be homosexual and then particular people just like to do it like that.” (Black female, unknown age, high school degree)
+
+These statements may indicate a more sophisticated view concerning the origins of homosexuality in that participants seem to recognize human complexity and individual differences. Scholars (Garnets & Peplau, 2000; Rosario, 1996; Stein, 1997; Whisman; 1996) have also pointed out the likely etiological variations for homosexuality depending on the individual.
+
+Finally, a large number of respondents stated that genes are not at all responsible for homosexuality, and instead other biological factors, the environment and/or choice are the causes. Their statements concerning the origins of homosexuality are included in the next sections of this paper.
+
+Other biological influences
+
+Other biological explanations besides genetics were given for the origin of homosexuality (10 responses). The brain, hormones, the blood, disease, and ambiguous genitalia were suggested as some of the possible biological causes.
+
+“It's a female brain inside of a male body, and vice versa with a lesbian.” (White male, 60 years old, vocational school)
+
+“It's something wrong with them—a brain defect or something.” (White male, 38 years old, high school degree)
+
+“It just has to be in the blood some type of way.” (Black female, 19 years old, high school degree)
+
+“I don't know if it's genetic, but it's a disease.” (White male, 38 years old, high school degree)
+
+Four respondents believed that the biological factor of ambiguous genitalia is homosexuality's cause. We investigate this possible conflation of biological sex and homosexuality in more detail in a later section of this paper.
+
+“We've seen studies where people may have been born with both genitalia.” (Black male, 45 years old, master's degree)
+
+“Part of their genitals are outside and they have to make a decision whether they're gonna be a boy or a girl at birth, so they did surgery and sometimes they didn't always make the right decision.” (White female, 52 years old, 1 year of college)
+
+Although all these responses clearly fall into the broader category of biological/genetic, it is unclear how to interpret these statements in terms of participants’ specific etiologic beliefs within this category. It may be that participants equated these biological factors with genetic factors, viewing all biology as ultimately stemming from genes. Importantly, however, even though we asked respondents about their belief in the possible genetic basis of homosexuality and about any other potential causes of homosexuality, few gave biological answers other than genetics. So, although the scientific community has investigated hormonal (Blanchard, 2001; Brown, Fin, Cooke, & Breedlove, 2002; Mustanski, Chivers, & Bailey, 2002) and neuroanatomical (Allen & Gorski, 1992; LeVay, 1991; Swaab & Hofman, 1990) factors in the etiology of homosexuality, the respondents very rarely viewed hormones (n = 1) or neurological structures (n = 2) as possible causes. This may reflect the public's (a) lack of awareness about hormonal and neurological studies, (b) lack of belief in the findings from such research, (c) extrapolation from hormonal and neurological data to other biological characteristics that were discussed, such as ambiguous genitalia, or (d) the inherent bias of our study as we did not specifically ask about belief in hormonal or neurological influences. Additional research is needed to further investigate the public's views about specific potential biological influences on homosexuality, such as hormonal profiles or brain anatomy.
+
+Environmental influences
+
+A variety of environmental causes were given by participants. To acquire a deeper understanding of the external influences participants believe contribute to homosexuality, we further coded environmental responses into the following categories: (a) upbringing, (b) lack of same-sex role models, (c) problems with the other gender/sex, (d) trauma, abuse or neglect, and (e) influence of homosexual others.
+
+Several respondents commented on the importance of one's upbringing (10 responses):
+
+“It's if you're raised in that environment and if you're taught that it was okay.” (Black female, 53 years old, high school degree)
+
+“The child got more attention, more care, or felt more comfortable with maybe their mother more than with their dad.” (Black male, 51 years old, one year of college)
+
+“When a child is young, they tend to be around a lot of women, and the women ways, they fall upon them.” (Black male, 33 years old, vocational school)
+
+“Because most of his siblings were girls, he tended to acquire what they were doing as opposed to engaging in what boys would engage in, and he just grew up with it.” (Black female, 54 years old, master's degree)
+
+Interestingly, many answers concerning the upbringing of homosexual individuals focused on the influence of females on young males. Thus, many respondents may have been thinking more of gay men than lesbians when responding to the questions about homosexuality, a phenomenon found in other research (Black & Stevenson, 1984; Haddock, Zanna, & Esses, 1993).
+
+Two respondents referred to a very specific aspect of upbringing: the lack of a male role model for gay men:
+
+“[He] wasn't accepted by his father and that had a lot to do with him being a homosexual.” (Black female, 25 years old, 2 years college)
+
+“He has the tendency to act female and prefer a male because he has no male figure in his life.” (Black female, 59 years old, 1 year of college)
+
+Such beliefs about the origin of homosexuality are consistent with the psychoanalytic view that gay men have cold, distant relationships with their fathers, a view unsupported by empirical research yet still circulating in society and upheld by some psychoanalytic theorists.
+
+Statements (7 responses) by several respondents reflected a belief that homosexuality is due to problems with the other gender:
+
+“Some people go through a certain experience that they just cannot cope with the opposite sex.” (Black male, 44 years old, 2 years college)
+
+“We played basketball with some girls who were homosexual and they said that was the reason why they started going with each other—because of the bad experiences that they had had with men.” (Black female, 50 years old, bachelor's degree)
+
+“They were tired of being treated bad by the opposite sex, so they would turn to the same sex.” (Black male, 28 years old, 10th grade education)
+
+Such comments relate to the heterosexist idea that lesbians just “need to find the right man” and gay men just “need to find the right woman.”
+
+Experiences of abuse or neglect were also cited (10 responses) as potential causes of homosexuality:
+
+“People I have known who have been homosexual or lesbian have come from families where there has been usually abuse, usually neglect.” (White male, 62 years old, 2 years of college)
+
+“I think a lot of time when people revert over to the same sex [it's] because they done been raped by a man or a woman.” (Black female, 53 years old, high school degree)
+
+“It was maybe an uncle molested one of the nephews and it started from there.” (Black female, 25 years old, master's degree)
+
+Despite the fact that few studies (e. g., Tomeo, Templer, Anderson, & Kotler, 2001) have investigated a possible relationship between abuse and the development of homosexuality, this causal relationship was a fairly common idea in our sample of respondents.
+
+In terms of the influence of homosexual others (14 responses), respondents asserted:
+
+“I have seen those in some homes—they're growing up around people that we feel or think is a homosexual.” (Black female, 45 years old, bachelor's degree)
+
+“It might be someone at a young age was approached by someone or introduced to it.” (White female, 47 years old, master's degree)
+
+One participant stated the following about incarcerated fathers who were presumed to be gay because they engaged in homosexual behaviors in prison:
+
+“Their child that comes to visit them, they altered their mind from birth to make them believing that this is all right, this is cool, and they turn these people into these homosexuals.” (White male, 54 years old, bachelor's degree)
+
+Thus, the influence of homosexual others was seen as either passive (growing up in their presence) or as active (introducing heterosexual individuals to homosexuality). Some of these comments are expressions of the belief that all gays and lesbians actively “recruit” young heterosexuals, a cultural myth that is often perpetuated by hate groups and some religious groups.
+
+Thirty-two responses by participants indicated a belief that homosexuality is at least partly a matter of choice. As several respondents concluded:
+
+“I think that's it's a lifestyle—it's something that they choose to do.” (White female, 64 years old, bachelor's degree)
+
+“I think some have tried this and it became a habit and they enjoyed it.” (Black female, 71 years old, master's degree)
+
+“It's just due to a person's own desire and lust of their own flesh.” (White male, 47 years old, 2 years college)
+
+“The men, I think it started from, it's like sports for them. It's like you want to find out what this is really about.” (Black male, 58 years old, law degree)
+
+The view that choice plays a role in homosexuality has also been found in research concerning the etiologic beliefs of lesbians and gay men about their own sexual orientation (Whisman, 1996). However, this causal attribution is not the most common in the gay community, with most gays and lesbians citing biological and environmental origins (Bidstrup, 2000).
+
+Interestingly, two participants suggested that while there may be a genetic predisposition toward homosexuality, it is still an individual's personal choice whether or not to acknowledge those feelings or act on them:
+
+“The way they choose to live their life is not genetic, but just the fact of being a homosexual I think is genetic.” (White female, 38 years old, bachelor's degree)
+
+“I feel that we all have some control over our destiny and our urges and our instincts—that they can be controlled.” (White male, 79 years old, bachelor's degree)
+
+These statements indicate that, in accordance with others’ views (e.g., Brookey, 2001; Byne & Stein, 1997; Greenberg & Bailey, 1993; Nardi, 1993), ascribing a genetic basis to homosexuality will not necessarily increase favorable attitudes towards gays and lesbians, because for some individuals “genetic” does not necessarily mean “uncontrollable.” As others (e.g., Byne & Stein, 1997; Weinrich, 1995) point out, there are different models of biological causation, so that genes can be seen as having a direct impact on the development of homosexuality or an indirect impact, with environmental and personality factors moderating biology's influence.
+
+Some respondents expressed other ideas about the origins of homosexuality that were nearly uniformly negative (9 responses):
+
+“I think, personally, people just got their life messed up.” (Black male, 49 years old,9th grade education)
+
+“Homosexual is a fixation that you receive, like an Oedipus complex or something.” (White female, 64 years old, bachelor's degree)
+
+“They're just being selfish and greedy—they use the genes as an excuse.” (Black female, unknown age, high school degree)
+
+Religion also surfaced in the discussion of the etiology of homosexuality with religious reasons given by three participants:
+
+“It's Satan's work,”(Black female, 58 years old, high school degree)
+
+“God determines sexuality,” (Black male, 38 years old, bachelor's degree)
+
+“It's something that the Lord has put upon you and you just have to bear that cross in your life.” (White female, 64 years old, bachelor's degree)
+
+These three answers concerning the perceived origins of homosexuality, although all drawing upon religious beliefs, differ greatly in terms of the specific religious source and the respondents’ subsequently positive or negative moral assessment of homosexuality. For instance, ascribing homosexuality to “Satan's work” makes it clear that homosexuality is seen as evil and against God's will. However, if homosexuality is considered a “cross to bear” that God has given, then that implies homosexuality is a punishment. The statement that “God determines sexuality” could again be construed that homosexuality is a punishment, but could also imply that it is just one of the many God-given features humans experience.
+
+Sources of Information about Homosexuality
+
+We sought to understand more about participants’ beliefs by also investigating the sources of their information. We asked if they had seen anything, heard anything, or had any personal experiences that had influenced their opinions about the causes of homosexuality. Once again, participants often gave multiple answers that fell into two or more categories.
+
+Family members, friends, acquaintances, or co-workers who are gay
+
+When we asked about the sources of their information, many respondents gave statements indicating that their beliefs regarding the origins of homosexuality had derived from gay family members (12 responses) or gay friends, acquaintances, or co-workers (52 responses). Participants’ responses were ambiguous about the amount and quality of their personal contact with the homosexual individuals they referred to. Therefore, we were unable to assess whether personal contact related to more positive attitudes, as other researchers have found (Herek, 1988; Herek & Capitanio, 1996; Herek & Glunt, 1993). One small differentiation we were able to make, however, was whether respondents had gained their information from talking with gay men and lesbians or from observing them.
+
+Some respondents gained their information from talking with homosexual individuals:
+
+“Well, I have a [gay] friend who told me, because I questioned him a lot about it.” (Black female, 25 years old, 2 years college).
+
+“A friend of mine is and I used to ask her, ‘Why aren't you attracted to boys?” (White female, 27 years old, bachelor's degree)
+
+“I've worked with a number of social workers who are gay and we've had some conversations about their lives and their feelings and things that they experienced in life.” (Black male, 54 years old, bachelor's degree)
+
+However, a more common source of information was merely knowing of or seeing someone presumed to be homosexual:
+
+“I've seen a child. A two- or three-year-old child that had the tendencies.” (Black female, 73 years old, some college)
+
+“You see people who look like they could be.” (White female, 64 years old, bachelor's degree)
+
+“He was homosexual and I noticed this when he was 5 years old.” (Black female, 71 years old, master's degree)
+
+“You can watch kids as they grow up and I've seen some kids that seemed like they were going to be a little, uh, soft, I guess I can put it that way.” (Black male, 24 years old, high school degree)
+
+Many of these instances concerning observations (and all of the statements above) had to do with the violations of gender role norms that presumably indicated the sexual orientation of the individual. This theme of counterstereotyped gender role behaviors surfaced many times, thus we investigate it in more depth in a later section of this paper.
+
+Non-gay family and friends
+
+Non-gay family and friends were mentioned 9 times as sources of information, reflected in the following statements:
+
+“My son and I were talking the other day and we were talking about a fellow who grew up with him that is now deceased—he was homosexual.” (Black female, 71 years old, master's degree)
+
+“My experience with most people [I've talked with] has been the opposite: I don't think most people believe that it's inherited or genetic.” (White male, 55 years old, bachelor's degree)
+
+Personal experiences
+
+Three responses concerned using general personal experiences as one's source of information about the etiology of homosexuality.
+
+“I was gonna just say just from some of the other things that I've seen. I haven't really read up on it.” (White female, 48 years old, 3 years of college)
+
+“Just life experience—my own intuition.” (White male, 39 years old, 1 year of college)
+
+The answers by many respondents (31 responses) indicated that they acquired their information about homosexuality from the mass media, such as television, radio, newspapers and magazines:
+
+“There's been shows on television about it and stuff like that that I have watched. And then a couple of articles that I've read.” (White female, 45 years old, 2 years of college)
+
+“Watching the Ricky Lake show and Sally Jesse Raphael, Montel Williams. Plus Jerry Springer. Also Maury Povich.” (Black female, unknown age, high school degree)
+
+“It was in the newspaper. In fact, I might have even heard it on the radio.” (White male, 60 years old, vocational school degree)
+
+“I have seen a lot of programs. In fact, I just watched a program last week, I think. Ted Koppell was in Roanoke, Virginia doing a program on homosexuals there.” (Black male, 62 years old, 2 years of college)
+
+These responses suggest that the media are, indeed, a common source of information about homosexuality, even if such media presentations are not necessarily scientifically-grounded or informed. Journalistic reports tend to be inadequate in their explanations of complex scientific phenomena (Murray, Schwartz, & Lichter, 2001; Nelkin, 1996), and such media presentations can mislead the public, who rarely have the knowledge base necessary for critically evaluating media accounts of scientific research (Conrad, 1997). Media coverage of research concerning the etiology of homosexuality has been particularly contradictory and dramatic (Wilcox, 2003).
+
+Some participants (8 responses) credited specific scientific research, yet when they did, they sometimes showed confusion about the scientific findings.
+
+“I can reflect upon a couple psychology classes in college. The guy, Jung, who was opposed to Freud's theory, was an authoritarian on that.” (Black male, 51 years old, associate's degree)
+
+In this statement the participant implies that Carl Jung was an authority on the etiology of homosexuality, even though Jung's ideas were never empirically tested and are controversial within the psychological community (McGowan, 1994; von Raffay & Slotkin, 2000).
+
+Religious teachings (10 responses) were also cited as a source of information about the etiology of homosexuality.
+
+“I do read and study the Bible a lot and I know what the Bible says about it.” (White male, 47 years old, 2 years of college)
+
+“I am a firm believer in the word of God.” (Black female, 50 years old, bachelor's degree)
+
+“It's against God's will.” (White female, 21 years old, associate's degree)
+
+We noticed that many participants (n = 21) mentioned religion not only when explaining the source of their information, but also when justifying their answers and in the course of merely discussing the issue of homosexuality. Because religious views have been shown to play a large role in beliefs about and attitudes toward homosexuality (PEW Research Center, 2003), we chose to investigate responses concerning religion in more detail.
+
+One respondent, after being asked the first survey question, declared:
+
+“I think they all got to go to Alcatraz and just live happily ever after. Well, what was so funny, that Sunday morning my pastor said it the very same way.” (White female, 58 years old, vocational school)
+
+Here, the respondent drew upon a recent conversation with a religious leader seemingly in order to justify the appropriateness of her beliefs concerning gays and lesbians that she expanded upon throughout the interview. However, many individuals who mentioned religion (n = 14) used it to justify their belief that homosexuality has nothing to do with genes, but instead is due to choice and/or environmental factors:
+
+“I understand it from the Bible it is not natural.” (Black male, 59 years old, bachelor's degree)
+
+“I know that it's a sin to be anything but a male and a female, straight.” (Black female, 53 years old, high school degree)
+
+“Man was created in God's image, and therefore a sexual preference for the same sex is not a natural act and it is a choice.” (White male, 31 years old, associate's degree)
+
+“I don't know if you know any verses of the Bible, but I'll tell you it's serious against anybody choosing to be homosexual.” (White male, 30 years old, associate's degree)
+
+Thus, religious beliefs were most often used by participants to refute the possibility that biology plays a role in sexual orientation, and instead to assert that individual choice is a cause of homosexuality. Such attributions are consistent with being morally opposed to homosexuality, because ascribing homosexuality to choice (rather than to genes or environment) moves it into the moral domain. After all, immorality can only occur when there is volition.
+
+Additional Themes that Emerged
+
+Possible conflation of sex, gender, gender identity, gender roles, and sexual orientation
+
+A theme that emerged as we investigated the data was respondents’ possible conflation of the concepts of biological sex, gender, gender identity, gender roles, and sexual orientation. Biological sex usually is determined by the appearance of the external genitalia and internal genital structures, along with chromosomal and hormonal patterns (Byne & Sekaer, 2004), whereas gender is the societal construction of “maleness” and “femaleness” and is not limited to biological sex (emedicine.com, 2004). Gender identity is one's personal sense of being “male” or “female” and may or may not be related to biological sex or to gender, but usually is (emedicine.com, 2004). Gender roles are those behaviors, characteristics, customs and roles in a society that are considered “feminine” (i.e., appropriate for females) and those considered “masculine” (i.e., appropriate for males). They are socially prescribed and can change over time (emedicine.com, 2004). A homosexual sexual orientation is generally defined as sexual attraction to same-sex individuals. Possible conflation of these concepts occurred when participants discussed both the potential origins of homosexuality and the sources of their information.
+
+Twenty-six participants made statements that revealed potential confusion about the difference between sex or gender and sexual orientation. For example, one participant asserted:
+
+“It might come down to the fact that there's four different sexes in the human race: Heterosexual women, homosexual women, heterosexual men, homosexual men.” (White female, 47 years old, bachelor's degree)
+
+In addition, respondents often demonstrated this possible conflation of sexual orientation with sex or gender by suggesting that a homosexual individual has the genes of the “other sex” or that, as discussed previously, ambiguous genitalia is the cause of homosexuality.
+
+“A lot of it's been because they were operated on and made the wrong sex.” (White female, 58 years old, 11th grade education)
+
+“Maybe you inherited more female genes and it's actually pulling you toward that kind of thing.” (Black male, 21 years old, 11th grade education)
+
+“It goes back to genes, when they carry their extra gene for that of a man or that of a woman.” (Black male, 53 years old, 2 years college)
+
+“You've got so many X and Y chromosomes and I think you get more of one chromosome when it's a homosexuality person.” (White female, 27 years old, bachelor's degree)
+
+“If it were a girl, she might be born with more of a penis than the vagina.” (Black female, 54 years old, master's degree)
+
+“They used to have circuses come to town and they'd say it was a half man, half woman. They told me that it meant that they were either a homo or a lesbian.” (White female, 83 years old, bachelor's degree)
+
+Here, the respondents may be referring to intersex individuals, a population who have gained public attention since 1997 due to media reports about the “John/Joan” case (Colapinto, 1997) and to other forms of media information (e.g., Eugenides, 2002; Gorman & Cole, 2004). However, these respondents’ comments also indicate that they may be equating intersexuality with homosexuality. Therefore, they seem to believe that homosexuality is most often (or perhaps even always) associated with some sort of intersex condition, a belief that is woefully inaccurate.
+
+Seven respondents demonstrated confusion about the differences between gender identity and sexual orientation. Their statements indicated a belief that homosexuality for all or many gay men and lesbians has to do with wanting to be the other sex or gender.
+
+“They have to inherit a set of genes that makes them feel that they should be the opposite sex.” (White male, 62 years old, master's degree)
+
+“They knew that they wanted to be the opposite sex although they weren't born that way.” (Black female, 41 years old, master's degree)
+
+“He was a boy all his young life, but he was feeling like he was a girl and he felt better as being a girl than he was a boy.” (Black female, 53 years old, high school degree)
+
+Many participants (n = 27) conflated the construct of gender roles with sexual orientation. For example, as two participants explained:
+
+“Guys would be real, real feminine acting when they were little and the girls would be masculine acting and they grew up that way.” (White female, 27 years old, bachelor's degree)
+
+“Maybe they have more female tendencies, or male, whichever.” (White female 52 years old, 1 year of college)
+
+In particular, however, males exhibiting stereotyped feminine behaviors were most often cited as examples of gender role nonconformity (21 responses). It may be, then, that some of these participants have an awareness of research (e.g., Bailey & Zucker, 1995; Green, 1987) that has demonstrated a connection between gender role nonconformity in boyhood and later homosexuality in adult men. However, it also may be that respondents are merely using stereotypes to substantiate their beliefs, so that they view the violation of gender norms as a proxy for homosexuality.
+
+“If it is a male and they have more female tendencies than they do male tendencies, I guess that would give them an excuse to say that is why they act so feminine and do what they do.” (Black female, 50 years old, bachelor's degree)
+
+“The gay men that I know are so gay that they act exactly like a female towards a male.” (White male, 60 years old, vocational school)
+
+“Most of his siblings were girls. He tended to acquire what they were doing as opposed to engaging in what boys would engage in and he just grew up with that.” (Black female, 54 years old, master's degree)
+
+“There is so many feminine characteristics in him that he had to have been born with these. There's no way he would want to talk like that or walk like that.” (White female, 48 years old, 3 years of college)
+
+As discussed previously, such gender role stereotypes were often cited as examples of how the environment can supposedly cause homosexuality, such as when a boy is raised around many girls and thus adopts their female behaviors. One respondent relayed a detailed story about a father who didn't take his son fishing, to the lumberyard, or to the hardware store to buy nails, but instead left the boy in the care of the mother, who taught the boy to bake cookies and pies. The conclusion of the story was:
+
+“Her husband made her son a homo because he didn't teach the boy the boy things that the boy should have known.” (White female, 83 years old, bachelor's degree)
+
+As mentioned before, when respondents were asked about homosexuality they tended to give examples of gay men rather than lesbians, especially when citing gender role violations. As others (Herek, 2002; Kite & Deaux, 1987) have pointed out, gender role “inversion” and homosexuality are often equated, especially for gay men. Importantly, research has also shown that individuals who possess negative attitudes toward gender role inversion have more negative attitudes toward lesbians and gay men (Kerns & Fine, 1994; Whitley, 2001).
+
+A second important theme that surfaced in the interviews was participants’ (n = 42) use of family lineage examples to explain their beliefs about homosexuality. Such examples appeared at various points in the interviews as respondents sifted through their ideas and tried to explain their reasoning. For most of these respondents who mentioned family lineage, when they cited an example in which only one homosexual individual was present in a family, they then concluded that homosexuality is likely not genetic. Respondents believing that genes play no role stated:
+
+“I have an uncle that's homosexual, and it couldn't have been passed down through the genes because no one else in my family is homosexual.” (Black male, 33 years old, vocational school)
+
+“Seems like if he got it from his genes, he'd have a homosexual in his family's background.” (White male, 38 years old, high school degree)
+
+“I have eight sisters and one brother and she's the only that's gay. So, I really don't think genetics have anything to do with it.” (Black female, 58 years old, high school degree)
+
+“To be honest, there's one in my family and I don't know where it came from.” (White female, 66 years old, high school degree)
+
+“I would think that if it was genetic, he would've got it from someone else in his family, right? But no one in his family is gay.” (Black male, 37 years old, 2 years of college)
+
+If, however, respondents mentioned more than one person in a family who was homosexual, they used this information to substantiate their belief that genes do indeed play a role. Participants citing a genetic basis for homosexuality explained:
+
+“I've had some acquaintances who have had not one, but two children who have become homosexual. More than one in the family.” (White female, 58, master's degree)
+
+“Well, I know of some families, it might skip the generation. But like one family I know, there is like maybe five homosexuals in the family.” (Black female, 25 years old, master's degree)
+
+“I have seen it in a family where there's more than one case in a family.” (White female, 69 years old, education unknown)
+
+Thus, participants’ insufficient understanding of genetic mechanisms seemed to contribute to their use of simplistic reasoning concerning heritability and to a reliance on observable manifestations presumed to be genetic. These findings are consistent with research concerning the public's limited understanding of genetic science (Lanie et al., 2004; Richards, 1996; Richards & Ponder, 1996) and point to the need for increased education in this area.
+
+How Information That Homosexuality Is Partly Genetic Could Be Used to Help People
+
+When asked how it could help people if it were discovered that homosexuality has a genetic basis, 11 participants said they did not know how such information could be helpful and 15 participants asserted that there would be nothing helpful about finding out that homosexuality is partly genetic. However, most respondents gave answers that reflected their belief in the benefits of this information.
+
+Increase heterosexuals’ tolerance
+
+Most statements (29 responses) from participants contained the idea that the information could be used to educate heterosexual people and help them to be more accepting and tolerant. Examples of these ideas are the following:
+
+“It might help people accept homosexuals rather than try and change them into heterosexuals.” (White female, 47 years old, bachelor's degree)
+
+“Maybe it would help the family to come to deal with it better.” (White female, 37 years old, associate's degree)
+
+“Maybe people who object to homosexuality, maybe their eyes could be opened: ‘Okay, we just thought this was something that was learned instead of already instilled in them or they were born with it.” (Black female, 44 years old, associate's degree)
+
+“If it can be established that it is to a certain degree genetic, people will stop thinking that every gay or lesbian has been molested as a child or is warped, and [instead] can see it as it is.” (White male, 19 years old, high school degree)
+
+Show that homosexuality is not a choice
+
+Similar to the previous category of responses is the view by five participants that the genetic information would make it clear that homosexuality is not a choice.
+
+“ It would demonstrate that homosexuality is not totally a choice.” (White male, 57 years old, doctorate degree)
+
+“To maybe open the minds of people who consider it a chosen behavior that's against God.” (White female, 38 years old, bachelor's degree)
+
+Help homosexuals accept themselves
+
+A separate category related to the idea of increasing tolerance was that the information will help homosexual individuals come to terms with their own sexuality and not feel ashamed (7 responses).
+
+“I think the person themselves would feel better about themselves—they knew it was out of their control.” (White male, 62 years old, 2 years of college)
+
+“It would especially help people who feel about their own sexual orientation that it's wrong.” (White male, 57 years old, doctorate degree)
+
+Most of these responses concerning the use of genetic science to increase tolerance and acceptance implied that the key issue would be that homosexuality is not a personal choice and therefore that homosexual individuals cannot be held responsible, blamed, or shunned for their sexual orientation. This stance has also been taken by many gay and lesbian activists who believe that finding a genetic (and therefore supposedly immutable) cause for homosexuality will result in more tolerance and in the same legal and political protections that racial minorities currently possess. However, others (Byne & Stein, 1997; Rosario, 1996; Whisman, 1996) assert that finding a genetic basis for homosexuality will not necessarily lead to political or social tolerance and protections, but instead may result in gays and lesbians being seen as genetically inferior or defective, a biological view consistent with the eugenics movement. In fact, the following category of responses demonstrates that the fear of eugenics beliefs is not unfounded.
+
+In total contrast to responses having to do with increasing tolerance and acceptance, 18 responses from participants focused upon finding a cure for homosexuality and changing the individual.
+
+“If they could harness that gene and cut it out, it may help people because I've heard again, on the news and talk shows mainly, that gay people do not like being gay because they are hated.” (White female, 26 years old, high school degree)
+
+“Maybe we should clone people so that we can get rid of people who have homosexuality in their genes.” (Black male, 58 years old, law degree)
+
+“If that was detected and they could just straighten somebody out, that'd be good.” (White male, 44 years old, bachelor's degree)
+
+“I guess if they wanted people not to be, they could remove the genes that cause it.” (White female, 37 years old, high school degree)
+
+“Well, as far as I'm concerned, it'd be good to correct whatever the problem is in the gene and have all straight people.” (White female, 61 years old, high school degree)
+
+In addition, two categories of responses, Do Genetic Testing (4 responses), and Assist in Family Planning (3 responses), indicated that homosexuality was viewed as undesirable and to be avoided:
+
+“It might help some other people in making their decision as to whether or not they want to be parents.” (Black female, 41 years old, master's degree)
+
+“You could have people check before they had children if that's something they wanted to avoid.” (Black female, 58 years old, high school degree)
+
+In support of others’ assertions (Brookey, 2001; Greenberg & Bailey, 1993; Hegarty, 2002; Nardi, 1993; Whisman, 1996; Wilcox, 2004), these responses make it evident that the discovery of genetic causes for homosexuality may make little difference to some individuals in terms of their acceptance of it. Instead, these respondents asserted that getting rid of homosexuality is what would be helpful about identifying its genetic basis. Thus, our findings lend support to scholars’ (e. g., Gould, 1997; Whisman, 1996) concern that the discovery of a genetic basis for homosexuality may lead not only to discrimination, but also to selective abortion, forced sterilization, gene therapy, and other eugenics practices. Indeed, some (e. g., Burr, 1996b) have discussed how “beneficial” it would be for homosexuality to be due to genetics (rather than choice or environment), because the technology may soon exist to change people's genes.
+
+As demonstrated in the next section of this paper, statements about changing or removing genes were also made, by other participants, when discussing the harm that could result from genetic markers. Clearly then, ideas about the benefits and problems associated with finding a genetic basis for homosexuality likely depend on people's personal biases and prejudices and cannot be separated from these preconceived notions (Brookey, 2000; Hegarty, 2002; Herrn, 1995; Stein, 1994).
+
+How Information That Homosexuality Is Partly Genetic Could Be Used to Harm People
+
+Although 10 participants did not know how information about the genetic cause of homosexuality could be used to harm people and 12 respondents believed that there would be nothing harmful about such knowledge, most participants gave specific examples of how such genetic information could be harmful.
+
+Increase hate and discrimination
+
+Many respondents expressed concern that the information could be used to increase hate and discrimination (21 responses).
+
+“If employers have access to some kind of genetic profile and use it to discriminate.” (White female, 38 years old, bachelor's degree)
+
+“It just adds fuel to the fire and it would just stereotype gays more.” (Black male, 37 years old, 2 years of college)
+
+“Some parents might disown their children—they would know at an early stage that they are going to be homosexual and they will have nothing to do with them.” (Black female, 19 years old, high school degree)
+
+“I'll use the leprosy thing: They're going to put people on an island and separate them.” (White female, 45 years old, 2 years of college)
+
+“If it could be medically or genetically determined if someone's predisposed to homosexuality, it could affect military service. It could also affect employers. People could be discriminated against because of their record.” (White male, 55 years old, bachelor's degree)
+
+Many of these respondents recognized that some sort of genetic “marker” could serve to increase discrimination if prejudiced individuals were allowed access to this genetic information. As stated previously, these ideas are in accordance with the views of many researchers and gay and lesbian activists (Byne & Stein, 1997; Rosario, 1996; Whisman, 1996), who cite the histories of racism in numerous societies as examples of genetics-based discrimination.
+
+Change or eliminate a person's genes
+
+Thirteen responses were about harming individuals by changing or eliminating their genes. For example, respondents described these possible scenarios:
+
+“If somebody is really anti gay people, they probably could do genetic testing and weed them out as far as a pool of hiring people or what types should be in our society. And do a Nazi thing to get rid of them.” (White female, 52 years old, 1 year of college)
+
+“I guess some wackos could start killing their children.” (White male, 19 years old, high school degree)
+
+“If there is a specific gene, a specific marker, people might do the amniocentesis to make sure their baby is going to be heterosexual. And again, if it's homosexual, they might abort it, which is a shame because it's the way nature intended it.” (White female, 47 years old, bachelor's degree)
+
+In contrast, one individual proposed the idea:
+
+“If you want to do evil to someone, you want to make sure a particular race or a particular family all go homosexual, then you can plant genes in them.” (Black male, 58 years old, law degree)
+
+These comments demonstrate that individuals have different ideas about the method of harm and the object of harm. Participants suggested that a genetic basis for homosexuality could be harmful to both homosexual individuals (who would be either aborted, weeded out, or changed) and heterosexual individuals (who could be “inflicted” with homosexuality, as though it is a disease). It is also important to remember that several participants stated that aborting, changing, or weeding out homosexual individuals would be a way that genetic information could be used to help people. As stated previously, how individuals use genetic information will likely depend on their personal biases and agendas (Brookey, 2000; Council for Responsible Genetics, 2004; Herrn, 1995; Veniegas & Conley, 2000).
+
+Legitimize homosexuality
+
+Negative attitudes toward homosexuality contributed to other responses, as well. Some respondents (7 responses) believed that discovering a genetic basis for homosexuality would do harm to individuals in that it would legitimize homosexuality.
+
+“It would harm them in the sense that it would be viewed as an okay lifestyle.” (White male, 31 years old, associate's degree)
+
+“It probably could promote more homosexuality.” (Black male, 45 years old, 2 years college)
+
+“If it were proven to be genetic, they would have no motivation to give up the practice.” (White male, 79 years old, bachelor's degree)
+
+The implication here is that if one views homosexuality as a choice that a person has control over, then one can denounce such behavior (and the person exhibiting the behavior) as wrong or immoral. However, a genetic basis for homosexuality may take away individual choice and control, thus reducing stigma and blame. Such a relationship between causal attributions and attitudes was also found by Weiner et al. (1988) who showed that when participants believed that a person with a stigma had no control over that stigma, their attitudes toward that person were more positive than when they believed the person did have control over the stigma.
+
+Increase family blame
+
+Increasing family blame was another category of answers (7 responses):
+
+“They might even use the information to blame the parents.” (Black female, 73 years old, some college)
+
+“The person might go back to someone in the their family and say ‘I am the way I am because of you’ or something like that.” (White female, 47 years old, master's degree)
+
+“They find out someone is gay and it's going to be a full throttle attack on anyone that is related to this person.” (White female, 21 years old, associate's degree)
+
+“They could be isolated like shorn sheep in terms of the fact that others would say it goes down through the family—that they all must be tainted with it.” (White male, 62 years old, 2 years of college)
+
+Several of these statements suggest that a genetic basis for homosexuality implies its heritability, so that all individuals genetically related to someone who is homosexual would carry “undesirable” genes and thus would be ostracized for possessing such a “defect.”
+
+The breadth of responses captured in our survey highlights the fact that Americans have diverse opinions about the basis for homosexuality that incorporate, but extend far beyond, commonly discussed nature and nurture perspectives or genes versus choice arguments. Interestingly, despite the fact that the etiological factors contributing to sexual orientation are not understood by biological scientists, psychologists, or other scholars, few respondents stated that they did not know or understand the basis of homosexuality. In fact, the vast majority of our respondents were readily able to articulate their views on the etiology of homosexuality and point to specific examples or sources supporting their opinions. Similar to other studies, we found that some individuals’ beliefs about the origins of homosexuality were rooted entirely within the broad categories of biological, environmental, choice or other specific factors such as those stemming from religious beliefs. The open-ended, exploratory nature of our study, however, allowed us to better appreciate the rich complexity of our respondents’ views as respondents often suggested that multiple causal factors from more than one broad category contributed to homosexuality. A few even suggested etiological heterogeneity, noting that different causes might be important factors for different gay and lesbian individuals. This illustrates that some respondents likely recognized the complex basis of sexual orientation and were aware that the interaction of several variables likely impacts whether or not any particular individual is homosexual.
+
+At the same time, however, many comments reflected a limited awareness about this multifactorial complexity or demonstrated that participants were swayed by their biases to reject perspectives that conflicted with their moral framework or limited understanding. For instance, those who provided a conservative religious perspective as the sole contributing factor seemed less likely to consider biological contributions or account for environmental influences. In addition, many individuals, no matter what their etiological perspectives, used a simplistic understanding of inheritance and/or an inaccurate understanding of genetic or other biological concepts to support their views. We also found that many respondents substantiated their beliefs by associating homosexuality with a deviation from normal biological sexual differentiation and/or from stereotypical societal gender role norms. Again, such views demonstrate a lack of understanding, in that the lines are blurred between the different conceptual areas of biological sex, gender, gender roles, and sexuality. Nearly all of our respondents, who collectively embraced a wide range of beliefs on the origins of homosexuality, were easily able to state their beliefs and provide insights, often peppered with specific examples or experiences, regarding support for the foundation of their beliefs. Few, however, reflected on how their own biases, such as their moral framework or lack of scientific knowledge in this area, might cloud their understanding of homosexuality.
+
+As with their etiological beliefs, we found that participants’ perspectives on how genetic knowledge might benefit or harm individuals and society were diverse. Even respondents’ concepts of what would be considered “helpful” versus what would be considered “harmful” to homosexuals varied significantly. For instance, although several respondents suggested that increased genetic knowledge about homosexuality would somehow increase societal and/or individuals’ acceptance of homosexuality, some believed that such a shift in perspectives would be a helpful outcome whereas others viewed this same outcome as harmful. Similarly, some participants noted the possibility of genetic engineering to eradicate homosexuality as being a harmful potential outcome of increased genetic knowledge, whereas others suggested that such an outcome would be favorable. Given this, it is difficult to predict the potential impact any future genetic discoveries will have on the lives of gay and lesbian individuals, especially related to changes in public policies related to adoption, marriage, and discrimination law. It is clearly suggested from these results, however, that people with highly polar views on issues surrounding homosexuality will certainly look for, and easily find, ways to use any new genetic insights that emerge on its etiology to support the moral and sociopolitical agendas most congruent with their views. Given the responses here, it seems highly unlikely that increased genetic information about homosexuality alone would be sufficient or compelling enough to shift any major policy changes given the diverse moral frameworks that make up the multicultural fabric of our American society.
+
+In summary, we found that genetic concepts, as understood by the respondents, could be used to support very diverse opinions, including those suggesting negative eugenic agendas in 21st century America. This suggests that significant caution is needed as we seek genetic mechanisms underlying complex human traits, especially those of an oppressed minority population. Although we selected respondents from a larger survey in an effort to explore a broad range of opinions, our study is limited by its sample size and selectivity of respondents. Because of this, we did not attempt to draw specific conclusions relative to any particular subgroup of our respondents or examine differences based on such characteristics as gender, race, age, or religiosity, despite some trends that we observed in the data (e.g., Black respondents offering more environmental causes for homosexuality than Whites). Our results demonstrate, however, that further studies are needed to explore these and other relationships in larger random samples to better understand the critically important implications genetic advances in our understanding of homosexuality may have on individuals and society.
+
+This study was funded by a grant awarded to Toby Jayaratne from the Ethical, Legal, and Social Implications Research Program at the National Human Genome Research Institute (NIH – grant #R01 HG01881. We appreciate additional support from the Institute for Research on Women and Gender, the Office of the Vice President for Research, and the Life Science, Values and Society Program at the University of Michigan, Ann Arbor.
+
+We acknowledge the assistance of Jennifer Yim and Jennifer Hurlburt and the staff and interviewers at Market Strategies, Inc., Livonia, Michigan. We also thank the participants in this study who so generously gave us their opinions about genetic issues.
+
+Contributor Information
+
+Jane P. Sheldon, University of Michigan-Dearborn.
+
+Carla A. Pfeffer, Joint Doctoral Program in Social Work and Sociology at the University of Michigan.
+
+Toby Epstein Jayaratne, Institute for Research on Women and Gender at the University of Michigan.
+
+Merle Feldbaum, Institute for Research on Women and Gender at the University of Michigan.
+
+Elizabeth M. Petty, Internal Medicine and Human Genetics at the University of Michigan School of Medicine.
+
+Allen LS, Gorski RA. Sexual orientation and the size of the anterior commissure in the human brain. Proceedings of the National Academy of Sciences. 1992;89:7199–7202. [PMC free article] [PubMed] [Google Scholar]
+
+Bailey JM, Greenberg AS. Parental selection of children's sexual orientation. Archives of Sexual Behavior. 2001;30:423–437. [PubMed] [Google Scholar]
+
+Bailey JM. Biological perspectives on sexual orientation. In: D'Augelli AR, Patterson C, editors. Lesbian, gay, and bisexual identities over the lifespan: Psychological perspectives. Oxford University Press; New York: 1995. pp. 102–135. [Google Scholar]
+
+Bailey JM, Pillard RC. A genetic study of male sexual orientation. Archives of General Psychiatry. 1991;48:1089–1096. [PubMed] [Google Scholar]
+
+Bailey JM, Pillard RC, Neale MC, Agyei Y. Heritable factors influence sexual orientation in women. Archives of General Psychiatry. 1993;50:217–223. [PubMed] [Google Scholar]
+
+Bailey JM, Zucker KJ. Childhood sex-typed behavior and sexual orientation: A conceptual analysis and quantitative review. Developmental Psychology. 1995;31:43–55. [Google Scholar]
+
+Banks A, Gartrell NK. Hormones and sexual orientation: A questionable link. Journal of Homosexuality: Special Issue: Sex, Cells, and Same-Sex Desire: The Biology of Sexual Preference. 1995;28:169–182. [PubMed] [Google Scholar]
+
+Bem DJ. Exotic becomes erotic: A developmental theory of sexual orientation. Psychological Review. 1996;103:320–335. [Google Scholar]
+
+Bidstrup S. [July 6, 2004];My child is GAY! Now what do I do? 2000 from http://www.lambda.org.
+
+Billings P. Genetic discrimination and behavioral genetics: The analysis of sexual orientation. In: Fujiki N, Macer DRJ, editors. Intractable neurological disorders, human genome research and society. Proceedings of the Third International Bioethics Seminar in Fukui. Eubios Ethics Institute; Christchurch, N.Z.: 1994. pp. 19–21. [Google Scholar]
+
+Black E. War against the weak: Eugenics and America's campaign to create a master race. Four Walls Eight Windows; New York: 2003. [Google Scholar]
+
+Black KN, Stevenson MR. The relationship of self-reported sex-role characteristics and attitudes toward homosexuality. Journal of Homosexuality. 1984;10:83–93. [PubMed] [Google Scholar]
+
+Blanchard R. Fraternal birth order and the maternal immune hypothesis of male homosexuality. Hormones and Behavior. 2001;40:105–114. [PubMed] [Google Scholar]
+
+Boyatzis RE. Transforming qualitative information: Thematic analysis and code development. Sage; Thousand Oaks, CA: 1998. [Google Scholar]
+
+Brookey RA. Saints or sinners: Sociobiological theories of male homosexuality. International Journal of Sexuality & Gender Studies. 2000;5:37–58. [Google Scholar]
+
+Brookey RA. Bio-rhetoric, background beliefs and the biology of homosexuality. Argumentation and Advocacy. 2001;37:171–183. [Google Scholar]
+
+Brookey RA. Reinventing the male homosexual. Indiana University Press; Bloomington, IN: 2002. [Google Scholar]
+
+Brown WM, Fin CJ, Cooke BM, Breedlove SM. Differences in finger length ratios between self-identified “butch” and “femme” lesbians. Archives of Sexual Behavior. 2002;31:123–127. [PubMed] [Google Scholar]
+
+Burr C. A separate creation: The search for the biological origins of sexual orientation. Hyperion Press; New York: 1996a. [Google Scholar]
+
+Burr C. Why conservatives should embrace the gay gene. The Weekly Standard. 1996b Dec 16;:22–26. [Google Scholar]
+
+Byne W. The biological evidence challenged. Scientific American. 1994;270:50–55. [PubMed] [Google Scholar]
+
+Byne W, Parsons B. Human sexual orientation: The biologic theories reappraised. Archives of General Psychiatry. 1993;50:228–239. [PubMed] [Google Scholar]
+
+Byne W, Sekaer C. The question of psychosexual neutrality at birth. In: Legato M, editor. Principles of gender specific medicine. Elsevier Science; San Diego, CA: 2004. pp. 155–166. [Google Scholar]
+
+Byne W, Stein E. Varieties of biological explanation. The Harvard Gay & Lesbian Review. 1997;4:13–15. [Google Scholar]
+
+Cass CV. Homosexual identity formation: A theoretical model. Journal of Homosexuality. 1979;4:219–235. [PubMed] [Google Scholar]
+
+Colapinto J. The true story of John/Joan. Rolling Stone. 1997 Dec;:54–58. 60, 62, 64, 66, 68, 70, 72–73, 92, 94–97. [Google Scholar]
+
+Conrad P. Public eyes and private genes: Historical frames, news constructions, and social problems. Social Problems. 1997;44:139–154. [Google Scholar]
+
+Council for Responsible Genetics [May 28, 2004];Do genes determine our sexuality? 2004 from http://www.gene-watch.org.
+
+De Cecco JP, Parker DA. The biology of homosexuality: Sexual orientation or sexual preference? Journal of Homosexuality: Special Issue: Sex, Cells, and Same-Sex Desire: The Biology of Sexual Preference: 1. 1995;28:1–27. [PubMed] [Google Scholar]
+
+Emedicine.com. [June 23, 2004];Excerpt from Sexuality: Gender identity. (n.d.) from http://www.emedicine.com.
+
+Eugenides J. Middlesex: A novel. Farrar, Straus, & Giroix; NY: 2002. [Google Scholar]
+
+Garnets LD, Peplau LA. Understanding women's sexualities and sexual orientations: An introduction. Journal of Social Issues. 2000;56:181–192. [Google Scholar]
+
+Gorman C, Cole W. Between the sexes. Time. 2004 Mar 1;163:54–56. [Google Scholar]
+
+Gould D. Forum: Is it a choice? The Lesbian Review of Books. 1997;3:4. [Google Scholar]
+
+Green R. The “Sissy Boy” Syndrome and the development of homosexuality. Indiana University Press; Bloomington, IN: 1987. [Google Scholar]
+
+Greenberg AS, Bailey JM. Do biological explanations of homosexuality have moral, legal, or policy implications. Journal of Sex Research. 1993;30:245–251. [Google Scholar]
+
+Haddock G, Zanna MP, Esses VM. Assessing the structure of prejudicial attitudes: The case of attitudes toward homosexuals. Journal of Personality and Social Psychology. 1993;65:1105–1118. [Google Scholar]
+
+Hamer DH, Hu S, Magnuson VL, Hu N, Pattatucci AML. A linkage between DNA markers on the X chromosome and male sexual orientation. Science. 1993;261:321–327. [PubMed] [Google Scholar]
+
+Haynes JD. A critique of the possibility of genetic inheritance of homosexual orientation. Journal of Homosexuality: Special Issue: Sex, Cells, and Same-Sex Desire: The Biology of Sexual Preference: 1. 1995;28:91–113. [PubMed] [Google Scholar]
+
+Hegarty P. It's not a choice, it's the way we're built: Symbolic beliefs about sexual orientation in the United States and in Britain. Journal of Community and Applied Social Psychology. 2002;12:1–14. [Google Scholar]
+
+Herek GM. Heterosexuals’ attitudes towards lesbians and gay men: Correlates and gender differences. Journal of Sex Research. 1988;25:451–477. [Google Scholar]
+
+Herek GM. Gender gaps in public opinion about lesbians and gay men. Public Opinion Quarterly. 2002;66(1):40–66. [Google Scholar]
+
+Herek GM, Capitanio JP. “Some of my best friends...:” Intergroup contact, concealable stigma, and heterosexuals’ attitudes toward lesbians and gay men. Personality and Social Psychology Bulletin. 1996;22:412–424. [Google Scholar]
+
+Herek GM, Glunt EK. Interpersonal contact and heterosexuals’ attitudes towards gay men: Results from a national survey. Journal of Sex Research. 1993;30:239–244. [Google Scholar]
+
+Herman D. The antigay agenda: Orthodox vision and the Christian Right. University of Chicago Press; Chicago: 1997. [Google Scholar]
+
+Herrn R. On the history of biological theories of homosexuality. Journal of Homosexuality: Special issue: Sex cells, and same-sex desire: The biology of sexual preference. 1995;28:31–56. [PubMed] [Google Scholar]
+
+Jayaratne TE. White and Black Americans’ genetic explanations for perceived gender, class, and race differences: The psychology of genetic beliefs. Invited lecture at the 2002 Human Genome Lecture Series, National Human Genome Research Institute, NIH; Bethesda, MD: 2002. [Google Scholar]
+
+Kaiser Family Foundation [July 11, 2004];Inside-OUT: A report on the experiences of lesbians, gays and bisexuals in America and the public's views on issues and policies related to sexual orientation. 2001 Nov; from http://www.kff.org/kaiserpolls/3193-index.cfm.
+
+Kerns JG, Fine MA. The relation between gender and negative attitudes toward gay men and lesbians: Do gender role attitudes mediate this relation? Sex Roles. 1994;31:297–307. [Google Scholar]
+
+Kite ME, Deaux K. Gender belief systems: Homosexuality and implicit inversion theory. Psychology of Women Quarterly. 1987;11:83–96. [Google Scholar]
+
+Klayman J, Ha Y-W. Confirmation, disconfirmation, and information in hypothesis testing. Psychological Review. 1987;94:211–228. [Google Scholar]
+
+Lanie AD, Jayaratne TE, Sheldon JP, Kardia SLR, Anderson E, Feldbaum M, Petty EM. Exploring the public understanding of basic genetic concepts. Journal of Genetic Counseling. 2004;13:305–320. [PMC free article] [PubMed] [Google Scholar]
+
+Laumann EO, Gagnon JH, Michael RT, Michaels S. The social organization of sexuality: Sexual practices in the United States. University of Chicago Press; Chicago: 1994. [Google Scholar]
+
+LeVay S. A difference in hypothalamic structure between heterosexual and homosexual men. Science. 1991;253:1034–1037. [PubMed] [Google Scholar]
+
+McGowan D. What is wrong with Jung. Prometheus Books; New York, NY: 1994. [Google Scholar]
+
+McGuire TR. Is homosexuality genetic? A critical review and some suggestions. Journal of Homosexuality: Special Issue: Sex, Cells, and Same-Sex Desire: The Biology of Sexual Preference: 1. 1995;28:1–27. [PubMed] [Google Scholar]
+
+Money J, Ehrhardt A. Man and woman, boy and girl. Johns Hopkins University Press; Baltimore, MD: 1972. [Google Scholar]
+
+Murray D, Schwartz J, Lichter SR. It ain't necessarily so: How media make and unmake the scientific picture of reality. Rowman & Littlefield; New York: 2001. [Google Scholar]
+
+Mustanski BS, Chivers ML, Bailey JM. A critical review of recent biological research on human sexual orientation. Annual Review of Sex Research. 2002;13:89–140. [PubMed] [Google Scholar]
+
+Nardi P. Perspective on homosexuality: Gays should lean on justice, not science. Los Angeles Times, Metro; Part B. Aug 6, 1993.
+
+Nelkin D. An uneasy relationship: The tensions between medicine and the media. The Lancet. 1996;347:1600–1603. [PubMed] [Google Scholar]
+
+Nuffield Council on Bioethics [June 24, 2004];Genetics and human behaviour: The ethical context. 2001 from http://www.nuffieldbioethics.org/home/
+
+Patton MQ. Qualitative evaluation and research methods. Sage; Newbury Park, CA: 1990. [Google Scholar]
+
+Peplau LA, Cochran SD. A relationship perspective on homosexuality. In: McWhirter DP, Sanders SA, Reinisch JM, editors. Homosexuality/heterosexuality: Concepts of sexual orientation. Oxford; New York: 1990. pp. 321–49. [Google Scholar]
+
+Pew Research Center [July 11, 2004];Republicans unified, Democrats split on gay marriage: Religious beliefs underpin opposition to homosexuality. 2003 Nov; from http://www.pewtrusts.com/pdf/pew_forum_gay_marriage.pdf.
+
+President's Council on Bioethics [June 15, 2004];2004 from http://www.bioethics.gov.
+
+ReligiousTolerance.org. [June 15, 2004];U.S. public opinion polls on homosexuality. 2004 from http://www.religioustolerance.org/hom_poll2.htm.
+
+Richards M. Lay and professional knowledge of genetics and inheritance. Public Understanding of Science. 1996;5:217–230. [Google Scholar]
+
+Richards M, Ponder M. Lay understanding of genetics: A test of a hypothesis. Journal of Medical Genetics. 1996;33(12):1032–1036. [PMC free article] [PubMed] [Google Scholar]
+
+Roper Center [July 11, 2004];Public opinion on homosexuality. 2004 from http://www.ropercenter.uconn.edu/cgibin/hsrun.exe/roperweb/pom/pom.htx;start=HS_special_topics?Topic=homosexuality.
+
+Rosario V. Homosexual origins: Theories and research. The Harvard Gay & Lesbian Review. 1996;3:42. [Google Scholar]
+
+Schneider W, Lewis IA. The straight story on homosexuality and gay rights. Public Opinion. 1984;7:16–20. 59–60. [Google Scholar]
+
+Schüklenk U, Stein E, Kerin J, Byne W. The ethics of genetic research on sexual orientation. Hastings Center Report. 1997;27:6–13. [PubMed] [Google Scholar]
+
+Shafir E, LeBoeuf RA. Rationality. Annual Review of Psychology. 2002;53:491–517. [PubMed] [Google Scholar]
+
+Stein E. The relevance of scientific research about sexual orientation to lesbian and gay rights. Journal of Homosexuality: Special Double Issue: Gay Ethics: Controversies in Outing, Civil Rights, and Sexual Science. 1994;27:269–308. [PubMed] [Google Scholar]
+
+Stein E. The mismeasure of desire: The science, theory, and ethics of sexual orientation. Oxford University Press; New York: 1999. [Google Scholar]
+
+Stein TS. Deconstructing sexual orientation: Understanding the phenomena of sexual orientation. Journal of Homosexuality. 1997;34:81–86. [PubMed] [Google Scholar]
+
+Swaab DF, Hofman MA. An enlarged suprachiasmatic nucleus in homosexual men. Brain Research. 1990;537:141–148. [PubMed] [Google Scholar]
+
+Tomeo ME, Templer DI, Anderson S, Kotler D. Comparative data of childhood and adolescence molestation in heterosexual and homosexual persons. Archives of Sexual Behavior. 2001;30:535–541. [PubMed] [Google Scholar]
+
+Troiden RR. Self, self-concept, identity, and homosexuality identity: Constructs in need of definition and differentiation. Journal of Homosexuality. 1984;10:97–109. [PubMed] [Google Scholar]
+
+Veniegas RC, Conley TD. Biological research on women's sexual orientations: Evaluating the scientific evidence. Journal of Social Issues. 2000;56:267–282. [Google Scholar]
+
+von Raffay A, Slotkin P. Why it is difficult to see the anima as a helpful object: Critique and clinical relevance of the theory of archetypes. Journal of Analytical Psychology. 2000;45:541–560. [PubMed] [Google Scholar]
+
+Weiner B, Perry RP, Magnusson J. An attributional analysis of reactions to stigma. Journal of Personality and Social Psychology. 1988;55:738–748. [PubMed] [Google Scholar]
+
+Weinrich JD. Biological research on sexual orientation: A critique of the critics. Journal of Homosexuality: Special Issue: Sex, Cells, and Same-Sex Desire: The Biology of Sexual Preference. 1995;28:197–213. [PubMed] [Google Scholar]
+
+Whisman V. Queer by choice: Lesbians, gay men, and the politics of identity. Routledge; New York: 1996. [Google Scholar]
+
+Whitley BE., Jr. The relationship of heterosexuals’ attributions for the causes of homosexuality to attitudes toward lesbians and gay men. Personality and Social Psychology Bulletin. 1990;16:369–377. [Google Scholar]
+
+Whitley BE., Jr. Gender-role variables and attitudes toward homosexuality. Sex Roles. 2001;45:691–721. [Google Scholar]
+
+Wilcox SA. Cultural context and the conventions of science journalism: Drama and contradiction in media coverage of biological ideas about sexuality. Critical Studies in Media Communication. 2003;20:225–247. [Google Scholar]
+
+Wilcox SA. “I don't need science to tell me I was born this way:” Medicalization, geneticization and biological ideas about same-sex sexuality. 2004. Unpublished manuscript.
+
+Wood PB, Bartkowski JP. Attribution style and public policy attitudes toward gay rights. Social Science Quarterly. 2004;85:58–74. [Google Scholar]
+
+Cited by other articles
+
+Links to NCBI Databases
+
+Copy Download .nbib .nbib

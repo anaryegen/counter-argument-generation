@@ -1,0 +1,183 @@
+Search Engine Land » SEO » AI-generated content: To label or not to label?
+
+AI-generated content: To label or not to label?
+
+With the rapid adoption of AI content creation tools, is it necessary for publishers to adopt AI labeling policies?
+
+Julia McCoy on August 21, 2023 at 9:00 am | Reading time: 5 minutes
+
+Please note that your conversations will be recorded.
+
+SearchBot: I am trained with Search Engine Land content. Ask me anything! SearchBot is thinking ...
+
+Powered by Search Engine Land (and love)
+
+Do you know that a whopping 85.1% of marketers now use AI in their content production workflow?
+
+With the proliferation of AI-generated content, are you obliged to disclose to search engines and readers that a bot created your content?
+
+This is a question many have been asking as the latest AI platforms help people create near-perfect content.
+
+So, is it necessary to label content that’s been produced using AI?
+
+Is this beneficial to publishers and readers?
+
+Those are the questions we’ll be tackling in this article.
+
+What is AI labeling?
+
+AI labeling simply means letting people know if a piece of content was generated using artificial intelligence.
+
+It’s all about marking your content as “AI-generated” so your users know that artificial intelligence played a role in producing it.
+
+The label can be anything like a byline, tag, watermark, etc. that indicates AI produced the content.
+
+Why is this important?
+
+More and more content online is AI-generated. And even if AI didn’t generate it, it may have played a role in research and development.
+
+This is where we cross the muddy waters of whether AI-generated content should be labeled as such so readers know exactly what they’re reading. 
+
+From an SEO point of view, what does Google say about AI labeling?
+
+Is AI labeling necessary? Here’s what Google says
+
+Many policymakers, like the European Union, are advocating for AI labeling.
+
+However, Google takes a different stance when it comes to labeling content as AI-generated.
+
+Coming from the biggest search engine, that’s pretty surprising.
+
+More so considering that the search engine giant takes its E-E-A-T standards seriously.
+
+So, how does this fit in with AI-generated content?
+
+Quality trumps origin: Google values quality content more than it does the originator of the content. 
+
+User experience matters, a lot: Google evangelizes user experience. Labels detract from this.
+
+Authority plays a huge role: The authority of the website a piece of content is published on and that of its author pull a lot of weight.
+
+What does all this mean for AI-generated content?
+
+From Google’s standpoint, AI labeling isn’t a necessity.
+
+It does not contribute to any of the ranking factors used to determine content quality.
+
+The important thing is to create content that’s useful and optimize it for ranking.
+
+How does Google treat AI-generated content?
+
+One of the questions most asked about AI-generated content is whether Google can detect it.
+
+The simple answer is – yes.
+
+As we’ve already seen, Google doesn’t mind if content is AI-generated or human-written. All that matters is that your content is written for people first and meets E-E-A-T standards and is in line with the search quality rater guidelines.
+
+This means if your AI-generated content is helpful, then it can rank. The other side of the coin is that human-written content written solely to reach the top of the SERPs won’t rank.
+
+In a nutshell, Google doesn’t really look at the source of the content but rather the quality of the content and the intent behind its creation.
+
+Get the newsletter search marketers rely on.
+
+AI labeling isn’t necessary, but the human touch is
+
+Since AI labeling isn’t necessary, does that mean you should copy AI-generated text and paste it into your CMS?
+
+While AI content writing tools are improving, you still need to add a human touch to every piece of content before publishing.
+
+One reason is that human editors are needed to verify facts, ensuring every piece of content is high-quality and trustworthy. Especially if you’re in a fast-paced industry, these can change pretty quickly, necessitating human fact-checkers. 
+
+Another reason you need to add a human touch is that Google’s algorithms and ranking signals are primarily based on human-generated content.
+
+They prioritize natural language in search rankings, and achieving this in AI-generated content takes a human touch.
+
+As AI becomes mainstream, policies may evolve
+
+AI is no longer the future.
+
+It’s here to stay.
+
+And with AI adoption becoming widespread in various industries, including digital marketing, policies and frameworks guiding its use are bound to be revised, especially around ethics, accountability, and transparency in AI applications.
+
+However, transparency will be focused on social media platforms and other platforms that publish a lot of images.
+
+This is to combat misinformation spread through deepfake images and videos. These can be deceptive and harder than written content to verify.
+
+Does this mean you should consider AI labeling?
+
+We’ve looked at AI labeling and what major brands and policymakers think of it.
+
+And we’ve come full circle to the question that brought us down this path – is AI labeling necessary?
+
+This is how I see it:
+
+If you’re publishing AI content with quality in mind and include your human touch in the production process – AI labeling isn’t necessary.
+
+However, there may be some instances in which you may want to consider it depending on the context, topic, and content you’re sharing. It all comes down to good judgment. 
+
+Contributing authors are invited to create content for Search Engine Land and are chosen for their expertise and contribution to the search community. Our contributors work under the oversight of the editorial staff and contributions are checked for quality and relevance to our readers. The opinions they express are their own.
+
+Add Search Engine Land to your Google News feed. 
+
+How to plan a website to maximize SEO success
+
+6 advanced (yet missing) Meta Ads KPIs to track success
+
+The latest jobs in search marketing
+
+Top 7 Google Ads and SEO synergies you should act upon
+
+Fueling better marketing plans with Shell
+
+New on Search Engine Land
+
+The truth behind AI checkers: A cautionary tale
+
+Reddit launches AI-powered tools to boost ad creation
+
+There is no ‘best’ Google Ads bidding strategy, study finds
+
+How causal impact studies work and when to use them in PPC
+
+Google adds support for sale pricing and priceType property
+
+Julia McCoy is an 9x author and a leading strategist around creating exceptional content and presence that lasts online. As the President at BrandWell.ai, she leads big initiatives for one of the fastest-growing AI content writing tools for SEO marketers on the planet. She’s been named in the top 30 of all content marketers worldwide, is the founder of Content Hacker, and exited a 100-person writing agency she spent 10 years building with a desire to help marketers, teams, and entrepreneurs find the keys of online success and revenue growth without breaking. Now, she's leading the charge and pioneering the field in AI-driven content efficiency.
+
+Related topics ContentSEO
+
+Get the newsletter search marketers rely on.
+
+Learn actionable search marketing tactics that can help you drive more traffic, leads, and revenue.
+
+Online Nov. 13-14: SMX Next
+
+Available on-demand: SMX Advanced
+
+Available on-demand: SMX Master Classes
+
+Discover time-saving technologies and actionable tactics that can help you overcome crucial marketing challenges.
+
+April 15-17, 2020: San Jose
+
+How Search Marketing Turned the Tide for CTV Audience Targeting
+
+Personalization at Scale: A Blueprint for Global Success
+
+Turn Clicks into Conversions: The 5 Core Focus Areas of Website Optimization See more webinars
+
+Intelligence reports
+
+Enterprise SEO Platforms: A Marketer’s Guide
+
+Email Marketing Platforms: A Marketer’s Guide
+
+Customer Data Platforms: A Marketer’s Guide See more intelligence reports
+
+Featured white paper
+
+Relationship Marketing Trends: Brand Rankings Report See more white papers
+
+Meet your new AI-powered marketing assistant!
+
+Your privacy means the world to us. We share your personal information only when you give us explicit permission to do so, and confirm we have your permission each time. Learn more by viewing our privacy policy.Ok

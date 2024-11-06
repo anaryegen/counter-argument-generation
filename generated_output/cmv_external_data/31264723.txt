@@ -1,0 +1,145 @@
+Skip to main contentSkip to article
+
+Access through your organization
+
+Volume 30, Issue 4, November 2014, Pages 202-208
+
+Prioritizing scientific exploration: A comparison of the ethical justifications for space development and for space science☆
+
+Author links open overlay panelJames S.J. SchwartzShow more
+
+https://doi.org/10.1016/j.spacepol.2014.08.010Get rights and content
+
+I argue that the moral justification for space science is more compelling than the moral justification for space development. Thus, we ought to reemphasize the status of science as a major stakeholder in space, especially when entertaining policies which might encourage the kinds of space development activities (e.g. resource exploitation) that are liable to conflict with the scientific uses of space.
+
+In order to reach its space objectives the United States Government is increasingly partnering with and depending on the private sector.1 However, many from the private sector retain the perception that the current regulatory environment is not especially conducive to widespread private investment in space development. It is commonly argued that dramatic increases in private investment in space development will occur only alongside the implementation of new policies designed to encourage such investment—by relaxing insurance requirements, reducing range fees, establishing a basis for property rights in space, etc.2
+
+This paper investigates whether and to what extent we can morally justify such regulatory shifts—primarily those intended to encourage activities like space settlement and space resource exploitation. I argue that the moral force behind these space development activities is relatively weak, and thus provides little impetus for moving to a regulatory environment that would mitigate the perceived obstacles to space development. Meanwhile, space science activities are subject to a relatively strong moral justification. And so, to the extent that space development and space science activities are likely to conflict, policies should prioritize space science activities. Conflicts are most likely to occur over competition for terrain, wherein development activities compromise sites of scientific interest (e.g. on the Moon, Mars, the asteroids, etc.). Although such conflicts are unlikely to arise in the immediate future, that does not eliminate their relevance to contemporary policies and funding priorities, since our actions today will affect the viability of space science in the future. I submit this as evidence that we ought to reemphasize the status of science as a major stakeholder in discussions about space settlement and space resource exploitation.
+
+I begin in Section 2 by assessing the usual justifications given in support of space development, viz., that space development is needed to satisfy our obligations to ensure species survival and to improve overall human welfare.3 I argue that we must distinguish between a variety of forms of space development, and that our survival and welfare duties only justify a small subset of space development activities. This support, though extant, is weak. No form of space development is, except over the very long term, actually likely to ensure human survival or to improve human welfare. In Section 3 I argue that the duty to scientifically examine the universe provides strong support for space science activities, as these activities involve important research that can only be conducted in concert with space science missions. Section 4 discusses possible sources of conflict between development and science, leading to my recommendation in the concluding section that we must reserve a substantial role for science as we envision forward-looking space development policies.
+
+The substratal value of this discussion is to serve as a clarification of some of my previous work, in which I have argued that we have a moral obligation to support “space exploration” [9]. With the benefit of hindsight I realize how vague and unhelpful such a claim is—‘space exploration’ is often used as a blanket term covering many varieties of space activities, and it is highly doubtful that we have a duty to support all forms of space operations. Thus I hope to show that our obligation to support “space exploration” primarily covers the scientific examination of the Solar System, and covers space development only secondarily (if at all).
+
+Throughout I shall take it for granted that we have obligations (a) to ensure our survival as a species; and (b) to improve overall human welfare. I shall also provide a provisional justification for a further obligation (c) to scientifically examine the universe. Although the wider public largely accepts (a) and (b), it does not appear to as enthusiastically endorse (c), and this is pragmatically relevant for space advocates. I suspect that one reason why it is difficult to justify space research to the wider public is that the wider public only dimly understands the value of science, scientific research, and scientific exploration. In this sense, space science is only one kind of scientific exploration. We can discuss the comparative value of this kind of science ad nauseum, but that will be, at best, only half of the battle. We also need to convince the public, governments, etc., of the value of science more generally—a task that will surely require more than the provisional discussion provided here (and which falls beyond the purview of this paper).
+
+Before considering justifications for space development (and for policy changes designed to encourage space development) it is first necessary to clarify what is meant by the term ‘space development’. Usage varies widely, and covers (but is not limited to) the following types of activities4:
+
+Developing space real estate
+
+Exploiting space resources
+
+Continuing and expanding
+
+I maintain that we have a duty to scientifically examine the universe, and as a corollary, I hold that space science is a vital component of this examination. Thus the pursuit of space science is implicated by our duty to scientifically examine the universe. Space science, like space development, comes in many forms. Space science includes (but is not limited to): astrobiology; astronomy; climatology and atmosphere studies; comparative planetology; geodesy; human biology and medicine; materials
+
+Conflicts between space science and space development
+
+Let me first repeat that I have no in-principle objection to space development; my concerns arise when space development risks conflicting with space science. Indeed, when space development clearly does not conflict with space science, I believe that the marginal societal benefit of space development provides it with some degree of support. Though I grant that few conflicts exist at present, as space development and science capabilities improve, so too will the chances that development and
+
+There is a need, as we contemplate policies which might in future facilitate space development, to recall that: space science ought to remain a major stakeholder in space policy discussions; and that numerous space development activities (e.g. resource exploitation and settlement) will be likely to interfere with space science activities. After all, the greater the freedom developers have to act in space, the more likely they will be to successfully lobby for further concessions (and to prolong
+
+Recommended articles
+
+Encouraging space exploration through a new application of space property rights
+
+Property rights and the duty to extend human life
+
+Development and imperialism in space
+
+I.A. Crawford et al.
+
+Back to the moon: the scientific rationale for resuming lunar surface exploration
+
+Charles Cockell et al.
+
+Planetary parks – formulating a wilderness policy for planetary bodies
+
+A code of ethics for conducting business in outer space
+
+Mining the moon: owning the night sky?
+
+Space economic development in the province of all mankind: if no one goes, we all lose
+
+Development of the natural resources of the moon and other celestial bodies: economic and legal aspects
+
+Low cost earth orbit access: a look at physics, economics, and reality
+
+Law and regulation of commercial mining of minerals in outer space
+
+Challenges to the sustainability of space exploration
+
+Reclaiming the future: space advocacy and the idea of progress
+
+Our moral obligation to support space exploration
+
+(2011)View more references
+
+Ethical issues of human enhancements for space missions to Mars and beyond
+
+Space ethicists discuss the issue of the rationale for space exploration. Some of them argue for an emphasis of space exploration over space development, but these two are in conflict (Schwartz, 2014). Some scholars claim that scientific exploration has an intrinsic value and it gets an absolute priority over resource exploitation and space settlement (Schwartz, 2020).
+
+A human mission to Mars is planned by public and private agencies. It is broadly discussed and studied by scientists in such fields as medicine and aerospace engineering. Less attention is being paid by philosophers and ethicists, and social scientists as well. The aim of this paper is to discuss possible ethical challenges and issues, which may appear during a human mission to Mars. We focus our attention mostly on one issue – the idea of human enhancements for space missions. While our case study is mostly a mission to Mars, ethical issues around human enhancement for space are also relevant for other longer-term human expeditions, including Lunar missions, and beyond. Because the space environment is hazardous for humans, it can be expected that new ethical issues concerning the value of human life may appear.
+
+Space settlement: What's the Rush?
+
+In this paper I argue that obligations associated with the scientific exploration and study of the solar system are, over sub-millennial timescales, stronger than obligations associated with the preservation of humanity via space settlement. Thus my objection is not to space settlement as such, but rather, to those claiming an urgent need to instigate space settlement. I also argue that the “disposable planet mentality” objection to space settlement is ill-founded.
+
+Should and could humans go to Mars? Yes, but not now and not in the near future
+
+Because mission to Mars has only scientific profits, only public sponsors will be invested in this project. James S. J. Schwartz (2014) adds that two of the possible reasons for human space mission, such as improving human welfare and progress in scientific exploration, are well beyond interests of private companies. Newman and Williamson (2018) quite similarly expect that private space exploration will be focused on financial profits more than on environmental sustainability.
+
+This paper discusses rationale for human mission to Mars. Human interplanetary mission is still beyond current technological and medical capabilities. But it is also beyond social, political, financial and mental scope of humanity. This paper suggests that it is hard to find any strong rationale for human mission to Mars, which could counterbalance unovoidable risks, threats and costs.
+
+The peaks of eternal light: A near-term property issue on the moon
+
+We may have a duty to extend our human presence out into the universe and any regulative framework for the Moon needs to fit in with this goal [4,25]. We may have a duty to extend the boundaries of scientific knowledge [26]. Effective occupation of an “eternal light” area could block this.
+
+The Outer Space Treaty makes it clear that the Moon is the ‘province of all mankind’, with the latter ordinarily understood to exclude state or private appropriation of any portion of its surface. However, there are indeterminacies in the Treaty and in space law generally over the issue of appropriation. These indeterminacies might permit a close approximation to a property claim or some manner of ‘quasi-property’. The recently revealed highly inhomogeneous distribution of lunar resources changes the context of these issues. We illustrate this altered situation by considering the Peaks of Eternal Light. They occupy about one square kilometer of the lunar surface. We consider a thought experiment in which a Solar telescope is placed on one of the Peaks of Eternal Light at the lunar South pole for scientific research. Its operation would require non-disturbance, and hence that the Peak remain unvisited by others, effectively establishing a claim of protective exclusion and de facto appropriation. Such a telescope would be relatively easy to emplace with today’s technology and so poses a near-term property issue on the Moon. While effective appropriation of a Peak might proceed without raising some of the familiar problems associated with commercial development (especially lunar mining), the possibility of such appropriation nonetheless raises some significant issues concerning justice and the safeguarding of scientific practice on the lunar surface. We consider this issue from scientific, technical, ethical and policy viewpoints.
+
+Space development and space science together, an historic opportunity
+
+Let me first repeat that I have no in-principle objection to space development; my concerns arise when space development risks conflicting with space science … Though I grant that few conflicts exist at present, as space development and science capabilities improve, so too will the chances that development and science activities interfere with one another …. There is much viable science that can be conducted only prior to development—that is, before settlement or exploitation contaminates, disturbs, or destroys sites of scientific interest [3]. The problem with this objection is that it assumes we were actually going to do science at these asteroids or lunar sites before development could destroy or disturb them.
+
+The national space programs have an historic opportunity to help solve the global-scale economic and environmental problems of Earth while becoming more effective at science through the use of space resources. Space programs will be more cost-effective when they work to establish a supply chain in space, mining and manufacturing then replicating the assets of the supply chain so it grows to larger capacity. This has become achievable because of advances in robotics and artificial intelligence. It is roughly estimated that developing a lunar outpost that relies upon and also develops the supply chain will cost about 1/3 or less of the existing annual budgets of the national space programs. It will require a sustained commitment of several decades to complete, during which time science and exploration become increasingly effective. At the end, this space industry will capable of addressing global-scale challenges including limited resources, clean energy, economic development, and preservation of the environment. Other potential solutions, including nuclear fusion and terrestrial renewable energy sources, do not address the root problem of our limited globe and there are real questions whether they will be inadequate or too late. While industry in space likewise cannot provide perfect assurance, it is uniquely able to solve the root problem, and it gives us an important chance that we should grasp. What makes this such an historic opportunity is that the space-based solution is obtainable as a side-benefit of doing space science and exploration within their existing budgets. Thinking pragmatically, it may take some time for policymakers to agree that setting up a complete supply chain is an achievable goal, so this paper describes a strategy of incremental progress. The most crucial part of this strategy is establishing a water economy by mining on the Moon and asteroids to manufacture rocket propellant. Technologies that support a water economy will play an important role leading toward space development.
+
+Humans Should Not Colonize Mars
+
+2017, Journal of the American Philosophical Association
+
+View all citing articles on Scopus
+
+An early version of this paper was presented to the Working Group on Science and Society, sponsored by the Humanities Center at Wayne State University, in February 2014. I thank those in attendance for comments and discussion, including Graeme Cave, Travis Figg, John James, Barry Johnson, Marsha Richmond, and Bruce Russell. Thanks also to Travis Figg, Paul Graves, and two anonymous referees, for commenting on earlier versions of this paper.View full text
+
+Recommended articles
+
+Myth-free space advocacy part I—The myth of innate exploratory and migratory urges
+
+Acta Astronautica, Volume 137, 2017, pp. 450-460
+
+Transatlantic space cooperation: An empirical evidence
+
+Space Policy, Volume 32, 2015, pp. 37-43
+
+Martin Machay, Vladimír Hajko
+
+Conclusions: Space policy in developing countries
+
+Space Policy, Volume 37, Part 1, 2016, pp. 48-49
+
+Human spaceflight and an asteroid redirect mission: Why?
+
+Space Policy, Volume 30, Issue 3, Part B, 2014, pp. 163-169
+
+Multidisciplinary evaluation of next steps for human space exploration: Technical and strategic analysis of options
+
+Space Policy, Volume 35, 2016, pp. 33-42
+
+Mariel Borowitz, Jonathan Battat
+
+Space settlement: What's the Rush?
+
+Futures, Volume 110, 2019, pp. 56-59
+
+Show 3 more articles
+
+View article metrics

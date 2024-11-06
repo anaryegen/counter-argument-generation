@@ -1,0 +1,419 @@
+Securiti Tops DSPM ratings by GigaOm View
+
+Contact Us Schedule a Demo
+
+Blog » Data Privacy Automation
+
+Employee Privacy Rights: What You Need to Know
+
+Published September 1, 2024
+
+Listen to the content
+
+What are Employee Data Obligations and Privacy Rights?
+
+Employee Privacy Rights
+
+Background and Credit Card Checks
+
+Alcohol and Drug Test
+
+Social Security Numbers (SSNs)
+
+Frequently Asked Questions (FAQs)
+
+What are Employee Data Obligations and Privacy Rights?
+
+Modern privacy laws such as the GDPR, CPRA, and LGPD treat customers and employees equally regarding their personal data, granting them several rights and safeguards. These laws have also placed obligations on organizations to securely process employee personal data and fulfill any data access requests submitted by employees.
+
+Commonly, these laws provide various employee privacy rights, such as the right to access, delete, or amend personal data by submitting a request. Employees can also opt out of certain types of data processing.
+
+Employees can request access to their sickness records, interview notes, disciplinary records, or emails containing their personal information. However, employers can refuse to provide access to certain records, such as confidential performance evaluation reports, management forecasting and planning reports, or data containing third-party information. Employee privacy rights - their applicability and exceptions - may vary from one privacy law to another. Therefore, it is essential to identify which of the global privacy laws apply to your organization and employees.
+
+Failure to protect employee privacy rights according to modern privacy laws may expose organizations to excessive fines, reputational damage, and potential criminal liabilities.
+
+Explore each law in detail below. You will find summarized information on the following privacy laws:
+
+General Data Protection Regulation (GDPR)
+
+The California Privacy Rights Act (CPRA)
+
+Lei Geral de Proteção de Dados (LGPD)
+
+New Zealand Privacy Act (NZPA)
+
+Before we move forward, it’s important to understand the employee privacy rights every employer needs to know. Understanding employee privacy rights will enable employers to better address issues and avoid unnecessary data subject access requests stemming from employees, as well as ensure compliance with evolving data privacy laws.
+
+What are Employee Privacy Rights?
+
+As discussed earlier, employee privacy rights differ from regulation to regulation and the industry in which the business is operating. However, you’ll find the following aspects as the common theme.
+
+Invasion of an employee’s privacy is unacceptable. However, if, for instance, a worker is caught on camera taking an organization’s property home without authorization, the business may be justified in performing a physical search.
+
+If your business is private, you have the legal right to videotape personnel in order to keep them safe and secure and to protect your business. Federal law generally does not limit the use of photography or video cameras in the workplace. Specifically, cameras and video recordings that do not include sound are outside the scope of federal wiretap and stored-record statutes.
+
+However, video surveillance in areas where employees expect a reasonable level of privacy, such as common rooms, restrooms, break rooms, or other areas is prohibited.
+
+Background and Credit Card Checks
+
+The Fair Credit Reporting Act (FCRA) mandates businesses to obtain the consent of job applicants before conducting their background checks and creditworthiness assessments. It is the employer's responsibility to ensure the job description and job advertisement explicitly mention the fact that background checks are required if the employer is hiring for positions that require them.
+
+Anyone who unlawfully and willfully intercepts oral, wire or electronic communication is in violation of the Electronic Communications Privacy Act of 1986 (ECPA). Additionally, access to such communication is forbidden by the Stored Communications Act (SCA). Private companies do, however, are generally permitted to review employees’ electronic communications if the reason is reasonable and work-related.
+
+Employers are not allowed to discriminate against employees based on their genetic histories under the Genetic Information Nondiscrimination Act (GINA). If your business has 15 or more employees and is a public or private employer, the law applies to you.
+
+Alcohol and Drug Test
+
+Employers implement drug and alcohol testing to address various concerns such as workplace safety, productivity, and legal compliance. In most cases, employees must be notified before being subjected to drug or alcohol testing, and some states require written consent. Employers typically cannot conduct testing secretly or without cause unless in safety-sensitive industries where random testing is allowed. Organizations should have policies regarding alcohol and drug usage to avoid any confusion.
+
+Social Security Numbers (SSNs)
+
+Identity theft cases are increasingly on the rise. In order to counter cases of identity and credit fraud, many states have implemented legislation. Make sure you are aware of the laws in this regard in your state.
+
+What Type of Information Should be Collected by a Company?
+
+There’s a huge list of information that employers may collect on their employees for various purposes. Here’s a rundown of the most common categories of employee information that a company may collect:
+
+Personal Information
+
+Employment Information
+
+Job role or description
+
+Employment or compensation information
+
+Academic and Professional Information
+
+Educational information, such as degree
+
+Previous work experience
+
+Benefits Information
+
+Non-disclosure agreements
+
+Engagement Information
+
+Why is the Employee Privacy Policy Important?
+
+Employee privacy policy is a legally required document that offers transparency into employee information and its treatment by the employer or the company. Almost every data privacy regulation requires employers to create and maintain an up to date privacy policy that is clear and easily available to prospects, current employees, and former employees. There are a number of reasons why organizations must have an employee privacy policy.
+
+As mentioned above, legal compliance is the foremost reason for creating a privacy policy. Having such a policy, according to the applicable jurisdiction, demonstrates employer’s regulatory compliance and ethics in managing employee information.
+
+The policy gives employees a clear picture of how the company treats or manages their personal or sensitive information. As the policy assures employees that their data is managed in a responsible manner, it boosts their trust and confidence.
+
+Certain data protection laws require employers to outline the measures taken to protect employee data. By promising robust data protection measures, employers can ensure that their employees’ data do not fall into the wrong hands.
+
+What to Include in an Employee Privacy Policy?
+
+Data privacy and protection laws may have varying obligations as to what to include in an employee privacy policy. However, as a general rule of thumb, every privacy policy must contain the following common aspects.
+
+The type of data collected at various stages such as during application, hiring, screening, or onboarding.
+
+The safety and security of data, such as how the data is protected against unauthorized access.
+
+The purpose of data collection.
+
+The mechanisms for managing and handling requests, such as opt out, limiting the use of sensitive data, etc.
+
+The GDPR obligates employers to give their employees and customers the same rights in connection to their personal data.
+
+For example, employees have the following rights:
+
+The right to information;
+
+The right to access;
+
+The right to rectification (correction);
+
+The right to erasure (deletion);
+
+The right to restriction of processing;
+
+The right to data portability and
+
+The right to object to automated individual decision-making, including profiling.
+
+Under the GDPR, an employer must have a legal basis to process employee personal data. The legal basis could be:
+
+The performance of the contract,
+
+Compliance with a legal obligation,
+
+Protection of vital interests of the data subject,
+
+Performance of a public task,
+
+Protection of legitimate interests of the employer or a third party,
+
+The employee’s consent.
+
+Employers must ensure they process employee data lawfully, fairly, and transparently, regardless of the applicable legal basis. They must also adhere to the 7 principles relating to the processing of personal data, such as purpose limitation, data minimization, accuracy, and storage limitation.
+
+Under the GDPR, employers are responsible for protecting employees' personal data. Therefore, employers must have a data breach management mechanism in place that meets mandatory breach notification requirements.
+
+For example, under the GDPR, employers are required to notify personal data breaches to the regulatory authority where a breach is likely to result in a risk to the rights and freedoms of employees. If the risk is high, then employers must also notify the impacted employees without undue delay.
+
+Finally, the GDPR includes obligations for cross-border data transfers or sharing employee personal data with third parties. For instance, an employer may share personal data with external parties such as HR, medical insurance services, etc. In doing so, it is the employer’s responsibility to assess the privacy and compliance practices with the provisions of the GDPR, of all external parties.
+
+To learn more about each provision in detail, visit our knowledge article about GDPR employee data obligations explained.
+
+The CPRA mandates that employers give employees and customers equal rights on their personal data.
+
+From January 1, 2023, under the CPRA, employees have the following rights:
+
+The right to access;
+
+The right to delete;
+
+The right to correct;
+
+The right to opt-out of the sale/sharing of personal data;
+
+The right to limit the disclosure of sensitive personal data;
+
+The right to opt-in to financial incentives for processing of his personal data;
+
+The right to access information on automated decision making (pending regulations);
+
+The right to opt-out of automated decision making (pending regulations); and
+
+The right to non-discrimination.
+
+The CPRA obligates employers to honor these employee rights.
+
+The CPRA also obligates employers to notify employees at or before the collection of their personal data. There are restrictions on using personal data for any non-disclosed purposes as well.
+
+Under the CPRA, employers are also responsible for protecting the data of their employees. To do so, employers must have a mechanism to meet all of CPRA’s data security requirements.
+
+Employers are also required to have a breach management notification system. This system is set up to notify employees of any unredacted/unencrypted personal information or account/password details. Employers must also notify employees in the case when the encryption key of encrypted personal information is compromised.
+
+Finally, the CPRA includes privacy obligations for sharing employee personal data with third parties. The CPRA mandates employers to sign contracts with a third party, service provider, or contractor with whom it discloses, sells, or shares employee personal information to ensure the transferred data is afforded the same level of protection by the recipient organizations as was provided by the CPRA.
+
+To learn more about CPRA’s strict requirements, visit our knowledge article about CPRA employee data obligations.
+
+The LGPD, which applies to both private and public entities in Brazil, mandates that employers give employees and customers equal rights to their personal data.
+
+Under the LGPD, employees have the following rights regarding their personal data:
+
+The Right to Confirmation;
+
+The Right to Access;
+
+The Right to Correction;
+
+The Right to Anonymization;
+
+The Right to Portability;
+
+The Right to Deletion;
+
+The Right to Information on data sharing;
+
+The Right to Information about consequences for denying consent;
+
+The Right to Revocation of consent;
+
+The Right to Oppose non-consent based processing;
+
+The Right to Request for review of decisions made solely on the basis of automated processing.
+
+The LGPD also mandates that employers implement all necessary technical and administrative controls that enable the protection of personal data from unauthorized, accidental, or unlawful access.
+
+Under the LGPD, employers are obligated to ensure that the following principles are followed when processing employee personal data:
+
+Purpose of processing: Any processing of employees’ personal data must have a legitimate, specific, legal, and explicit purpose.
+
+Prevention of harm from processing: Employers must ensure that appropriate measures are taken to protect an employee's data from damage due to processing.
+
+Adequacy of processing: The processing activity should adequately match up with the stated purpose of the processing.
+
+Necessity of processing: Employers must limit the collection and processing of employees’ personal data to the minimum necessary for the stated purpose.
+
+Accountability of processing: Employers must be able to demonstrate the adoption of measures capable of achieving compliance.
+
+Maintenance of the Quality of Data: Employers must ensure the accuracy, clarity, relevancy, and currentness of their employees’ personal data.
+
+To learn about all employer obligations under the LGPD, visit our detailed guide on Employee Data Obligations under LGPD. You will also learn about the employer’s obligations to ensure data protection, fulfill data breach management notification requirements, honor third-party personal data sharing requirements, and more.
+
+New Zealand's new Privacy Act has been effective since December 1, 2020. It is a modernized version of the 1993 Privacy Act and incorporates several privacy principles that can be found in major global privacy laws.
+
+For instance, similar to the GDPR or CPRA, the NZPA grants employees the right to access and the right to correct their personal information from their employer.
+
+Additionally, an employer’s obligations under the NZPA include the following:
+
+Employee personal data must be processed only on the basis of a lawful function.
+
+The collection of employee personal data must not be unfair or unreasonably intrusive.
+
+Employee personal data must be kept accurate and updated.
+
+Employee personal data must not be kept longer than is required for lawful processing purposes.
+
+Personal data must be processed for specified and stated purposes, and
+
+Employees must be informed of the collection of their data.
+
+Employers are also required to implement all necessary controls and systems to ensure the obligations (mentioned above) are met, and employee data is protected.
+
+Under the NZPA, employers are required to protect their employee data against any loss, disclosure, or misuse by having adequate security controls in place. In case of a privacy breach that has caused serious harm to the concerned employee, the employer must notify the Privacy Commissioner and the affected employee.
+
+While sharing an employee’s personal data with external parties, employers are required to assess the third party’s privacy practices and their compliance with NZPA requirements.
+
+As far as cross-border data transfers are concerned, employers can transfer personal information outside New Zealand only if they fulfill specific conditions described under the NZPA.
+
+To learn all the details about Employee Data Rights and Employer Obligations under the NZPA, refer to our expert-curated guide.
+
+Singapore’s Personal Data Protection Act (PDPA) has several provisions governing the collection, disclosure, use, and care of personal data. It recognizes the rights of customers and employees to give them more control over their personal data and aims to guarantee the protection of their personal data.
+
+Recruitment companies, employment agencies, head-hunters, and other similar organizations are also subject to the Data Protection Provisions of the PDPA.
+
+PDPA provides the following rights to employees:
+
+Right to withdraw consent: Employees may at any time withdraw any consent given or deemed to have been given under the PDPA in respect of the collection, use, or disclosure of their personal data for any purpose by an employer. Section 16 of the PDPA sets out a number of requirements that must be complied with by either the employee or the employer in relation to a withdrawal of consent.
+
+Right to access: Employees have the right to request access to their personal data. An employee may also request to access the CCTV footage that they appear in.
+
+Right to rectification: Employees have the right to request the correction of their personal data.
+
+These rights are similar to the ones granted to employees in the GDPR and CPRA.
+
+In addition, the PDPA imposes certain obligations on employers regarding employee personal data. For instance, employers must collect employee consent before collecting, using, or disclosing their personal data. However, an employer can also process its employees' data without consent for managing and terminating the employment relationship or for evaluative purposes.
+
+If the employer wishes to use the personal data for purposes for which consent may not be inferred or to which there is no applicable exception under the PDPA, the employer must then inform the employee of those purposes and obtain his/her consent.
+
+Also, employers should provide notices to employees if CCTVs are in place at workstations. Other obligations include aligning with Purpose, Accuracy, Access, and Retention Limitations principles.
+
+Employers also have Data Protection, Data Breach Notifications, Third-Party Data Disclosure, and Data Protection Impact Assessment obligations under the PDPA. To understand these obligations in detail, please refer to our guide, how to Manage Employees’ Data Under Singapore's Personal Data Protection Act (PDPA).
+
+The introduction of modern privacy laws like the GDPR, CPRA, LGPD, NZPA, and Singapore's PDPA has significantly enhanced the rights and protections granted to individuals concerning their personal data, treating employees and customers equally. Here are the key takeaways for organizations to operationalize these laws in relation to employee personal data:
+
+Applicability and Compliance: These laws apply to any entity processing personal data, covering both customers and employees. They detail obligations for organizations to process employee personal data securely and respond to data access requests from employees.
+
+Employee Rights: Employees are granted rights to access, delete, amend, and opt-out of certain data processing activities. These rights are subject to exceptions, such as when dealing with confidential performance evaluations or third-party information.
+
+Obligations for Organizations: Organizations must: Obtain explicit consent for data processing or fulfill other legal bases, Notify employees about data collection and processing, Implement security measures to protect personal data, Manage data breaches effectively,notifying regulatory bodies and affected individuals when necessary, Appoint a Data Protection Officer (DPO) if required, Conduct Data Protection Impact Assessments (DPIAs) as needed, Maintain records of processing activities, Ensure proper handling of third-party data processing,and Comply with cross-border data transfer requirements.
+
+Specific Rights Under Different Laws: GDPR: Grants comprehensive rights including access, rectification, erasure, and portability, with strict legal bases for processing and cross-border data transfer obligations. CPRA: Expands on California's CCPA, introducing rights to correct, opt-out of data sale/sharing, and limit the use of sensitive personal data. LGPD: Brazilian law offering rights similar to GDPR, emphasizing data protection, and the accountability of processing. NZPA: Updates New Zealand's privacy framework, focusing on access, correction, and security, including breach notification requirements. Singapore's PDPA: Balances employee rights to withdraw consent, access, and rectification, with employer obligations for consent, notification, and lawful processing for employment purposes.
+
+Operationalizing Compliance: Understand which laws apply to your organization, Categorize and secure personal data inventories, Establish transparent processing practices through policies and notices, Develop frameworks for responding to data subject requests, Conduct risk assessments and implement necessary security measures, Appoint a knowledgeable DPO where required, Create consent management processes, Enable employees to exercise their data rights effectively, Adopt and review technical and organizational measures for data protection, and Examine data handling practices and third-party agreements for compliance.
+
+Securiti's Role: Offers automation solutions to help businesses comply with global privacy standards, emphasizing data privacy as a fundamental human right. Organizations should leverage such solutions to streamline compliance processes, minimize risks, and protect the privacy rights of employees and customers alike.
+
+Frequently Asked Questions (FAQs)
+
+Employee privacy rights and policy refer to the rights that employees have concerning the protection of their personal data and privacy in the workplace. These rights include the right to data privacy, the right to be informed about data collection, and the right to access and control their personal information, among other rights.
+
+An employee privacy policy is a document that outlines how an organization collects, uses, and safeguards employee personal data. It also explains employees' rights regarding their data and how they can exercise those rights.
+
+Employers should consider risks related to data breaches, unauthorized access to employee data, compliance with data protection laws, and the potential impact on employee privacy when implementing workplace monitoring or surveillance systems.
+
+The rights to privacy in the workplace encompass employees' rights to have their personal information protected, to be informed about data collection practices, and to have their privacy respected, balanced with the employer's legitimate interests.
+
+Securiti for Workday
+
+Security | PrivacyOps | Governance | Compliance
+
+Schedule a LIVE One-on-One Demo
+
+Get all the latest information, law updates and more delivered to your inbox
+
+More Stories that May Interest You
+
+Compliance Checklist for China’s PIPL
+
+China has passed its data protection law named the Personal Information Protection Law (PIPL) that came into effect on November 1, 2021. The PIPL...
+
+Securiti named a Leader in the IDC MarketScape for Data Privacy Compliance Software
+
+Securiti has just been recognized as a Leader in the “IDC MarketScape: Worldwide Data Privacy Compliance Software 2023 Vendor Assessment” report. This makes us...
+
+Privacy-by-Design and Privacy-by-Default
+
+Privacy-by-design and privacy-by-default are two cornerstone concepts of data protection regulatory frameworks. Thus, compliance thereof is an essential legal prerequisite for any entity which...
+
+At Securiti, our mission is to enable organizations to safely harness the incredible power of Data & AI.
+
+Free Do Not Sell Tool
+
+Security & Compliance
+
+Manage cookie preferences
+
+info@securiti.ai Securiti, Inc. 300 Santana Row Suite 450 San Jose, CA 95128
+
+Contact Us Schedule a Demo
+
+Sensitive Data Intelligence
+
+Data Controls Orchestrator
+
+Asset Discovery Asset Discovery
+
+Data Discovery & Classification Data Discovery & Classification
+
+Sensitive Data Catalog Sensitive Data Catalog
+
+People Data Graph People Data Graph
+
+Data Mapping Automation View
+
+AI Security & Governance View
+
+Data Subject Request Automation View
+
+People Data Graph View
+
+Assessment Automation View
+
+Universal Consent View
+
+Vendor Risk Assessment View
+
+Breach Management View
+
+Privacy Policy Management View
+
+Data Security Posture Management View
+
+AI Security & Governance View
+
+Data Access Intelligence & Governance View
+
+Data Risk Management View
+
+Data Breach Analysis View
+
+AI Security & Governance View
+
+Compliance Management View
+
+AI Security & Governance View
+
+Data Access Intelligence & Governance View
+
+Asset and Data Discovery View
+
+Data Privacy Automation View
+
+Sensitive Data Intelligence View
+
+Data Flow Intelligence & Governance View
+
+Data Consent Automation View
+
+Data Security Posture Management View
+
+Data Breach Impact Analysis & Response View
+
+Compliance Management View
+
+US California CCPA View
+
+CPRA | California Privacy Rights Act View
+
+European Union GDPR View
+
+Thailand’s PDPA View
+
+Canada PIPEDA Compliance Solution View

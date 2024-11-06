@@ -1,0 +1,207 @@
+Back to Top Skip to main content
+
+An official website of the United States government Here's how you know
+
+The .gov means it’s official. Federal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you’re on a federal government site.
+
+The site is secure. The https:// ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely.
+
+Log in Show account info
+
+Logged in as: username
+
+Access keys NCBI Homepage MyNCBI Homepage Main Content Main Navigation
+
+The PMC website is updating on October 15, 2024. Learn More or Try it out now.
+
+As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with, the contents by NLM or the National Institutes of Health. Learn more: PMC Disclaimer | PMC Copyright Notice
+
+Tob Control. 2015 May; 24(3): 238–242.
+
+Published online 2013 Oct 10. doi: 10.1136/tobaccocontrol-2013-051125
+
+Human rights and ethical considerations for a tobacco-free generation
+
+Yvette van der Eijk1 and Gerard Porter2
+
+1Centre for Biomedical Ethics, National University of Singapore, Singapore, Singapore
+
+Find articles by Yvette van der Eijk
+
+2School of Law, University of Edinburgh, Edinburgh, UK
+
+Find articles by Gerard Porter
+
+1Centre for Biomedical Ethics, National University of Singapore, Singapore, Singapore
+
+2School of Law, University of Edinburgh, Edinburgh, UK
+
+Correspondence to Yvette van der Eijk, Centre for Biomedical Ethics, National University of Singapore, 10 Medical Drive 02-01, Singapore 117597, Singapore; gs.ude.sun@kjierednav.y
+
+Received 2013 Apr 29; Revised 2013 Aug 16; Accepted 2013 Sep 20.
+
+This is an Open Access article distributed in accordance with the Creative Commons Attribution Non Commercial (CC BY-NC 3.0) license, which permits others to distribute, remix, adapt, build upon this work non-commercially, and license their derivative works on different terms, provided the original work is properly cited and the use is non-commercial. See: http://creativecommons.org/licenses/by-nc/3.0/
+
+In recent years, a new tobacco ‘endgame’ has been proposed: the denial of tobacco sale to any citizen born after a certain year, thus creating new tobacco-free generations. The proposal would not directly affect current smokers, but would impose a restriction on potential future generations of smokers. This paper examines some key legal and ethical issues raised by this proposal, critically assessing how an obligation to protect human rights might limit or support a state's ability to phase out tobacco.
+
+Keywords: End game, Human rights, Prevention, Priority/special populations, Public policy
+
+Most anti-tobacco policies and legislation ratified under the WHO Framework Convention on Tobacco Control (WHO FCTC) aim to reduce smoking prevalence. Recent years, however, have seen the rise of tobacco ‘endgame’ proposals that aim to end smoking altogether.1 One such proposal, termed the ‘Tobacco Free Generation 2000’ (TFG2000) would deny tobacco supply to any citizen born on or after a certain date (in this case, 1 January 2000) in addition to current restrictions, thus phasing out tobacco consumption for good. Public support would be sought through education initiatives and promotion of TFG2000 to the post-2000 birth cohorts. Regions most involved in this specific movement so far include Singapore, Tasmania (Australia), and Guernsey (UK). The rationale is that current policies based on the WHO FCTC have been able to reduce smoking prevalence, depending on the country, to roughly 15–25%, but no further.2 Smoking continues to kill roughly 6 million people per year worldwide, a significant proportion of whom have never smoked.2 Moreover, in places such as Singapore, smoking among younger generations is on the rise.3 Together, this suggests that measures beyond the FCTC, that target youth in particular, are necessary to further reduce the public health burdens of smoking.
+
+In 2010, a Singaporean TFG2000 proposal was published in this journal.3 Population surveys conducted in Singapore indicate strong public support: 60.0% of smokers and 72.7% of non-smokers surveyed would endorse TFG2000. The authors argued that their proposal more correctly conveys the message to young people that smoking is not an appropriate social behaviour at any age. It also allows governments to continue to collect tobacco tax revenue for several decades and does not create further impositions on current smokers. Implementing the ban only for citizens and Permanent Residents (PRs) ensures tourism and foreign employment trades are unaffected. Hence, given the public support, the phase out was regarded as ‘a feasible next step in reducing tobacco consumption’.3
+
+The TFG2000 proposal also caught on elsewhere. Earlier this year, a unanimous vote in Tasmania's Upper House passed the same proposal.4 In Guernsey, the idea is also being considered.5 Finland6 and New Zealand7 also share visions of a tobacco endgame, but their exact strategies for achieving it have not been determined yet. It is worth noting that the five places mentioned all have tough anti-tobacco policies that also target smoking uptake in youth, and no tobacco growers. Hence, they are more likely candidates for TFG2000 than countries where tobacco growing contributes substantially towards the economy, or where smoking is a highly accepted part of the culture. The proposal, however, also raises important questions about whether its goal—to fully phase out tobacco consumption—is ethical and legally defensible in light of the current human rights debate, and whether certain practical challenges to its implementation could be overcome. Concerns about loss of tax revenue and compatibility with world trade and investment law are also relevant, but beyond the scope of this paper, which focuses on the human rights issues involved.
+
+Our central argument is that TFG2000 is compatible with human rights principles, and may even form part of a successful human rights-based strategy for tobacco control.
+
+The relationship between human rights and tobacco control
+
+Human rights were established to protect fundamental values such as the ability to live, have a family and be free from cruel treatment. In this paper, we will analyse the TFG2000 proposal in reference to four international human rights documents: the Universal Declaration of Human Rights8 (UDHR), the International Covenant on Civil and Political Rights9 (ICCPR), the International Covenant on Economic, Social and Cultural Rights10 (ICESCR) and the Convention on the Rights of the Child11 (CRC). These instruments themselves have no direct legal effect; the idea is that states that have signed the document incorporate these rights into their own legal systems. Thus, aggrieved individuals may make human rights arguments in their state's domestic courts or similar systems. State compliance with the principles outlined in human rights treaties is tracked using periodical shadow reports, submitted to the UN by non-state bodies such as non-governmental organisations (NGOs).
+
+Previously, it was suggested in this journal that the human rights to life, health and a healthy environment should be used as the basis for a ‘right to tobacco control’.12 This would impose a corresponding duty on the state to pursue various means of restricting tobacco use. Human rights rhetoric, however, has been used on both sides of the debate. Pro-smoking advocates have drawn upon the rights to liberty, self-determination and privacy in support of a ‘right to smoke’. Would ‘tobacco-free generation’ legislation violate or support these rights?
+
+Below, we examine some key human rights debates and their relevance to the TFG2000 proposal: the rights to life and health, the rights to liberty and self-determination, the right to privacy and rights to equality and non-discrimination. We finish with some practical indications for the future.
+
+Human rights to life and health: protecting children from second-hand smoke
+
+The human right to life is a fundamental right recognised in UDHR article 3, ICCPR article 6 and for children in CRC article 6. The human right to health is recognised in ICESCR article 12. Human rights may be ‘positive’ or ‘negative’: for example, an entitlement to state provision and funding for programmes that contribute to good health (positive) or a right to be free from the actions of others that may impair health (negative).13 Thus, the dangers posed to non-smokers by second-hand smoke (SHS) can be construed as an infringement of a non-smoker's negative rights. The effects of SHS, especially in children, are worth noting: passive exposure to parental smoking leads to middle ear infections, respiratory diseases including asthma, the worsening of serious conditions such as cystic fibrosis and asthma, and in some cases, death.14 Given these clear risks, it could be argued that failing to prevent child exposure to SHS affects their basic rights to life and health, and their right to ‘a clean and safe environment’ (CRC article 14).11
+
+Arguably, governments already protect non-smokers to some extent through public smoking restrictions. Such measures are helpful, but cannot eliminate SHS completely, leaving many non-smokers, especially children, at risk in private places such as the home. Children with asthma in particular are at risk of developing respiratory conditions; but even in countries such as the USA, where public smoking bans are common, the majority (53.2%) of children with asthma are still exposed to SHS.15 Governments could go one step further by banning smoking inside family homes, but enforcing such a rule would be difficult. In other words, so long as cigarettes are freely available, and contact with SHS is possible, it is practically impossible to eliminate SHS exposure to children, even with very stringent laws against SHS.
+
+The TFG2000 proposal would not immediately protect all children from SHS, because those born just after 2000 may still be exposed to the SHS of smokers born before 2000. However, full child protection from SHS, and thus the right to be free from the health effects of SHS, may be realised in the long run, as tobacco is phased out and later generations that follow are no longer exposed to SHS by their elders born after 2000.
+
+Human rights to life and health: protection from active smoking and addiction
+
+Human right principles can also be invoked to justify protecting individuals from the harms of active smoking. Most smokers start before adulthood, at a time when the capacity for rationalised, long-term decision-making is not yet fully developed. Many adolescents are lured into cigarette smoking as a rite of passage into adulthood, usually through their peers, unable to fully conceive of the addictive grip of nicotine, and the health impacts they will later experience.16 Yet, under CRC article 6: ‘governments should ensure that children survive and develop healthily’.11 Thus, it is reasonable to suggest that governments have a duty to protect children from initiating active smoking, and from developing nicotine addiction.
+
+Furthermore, under ICESCR article 12, adults are also entitled to: ‘the enjoyment of the highest attainable standard of physical and mental health’, including the ‘prevention, treatment and control of epidemic, endemic, occupational and other diseases’.10 Active smoking is an epidemic that claims over 6 million lives per year; nicotine addiction can significantly impact the liberty, health and mental wellbeing of an individual. The rights to life and health, recognised in the WHO FCTC, may therefore merit the further protection of children and adults from active smoking and nicotine addiction.
+
+The TFG2000 proposal would protect an entire generation of citizens from active smoking in adolescence and throughout their entire adult lives. It would address the rite of passage effect that attracts many underage smokers to tobacco, which supports children's right to survival and healthy development. Protection would then continue into adulthood, in support of the right to the highest possible standard of physical and mental health.
+
+Despite these arguments, it must be noted that there is a great deal of uncertainty and contestation over the exact meaning of human rights articles, particularly in the sphere of public health.17–19 Given the ambiguities, it is difficult to argue that states are compelled to adopt a tobacco phase out to ensure that their citizens’ health is not affected at all by active or passive smoking. Nevertheless, for countries that choose to adopt a phase out, the policy could be justified by reference to human rights principles. However, a fundamental tension arises: how should the state balance its duty to protect life and health against its obligation to respect individual liberty?
+
+Human rights to liberty and self-determination: balancing against harm to others
+
+The human right to liberty is recognised in UDHR article 3 and ICCPR article 9; the right to self-determination in ICESCR article 1 and ICCPR article 1, where it is defined as the right to ‘freely pursue … economic, social and cultural development’.9 10 In pro-smokers’ rights rhetoric, these two rights are often translated into a ‘right to smoke’.
+
+A right to self-determination may be translated into a right to smoke if smoking is to be viewed as a pursuit of economic, social or cultural development. But to frame a behaviour that is highly destructive to oneself and others as ‘social and cultural development’ is a fragile argument at best; thus, it is difficult to maintain an argument that frames smoking as falling within the scope of a right to self-determination.
+
+If health is seen as a choice, some may argue that the right to smoke can be construed as a liberty right. However, there are several points of tension with this view. Tobacco-related illnesses and deaths have adverse socioeconomic consequences for families, communities, healthcare systems and public resources, while SHS can affect children and non-smokers. Thus, smoking affects others, both directly and indirectly. In such cases, human rights instruments permit balancing, as the exercise of rights and freedoms can be subject to limitations to secure: ‘the just requirements of morality, public order and the general welfare in a democratic society’.8
+
+In addition, given the addictive properties of tobacco, it can be suggested that smoking is incompatible with the notion of ‘liberty’, as the addict is not entirely free to choose whether to continue smoking or not. Furthermore, in practice, governments do restrict liberty to protect citizens from the effects of harmful and addictive psycho-active drugs, such as opium, heroin and cocaine; none of which have caused anywhere near as many deaths as tobacco. A tobacco phase out would thus be consistent with the way in which other hazardous, addictive substances are regulated.
+
+Thus, it can be argued that the TFG2000 proposal imposes liberty restrictions on would-be smokers born after 2000; but not beyond a level that unjustifiably violates their liberty rights, given the balance of interests at stake.
+
+The human right to privacy: autonomy and identity
+
+The right to privacy is recognised in UDHR article 12 and ICCPR article 17: ‘no one shall be subjected to arbitrary ... interference with his privacy, family, home’.8 9 Three recent legal cases—one in England, the other two in New Zealand—illustrate how the right to privacy may be construed in relation to claims to a putative ‘right to smoke’.
+
+In the English case, R. (on the application of N) v Secretary of State for Health, residents of a high-security hospital filed for an exemption to indoor smoking restrictions.20 The highly secure nature of their setting meant that, given smokefree policies, most residents would be forced to give up smoking. The appellants argued this was incompatible with the right to respect for home and private life under article 8(1) of the European Convention on Human Rights (ECHR), an article which is often used as the basis for autonomy-driven human rights arguments.21
+
+Their request, however, was denied on the basis that privacy rights are limited in what they can protect. Smoking was regarded as beyond these limits: a 2–1 majority of the Court held that smoking is not sufficiently close to either the integrity of identity, the development of personality, or the ability to establish and develop relationships with others to merit protection under Article 8(1) ECHR. Going further, the majority also considered whether, if Article 8(1) were ‘engaged’, the smoking ban could be justified under Article 8(2), which allows limitations to Article 8(1) that are in accordance with the law and ‘necessary in a democratic society … for the protection of health … or for the protection of the rights and freedoms of others’.21 It was concluded that, as there is strong evidence of the dangers of smoking to smokers and to those subject to SHS, a ban could be justified under certain circumstances. Substantial health benefits arose to the patients from the ban, and the disbenefits were insubstantial.
+
+In the first New Zealand case, Taylor v The Attorney-General and Ors, a resident of a prison filed for a similar exemption to a smoking ban inside Auckland Prison. Contrary to the English case, however, the exemption was permitted, inter alia, on the basis that forcing prisoners into nicotine withdrawal was ‘not humane’. Depriving the prisoners of tobacco, seen as an ‘otherwise lawful substance’, was considered ‘too restrictive’.22
+
+By contrast, in the second New Zealand case, B v Waitemata District Health Board, which also had similar facts to the English case, a different conclusion was reached. Citing the English Court of Appeal decision with approval, it was held that a no-smoking policy had significant advantages and caused only relatively minor disadvantages to the applicants. Furthermore, if there was any limitation on human rights and freedoms, it was said to be of the type that could be demonstrably justified in a free and democratic society.23
+
+The precedential value of these cases in relation to the TFG2000 proposal is uncertain, as the special circumstances of the complainants’ detention in secure settings exerted a strong influence on the outcomes. The smoking bans forced smokers to go into withdrawal, whereas the TFG2000 proposal does not affect current smokers. Nevertheless, it is notable from the English case and the Waitemata ruling that the interests of current smokers to be free to smoke without state interference was not recognised as engaging the right to privacy. Extending this reasoning, the claim that a minor who is currently too young to buy cigarettes has a human right to weigh and balance the risks and benefits of smoking when (s)he becomes old enough to legally purchase cigarettes would appear to be very weak indeed.
+
+Issues with discrimination and inequality
+
+Equality rights before the law are recognised in UDHR articles 2 and 7, ICCPR articles 2 and 26, and ICESCR article 2: ‘without distinction of any kind, such as race, colour, sex, language, religion, political or other opinion, national or social origin, property, birth, or other status’.8–10 Denying tobacco to citizens and PRs whilst permitting foreign nationals to smoke may raise the objection that it constitutes discrimination on the basis of nationality. The inclusion of ‘other status’ implies that the list is not exhaustive and other grounds, such as birth cohort, may be incorporated into this category. Specific targeting of post-2000 cohorts could create friction between groups born in 1999 and 2000, as the former may be perceived to have an unfair ‘advantage’ over the latter (or vice versa).
+
+There are two counterarguments to these objections. First, a state could argue that any differential treatment on the basis of nationality had a reasonable and objective justification and pursued a legitimate aim, that is, the balancing of its domestic health policy against other pressing social needs, such as the desire not to damage the tourist industry or interfere with the inflow of foreign workers. The second argument is that the TFG2000 proposal has a sound and reasonable basis: to protect future generations from the health effects of active and passive smoking. It may be argued, then, that tobacco supply should be denied to everyone to avoid discriminating between different groups. However, this would affect current smokers, potentially forcing many into withdrawal (depending on availability and use of nicotine replacement or other therapies), which could be considered ‘not humane’ (see the argument above on privacy rights). Thus, there are also good grounds for applying the measure only to people who are less affected by the impacts of nicotine addiction.
+
+The issue may also be framed as one of equality of liberty: the argument that one group possesses the legal freedom to smoke, whereas the other does not. But, as argued in the discussion above, the liberty of the post-2000 birth cohort is not restricted to an unjustifiable degree, and given the addictive properties of tobacco products, smoking is arguably incompatible with the notion of ‘liberty’.
+
+Integrating TFG2000 into human rights systems
+
+To summarise so far, we have argued that the TFG2000 proposal is consistent with human rights. It does not constitute a disproportionate interference with the rights to liberty, self-determination or privacy. Moreover, because of its support of the rights to life, health and a healthy environment, the TFG2000 proposal would in fact support a human rights-based approach to tobacco control. Such an approach is already being sought by the Human Rights and Tobacco Control Network and has been suggested previously, although not in the tobacco endgame context.12
+
+What would comprise a human rights-based approach to a tobacco-free generation? States could make use of human rights reporting mechanisms, such as shadow reports made by local NGOs, to track their continued progress in the endgame. These reports could be used to tackle some of the practical difficulties (discussed in more detail below) in implementing TFG2000, such as compliance. Regular reports could also track the opinions of the public, to ensure they are properly educated about this new legislation and its reasoning.
+
+Ethical issues related to public opposition
+
+Although the TFG2000 proposal supports some fundamental human rights, groups of people may still oppose it; for example, those born after 2000 who want to smoke. Their line of argument is likely to be based on the human rights debate already discussed; that is, the policy is an unjustifiable restriction on autonomy, liberty or privacy, or promotes inequality among groups. Although TFG2000 does not directly restrict current smokers, they may also feel discriminated against or uncomfortable with the phase out. Arguments that oppose TFG2000 will almost certainly be supported and propagated by the tobacco industry. If the public opposes the phase out, it could result in low compliance, black markets and protest. These would hinder the success of the phase out. In Tasmania, the proposal already received some criticism, in which Tasmania was referred to as a ‘nanny state’.24 This line of thought may lead to further anxieties that the government will start on a slippery slope towards banning other unhealthy products.
+
+Thus, the key to a successful phase out is a well educated public. People born after 2000 in particular should be educated on the reasoning behind the phase out and how it helps to realise fundamental human rights. This should be incorporated into education programmes for schools, parents and the public that look at different dimensions of tobacco control, such as human rights, the effects of passive smoke, and the influence of the tobacco industry. This approach is already being pursued in Singapore, where supporters of TFG2000 are actively working with schools. Education of the public should also clarify that TFG2000 is not a slippery slope towards phasing out other products, because TFG2000 is a measure designed to correctly reflect the relative hazard of tobacco compared with other substances.16 Alcohol, for example, is far less addictive than nicotine, which makes the controlled use of alcohol more tenable than controlled use of tobacco.
+
+Still, even with good public support there will be a number of individuals who will not comply. One option is to increase government monitoring and enforcement of the new sales restriction. Another, less coercive option, is to study the public and increase support to help quit smoking, especially for those born after 2000. This will help to identify gaps in the strategy, and help specific subpopulations that need special attention. For example, if it is found that young people from specific schools or certain families have already started smoking before TFG2000 is legislated, and would otherwise have to resort to illegally obtaining tobacco, they could be offered cessation support programmes. Such programmes may consist of, for example, the supply of free medical therapies and counselling with peers and family members to help quit smoking. In Singapore, such therapy programmes have already been piloted, with good success.25
+
+Conclusions and future directions
+
+To conclude, we have argued that the tobacco-free generation proposal is compatible with human rights principles. It supports some fundamental rights, including the rights to life, health and a clean environment, and does not unduly violate the rights to liberty, self-determination, privacy or equality. If the above is correct, then the principal remaining obstacle for states wishing to implement TFG2000 will be in achieving sufficient public support and compliance with any resulting legislation. Education initiatives—particularly targeted towards those born after 2000—will thus be an important mechanism for raising public awareness and achieving the goal of a tobacco-free generation.
+
+What this paper adds
+
+This paper provides the first critical analysis of human rights considerations raised by a tobacco endgame proposal for a tobacco-free generation. While acknowledging that human rights rhetoric can be used to support both sides of the debate, we argue—through previous legal cases and human rights ethics debate—that Tobacco Free Generation 2000 is compatible with human rights principles, and may even form part of a successful human rights-based strategy for tobacco control.
+
+We would like to thank Dr Ben Capps, Professor Graeme Laurie and four anonymous reviewers for their valuable comments in the preparation of this manuscript.
+
+Correction notice: This article has been corrected since it was published Online First. The Funding statement has now be added in.
+
+Contributors: Both authors wrote and conceptualised the paper, and checked final versions of the manuscript before each submission.
+
+Funding: This work was funded by the National Cancer Centre, Singapore.
+
+Competing interests: None.
+
+Provenance and peer review: Not commissioned; externally peer reviewed.
+
+1. Malone RE. Imagining things otherwise: new endgame ideas for tobacco control. Tob Control 2010;19:349–50. [PubMed] [Google Scholar]
+
+2. World Health Organization. Mortality attrubitable to tobacco. 2012. http://whqlibdoc.who.int/publications/2012/9789241564434_eng.pdf (accessed 28 Mar 2013).
+
+3. Khoo D, Chiam Y, Ng P, et al. Phasing-out tobacco: proposal to deny access to tobacco for those born from 2000. Tob Control 2010;19:355–60. [PMC free article] [PubMed] [Google Scholar]
+
+4. ABC News. Tasmania considers phasing out cigarette sales. 2012. http://www.abc.net.au/news/2012–08–21/upper-house-moves-motion-to-ban-the-sale-of-cigarettes/4214016 (accessed 23 Oct 2012).
+
+5. The Guernsey Press. Guernsey may adopt similar cigarette ban to Tasmania. 2012. http://www.thisisguernsey.com/news/2012/08/29/guernsey-may-adopt-similar-cigarette-ban-to-tasmania/ (accessed 23 Oct 2012).
+
+6. Ministry of Social Affairs and Health. MSAH oversees tobacco control in Finland. 2010. http://www.stm.fi/en/welfare/substance_abuse/tobacco (accessed 23 Oct 2012).
+
+7. SmokeFree New Zealand 2025. Smokefree 2025. 2011. http://smokefree.org.nz/smokefree-2025 (accessed 24 Oct 2012).
+
+8. United Nations. The Universal Declaration of Human Rights. 1948. http://www.un.org/en/documents/udhr/index.shtml (accessed 7 Jan 2013).
+
+9. United Nations. International Covenant on Civil and Political Rights. 1976. http://www2.ohchr.org/english/law/ccpr.htm (accessed 7 Jan 2013). [PubMed]
+
+10. United Nations. International Covenant on Economic, Social and Cultural Rights. 1976. http://www2.ohchr.org/english/law/cescr.htm (accessed 7 Jan 2013).
+
+11. United Nations. Convention on the Rights of the Child. 1990. http://www2.ohchr.org/english/law/crc.htm (accessed 7 Jan 2013). [PubMed]
+
+12. Dresler C, Lando H, Schneider N, et al. Human rights-based approach to tobacco control. Tob Control 2012;21:208–11. [PubMed] [Google Scholar]
+
+13. Bradley A. Positive rights, negative rights and health care. J Med Ethics 2010;36:838–41. [PubMed] [Google Scholar]
+
+14. Cook DG, Strachan DP. Summary of effects of parental smoking on the respiratory health of children and implications for research. Thorax 1999;54:357–66. [PMC free article] [PubMed] [Google Scholar]
+
+15. Kit BK, Simon AE, Brody DJ, et al. US prevalence and trends in tobacco smoke exposure among children and adolescents with asthma. Pediatrics 2013;131:407–14. [PubMed] [Google Scholar]
+
+16. Berrick AJ. The tobacco-free generation proposal. Tob Control 2013;22:i22–6. [PMC free article] [PubMed] [Google Scholar]
+
+17. Tobin J. The right to health in International Law. Oxford: Oxford University Press, 2012. [Google Scholar]
+
+18. Wolf J. The human right to health. New York: W W Norton & Co., 2012. [Google Scholar]
+
+19. Yamin A, Gloppen S. Litigating health rights: can courts bring more justice to health? Cambridge, MA: Harvard University Press, 2011. [Google Scholar]
+
+20. [2009] EWCA Civ 795; on appeal from R. (On the Application of G) v Nottinghamshire Healthcare NHS Trust [2008] EWHC 1096. For commentary see Coggon J. Public health, responsibility and English law: are there such things as no smoke without ire or needless clean needles? Med L Rev 2009;17:127–39. [Google Scholar]
+
+21. Council of Europe. The European Convention on Human Rights. 2010. http://conventions.coe.int/Treaty/en/Treaties/Html/005.htm (accessed 28 Mar 2013). [Google Scholar]
+
+22. Taylor v Attorney-General & Ors [2013] NZHC 1659.
+
+23. B v Waitemata District Health Board [2013] NZHC 1702.
+
+24. The Telegraph. Tasmania considers cigarette ban for anyone born after 2000. 2012. http://www.telegraph.co.uk/news/worldnews/australiaandthepacific/australia/9492504/Tasmania-considers-cigarette-ban-for-anyone-born-after-2000.html (accessed 7 Jan 2013).
+
+25. Kit PL, Teo L. Quit Now! A psychoeducational expressive therapy group work approach for at-risk and delinquent adolescent smokers in Singapore. J Specialists Group Work 2011;37:2–28 doi:10.1080/01933922.2011.606557 [Google Scholar]
+
+Articles from Tobacco Control are provided here courtesy of BMJ Publishing Group
+
+Cited by other articles
+
+Links to NCBI Databases
+
+Copy Download .nbib .nbib

@@ -1,0 +1,175 @@
+Back to Top Skip to main content
+
+An official website of the United States government Here's how you know
+
+The .gov means it’s official. Federal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you’re on a federal government site.
+
+The site is secure. The https:// ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely.
+
+Log in Show account info
+
+Logged in as: username
+
+Access keys NCBI Homepage MyNCBI Homepage Main Content Main Navigation
+
+Preview improvements coming to the PMC website in October 2024. Learn More or Try it out now.
+
+As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with, the contents by NLM or the National Institutes of Health. Learn more: PMC Disclaimer | PMC Copyright Notice
+
+Am J Public Health. 2017 May; 107(5): 662–665.
+
+Published online 2017 May. doi: 10.2105/AJPH.2017.303691
+
+NIHMSID: NIHMS897322
+
+Police Brutality and Black Health: Setting the Agenda for Public Health Scholars
+
+Sirry Alang, PhD, Donna McAlpine, PhD, Ellen McCreedy, PhD, MPH, and Rachel Hardeman, PhD, MPH
+
+Sirry Alang is with the Program in Health, Medicine, and Society and the Department of Sociology, Lehigh University, Bethlehem, PA. Donna McAlpine and Rachel Hardeman are with the Division of Health Policy and Management, University of Minnesota School of Public Health, Minneapolis. Ellen McCreedy is with the Center for Gerontology and Healthcare Research, School of Public Health, Brown University, Providence, RI.
+
+Corresponding author.
+
+Correspondence should be sent to Sirry Alang, Lehigh University, Sociology and Health, Medicine, and Society, 31 Williams Drive, #280, Bethlehem, PA 18105 (e-mail: ude.hgihel@602ams). Reprints can be ordered at http://www.ajph.org by clicking the “Reprints” link.
+
+S. Alang conceptualized the commentary and wrote the first draft. D. McAlpine framed the message and edited the commentary. E. McGreedy assisted with the review of studies. E. McGreedy and R. Hardeman assisted with editing. R. Hardeman contextualized the message within structural racism and health scholarship.
+
+Accepted January 25, 2017.
+
+We investigated links between police brutality and poor health outcomes among Blacks and identified five intersecting pathways: (1) fatal injuries that increase population-specific mortality rates; (2) adverse physiological responses that increase morbidity; (3) racist public reactions that cause stress; (4) arrests, incarcerations, and legal, medical, and funeral bills that cause financial strain; and (5) integrated oppressive structures that cause systematic disempowerment.
+
+Public health scholars should champion efforts to implement surveillance of police brutality and press funders to support research to understand the experiences of people faced with police brutality. We must ask whether our own research, teaching, and service are intentionally antiracist and challenge the institutions we work in to ask the same.
+
+To reduce racial health inequities, public health scholars must rigorously explore the relationship between police brutality and health, and advocate policies that address racist oppression.
+
+Police brutality toward Blacks in the United States is not new. However, in the absence of a standard definition or good data, the extent of police brutality remains difficult to quantify. Historical evidence of public harming of Black bodies by police dates back at least to the era of slavery, when police disciplined Blacks and recaptured those who escaped enslavement.1 With current technology, police killing of Black people is recorded for public scrutiny and consumption. Access to these videos has led to unprecedented public discourse on what constitutes brutality, its connections to White supremacy, and the consequences for Black lives.
+
+Certainly, excessive use of physical violence constitutes brutality. But as others have noted, brutality goes beyond physical force. It includes emotional and sexual violence as well as verbal assault and psychological intimidation.2–4 Bandes argues that the term “brutality” conveys more than police misconduct: “It is police conduct that is not merely mistaken, but taken in bad faith, with the intent to dehumanize and degrade its target.”2(p1276) We argue for these more expansive definitions of brutality but also believe that police actions that constitute brutality and that dehumanize and degrade occur even in the absence of conscious intent.
+
+Blacks are significantly more likely to experience police brutality than are Whites, and whiteness affords protection against police use of force.5,6 Racially disparate use of force indicates that White supremacy—the systematic positive assessments of whiteness that go hand-in-hand with the devaluation of blackness7—permeates the US law enforcement system. White supremacy and structural racism (norms, laws, and policies that operate in institutions to limit life chances for communities of color)8 negatively affect health.4,8 We argue that police brutality is a social determinant of health, although it has not received sufficient attention from the public health community. To date, little empirical work has linked police brutality to poor health among populations who disproportionately experience brutality. To generate discourse and more research on this subject, we propose five intersecting mechanisms through which police brutality is linked to excess morbidity among Blacks at both the individual and the community level:
+
+fatal injuries that increase population-specific mortality rates;
+
+adverse physiological responses that increase morbidity;
+
+racist public reactions that cause stress;
+
+arrests, incarcerations, and legal, medical, and funeral bills that cause financial strain; and
+
+integrated oppressive structures that cause systematic disempowerment.
+
+PHYSICAL INJURIES AND DEATH
+
+A direct pathway between police brutality and health is through injury and death. The most comprehensive information about the connection between race and death during police encounters comes from data collected by a UK newspaper, The Guardian.9 Analysis of those data concluded that in 2015, “young Black men were nine times more likely than other Americans to be killed by police officers.”6
+
+For some victims of police brutality, death is not immediate but results from repeated physical injury while in police custody. In 2005, Dondi Johnson was arrested in Baltimore, Maryland, for public urination and placed in a police vehicle.10 Mr. Johnson entered the police vehicle in otherwise good health and left a quadriplegic, later dying from injuries sustained in the vehicle. Other high-profile cases of death as a result of maltreatment in police custody include Freddie Gray (Baltimore, MD, 2015) and Sandra Bland (Waller County, TX, 2015).10
+
+Police killings increase Black-specific mortality rates. Even though only two percent of injuries from police interventions that require treatment in the emergency department or hospital result in death,11 Blacks are almost five times more likely than are Whites to have a police intervention-related injury.12 Little is known about the prevalence of nonlethal police violence that results in injury or disability. This is an area for further investigation.
+
+PSYCHOLOGICAL STRESS
+
+Each episode of police brutality has emotional and physiological effects on individuals and communities. Witnessing or experiencing harassment, routine unwarranted searches, and deaths that go unpunished send a message to Black communities that their bodies are police property, disposable, and undeserving of dignity and justice.3 Videos such as that of Eric Garner (New York, NY, 2014) saying, “I can’t breathe” 11 times until he lost consciousness or that of Diamond Reynolds (the girlfriend of Philando Castile, who was killed by police in Falcon Heights, MN, 2016) stating to the police officer, “You shot four bullets into him, sir. He was just getting his license and registration, sir” might elicit historical memories of lynching13 and can bring about collective anger, grief, and hopelessness. Defending the character of loved ones after the police have killed them can also be excruciating, eliciting more negative emotions. Although warranted, these emotions might be damaging to individual mental health and might elevate distress at the population level.14
+
+Experiencing or witnessing police brutality, hearing stories of friends who have experienced brutality, and having to worry about becoming a victim are all stressors. When faced with a threat, the body produces hormones and other signals that turn on the systems that are necessary for survival in the short term.15 These changes include accelerated heart rate and increased respiratory rate. But when the threat becomes reoccurring and persistent—as is the case with police brutality—the survival process becomes dangerous and causes rapid wear and tear on body organs and elevated allostatic load.15 Deterioration of organs and systems caused by increased allostatic load occurs more frequently in Black populations and can lead to conditions such as diabetes, stroke, ulcers, cognitive impairment, autoimmune disorders, accelerated aging, and death.15,16
+
+RACIST PUBLIC REACTIONS
+
+Black people often have the task of explaining to non-Black friends, co-workers, and strangers the connection between structural racism and the latest police shooting. This is a profoundly stressful process to undergo while grieving these deaths. One example of a racist public reaction that might cause stress is arguing that victims were somehow responsible for their own untimely murders—dissecting the guilt or innocence of the murdered persons versus understanding how White supremacy might have caused this. Another example is when protests that call for systemic change and accountability come under the scrutiny of the police, media, and other predominantly White institutions that judge the manner of protest as unacceptable.
+
+Society’s predominant underreaction to incidents of police brutality can be stressful as well. Black women, men, and children wake up to another incident of a police killing on the morning news or on social media and are expected to go about their daily activities as though it does not affect them. But exposure to such videos can be traumatic and can affect well-being over the life course. In addition, it is painful for Black people to go to work and see business as usual while they are feeling devalued. The expectation of business as usual, the profound scrutiny of Black people’s reaction to police brutality, and the justification of police killings are potential sources of racial stress that we know to be directly and indirectly linked to poor health.17
+
+ECONOMIC AND FINANCIAL STRAIN
+
+Police brutality affects individual and community health through its toll on productivity and on the economy. In addition to job loss after incarceration, survivors of brutality may have to deal with disabilities resulting from police use of excessive force.11 Disability decreases productivity and the ability to accumulate financial resources.
+
+Police brutality also affects the economic productivity of Black communities because loved ones take time away from paid work to grieve, plan and attend funerals, and organize protests. These events result from police brutality, and they take away resources that are already limited in Black communities as a result of structural racism. Financial strain and poverty affect the health of Blacks by limiting access to healthy food, exposing families to environmental hazards and poor housing conditions, and making it harder to access health services.18
+
+BLACK COMMUNITIES’ SYSTEMATIC DISEMPOWERMENT
+
+The impact of police brutality is much broader than simply affecting the individuals who have experienced racialized violence. It is a constant reminder of the historic and current devaluing of Black lives.13 It sends a signal that there is little hope for justice. Excessive police force and inadequate prosecution of perpetrators might increase feelings of powerlessness in the Black community, diminishing perceptions of gains made by the civil rights movement.
+
+Frequently, the only semblance of justice for victims of police brutality is to gain sympathizers in the court of public opinion. To do this, Black people seemingly have no other option than to make public the videos or photographs that show the private and last moments of loved ones’ lives. The perceived lack of justice can breed mistrust in law enforcement, further hurting the relationship between the police and Black communities. This might limit access to appropriate and necessary law enforcement services such as protection from violent crime and timely intervention during emergencies and disasters.
+
+The impact of police brutality on the well-being of the Black community parallels the effects of the racism that exists in so many other aspects of everyday life: education, housing, employment, and health care.8,17 That Black people can be harassed and even killed by police is sadly not inconsistent with a system that gives some children, but not others, a high-quality education and that allows skin color to dictate employment opportunity or chances of dying from a preventable disease. Understanding how police brutality affects health requires seeing it both as the action of individual police officers and as part of a system of structural racism that operates to sustain White supremacy. A silver lining is that police brutality has given rise to movements, such as Black Lives Matter and Blacktivist, that resist systemic oppression of Blacks and advocate their rights to live freely and with dignity. However, the existence of these movements does not erase the feelings of powerlessness that affect well-being in Black communities.
+
+AGENDA FOR PUBLIC HEALTH SCHOLARS
+
+At the forefront of public health are discussions of preventable causes of death, illness, and disease. Police brutality is highly preventable. As public health scholars, our agenda should include generating evidence of the causal relationship between police brutality and health inequities and seeking solutions.
+
+A primary challenge in understanding the impact of police brutality on health is the lack of data. The fact that the best data to date come from newspapers such as The Guardian and The Washington Post is humbling. The National Violent Death Reporting System offers some estimates of deaths linked to police intervention, but not all states participate.19 Treating law enforcement–related deaths as we would notifiable conditions may be useful for identifying strategies to prevent mortality from police brutality.9 It is encouraging that recent Bureau of Justice Statistics efforts are focused on collecting more comprehensive data about arrest-related deaths.20 The Bureau of Justice Statistics and other federal agencies such as the National Center for Health Statistics should continue to invest in active and passive surveillance of police use of force, perhaps collaboratively, as an issue of fair policing, justice, and population health.
+
+We must require national surveys that collect data about health and stress to include stressors that are pertinent to all individuals. Simple questions about how often respondents have been pulled over by police (Philando Castile was reportedly pulled over 49 times in 13 years), how often respondents are followed in stores, and so on can be powerful indicators of the types of everyday stressors that are the products of racism. We must also press funders to support qualitative research that seeks to understand the lived experiences of people faced with police brutality.
+
+Ethnographies, case studies, and interviews might help us better understand the nature of police brutality, the context in which it is experienced, and how it affects well-being. Qualitative work has described how frequent adverse encounters have led Blacks to be negatively disposed toward police.21 Qualitative work might help us understand the extent to which poor health among Blacks is similarly grounded in everyday experiences of police intimidation, violence, and brutality.
+
+The absence of perfect data is not an excuse for our neglect. Public health scholars can use publicly available data from sources such as the Police–Public Contact Survey conducted by the Bureau of Justice Statistics and the New York City Stop and Frisk program. With these data they can begin documenting evidence by assessing whether people who report experiencing excessive use of force also belong to groups that are more likely to have negative health outcomes. One study using these data found higher rates of adverse health conditions such as high blood pressure among Blacks living in highly and inequitably policed areas regardless of their individual negative contact with police.22 More studies like this are needed. Partnerships with police departments may enable researchers to extract information from available event reports and summaries to generate useful data sets.
+
+We will be limited in our ability to achieve health equity if all our measures of social inequality and determinants of health are racially coded. Public health has prided itself on its strong focus on social justice and equity. Public health readily examines consequences and by-products of racism such as poverty, lower health literacy, environmental pollutants, and lack of access to services among Blacks. We encourage scholars to purposefully go beyond these by-products and highlight racism and White supremacy as the issues that underlie racial health inequities.17 Black Lives Matter and similar movements play a role in exposing White supremacy and dismantling racism. It might be useful to explore the impact of these contemporary movements on the social, economic, and political empowerment and well-being of Black communities.
+
+In addition to research, our work in advocacy and policy development should confront oppression in all its forms. At the 2016 Annual Meeting in Denver, Colorado, the American Public Health Association resolved to bring the issue of police violence to the forefront of public policy. Among several advocacy action steps in a policy statement, the American Public Health Association urges federal, state, and local governments to demilitarize police, decriminalize behaviors such as loitering and minor traffic violations, end racialized stop and frisk, and invest in addressing root causes of instability among Black communities.23 An understudied issue that also requires the attention of public health practitioners and health care workers is how police brutality might breed distrust in health care institutions, especially if institutional policies require health care workers to identify suspects of behaviors considered criminal.
+
+Finally, we must ask ourselves if our own research, teaching, and service are fundamentally and unapologetically antiracist. For example, our schools and programs must include systematic ongoing training on skills for navigating racial bias (explicit and implicit) in and outside of the classroom. This requires critical self-consciousness so faculty and practitioners become comfortable with the language and concepts of antiracist praxis and naming racism and White supremacy.24 We must also hold our institutions, programs, and departments of health accountable to centering at the margins and deliberately taking the perspectives of marginalized groups.24,25
+
+Confronting ourselves and the institutions that pay us is uncomfortable—for us, our collaborators, the administration, and our students. But discomfort can produce the best scholarship. We cannot champion efforts to eradicate racial health inequities without interrogating how our own scholarship might be influenced by structural racism and its consequences in the Black community.
+
+Even though we focus on Blacks in this commentary, the pathways we have specified and the agenda we have proposed should be used to explore health inequities across a range of marginalized populations, including Native Americans and Latinos, who experience police brutality at alarmingly high rates. We must continue to assemble evidence that will move us closer to dismantling the systems that maintain excess morbidity and mortality, especially among historically oppressed groups.
+
+We thank the editor and reviewers for their thoughtful comments. We acknowledge the suffering of families that have been directly affected by police brutality, a few of whose experiences we cite.
+
+1. Blackmon DA. Slavery by Another Name: The Re-Enslavement of Black Americans From the Civil War to World War II. New York, NY: Anchor; 2009. [Google Scholar]
+
+2. Bandes S. Patterns of injustice: police brutality in the courts. Buffalo Law Review. 1999;47(3):1275–1342. [Google Scholar]
+
+3. Chaney C, Robertson RV. Racism and police brutality in America. J Afr Am Stud. 2013;17(4):480–505. [Google Scholar]
+
+4. Cooper HL, Fullilove M. Editorial: excessive police violence as a public health issue. J Urban Health. 2016;93(suppl 1):1–7. [PMC free article] [PubMed] [Google Scholar]
+
+5. Kahn KB, Goff PA, Lee JK, Motamed D. Protecting whiteness: White phenotypic racial stereotypicality reduces police use of force. Soc Psychol Personal Sci. 2016;7(5):403–411. [Google Scholar]
+
+6. Swaine J, McCarthy C. Young Black men killed by US police at highest rate in year of 1,134 deaths. 2015. Available at: https://www.theguardian.com/us-news/2017/jan/08/the-counted-police-killings-2016-young-black-men. Accessed December 20, 2016.
+
+7. Bonilla-Silva E. White Supremacy and Racism in the Post-Civil Rights Era. Boston, MA: Lynne Rienner; 2001. [Google Scholar]
+
+8. Gee GC, Ford CL. Structural racism and health inequities: old issues, new directions. Du Bois Rev. 2011;8(1):115–132. [PMC free article] [PubMed] [Google Scholar]
+
+9. Krieger N, Chen JT, Waterman PD, Kiang MV, Feldman J. Police killings and police deaths are public health data and can be counted. PLoS Med. 2015;12(12):e1001915. [PMC free article] [PubMed] [Google Scholar]
+
+10. Tafani J. Baltimore and other cities, police have used “rough rides” as payback in the past. 2015. Available at: http://www.latimes.com/nation/nationnow/la-na-baltimore-rough-rides-20150501-story.html. Accessed December 23, 2016.
+
+11. Miller TR, Lawrence BA, Carlson NN et al. Perils of police action: a cautionary tale from US data sets. Inj Prev. 2017;23(1):27–32. [PubMed] [Google Scholar]
+
+12. Feldman JM, Chen JT, Waterman PD, Krieger N. Temporal trends and racial/ethnic inequalities for legal intervention injuries treated in emergency departments: US men and women age 15–34, 2001–2014. J Urban Health. 2016;93(5):797–807. [PMC free article] [PubMed] [Google Scholar]
+
+13. Embrick DG. Two nations, revisited: the lynching of black and brown bodies, police brutality, and racial control in “post-racial” Amerikkka. Crit Sociol. 2015;41(6):835–843. [Google Scholar]
+
+14. Geller A, Fagan J, Tyler T, Link BG. Aggressive policing and the mental health of young urban men. Am J Public Health. 2014;104(12):2321–2327. [PMC free article] [PubMed] [Google Scholar]
+
+15. Duru OK, Harawa NT, Kermah D, Norris KC. Allostatic load burden and racial disparities in mortality. J Natl Med Assoc. 2012;104(1–2):89–95. [PMC free article] [PubMed] [Google Scholar]
+
+16. Geronimus AT, Hicken M, Keene D, Bound J. “Weathering” and age patterns of allostatic load scores among Blacks and Whites in the United States. Am J Public Health. 2006;96(5):826–833. [PMC free article] [PubMed] [Google Scholar]
+
+17. Jee-Lyn García J, Sharif MZ. Black Lives Matter: a commentary on racism and public health. Am J Public Health. 2015;105(8):e27–e30. [PMC free article] [PubMed] [Google Scholar]
+
+18. Szanton SL, Thorpe RJ, Whitfield K. Life-course financial strain and health in African-Americans. Soc Sci Med. 2010;71(2):259–265. [PMC free article] [PubMed] [Google Scholar]
+
+19. Barber C, Azrael D, Cohen A et al. Homicides by police: comparing counts from the national violent death reporting system, vital statistics, and supplementary homicide reports. Am J Public Health. 2016;106(5):922–927. [PMC free article] [PubMed] [Google Scholar]
+
+20. Banks D, Couzens L, Planty M. Assessment of coverage in the arrest-related deaths program. 2015. Available at: https://www.bjs.gov/content/pub/pdf/acardp.pdf. Accessed January 21, 2017.
+
+21. Brunson RK. “Police don’t like Black people”: African-American young men’s accumulated police experiences. Criminol Public Policy. 2007;6(1):71–101. [Google Scholar]
+
+22. Sewell AA, Jefferson KA. Collateral damage: the health effects of invasive police encounters in New York City. J Urban Health. 2016;93(suppl 1):42–67. [PMC free article] [PubMed] [Google Scholar]
+
+23. American Public Health Association. Law enforcement violence as a public health issue. 2016. Available at: https://apha.org/policies-and-advocacy/public-health-policy-statements/policy-database/2016/12/09/law-enforcement-violence-as-a-public-health-issue. Accessed January 21, 2016.
+
+24. Hardeman RR, Medina EM, Kozhimannil KB. Structural racism and supporting Black lives—the role of health professionals. N Engl J Med. 2016;375(22):2113–2115. [PMC free article] [PubMed] [Google Scholar]
+
+25. Ford CL, Airhihenbuwa CO. Critical race theory, race equity, and public health: toward antiracism praxis. Am J Public Health. 2010;100(suppl 1):S30–S35. [PMC free article] [PubMed] [Google Scholar]
+
+Articles from American Journal of Public Health are provided here courtesy of American Public Health Association
+
+Cited by other articles
+
+Links to NCBI Databases
+
+Copy Download .nbib .nbib

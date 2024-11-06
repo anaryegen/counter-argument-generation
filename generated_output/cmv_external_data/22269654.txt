@@ -1,0 +1,321 @@
+Back to Top Skip to main content
+
+An official website of the United States government Here's how you know
+
+The .gov means it’s official. Federal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you’re on a federal government site.
+
+The site is secure. The https:// ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely.
+
+Log in Show account info
+
+Logged in as: username
+
+Access keys NCBI Homepage MyNCBI Homepage Main Content Main Navigation
+
+Preview improvements coming to the PMC website in October 2024. Learn More or Try it out now.
+
+As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with, the contents by NLM or the National Institutes of Health. Learn more: PMC Disclaimer | PMC Copyright Notice
+
+J Urban Health. 2009 Jul; 86(4): 654–664.
+
+Published online 2009 May 15. doi: 10.1007/s11524-009-9354-7
+
+Health of the Homeless and Climate Change
+
+Brodie Ramin1,3 and Tomislav Svoboda1,3
+
+1Faculty of Medicine, University of Toronto (BR, TS), Toronto, ON Canada
+
+3Centre for Research on Inner City Health, St. Michael’s Hospital, 70 Richmond Street East, First Floor, Toronto, ON M5C 1N8 Canada
+
+Find articles by Brodie Ramin
+
+1Faculty of Medicine, University of Toronto (BR, TS), Toronto, ON Canada
+
+3Centre for Research on Inner City Health, St. Michael’s Hospital, 70 Richmond Street East, First Floor, Toronto, ON M5C 1N8 Canada
+
+Find articles by Tomislav Svoboda
+
+1Faculty of Medicine, University of Toronto (BR, TS), Toronto, ON Canada
+
+2Centre for Research on Inner City Health, St. Michael’s Hospital, 70 Richmond Street East, First Floor, Toronto, ON M5C 1N8 Canada
+
+3Centre for Research on Inner City Health, St. Michael’s Hospital, 70 Richmond Street East, First Floor, Toronto, ON M5C 1N8 Canada
+
+Brodie Ramin, Phone: +1-416-8220957, Email: ac.otnorotu@nimar.eidorb.
+
+Corresponding author.
+
+Received 2008 Nov 23; Accepted 2009 Apr 8.
+
+The homeless are amongst the most vulnerable groups in developed regions, suffering from high rates of poorly controlled chronic disease, smoking, respiratory conditions, and mental illness, all of which render them vulnerable to new and resurgent disease processes associated with climate change. To date, there have been no papers reviewing the impacts of climate change on the homeless population. This paper provides a framework for understanding the nature of such an impact. We review four pathways: increased heat waves, increased air pollution, increased severity of floods and storms, and the changing distribution of West Nile Virus. We emphasize the need for further debate and research in this field.
+
+Keywords: Climate change, Homeless health, Health impacts of climate change
+
+While the harmful effects of climate change will occur predominantly in developing countries, vulnerable populations in developed regions such as North America will also face substantial health impacts.1 The homeless are amongst the most vulnerable groups in developed nations. To date, there have been no papers reviewing the impacts of climate change on the homeless population. This paper reviews the literature and provides a framework for understanding the nature of such an impact. We review four pathways: increased heat waves, increased air pollution, increased severity of floods and storms, and the changing distribution of West Nile Virus. We emphasize the need for further debate and research in this field.
+
+Health of the Homeless
+
+The definition of homelessness commonly used in health research includes individuals who sleep in shelters as well as ‘absolute homelessness’ which describes individuals who sleep outdoors or in other places not intended for human habitation.2 Using this definition, approximately 5 to 8 million Americans experienced homelessness within the last 5 years and approximately 1% of the populations of New York and Toronto use a homeless shelter each year.3–5
+
+Chronic disease severity in homeless populations is often greater than in the general population due to extreme poverty, delays in seeking care, non-adherence to therapy, substance abuse, cognitive impairment, and other factors.2 Cancer, heart disease, and cerebrovascular disease are major causes of death in the homeless, particularly amongst older men.6,7 Furthermore medical conditions such as hypertension, high cholesterol and diabetes are more likely to be poorly controlled in homeless patients.8 These conditions can be immunocompromising which increases the vulnerability of the homeless to infectious diseases.
+
+Respiratory conditions are very common amongst the homeless.9 Self-reported rates of lung diseases such as asthma, chronic bronchitis and emphysema in the homeless are double that of the general population and these conditions are often poorly controlled.10,11 The rate of asthma in homeless children in the US has been reported at six times the national rate for children.9,12–14
+
+Levels of mental illness such as depression and schizophrenia amongst the homeless are much higher than the general population.15–17 Substance use is also very common; problems with alcohol are six to seven times more prevalent among homeless people than in the general population.2,8 The prevalence of smoking in the homeless is between two to three times that of the general population.8,10,18
+
+Homeless individuals, particularly those who live on the street, are particularly vulnerable to morbidity and mortality resulting from heat or cold exposure.19 Low socioeconomic status and poor housing conditions are known risk factors for vulnerability to heat stress and heat waves have been documented to cause death amongst homeless populations.20,21
+
+Climate Change and the Health of the Homeless
+
+Climate change is projected to result in higher maximum temperatures, higher minimum temperatures, and an increase in the frequency and intensity of heat waves.22 These changes have already begun: 2005 was the hottest year on record in North America, while the number of days per year above 30°C has almost doubled in the city of Toronto from the period 1961–1990 to the period 1995–2005.23
+
+Heat waves are associated with significant increases in mortality, particularly in the young and elderly.24–26 In 2003, Europe experienced the hottest summer since 1500 and the ensuing heat wave caused an estimated 35,000 deaths across the continent.20 In Paris, for the period of June 1st–August 31st 2003, the average maximum temperature was 10°C greater than the 30-year average.22
+
+Models of heatwave impacts for the next several decades project a doubling to tripling of mortality in many urban centers in the US.22,25 In New York City, summer heat-related mortality could more than double by the 2050s, and more than triple by the 2080s.27 Similar projections are made for four large Canadian cities: Toronto, Montreal, Ottawa, and Windsor.23
+
+The homeless are vulnerable because the risk factors for mortality and morbidity from heat correlate closely with the characteristics of homeless individuals. Pre-existing psychiatric illness has been shown to triple the risk of death from extreme heat.28 Other risk factors for death during heat waves include cardiovascular disease, pulmonary disease, advanced age, living alone, being socially isolated, not using air conditioning, alcoholism, using tranquilizers, and cognitive impairment.20,29–32 These are all characteristics which are more common amongst homeless individuals. Furthermore, up to 91% of homeless populations in the US live in urban or suburban areas, where they are at increased risk from heat waves due to the heat island effect.33 This effect occurs because built structures such as concrete, asphalt, and metal preferentially absorb heat that is then re-radiated thereby causing urban areas to be 5–11°C warmer than surrounding rural regions.21,34,35
+
+Of the major air pollutants (ground-level ozone, acid aerosols, particulate matter [PM] and carbon monoxide), ground-level ozone (O3) will be most altered by climate change. Ozone is formed in the atmosphere by the reaction of volatile organic compounds (VOCs) and nitrogen oxides (NOx) in the presence of sunlight; thus peak O3 concentrations are observed in warmer conditions.36 As summer temperatures rise, concentrations of ground-level ozone are already increasing across the planet. Climate change is projected to increase ground-level ozone by 2–4% for a 2°C increase and by about 5–10% for a 5°C increase.36
+
+Globally, there are an estimated 800,000 deaths related to air pollution per year.37 A European study found that air pollution contributes to 6% of total mortality.38 Exposure to elevated concentrations of ground-level ozone in particular is associated with morbidity such as shortness of breath and restricted activity, with increased hospital admissions for pneumonia, chronic obstructive pulmonary disease, asthma, allergic rhinitis, and with premature mortality.24,39
+
+A study of 50 US cities found that increased ozone would lead to an increase in total, cardiovascular, and respiratory mortality, as well as hospital admissions for asthma, COPD, and other respiratory causes.39 One study projected a 4.6% increase in ozone-related deaths across the 31 counties of the New York metropolitan region between the 1990s and the 2050s.40 A study of four cities in south central Canada, using different methodologies, projected that air-pollution-related mortality could increase by 20–30% by the 2050s and by 30–45% by the 2080s, largely due to increases in ozone-associated mortality.23
+
+Air pollution has been found to disproportionately impact those suffering from cardio-respiratory conditions, those who spend more time outdoors, those with ischemic heart disease, peripheral vascular disease, COPD and asthma.36,41 The homeless are therefore particularly susceptible to illness and death from climate change related increases in air pollution due to their high levels of exposure to outdoor air pollution and their underlying respiratory and cardiovascular conditions which are often poorly controlled.
+
+Floods account for 40% of all natural disaster damage and injury in the US.42 Worldwide, from 1992 to 2001, floods were the most frequent natural disaster, killing almost 100,000 people.22
+
+Coastal megacities such as New York and Los Angeles are at risk of floods as well as damage from hurricanes.42,43 One study estimates a 24% increase in the frequency of extreme precipitation events in the continental US between 1948 and 2008.44 Climate models suggest future increases in the frequency of extreme precipitation events which enhance the risk of flooding because a high volume of rainfall occurs in a short period of time potentially overwhelming natural and man-made drainage systems.42,45
+
+Approximately 70 million people in the United States are vulnerable to hurricanes and an average of 50–100 people are killed per event.42 The health impacts of floods and storms include drownings, infectious disease outbreaks, and an increased incidence of anxiety and depression.46 The mental health impacts can be significant, for example 20–30% of local residents who lived through Hurricane Andrew met the criteria for PTSD at 6 months and 2 years after the event.42
+
+Floods and storms, like all natural disasters, disproportionately impact vulnerable populations.24 Homeless people generally occupy marginal areas that are more vulnerable to environmental hazards.47,48 The urban homeless are particular at risk from natural disasters, but are often not considered in disaster planning.49 They are also at risk from the sequelae of floods, for example men with low occupational status and individuals 55–64 years of age are at high risk for psychological symptoms following such events.22 Baseline poor health is also a key risk factor for adverse health outcomes after disasters.50
+
+Case Study: Hurricane Katrina and the Homeless
+
+Hurricane Katrina which occurred in 2005 was the deadliest hurricane in the US in seven decades with more than 1,600 confirmed deaths and more than 1,000 people missing.51 Although one cannot prove that individual storms such as Hurricane Katrina are caused by climate change, increases in the intensity of extreme storms and flooding are consistent with climate change projections.52 Furthermore, the experience of Katrina shows that vulnerable populations can be significantly harmed by floods and storms even in North America.
+
+It has been documented that marginalized and poor individuals were most affected by the storm.53 Following Katrina, 93% of shelter residents were African–American, 32% had household incomes below $10,000/year and 54% were uninsured.54 The estimated prevalence of mental illness doubled after Hurricane Katrina.51 The incidence of West Nile Virus also more than doubled in 2006 in the hurricane-affected regions of Louisiana and Mississippi.55 Finally the storm created homelessness: after Katrina, the homeless population of New Orleans nearly doubled to 12,000 or 4% of New Orleans’ population.56
+
+Open in a separate window
+
+The West Nile Virus (WNV) was introduced into North America in 1999.57 The virus has spread rapidly from 62 human cases in the US during 1999 to 1,338 cases during 2008 and WNV is now found in all states of the US except Hawaii, Alaska, and Oregon.58 Research has suggested there is an association between warm dry summers resulting from climate change and the introduction of West Nile Virus to North America in 1999.59 Furthermore, an earlier onset of spring resulting from climate change is projected to prolong the amplification cycle of the virus resulting in an increased incidence of human infection.60 As occurred following Hurricane Katrina, extreme weather can lead to spikes in infectious disease outbreaks such as WNV (see box).55
+
+Mosquitoes are most active at night; therefore, individuals who sleep outdoors are at increased risk of exposure to Culex species of mosquitoes which carry West Nile Virus.61 Furthermore, those over the age of 55 and people with compromised immune systems are at higher risk of developing meningoencephalitis if they become infected with WNV.62 This may include people with chronic illnesses such as alcoholism, diabetes, or heart disease, conditions with high prevalence amongst the homeless.63 Whether or not those who are homeless become vulnerable to other infectious diseases, such as malaria, remains to be seen although it is considered unlikely that vector-borne diseases will cause major epidemics in the US so long as the public health infrastructure is maintained (Table ​(Table11).60,64
+
+Impacts of climate change on homeless
+
+Source of vulnerability in homeless patients
+
+Changes expected with climate change
+
+Projected health impacts on homeless
+
+High prevalence of mental illness, cardiovascular disease, respiratory conditions, alcoholism, social isolation
+
+Increased frequency and intensity of heat waves: doubling of heat-mortality by 2050, tripling by 2080
+
+Increased morbidity and mortality during heatwaves
+
+High prevalence of respiratory and cardiovascular conditions. More time spent outdoors
+
+Increased levels of ground-level ozone. Air pollution-related mortality could increase by 20–30% by the 2050s and by 30–45% by the 2080s
+
+Increased morbidity and mortality secondary to underlying respiratory and cardiovascular conditions
+
+Living in vulnerable areas. Poor access to transportation. Poverty
+
+Increased frequency and intensity of floods. Increased intensity of storms
+
+Increased mortality from floods and storms. Increased morbidity following floods and storms including: anxiety, PTSD, infectious diseases
+
+Living outdoors. Immunocompromising conditions
+
+Increased range and virulence West Nile Virus
+
+Increased incidence of West Nile virus including meningoencephalitis
+
+Open in a separate window
+
+Health Benefits from Climate Change
+
+While this paper has focused on the adverse impacts of climate change on the health of the homeless, it is also recognized that climate change may have some positive impacts. The positive effects will come predominantly through warmer winters resulting in decreased mortality from cold exposure.24,65 In Canada, cold-related mortality may decline by as much as 45–60% by 2050.23 Furthermore, respiratory illnesses such as influenza may be reduced slightly by warmer winters.60 Most research has suggested that while there will be health gains, they will be minor and will be outweighed by the adverse health impacts of climate change.22,65
+
+High rates of poorly controlled chronic disease, smoking, respiratory conditions, mental illness and exposure to extreme temperatures and vector populations render homeless populations vulnerable to new and resurgent disease processes associated with climate change. Homeless individuals, already vulnerable to extreme heat, will be adversely affected as temperatures increase. If climate change causes increased levels of ground-level ozone, the homeless may bear a significant burden of the increase in disease due to their high rates of cardiovascular and respiratory conditions. Increased heavy precipitation, increased intensity of hurricanes and concomitant increased floods will disproportionately impact the homeless because they occupy marginal areas, they are less able to transport themselves out of flood areas and they are more likely to suffer sequelae from such disasters. Finally, if the incidence of WNV continues to increase in North America, the homeless will be affected by virtue of the greater periods of time they are outdoors and the prevalence of immunocompromising conditions which predispose them to more severe forms of the disease.
+
+The IPCC asserts that the stress of climate change will coalesce with other stresses to impact individuals and societies.34 We posit that the impacts of climate change will coalesce with the pre-existing vulnerability of homeless individuals. The equity implications of climate change have been discussed extensively in the context of the North–South divide.35 The equity dimension applies equally to the homeless: they are among the most vulnerable citizens and have among the smallest carbon footprints and yet they may bear a disproportionate burden of the effects of climate change. Although some of the literature on climate change and health makes reference to ‘vulnerable’ populations, the homeless are virtually ignored in the existing literature. The potentially harmful impact of climate change provides yet another rationale for accelerating progress towards ending chronic homelessness in North America.
+
+The impacts of climate change can be addressed by two types of responses: adaptation and mitigation. Adaptation refers to changes in behavior and infrastructure that work to reduce the negative impacts associated with climate change; below we discuss adaptation measures specific to the homeless. Mitigation by contrast involves getting to the root of the problem by preventing climate change, for example by reducing CO2 emissions. Mitigation options are discussed extensively elsewhere.66
+
+Adaptation to heat waves in urban areas has been extensively researched. Many developed world cities have in place sophisticated Heat-Health Warning Systems (HHWS) which use meteorological forecasts to initiate acute public health interventions designed to reduce heat-related impacts on human health during atypically hot weather.20,25 Outreach to the homeless is often a component of such systems. On days when meteorological criteria are met, homeless shelters are requested to remain open, cooling stations are identified, transit tokens are distributed to homeless and outreach programs are activated.26,67
+
+An example of adaptation to WNV includes a document developed by Toronto Public Health which provides information on WNV specific to the homeless population.61 A significant difficulty with such outreach and information programs is that less access to the internet and other mass media may make such programs less effective among the homeless. No adaptation measures specific to the homeless are reported to be in place for air pollution or floods and storms.
+
+Policies which simultaneously reduce conventional air pollutants from fossil fuel combustion and greenhouse gas (GHG) emissions could have a major role to play in reducing adverse climate-health impacts on the homeless. Such policies include alternative energy policies, improved transport systems, improved urban planning, and carbon markets.66 Mitigation policies can be designed which benefit the homeless. For example transportation is an important determinant of the health of the homeless. Policies which promote public transportation infrastructure can reduce the generation of GHGs and thus air pollution levels.68 Such policies would have the added benefit of giving homeless populations an inexpensive means of traveling to shelters on hot days, or out of flood plains in the event of storms.
+
+The framework provided in this paper linking climate change and the health of the homeless is tentative and theoretical at present. There is a shortage of published studies exploring the relationship between health of the homeless and extreme heat, air pollution, major storms and infectious diseases. The root of this problem stems from the paucity of systematic data collection on prevalence and incidence of medical conditions or mortality statistics amongst the homeless. More work needs to be done to develop evidence linking homeless health and climate change. Such evidence is of the utmost importance in terms of planning adaptation measures for the homeless.
+
+This paper has focused on the North American context, while the largest impacts on health by far will occur amongst vulnerable populations in developing countries. Floods in particular will impact low-lying megacities in developing countries such as Mumbai and Shanghai.53 Developing country cities also face unique challenges such as large slums and squatter settlements which are particularly vulnerable to water-borne diseases as well as landslides and other natural hazards.24
+
+Homeless individuals have higher rates of underlying disease, greater exposure and poorer protection from the elements, and are more likely to occupy high-risk urban areas. This could result in greater rates of illness and death due to increases in heat waves, air pollution, storms and floods, and vector-borne diseases resulting from climate change. Research is urgently required into these topics in order to prevent the development of new and deeper inequalities between the health of the homeless and the general population.
+
+Key Points of this Article
+
+1. Homeless individuals have high rates of poorly controlled chronic disease, smoking, respiratory conditions, and mental illness which renders them vulnerable to new and resurgent disease processes associated with climate change.
+
+2. Climate change will impact the health of the homeless mainly through four pathways: increased heat waves, increased air pollution, increased severity of floods and storms, and changing infectious disease vectors.
+
+3. Some adaptation measures specific to the homeless are already in place in some communities but more adaptation and mitigation efforts are required to prevent further deterioration in the health of the homeless.
+
+4. More research is required investigating the linkages between climate change and the health of the homeless as well as strategies to minimize adverse effects.
+
+Open in a separate window
+
+We would like to thank Monica Campbell of Toronto Public Health and Stephen Hwang of St. Michael’s Hospital for reviewing an earlier draft of this paper.
+
+Conflicts of Interest None.
+
+1. Intergovernmental Panel on Climate Change. Climate Change 2007: Impacts, Adaptation and Vulnerability. Contribution of Working Group II to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change Cambridge: Cambridge University Press; 2007.
+
+2. Hwang SW. Homelessness and health. Can Med Assoc J. 2001;164(2):229–233. [PMC free article] [PubMed]
+
+3. Link BG, Susser E, Stueve A, Phelan J, Moore RE, Struening E. Lifetime and five-year prevalence of homelessness in the United States. Am J Public Health. 1994;84:1907–1912. doi:10.2105/AJPH.84.12.1907. [PMC free article] [PubMed]
+
+4. Hwang SW, Tolomiczenko G, Kouyoumodjian FG, Garner RE. Interventions to improve the health of the homeless: A systematic review. Am J Prev Med. 2005;29(4):311e1–311e9. [PubMed]
+
+5. City of Toronto. The Toronto Report Card on Housing and Homelessness 2003. Toronto, Canada; City of Toronto; 2003. http://www.toronto.ca/homelessness/pdf/reportcard2003.pdf. Accessed June 27 2008.
+
+6. Hwang SW. Mortality among men using homeless shelters in Toronto, Ontario. JAMA. 2000;283(16):2152–2157. doi:10.1001/jama.283.16.2152. [PubMed]
+
+7. Cohen C. Aging and homelessness. Gerontologist. 1999;39(1):5–14. [PubMed]
+
+8. Lee TC, Hanlon JG, Ben-David J, Booth GL, Cantor WJ, et al. Risk factors for cardiovascular disease in homeless adults. Circulation. 2005;111:2629–2635. doi:10.1161/CIRCULATIONAHA.104.510826. [PubMed]
+
+9. Raoult D, Foucault C, Brouqi P. Infections in the homeless. Lancet Infect Dis. 2001;1:77–84. doi:10.1016/S1473-3099(01)00062-7. [PubMed]
+
+10. Snyder LD, Eisner MD. Chest. 2005;125:1719–1725. doi:10.1378/chest.125.5.1719. [PubMed]
+
+11. Hwang SW. Mortality among men using homeless shelters in Toronto, Ontario. JAMA. 2000;283:2152–2157. doi:10.1001/jama.283.16.2152. [PubMed]
+
+12. McLean DE, Bowen S, Drezner K, et al. Asthma among homeless children: undercounting and undertreating the underserved. Arch Pediatr Adolesc Med. 2004;158:244–249. doi:10.1001/archpedi.158.3.244. [PubMed]
+
+13. Wood DL, Valdez RB, Hayashi T, Shen A. Health of homeless children and housed, poor children. Pediatrics. 1990;86:858–866. [PubMed]
+
+14. O’Connell JJ. Nontuberculous respiratory infections among the homeless. Semin Respir Infect. 1991;6:247–253. [PubMed]
+
+15. Breakey WR, Fischer PJ, Kramer M, et al. Health and mental health problems of homeless men and women in Baltimore. JAMA. 1989;262:1352–1357. doi:10.1001/jama.262.10.1352. [PubMed]
+
+16. North CS, Eyrich KM, Pollio D, Spitznagel EL. Are rates of psychiatric disorders in the homeless population changing? Am J Public Health. 2004;94(1):103–108. doi:10.2105/AJPH.94.1.103. [PMC free article] [PubMed]
+
+17. Nordentoft M, Wandall-Holm N. 10 year follow up study of mortality among users of hostels for homeless people in Copenhagen. BMJ. 2003;327:81–85. doi:10.1136/bmj.327.7406.81. [PMC free article] [PubMed]
+
+18. Gelberg L, Linn LS. Assessing the physical health of homeless adults. JAMA. 1989;262(14):1973–1979. doi:10.1001/jama.262.14.1973. [PubMed]
+
+19. Kleinberg E. Heat Wave: A Social Autopsy of Disaster in Chicago Chicago: University of Chicago Press; 2003.
+
+20. Kovats RS, Ebi KL. Heatwaves and public health in Europe. Eur J Public Health. 2006;16(6):592–599. doi:10.1093/eurpub/ckl049. [PubMed]
+
+21. Knowlton K, Lynn B, Goldberg RA, et al. Projecting heat-related mortality impacts under a changing climate in the New York City region. Am J Public Health. 2007;97(11):2028–2034. doi:10.2105/AJPH.2006.102947. [PMC free article] [PubMed]
+
+22. Epstein PR, Mills E. Climate Change Futures: Health, Ecological and Economic Dimensions Boston: The Center for Health and the Global Environment, Harvard Medical School; 2005.
+
+23. Cheng CS, Campbell M, Li Q, et al. “Differential and Combined Impacts of Winter and Summer Weather and Air Pollution Due to Global Warming on Human Mortality in South Central Canada.” Technical Report submitted to Health Policy Research Program. Health Canada, 2005. http://www.toronto.ca/health/hphe/weather_air_pollution_research.htm. Accessed June 23 2008.
+
+24. Confalonieri U, Menne B, Akhtar R, et al. Human health. In: Parry ML, Canziani OF, Palutikof JP, van der Linden PJ, Hanson CE, eds. Climate Change 2007: Impacts, Adaptation and Vulnerability. Contribution of Working Group II to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change Cambridge: Cambridge University Press; 2007:391–431.
+
+25. Field CB, Mortsch LD, Brklacich M, Forbes DL, Kovacs P, Patz JA, Running SW, Scott MJ. North America. In: Parry ML, Canziani OF, Palutikof JP, van der Linden PJ, Hanson CE, eds. Climate Change 2007: Impacts, Adaptation and Vulnerability. Contribution of Working Group II to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change Cambridge, UK: Cambridge University Press; 2007:617–652.
+
+26. Pengelly LD, Campbell ME, Cheng CS, et al. Anatomy of heat waves and mortality in Toronto: lessons for public health protection. Can J Public Health. 2007;98(5):364–368. [PMC free article] [PubMed]
+
+27. Kalstein LS, Greene JS. An evaluation of climate/mortality relationships in large US cities and the possible impacts of a climate change. Environ Health Perspect. 1997;105:84–93. doi:10.2307/3433067. [PMC free article] [PubMed]
+
+28. Bouchama A, Dehbi M, Mohamed G, Matthies F, Shoukri M, Menne B. Prognostive factors in heat wave-related deaths: a meta-analysis. Arch Intern Med. 2007;167(20):2170–2176. doi:10.1001/archinte.167.20.ira70009. [PubMed]
+
+29. Kilbourne EM, Choi K, Jones TS, et al. Risk factors for heatstroke. A case–control study. JAMA. 1982;247:3332–3336. doi:10.1001/jama.247.24.3332. [PubMed]
+
+30. Bouchama A, Knochel JP. Heat stroke. N Engl J Med. 2002;346(25):1978–1988. doi:10.1056/NEJMra011089. [PubMed]
+
+31. Semsenza JC, Rubin CH, Falter KH, Selanikio JD, et al. Heat-related deaths during the July 1995 heat wave in Chicago. N Engl J Med. 1996;335(2):84–90. doi:10.1056/NEJM199607113350203. [PubMed]
+
+32. McGeehin M, Mirabelli M. The potential impacts of climate variability and change on temperature-related morbidity and mortaility in the United States. Environ Health Perspect. 2001;109(Suppl 2):185–189. doi:10.2307/3435008. [PMC free article] [PubMed]
+
+33. Burt MR, Aron LY, Douglas T, Valente J, Lee E, Iwen B. Homelessness: Programs and People they Serve. Findings of the National Survey of Homeless Assistance Providers and Clients Washington DC: Urban Institute; 1999.
+
+34. Wilbanks TJ, Romero Lankao P, Bao M, Berhout F, Cairncross S, Ceron JP, Kapshe M, Muir-Wood R, Zapata-Marti R. Industry settlement and society. In: Parry ML, Canziani OF, Palutikof JP, van der Linden PJ, Hanson CE, eds. Climate Change 2007: Adaptation and Vulnerability. Contribution of Working Group II to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change Cambridge: Cambridge University Press; 357–390.
+
+35. Campbell-Lendrum D, Corvalan C. Climate change and developing-country cities: implications for environmental health and equity. J Urban Health. 2007;84(1):i109–i117. doi:10.1007/s11524-007-9170-x. [PMC free article] [PubMed]
+
+36. Bernard SM, Samet JM, Grambsch A, Ebi K, Romieu I. The potential impacts of climate variability and change on air pollution-related health effects in the United States. Environ Health Perspect. 2001;109(S2):199–209. doi:10.2307/3435010. [PMC free article] [PubMed]
+
+37. World Health Report 2002. Reducing Risks, Promoting Healthy Life. Geneva: World Health Organization; 2002. [PubMed]
+
+38. Künzli N, Kaiser R, Medina S, et al. Public-health impact of outdoor and traffic-related air pollution: a European assessment. Lancet. 2000;356:795–801. doi:10.1016/S0140-6736(00)02653-2. [PubMed]
+
+39. Bell ML, Goldberg R, Hogrefe C, et al. Climate change, ambient ozone, and health in 50 US cities. Clim Change. 2007;82:61–76. doi:10.1007/s10584-006-9166-7.
+
+40. Knowlton K, Rosenthal JE, Hogrefe C, et al. Assessing ozone-related health impacts under a changing climate. Environ Health Perspect. 2004;112:1557–1563. [PMC free article] [PubMed]
+
+41. World Health Organization. Health aspects of air pollution: Results from the WHO project “systematic review of health aspects of air pollution in Europe.” 2004. http://www.euro.who.int/document/e83080.pdf. Accessed July 29, 2008.
+
+42. Greenough G, McGeehin M, Bernard SM, Trtanj J, et al. The potential impacts of climate variability and change on health impacts of extreme weather events in the United States. Environ Health Perspect. 2001;109(Suppl 2):191–198. doi:10.2307/3435009. [PMC free article] [PubMed]
+
+43. Kinney PL, Rosenthal JE, Rosenzweig C, et al. Assessing the potential public health impacts of changing climate and land use: the New York climate and health project. In: Ruth M, Donaghy K, Kirshen P, eds. Regional Climate Change and Variability: Impacts and Responses. Cheltenham: Elgar; 2006:161–189.
+
+44. Madsen T, Figdor E. When it Rains it Pours: Global Warming and the Rising Frequency of Extreme Precipitation in the United States. Washington DC: Environment America Research & Policy Center; 2007.
+
+45. Palmer TN, Rälsänen J. Quantifying the risk of seasonal precipitation events in a changing climate. Nature. 2002;415:512–514. doi:10.1038/415512a. [PubMed]
+
+46. Ahern MJ, Kovats RS, Wilkinson P, Few R, Matthies S. Global health impacts of floods: epidemiological evidence. Epidemiol Rev. 2005;27:36–45. doi:10.1093/epirev/mxi004. [PubMed]
+
+47. Intergovernmental Panel on Climate Change. Climate change 2001: Impacts, Adaptation and Vulnerability. Contribution of Working Group II to the Third Assessment Report of the Intergovernmental Panel on Climate Change. Cambridge: Cambridge University Press; 2001.
+
+48. Takahashi S. Social geography and disaster vulnerability in Tokyo. Appl Geogr. 1998;18(1):17–24. doi:10.1016/S0143-6228(97)00042-8.
+
+49. Wisner B. Marginality and Vulnerability: Why the homeless of Tokyo don’t ‘count’ in disaster preparations. Appl Geogr. 1998;18(1):25–33. doi:10.1016/S0143-6228(97)00043-X.
+
+50. Phifer JF, Kaniasty KZ, Norris FH. The impact of natural disaster on the health of older adults: A multiwave prospective study. J Health Soc Behav. 1988;29:65–78. doi:10.2307/2137181. [PubMed]
+
+51. Kessler RC, Galea S, Jones RT, Parker HA. Mental illness and suicidality after hurricane Katrina. Bull World Health Organ. 2006;84(12):930–938. doi:10.2471/BLT.06.033019. [PMC free article] [PubMed]
+
+52. Intergovernmental Panel on Climate Change. Climate Change 2007: The Physical Science Basis. Contribution of Working Group I to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change. Cambridge: Cambridge University Press, Cambridge; 2007.
+
+53. De Sherbinin A, Schiller A, Pulsipher A. The vulnerability of global cities to climate hazards. Environ Urban. 2007;19:39–64. doi:10.1177/0956247807076725.
+
+54. Brodie M, Weltzien E, Altman D, Blendon RJ, Benson JM. Experiences of hurrican Katrina evacuees in Houston Shelters: implications for future planning. Am J Public Health. 2006;96(5):1402–1408. doi:10.2105/AJPH.2005.084475. [PMC free article] [PubMed]
+
+55. Caillouet KA, Michaels SR, Xiong Z, Foppa I, Wesson DM. Increase in West Nile neuroinvasive disease after Hurricane Katrina. Emerg Infect Dis. 2008;14(5):804–807. doi:10.3201/eid1405.071066. [PMC free article] [PubMed]
+
+56. Today USA. New Orleans’ homeless rate swells to 1 in 25. March 17, 2008. http://www.usatoday.com/news/nation/2008-03-16-neworleans-homeless-rate_N.htm. Accessed June 22, 2008.
+
+57. Campbell GL, Marfin AA, Laciotti RS, Gubler DJ. West Nile virus. Lancet Infect Dis. 2002;2:519–529. doi:10.1016/S1473-3099(02)00368-7. [PubMed]
+
+58. Centers for Disease Control. West Nile Virus Homepage. http://www.cdc.gov/ncidod/dvbid/westnile/index.htm. Accessed Mar 30, 2009.
+
+59. Epstein PR. West Nile virus and the climate. J Urban Health. 2001;78(2):367–371. doi:10.1093/jurban/78.2.367. [PMC free article] [PubMed]
+
+60. Greer A, Ng V, Fisman D. Climate change and infectious diseases in North America: the road ahead. Can Med Assoc J. 2008;178(6):715–722. [PMC free article] [PubMed]
+
+61. Toronto Public Health. WNV Information for the Homeless and Underhoused. 2004. http://www.toronto.ca/health/westnile/wnv_factsheet_2004_underhoused.htm. Accessed June 25, 2008.
+
+62. DeBiasi RL, Tyler KL. West Nile Virus meningoencephalitis. Nat Clin Pract Neurol. 2006;2(5):264–275. doi:10.1038/ncpneuro0176. [PMC free article] [PubMed]
+
+63. Jean CM, Honarmand S, Louie JK, Glaser CA. Risk factors for West Nile virus neuroinvasive disease, California. Emerg Infect Dis. 2005;2007(Dec). [PMC free article] [PubMed]
+
+64. Gubler DJ, Reiter P, Ebi KL, et al. Climate variability and change in the United States: potential impacts on vector- and rodent-borne diseases. Environ Health Perspect. 2001;109(Suppl 2):223–33. doi:10.2307/3435012. [PMC free article] [PubMed]
+
+65. Kalkstein LS, Greene JS. An evaluation of climate/mortality relationships in large U.S. cities and the possible impacts of a climate change. Environ Health Perspect. 1997;105:84–93. doi:10.2307/3433067. [PMC free article] [PubMed]
+
+66. Intergovernmental Panel on Climate Change. Climate Change 2007: Mitigation. Contribution of Working Group III to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change. Cambridge: Cambridge University Press.
+
+67. World Health Organization. Heat-Health Action Plans. 2008. http://www.euro.who.int/Document/E91347.pdf [Accessed June 26 2008].
+
+68. Cifuentes L, Bojra-Aburto VH, Gouveia N, Thurston N, Lee Davis D. Assessing the health benefits of urban air pollution reductions associated with climate change mitigation (2000–2020): Santiago, Sao Paulo, Mexico City and New York City. Environ Health Perspect. 2001;109(S3):419–425. doi:10.2307/3434790. [PMC free article] [PubMed]
+
+Articles from Journal of Urban Health : Bulletin of the New York Academy of Medicine are provided here courtesy of New York Academy of Medicine
+
+Cited by other articles
+
+Links to NCBI Databases
+
+Copy Download .nbib .nbib

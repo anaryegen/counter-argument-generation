@@ -1,0 +1,389 @@
+Skip to main content
+
+Distributed/Decentralised Renewable Energy Systems
+
+First Online: 18 May 2018
+
+You have full access to this open access chapter
+
+Designing Sustainable Energy for All
+
+Distributed/Decentralised Renewable Energy Systems
+
+Mugendi K. M’Rithaa11,
+
+Jan Carel Diehl14 Show authors
+
+Part of the book series: Green Energy and Technology ((GREEN))
+
+In the previous chapter, we introduced that Distributed Renewable Energy (DRE) is the most promising model to bring sustainable energy to All.
+
+You have full access to this open access chapter, Download chapter PDF
+
+1 Distributed/Decentralised Renewable Energy: Sustainability
+
+In the previous chapter, we introduced that Distributed Renewable Energy (DRE) is the most promising model to bring sustainable energy to All. Figure 2.1 schematizes the paradigm shift from non-renewable/centralised energy generation systems to renewable/distributed energy generation unit. Let us see better why DRE is environmentally, socioethically and economically sustainable compared with the dominant centralised and non-renewable energy generation systems.
+
+Source designed by the Authors
+
+Paradigm shift from non-renewable/centralised energy generation systems to renewable/distributed ones.
+
+Environmental benefits of DRE
+
+If we look at centralised and non-renewable systems, namely, large-scale plants using fossil fuels as oil and coke, they are environmentally unsustainable because they are based on exhausting resources, so forth fastening resources depletion. Furthermore, these exhausting resources result in high greenhouse gases emission (CO2 emissions), through several processes along their life cycle, which determine global warming. Finally, they are responsible for other pollution problem during extraction and transportation processes due to their linking.
+
+If we now look at renewable and distributed resources, such as small-scale solar and wind generation units, they are more environmentally sustainable because they use locally available and renewable energy sources, thus resulting in a reduced environmental impact compared to the various processes of extraction, transformation and distribution of fossil fuels. Furthermore, they have much lower greenhouse gases emissions in use. To conclude, compared to centralised systems, local energy production and distribution increase reliability and reduce distribution losses.
+
+Socioethical and economic benefits of DRE
+
+Centralised systems are unsustainable even in socioethical and economic terms. This comes because, due to the composition of oil and coke, they are very complex to be extracted, refined and distributed. Indeed, these processes require very expensive and large-scale centralised structures, which limit the possibilities of direct and democratised access to energy production and consumption. In history, individuals had low power over their own destiny which led to a widened gap (in terms of inequality) between rich and poor [10], which has been pursued in time perpetuating a centralised energy production.
+
+In contrast, the main advantage of DRE systems is related to their reliability and resilience. In fact, because of their distributed architecture, DRE systems can easily cope with individual failures, since each energy-using node can be served by multiple energy production units (while a fault in a centralised system might affect the energy distribution in the whole system). For example, small generation units for energy production are manageable by small economic entities, where the user can become prosumer (producer + consumer) and the generation units could be connected in a micro energy network, potentially connected with a global network. On this perspective, DRE systems could enable a democratisation of energy access, thus fostering inequality reduction, community self-sufficiency and self-governance. It has been estimated that Distributed Renewable Energies (DRE) has the potential to enable energy access to more than 1 billion by 2025 [12].
+
+2 Distributed/Decentralised Renewable Energy Systems: Structures and Types
+
+In the transition from centralised to decentralised and distributed energy systems, there are two well-characterised elements:
+
+System Structure: regarding the configuration of the actors involved in the energy system;
+
+Type of Energy Sources: regarding the nature of the resources, covering from non-renewable to renewable energy sources.
+
+Concerning the System Structure, we can distinguish the following three main types.Footnote 1
+
+Centralised energy systems could be defined as large-scale energy generation units (structures) that deliver energy via a vast distribution network, (often) far from the point of use (Fig. 2.2).
+
+Source designed by the Authors
+
+Centralised energy system.
+
+Decentralised energy systems could be defined as characterised by small-scale energy generation units (structures) that deliver energy to local customers. These production units could be stand-alone or could be connected to nearby others through a network to share resources, i.e. to share the energy surplus. In the latter case, they become locally decentralised energy networks, which may, in turn, be connected with nearby similar networks (Fig. 2.3).Footnote 2
+
+Source designed by the Authors
+
+Decentralised energy system.
+
+Distributed energy system could be defined as small-scale energy generation units (structure), at or near the point of use, where the users are the producers—whether individuals, small businesses and/or local communities. These production units could be stand-alone or could be connected to nearby others through a network to share, i.e. to share the energy surplus. In the latter case, they become locally distributed energy networks, which may, in turn, be connected with nearby similar networks (Fig. 2.4).
+
+Distributed energy system. Source designed by the Authors
+
+Given the above structures, the below diagram presents various types of possible configurations (Fig. 2.5).
+
+Source designed by the Authors
+
+Distributed/decentralised energy. System structure and configurations.
+
+3 Renewable Energy Systems Types
+
+An explanation is needed on the renewability of resources. On one side, we can recognise the nature of the resource, considering the kind of transformation needed to make them usable. Some exhaustible resources, such as oil, are available as fossil hydrocarbons, but we can only use them after extraction and converting them into heat, electricity and so on. These extraction and conversion processes imply having, as it was highlighted before, large-scale centralised plants. With renewable resources, this transformation processes could be relatively simpler. The simplest example comes out with the sun: it is freely available and it can directly be used in the form of heat for cooking and even for house heating.
+
+On the other side, we can characterise resources based on their capability of regeneration against the anthropic consumption rate. It means that this resource could be continuously available for its use, under the condition that it is correctly managed. Wood represents a typical case whereas renewability depends on this. The same type of wood could be renewable or not depending on how its growth is being planned and controlled. Once again, we cannot define a renewable resource without mentioning the context in which it is produced and consumed. What can be ‘renewable’ on one side of the world, with given natural sources, culture even political situation, could be considered ‘non-renewable’ in other locations. Because of that, recognising the context is one the pillars towards creating a distributed renewable energy system. The renewable energy sources are the following: sun, wind, water, biomass and geothermal energy. An explanation of the main resources is provided in the next paragraphs.
+
+Solar Energy is the most abundant of renewable energies, and it is available at any location, with higher values/yields closer to the Equator, e.g. 1400–2300 kWh/m2 in Europe and US and around 2500 kWh/m2 in Tanzania, East Africa [11]. The total solar irradiation of the sun is about 50 million Gigawatt (GW) (Fig. 2.6).
+
+Source https://solargis.com/legal/terms-of-use-for-ghi-free-maps/
+
+World map solar horizontal irradiation.
+
+The value of radiation is influenced by seasonal climatic variations: it is higher during warmer months than in cold months and usually is higher during the dry season than rainy season.
+
+Nowadays several studies and databases are available to obtain a first estimation of the annual PV plant energy production for a selected location. Two examples of free database are as follows: Photovoltaic Geographical Information System (PVGIS)Footnote 3 provides a map of solar energy resource and assessment of the electricity generation from photovoltaic systems in Europe, Africa and South–West Asia. It provides information related to distributed generation or stand-alone generation in remote areas; IRENA’s Global AtlasFootnote 4 provides maps of resources and support tools to evaluate the technical potential of both solar and wind energy. It includes socio-economic data. When no data are available, field measurements of solar radiation can be made using solar radiometers even though affection from external factor can be expected.
+
+There are two main solar energy technologies: solar photovoltaic systems which use solar irradiation to produce electricity, and solar thermal systems that make use of the sun’s heat, e.g. in solar cooking and solar water heating.
+
+Solar Photovoltaic Systems (SPS)
+
+convert the energy from the sun using solar cells: the PV effect related to the electromotive force is generated under the action of light in the contact zone between two layers of semiconductor material usually silicon-based.
+
+Solar Photovoltaic Systems (SPS) typically are composed of the following components:
+
+Photovoltaic Cell/Module/Array: to convert solar energy into electric energy through the photovoltaic effect;
+
+Charge Controllers: to protect and regulate the charging of batteries, the charge controller interrupts the photovoltaic current when the battery is charged;
+
+Rechargeable Battery bank: to store the surplus of solar energy if not connected to the grid. Types of batteries are: deep cycle lead acid, gel, lithium polymer, lithium ion and NiCad (Nickel Cadmium), and these have a range between 12 and 48V, where the higher the voltage the better the efficiency;
+
+Inverter: to convert the DC from the photovoltaic modules in AC (necessary for products such as domestic appliances, computers, cars and urban lights). There are two different types: converts DC to AC; runs at 120VAC or 240VAC appliances;
+
+Breaker box: to distribute electrical current to the various circuits (if grid connected);
+
+Electric metre: to measure electric energy delivered to their customers (if connected to a network) for billing purposes;
+
+If the dimension of the SPV is limited (less than 100 W), the inverter can be avoided, thus avoiding conversion losses. On the other side, to reach a higher output capacity, a certain number of modules are combined to form a field or array. This example shows the solar high degree of flexibility and scalability of Solar Photovoltaic Systems (SPV), able to power from small lanterns up to mini-grid systems connecting more energy generator units (some hundreds kWp). When considering microgrid systems, about 50–60% of the total cost is due to the solar PV array, while battery bank accounts for about 10–15% and power conditioning unit for 25–35%.
+
+Solar thermal technology converts solar radiation into renewable energy for heating and cooling using a solar thermal collector. Heat from the sun’s rays is collected and used to heat a fluid that will drive the production of energy for heating/cooling. Produced heat can be used to heat water for hygiene and health, or for space heating/cooling (e.g. solar driers and greenhouses).
+
+Solar thermal heating systems are typically composed of the following components: solar thermal collectors, a storage tank and a circulation loop.
+
+The solar thermal collector is composed of:
+
+An absorber metal, such as copper/steel covered with chromo, alumina–nickel and Tinox. These materials give high conductivity, high absorptivity and low emissivity;
+
+An insulating system that provides a low thermal conductivity to make the whole system resistant to high temperature. It can be made from rock wool, polyurethane foam, polystyrene and others;
+
+Circulating tubes are constructed from metals with good conductivity;
+
+Transparent coverage reduces heat losses and maximises the efficiency of the collector (Fig. 2.7).
+
+Source www.ashden.org
+
+Solar heaters components.
+
+Wind power is extremely site-specific. The energy produced by a wind turbine along the year depends on the average wind speed at the installation site (to achieve economic sustainability, it is required an average wind speed of 4–5 m/s along the year) and is highly influenced by geography and barriers that might obstacle for the passage of wind through the turbines.
+
+Obviously, wind power changes during the day and during the different seasons. For these reasons, data on local wind resources throughout the year need to be collected to select most suitable locations for wind turbines installation. Direct measurements can be taken by installing meteorological towers with anemometers and wind vanes to measure speed and directions. Secondary data can be taken from other measuring meteorological or airport installations, together with appropriate calculation models. A further possibility is provided by online databases, such as the previously mentioned IRENA’s Global Atlas for solar and wind. Online databases can offer only very limited information for wind energy, since, as it has been mentioned, the average wind speed is highly dependent on the specific characteristics of a chosen area. Furthermore, as wind resource maps typically evaluate wind conditions at 50 m height, the information obtained can result too different for those relevant for small wind turbines.
+
+The working principle of wind energy consists of transforming wind force into a mechanical or electrical one. A Wind Power Generator (WPG) converts the kinetic energy of the wind, through rotor blades connected to a generator, into electric power. In the case of an air-generator, the force of the wind turns the blades, converting the energy of the wind into mechanical energy of the rotating shaft. This shaft is then used to turn a generator to produce electricity or to operate a mechanical pump or grinding mill.
+
+The main wind power system components are as follows:
+
+A rotor, or blades, which convert the wind’s energy into rotational shaft energy;
+
+A nacelle (enclosure) containing a drive train, usually including a gearbox and a generator;
+
+A tower, to support the rotor and drive train;
+
+Electronic equipment such as controls, electrical cables, ground support equipment and interconnection equipment.
+
+With similar components, there are two basic designs of wind electric turbines:
+
+Horizontal-axis (propeller-style) machines;
+
+Vertical axis, or ‘egg-beater’ style.
+
+Horizontal-axis wind turbines are most common today.
+
+The price depends on the size, material and construction process. Costs of Small Wind systems include turbine and components: tower or pale, battery storage, power conditioning unit, wiring and installation, as well as maintenance: turbine requires cleaning and lubrication, while batteries, guy wires, nuts and bolts, etc. require periodic inspection. Costs depend on the cost of local spares and service.
+
+Energy from water can be produced through different sources: water flow, waves or from the tide, all cases it is transformed into mechanical power or could be converted into electricity. There are three different technologies using water: hydropower, energy from waves, energy from the tide. Currently, hydropower is a mature technology; last two are at the level of experimentations. So forth, here only hydropower will be presented.
+
+Hydropower resources are extremely site-specific: the right combination of flow and fall is required to meet a certain electric load. Best geographical areas to instal a hydropower system are generally in presence of perennial rivers, hills or mountains, but since a river flow can vary greatly during the seasons, a single measurement of instantaneous flow in a watercourse is not enough, it is important to gather detailed information to estimate energy production potential. Moreover, also the evaluation of the best site is required. For some areas, general data about water resources assessment can be found on Info hydro, a database provided by the World Meteorological Organization. However, in most cases, data for the site of interest are not available, or a more accurate estimation is strictly necessary. For these reasons, a direct evaluation is required.
+
+To measure the flow, there exist several methods. A brief description of the two most common methods is given here below.
+
+Velocity-area method: this method is suitable for medium-sized rivers. The evaluation of the stream is obtained by measuring the cross-sectional area of the river and the speed of the water;
+
+Weir method: for small rivers, a temporary weir can be built. This is a low obstacle across the stream to be gauged with a notch through which all the water may be channelled. Water flow measurement is obtained by a measurement of the difference in level between the upstream water surface and the bottom of the notch;
+
+Hydropower plants transform kinetic energy into mechanical energy with a hydraulic turbine. The power available in a river or stream depends on the rate at which the water is flowing, and the height (head) that falls. Mechanic energy drives devices or is converted into electric energy via an electric generator. Electricity production is continuous, as long as the water is flowing.
+
+The most typical hydropower system is composed of the following elements:
+
+Weir and intake channel: where water is diverted from the natural stream, river or perhaps a waterfall;
+
+Forebay tank: artificial pool to contain water;
+
+Penstock: canal to bring water to the turbine;
+
+Power group: the turbine converts the flow and pressure of the water into mechanical energy. The turbine turns a generator connected to electrical load, directly connected to the power system of a single house or to a community distribution system.
+
+Hydropower plant costs depend on site characteristics: terrain and accessibility, (for micro-systems) the distance between the powerhouse and the loads can have a significant influence on overall capital costs; the use of local materials, local labour and pumps; operational costs are low due to high plant reliability, proven technology.
+
+Bioenergy is made available from biomass, e.g. crops, residues and other biological materials that could be used to produce chemical energy, i.e. gas that could be converted into electricity. Also, transportation fuels can be produced from biomass, thus reducing the demand for petroleum products. Main transportation fuels are ethanol from corn and sugarcane, and biodiesel from soy, rapeseed and palm oil.
+
+Biogas, a mixture of methane and carbon dioxide, is produced by breaking down biomass, particularly wet organic matter like animal dung, leftover food or human waste. The main biogas digester system is composed of the following elements:
+
+A large container to hold the mixture of decomposing organic matter and water (which is called slurry);
+
+Another container to collect the biogas;
+
+Opening to add the organic matter (the feedstock);
+
+Opening to take the gas to where it will be used;
+
+Opening to remove the residue.
+
+In fixed dome biogas plants (the most common type), the slurry container and gas container are combined.
+
+The gasification process to produce chemical energy entails a partial combustion of biomass due to the limited presence of air in the reactor. The gasification of biomass takes place in four stages:
+
+Drying: water vapour is driven off the biomass;
+
+Pyrolysis: as the temperature increases, the dry biomass decomposes into vapours, gases, carbon (char) and tars;
+
+Reduction: water vapour reacts with carbon, producing hydrogen, carbon monoxide and methane. Carbon dioxide reacts with carbon to produce more carbon monoxide;
+
+Combustion: some of the char and tars burn with oxygen from air to give heat and carbon dioxide. This heat enables the other stages of the gasification process to take place;
+
+Figure 2.8 shows the process of gasification:
+
+Source www.ashden.org
+
+Process of gasification.
+
+Updraft gasifier, where biomass is loaded at the top of the gasifier and air is blown in at the bottom. This type of gasifier produces gas that is contaminated by tar and is therefore too dirty to be used in an internal combustion engine;
+
+Downdraft gasifier, where air is drawn downwards through the biomass. The main reactions occur in a constriction or ‘throat’, where the tars and volatile gases break down into carbon monoxide and hydrogen at a much higher temperature than in an updraft gasifier. The throat is usually made from ceramic to withstand this temperature. Downdraft gasifiers produce cleaner gas.
+
+The cost of biogas plants varies greatly from country to country, depends on the costs of both materials (brick, concrete and plastic) and labour that can be very different by context. The cost per cubic metre of digester volume decreases as volume rises. Using plastic or steel to prefabricate biogas plants usually increases the material cost but can substantially reduce the labour needed for installation as well as the lifetime (compared to flexible bags). Biomass gasification is not suitable for home-based solutions due to the low efficiency and high quantity of biomass needed compared to the chemical energy produced.
+
+3.5 Geothermal Energy
+
+Geothermal energy can be found in rocks in fluids that circulates underground. The main use of this kind of renewable energy is the direct use of its heat, e.g. to heat buildings, to grow plants in greenhouses, to dry crops, to heat water at fish farms and several industrial processes, or the conversion of such heat into electricity for different purposes.
+
+Geothermal energy requires a heat pump, an air delivery system (ductwork) and a heat exchanger—a system of pipes buried in the shallow ground near the building. The heat pump converts the low temperature of geothermal energy into thermal energy with a higher temperature, thus exploiting the physical property of fluids to absorb and to release heat when they vaporise or condense, respectively. Main technologies using geothermal energy are the geothermal heat pumps, which use the shallow ground to heat and cool buildings; the geothermal electricity production, which generates electricity from the earth’s heat; and the geothermal direct use, which produces heat directly from hot water within the earth.
+
+4 Is Renewable Energy Zero Impact?
+
+When talking about renewable energy and its environmental impact, there are some common myth conceptions that have to be debunked.
+
+First, it is sometimes believed that renewable energy has zero impact. Even if renewable energy systems do not produce harmful emissions in the use stage,Footnote 5 it must be said that these systems do have an environmental impact. This is mainly related to the extraction of resources and the manufacturing processes required to produce the physical elements of the energy systems. In addition, distribution, maintenance and disposal also contribute to the total impacts. The overall impact depends on the type of energy source, the geographic location and the specific characteristics of the energy systems.
+
+On the other hand, another myth conception, in particular in relation to PV energy systems, is that manufacturing a solar panel consumes more energy that it will ever deliver in its lifespan [6]. This is of course false. If we look at the energy yield ratio (the ratio of energy produced by a system during its lifespan to the energy needed to make it), PV systems generally range from 4 (for a grid-connected system in central Northern Europe) to more than 7 in Australia (ibid.).
+
+The energy yield ratio is an interesting indicator to show the efficiency of an energy source in terms of energy returned (by the system) on energy invested (to manufacture and operate the system). Typical energy yield ratiosFootnote 6 for electric power generated using common energy sources are as follows [5]. Hydroelectric power has the highest value, 84. This is followed by wind power, which has a ratio of 20. Geothermal and solar have a similar mean value, around 10. Regarding fossil fuels, coal has a ratio of around 12, while natural gas has a mean value around 7.
+
+Although interesting, the energy yield ratio represents only one element of the picture. What this ratio does not tell us is the overall impact of using a particular energy source. For example, geothermal, solar and coal have a similar energy yield ratio, but this does not mean they have similar environmental impacts. To this end, we need to look at the impact generated considering the whole energy production chain, from exploration and extraction to processing, storage, transport, transformation and final use. For example, considering only greenhouse gases emissions, the World Energy Council [13] shows that photovoltaic, hydro and wind energy have CO2eq emissions between around 10 and 100 tonnes per GWh of electricity. This is considerably lower than the emissions related to natural gas (around 400 CO2 eq./GWh), oil (between around 650 and 800 CO2 eq./GWh), and coal (between around 800 and 1000 CO2 eq./GWh).
+
+Even if renewable energy has a lower impact than fossil fuels, it is important to understand specific impacts associated with the technology used:
+
+Wind turbines are linked to impact on wildlife, and in particular bird and bat deaths from collisions with wind turbines, caused by changes in air pressure by the spinning turbines, as well as from habitat disruption [9]. However, as concluded in the NWCC report, these impacts do not pose a threat to species populations;
+
+In relation to PV cells, we need to consider the hazardous materials needed to clean the semiconductor surface. These can include, depending on the type and size of cell, hydrochloric acid, sulphuric acid, nitric acid, hydrogen fluoride and acetone [8]. Thin-film PV cells use some toxic materials not used in traditional silicon photovoltaic cells, including gallium arsenide, copper–indium–gallium–diselenide, and cadmium-telluride (ibid.). Thus, it is important to prevent exposure to workers and ensure proper disposal. Other associated impacts include land use, especially in relation to relatively big plants;
+
+Hydropower is associated with alteration of ecosystems, as the construction of dams is likely to influence the flow of rivers (with potentially related drained rivers and floods). This can have an impact on wildlife as well as people’s activities.
+
+5 Barriers to Distributed/Decentralised Renewable Energy Systems
+
+Even though a wide range of socio-economic and environmental arguments are in favour of Distributed Renewable Energy systems (DRE), in practice there are also a series of barriers to overcome. In this perspective, a barrier to a DRE may be defined as a factor that negatively affects its adoption and subsequent utilisation which hampers its widespread diffusion [14]. Large-scale diffusion and utilization of relatively newer technologies such as DREs face barriers. These barriers may put DREs at a technical, economic, regulatory or institutional disadvantage in comparison to conventional energy systems [1]. Several scholars have identified and clustered barriers for specific renewable energy system (i.e. photovoltaic) as well as in more general for a range of DREs.
+
+For example, Karakaya and Sriwannawit [4] conclude that the adoption of PV systems—either as a substitute for other electricity power generation systems in urban areas or for rural electrification—is still a challenging process. Although photovoltaic (PV) systems have become much more competitive, the diffusion of PV systems still remains low in comparison to conventional energy sources. They still face several barriers encompassing four dimensions: sociotechnical, management, economic and policy. From the economic point of view, the cost of PV systems is still generally perceived as high. In regard to the sociotechnical dimension, several studies imply that the complexity of interaction between people and PV systems can hinder the adoption. In addition, there are still several barriers related to the policy dimension and technology management. Ineffective policy measures and inappropriate management can hamper the diffusion process in a variety of contexts.
+
+Some authors [7] identified three main barriers to the deployment of renewables in developing countries: there are, respectively, policy and legal barriers, technical barriers and finally, financial barriers. According to their work, the introduction and success of any renewable technology are, to a large extent, dependent on the existing government policies. Government policies are an important factor in terms of their ability to create an enabling environment for DREs dissemination and mobilising resources, as well as encouraging private sector investment. Specifically, the success of DREs in the Western African region has been limited by a combination of factors which include the following: corruption; poor institutional framework and infrastructure; inadequate DREs planning policies; uncoordinated actions in the energy sector; pricing distortions which have placed renewable energy at a disadvantage, in particular the strong subsidy of fossil energies; high initial capital costs of DREs; weak dissemination strategies; poor decentralised solutions for energy services; lack of consumer awareness on benefits and opportunities of renewable energy solutions; unavailability of funds for development of renewable energies; lack of skilled manpower; poor baseline information; weak services and finally, weak or lack maintenance of infrastructures.
+
+Other authors [3] looked at the barriers from another perspective: the entrepreneurial setting. What constraints do Renewable Energy Entrepreneurs (REEs) in developing countries encounter while introducing DREs. Seven constraints were identified as key to REEs’ success (or, conversely, failure) in developing countries: inadequate or inappropriate government or policy support, inadequate local demand, price of DRESs, inadequate access to institutional finance, lack of skilled labour, underdeveloped physical infrastructure and logistics and power of incumbents (existing players on the energy market).
+
+Additionally, Yaqoot et al. [14] looked after decentralised renewable energy systems in more general, such as solar lanterns, solar home systems, family-type biogas plants, improved biomass cook stoves, etc. Inappropriateness of technology, unavailability of skilled manpower for maintenance, unavailability of spare parts, high cost, lack of access to credit, poor purchasing power and other spending priorities, unfair energy pricing, lack of information or awareness and lack of adequate training on operation and maintenance of decentralised renewable energy systems were found to be the most critical barriers [14]. The identified barriers have been classified under five broad categories depending on the characteristics of the barrier: technical, economic, institutional, sociocultural and environmental (see Table 2.1).
+
+Table 2.1 Classification of barriers to the diffusion of DRE
+
+In conclusion, next to the opportunities for DRE in emerging markets, there are also a wide range of potential barriers. These barriers might vary per DRE technology, per region and per stakeholder perspective. For a successful implementation of DREs, it is critical to take these barriers in mind and to come up with remedial measures to overcome them. The used literature for this section can help to provide a deeper insight into the barriers as well as solutions to overcome them.
+
+The definitions given here are the ones adopted by the LeNSes project.
+
+In some classifications (e.g. Colombo et al. [2]) decentralised systems, differently than in the LeNSes approach, are only individual and isolated systems.
+
+Photovoltaic Geographical Information System, http://re.jrc.ec.europa.eu/pvgis/.
+
+Global Atlas for solar and wind, www.irena.org/globalatls/.
+
+Even if we should also consider the impact related to maintaining the energy system (e.g. cleaning, replacing batteries or other components).
+
+Energy yield ratios change historically. Also, each individual energy system has its own specific ratio.
+
+Beck F, Martinot E (2004) Renewable energy policies and barriers. In: Cleveland CJ (ed) Encyclopedia of energy. Academic Press, Elsevier Science, New York
+
+Colombo E, Bologna S, Masera D (2013) Renewable energy for unleashing sustainable development. Springer, United Kingdom
+
+Gabriel CA, Kirkwood J, Walton S, Rose EL (2016) How do developing country constraints affect renewable energy entrepreneurs? Rev Energy Sustain Develop 35(Supplement C):52–66. https://doi.org/10.1016/j.esd.2016.09.006
+
+Article Google Scholar
+
+Karakaya E, Sriwannawit P (2015) Barriers to the adoption of photovoltaic systems: the state of the art. Rev Renew Sustain Energy Rev 49(Supplement C):60–6. https://doi.org/10.1016/j.rser.2015.04.058
+
+Article Google Scholar
+
+Lambert J, Hall C, Balogh S, Poisson A, Gupta A (2013) EROI of global energy resources: status, trends and social implications. United Kingdom Department for International Development
+
+Mackay DJC (2009) Sustainable energy—without the hot air. UIT Cambridge, UK
+
+Mboumboue E, Njomo D (2016) Potential contribution of renewables to the improvement of living conditions of poor rural households in developing countries: Cameroon’s case study. Rev Renew Sustain Energy Rev 61(Supplement C):266–79. https://doi.org/10.1016/j.rser.2016.04.003
+
+Article Google Scholar
+
+National Renewable Energy Laboratory (NREL) (2012) Renewable electricity futures study. In: Hand MM, Baldwin S, DeMeo E, Reilly JM, Mai T, Arent D, Porro G, Meshek M, Sandor D (eds), 4 vols. NREL/TP-6A20-52409. National Renewable Energy Laboratory, Golden, CO
+
+National Wind Coordinating Committee (NWCC) (2010) Wind turbine interactions with birds, bats, and their habitats: a summary of research results and priority questions
+
+Rifkin J (2011) The third industrial revolution. In: How lateral power is transforming energy, the economy, and the world. P. Macmillan, New York
+
+Rolland S, Glania G (2011) Hybrid mini-grids for rural electrification: lesson learned. Alliance for Rural Electrification, Brussels
+
+Skierka K (2016) SDGs and DRE: the critical role of national policy in accelerating DRE markets and achieving power for all. In: Vezzoli C, Delfino E (eds) Sustainable energy for all by design conference proceedings, pp 23–31
+
+World Energy Council (2004) Comparison of energy systems using life cycle assessment. World Energy Council, London (UK)
+
+Yaqoot M, Diwan P, Kandpal TC (2016) Review of barriers to the dissemination of decentralized renewable energy systems. Rev Renew Sustain Energy Rev 58(Supplement C):477–90. https://doi.org/10.1016/j.rser.2015.12.224
+
+Article Google Scholar
+
+Authors and Affiliations
+
+Design Department, Politecnico di Milano, Milan, Italy
+
+College of Engineering, Design and Physical Sciences—Department of Design, Brunel University London, Uxbridge, UK
+
+University of Nairobi, Nairobi, Kenya
+
+Cape Peninsula University of Technology, Cape Town, South Africa
+
+Mugendi K. M’Rithaa
+
+University of Botswana, Gaborone, Botswana
+
+The College of Engineering, Design, Art and Technology, Makerere University, Kampala, Uganda
+
+Delft University of Technology, Delft, The Netherlands
+
+View author publications
+
+You can also search for this author in PubMed Google Scholar
+
+View author publications
+
+You can also search for this author in PubMed Google Scholar
+
+View author publications
+
+You can also search for this author in PubMed Google Scholar
+
+Mugendi K. M’Rithaa
+
+View author publications
+
+You can also search for this author in PubMed Google Scholar
+
+View author publications
+
+You can also search for this author in PubMed Google Scholar
+
+View author publications
+
+You can also search for this author in PubMed Google Scholar
+
+View author publications
+
+You can also search for this author in PubMed Google Scholar
+
+Corresponding author
+
+Correspondence to Carlo Vezzoli .
+
+Rights and permissions
+
+Open Access This chapter is licensed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/), which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license and indicate if changes were made. The images or other third party material in this book are included in the book's Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the book's Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder.
+
+Reprints and permissions
+
+Copyright information
+
+© 2018 The Author(s)
+
+Vezzoli, C. et al. (2018). Distributed/Decentralised Renewable Energy Systems. In: Designing Sustainable Energy for All. Green Energy and Technology. Springer, Cham. https://doi.org/10.1007/978-3-319-70223-0_2
+
+DOI: https://doi.org/10.1007/978-3-319-70223-0_2
+
+Published: 18 May 2018
+
+Publisher Name: Springer, Cham
+
+Print ISBN: 978-3-319-70222-3
+
+Online ISBN: 978-3-319-70223-0
+
+eBook Packages: EnergyEnergy (R0)
+
+Anyone you share the following link with will be able to read this content:Get shareable link
+
+Sorry, a shareable link is not currently available for this article.
+
+Provided by the Springer Nature SharedIt content-sharing initiative

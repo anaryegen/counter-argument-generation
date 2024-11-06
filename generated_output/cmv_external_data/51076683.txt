@@ -1,0 +1,61 @@
+Educational Assessment
+
+Multiple-Choice Tests: Revisiting the Pros and Cons
+
+Maryellen Weimer, PhD
+
+Given class sizes, teaching loads, and a host of other academic responsibilities, many teachers feel as though multiple-choice tests are the only viable option. Their widespread use justifies a regular review of those features that make these tests an effective way to assess learning and ongoing consideration of those features that compromise how much learning they promote.
+
+What multiple-choice testing has going for it.
+
+Scoring is quick and easy, especially if a machine is involved.
+
+Easy creation of multiple versions, again with machine assistance. Plus, there’s the potential to grow the collection of questions every time the course is taught.
+
+Simple statistics (now regularly calculated by computer or via LMS) allow item analysis to reveal how well a question discriminates between those who know the material and those who don’t.
+
+Can be graded objectively without rater bias.
+
+Allow for inclusion of a broad range of topics on a single exam thereby effectively testing the breadth of a student’s knowledge.
+
+Potential benefits of multiple-choice test questions when done right.
+
+On too many multiple-choice tests, the questions do nothing more than assess whether students have memorized certain facts and details. But well-written questions can move students to higher-order thinking, such as application, integration, and evaluation. SAT questions illustrate how thought-provoking a multiple-choice question can be. Ways to address: Recognize the amount of time it takes to write a good question. Preserve and reuse good questions. Consider using only three-answer options. Research says you can; check the reference below.
+
+Questions can be clearly written and if they are, it’s a straight shot to what the student knows. But the clarity of multiple-choice questions is easily and regularly compromised—with negatives or too much material in the stem, for example. Ways to address: Do an item analysis and find out if a question is being missed by those with high exam scores. If so, there’s probably something wrong with the question and it should be tossed.
+
+What’s problematic about multiple-choice testing.
+
+A careful reading of some questions can reveal the right answer, and test savvy students will use this to their advantage. It might be the grammatical structure that only fits one answer option or the longer length of the correct response. What happens here is that the questions end up testing literary skill rather than content knowledge. Ways to address: Give the test to someone not taking the course and see how many questions they get correct. Ask if something tipped them off to the right answer.
+
+With lucky guesses students get credit for correct answers. It looks like they know something they don’t know. Ways to address: 1) Avoid throw-away answer options—those that are obviously incorrect. If the student doesn’t know the answer but can rule out one or two of the options, they’ve significantly upped the chances of getting it right. 2) Some teachers use a formula that gives points for the correct answer and takes a lesser amount of points off for answers missed. This approach, not terribly popular with students, decreases guessing by forcing student to leave questions blank when they don’t know. 3) Others have students rate the level of confidence they have in their answer, which becomes part of the score. Correct answers with high confidence ratings score the highest. Correct answers with low confidence ratings get a lower score.
+
+Wrong answer options expose students to misinformation, which can influence subsequent thinking about the content. This is especially true if students carefully consider the options and select an incorrect one after having persuaded themselves that it’s right. Ways to address: Spend time during the debrief on incorrect answer options regularly selected. This is a time when students need to be doing the leg work, not the teacher. Have them talk with each other, check notes, look things up in the text, and then explain why the option is incorrect. Make five bonus points available during the debrief. Those points are earned for everyone in the class by students who explain why certain answer options are wrong. More points are awarded when the explanation is offered by someone who selected that incorrect option.
+
+Asked for their test preference, most students pick multiple-choice tests. They like them because they think they’re easier. And they are. With a multiple-choice question, the answer is selected, not generated. Students also think they’re easier because they’re are used to multiple-choice questions that test recall, ask for definitions, or have answers that can be memorized without being all that well understood. Ways to address: Write questions that make students think.
+
+If you regularly use multiple-choice tests, you ought to have a good working knowledge of the research associated with them. That can be acquired with one well-organized and easily understood “Teacher-Ready Research Review.”
+
+Xu, X., Kauer, S., and Tupy, S. (2016). Multiple-choice questions: Tips for optimizing assessment in-seat and online. Scholarship of Teaching and Learning in Psychology, 2 (2), 147-158.
+
+An article highlighting the research covered in the Xu, et al. appeared in the November 2016 issue of The Teaching Professor.
+
+For more on multiple-choice tests, read:
+
+Seven Mistakes to Avoid When Writing Multiple-Choice Questions
+
+30 Tips for Writing Good Multiple-Choice Questions
+
+Advantages and Disadvantages of Different Types of Test Questions
+
+Tips for Writing Good Multiple-Choice Questions
+
+assessing student learning exams multiple-choice tests
+
+Stay Updated with Faculty Focus!
+
+Get exclusive access to programs, reports, podcast episodes, articles, and more!
+
+Already a subscriber? log in here.
+
+Already a subscriber? log in here.

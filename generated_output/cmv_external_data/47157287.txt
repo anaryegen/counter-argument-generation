@@ -1,0 +1,347 @@
+Back to Top Skip to main content
+
+An official website of the United States government Here's how you know
+
+The .gov means it’s official. Federal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you’re on a federal government site.
+
+The site is secure. The https:// ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely.
+
+Log in Show account info
+
+Logged in as: username
+
+Access keys NCBI Homepage MyNCBI Homepage Main Content Main Navigation
+
+The PMC website is updating on October 15, 2024. Learn More or Try it out now.
+
+HHS Author Manuscripts
+
+As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with, the contents by NLM or the National Institutes of Health. Learn more: PMC Disclaimer | PMC Copyright Notice
+
+J Health Soc Behav. Author manuscript; available in PMC 2011 Aug 4.
+
+Published in final edited form as:
+
+J Health Soc Behav. 2010; 51(Suppl): S54–S66. doi: 10.1177/0022146510383501
+
+NIHMSID: NIHMS300162
+
+Social Relationships and Health: A Flashpoint for Health Policy
+
+Debra Umberson1 and Jennifer Karas Montez1
+
+1University of texas at Austin
+
+Find articles by Debra Umberson
+
+Jennifer Karas Montez
+
+1University of texas at Austin
+
+Find articles by Jennifer Karas Montez
+
+1University of texas at Austin
+
+Corresponding Author: Debra Umberson, University of texas at Austin, Department of Sociology, 1 University Station A1700, Austin, TX 78712, ude.saxetu.crp@nosrebmu
+
+The publisher's final edited version of this article is available at J Health Soc Behav
+
+Social relationships—both quantity and quality—affect mental health, health behavior, physical health, and mortality risk. Sociologists have played a central role in establishing the link between social relationships and health outcomes, identifying explanations for this link, and discovering social variation (e.g., by gender and race) at the population level. Studies show that social relationships have short- and long-term effects on health, for better and for worse, and that these effects emerge in childhood and cascade throughout life to foster cumulative advantage or disadvantage in health. This article describes key research themes in the study of social relationships and health, and it highlights policy implications suggested by this research.
+
+Keywords: relationships, social support, social integration, stress, cumulative disadvantage
+
+Captors use social isolation to torture prisoners of war—to drastic effect. Social isolation of otherwise healthy, well-functioning individuals eventually results in psychological and physical disintegration, and even death. Over the past few decades, social scientists have gone beyond evidence of extreme social deprivation to demonstrate a clear link between social relationships and health in the general population. Adults who are more socially connected are healthier and live longer than their more isolated peers. This article describes major findings in the study of social relationships and health, and how that knowledge might be translated into policy that promotes population health. Key research findings include: (1) social relationships have significant effects on health; (2) social relationships affect health through behavioral, psychosocial, and physiological pathways; (3) relationships have costs and benefits for health; (4) relationships shape health outcomes throughout the life course and have a cumulative impact on health over time; and (5) the costs and benefits of social relationships are not distributed equally in the population.
+
+WHAT DO WE MEAN BY “SOCIAL RELATIONSHIPS”?
+
+Social scientists have studied several distinct features of social connection offered by relationships (Smith and Christakis 2008). Social isolation refers to the relative absence of social relationships. Social integration refers to overall level of involvement with informal social relationships, such as having a spouse, and with formal social relationships, such as those with religious institutions and volunteer organizations. Quality of relationships includes positive aspects of relationships, such as emotional support provided by significant others, and strained aspects of relationships, such as conflict and stress. Social networks refer to the web of social relationships surrounding an individual, in particular, structural features, such as the type and strength of each social relationship. Each of these aspects of social relationships affects health. We discuss the broad effects of these features of relationships for health, and, for ease of discussion, we use the terms “social relationships” and “social ties” interchangeably throughout this article.
+
+SOCIAL RELATIONSHIPS BENEFIT HEALTH
+
+Many types of scientific evidence show that involvement in social relationships benefits health. The most striking evidence comes from prospective studies of mortality across industrialized nations. These studies consistently show that individuals with the lowest level of involvement in social relationships are more likely to die than those with greater involvement (House, Landis, and Umberson 1988). For example, Berkman and Syme (1979) showed that the risk of death among men and women with the fewest social ties was more than twice as high as the risk for adults with the most social ties. Moreover, this finding held even when socioeconomic status, health behaviors, and other variables that might influence mortality, were taken into account. Social ties also reduce mortality risk among adults with documented medical conditions. For instance, Brummett and colleagues (2001) found that, among adults with coronary artery disease, the socially isolated had a risk of subsequent cardiac death 2.4 times greater than their more socially connected peers.
+
+In addition to mortality, involvement in social relationships has been associated with specific health conditions as well as biological markers indicating risk of preclinical conditions. Several recent review articles provide consistent and compelling evidence linking a low quantity or quality of social ties with a host of conditions, including development and progression of cardiovascular disease, recurrent myocardial infarction, atherosclerosis, autonomic dysregulation, high blood pressure, cancer and delayed cancer recovery, and slower wound healing (Ertel, Glymour, and Berkman 2009; Everson-Rose and Lewis 2005; Robles and Kiecolt-Glaser 2003; Uchino 2006). Poor quality and low quantity of social ties have also been associated with inflammatory biomarkers and impaired immune function, factors associated with adverse health outcomes and mortality (Kiecolt-Glaser et al. 2002; Robles and Kiecolt-Glaser 2003). Marriage is perhaps the most studied social tie. Recent work shows that marital history over the life course shapes a range of health outcomes, including cardiovascular disease, chronic conditions, mobility limitations, self-rated health, and depressive symptoms (Hughes and Waite 2009; Zhang and Hayward 2006).
+
+HOW DO RELATIONSHIPS BENEFIT HEALTH?
+
+Once the clear link between social relationships and health was established, scientists devoted themselves to explaining how this occurs. Generally speaking, there are three broad ways that social ties work to influence health: behavioral, psychosocial, and physiological.
+
+Behavioral Explanations
+
+Health behaviors encompass a wide range of personal behaviors that influence health, morbidity, and mortality. In fact, health behavior explains about 40 percent of premature mortality as well as substantial morbidity and disability in the United States (McGinnis, Williams-Russo, and Knickman 2002). Some of these health behaviors—such as exercise, consuming nutritionally balanced diets, and adherence to medical regimens—tend to promote health and prevent illness, while other behaviors—such as smoking, excessive weight gain, drug abuse, and heavy alcohol consumption—tend to undermine health. Many studies provide evidence that social ties influence health behavior (see a review in Umberson, Crosnoe, and Reczek 2010). For example, Berkman and Breslow’s (1983) prospective study in Alameda County showed that greater overall involvement with formal (e.g., religious organizations) and informal (e.g., friends and relatives) social ties was associated with more positive health behaviors over a ten-year period. Being married (Waite 1995), having children (Denney 2010), and ties to religious organizations (Musick, House, and Williams 2004) have all been linked to positive health behaviors (although, notably, as we will discuss below, marriage and parenthood have also been associated with behaviors that are not beneficial to health—including physical inactivity and weight gain).
+
+Social ties influence health behavior, in part, because they influence, or “control,” our health habits (Umberson et al. 2010). For example, a spouse may monitor, inhibit, regulate, or facilitate health behaviors in ways that promote a partner’s health (Waite 1995). Religious ties also appear to influence health behavior, in part, through social control (Ellison and Levin 1998). Social ties can instill a sense of responsibility and concern for others that then lead individuals to engage in behaviors that protect the health of others, as well as their own health. Social ties provide information and create norms that further influence health habits. Thus, in a variety of ways, social ties may influence health habits that in turn affect physical health and mortality.
+
+Psychosocial Explanations
+
+Research across disciplines and populations suggests possible psychosocial mechanisms to explain how social ties promote health. Mechanisms include (but are not limited to): social support, personal control, symbolic meanings and norms, and mental health. While most studies focus on only one or two of these mechanisms, it is clear that connections between mechanisms are complex, and that these interconnections may explain the linkage between social ties and health better than any single mechanism (Thoits 1995; Umberson et al. 2010).
+
+Social support refers to the emotionally sustaining qualities of relationships (e.g., a sense that one is loved, cared for, and listened to). Hundreds of studies establish that social support benefits mental and physical health (Cohen 2004; Uchino 2004). Social support may have indirect effects on health through enhanced mental health, by reducing the impact of stress, or by fostering a sense of meaning and purpose in life (Cohen 2004; Thoits 1995). Supportive social ties may trigger physiological sequelae (e.g., reduced blood pressure, heart rate, and stress hormones) that are beneficial to health and minimize unpleasant arousal that instigates risky behavior (Uchino 2006). Personal control refers to individuals’ beliefs that they can control their life outcomes through their own actions. Social ties may enhance personal control (perhaps through social support), and, in turn, personal control is advantageous for health habits, mental health, and physical health (Mirowsky and Ross 2003; Thoits 2006).
+
+Many studies suggest that the symbolic meaning of particular social ties and health habits explains why they are linked. For example, meanings attached to marriage and relationships with children may foster a greater sense of responsibility to stay healthy, thus promoting healthier lifestyles (Nock 1998; Waite 1995). Studies on adolescents often point to the meaning attached to peer groups (e.g., what it takes to be popular) when explaining the influence of peers on alcohol, tobacco, and drug use (Crosnoe, Muller, and Frank 2004). The meaning of specific health behaviors within social contexts may also vary. For example, Schnittker and McLeod (2005) argue that racial-ethnic identity may correspond with the meaning of certain health behaviors, such as consuming particular foods or avoiding alcohol, in ways that promote and sustain those behaviors. Moreover, the notion of “meaning” may help explain health behavior contagion across social networks: for example, the spread of obesity across social networks appears to be influenced by perceptions of social norms about the acceptability of obesity and related health behaviors (e.g., food consumption, inactivity) among network members who are socially close, rather than members who are simply geographically close (Christakis and Fowler 2007; Smith and Christakis 2008). In a more fundamental way, greater social connection may foster a sense of “coherence” or meaning and purpose in life, which, in turn, enhances mental health, physiological processes, and physical health (Antonovsky 1987).
+
+Mental health is a pivotal mechanism that works in concert with each of the other mechanisms to shape physical health (Chapman, Perry, and Strine 2005). For instance, the emotional support provided by social ties enhances psychological well-being, which, in turn, may reduce the risk of unhealthy behaviors and poor physical health (Kiecolt-Glaser et al. 2002; Thoits 1995; Uchino 2004). Moreover, mental health is an important health outcome in and of itself. The World Health Organization identifies mental health as an essential dimension of overall health status (World Health Organization 2007). However, the prevalence of mental disorders and their consequences for individuals and societies are often underappreciated by policy makers and private insurers. Data from the National Comorbidity Survey Replication indicate that 26.2 percent of noninstitutionalized U.S. adults suffer from a mental disorder in a given year (Kessler et al. 2005). As the leading cause of disability in both low- and high-income countries, mental disorders account for over 37 percent of the total years of healthy life lost due to disability (Mathers et al. 2006).
+
+Physiological Explanations
+
+Psychologists, sociologists, and epidemiologists have contributed a great deal to our understanding of how social processes influence physiological processes that help to explain the link between social ties and health. For example, supportive interactions with others benefit immune, endocrine, and cardiovascular functions and reduce allostatic load, which reflects wear and tear on the body due, in part, to chronically overworked physiological systems engaged in stress responses (McEwen 1998; Seeman et al. 2002; Uchino 2004). These processes unfold over the entire life course, with effects on health. Emotionally supportive childhood environments promote healthy development of regulatory systems, including immune, metabolic, and autonomic nervous systems, as well as the hypothalamic-pituitary-adrenal (HPA) axis, with long-term consequences for adult health (Taylor, Repetti, and Seeman 1997). Social support in adulthood reduces physiological responses such as cardiovascular reactivity to both anticipated and existing stressors (Glynn, Christenfeld, and Gerin 1999). Indeed, continuously married adults experience a lower risk of cardiovascular disease compared with those who have experienced a marital loss, in part due to the psychosocial supports conferred by marriage (Zhang and Hayward 2006).
+
+THE DARK SIDE OF SOCIAL RELATIONSHIPS
+
+While social relationships are the central source of emotional support for most people, social relationships can be extremely stressful (Walen and Lachman 2000). For example, marriage is the most salient source of both support and stress for many individuals (Walen and Lachman 2000), and poor marital quality has been associated with compromised immune and endocrine function and depression (Kiecolt-Glaser and Newton 2001). Sociological research shows that marital strain erodes physical health, and that the negative effect of marital strain on health becomes greater with advancing age (Umberson et al. 2006).
+
+Relationship stress undermines health through behavioral, psychosocial, and physiological pathways. For example, stress in relationships contributes to poor health habits in childhood, adolescence, and adulthood (Kassel et al. 2003). Stress contributes to psychological distress and physiological arousal (e.g., increased heart rate and blood pressure) that can damage health through cumulative wear and tear on physiological systems, and by leading people of all ages to engage in unhealthy behaviors (e.g., food consumption, heavy drinking, smoking) in an effort to cope with stress and reduce unpleasant arousal (Kassel, Stroud, and Paronis 2003). The propensity to engage in particular risky health behaviors in response to stress appears to vary over the life course. For example, stress is associated with more alcohol consumption in young adulthood and greater weight gain in mid-life (Umberson et al. 2010). Relationship stress also undermines a sense of personal control and mental health, both of which are, in turn, associated with poorer physical health (Mirowsky and Ross 2003).
+
+It may seem obvious that strained and conflicted social interactions undermine health, but social ties may have other types of unintended negative effects on health. For example, relationships with risk-taking peers contribute to increased alcohol consumption, and having an obese spouse or friend increases personal obesity risk (Christakis and Fowler 2007; Crosnoe et al. 2004). This “social contagion” of negative health behaviors operates via multiple mechanisms (Smith and Christakis 2008). One key mechanism is social norms. Perceived social norms about drinking behavior influence alcohol consumption among young adults (Thombs, Wolcott, and Farkash 1997), and friendship norms about dieting influence unhealthy weight control (Eisenberg et al. 2005). Unsupportive social ties may also present barriers to improving health behaviors and outcomes. For example, Nagasawa and colleagues (1990) found that negative social environments and their perceived barriers predicted poor compliance to medical regimens among diabetes patients.
+
+Caring for one’s social ties may also involve personal health costs. For example, providing care to a sick or impaired spouse imposes strains that undermine the health of the provider, even to the point of elevating mortality risk for the provider (Christakis and Allison 2006). Caring for a sick or impaired spouse is associated with increased physical and psychiatric morbidity, impaired immune function, poorer health behavior, and worse health for the provider (Schulz and Sherwood 2008). Moreover, the recipient of care may be negatively affected by interpersonal interactions with stressed caregivers (Bediako and Friend 2004). Middle-aged adults, particularly women, often experience exceptionally high caregiving demands as they contend with the challenge of simultaneously rearing children, caring for spouses, and looking after aging parents (Spain and Bianchi 1996). The combination of smaller families (to share in the care-giving of aging parents) and an aging population mean that the multigenerational demands of social ties may become more pronounced in the future.
+
+CUMULATIVE ADVANTAGE AND DISADVANTAGE
+
+All Americans are not at equal risk for risky health behaviors, morbidity, and premature mortality. Throughout life, we are exposed to social conditions that promote or undermine health, and over time these exposures accumulate to create growing advantage or disadvantage for health in socially patterned ways. Thus, social variation in relationships/health processes provides information that may be used to address social disparities in health.
+
+The most salient social ties for health vary over the life course, with parents having the greatest influence on children’s health, peers becoming particularly important in adolescence, intimate partners becoming most important in adulthood, and adult children taking an elevated role in later life (Umberson et al. 2010). The principal explanatory mechanisms may also vary over the life course. For example, stressful family interactions may have their greatest impact on children’s health, while peer pressure and the social meaning of health habits (e.g., pressure to experiment with tobacco, alcohol, and drugs) may have their greatest impact in adolescent relationships, and social control of health habits may be most important in adult relationships.
+
+Some effects of social ties are more immediate, while others slowly build over time. For example, at any given point in time, ongoing social ties affect mental health and health behavior—for better or for worse. These effects may or may not dissipate over time, but recent work on the effects of distressed, disrupted, and emotionally unsupportive childhood environments on adult health shows that these effects reverberate throughout the life course (Crosnoe and Elder 2004; Palloni 2006; Shaw et al. 2004). Certainly, chronic isolation or strain in social ties take an increasing toll over time on a host of health indicators including allostatic load (Seeman et al. 2002), blood pressure (Cacioppo et al. 2002), physical health (Umberson et al. 2006), and mortality risk (Berkman and Syme 1979).
+
+COSTS AND BENEFITS OF SOCIAL RELATIONSHIPS: INEQUALITIES
+
+Both quantitative (size and diversity) and qualitative (benefits and costs) aspects of social ties are demographically patterned and socially constructed. Regarding size, women tend to have larger confidant networks than men, as do whites compared with blacks, better-educated adults compared with less-educated, and, to a lesser extent, younger adults (McPherson, Smith-Lovin, and Brashears 2006). Moreover, the diversity of social ties varies in patterned ways with, for example, better-educated adults engaged in more diverse personal networks (McPherson et al. 2006). Sociodemographic variation in quantitative aspects of social ties may partly explain parallel variation in health disparities because both size (Brummett et al. 2001) and diversity (Cohen et al. 1997) of social ties enhance health. People with a greater number of ties have a larger pool of confidants from which to connect and to receive social support and health-relevant information.
+
+In general, we know little about how the benefits and costs of social ties vary across sociodemographic groups, but some evidence suggests that there is variation. Most attention has been devoted to gender differences, particularly in the context of marriage. Historically, marriage has conferred more health gains for men than for women. Men not only experience greater health benefits through the positive lifestyle and health behaviors that often accompany marriage (Waite 1995), they also experience fewer costs from spousal caregiving, childrearing, caring for aging parents, and balancing work/family demands (Spain and Bianchi 1996). The availability, costs, and benefits of social ties may also vary by race. For instance, blacks are less likely to be married than whites. Yet evidence regarding costs and benefits is mixed. African Americans may experience more marital strain (Broman 1993; Umberson et al. 2005; cf. Kiecolt, Hughes, and Keith 2008) and receive fewer economic gains from marriage compared to whites (Willson 2003), yet some studies find African Americans have historically received more health benefits from marriage than whites (Kiecolt et al. 2008; Liu and Umberson 2008). Disparities in the quantity and quality of social ties exist across socioeconomic statuses as well. More educated adults have a larger number of close confidants and may experience less stress in their relationships. For instance, women with a high school degree or less are roughly twice as likely to divorce within 10 years of their first marriage compared with women having at least a bachelor’s degree (Martin 2006). Notably, differential access, benefits, and costs to social ties across sociodemographic groups are not immutable; recent work shows that these differentials have changed significantly over time (Liu and Umberson 2008; McPherson et al. 2006).
+
+SOCIAL TIES: AN INVESTMENT IN POPULATION HEALTH
+
+Research shows that social ties influence multiple and interrelated health outcomes, including health behaviors, mental health, physical health, and mortality risk. Thus, a policy focus on social ties may prove to be a cost-effective strategy for enhancing health and well-being at the population level (McGinnis et al. 2002; Mechanic and Tanner 2007). Social ties may be unique in their ability to affect a wide range of health outcomes and to influence health (thus cumulative health outcomes) throughout the entire life course. Moreover, interventions and policies that strengthen and support individuals’ social ties have the potential to enhance the health of others connected to those individuals. For example, reducing strain and improving health habits of a married person may benefit the health of both partners, as well any children they care for.
+
+Recent work also shows that some health outcomes can “spread” widely through social networks. For example, obesity increases substantially for those who have an obese spouse or friends (Christakis and Fowler 2007), and happiness appears to spread through social networks as well (Fowler and Christakis 2008). These findings suggest that the impact of social ties on one person’s health goes beyond that person to influence the health of broader social networks. Thus, policies and interventions should capitalize on this natural tendency for health-related attitudes and behaviors to spread through social networks by incorporating these amplification effects into the mechanics of interventions and their cost-benefit estimates (Smith and Christakis 2008).
+
+Finally, enhanced relationship/health linkages can be viewed as preventive medicine. While social ties may serve to improve health outcomes for those who develop serious health conditions, social ties may help prevent these conditions from developing in the first place. Policies that promote and protect social ties should have both short-term and long-term payoffs. If social ties foster psychological well-being and better health habits throughout the life course, then social ties can add to cumulative advantage in health over time—a worthwhile goal for an aging population. Better health means reduced health care costs as well as better quality of life for Americans, regardless of their age.
+
+PUBLIC POLICY: SOCIAL TIES AND HEALTH OF THE POPULATION
+
+Social ties and their connection to health have important implications for health policy. Indeed, some existing social policies and programs implicitly and indirectly incorporate social ties as mechanisms for enhancing population health and well-being. For example, many programs concerned with health of the elderly (e.g., home health services and meal deliveries) direct attention to the impact of social isolation/connection on health. Healthy People 2010, a nationwide health promotion plan developed by the Department of Health and Human Services, recognizes that social ties play an important role in influencing health habits (U.S. Department of Health and Human Services 2000). The Healthy Marriage Initiative recognizes that marriages characterized by supportive interactions benefit the health of children as well as spouses (U.S. Department of Health and Human Services n.d.). The Family Medical Leave Act (FMLA) allows eligible employees to take up to 12 weeks of unpaid, protected leave over a 12-month period to attend to certain medical and family-related needs, such as the birth of a child or caring for an immediate family member (U.S. Department of Labor 2009).
+
+Yet in some cases these policies and programs do not benefit the populations that need them the most, or they unintentionally undermine the health of the target population and others in their social network. For example, FMLA may benefit those who receive care, but it also may be financially prohibitive for caregivers who do not have an employed spouse or enough savings to support them through the time off work, yet those with the fewest financial resources and social ties may need assistance the most. Further, in rare cases, experimental programs have reported worse health outcomes among subgroups of participants. A randomized experiment of the effects of support groups for women with breast cancer found that, compared to women in the control group, the physical functioning of women who participated in the peer discussion group improved if they reported low levels of emotional support from their partners at baseline, but it deteriorated if they reported initially high levels (Helgeson et al. 2000). Another psychosocial intervention tested individualized emotional and instrumental support services in an effort to improve one-year survival outcomes of adults recovering from myocardial infarction. This study found that, compared to a control group, men in the intervention group exhibited similar mortality rates while women exhibited higher mortality rates during the one-year follow-up (Frasure-Smith et al. 1997). Thus, we must develop a policy foundation that integrates scientific evidence on the linkages between social ties and health, and that foundation must do two things: (1) ensure that policies and programs benefit the populations that need them; and (2) maximize health-related benefits for recipients while minimizing costs for providers and recipients.
+
+Poor mental and physical health and unhealthy behaviors exact a huge toll on individuals, families, and society. Solid scientific evidence establishing the causal impact of social ties on health provides the impetus for policy makers to ensure that U.S. health policy works to protect and promote social ties that benefit health. Scientific evidence supports the following premises, and it is from this empirical footing that we can build a policy foundation for promoting both social ties and health:
+
+Social ties affect mental health, physical health, health behaviors, and mortality risk.
+
+Social ties are a potential resource that can be harnessed to promote population health.
+
+Social ties are a resource that should be protected as well as promoted.
+
+Social ties can benefit health beyond target individuals by influencing the health of others throughout social networks.
+
+Social ties have both immediate (mental health, health behaviors) and long-term, cumulative effects on health (e.g., physical health, mortality), and thus represent opportunities for short- and long-term investment in population health.
+
+Although social ties have the potential to benefit health, policy efforts must recognize that social ties also have the potential to undermine health, and that the link between social ties and health may vary across social groups. For example, gender, race, and age are associated with different levels and types of responsibilities, strains, and resources in social ties that then influence personal health habits as well as the health of significant others. In order to be effective, policies and interventions must account for the ways in which social constraints and resources influence health across social groups (House et al. 2008). Moreover, care must be taken to develop strategies that increase the power of social ties to enhance individual health without imposing additional strains on care providers. Thus, we suggest two additional policy components for the basic foundation suggested above:
+
+Caveat: social ties—overburdened, strained, conflicted, abusive—can undermine health.
+
+The costs and benefits of social ties are not distributed equally in the population (e.g., age, socioeconomic status, gender, race variation).
+
+How can policy makers use the scientific findings on social ties and health to advance population health and reduce social disparities in health? They can begin by addressing six fundamental goals.
+
+Promote Benefits of Social Ties
+
+Support and promote positive features of social ties (e.g., supportive interactions, healthy lifestyle norms). For example, Health and Human Service’s Healthy Marriage Initiative is designed to promote positive marital interactions that may foster mental and physical health of couples and their children. This initiative uses a multifaceted approach, including public awareness campaigns on responsible parenting and the value of healthy marriages, as well as educational and counseling services delivered through local organizations such as schools and faith-based organizations. This goal should also speak to policies that deny marriage to same-sex couples. The absence of legal marriage may reduce the benefits of committed partnerships for the health of individuals in gay and lesbian relationships (Herek 2006; King and Bartlett 2006; Wienke and Hill 2009).
+
+Avoid policies, programs, and interventions that increase relationship burdens and strains or that undermine positive features of relationships. For example, many programs for the sick and elderly increase caregiving responsibilities for family members—responsibilities that may impose stress on caregivers and on family relationships. This problem is exacerbated by hospital and insurance policies that force family members to provide medical care at home. These costs are borne more heavily by women, minorities, and those with fewer socioeconomic resources. Policy efforts should recognize that specific programs may benefit some groups but harm others.
+
+Reduce Social Isolation
+
+This addresses one of the most fundamental findings from research on social ties and health: The most socially isolated Americans are those at greatest risk of poor health and early mortality (Brummett et al. 2001). Policies can reduce the risk of social isolation in the first place by enhancing our educational system to impart social-emotional skills, interests in civic engagement, and meaningful employment (Greenberg et al. 2003); by ensuring that all communities are economically developed and contain public places to safely congregate and exercise (Mechanic and Tanner 2007); and by fostering stable marriages and families for all Americans. Notably, some groups are more likely than others to experience social isolation. For example, widowhood increases the risk of social isolation. Women are more likely than men to be widowed, and widowhood affects a higher proportion of African Americans than other races, and at earlier ages; among those aged 65 to 74, 24.3 percent of African Americans are widowed compared to 14.8 percent of whites (U.S. Census 2009). Coordinated programs could help identify socially isolated adults, perhaps through their physicians, and they could mobilize local resources to offer social and instrumental support to these individuals.
+
+Prevent and alleviate negative features of social ties. For example, work to reduce strains for those who provide care to children, sick or impaired significant others, and the elderly, remaining cognizant of unintended effects on caregivers. In addition, prevent or alleviate harm caused by negative social ties, such as abusive parent-child relationships and strained marriages.
+
+Coordinate Policies and Programs
+
+Many existing policies and programs, at least implicitly, address some aspect of social ties in relation to health. These existing strategies can be mapped onto a general strategy of promoting positive relationship/health linkages. This will make gaps and overlaps between strategies more apparent, and it will allow greater coordination of services for helping professionals and for citizens seeking services.
+
+Provide Help Where Help Is Most Needed
+
+Some populations are at greater risk for illness and disease than others, and these groups should receive higher priority in policy efforts. In particular, some populations are more likely to be socially isolated (e.g., the poor and the elderly), and some are more likely to be burdened by caring for others in their social networks (e.g., women, especially African American women). Existing policies should also be re-evaluated to ensure that they help the populations that need them most. For instance, the FMLA may be entirely unhelpful for low-income adults who have no alternative source of income and are more likely to be without alternative sources of instrumental and emotional support.
+
+Social scientists can advance this policy agenda by addressing several specific issues. First, it is important to identify individuals most at risk, as well as explanations for heightened risk. Individuals who are socially isolated may be at the greatest health risk. Several studies suggest that the relationship between social ties and health is nonlinear so that individuals with no social ties or very few social ties exhibit the most pronounced risk of poor health (Brummett et al. 2001; Cohen et al. 1997; Seeman et al. 2002). Despite the considerable evidence linking social isolation to poor health outcomes, the causal mechanisms are poorly understood. We need to investigate the possibility that differences between socially isolated and socially integrated adults—in health behaviors, emotional and instrumental support networks, physiological responses to anxiety, or other mechanisms—explain the linkage. Sociologists should direct attention to the social distribution of isolation and the possibility that the consequences of social isolation vary across social groups.
+
+Second, the broader social context—as structured by age, class, race, and gender—influences the formation and quality of social ties as well as the processes through which social ties affect health. However, the ways in which these structural variables shape social ties are not well understood, and few studies consider how these structural variables might modify relationship/health linkages. Likewise, social ties may shape the way that structural variables influence health. For instance, marital status may alter the inverse association between educational attainment and mortality risks, at least for men (Montez et al. 2009). This type of research is needed in order to identify at-risk populations as well as explanatory mechanisms linking social ties to health outcomes across social groups.
+
+Third, past work on social ties and health habits tends to emphasize the benefits of social ties for health, yet research on stress clearly shows that strained social ties undermine health. Given the ability of social ties to have both positive and negative effects on health, existing research has likely underestimated the true impact of social ties on health. Future research should consider how the positive and negative facets of social ties work together to influence health outcomes, as well as consider how this balance may vary over the life course and across social groups.
+
+A growing body of theoretical and empirical work illustrates how social conditions foster cumulative advantage and disadvantage for health over the life course. This may be a case of the rich getting richer while the poor get poorer, in that strained and unsupportive relationships in childhood launch into motion a cascade of factors—such as increased risk for depression, low personal control, and poor health habits—that lead to poorer health and more strained and less supportive relationships across the life course. Scholars should consider this cascading process, and they should identify at-risk populations as well as the most important modifiable risk and protective factors in their social relationships. Scholars should also help to clarify when social ties impact health habits, as well as identify which social ties are most important to health at different life stages.
+
+In addition, future research will benefit from methodological considerations, including a greater focus on prospective survey designs and corresponding longitudinal analyses, dyadic information about social relationships, and qualitative data. Prospective designs are essential in order to consider how relationship/health linkages and explanatory mechanisms unfold over time. This approach fits with the life course notion that determinants of current health originate early in life and accumulate across the life span (Ben-Shlomo and Kuh 2002). Taking full advantage of prospective surveys through longitudinal data analysis and wider application of multilevel modeling could shed more light on the social processes involved in building, sustaining, and benefiting from social ties across the life course.
+
+Most studies on social ties and health use individual-level data, as surveys typically collect information from one member per household. However, social ties, by definition, involve more than one person. Studies that include dyads show that individuals in the same relationship often experience and report on their relationship in quite different ways (Proulx and Helms 2008). Independent reports, as well as discrepancies between reports, may be linked to health outcomes. We should take advantage of existing longitudinal data sets that include more than one focal individual. New data collection efforts should go beyond the individual to include data from a range of linked social ties. As recent work shows, including reports from several network members may reveal important relationship/health linkages that go beyond one individual (Smith and Christakis 2008).
+
+Finally, most research on social ties and health has relied on assessment of quantitative data sources. Quantitative data are essential for identifying patterns between variables in the general population and, particularly, for revealing how social location (e.g., as defined by life course stage, race, and gender) is associated with regularity in social experiences (e.g., relationships and health). However, population-level data are limited in their ability to reveal rich social contexts that allow us to analyze the meanings, dynamics, and processes that link social ties to health over time. Thus, blending qualitative and quantitative methods provides the opportunity to build on the strengths of both methodologies and to address how structure and meaning coalesce to shape health outcomes at the population level (Pearlin 1992). Information obtained from qualitative data may also suggest new explanations (e.g., new psychosocial mechanisms or connections between mechanisms) for relationship/health linkages, and for group differences in those linkages, and those explanations can be further explored using population-level data.
+
+Solid scientific evidence shows that social relationships affect a range of health outcomes, including mental health, physical health, health habits, and mortality risk. Sociologists have played a major role in establishing these linkages, in identifying explanations for the impact of social relationships on health, and in discovering social variation (e.g., by age and gender) in these linkages at the population level. The unique perspective and research methods of sociology provide a scientific platform to suggest how policy makers might improve population health by promoting and protecting Americans’ social relationships. Recent and projected demographic trends should instill a sense of urgency in developing policy solutions. Specifically, the confluence of smaller families, high divorce rates, employment-related geographical mobility, and population aging means that adults of all ages, and in particular the elderly, will be at increasing risk of social isolation and shrinking family ties in the future (Cacioppo and Hawkley 2003).
+
+An earlier version of this article was presented at the 2009 annual meeting of the American Sociological Association. This research was supported by National Institute on Aging grant RO1AG026613 (PI: Debra Umberson), National Institute of Child Health and Human Development grant 5 R24 HD042849 (PI: Mark D. Hayward) and 2 T32 HD007081 (PI: Robert A. Hummer) awarded to the Population Research Center at the University of Texas at Austin.
+
+Debra Umberson is professor of sociology and a faculty associate in the Population Research Center at the University of Texas at Austin. Her research focuses on relationships and health across the life course. Her current research, supported by the National Institute on Aging, considers how different types of relationships influence health behaviors over the life course.
+
+Jennifer Karas Montez is a doctoral candidate in the Department of Sociology and Population Research Center at the University of Texas at Austin. Her research concerns socioeconomic and gender disparities in health and mortality in later life, and examines how social, behavioral, and biological mechanisms interact across the entire life course to produce those disparities.
+
+Antonovsky Aaron. Unraveling the Mystery of Health. San Francisco, CA: Jossey-Bass; 1987. [Google Scholar]
+
+Bediako Shawn M, Friend Ronald. Illness-Specific and General Perceptions of Social Relationships in Adjustment to Rheumatoid Arthritis: The Role of Interpersonal Expectations. Annals of Behavioral Medicine. 2004;28:203–10. [PubMed] [Google Scholar]
+
+Ben-Shlomo Yoav, Kuh Diana. A Life Course Approach to Chronic Disease Epidemiology: Conceptual Models, Empirical Challenges, and Interdisciplinary Perspectives. International Journal of Epidemiology. 2002;31:285–93. [PubMed] [Google Scholar]
+
+Berkman Lisa F, Breslow Lester. Health and Ways of Living: The Alameda County Study. New York: Oxford University Press; 1983. [Google Scholar]
+
+Berkman Lisa F, Syme Leonard. Social Networks, Host Resistance, and Mortality: A Nine-Year Follow-up Study of Alameda County Residents. American Journal of Epidemiology. 1979;117:1003–1009. [PubMed] [Google Scholar]
+
+Broman Clifford L. Race Differences in Marital Well-Being. Journal of Marriage and Family. 1993;55:724–32. [Google Scholar]
+
+Brummett Beverly H, Barefoot John C, Siegler Ilene C, Clapp-Channing Nancy E, Lytle Barbara L, Bosworth Hayden B, Williams Redford B, Mark Daniel B. Characteristics of Socially Isolated Patients with Coronary Artery Disease Who Are at Elevated Risk for Mortality. Psychosomatic Medicine. 2001;63:267–72. [PubMed] [Google Scholar]
+
+Cacioppo John T, Hawkley Louise C. Social Isolation and Health, with an Emphasis on Underlying Mechanisms. Perspectives in Biology and Medicine. 2003;46:S39–S52. [PubMed] [Google Scholar]
+
+Cacioppo John T, Hawkley Louise C, Elizabeth Crawford L, Ernst John M, Burleson Mary H, Kowalewski Ray B, Malarkey William B, Van Cauter Eve, Berntson Gary G. Loneliness and Health: Potential Mechanisms. Psychosomatic Medicine. 2002;64:407–17. [PubMed] [Google Scholar]
+
+Chapman Daniel P, Perry Geraldine S, Strine Tara W. The Vital Link between Chronic Disease and Depressive Disorders. Preventive Chronic Disease. 2005;2:1–10. [PMC free article] [PubMed] [Google Scholar]
+
+Christakis Nicholas A, Allison Paul D. Mortality after the Hospitalization of a Spouse. The New England Journal of Medicine. 2006;354:719–30. [PubMed] [Google Scholar]
+
+Christakis Nicholas A, Fowler James H. The Spread of Obesity in a Large Social Network over 32 Years. The New England Journal of Medicine. 2007;357:370–79. [PubMed] [Google Scholar]
+
+Cohen Sheldon. Social Relationships and Health. American Psychologist. 2004;59:676–84. [PubMed] [Google Scholar]
+
+Cohen Sheldon, Doyle William J, Skoner David P, Rabin Bruce S, Gwaltney Jack M., Jr Social Ties and Susceptibility to the Common Cold. Journal of the American Medical Association. 1997;277:1940–44. [PubMed] [Google Scholar]
+
+Crosnoe Robert, Elder Glenn H., Jr From Childhood to the Later Years: Pathways of Human Development. Research on Aging. 2004;26:623–54. [Google Scholar]
+
+Crosnoe Robert, Muller Chandra, Frank Kenneth. Peer Context and the Consequences of Adolescent Drinking. Social Problems. 2004;51:288–304. [Google Scholar]
+
+Denney Justin T. Family and Household Formations and Suicide in the United States. Journal of Marriage and Family. 2010;72:202–13. [Google Scholar]
+
+Eisenberg Marla E, Neumark-Sztainer Dianne, Story Mary, Perry Cheryl. The Role of Social Norms and Friends’ Influences on Unhealthy Weight-Control Behaviors among Adolescent Girls. Social Science and Medicine. 2005;60:1165–73. [PubMed] [Google Scholar]
+
+Ellison Christopher G, Levin Jeffrey S. The Religion-Health Connection: Evidence, Theory, and Future Directions. Health Education and Behavior. 1998;25:700–20. [PubMed] [Google Scholar]
+
+Ertel Karen A, Glymour Maria, Berkman Lisa F. Social Networks and Health: A Life Course Perspective Integrating Observational and Experimental Evidence. Journal of Social and Personal Relationships. 2009;26:73–92. [Google Scholar]
+
+Everson-Rose Susan A, Lewis Tené T. Psychosocial Factors and Cardiovascular Diseases. Annual Review of Public Health. 2005;26:469–500. [PubMed] [Google Scholar]
+
+Fowler James H, Christakis Nicholas A. Dynamic Spread of Happiness in a Large Social Network: Longitudinal Analysis over 20 Years in the Framingham Heart Study. British Medical Journal. 2008;337:a2338. [PMC free article] [PubMed] [Google Scholar]
+
+Frasure-Smith Nancy, Lespérance François, Prince Raymond H, Verrier Pierre, Garber Rachel A, Juneau Martin, Wolfson Christina, Bourassa Martial G. Randomised Trial of Home-Based Psychosocial Nursing Intervention for Patients Recovering from Myocardial Infarction. Lancet. 1997;350:473–79. [PubMed] [Google Scholar]
+
+Glynn Laura M, Christenfeld Nicholas, Gerin William. Gender, Social Support, and Cardiovascular Responses to Stress. Psychosomatic Medicine. 1999;61:234–42. [PubMed] [Google Scholar]
+
+Greenberg Mark T, Weissberg Roger P, O’Brien Mary Utne, Zins Joseph E, Fredericks Linda, Resnik Hank, Elias Maurice J. Enhancing School-Based Prevention and Youth Development Through Coordinated Social, Emotional, and Academic Learning. American Psychologist. 2003;58:466–74. [PubMed] [Google Scholar]
+
+Helgeson Vicki S, Cohen Sheldon, Schulz Richard, Yasko Joyce. Group Support Interventions for Women with Breast Cancer: Who Benefits from What? Health Psychology. 2000;19:107–14. [PubMed] [Google Scholar]
+
+Herek GM. Legal Recognition of Same-Sex Relationships in the United States: A Social Science Perspective. American Psychologist. 2006;61:607–21. [PubMed] [Google Scholar]
+
+House James S, Landis Karl, Umberson Debra. Social Relationships and Health. Science. 1988;241:540–45. [PubMed] [Google Scholar]
+
+House James S, Schoeni Robert F, Kaplan George A, Pollack Harold. The Health Effects of Social and Economic Policy: The Promise and Challenge for Research and Policy. In: Schoeni RF, House JS, Kaplan GA, Pollack H, editors. Making Americans Healthier: Social and Economic Policy as Health Policy. New York: Russell Sage Foundation; 2008. pp. 1–26. [Google Scholar]
+
+Hughes Mary Elizabeth, Waite Linda J. Marital Biography and Health at Mid-Life. Journal of Health and Social Behavior. 2009;50:344–58. [PMC free article] [PubMed] [Google Scholar]
+
+Kassel Jon D, Stroud Laura R, Paronis Carol A. Smoking, Stress, and Negative Affect: Correlation, Causation, and Context across Stages of Smoking. Psychological Bulletin. 2003;129:270–304. [PubMed] [Google Scholar]
+
+Kessler Ronald C, Chiu Wai Tat, Demler Olga, Walters Ellen E. Prevalence, Severity, and Comorbidity of 12-Month DSM-IV Disorders in the National Comorbidity Survey Replication. Archives of General Psychiatry. 2005;62:617–27. [PMC free article] [PubMed] [Google Scholar]
+
+Kiecolt K Jill, Hughes Michael, Keith Verna M. Race, Social Relationships, and Mental Health. Personal Relationships. 2008;15:229–45. [Google Scholar]
+
+Kiecolt-Glaser Janice K, McGuire Lynanne, Robles Theodore F, Glaser Ronald. Emotions, Morbidity, and Mortality: New Perspectives from Psychoneuroimmunology. Annual Review of Psychology. 2002;53:83–107. [PubMed] [Google Scholar]
+
+Kiecolt-Glaser Janice K, Newton Tamara L. Marriage and Health: His and Hers. Psychological Bulletin. 2001;127:472–503. [PubMed] [Google Scholar]
+
+King Michael, Bartlett Annie. What Same Sex Civil Partnerships May Mean for Health. Journal of Epidemiology and Community Health. 2006;60:188–191. [PMC free article] [PubMed] [Google Scholar]
+
+Liu Hui, Umberson Debra J. ‘The Times They Are a Changin’: Marital Status and Health Differentials from 1972 to 2003. Journal of Health and Social Behavior. 2008;49:239–53. [PMC free article] [PubMed] [Google Scholar]
+
+Martin Steven P. Trends in Marital Dissolution by Women’s Education in the United States. Demographic Research. 2006;15:537–60. [Google Scholar]
+
+Mathers Colin D, Lopez Alan D, Murray Christopher JL. The Burden of Disease and Mortality by Condition: Data, Methods, and Results for 2001. In: Lopez AD, Mathers CD, Ezzati M, Jamison DT, Murray CJL, editors. Global Burden of Disease and Risk Factors. The World Bank and Oxford University Press; 2006. pp. 45–240. Retrieved January 29, 2010 ( http://files.dcp2.org/pdf/GBD/GBD03.pdf) [PubMed] [Google Scholar]
+
+McEwen Bruce S. Stress, Adaptation, and Disease: Allostasis and Allostatic Load. Annals of the New York Academy of Sciences. 1998;840:33–44. [PubMed] [Google Scholar]
+
+McGinnis J Michael, Williams-Russo Pamela, Knickman James R. The Case for More Active Policy Attention to Health Promotion. Health Affairs. 2002;21:78–93. [PubMed] [Google Scholar]
+
+McPherson Miller, Smith-Lovin Lynn, Brashears Matthew E. Social Isolation in America: Changes in Core Discussion Networks over Two Decades. American Sociological Review. 2006;71:353–75. [Google Scholar]
+
+Mechanic David, Tanner Jennifer. Vulnerable People, Groups, and Populations: Societal View. Health Affairs. 2007;26:1220–30. [PubMed] [Google Scholar]
+
+Mirowsky John, Ross Catherine. Social Causes of Psychological Distress. 2. New York: Aldine de Gruyter; 2003. [Google Scholar]
+
+Montez Jennifer Karas, Hayward Mark D, Brown Dustin C, Hummer Robert A. Why Is the Educational Gradient of Mortality Steeper for Men? Journal of Gerontology: Social Sciences. 2009;64:625–34. [PMC free article] [PubMed] [Google Scholar]
+
+Musick Marc A, House James S, Williams David R. Attendance at Religious Services and Mortality in a National Sample. Journal of Health and Social Behavior. 2004;45:198–213. [PubMed] [Google Scholar]
+
+Nagasawa Masako, Smith Mickey C, Barnes James H, Finchman Jack E. Meta-Analysis of Correlates of Diabetes Patients’ Compliance with Prescribed Medications. The Diabetes Educator. 1990;16:192–200. [PubMed] [Google Scholar]
+
+Nock Steven L. Marriage in Men’s Lives. New York: Oxford University Press; 1998. [Google Scholar]
+
+Palloni Alberto. Reproducing Inequalities: Luck, Wallets, and the Enduring Effects of Childhood Health. Demography. 2006;43:587–615. [PubMed] [Google Scholar]
+
+Pearlin Leonard I. Structure and Meaning in Medical Sociology. Journal of Health and Social Behavior. 1992;33:1–9. [PubMed] [Google Scholar]
+
+Proulx Christine M, Helms Heather M. Mothers’ and Fathers’ Perceptions of Change and Continuity in Their Relationships with Young Adult Sons and Daughters. Journal of Family Issues. 2008;29:234–61. [Google Scholar]
+
+Robles Theodore F, Kiecolt-Glaser Janice K. The Physiology of Marriage: Pathways to Health. Physiology and Behavior. 2003;79:409–16. [PubMed] [Google Scholar]
+
+Schnittker Jason, McLeod Jane D. The Social Psychology of Health Disparities. Annual Review of Sociology. 2005;31:75–103. [Google Scholar]
+
+Schulz Richard, Sherwood Paula R. Physical and Mental Health Effects of Family Caregiving. American Journal of Nursing. 2008;108:23–27. [PMC free article] [PubMed] [Google Scholar]
+
+Seeman Teresa E, Singer Burton H, Ryff Carol D, Love Gayle Dienberg, Levy-Storms Lené. Social Relationships, Gender, and Allostatic Load across Two Age Cohorts. Psychosomatic Medicine. 2002;64:395–406. [PubMed] [Google Scholar]
+
+Shaw Benjamin A, Krause Neal, Chatters Linda M, Connell Cathleen M, Ingersoll-Dayton Berit. Emotional Support from Parents Early in Life, Aging, and Health. Psychology and Aging. 2004;19:4–12. [PubMed] [Google Scholar]
+
+Smith Kirsten P, Christakis Nicholas A. Social Networks and Health. Annual Review of Sociology. 2008;34:405–29. [Google Scholar]
+
+Spain Daphne, Bianchi Suzanne M. Balancing Act: Motherhood, Marriage, and Employment among American Women. New York: Russell Sage Foundation; 1996. [Google Scholar]
+
+Taylor Shelley E, Repetti Rena L, Seeman Teresa. Health Psychology: What Is an Unhealthy Environment and How Does It Get under the Skin? Annual Review of Psychology. 1997;48:411–47. [PubMed] [Google Scholar]
+
+Thoits Peggy. Stress, Coping, and Social Support Processes: Where Are We? What Next? Journal of Health and Social Behavior. 1995;35:53–79. [PubMed] [Google Scholar]
+
+Thoits Peggy. Personal Agency and the Stress Process. Journal of Health and Social Behavior. 2006;47:309–23. [PubMed] [Google Scholar]
+
+Thombs Dennis L, Wolcott Bette Jean, Farkash Lauren G. Social Context, Perceived Norms and Drinking Behavior in Young People. Journal of Substance Abuse. 1997;9:257–67. [PubMed] [Google Scholar]
+
+Uchino Bert N. Social Support and Physical Health: Understanding the Health Consequences of Relationships. New Haven, CT: Yale University Press; 2004. [Google Scholar]
+
+Uchino Bert N. Social Support and Health: A Review of Physiological Processes Potentially Underlying Links to Disease Outcomes. Journal of Behavioral Medicine. 2006;29:377–87. [PubMed] [Google Scholar]
+
+Umberson Debra, Crosnoe Robert, Reczek Corinne. Social Relationships and Health Behaviors across the Life Course. Annual Review of Sociology. 2010;36:139–57. [PMC free article] [PubMed] [Google Scholar]
+
+Umberson Debra, Williams Kristi, Powers Daniel A, Chen Meichu. As Good as It Gets? A Life Course Perspective on Marital Quality. Social Forces. 2005;84:493–511. [PMC free article] [PubMed] [Google Scholar]
+
+Umberson Debra, Williams Kristi, Powers Daniel A, Liu Hui, Needham Belinda. You Make Me Sick: Marital Quality and Health over the Life Course. Journal of Health and Social Behavior. 2006;47:1–16. [PMC free article] [PubMed] [Google Scholar]
+
+U.S. Census Bureau. America’s Families and Living Arrangements: 2009. Washington, DC: U.S. Government Printing Office; 2009. [Google Scholar]
+
+U.S. Department of Health and Human Services. Healthy People 2010: Understanding and Improving Health. 2000 Retrieved August 23 2009 ( http://www.healthypeople.gov/Document/tableofcontents.htm#under)
+
+U.S. The Healthy Marriage Initiative. n.d Retrieved August 23, 2009 ( http://www.acf.hhs.gov/healthymarriage/about/mission.html#goals)
+
+U.S. Department of Labor. Fact Sheet #28: The Family and Medical Leave Act of 1993. 2009 Retrieved August 23, 2009 ( http://www.dol.gov/esa/whd/regs/compliance/whdfs28.pdf)
+
+Waite Linda J. Does Marriage Matter? Demography. 1995;32:483–508. [PubMed] [Google Scholar]
+
+Walen Heather R, Lachman Margie E. Social Support and Strain from Partner, Family, and Friends: Costs and Benefits for Men and Women in Adulthood. Journal of Social and Personal Relationships. 2000;17:5–30. [Google Scholar]
+
+Wienke Chris, Hill Gretchen J. Does the ‘Marriage Benefit’ Extend to Partners in Gay and Lesbian Relationships?: Evidence From a Random Sample of Sexually Active Adults. Journal of Family Issues. 2009;30:259–89. [Google Scholar]
+
+Willson Andrea E. Race and Women’s Income Trajectories: Employment, Marriage, and Income Security over the Life Course. Social Problems. 2003;50:87–110. [Google Scholar]
+
+World Health Organization. Mental Health: Strengthening Mental Health Promotion. Fact Sheet No 220. 2007 Retrieved August 23, 2009 ( http://www.who.int/mediacentre/factsheets/fs220/en/index.html)
+
+Zhang Zhenmei, Hayward Mark D. Gender, the Marital Life Course, and Cardiovascular Disease in Late Midlife. Journal of Marriage and Family. 2006;68:639–57. [Google Scholar]
+
+Cited by other articles
+
+Links to NCBI Databases
+
+Copy Download .nbib .nbib

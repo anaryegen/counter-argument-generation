@@ -1,0 +1,631 @@
+From WikiIslam, the online resource on Islam
+
+Jump to navigation Jump to search
+
+This article or section is being renovated.
+
+Rape, known in Islamic law as zina bil-ikrah or zina bil-jabr (literally "fornication by force"), is a punishable crime generally defined by Muslim jurists as forced intercourse by a man with a woman who is not his wife or slave and without her consent. There was no concept of consent in Islamic law with regard either to a man's wives or slaves, though they could bring a legal complaint if intercourse with him caused them physical harm. A small number of hadiths describe punishments for the rape of free women and of female slaves who are not owned by the perpetrator. However, the Qur'an, on numerous occasions, permits Muslim men to have sexual relations with their own female slaves (famously referred to as "what your right hands possess"), often in conjunction with the commandment for men to keep otherwise chaste. In addition, various hadiths mention the sexual intercourse which slave owners (including Muhammad) had with their slaves.
+
+Islamic law allowed the distribution of female captives as spoils of war and for them to be bought and sold, becoming sexually lawful after a short waiting period to confirm they were not pregnant. Slavery including sexual slavery persisted on a massive scale until modern times (see Slavery in Islamic Law). It is important to note, however, that slavery was legally abolished in majority Muslim countries around the world in the 19th and 20th centuries (though vast numbers of people remain illegally enslaved in a few places such as Mauritania[1]) and all countries signed the 1949 Geneva convention which in article 27 forbids rape and abuse of female captives. It is also now considered forbidden by most scholars in the modern context, though a minority, such as Saudi Sheikh Saleh Al-Fawzan, argue that slavery remains Islamically legitimate. Similarly, today many Muslim-majority countries have made marital rape illegal or offer other legal protections, though others (mainly in the Arab world) do not do so, often explicitly, as also some non-Muslim countries.[2] While there is no punishment for rape victims, human rights groups are also concerned about the risks faced by women reporting rape in some countries where Zina (illicit sexual intercourse) is a punishable offence, as detailed below.
+
+Typically, apologetic approaches to the issue of slaves and concubines propose that the women mentioned in the Quran and hadiths consented to intercourse with their captors and to their enslavement lest they be left destitute since their men had been killed. Critics generally argue that this is highly improbable, point out a hadith in which raped captives were due to be ransomed back to their tribe, and in any case would be incompatible with the modern understanding of consent which could not validly be given in captive circumstances. Some Islamic modernist scholars question the authenticity of the relevant hadiths altogether, in line with their general skepticism towards the hadith corpus and rejection of traditional jurisprudence, and attempt alternative interpretations of the Quranic verses.
+
+1 The right to have intercourse with wives and slaves in Islamic law
+
+2 Punishments for rape in Islamic Law and its application in modern contexts
+
+3 Punishments for rape narrated in hadiths
+
+3.1 Rape of a free woman
+
+3.2 Rape of another's slave
+
+4 Sex with female slaves and war captives in the Qur'an
+
+4.1 Qur'an 23:1-6 & 70:29-30 - Believers should have sex only with their wives and slaves
+
+4.2 Qur'an 33:50 - Muhammad may have sex with his wives and captives from the war booty
+
+4.3 Qur'an 4:24 - Permission to marry slave women, even if they are already married
+
+5 Sex with female slaves and war captives in the hadiths
+
+5.1 Muhammad has intercourse with his slave girl Maria bint Sham'un
+
+5.2 Ali rapes a captive girl alloted to the khumus (state share of war booty)
+
+5.3 Muhammad's companions rape captives intended for ransom
+
+5.4 Muhammad's men hesitate to rape married captives until a verse is sent down
+
+5.5 Umar tells a man to beat his wife for preventing intercourse with his slave girl
+
+5.6 Ghusl (full body wash) not required between intercourse with slave girls
+
+5.7 Muhammad tells a man not to use coitus interrupt us/azl (the pull-out contraception method) when having sex with a captured slave girl
+
+5.8 Explicit distinction between zina and legal intercourse
+
+6 Muhammad's other female captives
+
+6.1 Safiyah bint Huayy
+
+6.2 Juwairiyah bint al-Harith
+
+7 Waiting period before sex with slave girls too young to menstruate
+
+8 Limitations on rape of slaves and war captives
+
+8.1 Avoiding physical harm during intercourse
+
+8.2 Waiting until the completion of the Iddah or childbirth
+
+8.3 Waiting until adult polytheist slaves convert, by force if necessary
+
+9 Modern perspectives
+
+10 Modern revisionary perspectives and criticisms thereof
+
+10.1 Freedom and marriage as a requirement for intercourse
+
+10.2 Encouragement to chastity as a prohibition on rape
+
+10.3 Violations of the spoils-distribution system as rape
+
+10.3.1 Quote from al-Shafi'i
+
+10.3.2 Quote from Malik
+
+10.3.3 Hadith regarding the caliph Umar
+
+10.4 Quote from Shafi'i on pleasure without compulsion in intercourse
+
+The right to have intercourse with wives and slaves in Islamic law
+
+The consent of a slave for sex, for withdrawal before ejaculation (azl) or to marry her off to someone else was not considered necessary, historically.[3] Kecia Ali, Associate professor of religion, Boston University (a Muslim convert) says regarding sex with slaves: "For premodern Muslim jurists, as well as for those marginal figures who believe that the permission [for slavery] still holds, the category “rape” doesn’t apply: ownership makes sex lawful; consent is irrelevant."[4] Dr. Jonathan Brown, Associate Professor and Chair of Islamic Civilization at Georgetown University (also a Muslim convert) has made similar comments:[5]
+
+As noted earlier, marriage and a male's ownership of a female slave were the two relationships in which sex could licitly occur according to the Shariah. In marriage, the consent of the wife to sex was assumed by virtue of the marriage contract itself. In the case of the slave-concubine, consent was irrelevant because of the master's ownership of the woman in question. As Kecia Ali has noted, there is no evidence for any requirement for consent from slave women in books of Islamic law in the formative centuries of Islam. Books of Islamic law and natural ethics are full of exhortations for husbands to enter in foreplay and stress the wife's right to orgasm. But such books also foreground Hadiths and laws obliging wives to meet their husbands' sexual needs without contest.
+
+[...] In the Shariah, consent was crucial if you belonged to a class of individuals whose consent mattered: free women and men who were adults (even male slaves could not be married off against their will according to the Hanbali and Shafiʿi schools, and this extended to slaves with mukataba arrangements in the Hanafi school). Consent did not matter for minors. And it did not matter for female slaves, who could be married off by their master or whose master could have a sexual relationship with them if he wanted (provided the woman was not married or under a contract to buy her own freedom).
+
+Jonathan A. C. Brown (2019) Slavery & Islam, pp. 281-282[6]
+
+As with enslaved females, according to classical Islamic law, married women were required to oblige their husbands' sexual advances.[7] He could punish his wife's continued refusal by beating her (with limitations) as a last resort.[8] In the view of the Hanafi school of jurisprudence, a husband had legal entitlement to force his wife into intercourse if she did not so oblige and lacked certain legally allowed exemptions such as menstruation or fasting, even though the jurists might consider it unethical in some circumstances, while non-Hanafis neither explicitly authorized nor penalized this.[9][3]For jurists, the concept of "rape" was equally non-existent in the contexts of both marriage and slavery.[10][11][3]
+
+Jonathan Brown notes that a wife or slave-concubine could though complain to a judge if she suffered physical harm (ḍarar).
+
+The Shariah offered protection to both wives and slave-concubines, but it came not under the rubric of consent but that of harm. By definition, the crime of rape (i.e., forced zina) could not occur within a licit relationship. But transgressive harm could still be done by the man. Wives and concubines could complain to local judges if they were being abused or if his demands for sex were excessive (we will discuss the issue of concubinage and consent in the concluding chapter of this book). The Hanbali scholar Buhūtī (d. 1641) even says that if a master forced a slave woman unable to bear intercourse to have sex and injured her, she would be freed as a result.
+
+Jonathan A. C. Brown (2019) Slavery & Islam, p. 96[12]
+
+In the final chapter he gives examples of medieval judicial reports of wives doing so due to issues with their husband's physical anatomy (judges could require him to use a lubricant, though judicial separation of the couple was sometimes considered necessary).[13] However, on the same topic Brown earlier points out that "Both wives and slaves had the same recourse to courts or members of the community. Unlike wives, however, slaves were almost by definition cut off from support networks other than their owners".[14]
+
+Punishments for rape in Islamic Law and its application in modern contexts
+
+By the end of the formative period of Islamic law, there was a consensus that rape was to be categorised as a variant of Zina (fornication, or unlawful intercourse) in which the coerced woman is spared punishment and the male rapist is punished with the hadd penalty.[15] This penalty is stoning to death (if he is married) or lashings (if he is unmarried) - just as he would receive for ordinary zina. Four reliable muslim male witnesses (bayyinah) or a confession by the perpetrator are required in order to punish the rapist.[16][17] Jurists agreed that there is no punishment for the rape victim. Her word that she was raped is accepted if there is no named perpetrator. If she does name the alleged rapist but is unable to prove the allegation, the Maliki school held the woman liable to receive the hadd penalty of 80 lashes for slander (qadhf), though the judge may spare her this punishment if there is some circumstancial evidence in support of her allegation. Maliki jurists even held that a woman must be punished with the hadd penalty for fornication (zina) if she falls pregnant while unmarried even if she says she was raped, though she is spared punishment if there is evidence of coercion from her physical state or a witness heard her cry for help. In contrast, for the Hanafi school it was enough to avoid punishment if she simply says that she was raped. Hanafis stated that pregnancy of an unmarried woman is not proof of zina, pointing to the principle that hadd punishments are not applied if there is any doubt.[18][19]
+
+Jurists disagree on whether the rapist must also pay a dowry as compensation to the victim. A controversial position of some modern jurists is that the hadd penalty for outlaws should apply to rapists (hadd Hirabah), described in Quran 5:33. Others say that rape can be treated by the judge as an offence that receives Tazir (discretionary) punishment (as in Pakistan, for example). These approaches avoid the impractical evidence requirement of four witnesses for applying a zina hadd penalty to the rapist in the absence of his confession. Incidentally, the four witnesses requirement for zina seems to have been introduced by Muhammad when Aisha was accused of adultery.[20] In some other modern courts where the hadd punishment for zina is applied to rapists, a woman risks being accused of slanderous accusation (qadhf) if she cannot prove her allegation of rape to that evidence standard[21] and the rapists go unpunished.[22] Pregnancy is used as evidence of sex having occurred and women who report rape or sexual violence can be deemed to have confessed to unlawful sex (zina) and prosecuted for that instead.[23] Due to a number of high profile instances, the risk of being prosecuted for zina creates a strong disincentive for women to report rape in some Muslim countries today.[24]
+
+Punishments for rape narrated in hadiths
+
+Rape of a free woman
+
+Muhammad ordered the stoning of a confessed rapist who attacked a free woman to whom he was not married.
+
+Narrated 'Alqamah bin Wa'il Al-Kindi: From his father: "A women went out during the time of the Prophet (ﷺ) to go to Salat, but she was caught by a man and he had relations with her, so she screamed and he left. Then a man came across her and she said: 'That man has done this and that to me', then she came across a group of Emigrants (Muhajirin) and she said: 'That man did this and that to me.' They went to get the man she thought had relations with her, and they brought him to her. She said: 'Yes, that's him.' So they brought him to the Messenger of Allah (ﷺ), and when he ordered that he be stoned, the man who had relations with her, said: 'O Messenger of Allah, I am the one who had relations with her.' So he said to her: 'Go, for Allah has forgiven you.' Then he said some nice words to the man (who was brought). And he said to the man who had relations with her: 'Stone him (to death).' Then he said: 'He has repented a repentance that, if the inhabitants of Al-Madinah had repented with, it would have been accepted from them.'"
+
+Jami` at-Tirmidhi 3:15:1454; see also Al-Muwatta 36:14
+
+Rape of another's slave
+
+If the individual raped is a slave owned by other than the rapist, reparations are due to the owner of the slave in the form of a replacement slave or the amount by which the raped slave's value has been depreciated as a result of the rape and the perpetrator receives the hadd punishment. Hina Azam writes that "sexual ursupation of a slave woman was a form of property damage that required financial compensation to her owner for a depreciation of the property's value....usually equal to the amount by which she was depreciated by the act (this being of particular relevance if she was previously a virgin)".[25]
+
+Malik in his Muwatta confirms this punishment. Malik was founder of one of the four Sunni legal schools.
+
+Malik related to me from Ibn Shihab that Abd al-Malik ibn Marwan gave a judgment that the rapist had to pay the raped woman her bride- price. Yahya said that he heard Malik say, "What is done in our community about the man who rapes a woman, virgin or non-virgin, if she is free, is that he must pay the bride-price of the like of her. If she is a slave, he must pay what he has diminished of her worth. The hadd-punishment in such cases is applied to the rapist, and there is no punishment applied to the raped woman. If the rapist is a slave, that is against his master unless he wishes to surrender him.
+
+The authenticity of hadiths concerning the following incident in which Muhammad commands punishment by stoning for a man who has intercourse with his wife's slave are graded da'if (weak) by al-Albani, while Dar-us-Salam grade them hasan (good).
+
+It was narrated that Salamah bin Al-Muhabbaq said: "The Prophet passed judgment concerning a man who had intercourse with his wife's slave woman: 'If he forced her, then she is free, and he has to give her mistress a similar slave as a replacement; if she obeyed him in that, then she belongs to him, and he has to give her mistress a similar slave as a replacement.'"
+
+Sunan an-Nasa'i 4:26:3365; see also Sunan Abu Dawud 38:4445
+
+In another, similar incident, the rapist of his wife's slave is to be punished by stoning.
+
+It was narrated from An-Nu'man bin Bashir that the Prophet said, concerning a man who had intercourse with his wife's slave woman: "If she let him do that, I will flog him with one hundred stripes , and if she did not let him, I will stone him (to death)."
+
+Sunan an-Nasa'i 4:26:3362; see also Sunan Abu Dawud 38:4444
+
+Another hadith reports Caliph Umar sentencing a man to stoning for taking a captive girl for himself. In this case, the illegitimacy is due to strict rules on the distribution of war booty. That hadith is discussed in another section below (Violations of the spoils-distribution system as rape).
+
+Sex with female slaves and war captives in the Qur'an
+
+There is no equivalent term for ‘rape’ in the Qur'an, although Quran 4:19 forbids believing men to inherit wives by compulsion. Nevertheless, while chastity is encouraged as a virtue, it is frequently commanded alongside the recurring exception "except from their wives or those their right hands possess", as set out below. There is no verse in the Qur'an which explicitly discourages forced or coercive sex, despite this being an obvious and virtually certain occurance when it permits sexual access to female slaves or captives.
+
+Qur'an 23:1-6 & 70:29-30 - Believers should have sex only with their wives and slaves
+
+A number of verses in the Qur'an mention sexual relations with slaves as a category distinct from wives, making it clear that sexual relations with female slaves are permitted without marrying the slave first. For example, Surah 23 makes mention of successful Muslims and their characteristics:
+
+Certainly will the believers have succeeded: They who are during their prayer humbly submissive And they who turn away from ill speech And they who are observant of zakah And they who guard their private parts Except from their wives or those their right hands possess, for indeed, they will not be blamed
+
+The instruction to "guard [one's] private parts" is the Qur'an's standard manner of commanding chastity. What one's "right hand possesses" is likewise the Qur'an's standard manner of referring to one's slaves or war captives. Successful believers are those who engage in sexual activities only with their wives and slaves.
+
+The same idea recurs in surah 70:
+
+And those who guard their private parts, Except from their wives or those their right hands possess, for indeed, they are not to be blamed
+
+Qur'an 33:50 - Muhammad may have sex with his wives and captives from the war booty
+
+Another verse sets out Muhammad's licit sexual access to his wives and captives from the war booty (probably alluding to those mentioned earlier in the surah), as well as any of his female first cousins and any believing woman who offers herself to him if he wishes to marry her. The verse states that this is a special permission granted for Muhammad alone, though it is unclear which part of the verse comprises these exclusive rights. A common interpretation was that Muhammad is granted here exemption from the maximum limit of four wives.
+
+The words translated "what Allah has returned to you" (wamā [...] afāa l-lahu ʿalayka) mean Muhammad's share of the spoils of war, since the same language is mirrored in Quran 59:6-7 with that meaning. Those verses twice mention "what Allah has returned to his messenger" (wamā afāa l-lahu ʿalā rasūlihi).
+
+O Prophet, indeed We have made lawful to you your wives to whom you have given their due compensation and those your right hand possesses from what Allah has returned to you [of captives] and the daughters of your paternal uncles and the daughters of your paternal aunts and the daughters of your maternal uncles and the daughters of your maternal aunts who emigrated with you and a believing woman if she gives herself to the Prophet [and] if the Prophet wishes to marry her, [this is] only for you, excluding the [other] believers. We certainly know what We have made obligatory upon them concerning their wives and those their right hands possess, [but this is for you] in order that there will be upon you no discomfort. And ever is Allah Forgiving and Merciful.
+
+Earlier verses in the same surah suggest that these women were among the captives, land, houses and wealth seized during a decisive battle with opponents who had left their fortresses (Quran 33:20-27). According to commentators, this was Khaybar, though other views were narrated too.
+
+See also the two verses which follow verse 50, (Quran 33:51-52), which give Muhammad permission to set aside and return to his wives in accordance with his wishes, and forbids Muhammad from exchanging or taking any further wives even if their beauty pleases him, though maintains his limitless permission to take additional concubines.
+
+You, [O Muhammad], may put aside whom you will of them or take to yourself whom you will. And any that you desire of those [wives] from whom you had [temporarily] separated - there is no blame upon you [in returning her]. That is more suitable that they should be content and not grieve and that they should be satisfied with what you have given them - all of them. And Allah knows what is in your hearts. And ever is Allah Knowing and Forbearing. Not lawful to you, [O Muhammad], are [any additional] women after [this], nor [is it] for you to exchange them for [other] wives, even if their beauty were to please you, except what your right hand possesses. And ever is Allah, over all things, an Observer.
+
+Qur'an 4:24 - Permission to marry slave women, even if they are already married
+
+Quran 4:22-25 is a passage listing the women who believing men are forbidden to marry, such as their sisters or nieces. Verse 24 states that also forbidden are "married women except those your right hands possess" (i.e. slaves or captives).
+
+Prohibited to you (For marriage) are:- Your mothers, daughters, sisters; father's sisters, Mother's sisters; brother's daughters, sister's daughters; foster-mothers (Who gave you suck), foster-sisters; your wives' mothers; your step-daughters under your guardianship, born of your wives to whom ye have gone in,- no prohibition if ye have not gone in;- (Those who have been) wives of your sons proceeding from your loins; and two sisters in wedlock at one and the same time, except for what is past; for Allah is Oft-forgiving, Most Merciful;-Also (prohibited are) women already married, except those whom your right hands possess: Thus hath Allah ordained (Prohibitions) against you: Except for these, all others are lawful, provided ye seek (them in marriage) with gifts from your property,- desiring chastity, not lust, seeing that ye derive benefit from them, give them their dowers (at least) as prescribed; but if, after a dower is prescribed, agree Mutually (to vary it), there is no blame on you, and Allah is All-knowing, All-wise.
+
+This verse permits the believers to marry those whom their right hands possess (female slaves) who already have husbands, so long as the dower is paid. Other verses set out in the previous section show that slave owners did not even have to marry their slaves in order to have intercourse with them (See also the section below on the common apologetic claim of Freedom and marriage as a universal requirement).
+
+The next verse tells any believer who cannot afford to marry a free believing woman to instead marry "from those whom your right hands possess of believing slave girls". This was understood to mean marrying a believing slave girl owned by someone else (which makes sense as it switches to the plural "right hands possess", and a slave owner by definition would not be too poor to marry a free woman). In Islamic law, she would remain a slave after the marriage, but her owner would no longer have the right of sexual access to her, which transfers to her husband alone. The owner had the right to marry off his female slave without her consent, and would own any children produced by the marriage. If the owner himself wished to marry his own slave, he had to free her first. For details see Slavery in Islamic Law.
+
+And whoever among you cannot [find] the means to marry free, believing women, then [he may marry] from those whom your right hands possess of believing slave girls. And Allah is most knowing about your faith. You [believers] are of one another. So marry them with the permission of their people and give them their due compensation according to what is acceptable. [They should be] chaste, neither [of] those who commit unlawful intercourse randomly nor those who take [secret] lovers. But once they are sheltered in marriage, if they should commit adultery, then for them is half the punishment for free [unmarried] women. This [allowance] is for him among you who fears sin, but to be patient is better for you. And Allah is Forgiving and Merciful.
+
+The verse states that permission is to be sought from her people, though acceptance would inevitably be a choice not free from coercion, given that the alternative was for her owner to retain the right of sexual intercourse with her, granted elsewhere in the Quran. Perhaps in recognition of the potentially coercive nature of such an arrangement, the same verse halves the punishment she would face for certain conduct during the marriage (traditionally interpreted as adultery).
+
+Sahih hadiths in the collections of Muslim and Abu Dawud give the traditional background story for the permission granted by the previous verse (Quran 4:24): some of Muhammad's fighters were reluctant to have sexual contact with female captives who were already married to the defeated men of the mushrikeen (those who associated partners with Allah).
+
+Abu Sa’id Al Khudri said “The Apostle of Allah(ﷺ) sent a military expedition to Awtas on the occasion of the battle of Hunain. They met their enemy and fought with them. They defeated them and took them captives. Some of the Companions of Apostle of Allah (ﷺ) were reluctant to have relations with the female captives because of their pagan husbands. So, Allah the exalted sent down the Qur’anic verse “And all married women (are forbidden) unto you save those (captives) whom your right hand posses.” This is to say that they are lawful for them when they complete their waiting period.
+
+Sunan Abu Dawud 2155 (Dar-us-Salam Ref)
+
+The hadith in Sahih Muslim is found in a chapter dedicated to the topic; the chapter is entitled "Chapter: It is permissible to have intercourse with a female captive after it is established that she is not pregnant, and if she has a husband, then her marriage is annulled when she is captured".[26]
+
+Abu Sa'id al-Khudri (Allah her pleased with him) reported that at the Battle of Hanain Allah's Messenger (ﷺ) sent an army to Autas and encountered the enemy and fought with them. Having overcome them and taken them captives, the Companions of Allah's Messenger (may peace te upon him) seemed to refrain from having intercourse with captive women because of their husbands being polytheists. Then Allah, Most High, sent down regarding that: "And women already married, except those whom your right hands possess (iv. 24)" (i. e. they were lawful for them when their 'Idda [waiting] period came to an end).
+
+Ibn Kathir, the most prominent of all Qur'an interpreters, had this to say in regards to verse 4:24:
+
+The Ayah means 'also [forbidden are] women already married, except those whom your right hands possess'. You are prohibited from marrying women who are already married, except those whom your right hands possess, except those whom you acquire through war, for you are allowed such women after making sure they are not pregnant [that is, upon the completion of the "iddah" waiting period]. Imam Ahmad recorded that Abu Sa`id Al-Khudri said, "We captured some women from the area of Awtas who were already married, and we disliked having sexual relations with them because they already had husbands. So, we asked the Prophet about this matter, and this Ayah (verse) was revealed, 'Also (forbidden are) women already married, except those whom your right hands possess'. Accordingly, we had sexual relations with these women. [literally: 'as a result of these verses, their (Infidels') wives have become lawful for us']" This is the wording collected by At-Tirmidhi An-Nasa'i, Ibn Jarir and Muslim in his Sahih.
+
+Tafsir Ibn Kathir 4:24
+
+Similarly in Tafsir al-Jalalayn (Qur'an interpretation by two Jalals namely: Jalaluddin Mahalli and Jalaluddin Suyuti, both authorities):
+
+And, forbidden to you are, wedded women, those with spouses, that you should marry them before they have left their spouses, be they Muslim free women or not; save what your right hands own, of captured [slave] girls, whom you may have sexual intercourse with, even if they should have spouses among the enemy camp, but only after they have been absolved of the possibility of pregnancy [after the completion of one menstrual cycle]; this is what God has prescribed for you.
+
+Tafsir al-Jalalayn 4:24
+
+In Islamic law, if a slave woman was married her owner had no right of sexual access to her. Some early Muslim scholars held that slave marriages, which could occur between slaves or between a slave and a free person, were automatically dissolved when ownership was transferred because her new owner was buying sexual access to her but two men could not have licit access to the same woman. Later, a consensus emerged that the marriage and licit sexual access remained between the slave woman and her husband alone upon transfer of ownership, whatever his status.[27]
+
+Sex with female slaves and war captives in the hadiths
+
+Scenes of Muhammad's companions, and indeed Muhammad himself, engaging in sexual activity with slaves and captives are common throughout hadith literature. While the female perspective is largely absent, leaving the reader to speculate as to whether the female slave or captive would have been receptive to the advances of Muhammad and his companions, it is fair to assume that in at least some (if not most or indeed all) of these cases, the sexual activity occurred without the female's consent and thus qualified as rape. This is particularly clear in the examples that follow where Muhammad's companions initiate sexual contact with the captive women shortly after having slayed their sons, husbands, fathers, and brothers. At the very least, it can be said that in no such case does Muhammad intervene in and that in all such cases he actively permits what, by all appearances, is an instance of his companion's raping a captive or slave. These are originally free non-Muslims who are captured in battle.[28][29] The entire population of a conquered territory can be enslaved, thus providing women who are otherwise rare on the battlefield. This paves the path for concubinage.[30] The Muslim military commander is allowed to choose between unconditionally releasing, ransoming or enslaving war captives.[31] If a person converted to Islam after being enslaved, their emancipation would be considered a pious act but not obligatory.[32] Islamic law does not allow enslavement of free-born Muslims.[33]
+
+Islamic jurists permitted slave raiding and kidnapping of non-Muslims from Dar al Harb.[34] South Asian scholars ruled that jihad was not needed to seize non-Muslims nor was it necessary to invite them to Islam before seizing them. Raiders were free to take and enslave any non-Muslim.[35] However, Islamic jurists held that non-Muslims who lived in areas which had formal pacts with Muslims were to be protected from enslavement.[36]
+
+Non-Muslim residents of an Islamic state who fail to pay jizya or break their contract with the state can also be enslaved.[37][38]
+
+Muhammad has intercourse with his slave girl Maria bint Sham'un
+
+Muhammad had a child with a slave girl of his known as Maria the Copt, who was a gift to him from the Governor of Alexandria. In a hadith from Sahih Muslim, a phrase translated as "slave girl" is, in the orignal Arabic, umm walad (أُمِّ وَلَدِ) (literally: "mother of the child") and is the title given to a slave concubine who bore her master a child.
+
+Anas reported that a person was charged with fornication with the slavegirl of Allah's Messenger (ﷺ). Thereupon Allah's Messenger (ﷺ) said to 'Ali: Go and strike his neck. 'Ali came to him and he found him in a well making his body cool. 'Ali said to him: Come out, and as he took hold of his hand and brought him out, he found that his sexual organ had been cut. Hadrat 'Ali refrained from striking his neck. He came to Allah's Apostle (ﷺ) and said: Allah's Messenger, he has not even the sexual organ with him.
+
+Sahih Muslim 37:6676
+
+The following hadith is graded Sahih by Dar-us-Salam:
+
+It was narrated from Anas, that the Messenger of Allah had a female slave with whom he had intercourse, but 'Aishah and Hafsah would not leave him alone until he said that she was forbidden for him. Then Allah, the Mighty and Sublime, revealed: "O Prophet! Why do you forbid (for yourself) that which Allah has allowed to you.' until the end of the Verse.
+
+Sunan an-Nasa'i 4:36:3411
+
+Tafsir al-Jalalayn says of the verse (Quran 66:1) referred to in this hadith:
+
+O Prophet! Why do you prohibit what God has made lawful for you in terms of your Coptic handmaiden Māriya — when he lay with her in the house of Hafsa who had been away but who upon returning and finding out became upset by the fact that this had taken place in her own house and on her own bed — by saying ‘She is unlawful for me!’ seeking by making her unlawful for you to please your wives? And God is Forgiving Merciful having forgiven you this prohibition.
+
+Tafsir al-Jalalayn 66:1
+
+An alternate, or additional circumstance for this verse has also been narrated in multiple sahih hadiths (in yet another version Sahih Muslim 9:3497, Muhammad ate honey at Hafsa's house instead of Zainab's).
+
+'Aishah said that the Messenger of Allah used to stay with Zainab bint Jahsh and drink honey at her house. Hafsah and I agreed that if the Prophet entered upon either of us, she would say: "I perceive the smell of Maghafir (a nasty-smelling gum) on you; have you eaten Maghafir?" He came in to one of them, and she said that to him. He said: "No, rather I drank honey at the house of Zainab bint Jahsh, but I will never do it again." Then the following was revealed: 'O Prophet! Why do you forbid (for yourself) that which Allah has allowed to you.' 'If you two turn in repentance to Allah, (it will be better for you)' about 'Aishah and Hafsah, 'And (remember) when the Prophet disclosed a matter in confidence to one of his wives' refers to him saying: "No, rather I drank honey."
+
+Sunan an-Nasa'i 4:36:3410
+
+"Honey" was also a sexual euphemism and an explicit example of its usage in this sense is found in a hadith in Abu Dawud:
+
+Narrated Aisha, Ummul Mu'minin: The Messenger of Allah (ﷺ) was asked about a man who divorced his wife three times, and she married another who entered upon her, but divorced her before having intercourse with her, whether she was lawful for the former husband. She said: The Prophet (ﷺ) replied: She is not lawful for the first (husband) until she tastes the honey of the other husband and he tastes her honey.
+
+Sunan Abu Dawud 12:2302
+
+Sean Anthony and Catherine Bronson have noted that "Modern scholars have been inclined to regard the more scandalous story involving the slave girl as the earlier one given that it appears in the earliest sources, and despite the fact that the honey story has a superior pedigree in the eyes of the ḥadīth scholars. These modern scholars reason that, if the story of Ḥafṣah’s jealousy after seeing the Prophet with his slave-girl predates the honey story, then exegetes likely contrived the honey narrative at a later date in order to provide an alternative to the unflattering portrayal of the Prophet and his wives in the former story. Furthermore, while the honey story may provide a somewhat plausible explanation for Q 66:1–2, its explanatory force greatly diminishes when applied to the remainder of the pericope. The gravity of Q 66:5–6, which threatens divorce as a penalty for plotting against the Prophet, makes a poor match for the trifles of the honey story."[39]
+
+Ali rapes a captive girl alloted to the khumus (state share of war booty)
+
+Another relevant hadith is one which concerns an incident which led to the famous event of Ghadir Khumm, which is much disputed between Sunnis and Shias. Both Sunni and Shia sources agree that Muhammad received complaints about 'Ali taking a slave-girl from the Khums (the fifth of all booty allotted for the state[40]) to which those complaining felt that no private party was entitled.
+
+The Arabic of the Sunni hadith below mentions 'Ali taking a Ghusl bath (which is mandatory after sexual contact or ejaculation), implying sexual activity. Later, at a place called Ghadir Khumm, Muhammad tried to pacify those who were upset with 'Ali by declaring Ali to be his Mawla. Mawla is an honorific meaning something between "follower", "ally", and "leader", which the Shia interpret to mean "successor of Muhammad". Thus, in some sense, Ali's having raped a captive becomes the immediate cause of what the Shi'a insist was the the announcement of Ali's succession. The emergent Sunni polemic here casts some doubt on the historical reliability of the hadith, yet, as a hadith included in Sahih Bukhari, it more than meets the Sunni requirements for authenticity.
+
+Narrated Buraida: The Prophet (ﷺ) sent `Ali to Khalid to bring the Khumus (of the booty) and I hated `Ali, and `Ali had taken a bath (after a sexual act with a slave-girl from the Khumus). I said to Khalid, "Don't you see this (i.e. `Ali)?" When we reached the Prophet (ﷺ) I mentioned that to him. He said, "O Buraida! Do you hate `Ali?" I said, "Yes." He said, "Do you hate him, for he deserves more than that from the Khumus."
+
+Sahih Bukhari 5:59:637
+
+Ibn Hajar al-Asqalani (d. 1449), one of the most famous Hadith scholars of all time, points out in his seminal Fath al-Bari (the still-standard commentary on Sahih Bukhari) what several scholars before him noted: that in accounts of this event, Ali does not observe the required istibra' (waiting period) to determine whether or not the captive girl was pregnant. Al-Asqalani quotes al-Khattabi who summarizes the possibilities: "she was either a virgin [strongly implying a young age in a culture where women married young], had not yet reached maturity, or Ali's ijtihad [independent reasoning] led him to not adhere to the waiting period in her case."[41]
+
+The istibra' was the waiting period which had to be observed before commencing intercourse with a newly acquired slave-woman or girl in order to avoid doubts about paternity if she became pregnant. For an adult slave woman this waiting period was one menstral period. Scholars disagreed on the waiting period before sexual intercourse with slave girls too young to menstruate (either a waiting period of one month or three), as discussed in another section below. However, it is worth noting that Ibn Hajar states that "the practice of many Companions" was to not observe istibra' for virgin pre-pubescent girls. See here for a translation of Ibn Hajar's commentary on this hadith and some reports of this same view attributed to the generation after the companions ('Ikrima and Iyas b. Mu'awiyah).
+
+Muhammad's companions rape captives intended for ransom
+
+On one occasion, presented with newly captured women, Muhammad's companions were only concerned about whether coitus interruptus ('azl) was permissible.
+
+Narrated Ibn Muhairiz: I entered the Mosque and saw Abu Said Al-Khudri and sat beside him and asked him about Al-Azl (i.e. coitus interruptus). Abu Said said, "We went out with Allah's Apostle for the Ghazwa of Banu Al-Mustaliq and we received captives from among the Arab captives and we desired women and celibacy became hard on us and we loved to do coitus interruptus. So when we intended to do coitus interruptus, we said, 'How can we do coitus interruptus before asking Allah's Apostle who is present among us?" We asked (him) about it and he said, 'It is better for you not to do so, for if any soul (till the Day of Resurrection) is predestined to exist, it will exist."
+
+Sahih Bukhari 5:59:459
+
+In another version of the same hadith in Sahih Muslim (also found in Malik's Muwatta and Abu Dawud), it is said that the Muslims' goal was to ransom the women back to members of the defeated party for monetary gain. It is explained that as a result of not wanting to get the women pregnant prior to ransoming them, Muhammad's companions inquired as to whether coitus interruptus was permissible.
+
+Abu Sirma said to Abu Sa'id al Khadri (Allah he pleased with him): O Abu Sa'id, did you hear Allah's Messenger (ﷺ) mentioning al-'azl? He said: Yes, and added: We went out with Allah's Messenger (ﷺ) on the expedition to the Bi'l-Mustaliq and took captive some excellent Arab women; and we desired them, for we were suffering from the absence of our wives, (but at the same time) we also desired ransom for them. So we decided to have sexual intercourse with them but by observing 'azl (Withdrawing the male sexual organ before emission of semen to avoid-conception). But we said: We are doing an act whereas Allah's Messenger is amongst us; why not ask him? So we asked Allah's Messenger (ﷺ), and he said: It does not matter if you do not do it, for every soul that is to be born up to the Day of Resurrection will be born.
+
+Sahih Muslim 8:3371; see also Al-Muwatta 29:95 and Sunan Abu Dawud 2167 (Ahmad Hasan Ref)
+
+Yet another version of the same story in Sahih Bukhari is even clearer about Muhammad's companions' sole concern being the potential detriment to the price of the captives if they were impregnated.
+
+Narrated Abu Sa`id Al-Khudri: that while he was sitting with Allah's Messenger (ﷺ) he said, "O Allah's Messenger (ﷺ)! We get female captives as our share of booty, and we are interested in their prices, what is your opinion about coitus interruptus?" The Prophet (ﷺ) said, "Do you really do that? It is better for you not to do it. No soul that which Allah has destined to exist, but will surely come into existence.
+
+Sahih Bukhari 3:34:432
+
+In these narrations captive women were due to be ransomed back to their tribes. This undermines a common modern apologetic claim that enslavement and intercourse with captive women was permitted in order to save them from destitution after their men had been defeated in battle.
+
+Muhammad's men hesitate to rape married captives until a verse is sent down
+
+Abu Sa'id al-Khudri (Allah her pleased with him) reported that at the Battle of Hanain Allah's Messenger (ﷺ) sent an army to Autas and encountered the enemy and fought with them. Having overcome them and taken them captives, the Companions of Allah's Messenger (may peace te upon him) seemed to refrain from having intercourse with captive women because of their husbands being polytheists. Then Allah, Most High, sent down regarding that: "And women already married, except those whom your right hands possess (iv. 24)" (i. e. they were lawful for them when their 'Idda [waiting] period came to an end).
+
+For other narrations of this hadith see the section above on Quran 4:24.
+
+Umar tells a man to beat his wife for preventing intercourse with his slave girl
+
+Abdullah ibn Umar (the son of the 2nd Caliph, Umar ibn al-Khattab) said that his father ordered a man to have intercourse with a slave girl after his wife had tried to make this haram for him by means of adult suckling.
+
+Yahya related to me from Malik that Abdullah ibn Dinar said, "A man came to Abdullah ibn Umar when I waswith him at the place where judgments were given and asked him about the suckling of an older person. Abdullah ibn Umar replied, 'A man came to Umar ibn al-Khattab and said, 'I have a slave-girl and I used to have intercourse with her. My wife went to her and suckled her. When I went to the girl, my wife told me to watch out, because she had suckled her!' Umar told him to beat his wife and to go to his slave-girl because kinship by suckling was only by the suckling of the young.' "
+
+Ghusl (full body wash) not required between intercourse with slave girls
+
+Imam Malik was asked about intercourse with multiple slave girls.
+
+Yahya related to me from Malik from Nafi that the slave girls of Abdullah ibn Umar used to wash his feet and bring him a mat of palm leaves while they were menstruating. Malik was asked whether a man who had women and slavegirlscould have intercourse with all of them before he did ghusl. He said, "There is no harm in a man having intercourse with two of his slave girls before he does ghusl. It is disapproved of, however, to go to a freewoman on another's day. There is no harm in making love first to one slave girl and then to another when one is junub." Malik was asked about a man who was junub and water was put down for him to do ghusl with.Then he forgot and put his finger into it to find out whether it was hot or cold. Malik said, "If no filth has soiled his fingers, I do not consider that that makes the water impure."
+
+Muhammad tells a man not to use coitus interrupt us/azl (the pull-out contraception method) when having sex with a captured slave girl
+
+The reason being God has already decided who they are going to create.
+
+Narrated Abu Sa`id Al-Khudri: That during the battle with Bani Al-Mustaliq they (Muslims) captured some females and intended to have sexual relation with them without impregnating them. So they asked the Prophet (ﷺ) about coitus interrupt us. The Prophet (ﷺ) said, "It is better that you should not do it, for Allah has written whom He is going to create till the Day of Resurrection." Qaza'a said, "I heard Abu Sa`id saying that the Prophet (ﷺ) said, 'No soul is ordained to be created but Allah will create it."
+
+Sahih Bukhari 9:93:506
+
+Narrated Abu Sa`id Al-Khudri: that while he was sitting with Allah's Messenger (ﷺ) he said, "O Allah's Messenger (ﷺ)! We get female captives as our share of booty, and we are interested in their prices, what is your opinion about coitus interrupt us?" The Prophet (ﷺ) said, "Do you really do that? It is better for you not to do it. No soul that which Allah has destined to exist, but will surely come into existence.
+
+Sahih Bukhari 3:34:432
+
+And similarly (this hadith is rated authentic/sahih by Al-Albani):
+
+A man said: Messenger of Allah, I have a slave-girl and I withdraw the penis from her (while having intercourse), and I dislike that she becomes pregnant. I intend (by intercourse) what the men intend by it. The Jews say that withdrawing the penis (azl) is burying the living girls on a small scale. He (the Prophet) said: The Jews told a lie. If Allah intends to create it, you cannot turn it away.
+
+Sunan Abu Dawud 11:2166
+
+Explicit distinction between zina and legal intercourse
+
+Since zina (fornication or adultery) only applies to intercourse with other than one's wives or female slaves, it is only in these contexts that rape is considered possible. The following narration graded hasan (good) by al-Albani in Abu Dawud explicitly makes this distinction by recognizing offspring with one's wives or slaves as legitimate, and included in inheritance, and by labeling the offspring with other women as illegitimate, and removed from inheritance.
+
+'Amr b. Shu'aib on his father's authority said that his grandfather reported:
+
+The Prophet (ﷺ) decided regarding one who was treated as a member of a family after the death of his father, to whom he was attributed when the heirs said he was one of them, that if he was the child of a slave-woman whom the father owned when he had intercourse with her, he was included among those who sought his inclusion, but received none of the inheritance which was previously divided; he, however, received his portion of the inheritance which had not already been divided; but if the father to whom he was attributed had disowned him, he was not joined to the heirs. If he was a child of a slave-woman whom the father did not possess or of a free woman with whom he had illicit intercourse, he was not joined to the heirs and did not inherit even if the one to whom he was attributed is the one who claimed paternity, since he was a child of fornication whether his mother was free or a slave.
+
+Sunan Abu Dawud 12:2258
+
+Muhammad's other female captives
+
+On at least two occasions, according to accounts in sahih hadiths, Muhammad captured and cohabited with war captives Safiyah and Juwairiyah, presumably against their will (having just led the slaughter of their families and tribes).
+
+Surah 33 twice gives Muhammad explicit and direct permission to have sexual contact with his existing wives (having married more than a dozen times, he is prohibited here from marrying further) and with any slaves he may possess now or may acquire in the future.
+
+O Prophet! Lo! We have made lawful unto thee thy wives unto whom thou hast paid their dowries, and those whom thy right hand possesseth of those whom Allah hath given thee as spoils of war, and the daughters of thine uncle on the father's side and the daughters of thine aunts on the father's side, and the daughters of thine uncle on the mother's side and the daughters of thine aunts on the mother's side who emigrated with thee, and a believing woman if she give herself unto the Prophet and the Prophet desire to ask her in marriage - a privilege for thee only, not for the (rest of) believers - We are Aware of that which We enjoined upon them concerning their wives and those whom their right hands possess - that thou mayst be free from blame, for Allah is ever Forgiving, Merciful. Thou canst defer whom thou wilt of them and receive unto thee whom thou wilt, and whomsoever thou desirest of those whom thou hast set aside (temporarily), it is no sin for thee (to receive her again); that is better; that they may be comforted and not grieve, and may all be pleased with what thou givest them. Allah knoweth what is in your hearts (O men), and Allah is ever Forgiving, Clement. It is not allowed thee to take (other) women henceforth, nor that thou shouldst change them for other wives even though their beauty pleased thee, save those whom thy right hand possesseth. And Allah is ever Watcher over all things.
+
+Earlier verses in the same surah suggest that these women were among the captives, land, houses and wealth seized during a decisive battle with opponents who had left their fortresses (Quran 33:20-27). According to commentators, this was Khaybar, though other views were narrated too.
+
+Main Article: Safiyah
+
+Safiyah the daughter of Huayy was the wife of a Jewish Rabbi named Kinana. when Muhammad conquered the Jewish village of Khaibar, he had the Rabbi tortured and then killed. According to an account in Sahih Bukhari, Muhammad then took captive the Rabbi's wife.
+
+Narrated 'Abdul 'Aziz: Anas said, 'When Allah's Apostle invaded Khaibar, we offered the Fajr prayer there early in the morning) when it was still dark. The Prophet rode and Abu Talha rode too and I was riding behind Abu Talha. The Prophet passed through the lane of Khaibar quickly and my knee was touching the thigh of the Prophet . He uncovered his thigh and I saw the whiteness of the thigh of the Prophet. When he entered the town, he said, 'Allahu Akbar! Khaibar is ruined. Whenever we approach near a (hostile) nation (to fight) then evil will be the morning of those who have been warned.' He repeated this thrice. The people came out for their jobs and some of them said, 'Muhammad (has come).' (Some of our companions added, "With his army.") We conquered Khaibar, took the captives, and the booty was collected. Dihya came and said, 'O Allah's Prophet! Give me a slave girl from the captives.' The Prophet said, 'Go and take any slave girl.' He took Safiya bint Huyai. A man came to the Prophet and said, 'O Allah's Apostles! You gave Safiya bint Huyai to Dihya and she is the chief mistress of the tribes of Quraiza and An-Nadir and she befits none but you.' So the Prophet said, 'Bring him along with her.' So Dihya came with her and when the Prophet saw her, he said to Dihya, 'Take any slave girl other than her from the captives.' Anas added: The Prophet then manumitted her and married her." Thabit asked Anas, "O Abu Hamza! What did the Prophet pay her (as Mahr)?" He said, "Her self was her Mahr for he manumitted her and then married her." Anas added, "While on the way, Um Sulaim dressed her for marriage (ceremony) and at night she sent her as a bride to the Prophet . So the Prophet was a bridegroom and he said, 'Whoever has anything (food) should bring it.' He spread out a leather sheet (for the food) and some brought dates and others cooking butter. (I think he (Anas) mentioned As-SawTq). So they prepared a dish of Hais (a kind of meal). And that was Walima (the marriage banquet) of Allah's Apostle ."
+
+Sahih Bukhari 1:8:367
+
+Juwairiyah bint al-Harith
+
+A hadith from Sunan Abu Dawud explains how, following a surprise attack on the Banu Mustaliq, Muhammad took captive the "very beautiful" Juwairiyah, making Aisha jealous.
+
+Narrated Aisha, Ummul Mu'minin: Juwayriyyah, daughter of al-Harith ibn al-Mustaliq, fell to the lot of Thabit ibn Qays ibn Shammas, or to her cousin. She entered into an agreement to purchase her freedom. She was a very beautiful woman, most attractive to the eye. Aisha said: She then came to the Apostle of Allah (peace be upon him) asking him for the purchase of her freedom. When she was standing at the door, I looked at her with disapproval. I realised that the Apostle of Allah (peace be upon him) would look at her in the same way that I had looked. She said: Apostle of Allah, I am Juwayriyyah, daughter of al-Harith, and something has happened to me, which is not hidden from you. I have fallen to the lot of Thabit ibn Qays ibn Shammas, and I have entered into an agreement to purchase of my freedom. I have come to you to seek assistance for the purchase of my freedom. The Apostle of Allah (peace be upon him) said: Are you inclined to that which is better? She asked: What is that, Apostle of Allah? He replied: I shall pay the price of your freedom on your behalf, and I shall marry you. She said: I shall do this. She (Aisha) said: The people then heard that the Apostle of Allah (peace be upon him) had married Juwayriyyah. They released the captives in their possession and set them free, and said: They are the relatives of the Apostle of Allah (peace be upon him) by marriage. We did not see any woman greater than Juwayriyyah who brought blessings to her people. One hundred families of Banu al-Mustaliq were set free on account of her.
+
+Sunan Abu Dawud 29:3920
+
+A hadith in Sahih Bukhari confirms the same narrative.
+
+Narrated Ibn Aun: I wrote a letter to Nafi and Nafi wrote in reply to my letter that the Prophet had suddenly attacked Bani Mustaliq without warning while they were heedless and their cattle were being watered at the places of water. Their fighting men were killed and their women and children were taken as captives; the Prophet got Juwairiya on that day. Nafi said that Ibn 'Umar had told him the above narration and that Ibn 'Umar was in that army.
+
+Sahih Bukhari 3:46:717
+
+Waiting period before sex with slave girls too young to menstruate
+
+While it is relatively well known that forced marriage of children was permitted by all schools of Islamic Jurisprudence and that some did not require puberty prior to marital consummation[42] (all of which is illegal today in most modern Muslim-majority countries), less well known is that intercourse was also permitted with pre-pubescent slave girls.
+
+It is important to reiterate at this point that the majority of Islamic scholars today consider slavery to no longer be permissible in a modern context. Slavery was outlawed in Muslim majority countries around the world during the 19th and 20th centuries (though still persists illegally in a few places such as Mauritania where as of the early 2020s, human rights groups estimate that 20% of the population are still enslaved including children[1]). Modern muslims would generally be as appalled as anyone else to learn of these past practices.
+
+The istibra' was the period of time during which a man may not have sexual intercourse with a female slave that he has just acquired. This was intended to prevent doubts over a child's paternity in case a slave-girl falls pregnant shortly after being bought by a new master.
+
+The Kuwait Encyclopedia of Fiqh, Volume 3, p. 174 summarises the opinions of the Sunni legal schools regarding the length of istibra' for non-menstruating slaves whether because they are either too young or too old. It says that Malikis gave opinions ranging from one month to three months. The Hanbali school said three months, while the Hanafi and Shafi'i schools said it is one month.
+
+The Risala was a famous treatise of Maliki fiqh (jurisprudence). It gives the istibra' for child slave-girls (who do not yet menstruate) as three months. For slaves who do menstruate, the istibra' is instead measured as one menstral period.
+
+Istibra' is observed in the case of a slavegirl who changes ownership. It is one menstruation. Ownership changes by selling, giving away, capture, or any other way. If the woman menstruates after being in the possession of the new master before he has bought her, then she does not have to observe an istibra' if she has not gone out. The istibra' for a child when she is sold is three months as it is for a woman who no longer menstruates. There is no istibra' for a woman who has never had intercourse.
+
+Ahmad ibn Hanbal was founder of another major school of jurisprudence. Here Abu Dawud reports Ibn Hanbal's response when the latter was asked about the istibra' for child slave-girls:
+
+I heard Aḥmad asked about an istībrāʾ for a girl of ten, and he thought there should be one. I heard Aḥmad say, “A girl of ten years of age may become pregnant.” Someone said to Aḥmad while I was listening, “Even if she is too young to menstruate (ṣaghīra)?” He said, “If she is [very] young, that is, if she is still suckling, then waiting an istibrāʾ has no legal consequences.”
+
+Chapters on Marriage and Divorce: Responses of Ibn Ḥanbal and Ibn Rāhwayh Chapter 2 (Abu Dawud) §59-61, translated by Susan Spectorsky, University of Texas Press, 1993[43]
+
+Ibn Hanbal's son Abdullah too reported his father's views on this question, as well as on the question of sexual touching of pre-menstral slave-girls. Ibn Hanbal permitted either of these after three months:
+
+I said, “What about a man who buys a female slave not old enough to menstruate?” He said, “He abstains from having sexual intercourse with her for three months.” ... I said to my father, “May he have intimate contact other than that of sexual intercourse with his prepubescent female slave?” He said, “Not until he has abstained from having sexual intercourse with her for three months.” [...] I asked my father about a man who buys a female slave who is too young to menstruate. “How long should he refrain from having sexual intercourse with her?” He said, “For three months.” I said to my father, “What about intimate contact other than that of intercourse? Can he, for example, touch or kiss her?” He said, “I prefer him not to do that. He should wait an istibrāʾ, for I cannot be certain that if he does touch or kiss her and she is pregnant, he will not do so in an unlawful manner.”
+
+Chapters on Marriage and Divorce: Responses of Ibn Ḥanbal and Ibn Rāhwayh Chapter 3 (Abdullah) §138-9, translated by Susan Spectorsky, University of Texas Press, 1993[43]
+
+Sufyan was the teacher of Ibn Hanbal and Ishaq. Here the views of all three are reported by Ahmad's student al-Kausaj:
+
+I said, “Sufyān said, and he was one of those among the scholars (ahl al-ʿilm) whose opinion was sought, that when a man bought a young female slave, one considered too young for sexual intercourse, that it was not necessary for her to wait an ʿidda. He said, ‘What I prefer when a man buys a female slave too young for intercourse is that her new owner should neither kiss her nor have sexual contact with her, until he has waited a period of istibrāʾ on her behalf, in accordance with the sunna [concerning female slaves].’”
+
+Aḥmad said, “What Sufyān said is excellent.” Isḥāq said, “There is no harm in his kissing her and having sexual contact with her, because she is among those whom one need not fear having to return to her previous owner because of pregnancy.
+
+Chapters on Marriage and Divorce: Responses of Ibn Ḥanbal and Ibn Rāhwayh Chapter 4 (al-Kausaj) §224, translated by Susan Spectorsky, University of Texas Press, 1993[43]
+
+Shafi'i, founder of another major sunni legal school, said that the istibra' in this situation was one month (as mentioned above). See also the section below about polytheist slaves for his view that sex with polytheist child slaves becomes lawful only once the child has embraced Islam, which may be achieved by coercion in some circumstances.
+
+These views contrast with the statement by Ibn Hajar discussed in another section above, that "the practice of many Companions" was to not observe istibra' for virgin pre-pubescent girls. He may have had in mind narrations similar to some attributed to the tabi'un (2nd generation after the companions) which were collected by Ibn Abi Shaybah (d. 849 CE). A chapter of the Musannaf of Ibn Abi Shaybah records a number of relevant narrations including these from 'Ikrima and the renowned judge Iyas b. Mu'awiyah:
+
+(16906) Waki <– Ali Bin Al-Mubarak <– Yahya Bin Abi Kathir <– Ikrimah:
+
+Regarding the man who buys a pre-pubescent slave girl, even one younger than that. He said: “There is nothing wrong with touching her before observing Istibra”
+
+(16907) Zayd Bin Hubab <– Hammad Bin Salamah <– Iyas Bin Muawiyah: Regarding a man who brought a pre-pubescent slave girl, do not those like her have sexual intercourse? He said: “there is nothing wrong with performing the sexual act upon her without observing istibra”
+
+Musannaf Ibn Abi Shaybah 16906 and 16907 (for translation and further discussion see here
+
+Screenshots of the sources used in this section are also available here (archive).
+
+Limitations on rape of slaves and war captives
+
+Avoiding physical harm during intercourse
+
+Beyond the temporary requirement of waiting past the Iddah period or conversion of a slave, the only restriction on sex with one's slaves or wives is that they do not suffer physical harm in the process.[13] However, this derives from a generic prohibition against incurring harm (ḍarar) upon anyone at any time, and men are authorized in the view of jurists to beat their wives and slaves as a form of physical discipline if they deny him sexual access or fail to obey him in some other mandatory capacity.[8]
+
+In practical terms, the relevance of the "do-no-harm" principle in this case is that a man should not penetrate his wives or slaves against their will if they are physically too small to withstand penetration (i.e. in the case of very young girls) or if they are seriously ill or injured to the point where penetration would inhibit their healing or magnify their injury. There is no consideration here for harm in the form of "mental anguish", and men are permitted to sexually utilize very young, ill, and/or injured slaves against their will through means other than penetration if such less egregious means will help avoid severe physical injury.
+
+Waiting until the completion of the Iddah or childbirth
+
+A hadith graded sahih by Dar-us-Salam in Abu Dawud describes the Iddah waiting period as the "one menstrual period" after acquisition of the slave wherein the new owner must abstain from sexual contact in order to ascertain whether or not the slave is pregnant, so as not to confuse paternity.
+
+Abu Sa’id Al Khudri traced to Prophet (ﷺ) the following statement regarding the captives taken at Atwas. There must be no intercourse with pregnant woman till she gives birth to her child or with the one who is not pregnant till she has had one menstrual period.
+
+Sunan Abu Dawud 2152 (Ahmad Hasan Ref)
+
+Another hadith graded sahih by Dar-us-Salam in Tirmidhi explains that if the slave is pregnant
+
+Narrated Umm Habibah bint 'Irbad bin Sariyah: From her father who told her that the Messenger of Allah (ﷺ) prohibited intercourse with female prisoners, until they deliver what is in their wombs."
+
+Jami` at-Tirmidhi 3:19:1564
+
+Waiting until adult polytheist slaves convert, by force if necessary
+
+Although Muhammad's men seem to have had intercourse with captive polytheist women whom they had captured during the expedition to Awtas/Autas, most jurists later ruled that this was later forbidden by Quran 2:221 (the verse only forbids marriage to polytheist women, but scholars inferred that this also applied to intercourse with slaves). Intercourse with Muslim, Christian, or Jewish slaves was not affected by this restriction.[44]
+
+Early scholars of fiqh devised a workaround for this restriction, including the allowance of raping younger captives who were polytheist:
+
+According to a report included in the Jāmi‘ of al-Khallāl (d. 311 A.H. / 923 A.D.), Ibn Hanbal maintained that
+
+if Zoroastrian and idolatrous women are taken prisoner, they are coerced into Islam; if they embrace it, sexual relations with them are permissible and they can (also) be used as maidservants. If they do not embrace Islam, they are used as maidservants but not for sexual relations (wa idhā subhīna (sic) al-majūsiyyāt wa ‘abadat al awthān ujbirna 'alā al-Islām fa-in asl ama wutiʼna ma 'stukhdimna wa in lam yuslimna 'stukhdimna wa lam yūtaʼna).
+
+The contradiction inherent in this passage is evident: despite the unspecified coercive measures, some of the women in question refused conversion and, consequently, the masters could not take full advantage of their services. If the only way to embrace Islam is pronouncing the declaration of faith, the conversion of a defiant woman may not be possible: it is not always feasible to force someone to utter the shahāda. According to a tradition transmitted on the authority of Hasan al-Basri, the Muslims used various devices to attain their objective: they turned the Zorastrian slave-girl toward the Ka‘ba, ordered her to pronounce the shahāda and to perform ablution. Her master then engaged in sexual relations after she had one menstruating period while in his house. Others hold that the master must teach the slave-girl to pray, to purify herself and to shave her private parts before any intercourse. The participation of the girl in this procedure is minimal, and this wording may be interpreted us a considerable lowering of the conversion requirements so that the girl becomes eligible for sexual intercourse as expeditiously as possible. Among the early traditionists, only a few were willing to go beyond this and allow sexual relations with a Zoroastrian slave-girl without insisting on at least a semblance of conversion. Shafi‘i's treatment of the issue is slightly different. Speaking of grown-up Zoroastrian or polytheist women taken into captivity, he maintains that no sexual relations with them are allowed before they embrace Islam without bringing up the question of converting them forcibly. If the female captives are minor but were taken captive with at least one of their parents, the ruling is the same. If, however, the girl was captured without her parents, or one of her parents embraced Islam, she is considered a Muslim and is coerced into embracing it (nahkumu lahā bihukm al-Islām wa nujbiruhā ‘alayhi). Once this happens, sexual relations with her are lawful.
+
+Friedmann, Yohanan, Tolerance and Coercion in Islam: Interfaith Relations in the Muslim Tradition, Cambridge University Press, Cambridge Studies in Islamic Civilization, pp. 107-108, ISBN 9780511497568, August 2009 (archived from the original), https://web.archive.org/web/20180614220208/https://www.cambridge.org/core/books/tolerance-and-coercion-in-islam/603974A9EFEDC7FBD00B38D0845AECAA 
+
+While most Islamic scholars today are comfortable with at least the temporary abolition of slavery in light of the fact that Islamic scriptures universally praise the freeing of slaves as a meritorious act, few are comfortable with the idea of permanently and irreversibly amending divine law. As a result, the legal rulings relating to slaves and the technical permissibility of owning slaves under the proper circumstances (e.g. under the rule of a "legitimate khilafah", or caliphate) persist, as exemplified in the following fatwa from the most popular Islamic fatwa website in the world, based in Saudi Arabia.
+
+With regard to your question about it being permissible for a master to be intimate with his slave woman, the answer is that that is because Allaah has permitted it.
+
+Muhammad Salih al-Munajjid, ed, (March 18, 2004), "Fatwa No. 13737: What is the ruling on intimacy with slave women?", Islam Q&A, March 18, 2004 (archived from the original), https://archive.fo/16upP 
+
+Likewise, as with all rulings of the shariah, the basic rulings governing family relations are unchanging. It would be difficult even today to find a trusted Islamic authority that does not still, at some level, permit marital rape and give general license for wife beating as a potential means by which to compel one's able but unwilling spouse into sexual activity, among other things.
+
+The wife is obliged to obey her husband if he calls her to his bed, and if she refuses then she is sinning, because of the report narrated by al-Bukhaari (3237) and Muslim (1436) from Abu Hurayrah (may Allaah be pleased with him), that the Prophet (peace and blessings of Allaah be upon him) said: “If a man calls his wife to his bed and she does not come to him, and he goes to sleep angry with her, the angels will curse her until morning.”
+
+Muhammad Salih al-Munajjid, ed, (July 22, 2007), "Fatwa No. 99756: His wife is not very interested in intercourse so he resorts to masturbation", Islam Q&A, July 22, 2007 (archived from the original), https://web.archive.org/web/20201204173121/https://islamqa.info/en/answers/99756/his-wife-is-not-very-interested-in-intercourse-so-he-resorts-to-masturbation 
+
+Others side with modern values regarding these issues. Khaled Abou al-Fadl is a prominent reformist scholar who has summarised his understanding of modern Islamic views on slavery and sexual exploitation:
+
+Consider, for example, the recent truly ominous and disturbing development by one of the highest-ranking puritan jurists. Shaykh Saleh al-Fawzan, a Saudi jurist, issued a fatwa (a legal opinion) in which he claimed that not only is slavery lawful in Islam, but that it ought to be legalized in Saudi Arabia. Al-Fawzan went further in accusing Muslim scholars who condemned and outlawed slavery of being ignorant and infidels. This fatwa is particularly disturbing and dangerous because it effectively legitimates the trafficking in and sexual exploitation of so-called domestic workers in the Gulf region and especially Saudi Arabia. The position of slavery had been resolved for most of the twentieth century: slavery was condsidered unlawful and immoral, and all Muslim countries without exception had made the practice illegal. Importantly, most Muslim scholars had reached the reasonable conclusion that slavery is inconsistent with Qur'anic morality and the ethical objectives of the Islamic faith. In short, the prohibition of slavery was considered a closed matter.
+
+Khaled Abou al-Fadl, The Great Theft: Wrestling Islam from the Extremists[45]
+
+Modern revisionary perspectives and criticisms thereof
+
+Freedom and marriage as a requirement for intercourse
+
+Verses 4:23-24 (Quran 4:23-24) are sometimes presented as evidence for the idea that a man must first manumit and marry a slave in order to have sex with her. The verse lists the types of women a Muslim man is permitted to marry, one given option being his slave women, of whom he may free and marry. While 4:23-24 do not mention slaves outside of a marital context, several other verses (e.g. Quran 23:1-6 and Quran 70:29-30) make clear reference to sexual activity with slaves with whom the owner is not married by explicitly distinguishing between his sexual access to his wives and his sexual access to his slaves. The further example of Muhammad's companions raping captives from Banu al-Mustaliq prior to ransoming them (a scenario which effectively necessitates their non-marriage) confirms this idea.[46]
+
+In addition, there is the universally attested legal category of the Umm Walad (literally "mother of child") that is used by Islamic jurists to refer to those slaves who have given birth to one of their master's children. The child is free from birth and the mother is free upon her owner's death. An Umm Walad is legally distinct from a free mother because she is still a slave. Indeed, the concept of Umm Walad is apparently attested even in the prophet's time according to a hadith in Sahih Muslim - further clarifying the matter is the fact that in this very hadith, Muhammad approves of the companion's sexual relations with his unmarried slave girl.
+
+Abu Sa'id al-Khudri (Allah be pleased with him) reported that mention was made of 'azl in the presence of Allah's Apostle (ﷺ) whereupon he said: Why do you practise it? They said: There is a man whose wife has to suckle the child, and if that person has a sexual intercourse with her (she may conceive) which he does not like, and there is another person who has a slave-girl and he has a sexual intercourse with her, but he does not like her to have conception so that she may not become Umm Walad, whereupon he (the Holy Prophet) said: There is no harm if you do not do that, for that (the birth of the child) is something pre- ordained. Ibn 'Aun said: I made a mention of this hadith to Hasan, and he said: By Allah, (it seems) as if there is upbraiding in it (for 'azl).
+
+Encouragement to chastity as a prohibition on rape
+
+Verse 24:33 (Quran 24:33), which instructs unmarried men to keep chaste and instructs slaveowners to "force not [their] maids to prostitution", is sometimes presented as evidence for the idea that sexual activity is only permitted in a marital context and that slaveowners may not compel their slave girls to sexual activity of any sort.
+
+Let those who find not the wherewithal for marriage keep themselves chaste, until Allah gives them means out of His grace. And if any of your slaves ask for a deed in writing (to enable them to earn their freedom for a certain sum), give them such a deed if ye know any good in them: yea, give them something yourselves out of the means which Allah has given to you. But force not your maids to prostitution when they desire chastity, in order that ye may make a gain in the goods of this life. But if anyone compels them, yet, after such compulsion, is Allah, Oft-Forgiving, Most Merciful (to them),
+
+Chastity is instructed throughout the Qur'an and is repeatedly defined as the habit of one who "guards their private parts" from all except "their wives [of whom they may have up to four] and what their right hand possesses [i.e. female slaves, of whom they may have an unlimited number]" (e.g. Quran 23:6, Quran 33:50, Quran 33:52, and Quran 70:30). It is clear that, in the view of the Qur'an's author, an unmarried male may be considered chaste even if he engages in sexual activity with a technically unlimited number of women, so long as they are his slaves.
+
+The portion of the verse which instructs slaveowners to "force not [their] maids to prostitution" has traditionally been understood in its simplest sense, which prohibits slaveowners from playing the role of a pimp and trafficking their slave women - such a business built on illegal intercourse is of course prohibited and, understood this way, the verse says nothing of novel import. Another accepted sense of this verse is that if a female slave desires her (or, say, her child's) freedom, her master ought to give her some legal means by which to pursue it, the alternative being her feeling compelled to prostitute herself to earn the funds necessary to purchase that freedom (traditional tafsirs also mention the also undesirable possibility of a master forcing a slave to prostitution as a condition for her freedom). Since such a temptation on the part of the slave girl is all the more plausible given the likelihood that she was captured in a war or raid where her people were both slaughtered and enslaved (leaving her with no means), and so the verse concludes by saying that if a slave girl is driven to such behavior, then Allah will be forgiving. And in the simpler sense, if her master forces her to prostitution, then Allah will forgive her for what was not in her control.[47]
+
+Violations of the spoils-distribution system as rape
+
+Quote from al-Shafi'i
+
+A quote from al-Umm of Imam al Shafi'i, the founder of the Shafi'i school of Islamic jurisprudence, is sometimes misrepresented[48] as forbidding slave owners from raping their female slaves.
+
+"If a man acquires by force a slave-girl, then has sexual intercourse with her after he acquires her by force, and if he is not excused by ignorance, then the slave-girl will be taken from him, he is required to pay the fine, and he will receive the punishment for illegal sexual intercourse."
+
+al-Shafi'i, al-Umm, 3, p. 253 
+
+It is clear, however, that "acquires by force" here refers to the manner in which the man gained possession of the slave girl, not a description of the later sexual act. Indeed, this quote comes from the section entitled ghasb (property usurpation). According to Islamic law, a fifth of all war and raid spoils (referred to as the Khum - literally "fifth"), including captives who may be sold for funds, is to be allotted for public spending. Taking and raping a captive from this public allotment, as Ali is reported to have in one instance, amounts to theft and zina (illegal intercourse). This, as well as taking and raping someone else's slave, is of course prohibited and punishable. Indeed, in the remainder of his many-volume legal work al-Umm, al-Shafi'i painstakingly outlines the laws regarding the sexual obligations of one's wives and slaves, in no place suggesting that rape of the female is punishable in these contexts.
+
+A quote from the Muwatta of Imam Malik, founder of the Maliki school of jurisprudence, is also sometimes misrepresented in this vein.[48] As with the quote taken from al-Umm, this quote from the Muwatta is likewise only referring to stolen slaves and has no bearing on one's own slaves and wives. Fines for raping slave girls were always paid to the master.[49] And, just like Imam Shafi'i, Malik details the legal practices of slavery in several other places throughout the same text.
+
+Malik related to me from Ibn Shihab that Abd al-Malik ibn Marwan gave a judgment that the rapist had to pay the raped woman her bride- price. Yahya said that he heard Malik say, "What is done in our community about the man who rapes a woman, virgin or non-virgin, if she is free, is that he must pay the bride-price of the like of her. If she is a slave, he must pay what he has diminished of her worth. The hadd-punishment in such cases is applied to the rapist, and there is no punishment applied to the raped woman. If the rapist is a slave, that is against his master unless he wishes to surrender him."
+
+Hadith regarding the caliph Umar
+
+A hadith in the Sunan of al-Bayhaqi describes the Caliph Umar punishing Dhiraar for raping a captive woman and is sometimes presented as evidence that one is not permitted to have sexual intercourse with slaves.[48]
+
+Abu al-Hussain bin al-Fadhl al-Qatan narrated from Abdullah bin Jaffar bin Darestweh from Yaqub bin Sufyan from al-Hassab bin Rabee from Abdullah bin al-Mubarak from Kahmas from Harun bin Al-Asam who said: Umar bin al-Khatab may Allah be pleased with him sent Khalid bin al-Walid in an army, hence Khalid sent Dhiraar bin al-Azwar in a squadron and they invaded a district belonging to the tribe of Bani Asad. They then captured a pretty bride, Dhiraar liked her hence he asked his companions to grant her to him and they did so. He then had sexual intercourse with her, when he completed his mission he felt guilty, and went to Khalid and told him about what he did. Khalid said: 'I permit you and made it lawful to you.' He said: 'No not until you write a message to Umar'. (Then they sent a message to Umar) and Umar answered that he (Dhiraar) should be stoned. By the time Umar's message was delivered, Dhiraar was dead. (Khalid) said: 'Allah didn't want to disgrace Dhiraar'
+
+al-Bayhaqi, "Hadith 18685", Sunan al-Bayhaqi, 2, p. 263 
+
+As with the quote taken from Imam Shafi'i, this almost certainly refers to a violation of the system for distributing war spoils. Dhiraar's intercourse with the captive girl was illegal and merited stoning not because of her captive status or lack of consent, but because he had intercourse with the girl without that girl having been allotted to him at the behest of the caliph (Umar in this case), who has the responsibility of distributing spoils. Neither captivity nor consent are mentioned as a factor in the punishment. Indeed, in a another hadith discussed above, Umar tells a man to have intercourse with his slave girl after his wife tried to prevent it.
+
+Quote from Shafi'i on pleasure without compulsion in intercourse
+
+A passage from al-Shāfiʿī's al-Umm is occasionally proposed on Islamic websites as establishing a principle for sexual consent in general from a major legal figure. However, such a generalization is not justified from the context, which is about marital relations and specifically the husband's obligation but not compulsion to satisfy his wife' sexual needs. Here are comments and a translation by Professor Kecia Ali:
+
+Where there was no question of justice to co-wives, Shāfiʿī explicitly denies the wife's claim to a specific amount of intercourse:
+
+He said: And so if she is alone with him [i.e., he has no other wives], or with a slavegirl he has that he has sex with, he is ordered [to fulfill his obligations] in reverence to God the Exalted, and not to do her harm with regard to intercourse, and he is not obligated to any specific amount of it (wa lam yufraḍ ʿalayhi minhu shayʾbi ʿaynihi). Rather, he is only [obligated] to provide what she absolutely cannot do without, maintenance and lodging and clothing, and also to visit her (yaʾwī). However, intercourse is a matter of pleasure and no one is compelled to it. Shāfiʿī is unaware of his blinders. He obviously refers only to men when he declares that "intercourse is a matter of pleasure and no one is compelled to it." Women's sexual availability is, for him, a condition of their support and a prerequisite for their rights to visitation: "if any of them [his wives] refuses to have sex with him, she has disobeyed and abandoned her claim."
+
+Shāfiʿī's al-Umm quoted by Kecia Ali, Marriage and Slavery in Early Islam, p.119[50]
+
+Professor Jonathan A. C. Brown in reference to the same ruling remarks, "Shafiʿi himself, in a ruling followed dutifully by the major figures of his school, did not require a husband to have sex with his wife or slave-concubine because, ‘as for sex, it is a locus of pleasure and no one should be compelled to do it.’"[13]
+
+Rape - A hub page that leads to other articles related to Rape
+
+The High Rape-Scale in Saudi Arabia - WomanStats Project (blog), January 16, 2013 (archived), http://womanstats.wordpress.com/2013/01/16/the-high-rape-scale-in-saudi-arabia/ 
+
+IslamWeb endorses rape - The Islam Issue
+
+↑ 1.0 1.1 https://www.newarab.com/features/modern-day-child-slaves-mauritania Mauritania abolished slavery in 1981, but only criminalised slave ownership in 2007 and introduced punishment in 2015
+
+↑ As of the early 2020s, marital rape is not recognised as a crime in many Muslim-majority countries, nor in India, China, Myanmar, much of the Caribbean, and much of sub-Saharan Africa, though is illegal in Indonesia, Turkey, the Balkans, most of central Asia, and much of west Africa. See the detailed information in the Wikipedia article Marital rape laws by country, though note that in some cases the colour-coded map is inaccurate. A lack of legal protection in some countries and / or attitudes which refuse to accept the concept of marital rape exacerbates the predicament of millions of women suffering Forced Marriage in certain regions of the world.
+
+↑ 3.0 3.1 3.2 Ali, Kecia, "Concubinage and Consent", Cambridge University Press, January 20, 2017, https://www.cambridge.org/core/journals/international-journal-of-middle-east-studies/article/concubinage-and-consent/F8E807073C33F403A91C1ACA0CFA47FD. 
+
+↑ Kecia Ali, "The Truth About Islam and Sex Slavery History Is More Complicated Than You Think", Huffington Post, August 19th, 2016, http://www.huffingtonpost.com/kecia-ali/islam-sex-slavery_b_8004824.html (archive)
+
+↑ "'slave rape' is a tough term to decipher from a Shariah perspective. A male owner of a female slave has the right to sexual access to her. Though he could not physically harm her without potentially being held legally accountable if she complained, her 'consent' would be meaningless since she is his slave." Comment by Dr. Jonathan AC Brown on his Reddit AMA session, 2016 (archive)
+
+↑ Jonathan A.C. Brown (2019) Slavery & Islam, London: Oneworld Publications, Chapter 7, pp. 281-282, ISBN 978-1-78607-635-9
+
+↑ Susila, Muh Endriyo (2013). "Islamic Perspective on Marital Rape" 20 (2). Jurnal Media Hukum, p.328. 
+
+↑ 8.0 8.1 Professor Jonathan Brown writes regarding medieval jurist interpretions of Q. 4:34: "If a wife exhibited egregious disobedience (nushūz) such as uncharacteristically insulting behaviour, leaving the house against the husband's will and without valid excuse or denying her husband sex (without medical grounds), the husband should first admonish her to be conscious of God and proper etiquette. If she did not desists from her behaviour, he should cease sleeping with her in their bed. If she still continued with her nushūz, he should then strike her to teach her the error of her ways." Jonathan A. C. Brown, Misquoting Muhammad, London: Oneworld Publications, 2014, p. 276 For more details, see the Islamic Law section of the article Wife Beating in Islamic Law.
+
+↑ Kecia Ali (2016) "Sexual Ethics and Islam", Oneworld publications, ISBN: 978-1-78074-381-3 p. 12 "The Hanafi view that husbands were entitled to have sex forcibly with their wives when the latter did not have a legitimate reason to refuse sex was not widely shared outside that school. Even the majority of Hanafi thinkers who accepted this doctrine recognized a distinction between forced intercourse and more usual sexual relations between spouses; although both were equally licit, sex by force might be unethical" And p. 120 "Non-Hanafis do not penalize a husband for forcing sex on his wife, but neither do they explicitly authorize it in the way that al-Khassaf does. For all, marital rape is an oxymoron; rape (ightisab) is a property crime that by definition cannot be committed by a husband."
+
+↑ Quraishi-Landesi, Asifa. Feminism, Law, and Religion. Routledge. p. 178. ISBN 978-1-317-13579-1, 15 April 2016. https://books.google.co.in/books?id=QfkFDAAAQBAJ&redir_esc=y. 
+
+↑ Azam, Hina. Sexual Violation in Islamic Law: Substance, Evidence, and Procedure. Cambridge University Press. p. 69. ISBN 978-1-107-09424-6, 26 June 2015. https://books.google.co.in/books?id=fhy_CQAAQBAJ&pg=PA69&redir_esc=y#v=onepage&q&f=false. 
+
+↑ Jonathan A.C. Brown (2019) Slavery & Islam, London: Oneworld Publications, Chapter 7, p. 96, ISBN 978-1-78607-635-9 On the same page Brown also remarks, "According to the Quran, both marriage and ownership (in the case of the female slave and her male master) were relationships in which sex was licit (Quran 23:5-6). Within these relationships, consent for sexual relations was assumed or irrelevant. In marriage the relationship itself entailed ongoing consent for sex, and with a female slave it was not needed (assuming the slave girl was soley owned by one man and not married; in both cases she was off limits). Kecia Ali has observed that there is no evidence for any requirement for consent for sex from slave women in books of Islamic law from the eighth to the tenth centuries"
+
+↑ 13.0 13.1 13.2 Jonathan A.C. Brown, Slavery & Islam, Chapter 7, p. 283, London: Oneworld Publications, 2019 ISBN 978-1-78607-635-9
+
+↑ Hina Azam RAPE AS A VARIANT OF FORNICATION (ZINĀ) IN ISLAMIC LAW: AN EXAMINATION OF THE EARLY LEGAL REPORTS, Journal of Law and Religion, vol. 28, no. 2, 2012, pp. 441–66
+
+↑ "Rape in Islamic law: Establishing the crime and upholding the rights of the innocent", 23 January 2022, https://www.alhakam.org/rape-in-islam/. 
+
+↑ Peters, R.. "Zinā or Zināʾ". in P. Bearman. Encyclopaedia of Islam (2nd ed.). Brill, 2012. 
+
+↑ Position paper by Karamah (Muslim Women Lawyers for Human Rights) Zina, Rape, and Islamic Law: An Islamic Legal Analysis of the Rape Laws in Pakistan(2011)
+
+↑ See the 2nd of the two hadiths here regarding Imam Malik's view: Al-Muwatta 41:16
+
+↑ See Quran 24:4-17 and the discussion in Punishments for Zina
+
+↑ Dr Azman Mohd Noor, Punishment for rape in Islamic Law, Malayan Law Journal Articles [2009] 5 MLJ cxiv
+
+↑ Murtaza Haider, "A license to rape", Dawn, June 5, 2003, https://www.dawn.com/news/1016271/a-license-to-rape 
+
+↑ Saudi Arabia: Forthcoming Penal Code Should Protect Rights - Human Rights Watch 29 April 2022
+
+↑ "Judged for more than her crime", Cornell Law School, p. 13, September 2018, https://www.deathpenaltyworldwide.org/wp-content/uploads/2019/12/Judged-More-Than-Her-Crime.pdf. 
+
+↑ Azam, Hina, "Rape", http://www.oxfordislamicstudies.com, http://www.oxfordislamicstudies.com/article/opr/t349/e0075. 
+
+↑ "(9) Chapter: It is permissible to have intercourse with a female captive after it is established that she is not pregnant, and if she has a husband, then her marriage is annulled when she is captured", Sahih Muslim (Book of Suckling), https://sunnah.com/muslim/17 See the three hadiths it contains: Sahih Muslim 8:3432, Sahih Muslim 8:3433, and Sahih Muslim 8:3434
+
+↑ Kecia Ali, "Marriage and Slavery in Early Islam", Massachussets: Harvard University Press, 2010, pp. 154-159
+
+↑ Salma Saad, The legal and social status of women in the Hadith literature (PDF), p. 242, 1990, http://etheses.whiterose.ac.uk/508/1/uk_bl_ethos_443314.pdf 
+
+↑ Nesrine Badawi (1 October 2019). p.17. BRILL. ISBN 978-90-04-41062-6, Islamic Jurisprudence on the Regulation of Armed Conflict: Text and Context, https://books.google.com/books?id=6MC0DwAAQBAJ&pg=PA17 
+
+↑ William Gervase Clarence-Smith, Islam and the Abolition of Slavery, p. 27. Oxford University Press. ISBN 978-0-19-522151-0, 2006, https://archive.org/details/islamabolitionof0000clar 
+
+↑ Malik Mufti (1 October 2019), The Art of Jihad: Realism in Islamic Political Thought, SUNY Press. p.5. ISBN 978-1-4384-7638-4, https://books.google.com/books?id=l0SyDwAAQBAJ&pg=PA5 
+
+↑ William Gervase Clarence-Smith, Islam and the Abolition of Slavery, p. 22. Oxford University Press. ISBN 978-0-19-522151-0, 2006, https://archive.org/details/islamabolitionof0000clar 
+
+↑ Robert Gleave (14 April 2015), Violence in Islamic Thought from the Qur'an to the Mongols, p.142. Edinburgh University Press. ISBN 978-0-7486-9424-2 
+
+↑ William Gervase Clarence-Smith, Islam and the Abolition of Slavery, p=27–28. Oxford University Press. ISBN 978-0-19-522151-0, 2006, https://archive.org/details/islamabolitionof0000clar 
+
+↑ William Gervase Clarence-Smith, Islam and the Abolition of Slavery, p=28. Oxford University Press. ISBN 978-0-19-522151-0, 2006, https://archive.org/details/islamabolitionof0000clar 
+
+↑ William Gervase Clarence-Smith, Islam and the Abolition of Slavery, p=27-28. Oxford University Press. ISBN 978-0-19-522151-0, 2006, https://archive.org/details/islamabolitionof0000clar 
+
+↑ Y. Erdem (20 November 1996), Slavery in the Ottoman Empire and its Demise 1800-1909, p=26. Palgrave Macmillan UK. ISBN 978-0-230-37297-9, https://books.google.com/books?id=dyZ-DAAAQBAJ&pg=PA52 
+
+↑ Jarbel Rodriguez (2015), Muslim and Christian Contact in the Middle Ages: A Reader, p=2. University of Toronto Press. ISBN 978-1-4426-0066-9, https://books.google.com/books?id=z3VoBgAAQBAJ&pg=PA2 
+
+↑ Sean Anthony and Catherine Bronson (2016) "Did Ḥafṣah edit the Qurʾān? A response with notes on the codices of the Prophet's wives" Journal of the Interational Quranic Studies Association 1(2016) pp.93-125 (p.102)
+
+↑ "لِاحْتِمَالِ أَنْ تَكُونَ عَذْرَاءَ أَوْ دُونَ الْبُلُوغِ أَوْ أَدَّاهُ اجْتِهَادُهُ أَنْ لَا اسْتِبْرَاءَ فِيهَا" Ibn Hajar al-Asqalani, Fath al-Bari, 9, Dar Taybah, p. 487, https://www.google.com/books/edition/فتح_الباري_ج_9_المغازي/YzZJCwAAQBAJ?hl=en&gbpv=1&bsq=لِاحْتِمَالِ أَنْ تَكُونَ عَذْرَاءَ أَوْ دُونَ الْبُلُوغِ أَوْ أَدَّاهُ اجْتِهَادُهُ أَنْ لَا اسْتِبْرَاءَ فِيهَ (see alternatively Fath al-Bari 8/67 (archive.org))
+
+↑ child marriage was not only permitted by all schools of Islamic law, but a father could even compell his pre-pubescent children or his female slaves to marry someone (he could even so compell his male slaves according to Malikis and some Hanafi scholars). Marriage could even be forced upon post-pubescent virgin daughters according to the Maliki and Shafi'i schools of jurisprudence. Follow the links for details of all these points. Child marriage and forced marriage are obvious contexts in which rape would occur.
+
+↑ 43.0 43.1 43.2 Chapters on Marriage and Divorce is a compilation of "responses" that Ahmad ibn Hanbal and his friend Ishaq bin Rahwayh gave to various fiqh questions that people asked them. The book is really three different compilations in one: the first from Abu Dawud, the famous Hadith scholar, the second from Abdullah, Ahmad's son, and the last from al-Kausaj, one of Ahmad's students. The three different compilations were collected and translated by Susan A. Spectorsky, a retired professor at Queens College, City University of New York.
+
+↑ Ruling on sexual intercourse with one's polytheistic slave-woman, Islamweb.net, November 14, 2014 (archived from the original), https://web.archive.org/web/20201227215257/https://www.islamweb.net/en/fatwa/272452/ 
+
+↑ Khaled Abou al-Fadl, The Great Theft: Wrestling Islam from the Extremists, HarperOne, 2009, p. 255
+
+↑ Sahih Bukhari 5:59:459, Sahih Muslim 8:3371, Al-Muwatta 29:95, Sunan Abu Dawud :2167, and Sahih Bukhari 3:34:432
+
+↑ See Tafsir Qurtubi 24:33 in particular; see also Tafsir al-Tabari 24:33, Tafsir Ibn Kathir 24:33, and Tafsirs 24:33 in general
+
+↑ 48.0 48.1 48.2 Bassam Zawadi, "Does Islam Permit Muslim Men to Rape Their Slave Girls?", Call to Monotheism (archived from the original), https://web.archive.org/web/20201112021758/https://www.call-to-monotheism.com/does_islam_permit_muslim_men_to_rape_their_slave_girls_ 
+
+↑ Hina Azam, "Sexual Violation in Islamic Law: Substance, Evidence, and Procedure" New York: Cambridge University Press, 2015, p. 104
+
+↑ Kecia Ali,"Marriage and Slavery in Early Islam", Massachussets: Harvard University Press, 2010, p.119
+
+Retrieved from "http://wikiislam.net/index.php?title=Rape_in_Islamic_Law&oldid=138338"
+
+Pages containing cite templates with deprecated parameters
+
+Shariah (Islamic Law)

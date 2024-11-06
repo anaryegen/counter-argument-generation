@@ -1,0 +1,41 @@
+ Home > Browse the Constitution Annotated > Article I—Legislative Branch > Section 8—Enumerated Powers > Clause 1—General Welfare > ArtI.S8.C1.2 Spending Power > ArtI.S8.C1.2.7 General Welfare, Relatedness, and Independent Constitutional Bars 
+
+ArtI.S8.C1.2.7 General Welfare, Relatedness, and Independent Constitutional Bars
+
+Article I, Section 8, Clause 1:
+
+The Congress shall have Power To lay and collect Taxes, Duties, Imposts and Excises, to pay the Debts and provide for the common Defence and general Welfare of the United States; but all Duties, Imposts and Excises shall be uniform throughout the United States; . . .
+
+Beyond the clear-notice requirement and the anti-coercion rule, the Court evaluates Spending Clause legislation using three additional factors. First, spending must be in pursuit of the general welfare.1Footnote South Dakota v. Dole, 483 U.S. 203, 207 (1987). This determination is largely for Congress to make.2Footnote Buckley v. Valeo, 424 U.S. 1, 90 (1976) (It is for Congress to decide which expenditures will promote the general welfare.), superseded by statute, Bipartisan Campaign Reform Act of 2002, Pub. L. No. 107-155, 116 Stat. 81; cf. Lyng v. Int’l Union, 485 U.S. 360, 373 (1988) (explaining that the discretion about how best to spend money to improve the general welfare is lodged in Congress rather than the courts); Mathews v. De Castro, 429 U.S. 181, 185 (1976) (similar). The Court substantially defers to Congress’s decision that a particular expenditure advances the general welfare.3Footnote Dole, 483 U.S. at 208; see also Buckley, 424 U.S. at 91 (stating that whether spending is wasteful, excessive, or unwise is irrelevant to judicial review of the general-welfare requirement). The Court has not invalidated Spending Clause legislation on the ground that it did not satisfy the general welfare requirement.4Footnote Nat’l Fed’n of Indep. Bus., 567 U.S. at 674 (Scalia, Kennedy, Thomas & Alito, JJ., dissenting). It has even questioned whether the general-welfare requirement is judicially enforceable.5Footnote Dole, 483 U.S. at 208 n.2 (The level of deference to the congressional decision is such that the Court has more recently questioned whether &lsquo;general welfare’ is a judicially enforceable restriction at all. (citing Buckley, 424 U.S. at 90–91)).
+
+Second, a funding condition must reasonably relate to the federal interest in a program.6Footnote Id. at 207–08; cf. Ivanhoe Irrigation Dist. v. McCracken, 357 U.S. 275, 295 (1958). The Court has not held that a funding condition was unrelated to a federal interest. It has instead sustained a condition requiring states to set a minimum drinking age of twenty-one, because that condition promoted the federal interest in safe interstate travel.7Footnote Dole, 483 U.S. at 207–08. The Court has also concluded that Congress could require a state to not employ in its federally supported programs a person who plays an active role in the affairs of a political party.8Footnote Oklahoma v. U.S. Civ. Serv. Comm’n, 330 U.S. 127, 143 (1947). This condition advanced the federal interest in sound management of federal funds.9Footnote See id.
+
+Third, a funding condition may not induce states to act in a way that is itself unconstitutional.10Footnote Dole, 483 U.S. at 210–11; King v. Smith, 392 U.S. 309, 333 n. 34 (1968). This factor asks whether provisions of the Constitution, other than the Spending Clause, prohibit the conduct that the funding condition would prompt.11Footnote See United States v. Am. Libr. Ass’n, Inc., 539 U.S. 194, 214 (2003) (plurality op.) (Because public libraries’ use of Internet filtering software does not violate their patrons’ First Amendment rights, a federal statute requiring such filtering as a condition of federal funds does not induce libraries to violate the Constitution, and is a valid exercise of Congress’s spending power.). The constraining effect of other constitutional provisions is explored in other essays.12Footnote In addition, the Court has developed its unconstitutional conditions doctrine, in part, by examining Spending Clause legislation. See Amdt1.7.15.1 Overview of Unconstitutional Conditions Doctrine (summarizing the doctrine as resting on the principle that the government normally may not require a person, as a condition of receiving a public benefit, to relinquish a constitutional right). However, under the Court’s modern case law, it appears that one provision of the Constitution in particular, the Tenth Amendment, is not properly understood as a capable of standing as an independent constitutional bar to a conditional offer of federal funds that otherwise satisfies the Court’s five-factor analysis.13Footnote Cf. Dole, 483 U.S. at 210 (characterizing Oklahoma v. U.S. Civ. Serv. Comm’n, 330 U.S. 127 (1947), as having held that a perceived Tenth Amendment limitation on congressional regulation of state affairs did not concomitantly limit the range of conditions legitimately placed on federal grants).
+
+ Jump to essay-1South Dakota v. Dole, 483 U.S. 203, 207 (1987).
+
+ Jump to essay-2Buckley v. Valeo, 424 U.S. 1, 90 (1976) (It is for Congress to decide which expenditures will promote the general welfare.), superseded by statute, Bipartisan Campaign Reform Act of 2002, Pub. L. No. 107-155, 116 Stat. 81; cf. Lyng v. Int’l Union, 485 U.S. 360, 373 (1988) (explaining that the discretion about how best to spend money to improve the general welfare is lodged in Congress rather than the courts); Mathews v. De Castro, 429 U.S. 181, 185 (1976) (similar).
+
+ Jump to essay-3Dole, 483 U.S. at 208; see also Buckley, 424 U.S. at 91 (stating that whether spending is wasteful, excessive, or unwise is irrelevant to judicial review of the general-welfare requirement).
+
+ Jump to essay-4Nat’l Fed’n of Indep. Bus., 567 U.S. at 674 (Scalia, Kennedy, Thomas & Alito, JJ., dissenting).
+
+ Jump to essay-5Dole, 483 U.S. at 208 n.2 (The level of deference to the congressional decision is such that the Court has more recently questioned whether ‘general welfare’ is a judicially enforceable restriction at all. (citing Buckley, 424 U.S. at 90–91)).
+
+ Jump to essay-6Id. at 207–08; cf. Ivanhoe Irrigation Dist. v. McCracken, 357 U.S. 275, 295 (1958).
+
+ Jump to essay-7Dole, 483 U.S. at 207–08.
+
+ Jump to essay-8Oklahoma v. U.S. Civ. Serv. Comm’n, 330 U.S. 127, 143 (1947).
+
+ Jump to essay-9See id.
+
+ Jump to essay-10Dole, 483 U.S. at 210–11; King v. Smith, 392 U.S. 309, 333 n. 34 (1968).
+
+ Jump to essay-11See United States v. Am. Libr. Ass’n, Inc., 539 U.S. 194, 214 (2003) (plurality op.) (Because public libraries’ use of Internet filtering software does not violate their patrons’ First Amendment rights, a federal statute requiring such filtering as a condition of federal funds does not induce libraries to violate the Constitution, and is a valid exercise of Congress’s spending power.).
+
+ Jump to essay-12In addition, the Court has developed its unconstitutional conditions doctrine, in part, by examining Spending Clause legislation. See Amdt1.7.15.1 Overview of Unconstitutional Conditions Doctrine (summarizing the doctrine as resting on the principle that the government normally may not require a person, as a condition of receiving a public benefit, to relinquish a constitutional right).
+
+ Jump to essay-13Cf. Dole, 483 U.S. at 210 (characterizing Oklahoma v. U.S. Civ. Serv. Comm’n, 330 U.S. 127 (1947), as having held that a perceived Tenth Amendment limitation on congressional regulation of state affairs did not concomitantly limit the range of conditions legitimately placed on federal grants).
+
+Opens in a new window

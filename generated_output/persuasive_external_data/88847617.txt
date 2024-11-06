@@ -1,0 +1,619 @@
+The science of cultivated meat
+
+Learn about the science of cultivated meat and the challenges that must be addressed for commercial production. 
+
+Share this page on Facebook
+
+Share this page on Twitter
+
+Share this page on LinkedIn
+
+New cost & environmental impact reports
+
+Studies show cultivated meat can have massive environmental benefits and be cost-competitive by 2030
+
+End product considerations
+
+Introduction to cultivated meat
+
+What is cultivated meat?
+
+Cultivated meat, also known as cultured meat, is genuine animal meat (including seafood and organ meats) that is produced by cultivating animal cells directly. This production method eliminates the need to raise and farm animals for food. Cultivated meat is made of the same cell types that can be arranged in the same or similar structure as animal tissues, thus replicating the sensory and nutritional profiles of conventional meat. Dutch scientist Mark Post unveiled the first cultivated meat burger on live television in 2013. Two years later, the first four cultivated meat companies were founded. The industry has since grown to more than 150 companies on 6 continents as of late 2022, backed by $2.6B in investments, each aiming to produce cultivated meat products. Dozens more companies have formed to create technology solutions along the value chain. 
+
+Decades of accumulated knowledge in cell culture, stem cell biology, tissue engineering, fermentation, and chemical and bioprocess engineering preceded the field of cultivated meat. Hundreds of companies and academic laboratories worldwide are conducting research across these disciplines to establish a new paradigm for manufacturing commodity meat products at industrial scales. 
+
+How is cultivated meat made?
+
+The manufacturing process begins with acquiring and banking stem cells from an animal. These cells are then grown in bioreactors (known colloquially as cultivators) at high densities and volumes. Similar to what happens inside an animal’s body, the cells are fed an oxygen-rich cell culture medium made up of basic nutrients such as amino acids, glucose, vitamins, and inorganic salts, and supplemented with growth factors and other proteins. 
+
+Changes in the medium composition, often in tandem with cues from a scaffolding structure, trigger immature cells to differentiate into the skeletal muscle, fat, and connective tissues that make up meat. The differentiated cells are then harvested, prepared, and packaged into final products. This process is expected to take between 2-8 weeks, depending on what kind of meat is being cultivated. Some companies are pursuing a similar strategy to create milk and other animal products. 
+
+What are the benefits of cultivated meat?
+
+By nature of its more efficient production process, cultivated meat is expected to have a variety of benefits over conventional animal agriculture. Prospective life cycle assessments indicate that cultivated meat will use significantly fewer resources and can reduce agriculture-related pollution and eutrophication. One study showed that cultivated meat, if produced using renewable energy, could reduce greenhouse gas emissions by up to 92% and land use by up to 90% compared to conventional beef. Additionally, commercial production is expected to occur entirely without antibiotics and is likely to result in fewer incidences of foodborne illnesses due to the lack of exposure risk from enteric pathogens.
+
+Over the next few decades, cultivated meat and other alternative proteins are predicted to take significant market share from the $1.7 trillion conventional meat and seafood industry. This shift will mitigate agriculture-related deforestation, biodiversity loss, antibiotic resistance, zoonotic disease outbreaks, and industrialized animal slaughter. 
+
+When will cultivated meat make it to market?
+
+As of late 2022, several leading cultivated meat companies are transitioning to pilot-scale facilities that will manufacture the first wave of commercialized products following regulatory approval. The Singapore Food Agency approved the world’s first cultivated chicken product for sale in December 2020, where it is currently sold in several restaurants, public food stalls, and a butchery.
+
+In November 2022, UPSIDE Foods completed the first United States Food and Drug Administration (FDA) pre-market consultation for its cultivated chicken product. UPSIDE Foods will need to acquire a grant of inspection from the United States Department of Agriculture (USDA) prior to being able to sell its product, which is anticipated to occur in 2023. Other countries are at various stages of developing regulatory frameworks to permit the sale of cultivated meat.
+
+Further scaling will require commercial production in significantly larger facilities than what currently exists. Scaling will also require solving an array of complex challenges that will influence the cost of production. These challenges span five key areas: cell lines, cell culture media, bioprocess design, scaffolding, and end product design and characterization. Solving these challenges and propelling the cultivated meat industry to maturity will require an influx of funding from both the public and private sectors. New courses, research centers, and training programs for scientists, as well as policy work and regulatory action will accelerate progress.
+
+The field will also need new companies, contributions from existing life science companies, and openness to collaboration from existing cultivated meat companies. Many new career opportunities will need to be filled by talented scientists, businesspeople, and other contributors along the value chain. 
+
+Many different cell types can be used to cultivate meat. Further research is needed to make cell lines more accessible and to determine how the selection of a cell type and its properties influence the downstream process considerations. 
+
+The current state of cell lines
+
+Many cell types can be used to cultivate meat
+
+According to an industry survey conducted in 2020, cultivated meat manufacturers are using a variety of starter cells, including skeletal muscle stem cells (i.e., myosatellite cells), fibroblasts, mesenchymal stem cells, induced pluripotent and embryonic stem cells, and adipose-derived cells. Starter cells can also sometimes originate from specific organs to create other products. For example, cells from mammary glands can be used for milk production, and cells from livers for foie gras.
+
+The most common method to acquire starter cells is by taking a cell sample from a live animal, which can be performed using minimally invasive methods. In some cases, these cells may also be acquired by biopsying a recently slaughtered animal where the tissue is still viable, which could be important for determining compliance to religious laws (e.g., halal, kosher). In all cases, the acquired cells originate from healthy animals alongside extensive documentation that ensure the quality and traceability of the cells. 
+
+Deriving cell lines requires many resources
+
+The majority of cultivated meat manufacturers work with well-characterized cell lines, which have the ability to continuously proliferate over time. Some producers may use primary cells, which by definition have a finite life span. Currently, access to continuous cell lines from species used for cultivated meat production remains a major barrier for new research endeavors. The creation of new cell lines can be both time- and resource-intensive, often taking 6-18 months to derive and sufficiently characterize a single line. In medical research, the creation of large-scale cell line biorepositories is often nationally-sponsored, emphasizing their fundamental importance in advancing research. Similar government-backed projects for cultivated meat are underway in Singapore, but more are needed.
+
+Increasing access to cell lines is a priority for the industry
+
+To accelerate cell line availability, GFI is tracking available cell lines and funding multiple research projects that create cell lines from species spanning livestock, poultry, and aquatic animals. GFI has also partnered with reagent provider Kerafast to bank and distribute cell lines submitted by researchers from around the world in academia and industry. B2B companies specializing in cell line creation and distribution are pursuing similar strategies. 
+
+Additional efforts are needed to generate and characterize cell lines from more species and different cell types, create protocols for cell isolation and culturing conditions, and discover low-cost, animal-free cell culture medium formulations. Partnerships with conventional meat producers and aquaculture groups that often work with animal cell lines may accelerate R&D in these areas.
+
+Cell line challenges
+
+Cell types have specific pros and cons
+
+As described previously, there are many cell types that can be used as starting inputs for cultivated meat production. However, more research is needed to determine which cells will be best suited for large-scale manufacturing or the creation of specific product types. Intrinsic cell characteristics, such as suitability for suspension growth, doubling times, growth rates, metabolism, differentiation capacity, and genomic stability can vary between cell type and species. 
+
+These characteristics must be weighed alongside techno-economic models and bioprocess design considerations to inform cell line selection. However, this is challenging. Species used in cultivated meat production (especially aquatic animals) are much less researched than humans, mice, or hamsters, which have been the mainstay of the biomedical and biopharmaceutical industries.
+
+Engineering cells can inform research and development
+
+Cell engineering can accelerate the development of cell lines suitable for cultivated meat. Engineering cell lines can dramatically improve the efficiency or productivity of the production process, or even influence end product attributes such as nutrition. 
+
+Cell line engineering can take place in the form of adaptation or genetic engineering. Adaptation involves the serial subculture of a cell line in varying conditions along with selection over time. This process yields a cell line adapted to a new set of conditions or exhibiting a new trait. Common forms of adaptation include adaptation to serum-free medium, reduced requirements for growth factors, or suspension growth. Genetic engineering entails permanent changes by either removing, rearranging, or introducing DNA. While some cultivated meat companies have stated they do not plan to use genetic engineering, several others have filed patents describing various engineering approaches. Ultimately, the extent of genetic engineering and types of modifications incorporated into final products will be dependent on the regulatory approval process for engineered products, as well as consumer perceptions in different regions.
+
+What comes next for cell lines
+
+Democratization of cell lines will open new doors
+
+In the future, researchers will have easy access to many well-characterized cell lines housed in multiple biorepositories spread across the globe. To get there, more public funding is needed to attract experienced stem cell biologists who can apply their knowledge and tools to the cultivated meat field. Researchers and companies alike should be motivated and incentivized to deposit cell lines in public repositories to lower the burden of entry throughout the industry. 
+
+To help overcome challenges in cell line engineering, life science companies and contract research organizations that specialize in cell line development are needed. These companies can apply high-throughput techniques and automation technologies to improve cell line R&D and engineering efforts. Together, these efforts can support a more robust research ecosystem that will generate new findings, create new tools, reduce costs, and accelerate the pace of commercialization.
+
+Check out additional reading and resources 
+
+Discover papers, GFI resources, ongoing research projects, and research opportunities related to cell lines. 
+
+Research opportunities
+
+Read “Cell line development and utilisation trends in the cultivated meat industry”
+
+Dive into the report
+
+Dig into open-access resources created by our experts. 
+
+Expanding access to cell lines
+
+Lack of access to cell lines is a major barrier to cultivated meat research. This initiative is increasing access and funding the development of new lines.
+
+Cultivated Meat Research Tools Database
+
+Use this crowdsourced directory to find species-specific information on research tools, reagents, protocols, and data for cultivated meat researchers.
+
+GFI-funded research projects
+
+Learn about ongoing research by GFI grantees to accelerate cell line development for cultivated meat. 
+
+The Frozen Farmyard repository
+
+Learn about Dr. Gareth Sullivan’s work to develop a “frozen farmyard” cell line repository for cultivated meat.
+
+Learn about Dr. Kevan Main and Dr. Cathy Walsh’s work at Mote Marine Laboratory to develop cell lines and methodology for cultivated seafood.
+
+Differentiation and cell lines for cultivated carp
+
+Learn about Dr. Mukunda Goswami’s research to develop cell lines from carp and characterize their differentiation at the Indian Council of Agricultural Research.
+
+Learn about Dr. Ori Bar-Nur’s research to convert bovine and porcine fibroblasts into proliferative myogenic progenitor cells at ETH Zurich.
+
+Research opportunities
+
+Research opportunities
+
+Explore research opportunities in cell lines from our Advancing Solutions for Alternative Proteins database. 
+
+Cell line development from food-relevant aquatic species
+
+A lack of publicly-available cell lines from relevant species and cell types continues to be a challenge for the field of cultivated seafood. Addressing this challenge will require further investigation… Read more
+
+Mapping animal cell metabolism to optimize media formulation
+
+The cost and environmental impact of cultivated meat are driven by the cell culture media formulation and its conversion efficiency into meat. Metabolic modeling and engineering techniques can aid media… Read more
+
+Promoting stemness and proliferation in fish cell cultures
+
+Efficient and cost-effective cultivated fish production will require precise optimization to encourage fast proliferation and highly efficient use of inputs while preventing premature differentiation. A variety of strategies can be… Read more
+
+The cell culture media contains the nutrients and growth factors that cells need to grow outside of the body. Research on optimized formulations, animal-free, food-grade components, and recycling technologies are needed to make cell culture media significantly more affordable.
+
+The current state of cell culture media
+
+What’s in cell culture media?
+
+The cell culture media is the most important technology underlying the near-term success of the cultivated meat industry. Cell culture media is composed of two groups of components tailored to a specific cell or species type. 
+
+The first group of components, called the basal media, provides essential nutrients. It typically consists of a buffered solution containing glucose, inorganic salts, water-soluble vitamins, and amino acids. The second is a group of specific added factors that permit the long-term maintenance, proliferation, or differentiation of cells. These added factors are often recombinant proteins, growth factors or hormones, and other ingredients such as lipids and antioxidants.
+
+Animal serum will not be used in large-scale production
+
+While the basal media has persisted nearly unchanged since the 1950s, a transition away from other added factors originating from animal sources such as serum is still underway in many industries. The use of animal-derived components in cultivated meat production has prohibitive economic, and ethical constraints. Many companies have already publicly stated they are using medium formulations that are entirely animal-free, with some research groups and companies having published their protocols for serum-free proliferation and differentiation.
+
+In Singapore, Eat Just’s first cultivated chicken products were produced using small quantities of fetal bovine serum (FBS). However, the company received approval to sell cultivated chicken using serum-free media in early 2023. In the United States, UPSIDE Foods submitted information to the FDA showing their product can be created with or without FBS. In processes without FBS, purified bovine serum albumin was used. However, the company has stated that they intend to phase out the use of bovine serum albumin with recombinant forms of albumin protein.
+
+Cell culture media challenges
+
+Significant cost reductions are possible without large technological leaps
+
+The largest challenge the cultivated meat industry faces is not simply foregoing animal components in the cell culture media but rather discovering how to do so affordably and how to optimize affordable formulations for maximized productivity. 
+
+Media cost reduction models have projected achievable prices of less than $0.25 per liter using existing technologies. This would amount to upwards of a 99.9% cost reduction versus media manufactured and sold to the biomedical and biopharmaceutical industries — a seemingly daunting task. 
+
+However, considerable progress has already been made in achieving these dramatic cost reductions. For instance, a team of researchers at Northwestern University demonstrated a popular stem cell medium formulation could be produced for 97% less versus its commercially-sold counterpart. Mosa Meat, a leading cultivated meat company in the Netherlands, announced in July of 2020 that they had reduced their medium costs by 88 fold. Many respondents to a 2020 survey anticipated similar levels of cost reduction within the next 12 months.
+
+Reducing costs of recombinant proteins is the largest price reduction lever
+
+Multiple options for cost reduction are being pursued across the industry. The most urgent action is to address the high costs of recombinant proteins and growth factors. While some B2B manufacturers are scaling the production of proteins and growth factors using microbes, fungi, or plants as expression systems, others are looking to replace these proteins and growth factors with plant-based alternatives, especially for proteins used at high concentrations in the media, such as albumin and transferrin. Costs can also be reduced by sourcing media components at food or feed grade, reducing the overhead and operational costs associated with producing pharmaceutical-grade components. This will be especially important for amino acids and glucose, which together are predicted to be a longer-term cost driver for media. Some cultivated meat companies have already struck partnerships with various food and animal feed manufacturers to obtain these components by tapping into mature supply chains.
+
+Demand forecasts can help to predict industry needs
+
+Projections of total volumes and demand forecasts for specific media components are needed to inform suppliers, businesses, and investors of the cell culture media market. One study estimated the volumes and costs of growth factors for the industry by 2030, but more are needed for other cost-heavy media components such as amino acids.
+
+Challenges still remain in identifying formulations that are best suited for each species and cell type used by cultivated meat manufacturers. Formulation discovery and optimization can be assisted by metabolic models and computationally-assisted algorithms. Life science companies with high-throughput and microfluidic capabilities can also lend services for formulation discovery.
+
+Open-source media formulations will be important in informing the selection, sourcing, and production of raw materials that will be used throughout the industry. While cost is a driving factor, food-safety, regulation, environmental impact, and social sustainability implications for farmers and others along the supply chain are all important considerations.
+
+What’s next for cell culture media?
+
+Long-term optimizations will contribute to further cost reduction and sustainability improvements
+
+There are many additional opportunities for cost reduction and optimized formulations that are likely to contribute to the commercial success of cultivated meat over longer time horizons. These include developing novel technologies for medium recycling, valorizing waste streams or metabolites produced by cells, engineering growth factors with improved properties, and researching how cell culture media components influence the nutritional profiles of end products. Progress in each of these areas will require more public funding as well as co-developing solutions with participants from academia, the life science industry, and the cultivated meat industry. 
+
+Check out additional reading and resources
+
+Discover papers, GFI resources, ongoing research projects, and research opportunities related to cell culture media.
+
+Research opportunities
+
+Read “Considerations for the development of cost-effective cell culture media for cultivated meat production” published on Comprehensive Reviews in Food Science and Food Safety
+
+Dig into open-access resources created by our experts. 
+
+Cultivated meat media and growth factor trends
+
+GFI and TurtleTree Scientific have partnered to distill a snapshot of current cultivated meat industry progress and needs, with an eye toward future demands and cost reduction prospects, based on…
+
+Analyzing cell culture medium costs
+
+This white paper explains different routes to lowering the cost of cell culture medium and making cultivated meat economically viable.
+
+Cultivated Meat Research Tools Database
+
+Use this crowdsourced directory to find species-specific information on research tools, reagents, protocols, and data for cultivated meat researchers.
+
+Cultivated meat growth factor volume and cost analysis
+
+GFI and collaborators model the quantities and cost profiles of growth factors and recombinant proteins needed for a mature cultivated meat industry.
+
+GFI-funded research projects
+
+Learn about ongoing research by GFI grantees to accelerate advances in cell culture media.
+
+Formulating media with macromolecular crowding
+
+Learn about Dr. Connon and Dr. Gouveia’s work at Newcastle University, UK to formulate growth media for cultivated meat with macromolecular crowding.
+
+Optimizing media for chicken cells
+
+Learn about Dr. David Block’s work to perfect growth media for cultivated chicken at University of California, Davis.
+
+Machine learning for fish growth media
+
+Learn about Dr. Reza Ovissipour’s research using machine learning to optimize growth media for fish cells at Virginia Tech.
+
+Reducing cell culture media cost
+
+Learn about Dr. Burridge’s research to produce low-cost animal skeletal muscle cells at Northwestern University.
+
+Research opportunities
+
+Research opportunities
+
+Explore research opportunities in cell culture media from our Advancing Solutions for Alternative Proteins database.
+
+High-performance oxygen carriers for cultivated meat
+
+Mammalian cell culture performance can be limited by oxygen and carbon dioxide levels or by shear stress associated with sparging and mixing. The use of protein-based oxygen carriers could help… Read more
+
+Optimizing fat profiles for nutritional and sensory properties
+
+Because alternative meat’s fat content and fatty acid profile can be more easily controlled than conventional meat’s, there is an opportunity to alter fat content for nutritional benefits. Additional research… Read more
+
+Mapping animal cell metabolism to optimize media formulation
+
+The cost and environmental impact of cultivated meat are driven by the cell culture media formulation and its conversion efficiency into meat. Metabolic modeling and engineering techniques can aid media… Read more
+
+The bioprocess design holds the key to unlocking large-scale production of cultivated meat. Additional research is needed to determine the best-suited bioreactors for different cell types and products as well as how future facilities will be operated.
+
+The current state of bioprocess design
+
+Bioreactors permit large-scale cell cultivation
+
+The most important aspect of the bioprocess design is the bioreactor. Bioreactors (known colloquially as cultivators) provide the housing and control the conditions that enable cells to grow. For instance, bioreactors control the temperature, oxygen levels, and delivery of cell culture media. 
+
+They also enable monitoring of other important parameters such as metabolite levels, pH, and biomass accumulation. Different types of bioreactors have long-standing histories in other industries that rely on animal cell culture. Existing models are being used by cultivated meat manufacturers at this time.
+
+Innovations in bioreactor technology represent a large whitespace opportunity
+
+Current models of bioreactors are not necessarily optimized for cultivated meat production. This is because the bioreactor and overall bioprocess design are influenced by the selection of cell type and its properties (e.g., anchorage dependence), the cell culture media composition, and intended end product.
+
+While some aspects of proliferation and differentiation overlap with other industries, cultivated meat manufacturers must optimize those operations efficiently at very large scales and very low costs throughout the process. This suggests that novel bioreactor and facilities designs may be pursued in the cultivated meat industry.
+
+Funding and consortia focused on bioreactors and process scale-up have begun to mobilize
+
+Discovering what aspects of existing bioreactors may be changed or how new bioreactors may be designed is an area of active research. In industry, several patents consider bioreactor modifications or novel designs, while B2B companies aim to develop novel bioreactors for cultivated meat manufacturers, including those that operate continuously. Multiple companies and other stakeholders have formed the Cultivated Meat Modeling Consortium, which aims to apply computational modeling techniques to answer questions related to bioprocess design that may otherwise be overly resource- or time-intensive to pursue. Additional collaborations between cultivated meat manufacturers, life science companies, food manufacturers, and researchers experienced in fermentation and bioprocess scale-up may fare well in accelerating R&D in this area. 
+
+Bioprocess design challenges
+
+Pilot-scale facilities represent the first major scale-up progress 
+
+Scaling up a bioprocess generally takes place in three separate phases: lab-scale, pilot-scale, and demonstration or commercial scale. As cultivated meat companies move into their pilot-scale facilities, they will face the challenge of designing efficient, fit-for-purpose bioprocesses that can either scale up to sizes that dwarf existing animal cell culture facilities or scale out using processes and facility designs that are portable. 
+
+Insights into potential bottlenecks for these facilities can be gained by funding open-access techno-economic models and facility blueprints with an eye toward both regulatory and sustainability considerations. Once achieved, a menu of flexible financing options for the large capital expenditures for future facilities will be needed. The formation of co-development manufacturing organizations (CDMOs) may also assist cultivated meat manufacturers by removing technical, financial, and capacity burdens.
+
+Planning for success
+
+Research into other aspects of the bioprocess design will also be important. Cultivated meat manufacturers will need to be equipped with state-of-the-art sensor equipment, ideally integrated into the bioreactors themselves. Companies will also need to develop processes that are amenable to automation, medium recycling, and waste stream valorization to maximize their efficiencies. Maintaining sterile cultures in a food-grade facility will also be crucial to success. 
+
+The differentiation, maturation, and harvesting of cells for cultivated meat is likely to require unique innovations and bioreactor designs that address specific challenges for each of these phases. Success in these areas may be bolstered by interdisciplinary groups of biologists and engineers that have access to research centers equipped with pilot-scale capabilities that can serve as a testing ground for new technologies. 
+
+These research centers may be backed by government funding or by collaborations between academic, food, and biotechnology industry stakeholders such as the Cultured Food Innovation Hub in Switzerland, which offers pilot plant scale up services thanks to a partnership between Givaudan, Bühler, and Migros. Other examples include a $10M grant to establish the National Institute for Cellular Agriculture in the U.S., and over $65M to build a cellular agriculture ecosystem in The Netherlands.
+
+Further buy-in from governments around the world will be crucial for accelerating the commercialization of cultivated meat.
+
+What’s next for bioprocess design?
+
+The size and growth of the cultivated meat industry beyond the next decade will be largely determined by the implementation of innovative bioprocess designs that form the basis of facility design and their operation. Producing volumes that capture just one percent of the global meat market will require extensive new infrastructure that can be supported by governments, multinational corporations, meat and life science industry incumbents, and a diverse and interdisciplinary workforce. 
+
+A maximized positive impact on the planet will also depend on future facilities being co-located near renewable energy sources. Other important aspects include easy access to raw materials, job opportunities that are equitable across rural and urban economies, and product access that is not limited to wealthy nations.
+
+Check out additional reading and resources
+
+Discover papers, GFI resources, ongoing research projects, and research opportunities related to bioprocess design.
+
+Research opportunities
+
+The Cultivated Meat Modeling Consortium (CMMC)
+
+Founded by GFI grantee Dr. Simon Kahan, the CMMC is an international and interdisciplinary coalition working to advance cultivated meat through computational modeling.
+
+A life cycle assessment (LCA) and techno-economic assessment (TEA) show that by 2030, cultivated meat could have lower overall environmental impacts, a smaller carbon footprint, and be cost-competitive with some forms of conventional meat.
+
+GFI-funded research projects
+
+Learn about ongoing research by GFI grantees to accelerate advances in bioprocess design for cultivated meat.
+
+Integrating sensors into bioreactors
+
+GFI grantees Dr. Ivana Gadjanski and Dr. Vasa Radonic are integrating sensors into bioreactors for cultivated meat production.
+
+Biomanufacturing scaffold-free cultivated meat
+
+Learn about Dr. Yuguo Lei’s research to develop an integrated solution for biomanufacturing large-volume cultivated meat at Penn State.
+
+Assembling organoids into meat
+
+Learn about Dr. Iftach Nachman’s research to assemble skeletal muscle organoid building blocks into thick whole-cuts at Tel Aviv University.
+
+Designing cost-effective bioreactors
+
+Learn about Dr. Marianne Ellis’s work at University of Bath to reduce the cost of bioreactors for cultivated meat production.
+
+Research opportunities
+
+Research opportunities
+
+Explore research opportunities in bioprocess design from our Advancing Solutions for Alternative Proteins database.
+
+High-performance oxygen carriers for cultivated meat
+
+Mammalian cell culture performance can be limited by oxygen and carbon dioxide levels or by shear stress associated with sparging and mixing. The use of protein-based oxygen carriers could help… Read more
+
+Developing scalable, fit-for-purpose bioreactor and bioprocessing technologies for cultivated meat
+
+Optimizing bioreactor and bioprocessing technologies for the needs of the cultivated meat industry has the potential to substantially reduce the cost of cultivated meat production. Innovations in cultivated meat bioprocessing… Read more
+
+Scaffolds and structural approaches to optimize fat distribution and content in cultivated meat
+
+The inclusion of fat and marbling in cultivated meat is likely to increase its flavor, texture, and consumer appeal. Structural approaches using edible microcarriers, hydrogels, and 3D bioprinting present promising… Read more
+
+Scaffolding provides structural support for cells to adhere, differentiate, and mature, making it crucial for the creation of structured meat products like steak. More research is needed to uncover the best materials and methods for constructing different types of cultivated meat products. 
+
+The current state of scaffolds
+
+What do scaffolds do?
+
+The development of scaffolds for cultivated meat requires expertise in fields such as cell biology, biochemistry, materials science, and tissue engineering, with a focus on the role of the extracellular matrix. Many of the tools and techniques developed by tissue engineers for biomedical applications are now being applied to cultivated meat. 
+
+Scaffolds must provide access to oxygen and nutrients and have material properties (e.g., mechanical, biochemical) that are compatible with the cells housed within it. Scaffolds, together with the cell culture medium, can dictate how cell populations grow and differentiate. In some instances, scaffolds are used as microcarriers to aid the proliferation of anchorage-dependent cells in suspension bioreactors.
+
+What properties do scaffolds have?
+
+The most likely materials to be used for cultivated meat will be abundant, affordable, and food-safe. Some examples include polysaccharides such as chitosan, alginate, or cellulose; proteins such as zein; or complex composites such as lignin or textured vegetable protein.
+
+The materials can be assembled by existing techniques including 3D printing, polymer spinning technologies such as electrospinning, decellularization, tunable hydrogels, or even by nature itself (e.g., fungal mycelium). Several B2B companies, distinguished by their selection of material or method of assembly, aim to supply the industry with scaffolds. Many others are likely to be founded.
+
+The selection of a scaffold and its properties will be highly dependent on the final product, with the scaffold having an increasingly important role in more structured products. Scaffolds may be intentionally designed to be biodegradable such that they are replaced with native extracellular matrix by the time a product is harvested. Alternatively, scaffolds can make up a substantial portion of the final product, creating a hybrid product. 
+
+Scaffold materials that end up in a final product must meet requirements for how that product may be cooked and prepared, as well as how the material influences the product’s safety, digestibility, taste, and nutrition. Public databases of biomaterials and their properties can inform the selection of the most promising scaffold materials and methods to construct them.
+
+Structured products present numerous challenges
+
+The production of thick tissues remains challenging because all cells must lie within a short distance of nutrients and oxygen. There are two approaches to this challenge: a top-down approach where a prefabricated, porous scaffold becomes infused with cells, or a bottom-up approach where small, modular units of scaffolds and cells are constructed into a final shape.
+
+Both approaches currently exist at small scales, with more research needed to understand the limitations of scaffolding technologies. These data will inform which scaffolds may be best suited for large-scale, commercial production of structured cuts of cultivated meat. 
+
+As previously described, the large-scale production of cultivated meat will rely on bioreactors. While microcarriers have been used extensively in other industries, understanding how different types of scaffolds may be incorporated into specialized bioreactors is in its infancy. Computational modeling may assist in the selection of a scaffold’s material, shape, or topography, given certain fluid flows in different bioreactor models. Techniques to harvest scaffolds without damaging the cells or tissues will also be important. 
+
+Creative solutions are needed
+
+Other methods may use biomaterials to house cells in 3D microenvironments, providing them structural support but allowing self-organization principles to govern their behavior within the material. These 3D microenvironments can be formed as spheres, tubes, or other shapes tailored to cell type, placed in bioreactors where they may have specific advantages (e.g., protection from shear stress), and constructed into complex shapes using bottom-up approaches. Similar outside-the-box strategies can contribute to our understanding of structured product creation.
+
+What’s next for scaffolds?
+
+Maximizing potential
+
+The holy grail of the cultivated meat industry is to produce a complex meat product such as a steak or chicken breast in a pre-programmed way, each and every time. However, current technologies cannot yet accomplish this feat. Significant advances in tissue engineering techniques will be needed to commercialize structured products at scale. Additional challenges lie in discovering the methods and materials that will be most amenable to large-scale production.
+
+Check out additional reading and resources
+
+Discover papers, GFI resources, ongoing research projects, and research opportunities related to cultivated meat scaffolds. 
+
+Research opportunities
+
+Read the review “Scaffolding biomaterials for 3D cultivated meat: prospects and challenges” by GFI scientists published in Advanced Science.
+
+Explore career pathways in the cultivated meat field
+
+Watch the reimagining meat: pathways for tissue engineers in the cultivated meat field webinar that aims to illuminate cutting-edge career and research opportunities for tissue engineers in the emerging field of cultivated meat. You will hear from Dr. Elliot Swartz, Lead Scientist in Cultivated Meat at The Good Food Institute, and Dr. Ali Khademhosseini, Director & CEO of the Terasaki Institute.
+
+Watch the reimagining meat: pathways for biomedical engineers in the cultivated meat field webinar that illuminates cutting-edge career and research opportunities for biomedical engineers in the field of cultivated meat. Dr. Simone Costa, Associate Director of Strategy & Innovation at The Good Food Institute, and Dr. Ali Khademhosseini, CEO at the Terasaki Institute and CEO at Omeat share their professional paths and experiences.
+
+GFI-funded research projects
+
+Learn about ongoing research by GFI grantees to accelerate advances in cultivated meat scaffolds.
+
+Hybrid scaffolds for cultivated chicken
+
+Learn about Dr. Aline Bruna da Silva’s research on hybrid scaffolds to create 3D cultivated chicken at the Federal Center for Technological Education of Minas Gerais (CEFET-MG).
+
+Diversifying cultivated meats
+
+Learn about Dr. Kelly Schultz’s research to develop hybrid scaffolds for cultivated meat structuring, nutrient sensing, and scaleup at Lehigh University.
+
+3D fiber scaffolds for shrimp
+
+Learn about Dr. Nataraja Yadavalli’s research to develop edible nanofiber scaffolds for Pacific white shrimp at CytoNest.
+
+Algae scaffolds for cultivated fish
+
+Learn about Dr. Federico Ferreira’s research to develop scaffolds for cultivated fish from algae and plant materials at University of Lisbon.
+
+Research opportunities
+
+Research opportunities
+
+Explore research opportunities in scaffolding from our Advancing Solutions for Alternative Proteins database.
+
+Naturally adhesive and edible non-animal scaffolding materials
+
+There is a limited number of edible non-animal scaffold materials that are naturally adhesive for use in cultivated meat production. Identifying a larger and more diverse set of these materials,… Read more
+
+Incorporating growth factors into scaffolds to reduce costs and introduce spatial heterogeneity
+
+Growth factors (GFs) can be incorporated into scaffolds as a strategy for both reducing costs and improving product quality of cultivated meat. Open-access research is needed to test the feasibility… Read more
+
+Scaffolds and structural approaches to optimize fat distribution and content in cultivated meat
+
+The inclusion of fat and marbling in cultivated meat is likely to increase its flavor, texture, and consumer appeal. Structural approaches using edible microcarriers, hydrogels, and 3D bioprinting present promising… Read more
+
+End product considerations
+
+Some cultivated meat prototypes have been taste-tested but many sensory characteristics are unknown. Knowledge from meat science and food scientists can help create the full range of cultivated meat products that compete with or outperform their conventional counterparts on taste, quality, and nutrition. 
+
+photo courtesy of UPSIDE Foods
+
+The current state of end products
+
+What might the first generation of cultivated meat products look like?
+
+Many tasty, compelling cultivated meat prototypes have been created, including shrimp dumplings, pork sausages, chicken nuggets, beef steak strips, fish maw, foie gras, and salmon nigiri, to name a few. But key questions remain concerning what other approved products will look like. Will they be structured or unstructured? What are their costs? And how will they be regulated? 
+
+The first generation of approved products may look quite different from company to company, but it’s likely we can predict some characteristics. From a technical standpoint, the creation of unstructured, minced product types are easier to create, thus this form factor is likely to represent the majority of the first generation of products on the market. As previously mentioned, fully structured products will be dependent on advances in scaffold and bioprocess technologies and are likely to arrive on the market later. 
+
+Similarly, the costs of first generation products will come at a premium. One way to offset these costs is by creating a hybrid product where cultivated animal cells are combined with plant-based ingredients. The percentages of each may vary depending on the product’s price, type, and taste profile. For example, the first product approved in Singapore is composed of approximately 70% cultivated chicken cells. Many companies aim to produce hybrid products, using animal fats and other cell types as ingredients. 
+
+To be granted regulatory approval and be labeled as a meat product, cultivated meat must have similar nutritional profiles as their conventional counterparts. Most of this data is currently proprietary. However, some studies are beginning to include analysis of nutrition and sensory data such as taste and texture. While some of this data is likely to become more visible alongside product approvals, more open data on nutrition, digestibility, bioavailability, taste, texture, and other sensory attributes is needed to enhance industry transparency.
+
+End product challenges
+
+Competing on all aspects of meat quality
+
+Replicating all of the features of conventional animal meat using cultivated meat processes is likely to be challenging. For instance, proteins and metabolites that give meat products their color, smell, and cooking properties may be expressed differently in cultivated meats.
+
+Additionally, it is unknown whether the post-mortem enzymatic events that can influence meat texture occur similarly in cultivated meat products. Added ingredients that aid in the color, binding, and texture of cultivated meat may be needed, similar to plant-based meats. 
+
+To discover the extent to which there are differences, meat scientists are needed to determine the properties of cultivated meat products. Additionally, food scientists will need to assist in formulating the best products across a range of versatile dishes. Research teams in academia that incorporate faculty from biological science departments together with meat and food science departments can accelerate progress in these areas.
+
+What’s next for end products?
+
+The future is bright
+
+Companies have a large toolset available to continue improving upon end-product characteristics. Improvements in nutrition may be possible by tailoring cell culture media ingredients for desired outcomes, such as increased omega-3 fatty acids or higher vitamin and mineral content. 
+
+Genetic engineering, if permissible, could be used to remove allergens or molecules linked to cancer risk in certain forms of meat. It could also insert genes that can fortify products with vitamin A precursors not found in conventional meats, or create personalized nutrition for specific populations.
+
+Consumer research indicates that a majority of consumers are willing to try cultivated meat or even pay a premium. Willingness to try is highly correlated to the amount of information given to consumers about the cultivated meat production process and its benefits compared to conventional meats. Resources with accessible, educational information about cultivated meat, together with industry transparency, will be crucial for the adoption of the technology. The Chicken, a test-kitchen and restaurant in Israel founded by SuperMeat in 2020 allows consumers to dine on cultivated chicken dishes made under the same roof. Novel dining experiences and new culinary creations promise to lure in new consumers and redefine how we view our relationship with meat products. Cultivated meat promises to be an ever-evolving industry for decades to come!
+
+Check out additional reading and resources
+
+Discover papers, GFI resources, ongoing research projects, and research opportunities related to end-product formulation. 
+
+Research opportunities
+
+Read “Sensorial and Nutritional Aspects of Cultured Meat in Comparison to Traditional Meat: Much to Be Inferred” in Frontiers in Nutrition.
+
+Dig into open-access resources created by our experts. 
+
+Aggregating data for alternative seafood
+
+Use our open-access databases to explore how scientific taxonomies and evolutionary relationships map onto culinary categories of seafood.
+
+State of the Industry Report: Cultivated meat and seafood
+
+This report details the commercial landscape, investments, regulatory developments, and scientific progress in the cultivated meat and seafood industry.
+
+GFI-funded research projects
+
+Learn about ongoing research by GFI grantees to accelerate end-product formulation for cultivated meat.
+
+Algae scaffolds for cultivated fish
+
+Learn about Dr. Federico Ferreira’s research to develop scaffolds for cultivated fish from algae and plant materials at University of Lisbon.
+
+Plant-based scaffolds
+
+GFI is building plant-based tissue scaffolds for cultivated meat with Dr. Masatoshi Suzuki at University of Wisconsin, Madison
+
+Developing marbled cultivated beef
+
+GFI is developing marbled cultivated beef with Dr. Amy Rowat at University of California, Los Angeles
+
+3-D printing bioinks
+
+Learn about GFI grantee Dr. Sara Oliveira’s work 3D bioprinting scaffolds for cultivated meat the International Iberian Nanotechnology Laboratory in Portugal.
+
+Research opportunities
+
+Research opportunities
+
+Explore research opportunities in end-product formulation from our Advancing Solutions for Alternative Proteins database.
+
+Consumer and sensory research to guide alternative fish R&D
+
+Consumer and sensory research can help companies and academic researchers better understand seafood consumers’ needs and desires. Understanding consumers’ needs will allow alternative fish researchers to ask and prioritize the… Read more
+
+Catalog of animal meat flavors
+
+Creating a catalog of molecules responsible for the characteristic flavor of a species will enable alternative protein product manufacturers to create products that more accurately replicate the sensory experience of… Read more
+
+Cultivated, fermentation-derived, or hybrid surimi
+
+There has been little publicly announced R&D and commercial effort to develop cultivated, fermentation-derived, or hybrid surimi. Compared to other meat products, surimi is likely to be by far one… Read more
+
+Elliot Swartz, Ph.D.
+
+LEAD SCIENTIST, CULTIVATED MEAT
+
+Elliot Swartz analyzes scientific progress and bottlenecks in cultivated meat.
+
+Areas of expertise: stem cell biology, neuroscience, cultivated meat.
+
+Learn more about Elliot
+
+Claire Bomkamp, Ph.D.
+
+LEAD SCIENTIST, CULTIVATED MEAT & SEAFOOD
+
+Claire Bomkamp is focused on cultivated seafood and driving forward GFI’s Sustainable Seafood Initiative.
+
+Areas of expertise: the science and technology of cultivated seafood, cultivated seafood startups, research, and university programs, scaffolding, science communication, fish puns.
+
+Learn more about Claire
+
+Meet our science & technology advisory board
+
+Our science & technology advisory board expands our department’s expert technical capacity by supporting team initiatives, sharing ecosystem insights, and providing strategic feedback on our team’s future activities.
+
+Header photo courtesy of UPSIDE Foods
+
+We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking “Accept”, you consent to the use of ALL the cookies. Privacy noticeCOOKIE SETTINGSREJECTACCEPT
+
+This website uses cookies to improve your experience while you navigate through the website. Out of these cookies, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may have an effect on your browsing experience. Cookie notice
+
+Necessary Always Enabled
+
+Necessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information.
+
+These cookies measure how often you visit our sites and how you use them. We use this information to get a better sense of how our users engage with us and to improve our sites so that users have a better experience. We collect anonymized information for our internal research purposes only.
+
+These cookies and other technologies are used to collect information about your browsing habits on this website, including the content you have viewed, the links you have followed and information about your browser, device and your IP address. The collected information is used to evaluate the effectiveness of our marketing campaigns, to make our advertising more relevant, and to limit the number of ads that are served to you. If you do not allow these cookies, you will experience less personalised advertising.
+
+Other uncategorized cookies are those that are being analyzed and have not been classified into a category as yet.
+
+_hjSessionUser_2241869
+
+AnalyticsSyncHistory
+
+Advertisement cookies are used to provide visitors with relevant ads and marketing campaigns. These cookies track visitors across websites and collect information to provide customized ads.
+
+This cookie is set by Facebook to display advertisements when either on Facebook or on a digital platform powered by Facebook advertising, after visiting the website.
+
+Facebook sets this cookie to show relevant advertisements to users by tracking user behaviour across the web, on sites that have Facebook pixel or Facebook social plugin.
+
+Twitter sets this cookie to integrate and share features for social media and also store information about how the user uses the website, for tracking and targeting.
+
+yt.innertube::nextId
+
+This cookie, set by YouTube, registers a unique ID to store data on what videos from YouTube the user has seen.
+
+yt.innertube::requests
+
+This cookie, set by YouTube, registers a unique ID to store data on what videos from YouTube the user has seen.
+
+Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics the number of visitors, bounce rate, traffic source, etc.
+
+_hjAbsoluteSessionInProgress
+
+Hotjar sets this cookie to detect the first pageview session of a user. This is a True/False flag set by the cookie.
+
+Hotjar sets this cookie to identify a new user’s first session. It stores a true/false value, indicating whether it was the first time Hotjar saw this user.
+
+_hjIncludedInPageviewSample
+
+Hotjar sets this cookie to know whether a user is included in the data sampling defined by the site's pageview limit.
+
+_hjIncludedInSessionSample
+
+Hotjar sets this cookie to know whether a user is included in the data sampling defined by the site's daily session limit.
+
+Vimeo installs this cookie to collect tracking information by setting a unique ID to embed videos to the website.
+
+Functional cookies help to perform certain functionalities like sharing the content of the website on social media platforms, collect feedbacks, and other third-party features.
+
+This cookie, set by Cloudflare, is used to support Cloudflare Bot Management.
+
+LinkedIn sets this cookie from LinkedIn share buttons and ad tags to recognize browser ID.
+
+LinkedIn sets this cookie to store performed actions on the website.
+
+LinkedIn sets this cookie to remember a user's language setting.
+
+LinkedIn sets the lidc cookie to facilitate data center selection.
+
+LinkedIn sets this cookie for LinkedIn Ads ID syncing.

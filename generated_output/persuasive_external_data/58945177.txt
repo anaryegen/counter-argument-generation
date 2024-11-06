@@ -1,0 +1,107 @@
+Subscribe To Newsletters
+
+This is a BETA experience. You may opt-out by clicking here
+
+Sep 23, 2024,01:30am EDTThe 5 Biggest Technology Trends For 2025 Everyone Must Be Ready For Now
+
+Sep 22, 2024,02:31pm EDTEmployee Retention And Career Growth In A Remote-First World
+
+Sep 22, 2024,01:27pm EDTAI May Help Untangle Obstacles Still Faced By Citizen Developers
+
+Sep 20, 2024,01:49pm EDTThe AI Imperative — Mapping The New Possibilities For Business Success
+
+Sep 20, 2024,10:11am EDTIEEE Increases Its Medal Of Honor Purse To 2 Million Dollars
+
+Sep 20, 2024,01:30am EDTThe Amazing Ways Amazon Is Using AI Robots
+
+Sep 19, 2024,05:08pm EDT2024 FMS Blog, Part 3
+
+Sep 19, 2024,01:09pm EDTAI ‘Fastest-Growing Technology We’ve Seen In The History Of Our Company’
+
+ForbesInnovationEnterprise Tech
+
+Fundamental Problems On Social Media Platforms
+
+Opinions expressed by Forbes Contributors are their own.
+
+Feb 28, 2023,03:43pm EST
+
+Updated Feb 28, 2023, 03:46pm EST
+
+If a party guest made a racist comment at the dinner table, would you blame the host? What if the host remained silent and did nothing to stop the guest? How about if the host gave that guest a microphone? These are the types of questions that the Supreme Court is tackling via two cases challenging Section 230, which states that:
+
+No provider or user of an interactive computer service shall be treated as the publisher or speaker of any information provided by another information content provider.
+
+Section 230 protects platforms and services from being held liable for the content posted by users. This means that the “party guest” is responsible for their actions, but the “host” is not. These Supreme Court cases, which suggest that Google and Twitter should be held responsible for terrorist-related content that they recommended or hosted, reveal two key problems. Social media platforms:
+
+Don’t consistently enforce content moderation policies. Most major social media platforms have robust content moderation policies to prevent users from posting content such as hate speech and misinformation. Despite the policies, some of this content still slips through the cracks, as documented in Forrester’s report, Funding Truth In The Misinformation Age. Forrester data from November 2022 found that almost a third of US online adults who stopped or plan to stop using Twitter say it’s because they found the content to be too hateful, and 21% don’t like the amount of disinformation being spread.
+
+Recommend harmful content to users. Social media algorithms act like microphones that recommend relevant content to each user. This amplification becomes problematic when the “relevant content” is dangerous. When harmful content remains intact on the platforms and algorithms help spread that content, the combination is dangerous.
+
+The Collective Online Experience Would Degrade
+
+The media industry can’t ignore these two fundamental problems on the platform side, but eliminating Section 230 isn’t the answer. The internet experience that we’ve come to know would fall apart, promoting heavy-handed government intervention and content censorship. A flood of lawsuits could force platforms to dismantle their algorithms and overreach on content removal. Repealing this law would:
+
+Make content less relevant. While the algorithms sometimes promote harmful content, they also serve users harmless, entertaining, and helpful content that adds value to their experience. Without a recommendation engine, the content becomes less personalized, rendering the platforms less valuable.
+
+Hurt the ad experience. Personalized targeting also makes ads more effective. DuckDuckGo is a privacy-first search engine that serves ads only based on the keywords that you search, with no other personalization. The search ad results are significantly different from Google. Google serves me brands, styles, and stores that I know and love. It knows my preferences, which makes the ads more relevant and click-worthy.
+
+Decimate platforms’ business. Advertising makes up the majority of social media platforms’ revenue. If the ads are less relevant, users won’t engage, and brands aren’t going to see the same business results. Advertisers will move their dollars into other, more impactful media channels.
+
+Policy Enforcement Solves The Core Problem
+
+Google doesn’t want terrorist content on YouTube, and Meta doesn’t want to spread disinformation. This much is clear from their community guidelines. The core issue isn’t that recommendation algorithms spread content — it’s that harmful content remains in the system. Platforms must start enforcing their own policies. Marketers must give them an incentive. Use the leverage you have (ad dollars) to push your media partners to clean up the experience.
+
+MORE FROMFORBES ADVISOR
+
+Best Travel Insurance CompaniesBy
+
+Best Covid-19 Travel Insurance PlansBy
+
+This post was written by Principal Analyst Kelsey Chickering and it originally appeared here.
+
+Follow me on Twitter or LinkedIn. Check out my website. 
+
+Join The Conversation
+
+One Community. Many Voices. Create a free account to share your thoughts. Read our community guidelines here.
+
+Forbes Community Guidelines
+
+Our community is about connecting people through open and thoughtful conversations. We want our readers to share their views and exchange ideas and facts in a safe space.
+
+In order to do so, please follow the posting rules in our site's Terms of Service. We've summarized some of those key rules below. Simply put, keep it civil.
+
+Your post will be rejected if we notice that it seems to contain:
+
+False or intentionally out-of-context or misleading information
+
+Insults, profanity, incoherent, obscene or inflammatory language or threats of any kind
+
+Attacks on the identity of other commenters or the article's author
+
+Content that otherwise violates our site's terms.
+
+User accounts will be blocked if we notice or believe that users are engaged in:
+
+Continuous attempts to re-post comments that have been previously moderated/rejected
+
+Racist, sexist, homophobic or other discriminatory comments
+
+Attempts or tactics that put the site security at risk
+
+Actions that otherwise violate our site's terms.
+
+So, how can you be a power user?
+
+Stay on topic and share your insights
+
+Feel free to be clear and thoughtful to get your point across
+
+‘Like’ or ‘Dislike’ to show your point of view.
+
+Protect your community.
+
+Use the report tool to alert us when someone breaks the rules.
+
+Thanks for reading our community guidelines. Please read the full list of posting rules found in our site's Terms of Service.

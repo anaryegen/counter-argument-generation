@@ -1,0 +1,165 @@
+Emerging Technologies
+
+This is the impact robots will have on developing economiesMar 15, 2022
+
+This article is published in collaboration with VoxEU.
+
+Is automation an opportunity or a threat for developing countries? Image: Unsplash
+
+Massimiliano CalìTrade Economist, World Bank Group
+
+Giorgio PresidentePostdoctoral researcher, Oxford Martin School, Oxford University
+
+What's the World Economic Forum doing to accelerate action on Emerging Technologies?
+
+Explore and monitor how SDG 08: Decent Work and Economic Growth is affecting economies, industries and global issues
+
+Crowdsource Innovation
+
+Get involved with our crowdsourced digital platform to deliver impact at scale
+
+Do automation technologies constitute an opportunity or a threat for developing countries?
+
+Using data on Indonesian manufacturing firms, the authors documented a positive impact on employment of adopting robots.
+
+This finding contrasts with the existing evidence of negative impacts in economies at relatively advanced stages of automation.
+
+Ever-more ubiquitous automation technologies present the economies that adopt them with an apparent trade-off between firm-level productivity gains (Acemoglu et Restrepo 2020, Koch et al. 2019) and adverse employment impacts due to the labour-saving nature of automation (Acemoglu and Restrepo 2020, Dauth et al. 2017). This trade-off has so far been documented in countries at a relatively advanced stage of automation.1
+
+Yet, it is not clear that the existing evidence on the impacts of automation provides useful guidance for countries at earlier stages of automation, which include most developing countries today. Given that automation technologies may be subject to strong diminishing returns (Graetz and Michaels 2018), their adoption may be more likely to increase labour demand in countries at early stages of adoption. Figure 1 provides some suggestive evidence in support of this idea focusing on industrial robots, an important class of automation technology. It shows that the correlation between robot penetration and employment is negative for OECD countries, which have higher robot penetration, and positive for non-OECD countries.
+
+Figure 1 Robot penetration and employment changes: OECD vs non-OECD countries
+
+Robot penetration is defined as the stock of industrial robots per 1000 employed workers. Image: International Federation of Robotics; Penn World Table; World Bank
+
+This is an important knowledge gap as the penetration of automation in developing countries is expected to grow significantly over the coming decades (Hallward-Driemeier and Nayyar 2017). In a recent paper (Calì and Presidente 2022), we help to fill this gap by examining the impact of robots’ adoption on employment in Indonesian manufacturing. We focus on the late 2000s-early 2010s, when the penetration of robots in Indonesia was considerably lower than in the other countries with available micro evidence.
+
+Figure 2 illustrates the extent of this discrepancy by plotting the number of robots per million manufacturing workers in the first (whenever available) and last years of the existing analyses in each of these countries. The data for robots come from the International Federation of Robotics (IFR), which collects data on robot imports from each national robotics association. The data for manufacturing employment are from the International Labour Organization (ILO) and, for China, from the United Nations Industrial Development Organization (UNIDO). Taking the last years of the analyses, for example, which are close in range for most countries, Indonesia’s robot penetration was the lowest in the sample by a factor ranging between 9 (relative to Mexico in 2015) and 99 (relative to Germany in 2014). And similar differences apply also when taking the first years of the analyses.
+
+Figure 2 Robot penetration in Indonesia vs other countries with evidence on the impact of automation
+
+Number of robots per million manufacturing workers in the first and last years of the respective countries' analysis. Image: IFR; ILO; UNIDO
+
+Another interesting feature of the Indonesian context is that the total number of robots increased significantly after 2010, with the total stock increasing almost ten-fold between 2008 and 2015. This acceleration was highly heterogeneous across sectors. By the end of the sample period in 2015, the penetration of robots in the most automated industries, such as Motor Vehicles, was comparable to that of advanced economies. Other industries, such as Textiles, have seen no penetration throughout the period.
+
+The positive employment impact of robots on Indonesia’s local labour markets
+
+To identify the effects of robot penetration on local employment, we focus on regencies, which are the second level of sub-national administrative division in Indonesia and approximate local labour markets reasonably well.2 In line with previous literature, we construct a regency-specific robot exposure measure by interacting baseline industry shares in employment at the regency level with annual industry-specific robot imports (Acemoglu and Restrepo 2020, Dauth et al. 2017). We then regress changes in regency-level employment in 2008-15 on changes in this robot exposure over the same period, controlling for various time-invariant and time-varying factors. We also address the plausible endogeneity of the robot measure by instrumenting it with the average industry-specific robot penetration in OECD countries, which are ahead of Indonesia in terms of robot adoption.3
+
+In contrast to the available micro evidence in other countries, our analysis documents a positive manufacturing employment effect of robot adoption across Indonesian local labour markets. The magnitude of the estimated coefficient in our preferred specification implies that employment grew 31 percentage points more in regencies with one additional robot per 1000 base-year workers over the 2008–15 period (significant at the 1% level). We assess in detail the validity of the identification (Goldsmith-Pinkham et al. 2020) and perform a large battery of tests, which provides confidence on the robustness of the positive employment effect of robots.
+
+How is the World Economic Forum ensuring the responsible use of technology? Show more
+
+The Top 10 Emerging Technologies of 2023 report outlined the technologies poised to positively impact society in the next few years, from health technology to AI to sustainable computing.
+
+The World Economic Forum’s Centre for the Fourth Industrial Revolution is driving responsible technology governance, enabling industry transformation, addressing planetary health, and promoting equity and inclusion.
+
+Learn more about our impact:
+
+Digital inclusion: Our EDISON Alliance is mobilizing leaders from across sectors to accelerate digital inclusion, having positively impacted the lives of 454 million people through the activation of 250 initiatives across 90 countries.
+
+AI in developing economies: Our Centre for the Fourth Industrial Revolution Rwanda is promoting the adoption of new technologies in the country, enabling over 4,000 daily health consultations using AI.
+
+Innovative healthcare: Our Medicine from the Sky initiative is using drones to deliver medicine to remote areas in India, completing over 950 successful drone flights.
+
+AI for agriculture: We are working with the Government of India to scale up agricultural technology in the country, helping more than 7,000 farmers monitor the health of their crops and soil using AI.
+
+Want to know more about our centre’s impact or get involved? Contact us.
+
+Diminishing returns to automation and the positive employment impact
+
+What can explain the difference with the existing empirical results from other countries? As hinted above, Indonesia’s result could be consistent with diminishing returns to robot adoption in a context with low robot penetration during the period of analysis.
+
+A simple task-based model along the lines of Acemoglu and Restrepo (2018) captures the key intuition. Consider an economy with a fixed set of tasks performed by workers ordered by increasing level of complexity (i.e. from routine to highly sophisticated tasks). At low levels of automation (that is, with low shares of automated tasks), an additional robot would replace workers in a routine task where humans have low comparative advantage. As a result, the productivity gains of robot adoption are relatively large. The gains become smaller at higher levels of automation, as robots displace workers with increasing levels of comparative advantage at performing their tasks. At the same time, the displacement effect of robots increases as the range of tasks performed by humans shrinks due to automation, and so the marginal product of labour decreases as workers become redundant. With productivity gains decreasing and displacement effects increasing with automation, the net returns to robot adoption diminish, and hence the employment effects become more negative.
+
+We test this hypothesis using Indonesia’s extensive panel data of manufacturing plants. Unlike other studies in high-income countries, we do not observe the use of robots by plants. Instead, we develop a measure of plant-level exposure to robots based on Graetz and Michaels’ (2018) definition of occupations’ ‘replaceability’ by robots. Using Indonesian labour force survey data, we document that secondary-educated workers dominate occupations at high risk of automation in Indonesia. We use this observation to construct a plant-specific measure of exposure to automation, by interacting industry-specific annual robot imports with the baseline share of secondary workers at the plant level. We provide various pieces of evidence consistent with the finding that occupations at risk of automation are dominated by secondary-educated workers. For instance, industries with an initial large share of secondary-educated workers adopted relatively more robots in subsequent years. Similarly, industry average investment in machinery and equipment, which includes investment in robots, is positively correlated with industry imports of robots.
+
+We regress yearly plant-level employment on the robot exposure measure controlling for a wide array of fixed effects, including plant and industry-year effects, downstream exposure to robots and a plant-level index of technological sophistication to capture possible confounders. The results imply that on average, one additional robot per 1,000 workers increases the plant’s employment by 1%. The effects appear to be driven by the large increases in productivity resulting from automation. On average, one additional robot per 1,000 workers increases total factor productivity (in quantity terms) by 7% and reduces real marginal costs by 10%.
+
+The analysis also supports the hypothesis of diminishing returns to automation. The employment elasticity of robot adoption becomes less positive for plants above the 8th decile of the distribution of initial exposure to robots (Figure 3). For plants in the top decile, one additional robot per 1,000 workers is associated with a positive but not statistically significant employment elasticity of robot adoption. We observe a similar pattern for productivity.
+
+Thus, the positive impact of robot adoption on local manufacturing employment appears to be driven by plants with high levels of untapped automation possibilities. In a country at the initial stage of automation, such as Indonesia, these plants represent the bulk of the entire manufacturing sector population.
+
+Figure 3 Employment impact of exposure to robots relative to less exposed plants, by decile of the distribution of initial exposure to robots
+
+The employment impact of exposure to robots. Image: Authors calculations based on Statistik Industri and IFR.
+
+Robots for economic development?
+
+Finally, we examine the possible external validity of these results. To that end, we analyse the relation between employment and robot imports across 61 OECD and non-OECD economies in 12 industries over the 2007-15 period. The analysis is based on a 2SLS estimator, instrumenting robot density with a leave-out mean constructed from the same industry-year pairs in other countries. The findings suggest significant diminishing returns to automation across countries as well. Robot adoption is negatively associated with manufacturing employment in OECD countries – particularly at high levels of penetration – and positively in non-OECD countries (Figure 4).
+
+Figure 4 Employment impact of robots in 61 countries and 12 industries, 2007-2015
+
+The impact of robot penetration. Image: Authors' calculations based on IFR, OECD Structural Analysis Database, Statistik Industri
+
+While suggestive, these results cast some doubt on the idea that adoption of automation technologies in developing countries impairs their demand for labour as they move from very low to higher automation rates (Diao et al. 2021). Additional data on firm-level robot adoption in developing economies, particularly those at early stages of industrialisation, would be necessary to test this hypothesis in other contexts.
+
+Acemoglu, D, C Lelarge and P Restrepo (2020), “Competing with robots: Firm-level evidence from France”, AEA Papers and Proceedings 110: 383–88.
+
+Acemoglu, D and P Restrepo (2020), “Robots and jobs: Evidence from US labor markets”, Journal of Political Economy 128(6): 2188–2244.
+
+Acemoglu, D and P Restrepo (2018), “The race between man and machine: Implications of technology for growth, factor shares, and employment”, American Economic Review 108(6): 1488–1542.
+
+Artuc, E, L Christiaensen and H Winkler (2019), “Does automation in rich countries hurt developing ones?: Evidence from the US and Mexico. Evidence from the US And Mexico”, World Bank Policy Research Working Paper 8741, 14 February.
+
+Calì, M and G Presidente (2022) “Robots for economic development”, Kiel, Hamburg: ZBW- Leibniz Information Centre for Economics.
+
+Dauth, W, S Findeisen, J Suedekum and N Woessner (2017), “The rise of robots in the German labour market”, VoxEU.org, 19 September.
+
+Diao, X, M Ellis, M S McMillan and D Rodrik (2021), “Africa’s manufacturing puzzle: Evidence from Tanzanian and Ethiopian firms”, NBER Working paper No. w28344.
+
+Giuntella, O and T Wang (2019), “Is an army of robots marching on Chinese jobs?”, mimeo.
+
+Goldsmith-Pinkham, P, I Sorkin and H Swift (2020), “Bartik instruments: What, when, why, and how”, American Economic Review 110(8): 2586–2624.
+
+Graetz, G and G Michaels (2018), “Robots at work”, Review of Economics and Statistics 100(5): 753–768.
+
+Hallward-Driemeier, M and G Nayyar (2017), “Trouble in the Making? The Future of Manufacturing-Led Development”, World Bank.
+
+Koch, M, I Manuylov and M Smolka (2019), “Robots and firms”, VoxEU.org, 1 July.
+
+1 To the best of our knowledge the list so far includes high-income countries – the US (Acemoglu and Restrepo 2020), France (Acemoglu et al. 2020), Germany (Dauth et al. 2017) and Spain (Koch et al. 2019) – as well as China (Giuntella and Wang 2019) and Mexico (Artuc et al. 2019).
+
+2 During the period of our analysis regencies had an average population of around 800,000 and labour exhibited low mobility across them. Second, following Indonesia’s 1999 decentralisation reforms, regencies held significant administrative powers, including in the labour markets, such as the minimum wage setting. Indonesia’s labour force survey (Survei Tenaga Kerja Nasional—Sakernas) collects annual data representative at the regency level.
+
+3 To construct the instrument, we match IFR data with 2-digit industry employment figures from the OECD Structural Analysis Database (STAN). For each industry-year pair, we compute the number of imported robots per thousand workers, averaged across OECD countries.
+
+These 5 robots could soon become part of our everyday lives
+
+Greece has introduced a fleet of postal robots to speed up its service
+
+Robots and your job: how automation is changing the workplace
+
+Don't miss any update on this topic
+
+Create a free account and access your personalized content collection with our latest publications and analyses.Sign up for free
+
+License and Republishing
+
+World Economic Forum articles may be republished in accordance with the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Public License, and in accordance with our Terms of Use.
+
+The views expressed in this article are those of the author alone and not the World Economic Forum.
+
+Emerging TechnologiesManufacturing and Value ChainsJobs and the Future of Work
+
+A weekly update of the most important issues driving the global agenda
+
+You can unsubscribe at any time using the link in our emails. For more details, review our privacy policy.
+
+More on Emerging Technologies
+
+Is technology creating an anxious generation?
+
+In a world of deepfakes, we must build a case for trustworthy synthetic AI content
+
+Post breakthrough: How AI can lift climate research out of the lab and into the real world
+
+Joe Wegener, Mehdi Ghissassi and Hamid Maher
+
+Why regulating AI can be surprisingly straightforward, when teamed with eternal vigilance
+
+The Future of Advanced Technology | Beyond Generative AI
+
+How venture capital is investing in AI in the top five global economies — and shaping the AI ecosystem
+
+Piyush Gupta, Chirag Chopra and Ankit Kasare

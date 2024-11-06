@@ -1,0 +1,323 @@
+Senate tax bill: Lower rates for corporations? Check. Broadening the tax base? Not so much.
+
+Senate tax bill: Lower rates for corporations? Check. Broadening the tax base? Not so much.
+
+Adam Looney Visiting Fellow - Economic Studies Hilary Gelfond
+
+Hilary Gelfond Former Research Assistant - Brookings Institution
+
+The way true tax reform contributes to economic growth and improves economic efficiency is by broadening the tax base—eliminating tax preferences, credits, or deductions—and using the resulting revenue to reduce tax rates on new, more productive activities. Lowering the rates and broadening the base is a mantra of today’s would-be tax reformers.
+
+So how far does the Senate tax bill go in this direction? The short answer: Not very far
+
+By the U.S. Treasury’s estimates, the current tax code contains $380 billion a year in business-related “tax expenditures,” provisions popularly known as deductions, credits, and loopholes.1 Despite all the talk of cleaning up the tax code, the Senate bill actually expands these provisions, on net, reducing revenues by about $9 billion per year, and adds several new expenditures including for alcohol producers and employers providing family and medical leave.
+
+To be sure, the bill broadens the tax base in other ways by targeting deductions or accounting provisions that are not tax expenditures according to the Treasury or the Joint Committee on Taxation. The most significant of these provisions is the limitation on the deductibility of interest—a change that is well-justified on economic grounds.2 But a large share of the revenue-raising business provisions are effectively new taxes, like the effective rate increases on executive compensation. Some new taxes like the one on profit-shifting by foreign-owned businesses, fix specific problems. But not others: new limits on the use of business losses deny tax deductions that should be allowed under an income tax, imposing higher taxes on entrepreneurial activity and exacerbating economic risks for cyclical businesses. That is not the sort of “base-broadening” that the economy needs.
+
+All told, over the next decade, the new business tax system will raise only $363.4 billion by broadening the business tax base. Simultaneously, cuts to corporate and pass-through business tax rates will cost $1.8 trillion. The remainder is financed by a combination of increases in the deficit, increases in taxes on individuals, and a one-time tax on the historical earnings of U.S. multinationals.3
+
+Tackling tax expenditures more aggressively would increase the growth-enhancing benefits of the reform and reduce its unwelcome deficit-widening cost. Indeed, the failure to tackle tax expenditures—lowering rates without broadening the base—is an underlying reason for the Joint Committee on Taxation’s dismal appraisal of the bill’s effect on economic growth. Congress should seize the opportunity to take on special interests and inefficient expenditures while they have the chance.
+
+The next tax shelter for wealthy Americans: C-corporations
+
+U.S. Economy The next tax shelter for wealthy Americans: C-corporations
+
+Taxes and growth – a cautionary graph
+
+U.S. Economy Taxes and growth – a cautionary graph
+
+Measuring Business-Related Tax Expenditures
+
+We compared the revenue provisions included in the Business Tax Reform and International Tax Reform sections of the Tax Cut and Jobs Act, as estimated by the JCT, to those elements of Treasury’s tax expenditure budget that benefit corporations and other businesses.4Table 1 shows the direct effect of the legislation on established tax expenditures. It categorizes expenditures based on whether they are expanded, reduced, repealed entirely, or left unchanged in the Senate’s version of the tax bill.
+
+Several of the largest tax expenditures are expanded. These include the treatment of foreign source income of multinational firms, provisions providing favorable accounting treatment to investments at smaller firms, and for the expensing of certain investments.5 Expansions of these tax expenditures reduce revenues by $304 billion over ten years.
+
+Many other provisions are unchanged, including myriad credits for the energy sector, the credit for increasing research activities, and benefits for housing (like the Low-Income Housing Tax Credit), health (like a deduction for Blue Cross Blue Shield), and training, education, and employment (like incentives for hiring members of disadvantaged groups). These provisions represent about 13 percent of the tax expenditure budget.
+
+A number of tax expenditures are curtailed or eliminated entirely. These provisions represent 36 percent of the tax expenditure budget ($1.4 trillion). Examples include the deferral of gains from like-kind exchanges, changes to the tax credit for orphan drug research and the expensing of research and experimentation expenditures. In all, these modifications are scaled back by almost 30 percent, raising $217 billion throughout the budget window.6
+
+Finally, the Senate bill creates several new tax expenditures. The largest is a new (but temporary) credit for employers to provide family and medical leave, which reduces revenues by $4.3 billion over the budget window (but $1.5 billion in 2019 before expiring). In addition, the bill provides for deep cuts in excise tax rates for certain alcohol producers, reducing alcohol excise tax revenues by $1.5 billion in 2019 (or about 16 percent).
+
+On net, expansions of traditional tax expenditures reduce revenues by $87 billion over 10 years while new tax expenditures reduce revenues by an additional $12 billion. Hence, the Senate’s tax reform bill makes little progress in broadening the base for businesses by reducing business tax expenditures.
+
+Looking beyond official tax expenditures
+
+Table 2 examines other elements of the bill, beyond tax expenditures, that modify other elements of the business tax base. The largest and, from an economic efficiency standpoint, most important is the limit on net interest deductions. While not a traditional tax expenditure under an income tax, it would represent a tax expenditure under a consumption tax. Moreover, using a limitation on interest deductibility to reduce the corporate rate reduces the gap between the benefit tax rate on equity-financed investments versus debt-financed investments, shrinking an important tax distortion. The bill also raises modest amounts from a host of smaller changes to accounting rules, unrelated business income taxes paid by certain tax-exempt organizations, and limits on the deductibility of FDIC premiums by large banks (which is effectively an increase in the FDIC premiums they pay).
+
+In addition, the bill raises revenue from several new sources. First, it denies a deduction for executive compensation paid by C-corporations in excess of $1 million (and imposes a similar excise tax on tax-exempt entities). This provision is effectively an increase in the marginal tax rate that applies to executive compensation, sending the rate to about 54 percent (including corporate, individual, and payroll tax that now would apply). Second, it imposes a new base erosion and anti-abuse tax primarily intended to reduce profit shifting by foreign-owned domestic businesses. Because foreign-owned businesses are not otherwise subject to the anti-avoidance rules imposed on U.S.-resident multinationals, this provision is intended to level the playing field by imposing similar rules. Third, the bill imposes a one-time tax on the untaxed, previously deferred foreign income of U.S. multinationals. The tax is well justified—if anything, the rate should be higher—but it also does not represent a broadening of the tax base because it only applies to income earned in the past not the tax base on income earned in the future. In this sense, it does not offset lower tax rates that apply to income in the future.
+
+Finally, the bill raises substantial revenue ($295 billion) by limiting the deductibility of net operating loses (NOLs) of corporations and for other business owners. Under an income tax, operating losses should be deductible in full against current or past income, or carried forward with interest to offset future gains. (Indeed, this treatment was proposed in the original House blueprint.) Relative to this baseline, current-law limitations on NOLs represent a negative tax expenditure—a provision that increases the tax burden above that which should apply.
+
+The distinction is not just semantical. New, growing businesses often incur losses when starting up, when the costs of new investments in plant equipment or staff salaries exceed initial revenues. Limiting the use (or carry forward) of such losses thereby imposes burdens on start ups. Moreover, the ability to carry forward and back NOLs is important for smoothing cash flows and insulating against risks at cyclical firms. For instance, during macroeconomic recessions or firm-level shocks (a bad year), firms use NOLs to reduce current taxes (or receive refunds from prior years) to help stay afloat. Limits on NOLs seem likely to exacerbate the cyclicality of business activity and business failures.
+
+In conclusion, the Senate GOP plan does little to broaden the base. The bill imposes new taxes on targeted activities to pay for large tax rate decreases instead of aggressively closing tax loopholes that many have decried for years. This process is not only inefficient, but is also likely to come at the expense of greater economic growth.
+
+Table 1. Effects on Tax Expenditures
+
+Current 10-Year Cost7 (Billions)
+
+Changed in Senate Bill?
+
+10-Year Revenue Effect of Change8 (Billions)
+
+International Affairs
+
+Inventory of property sales source rules exception
+
+Deferral of foreign income for multinational firms9
+
+General Science, Space and Technology
+
+Expensing of research and experimentation expenditures
+
+Credit for increasing research activities
+
+Expenditures for energy10
+
+Natural Resources and Environment
+
+Tax incentives for preservation of historic structures11
+
+Other expenditures for natural resources and environment12
+
+Expensing of certain capital outlays13
+
+Other expenditures for agriculture14
+
+Commerce and Housing
+
+Exclusion of life insurance death benefits15
+
+Small life insurance company deduction
+
+Deferral of gains from like-kind exchanges
+
+Expensing of certain small investments16
+
+Deduction for US production activities17
+
+Special rules for certain film and TV production18
+
+Other expenditures for financial institutions19
+
+Other expenditures for housing20
+
+Expenditures for transportation21
+
+Community and Regional Development
+
+Expenditures for community and regional development22
+
+Education, Training, Employment and Social Services
+
+Deductibility of charitable contributions23
+
+Tax credit for orphan drug research
+
+Other expenditures for education, training, employment and social services24
+
+Other expenditures for health25
+
+Credit for certain employer contributions to Social Security
+
+Subtotal: Changes to Existing Tax Expenditures
+
+New Tax Expenditures
+
+Provide a tax credit to certain employers who provide family and medical leave (sunset 12/31/19)
+
+Craft beverage modernization and tax reform
+
+Create qualified opportunity zones
+
+Change treatment of qualified equity grants
+
+Length of service awards for public safety volunteers
+
+Subtotal: New Tax Expenditures
+
+Table 2. Other Revenue Changes26
+
+10-Year Revenue Effect of Change27 (Billions)
+
+Base-Broadening Changes other than Modifications to Current Tax Expenditures
+
+Accounting Methods28
+
+Modifying calculations of partnership income29
+
+Repeal of deduction for local lobbying expenses
+
+Recharacterization of certain gains of property in connection with performance of investment services
+
+Cost basis of specified securities determined without regard to identification with exceptions for RICs
+
+Retirement savings30
+
+Limit net interest deductions to 30% of adjusted taxable income, carryforward of denied deduction31
+
+Unrelated business taxable income separately computed for each trade or business activity
+
+Limitation on deduction for FDIC premiums
+
+One-time tax on previously deferred foreign income (7.5-percent rate for illiquid assets, 14.5-percent rate for liquid assets)
+
+Modification of net operating loss deduction (corporate and noncorporate)
+
+Base erosion and anti-abuse tax32
+
+20% excise tax on excess tax-exempt organization executive compensation
+
+Excise tax based on investment income of private colleges and universities
+
+Modification of limitation on excessive employee renumeration with transition rule
+
+Adam Looney Visiting Fellow - Economic Studies
+
+Hilary Gelfond Former Research Assistant - Brookings Institution @hgelfond
+
+We define tax expenditures to be business related if they accrue to corporate taxpayers in the Treasury estimates with the exception of the exclusion for tax-exempt bonds, which is a subsidy to state and local governments
+
+The deduction for interest paid would be a tax expenditure relative to a consumption tax base.
+
+The one-time tax applies only to historical income, and hence does not increase the tax rate on income earned prospectively.
+
+However, we excluded provisions related to state and local bonds, which are a subsidy to states and localities, and provisions related to employee fringe benefits, which individual tax expenditures per the Joint Committee and Treasury.
+
+Some argue that deferral of foreign-source income is not a tax expenditure if the baseline tax system excludes foreign-source income (e.g., is a “territorial system”) (Hines 2017). Even relative to such a baseline, however, the $176.6 billion revenue reduction reflects a narrowing in the tax base for affected U.S. resident firms. Expensing of investment is not a tax expenditure under a consumption tax base.
+
+Because the JCT revenue estimates are “stacked” after the reduction of the corporate rate to 20 percent while the tax expenditures are estimated relative to a 35 percent rate, the percentage reduction in these expenditures is estimated by scaling up the revenue estimate by 35/20.
+
+Source: U.S. Department of the Treasury. Estimates include both individual and corporate tax expenditures.
+
+Source: Joint Committee on Taxation JCX-59-17 and JCX-62-17. Does not include provisions with negligible revenue effects. Revenue effect does not reflect the eliminated share of the tax expenditure due to the stacking order of the revenue estimate. For example, JCT applies the reduction of the corporate income tax rate to 20 percent before making other adjustments. This reduces the nominal effect of removing tax expenditures.
+
+International reform provisions excluding 1-time revenue and inbound provisions (i.e. international provisions that affect foreign-source income of US MNCs).
+
+Includes energy credits and deductions on lines 9 through 35, less those for energy related bonds.
+
+Includes changes that modify rehabilitation credit to provide 20% historic credit ratably over 5 years and repeals credit for pre-1936 property.
+
+Includes the sum of the following: Expensing of exploration and development costs, nonfuel minerals; Excess of percentage over cost depletion, nonfuel minerals; Expensing of multiperiod timber growing costs; Industrial CO2 capture and sequestration tax credit; Deduction for endangered species recovery expenditures.
+
+Includes modifications of treatment of certain farm property.
+
+Includes the sum of the following: Expensing of certain multiperiod production costs; Deferral of gain on sale of farm refiners; Expensing of reforestation expenditures.
+
+Changes include: Repeal of small life insurance company deduction; Adjustment for change in computing reserves; Modification of proration rules for property and casualty insurance companies; and tax reporting for life settlement transactions.
+
+Changes include: Increase section 179 expensing to $1 million with a phaseout range beginning at $2.5 million; Expand definition of qualified property; Simplified accounting for small business; Applicable recovery period for real property.
+
+Includes the repeal of the deduction for income attributable to domestic production activities and repeal of deduction for income attributable to domestic production activities for non-corporate taxpayers.
+
+Expanded eligibility for 100% expensing to film, television,and live theater.
+
+Includes the sum of: Exemption of Credit Union Income; Exemption of Special Alternative Tax for Small Property and Casualty Insurance Companies; Tax Exemption of Insurance Income Earned by Tax Exempt Organizations.
+
+Includes the sum of: Credit for low-income housing investments; Accelerated depreciation on rental housing (normal tax method); Depreciation of buildings other than rental housing (normal tax method); Accelerated depreciation of machinery and equipment (normal tax method); Graduated corporation income tax rate (normal tax method).
+
+Includes the sum of the tonnage tax and deferral of tax on shipping companies.
+
+Includes the sum of: Investment credit for rehabilitation of structures (other than historic); Exemption of certain mutuals’ and cooperatives’ income; Empowerment Zones; New markets tax credit.
+
+Changes include: Charitable deduction not allowed for amounts paid in exchange for college athletic event seating rights; Charitable contributions and foreign taxes taken into account in determining limitation on allowance of partner’s share of loss.
+
+Includes the sum of: Deductibility of charitable contributions for education; Work opportunity tax credit; Indian employment credit; Credit for employer differential wage payments.
+
+Includes the sum of: Credit for employee health insurance expenses of small business and special Blue Cross/Blue Shield benefits.
+
+Source: Joint Committee on Taxation JCX-59-17 and JCX-62-17. Does not include provisions with negligible revenue effects. Revenue effect does not reflect the eliminated share of the tax expenditure due to the stacking order of the revenue estimate. For example, JCT applies the reduction of the corporate income tax rate to 20 percent before making other adjustments. This reduces the nominal effect of removing tax expenditures.
+
+This category includes reductions in tax expenditures that do not directly apply to a specific tax expenditure as listed by the U.S. Department of the Treasury.
+
+Includes the sum of limitations on meals and entertainment expenses and qualified transportation fringes.
+
+Includes the sum of certain special rules for taxable year of inclusion (in general and related to original issue discount) and a subsequent delay of the effective date of the AFS conformity rule for OID income for one year and increases the adjustment period to six years. Provides an exception from the AFS conformity rule for income from mortgage servicing rights.
+
+Includes the tax gain on the sale of a partnership interest on look-thru basis and expands the definition of substantial built-in loss for purposes of partership loss transfers.
+
+Includes repeal of special rule permitting recharacterization of IRA contributions.
+
+Also includes exception for floor plan financing.
+
+We define tax expenditures to be business related if they accrue to corporate taxpayers in the Treasury estimates with the exception of the exclusion for tax-exempt bonds, which is a subsidy to state and local governments
+
+The deduction for interest paid would be a tax expenditure relative to a consumption tax base.
+
+The one-time tax applies only to historical income, and hence does not increase the tax rate on income earned prospectively.
+
+However, we excluded provisions related to state and local bonds, which are a subsidy to states and localities, and provisions related to employee fringe benefits, which individual tax expenditures per the Joint Committee and Treasury.
+
+Some argue that deferral of foreign-source income is not a tax expenditure if the baseline tax system excludes foreign-source income (e.g., is a “territorial system”) (Hines 2017). Even relative to such a baseline, however, the $176.6 billion revenue reduction reflects a narrowing in the tax base for affected U.S. resident firms. Expensing of investment is not a tax expenditure under a consumption tax base.
+
+Because the JCT revenue estimates are “stacked” after the reduction of the corporate rate to 20 percent while the tax expenditures are estimated relative to a 35 percent rate, the percentage reduction in these expenditures is estimated by scaling up the revenue estimate by 35/20.
+
+Source: U.S. Department of the Treasury. Estimates include both individual and corporate tax expenditures.
+
+Source: Joint Committee on Taxation JCX-59-17 and JCX-62-17. Does not include provisions with negligible revenue effects. Revenue effect does not reflect the eliminated share of the tax expenditure due to the stacking order of the revenue estimate. For example, JCT applies the reduction of the corporate income tax rate to 20 percent before making other adjustments. This reduces the nominal effect of removing tax expenditures.
+
+International reform provisions excluding 1-time revenue and inbound provisions (i.e. international provisions that affect foreign-source income of US MNCs).
+
+Includes energy credits and deductions on lines 9 through 35, less those for energy related bonds.
+
+Includes changes that modify rehabilitation credit to provide 20% historic credit ratably over 5 years and repeals credit for pre-1936 property.
+
+Includes the sum of the following: Expensing of exploration and development costs, nonfuel minerals; Excess of percentage over cost depletion, nonfuel minerals; Expensing of multiperiod timber growing costs; Industrial CO2 capture and sequestration tax credit; Deduction for endangered species recovery expenditures.
+
+Includes modifications of treatment of certain farm property.
+
+Includes the sum of the following: Expensing of certain multiperiod production costs; Deferral of gain on sale of farm refiners; Expensing of reforestation expenditures.
+
+Changes include: Repeal of small life insurance company deduction; Adjustment for change in computing reserves; Modification of proration rules for property and casualty insurance companies; and tax reporting for life settlement transactions.
+
+Changes include: Increase section 179 expensing to $1 million with a phaseout range beginning at $2.5 million; Expand definition of qualified property; Simplified accounting for small business; Applicable recovery period for real property.
+
+Includes the repeal of the deduction for income attributable to domestic production activities and repeal of deduction for income attributable to domestic production activities for non-corporate taxpayers.
+
+Expanded eligibility for 100% expensing to film, television,and live theater.
+
+Includes the sum of: Exemption of Credit Union Income; Exemption of Special Alternative Tax for Small Property and Casualty Insurance Companies; Tax Exemption of Insurance Income Earned by Tax Exempt Organizations.
+
+Includes the sum of: Credit for low-income housing investments; Accelerated depreciation on rental housing (normal tax method); Depreciation of buildings other than rental housing (normal tax method); Accelerated depreciation of machinery and equipment (normal tax method); Graduated corporation income tax rate (normal tax method).
+
+Includes the sum of the tonnage tax and deferral of tax on shipping companies.
+
+Includes the sum of: Investment credit for rehabilitation of structures (other than historic); Exemption of certain mutuals’ and cooperatives’ income; Empowerment Zones; New markets tax credit.
+
+Changes include: Charitable deduction not allowed for amounts paid in exchange for college athletic event seating rights; Charitable contributions and foreign taxes taken into account in determining limitation on allowance of partner’s share of loss.
+
+Includes the sum of: Deductibility of charitable contributions for education; Work opportunity tax credit; Indian employment credit; Credit for employer differential wage payments.
+
+Includes the sum of: Credit for employee health insurance expenses of small business and special Blue Cross/Blue Shield benefits.
+
+Source: Joint Committee on Taxation JCX-59-17 and JCX-62-17. Does not include provisions with negligible revenue effects. Revenue effect does not reflect the eliminated share of the tax expenditure due to the stacking order of the revenue estimate. For example, JCT applies the reduction of the corporate income tax rate to 20 percent before making other adjustments. This reduces the nominal effect of removing tax expenditures.
+
+This category includes reductions in tax expenditures that do not directly apply to a specific tax expenditure as listed by the U.S. Department of the Treasury.
+
+Includes the sum of limitations on meals and entertainment expenses and qualified transportation fringes.
+
+Includes the sum of certain special rules for taxable year of inclusion (in general and related to original issue discount) and a subsequent delay of the effective date of the AFS conformity rule for OID income for one year and increases the adjustment period to six years. Provides an exception from the AFS conformity rule for income from mortgage servicing rights.
+
+Includes the tax gain on the sale of a partnership interest on look-thru basis and expands the definition of substantial built-in loss for purposes of partership loss transfers.
+
+Includes repeal of special rule permitting recharacterization of IRA contributions.
+
+Also includes exception for floor plan financing.
+
+COVID-19 inflation was a supply shock
+
+Global Economy & Development COVID-19 inflation was a supply shock
+
+Robin Brooks, Peter R. Orszag, William E. Murdock III
+
+Hardware and software: A new perspective on the past and future of economic growth
+
+Artificial Intelligence Hardware and software: A new perspective on the past and future of economic growth
+
+Jakub Growiec, Julia Jabłońska, Aleksandra Parteka
+
+The strong labor market has boosted US-born employment
+
+Economic Indicators The strong labor market has boosted US-born employment
+
+Wendy Edelberg, Tara Watson

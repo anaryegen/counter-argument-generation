@@ -1,0 +1,161 @@
+Our systems are now restored following recent technical disruption, and we’re working hard to catch up on publishing. We apologise for the inconvenience caused. Find out more: https://www.cambridge.org/universitypress/about-us/news-and-blogs/cambridge-university-press-publishing-update-following-technical-disruption Skip to main content Accessibility help
+
+We use cookies to distinguish you from other users and to provide you with a better experience on our websites. Close this message to accept cookies or find out how to manage your cookie settings.
+
+Hostname: page-component-7bb8b95d7b-dvmhs Total loading time: 0 Render date: 2024-09-17T07:53:08.094Z Has data issue: false hasContentIssue false
+
+>Cambridge Prisms: Global Mental Health
+
+>Global Mental Health
+
+>Global mental health: the role of collaboration during...
+
+Global Mental Health
+
+Global mental health: the role of collaboration during the COVID-19 pandemic
+
+Published online by Cambridge University Press: 28 May 2021
+
+Kimberly Hook [Opens in a new window] ,
+
+Elizabeth F. Louis ,
+
+Sergiy Bogdanov [Opens in a new window] ,
+
+Bonginkosi Chiliza ,
+
+Luisa Feline Freier ,
+
+Godfrey Zari Rukundo and
+
+Senait Ghebrehiwet ...Show all authors
+
+Department of Psychiatry, Boston Medical Center, Boston, MA, USA Department of Psychiatry, Boston University School of Medicine, Boston, MA, USA Department of Psychiatry, Massachusetts General Hospital, Boston, MA, USA
+
+Department of Psychiatry, Boston Medical Center, Boston, MA, USA Department of Psychiatry, Boston University School of Medicine, Boston, MA, USA Department of Psychiatry, Massachusetts General Hospital, Boston, MA, USA
+
+Department of Psychiatry, Boston Medical Center, Boston, MA, USA Department of Psychiatry, Boston University School of Medicine, Boston, MA, USA Department of Psychiatry, Massachusetts General Hospital, Boston, MA, USA
+
+Department of Psychiatry, Boston Medical Center, Boston, MA, USA Department of Psychiatry, Boston University School of Medicine, Boston, MA, USA Department of Psychiatry, Massachusetts General Hospital, Boston, MA, USA
+
+Department of Psychiatry, Boston Medical Center, Boston, MA, USA Department of Psychiatry, Boston University School of Medicine, Boston, MA, USA Department of Psychiatry, Massachusetts General Hospital, Boston, MA, USA
+
+National University of Kyiv-Mohyla Academy, Center for Mental Health and Psychosocial Support, Kyiv, Ukraine
+
+Department of Psychiatry, University of KwaZulu-Natal, Nelson R. Mandela School of Medicine, KwaZulu-Natal, South Africa
+
+Department of Social and Political Sciences, Universidad del Pacífico, Lima, Perú
+
+Godfrey Zari Rukundo
+
+Department of Psychiatry, Mbarara University of Science and Technology, Mbarara, Uganda
+
+Department of Psychiatry, Boston Medical Center, Boston, MA, USA
+
+Christina P. C. Borba
+
+Department of Psychiatry, Boston Medical Center, Boston, MA, USA Department of Psychiatry, Boston University School of Medicine, Boston, MA, USA
+
+Gregory L. Fricchione
+
+Department of Psychiatry, Massachusetts General Hospital, Boston, MA, USA Department of Psychiatry, Harvard Medical School, Boston, MA, USA
+
+Department of Psychiatry, Boston Medical Center, Boston, MA, USA Department of Psychiatry, Boston University School of Medicine, Boston, MA, USA Department of Psychiatry, Massachusetts General Hospital, Boston, MA, USA Harvard T.H. Chan School of Public Health, Boston, MA, USA
+
+Author for correspondence: Kimberly Hook, E-mail: kimberly.hook@bmc.org
+
+Save PDF (0.1 mb) View PDF [Opens in a new window] Save to Dropbox Save to Google Drive Save to Kindle
+
+Cite Rights & Permissions [Opens in a new window]
+
+An abstract is not available for this content. As you have access to this content, full HTML content is provided on this page. A PDF of this content is also available in through the ‘Save PDF’ action button.
+
+Global Mental Health , Volume 8 , 2021 , e20
+
+DOI: https://doi.org/10.1017/gmh.2021.20 [Opens in a new window]
+
+This is an Open Access article, distributed under the terms of the Creative Commons Attribution licence (http://creativecommons.org/licenses/by/4.0), which permits unrestricted re-use, distribution and reproduction, provided the original article is properly cited.
+
+Copyright © The Author(s), 2021. Published by Cambridge University Press
+
+Collaboration is the cornerstone of effective global mental health (GMH) practice and fosters international partners’ ability to share global knowledge and local expertise (Godoy-Ruiz et al., Reference Godoy-Ruiz, Cole, Lenters and McKenzie2016; Kohrt et al., Reference Kohrt, Marienfeld, Panter-Brick, Tsai and Wainberg2016; Hook and Vera, Reference Hook and Vera2020). Developing strong professional relationships, with emphasis on communication, trust, and respect, is vital for impactful collaborations. Substantive professional relationships built through collaboration buffer the negative effects of challenges and maintains morale during difficulties (Khenti et al., Reference Khenti, Fréel, Trainor, Mohamoud, Diaz, Suh, Bobbili and Sapag2016; Hook and Vera, Reference Hook and Vera2020). Critically, collaboration plays a key role in allowing global partners to manage and persevere during the current time.
+
+There is a strong ethical imperative for international collaborations. Historically, global emergencies have frequently resulted in cultural outsiders, including medical and mental health professionals, responding to disasters in ways that may inadvertently result in more harm than good (Wessells, Reference Wessells2009; Watters, Reference Watters2010; Shah, Reference Shah2011). Research is not immune from these issues; other authors have already drawn attention to the possibility that coronavirus disease-2019 (COVID-19) responses may drive exclusionary global health projects (Abimbola et al., Reference Abimbola, Asthana, Montenegro, Guinto, Jumbam, Louskieter, Kabubei, Munshi, Muraya, Okumu, Saha, Saluja and Pai2021). Here, collaborations that prioritize the expertise and perspective of local partners offer an opportunity for clinical and research responses that are culturally responsive and grounded in the local context. Developing meaningful, as opposed to token, reciprocal relationships is utmost priority in order to conduct ethical, acceptable, and sustainable research (e.g. Kohrt et al., Reference Kohrt, Upadhaya, Luitel, Maharjan, Kaiser, MacFarlane and Khan2014; Grillo et al., Reference Grillo, Ghebrehiwet, Johnson, Borba, Fricchione, Sorel, Durham, Chiliza, Motlana and Henderson2019; Osborn et al., Reference Osborn, Wasil, Weisz, Kleinman and Ndetei2020).
+
+Fostering strong collaborations will be especially important when considering how global teams may work together to meet the growing mental health needs that are expected after the COVID-19 pandemic (Taquet et al., Reference Taquet, Luciano, Geddes and Harrison2021). In addition to addressing needs, the pandemic has highlighted systemic challenges (e.g. economic hardships, strained healthcare systems, digital divides) in both resourced and under-resourced settings (The Lancet, 2021). Increased emphasis and ongoing investment in global partnerships is needed to meet these immediate needs and address large-scale issues over time.
+
+The authors of this commentary believe that strong relationships, and in turn effective collaborations, are key in continuing to conduct GMH research generally and specifically in response to the COVID-19 pandemic. From the perspective of researchers in the United States (US), Peru, South Africa, Uganda, and Ukraine, we discuss the role of collaboration as experienced throughout the ongoing pandemic. Specifically, we highlight two key domains that have been especially relevant over the past months − technology and funding – and discuss their impacts on our global collaborations, considering how these lessons learned may be relevant as we move forward.
+
+Engaging with technology facilitates the collaborative relationships that are required to initiate, conduct, and disseminate GMH research. Prior to the start of the pandemic, many international collaborators were already using platforms like Zoom and Skype to conduct regular meetings, discuss any ongoing challenges executing study protocols, and plan future projects. Collaborators were also frequently traveling back and forth between countries for in-person meetings, to identify appropriate study sites, and to plan for study start-up. In the context of the pandemic, these in-person gatherings and study planning visits are no longer possible, creating both opportunities to strengthen partnerships through the use of technology, as well as address challenges that strained collaborative relationships.
+
+Several examples demonstrate how the spread of COVID-19 normalized international collaborations and strengthened existing relationships that already relied on technology. For example, the Africa Global Mental Health Institute (AGMHI) (Grillo et al., Reference Grillo, Ghebrehiwet, Johnson, Borba, Fricchione, Sorel, Durham, Chiliza, Motlana and Henderson2019), which was established in 2016 to reduce the burden of mental illness and build the infrastructure necessary to make systematic changes in mental health care delivery across the African continent, offered a series of lectures delivered via Zoom that discussed strategies for bidirectional capacity-building during the pandemic. Participants based in African countries and in the US shared their experiences managing COVID-related challenges. Given the dynamic nature of the pandemic, some regions experienced high prevalence rates before others, so those with more experience managing the effects of the virus were able to share lessons learned. The pandemic also enabled partners to leverage existing technological resources, such as WhatsApp, to communicate and ensure that projects that could continue did so relatively smoothly. Additionally, due to rapid changes by educational institutions in adopting online learning, global partners were able to support one another by providing Zoom-based lectures and instruction to each other's students worldwide. This was particularly useful when COVID-19 caused physical illness or time pressures among individuals on our respective teams, and the combination of our partnerships and use of novel forms of technology offered a tangible mechanism to be of practical assistance to one another. Finally, using technology in novel ways, such as offering mental health support via telemedicine to healthcare providers, improved intra-country partnerships and suggested future opportunities to provide more readily accessed mental health care.
+
+Though digital resources created opportunities for sustained collaboration, a number of technological challenges also became evident. Even though study teams may have had the tools to work remotely (e.g. laptop computers, mobile phones, WiFi capability), WiFi signals in rural areas of Ukraine, South Africa, and Uganda, where some of our collaborators are based, have complicated work from home efforts. Some team members who were unable to work from home due to poor WiFi connection have decided to look for employment elsewhere, increasing workload on managers or supervisors and exacerbating digital fatigue. As the pandemic has decreased face-to-face interactions, which have strong cultural value in many of the contexts in which we work, there has been some discomfort with new technology. Given established cultural norms, the hesitation of some research participants to interact with newly established research contacts during the course of the pandemic is certainly understandable, though it has contributed to delays in executing projects and hindered collaborative efforts to some degree.
+
+Obtaining funding for GMH is an ongoing challenge (Wainberg et al., Reference Wainberg, Scorza, Shultz, Helpman, Mootz, Johnson, Neria, Bradford, Oquendo and Arbuckle2017). Gaining and maintaining financial support is a necessary element of GMH and is deeply integrated within collaborative partnerships. The importance of addressing mental health needs was brought to the forefront during the COVID-19 pandemic, which resulted in new funding pathways as the world seeks to understand both the virus and its psychosocial impact. In some of our experiences, these new opportunities resulted in expanding current work and possible new grant submissions. Examples include opportunities to seek additional funding by widening current studies to address the mental health impact of COVID-19 among new target groups (e.g. Peru and Ukraine). For others, COVID-19 grants opened windows for new intra- and inter-country collaborations. A new collaboration developed among researchers in Kenya, Nigeria, South Africa, and Uganda, stemming from knowledge sharing through the AGMHI, is a prime example, whereby partners sought collaborative COVID-19 specific grants aiming to evaluate and address mental health needs among mental health care workers across countries.
+
+Nonetheless, the clinical and administrative burden of COVID-19 illness on clinician-researchers also led to decreased time and energy available to dedicate to research and grant development. For instance, some teams described feeling discouraged: although new funding mechanisms were developed, time to develop applications was constrained due to overwhelming clinical caseloads. Other partners described changes in their collaborations, including loss of team members (e.g. moving out of country, lack of availability of previous partners) that made it nearly impossible to competitively apply for high-level grant mechanisms. In addition to collaboration challenges leading to difficulties with gaining new funding, GMH researchers also face concerns that existing funding will be lost or diverted to COVID-19 related research, which may have negative implications for global collaborations. Loss of collaborators, and in turn potential loss of funding, further challenges existing regional divides and already limited mental health research capacity that is present in many global settings (Razzouk et al., Reference Razzouk, Sharan, Gallo, Gureje, Lamberte, de Jesus Mari, Mazzotti, Patel, Swartz, Olifson, Levav, de Francisco and Saxena2010; Wainberg et al., Reference Wainberg, Scorza, Shultz, Helpman, Mootz, Johnson, Neria, Bradford, Oquendo and Arbuckle2017; Gewin, Reference Gewin2020).
+
+The COVID-19 pandemic is a unique time in history that directly impacts the mental health needs of individuals worldwide (Adhanom Ghebreyesus, Reference Adhanom Ghebreyesus2020; Gruber et al., Reference Gruber, Prinstein, Clark, Rottenberg, Abramowitz, Albano, Aldao, Borelli, Chung, Davila, Forbes, Gee, Hall, Hallion, Hinshaw, Hofmann, Hollon, Joormann, Kazdin and Weinstock2020). We anticipate that collaborations will be critical in addressing these vulnerabilities, specifically those that focus on offering culturally responsive, innovative interventions to meet growing mental health needs, that bolster international capacity building efforts, and that conduct rigorous research to better understand the mental health impacts from the pandemic.
+
+As described above, we observed over the past months that strong collaborative relationships influence the success and sustainability of mental health research and interventions, particularly when faced with obstacles like those seen during the COVID-19 pandemic. At times, opportunities to strengthen collaborations emerged despite and often because of challenges caused by the pandemic. Many existing partnerships were reinforced by opportunities to demonstrate the reciprocity and ongoing commitment needed to sustain global collaborations. As the intensity of COVID-19 impacted global regions at different time points, opportunities to learn from other's experiences emerged in a tangible way, allowing our partnerships to improve and inform our responses. Nevertheless, we also recognize that barriers inevitably challenged some of our collaborations: time demands resulted in changes in availability, some partners were personally and professionally overburdened, and previous collaborations disintegrated.
+
+At this time, the long-term impacts of COVID-19 on GMH research processes are unknown. We anticipate that worldwide recovery from the pandemic will be longstanding; for example, it is already clear that inequities in accessing vaccines will impact our global partners over several years (Aryeetey et al., Reference Aryeetey, Engebretsen, Gornitzka, Maassen and Stølen2021). In light of collaboration's key role in maintaining resilience and ensuring cultural relevance, we call for the GMH community to recommit to the importance of long-standing, effective international partnerships. Maintaining collaborations during COVID has allowed our international teams: to better understand and respond to community needs and priorities; to consider new opportunities and pathways for future work; to build trust and understanding that our partnerships are enduring despite grave difficulties; and to learn to be flexible in responding to rapidly changing environments. When subsequent challenges inevitably impact our partnerships, we believe that some of the lessons learned in navigating the pandemic may serve as a blueprint for future efforts. We emphasize the importance of bidirectional knowledge sharing that can strengthen our ability to recover and grow in a future post-pandemic world (White et al., Reference White, Jain and Giurgi-Oncu2014). It is our hope and belief that the lessons learned from the compounded circumstances and the strengths that are emerging will guide and bolster collaborative GMH partnerships, both currently and in future efforts.
+
+The preparation of this paper was supported by the Boston University Medical Campus-Massachusetts General Hospital Global Psychiatric Clinical Research Training Program (T32MH116140). The sponsors had no role in study design; in the collection, analysis and interpretation of data; in the writing of the articles; and in the decision to submit it for publication.
+
+Conflict of interest
+
+The authors declare that they have no competing interests.
+
+Abimbola, S, Asthana, S, Montenegro, C, Guinto, RR, Jumbam, DT, Louskieter, L, Kabubei, KM, Munshi, S, Muraya, K, Okumu, F, Saha, S, Saluja, D and Pai, M (2021) Addressing power asymmetries in global health: imperatives in the wake of the COVID-19 pandemic. PLoS Medicine 18, e1003604.CrossRefGoogle ScholarPubMed
+
+Adhanom Ghebreyesus, T (2020) Addressing mental health needs: an integral part of COVID-19 response. World Psychiatry 19, 129–130.CrossRefGoogle ScholarPubMed
+
+Aryeetey, E, Engebretsen, E, Gornitzka, Å, Maassen, P and Stølen, S (2021) A step backwards in the fight against global vaccine inequities. The Lancet 397(10268), 23–24.CrossRefGoogle ScholarPubMed
+
+Gewin, V (2020) The trials of global research under the coronavirus. Nature. https://doi.org/10.1038/d41586-020-02326-0.CrossRefGoogle ScholarPubMed
+
+Godoy-Ruiz, P, Cole, DC, Lenters, L and McKenzie, K (2016) Developing collaborative approaches to international research: perspectives of new global health researchers. Global Public Health 11, 253–275.CrossRefGoogle ScholarPubMed
+
+Grillo, AR, Ghebrehiwet, S, Johnson, K, Borba, CP, Fricchione, GL, Sorel, E, Durham, M, Chiliza, B, Motlana, M and Henderson, DC (2019) The African Global Mental Health Institute: increasing capacity, inclusivity and translation of psychiatric research and care. The Columbia Journal of Global Health 9(1). https://doi.org/10.7916/thejgh.v9i1.4933Google Scholar
+
+Gruber, J, Prinstein, MJ, Clark, LA, Rottenberg, J, Abramowitz, JS, Albano, AM, Aldao, A, Borelli, JL, Chung, T, Davila, J, Forbes, EE, Gee, DG, Hall, GCN, Hallion, LS, Hinshaw, SP, Hofmann, SG, Hollon, SD, Joormann, J, Kazdin, AE, Weinstock, LM (2020) Mental health and clinical psychological science in the time of COVID-19: challenges, opportunities, and a call to action. American Psychologist https://doi.org/10.1037/amp0000707.Google Scholar
+
+Hook, K and Vera, E (2020) Best practices in global mental health: an exploratory study of recommendations for psychologists. International Perspectives in Psychology: Research, Practice, Consultation 9, 67–83.CrossRefGoogle ScholarPubMed
+
+Khenti, A, Fréel, S, Trainor, R, Mohamoud, S, Diaz, P, Suh, E, Bobbili, SJ and Sapag, JC (2016) Developing a holistic policy and intervention framework for global mental health. Health Policy and Planning 31, 37–45.CrossRefGoogle ScholarPubMed
+
+Kohrt, BA, Upadhaya, N, Luitel, NP, Maharjan, SM, Kaiser, BN, MacFarlane, EK and Khan, N (2014) Authorship in global mental health research: recommendations for collaborative approaches to writing and publishing. Annals of Global Health 80, 134–142.CrossRefGoogle ScholarPubMed
+
+Kohrt, B, Marienfeld, CB, Panter-Brick, C, Tsai, AC and Wainberg, ML (2016) Global mental health: five areas for value-driven training innovation. Academic Psychiatry 40, 650–658.CrossRefGoogle ScholarPubMed
+
+Osborn, TL, Wasil, AR, Weisz, JR, Kleinman, A and Ndetei, DM (2020) Where is the global in global mental health? A call for inclusive multicultural collaboration. General Psychiatry 33(6), e100351. https://doi.org/10.1136/gpsych-2020-100351CrossRefGoogle Scholar
+
+Razzouk, D, Sharan, P, Gallo, C, Gureje, O, Lamberte, EE, de Jesus Mari, J, Mazzotti, G, Patel, V, Swartz, L, Olifson, S, Levav, I, de Francisco, A, Saxena, S and WHO-Global Forum for Health Research Mental Health Research Mapping Project Group (2010) Scarcity and inequity of mental health research resources in low- and-middle income countries: a global survey. Health Policy 94, 211–220.CrossRefGoogle ScholarPubMed
+
+Shah, S (2011) Ethical standards for transnational mental health and psychosocial support (MHPSS): do no harm, preventing cross-cultural errors and inviting pushback. Clinical Social Work Journal 40, 438–449.CrossRefGoogle Scholar
+
+Taquet, M, Luciano, S, Geddes, J and Harrison, P (2021) Bidirectional associations between COVID-19 and psychiatric disorder: retrospective cohort studies of 62 354 COVID-19 cases in the USA. The Lancet Psychiatry 8, 130–140.CrossRefGoogle ScholarPubMed
+
+The Lancet (2021) Health as a foundation for society. The Lancet 397(10268), 1. https://doi.org/10.1016/S0140-6736(20)32751-3CrossRefGoogle Scholar
+
+Wainberg, ML, Scorza, P, Shultz, JM, Helpman, L, Mootz, JJ, Johnson, KA, Neria, Y, Bradford, JE, Oquendo, MA and Arbuckle, MR (2017) Challenges and opportunities in global mental health: a research-to-practice perspective. Current Psychiatry Reports 19, 28.CrossRefGoogle ScholarPubMed
+
+Watters, E (2010) Crazy Like Us: The Globalization of the American Psyche. New York, NY: Simon & Schuster.Google Scholar
+
+Wessells, MG (2009) Do no harm: toward contextually appropriate psychosocial support in international emergencies. American Psychologist 64, 842–854.CrossRefGoogle ScholarPubMed
+
+White, R, Jain, S and Giurgi-Oncu, C (2014) Counterflows for mental well-being: what high-income countries can learn from low and middle-income countries. International Review of Psychiatry 26, 602–606.CrossRefGoogle ScholarPubMed
+
+You have Access Open access
+
+This article has been cited by the following publications. This list is generated based on data provided by Crossref.
+
+Armijos, Andrea Bonz, Annie G. Brown, Felicity L. Charlet, Danielle Cohen, Flora Greene, M. Claire Hermosilla, Sabrina James, Leah E. and Le Roch, Karine 2023. Ensuring equity in mental health and psychosocial support during the COVID-19 pandemic and beyond. Conflict and Health, Vol. 17, Issue. 1,
+
+Dempere, Juan 2024. Advancements in Health Sciences. p. 131.
+
+Google Scholar Citations
+
+View all Google Scholar citations for this article. ×

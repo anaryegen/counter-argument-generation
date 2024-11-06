@@ -1,0 +1,385 @@
+An official website of the United States government Here's how you know
+
+The .gov means it's official. Federal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you're on a federal government site.
+
+The site is secure. The https:// ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely.
+
+Log in Show account info
+
+Logged in as: username
+
+Access keys NCBI Homepage MyNCBI Homepage Main Content Main Navigation
+
+NCBI Bookshelf. A service of the National Library of Medicine, National Institutes of Health.
+
+National Research Council (US) Panel on Race, Ethnicity, and Health in Later Life; Anderson NB, Bulatao RA, Cohen B, editors. Critical Perspectives on Racial and Ethnic Differences in Health in Late Life. Washington (DC): National Academies Press (US); 2004.
+
+Critical Perspectives on Racial and Ethnic Differences in Health in Late Life.Show details
+
+National Research Council (US) Panel on Race, Ethnicity, and Health in Later Life; Anderson NB, Bulatao RA, Cohen B, editors.
+
+Washington (DC): National Academies Press (US); 2004.
+
+Hardcopy Version at National Academies Press
+
+9Race/Ethnicity, Socioeconomic Status, and Health
+
+Eileen M. Crimmins, Mark D. Hayward, and Teresa E. Seeman
+
+Mounting evidence indicates that racial/ethnic differences in morbidity and mortality are tied to socioeconomic resources (Hayward, Crimmins, Miles, and Yu, 2000; Williams and Collins, 1995). Largely because of data availability, most of this evidence is based on the health experiences of blacks and whites, with much less evidence on the role of socioeconomic factors in understanding racial/ethnic disparities when Americans of Asian or Pacific Island descent, Hispanics, and Native Americans are part of the picture. The potential power of the socioeconomic status (SES) paradigm in understanding health disparities—including racial/ethnic disparities—is evident in the fact that socioeconomic differences in health outcomes have been widely documented for most health conditions in most countries. People who are poorer and who have less education are more likely to suffer from diseases, to experience loss of functioning, to be cognitively and physically impaired, and to experience higher mortality rates (Adler, Boyce, Chesney, Folkman, and Syme, 1993; Adler et al., 1994; Marmot, Kogevinas, and Elston, 1987; Marmot, Ryff, Bumpass, Shipley, and Marks, 1997; Preston and Taubman, 1994; Williams, 1990). In the United States, few health problems are more likely to occur among those who are better off, and some health conditions are particularly sensitive to SES. In recent years socioeconomic differences in health also appear to be increasing in the United States and in other developed countries (Crimmins and Saito, 2001; Feldman, Makuc, Kleinman, and Coroni-Huntley, 1989; Manton, 1997; Marmot, 1994; Pappas, Queen, Hadden, and Fisher, 1993; Preston and Elo, 1995).
+
+The socioeconomic stratification that patterns American life, and differences in life for the major racial/ethnic groups, is assumed to be the root cause of these differences (Adler et al., 1994; Link and Phelan, 1995). People of different social statuses lead lives that differ in almost all aspects—childhood circumstances, educational experiences, work careers, marriage and family experiences, leisure, neighborhood conditions, and health care (Williams and Collins, 1995). Many of the effects of SES on health outcomes are indirect through a variety of life experiences, opportunities, or choices related to SES, beginning in early life and either cumulating or being tempered by later life situations. Health differences are observed throughout the lifecycle, and the general assumption is that differences diminish at older ages. This assumption was questioned recently by Lynch (2003).
+
+Socioeconomic status is obviously related to race and ethnicity in the United States, but the role of socioeconomic factors as a cause of racial/ ethnic health differences is complex. Many studies have documented the importance of blacks' low SES as a partial explanation for poor health outcomes relative to whites. Studies have also clarified that socioeconomic differences often do not “explain” all health differences between African Americans and non-Hispanic whites, with black-white differences in health remaining after controlling for socioeconomic conditions (Hayward et al., 2000). Asian Americans' comparatively high SES has been suggested as a cause of this group's better health, but again, other factors also appear to come into play (Lauderdale and Kestenbaum, 2002). The “Hispanic paradox,” or the better than expected health experienced by the socioeconomically disadvantaged Hispanic population, is another example of the complexity of the relationships among race/ethnicity, SES, and health outcomes (Abraido-Lanza, Dohrenwend, Ng-Mak, and Turner, 1999).
+
+Ambiguity also surrounds the mechanisms through which SES promotes racial/ethnic differences in health. The issue of whether members of all ethnic groups are able to equally translate increases in SES into health improvements has been raised (Ribisi, Winkleby, Fortmann, and Fiora, 1998; Williams, Lavizzo-Mourey, and Warren, 1994). In addition, researchers have questioned whether the race gap in health is concentrated at the low end of the socioeconomic ladder, with some studies reporting that the race gap in health is strongest among persons with the fewest socioeconomic resources (Lillie-Blanton, Parsons, Gayle, and Dievler, 1996). Other researchers have suggested that the association is more linear, with increasingly better health as SES increases, although there may be some leveling off at the top (Adler et al., 1993; House, Kessler, and Herzog, 1990; Pappas et al., 1993).
+
+Both health and socioeconomic status have many dimensions and can be conceptualized and measured in multiple ways, with measurement often falling far short of the conceptual ideas. This adds to the complexity of synthesizing studies' results relating socioeconomic status, health, and race/ ethnicity. In this chapter, our discussion sheds some light on this complexity by briefly exploring how different approaches to conceptualizing both SES and health may affect conclusions about the role of SES in accounting for racial/ethnic health outcomes. As we make clear in our discussion of the major population health surveys, however, no omnibus health survey fully meets the needs of the conceptual issues believed to underlie the racial/ ethnic differences in health. Furthermore, we raise the question of whether these major surveys have comparable samples in an attempt to understand one potential source of variation in the empirical associations among race/ ethnicity, SES, and health.
+
+Based on these surveys, we then investigate the socioeconomic and health differences among racial/ethnic groups. Our purpose for the empirical analysis is to assess the consistency of key empirical associations among race/ethnicity, the various measures of SES, and multiple dimensions of health (major chronic diseases, physical and cognitive impairment, and mortality). We address two major substantive questions—the extent to which SES factors account for racial/ethnic differences in health and the extent to which the SES gradient in health is shared across the major racial/ ethnic groups. When possible, we examine associations for both the prevalence and incidence of a health problem. Prevalence—or the percentage with a health problem at a point in time—is the more commonly used indicator of disease experience, yet it has limitations. Prevalence differences across racial/ethnic groups embody health experiences at earlier ages that have left their stamp on the population (Hayward, Friedman, and Chen, 1996; Schoen, 1988). These experiences, particularly through mortality selection, may also alter the distribution of socioeconomic resources as a cohort ages (Lauderdale, 2001). Incidence—that is, the onset of new cases of health problems—captures health experiences prospectively and points to possible trajectories of health after baseline observation. Incidence allows us to investigate how socioeconomic conditions when individuals do not have a health problem are associated with subsequent health experiences. Our empirical assessment of the associations among race/ethnicity, SES, and health is necessarily cursory, but one that aids in assessing the specificity of associations among race/ethnicity, SES, and a range of health outcomes.
+
+CONCEPTIONS OF SOCIOECONOMIC STATUS
+
+Socioeconomic status can be broadly conceptualized as one's position in the social structure. Sociologists emphasize a Weberian approach that encompasses the notions of class, status, and power. SES is thus more than financial well-being or educational achievement, which are often used as indicators in empirical work; more broadly, it encompasses a lifetime of access to knowledge, resources, and opportunities. In recent work, Oakes and Rossi (2003) suggest that measures of SES should reflect material capital, human capital, and social capital. Although indicators of adult status such as education, current income, wealth, and occupation are often the indicators of SES available for analysis, these may be fairly gross measures of the lifetime accumulation or experience of some types of capital. For example, education represents human and social capital at the beginning of adulthood. Annual income represents only recent accumulation of material capital. Appropriately measuring adult lifetime income may be a better indicator of lifetime material status (Juster and Suzman, 1995). Wealth accumulation may represent total material capital available at the moment, but this may be highly affected by life circumstances, including health.
+
+Sociologists and epidemiologists emphasize the effects of lifetime socioeconomic conditions on health rather than the effects of health on SES. Economists are more sensitive to this latter association, and recent work has documented the link between health problems and reductions in income and wealth at older ages (Smith and Kington, 1997). Importantly, however, the causal direction of the association potentially varies by age, the metric of SES, and likely by specific health conditions. For example, educational attainment is not affected by health for most people because of the lifecycle stage when education is acquired. Of course, for some people with diseases and conditions with childhood onset, educational attainment is influenced by health.
+
+On the other hand, health problems that arise during the working years (e.g., heart condition, diabetes, functional problems, and depression) may significantly affect labor supply, earnings, and wealth accumulation. The cross-sectional relationship of income and current health status among those at the older working ages most likely reflects the combination of the effect of the ability to work on income as well as the effect of earlier income on health (Shea, Miles, and Hayward, 1996). Thus examining this relationship in the cross-section says little about causal effects. In old age, wealth is often consumed by those with health problems in order to provide medical or custodial care, resulting in a negative relationship between health and wealth (Smith, 1999; Smith and Kington, 1997). Most investigations, however, have found that the influence of health on socioeconomic indicators is less important than causation in the other direction, but this cannot be assumed to be true with respect to all relationships between SES and health outcomes across the life course. It is important to consider the potential for interpreting the direction of causation when selecting indicators of SES as well as health outcomes particularly at the older ages.
+
+For an older population, some measures of SES and some health conditions are especially likely to be both causes and consequences of each other. If older disabled persons move in with their working, middle-aged children in order to cope with disability, they will reside in a family with higher current income. If people stop working at a young age because of disability, they are more likely to have reduced pension funds for the rest of their lives. Because education is not affected by health events after young adulthood, many researchers prefer the use of education as an index of lifetime SES for the adult population. However, because of historical increases in educational attainment among more recent birth cohorts, educational attainment is negatively associated with age in the older population in the cross-section. This makes the SES of people at older ages appear to be less than at younger ages, although the relative meaning of education in terms of lifetime achievement may be affected by the era in which people were educated and careers were developed. For this reason, in some analyses of relationships across ages or time, educational achievement relative to one's peers may be the appropriate metric rather than absolute levels of educational achievement (Pamuk, 1985).
+
+MECHANISMS THROUGH WHICH SES WORKS TO AFFECT HEALTH
+
+Numerous papers have outlined social, psychological, and economic mechanisms through which SES is assumed to affect health outcomes (Anderson, 1995; Hummer, Rogers, and Eberstein, 1998; Kington and Nickens, 2001; Seeman and Crimmins, 2001). We only briefly review some of the implications of this work relevant to the issues addressed in this chapter. In general, among persons of higher SES, exposure to health-threatening conditions should be lower, and resources to buffer health threats should be higher. The influence of SES on health is assumed to begin early in life, perhaps even in the prenatal environment, and continue to accumulate throughout life. Increasing evidence also shows that the effects of some childhood conditions (e.g., infectious diseases) on later life health are only partially mediated by adult achievement processes or lifestyle (Blackwell, Hayward, and Crimmins., 2001; Hayward et al., 2000; Kuh and Davey-Smith, 1997; Preston, Hill, and Drevenstedt, 1998).
+
+Recent work by Warner and Hayward (2002) suggests that childhood circumstances explain a substantial part of the mortality gap between blacks and whites. This led them to propose that the distribution of resources in childhood sets individuals on a path toward stable or deteriorating health. Part of the mechanism is the link between parental and child SES as SES is transmitted from one generation to another. In addition, social capital appears to come into play with a strong health protective effect of early intact families.
+
+Adults of higher SES are more likely to have grown up in childhood homes with better nutrition, fewer health risk behaviors, safer neighborhoods, and more economic resources. As adults, higher SES persons mature in more secure and rewarding career and residential situations. Persons of higher status have a greater ability to access health services and may receive better treatment when served. Higher education provides explicit facts, and leads to attitudes and behaviors that are conducive to better health as well as a willingness to delay gratification in order to achieve desired goals. Persons of higher status smoke less, eat better, and exercise more than persons with fewer resources (Winkleby, Jatulis, Frank, and Fortmann, 1992; Winkleby, Kraemer, Ahn, and Varady, 1998). Higher status brings freedom from some types of worry and stress and enables coping with other types of stress. Lower status is linked to more disruptive life events such as family breakup and unemployment as well as fewer financial resources to cope with such events. Persons of higher status are also more likely to develop psychological resources such as a sense of mastery and control or to experience reduced levels of hostility (Pincus and Callahan, 1995), which are all conducive to better health. Explaining the role of SES in racial and ethnic differences in health thus requires examining the relationship between race/ethnicity and lifetime SES as well as the link between SES and the potential mechanisms through which it works. Most empirical analyses are unable to accomplish this because of a lack of appropriate data.
+
+CONCEPTIONS OF HEALTH AND THEIR RELATIONSHIP TO SOCIOECONOMIC STATUS AND RACE/ETHNICITY
+
+Health has a number of dimensions, including diseases and conditions, functioning loss, disability, and death (Verbrugge and Jette, 1994). The process of health change for populations can be thought of as beginning with the onset of diseases and conditions, which can lead to functioning loss and impairment and eventually disability and death. The development of chronic diseases and conditions—while generally not clinically recognized until at least middle age—is affected by lifelong circumstances that are related to both socioeconomic status and race/ethnicity. Many of these mechanisms have been mentioned already, but additional factors affect the likelihood that people of different ethnic groups and social status groups will not only get diseases, but also whether diseases will result in functioning loss, disability, or death. For example, the stage at which a disease or condition is clinically recognized and reported can vary with the use of health care, which is related to the availability of health insurance and to health care habits. Whether heart disease results in death may depend on how early it is diagnosed and treated, which may, in turn, depend on the provision of health insurance and ascriptive factors such as sex and race. Whether a condition is disabling may depend on the environmental circumstances in which the person lives or works. If job requirements include physical labor, for example, disability may be reported at a level of functioning loss that would not cause disability in a white-collar worker (Hardy and Pavalko, 1986).
+
+Racial/ethnic and socioeconomic differences are greater in some dimensions of health and from some causes than others. For example, black men have higher death rates from heart disease than white men, but they do not differ in the prevalence of reported heart disease (Hayward et al., 2000). Even within the group of diseases classified as cancer, death rates from some cancers appear to be less strongly related to socioeconomic status than deaths from other causes (Pincus, Callahan, and Burkhauser, 1987). Some causes of death and disease are more likely to be affected by the mechanisms through which SES is assumed to work. Stress is believed to be an important factor in heart disease and hypertension. Obesity, a condition more common among those of lower SES, is assumed to pose a risk for diabetes. Differential relationships between diseases and socioeconomic status may be one reason that the relationship between SES and health varies by age. In the young adult years, mortality is dominated by violent death and AIDS, which are both highly related to socioeconomic status. In the middle adult years, deaths due to cancer and heart disease become more prevalent. Early deaths from these causes may be among those with either high vulnerability or lifelong insult. The causes of death and many causes of disability that dominate old age have a long period of development. Racial/ ethnic differences in disability are not necessarily the same as those in mortality or in presence of disease (see Chapter 2).
+
+Understanding the time dimension of health outcomes is important for interpreting both socioeconomic and racial/ethnic differences. Many studies focus on the current prevalence of health problems, a measure indicating whether a problem exists at the time of measurement. Current prevalence of health problems is affected by a cohort's entire history of rates of disease onset, durations of conditions, and rates of survival. A difference in the current level of disease between two groups could result from one group having a higher rate of disease than the other, but both groups experiencing the same survival with disease. Or both groups could have the same incidence or onset rate, but different survival rates. Thus, it is not possible to intuit the process by which group differences arise from examining only differences in disease prevalence. Differences in onset and survival are more informative of health processes. For this reason, many investigators prefer to examine the incidence of health problems in a specified period and relate health events in the period to explanatory characteristics that precede the events. It is also difficult to intuit differences in cause-specific mortality for similar reasons. Blacks' higher death rates from heart disease compared to whites, for example, could be a function of higher rates of disease incidence, but similar survival among persons with heart disease. Or the gap in heart disease death rates could be due to a higher death rate for blacks among persons with heart disease, or, the gap could reflect a combination of these morbidity and mortality experiences.
+
+Two additional issues need to be considered in evaluating what we know about socioeconomic and racial/ethnic differences from available data on health outcomes. One issue is the source of the information. Many surveys ask respondents to report if “a doctor has told you” that you have a specified condition. This is affected by contact with doctors; doctors telling patients that they have a condition; and patients correctly interpreting and remembering what they have been told. All of this is likely to be affected by both SES and race/ethnicity. Other health outcomes, such as reports of functional difficulty or self-reports of health status, also depend on the reference group of the respondent. Another issue with much of the current survey data on health is that the severity of the problem is not reported—we know a person has a health problem, but not how severe the problem is. These types of problems with self-report data on health outcomes other than mortality often have resulted in a focus on only mortality or life expectancy in the area of health differentials. As we have clarified, mortality is the end of a process that needs to be better understood in order to meaningfully address racial/ethnic differentials in these various morbid and mortal outcomes.
+
+SOCIOECONOMIC STATUS, AGE, AND HEALTH
+
+As we noted earlier, the importance of socioeconomic status in explaining health differences and even the direction of causation may differ by age if one includes indicators of material well-being. While socioeconomic resources affect health throughout the lifecycle, many scholars report that SES differentials in health are reduced at older ages (House et al., 1994; Marmot and Shipley, 1996). Support for this idea is provided by the fact that racial/ethnic differences in mortality are relatively small at the oldest ages, with some finding that white mortality exceeds that of African Americans and Hispanics at the oldest ages (Liao et al., 1998). Social circumstances may be overwhelmed by biological changes related to aging at the oldest ages, or those who survive may differ from cohort members who did not live until old age. It is not surprising that SES and health are reduced at the older ages when even well-recognized risk factors such as smoking and obesity do not always relate to health outcomes as expected among the older population (Crimmins, 2001).
+
+Health differences among adults by SES and between blacks and whites are thought to be maximal in late middle age (Hayward et al., 2000). However, even examination of the effect of observed socioeconomic differentials in either short-term incidence or prevalence at this age may not fully indicate the overall age pattern of health differences affecting health disparities because the effect is compounded over time. Transformation of standard results from individual-level analyses to clarify group or population differences can sometimes aid in this interpretation. For example, analysis of the relationship of disease onset by educational groups from the Health and Retirement Survey using age-specific schedules of onset provides evidence for the more rapid aging or “weathering” of disadvantaged populations implied by the higher annual rates of disease onset and prevalence experienced by low-status persons. Table 9-1 presents the ages at which three education groups (8 years, 12 years, and 16 years) experience equivalent rates of prevalence and onset of major diseases. Equivalent ages are the ages at which the two higher education groups have the same level of prevalence or annual rate of incidence as that experienced by persons at age 51 in the lowest education group (8 years). Estimated ages are based on logistic models of disease presence and hazard models of disease onset that include education, age, and gender as the independent variables. Those in the middle education group experience the same rates of onset and incidence from 3 to 9 years later, generally in their late 50s. Those in the highest socioeconomic group are able to delay these health experiences into their 60s, from 6 to 19 years later than the lowest education group.
+
+Age at Which Persons of Different Educational Levels Experience Equivalent Prevalence and Incidence of Specified Diseases: Based on Logistic Models of Prevalence and Hazard Models of Incidence from the Health and Retirement Survey.
+
+Some of the effect of earlier aging of lower status persons is not captured in this examination of diseases among people in their 50s because a significant number of those with lower SES have been eliminated from the population due to early mortality. Because of mortality before they reached the age of the Health and Retirement Survey, only about three-fourths of men born from 1931 to 1941 lived up to age 60; this figure is probably closer to 40 percent for African Americans (Hayward et al., 2000). Examination of the cause-specific mortality rates of persons in their 40s shows that this differential mortality is strongly reflective of the very early ages at which fatal chronic diseases are prevalent among African Americans. Thus even the study of cohorts beginning in the later working years misses many of the health experiences of the group.
+
+Many studies of health outcomes emphasize the analysis of the onset of health problems among people who do not have the problem at the beginning of the study rather than the prevalence of problems. As noted earlier, this helps in determining cause and effect, but it eliminates additional members of the cohort from analysis—those who get diseases at younger ages. Even in a study of 50-year-olds, the majority of black men and women already will have hypertension and will not be candidates for an incidence analysis. For investigations of health at advanced ages, persons remaining in the population for study are those who survive and often also those who have survived without disease. If survival without diseases differs by SES and race, studies restricted to incidence in the older population miss much of the underlying process leading to the health disparities observed at older ages. Understanding health disparities at the older ages thus requires an understanding of the role of the disease process in selective survival, the prevalence of the disease in a baseline population, and the subsequent morbidity and mortality experiences into advanced ages.
+
+Healthy life expectancy approaches capture the effect of both mortality and morbidity differentials among population groups in a summary indicator. Because the measures can be calculated for any age, they can summarize the effects over the remaining lifecycle fairly simply. Estimates of healthy life by education for blacks and whites in the United States in 1990 have been developed by Crimmins and Saito (2001). Healthy life at age 30 and disabled life at age 30 are shown in Figure 9-1 for persons with less than 9 years of education and for persons with 13 or more years of education. Whites live more healthy years than blacks except for highly educated females. At each level of education, white women live fewer years disabled than black women; for men the difference goes the other way, with white men living more unhealthy years. The third component shown in the figure is the potential years of life that each group loses from the highest observed life expectancy—in this case, highly educated black women. Lost years is the component that is substantially longer for black men and for those with low education. This demonstrates the importance of early mortality in affecting who actually reaches older age to participate in studies of health differentials.
+
+Years of potential life lost and years of unhealthy and healthy life lived at age 30: sex-race groups with 13+ and 0-8 years of schooling. SOURCE: Crimmins and Saito (2001).
+
+HOW DOES SOCIOECONOMIC STATUS VARY BY RACE/ETHNIC GROUPS IN MAJOR HEALTH SURVEYS?
+
+In this section we address an empirical question: How does socioeconomic status as indicated by educational attainment, family income, and wealth vary across race and ethnicity? Although this is a topic that has been thoroughly addressed elsewhere, we add evidence from a number of the major health surveys of the U.S. population assumed to be nationally representative. We examine these differences in major health surveys of the older or near-retirement-age population in order to clarify the socioeconomic status of the racial/ethnic groups on which generalizations about health differences are often based. We examine whether all of the surveys appear to represent the same populations. Years of education and family income are reported in all surveys and wealth in some. Although these indicators fall far short of capturing the dimensions of SES embodied in most theoretical approaches, they represent what is available in the data. In the next section, we examine relationships between race/ethnicity and health and socioeconomic status using data from these surveys. We separate foreign-born Hispanics from native-born Hispanics in all of our analyses because of the importance of nativity in evaluating observed health differences (see Chapter 6).
+
+The surveys include the Assets and Health Dynamics of the Oldest Old (AHEAD), the National Health and Nutrition Examination Survey III (NHANES III), the National Health Interview Survey of 1994 (NHIS) with some information from its subsample Longitudinal Study on Aging (LSOA II), and the Health and Retirement Study (HRS). The first three of these surveys are representative of the older population and the HRS is representative of people approaching retirement age. AHEAD is initially representative of community dwellers aged 70 and over and was begun in 1993 with an oversample of African Americans and Hispanics to provide the potential for analysis of these groups. The survey also includes an oversample of Florida, which may affect the characteristics of Hispanics studied. The total sample consists of about 7,350 people, of whom slightly over 1,000 are black, 170 are U.S.-born Hispanic, and approximately 240 are foreign-born Hispanic.
+
+NHANES was collected from 1988 to 1994 to address issues of racial/ ethnic health differences in the population of all ages. Large samples of African Americans and Hispanics, consisting primarily of persons of Mexican origin, were included in this survey. This sample includes approximately 3,400 people aged 65 and over. This number includes 933 African Americans, approximately 450 U.S.-born Hispanics, and 300 foreign-born Hispanics. The NHIS is a nationally representative survey of the population of all ages, which allows examination of not only the major racial/ethnic groups already listed, but also provides limited information for residents of Asian and Pacific Island origin and Native Americans. It also provides the sample for the LSOA II, which offers additional data on health outcomes. The NHIS contained nearly 12,000 interviews for white non-Hispanic persons 65+ and older, nearly 1,600 African Americans, and 250 each of foreign and native-born Hispanics. There were 156 foreign-born Asians over 64 and 59 U.S.-born Asians in the survey. Nearly 70 older Native Americans were included. The HRS is the parent survey of the AHEAD survey and collected similar information for a slightly younger group: those 51 to 61 in 1992. The HRS has a sample of nearly 7,000 whites, 1,600 African Americans, 400 U.S.-born Hispanics, and 480 foreign-born Hispanics. Inclusion of this survey, which is fairly similar to AHEAD in design and structure, allows comparison of two age groups.
+
+As indicated earlier, each survey provides information on education and current family income, and three provide information on assets. Measurement in the surveys is not identical; because details of the measurement have been discussed in a number of places, they will not be addressed here (Ettner and Crimmins, 2002). Our question is how these racial/ethnic groups compare in SES across these surveys using available indicators of SES. We present medians and interquartile ranges in Figures 9-2 through 9-4 in order to compare the distribution as well as the midpoint of the range.
+
+Median years of education by race/ethnicity with interquartile range from selected health surveys.
+
+Median assets by race/ethnicity with interquartile range from selected health surveys.
+
+Examining education in the first three surveys for the older population, we see that the median and distribution of education for whites and blacks is fairly similar across surveys (Figure 9-2). There is quite a bit of overlap in the distribution between African Americans and whites even though the median of whites exceeds that of African Americans by 3 or 4 years.
+
+On the other hand, the educational level of Hispanics differs across surveys as does the level and direction of the difference between foreign-born and native-born Hispanics. Although these surveys are generally believed to be “nationally representative,” they do not appear to include the same groups of Hispanics. U.S.-born Hispanics have a median education of 6, 7, or 8 years depending on the survey; median education for foreign-born Hispanics ranges from 4 to 10 years. The foreign-born Hispanics in the largely Mexican NHANES have a lower level of education than the foreign-born Hispanics in the NHIS. For comparison we also show education of the foreign born of Mexican origin in the NHIS; this group has an educational level similar to foreign-born Hispanics in AHEAD and NHANES. This comparison makes it clear that the Hispanic population captured in these surveys varies across surveys; it also indicates the importance of considering both nativity and country of origin when analyzing the Hispanic population.
+
+In the NHIS persons of Asian origin have a relatively high level of education, with few persons at low levels of education. The median of the foreign-born Asians aged 65 and over is below that of whites, but above other groups except Native Americans. In contrast to native-born persons of Asian origin, there is a relatively large dispersion in educational level among foreign-born Asians.
+
+The HRS sample is 10 to 20 years younger than the other samples and its higher levels of education indicate change for cohorts over time. The educational level rises in all ethnic groups from that observed for older persons, and the younger groups appear more similar in median education. Median education is within 1 year for whites, blacks, and U.S.-born Hispanics. The middle 50 percent of the educational distribution is smaller for each of these groups in this younger cohort than in the older cohorts, indicating the reduction in dispersion of the middle of the educational distribution in this cohort.
+
+These figures can be compared to figures on education gathered in the U.S. Census (Table 9-2). These do not provide a perfect comparison because the Census was taken in 2000, 6 to 7 years later than most of these surveys, but they do provide an indicator of relative educational level for these groups, which can serve as a benchmark.
+
+Median Education for 65+ Population by Ethnicity: U.S. Census, 2000.
+
+All the surveys have the same median education for non-Hispanic whites as the Census. Black educational levels appear low in all of the surveys of the older population. The median education reported by the Hispanic samples appears much lower than the level of education reported by the Hispanic population in the Census. An exception to this is the level of education reported by foreign-born Hispanics in the NHIS. In this survey the direction of the differential between foreign born and native born is reversed relative to that in the Census. U.S.-born Americans of Asian origin in the NHIS have the same median education as that reported in the Census, while the median for the foreign born is lower than the comparison group in the Census. While the same data are not available for Native Americans, data for the entire adult population indicates that Native American levels of education are lower than those of whites, not the same for the two groups as reported in the NHIS.
+
+Now we examine reports of income across surveys and compare the relative position of the groups to that reported in the Census and Current Population Survey (CPS). Median family income for those 65 and over is always higher for whites than for blacks and both groups of Hispanics (Figure 9-3). Blacks and Hispanics have roughly similar income levels, although Hispanics in the NHANES and the NHIS reports slightly higher levels of income than blacks (Figure 9-3). Asians, both foreign born and native born, are relatively high-income groups with medians exceeding those of whites. As in education, there is great variability in income in the foreign-born Asian group.
+
+Median family income by race/ethnicity with interquartile range from selected health survey.
+
+Estimates of median income for 1993 can be made using CPS and Census data along with changes in the Consumer Price Index. These indicate that all groups report lower levels of income than would be expected, with the exception of Asian Americans and Native Americans. We would expect white median income at ages 65 and older to be about a third higher than that for blacks and Hispanics; the differences between blacks and Hispanics and whites appear to be larger than this in AHEAD. The higher income level for Hispanics relative to blacks reported in NHANES and the NHIS is not expected.
+
+Assets are available from AHEAD, NHIS, and HRS (Figure 9-4). There is more variability in assets among ethnic groups than in income. Americans of Asian and Pacific Island origin have very high levels of assets, and blacks very low. The relative placement of Hispanics varies across surveys. In both AHEAD and HRS, foreign-born Hispanics report very little wealth. In the NHIS, they report wealth similar to U.S.-born Hispanics and higher than that for blacks.
+
+In sum, while there are some indicators of SES that distribute as expected across older racial and ethnic groups in these surveys, there are also instances where the samples appear unrepresentative of the entire population of certain ethnic groups. Sometimes the relative status of blacks and Hispanics differs from what might be expected. The characteristics of Hispanic groups differ markedly across these surveys even though they are usually treated as nationally representative in most analyses of health differences. Asians included in these health surveys, while relatively small in number, indicate high levels of all measures of SES, with wealth being the indicator in which they are relatively highest. Native Americans included in the NHIS are a very small group, but in this survey they report levels of socioeconomic indicators that are close to those for whites, and this raises the issue of representativeness of Native Americans in the NHIS. We believe that further investigation of the issue of drawing survey samples of racial/ ethnic groups would be appropriate. When oversamples are drawn using geographic sampling units, members of groups who live in areas of high group concentration are likely to be overrepresented, while those in areas of low concentration will not be. In the case of racial/ethnic differences, this may be an important influence on sample characteristics.
+
+We would like to use the distributions of SES shown in Figures 9-2 to 9-4 to make one additional point. There is a substantial degree of overlap in the distribution of most of the indicators of SES for most subgroups of the population in these large national data sets—with the exception of the education of foreign born Hispanics. Kaufman and Cooper (1999) and Kaufman, Cooper, and McGee (1997) have challenged health researchers by saying that it is impossible to statistically separate the effects of race and SES because the two are so intertwined. While education, income, and wealth may not be adequate representations of all aspects of SES, the evidence indicates that although average values of these indicators vary considerably by race and ethnicity, the distributions generally overlap considerably. This should allow statistical control approaches to separate some of the effects of race/ethnicity and SES. The argument that separation of ethnicity and SES is impossible because of nonoverlapping distributions may have some validity when considering differences between foreign-born Hispanics and other groups or for surveys that are based on community or selected populations.
+
+All of the measures described indicate current SES, although education stays relatively constant over adulthood, and wealth represents the accumulation and maintenance of assets over a lifespan. Two of the surveys—AHEAD and HRS—include indicators of childhood SES: mother's and father's education. These allow some assessment of how closely related current and past educational statuses are for racial/ethnic groups. Table 9-3 shows that racial and ethnic differences in parental education are similar to the differences for the respondent generation. Whites in the AHEAD sample are more than twice as likely as Hispanics to be from a household in which the parents had at least an eighth grade education. The parents of blacks in the AHEAD sample were somewhat more likely to have at least an eighth grade education. The average educational level of parents in the HRS sample is just above 5 years for Hispanics' mothers and fathers and about 10 years for parents of non-Hispanic whites; again the parents of blacks were in the middle. Educational levels are related within and across the generations in each racial/ethnic group. The correlation between years of education of father and mother in the HRS is 0.6 or 0.7 for each of the three groups; the correlation between respondents' own education and that of their fathers and mothers ranges from about 0.35 for blacks to 0.53 for Hispanics (and 0.4 for whites).
+
+Levels of Parental Education by Race/Ethnicity for HRS and AHEAD Sample Members.
+
+One limitation on ability to use the information on childhood SES reported by older persons is that not all respondents know their parents' educations. Parents may have died early in respondents' lives or some respondents may not have had much contact with their parents early in their lives. In the AHEAD sample, 22 percent of blacks did not provide information on their parents; this is true for about half as many Hispanics and non-Hispanic whites.
+
+We also indicate the generational and lifespan nature of SES by looking at the distribution of respondents according to both their own and their father's educational status. The percent of respondents whose father was of low educational status (less than 8 years) and who are themselves of low educational status (less than 13 years) is shown for racial/ethnic groups. This provides some indication of ethnic differences in the likelihood of a lifetime of low status. As expected, minority group members are more likely to both come from backgrounds of low educational attainment and have low educational status themselves. Among the respondents in the AHEAD sample, two-thirds of blacks and foreign-born Hispanics have spent a lifetime in low educational status. This is true for nearly all (84 percent) native-born Hispanics. The differences are somewhat similar in the younger HRS sample, but foreign-born Hispanics were the worst off in this age group.
+
+SOCIOECONOMIC AND RACIAL/ETHNIC DIFFERENCES IN HEALTH
+
+Prevalence of Diseases
+
+Data from these same surveys can be used to examine socioeconomic and racial/ethnic differences in health. Following our earlier discussion of the dimensions of health, we begin with an examination of differences in the prevalence and onset of selected important diseases. These analyses allow us to see whether the relationships among race/ethnicity, socioeconomic status, and disease are the same in the various data sets: how they differ by age and how they differ when incidence rather than prevalence is examined. We include diseases that are among the major causes of death in this age group, as well as arthritis, one of the major causes of disability in the older population. We follow our analysis of disease with an analysis of physical and cognitive impairment. For the longitudinal surveys, death can be examined.
+
+Table 9-4 indicates the risk of having heart disease, heart attack, stroke, diabetes, cancer, hypertension, arthritis, and chronic lung disease by the time of the interview—a prevalence measure—for blacks and native- and foreign-born Hispanics relative to non-Hispanic whites. The relative risk is shown without controls for SES (equation 1), then including education, which is represented as a categorical variable with four classes (equation 2), then adding income to the equation as a four-class categorical variable (equation 3). The set of equations allows us to see how much change occurs in the relative racial/ethnic risk with controls for these two aspects of SES. If education and income “explain” racial differences, the effects of the racial/ethnic coefficients should become insignificant with these controls. We use education and income as class variables in order to allow nonlinear effects to become apparent. For example, significance of the coefficient representing the worst off segment of the sample would demonstrate a threshold effect with only this group experiencing worse health. We include education alone in the first equation relating SES and health because it is a better indicator of lifetime SES for people in this age group. Education should be completed before onset of almost all of these diseases and functioning losses as they are very uncommon before late middle age. A relationship between income and these conditions, on the other hand, could either be cause or effect in the case of prevalence. All logistic equations include controls for age and gender.
+
+Relative Risk of Disease Prevalence by Race/Ethnicity, Education, and Income.
+
+Blacks are significantly more likely to report having three of these diseases than non-Hispanic whites (Table 9-4). All studies indicate elevated levels among blacks of stroke, diabetes, and hypertension. Also, blacks over 70 have more arthritis.
+
+On the other hand, blacks are less likely than whites to report a number of other conditions (heart disease, cancer, and chronic lung disease). In the younger HRS, there is no significant difference between blacks and whites in reported prevalence of cancer and heart disease.
+
+Both groups of Hispanics, U.S. and foreign born, generally differ in similar ways from non-Hispanic whites. Both groups have significantly higher levels of diabetes. Foreign-born Hispanics report significantly less cancer than non-Hispanic whites, but U.S.-born Hispanics do not differ significantly in cancer levels from non-Hispanic whites.
+
+When education and income are introduced into the equations, some categories of education are significantly related to each health outcome. Lower education is almost always related to more disease; however, for cancer it is persons with higher education who are more likely to have had cancer and to be alive to report it. Income has significant effects—more income is related to better health—in about two-thirds of the equations; the effects are fairly consistent in the younger HRS sample and less so in the older samples.
+
+When socioeconomic status is controlled, few of the already described racial/ethnic health differentials disappear. Although there is generally some reduction in the odds ratios reflecting the link between race/ethnicity and health, the change is generally small. In the case of heart disease and chronic lung disease, the relative likelihood of blacks and Hispanics having these conditions is further reduced.
+
+Findings across surveys are fairly similar, though there are some differences between the HRS and AHEAD. Heart disease and cancer are significantly lower among blacks over 70 (AHEAD), but not older working-age blacks (HRS). The black-white differences in stroke, diabetes, and hypertension are somewhat larger at the younger ages (HRS) than in the older group (AHEAD).
+
+Overall, these findings indicate that the likelihood of having any of these major diseases is related to socioeconomic status, all but cancer negatively. Generally, both education and income show some relationship to these health outcomes, and adding income does not change the relationship between education and the health outcomes. Race/ethnicity is also related to all of the conditions with the exception of reporting a heart attack. Controls for SES do little to change the relationship between race and disease. Foreign-born Hispanics report very low levels of cancer experience. This would potentially be a group who could return home after diagnosis, improving the health of those remaining.
+
+Functioning Loss and Disability
+
+We also examine indicators of the prevalence of physical disability and impaired cognitive functioning from these surveys (Table 9-5). Physical functioning or disability was assessed in terms of reported inability to perform at least one Activity of Daily Living (ADL). Cognitive impairment was defined as scoring below a cutoff value on a battery of performance tests that are only available from the AHEAD survey (Herzog and Wallace, 1997). Blacks are more likely to have both an inability to perform ADLs and to score below the cutoff for cognitive impairment. The odds ratios indicating the risk of physical functioning problems for blacks relative to whites are quite substantial—from 1.6 to 2.4 for the older population and 2.5 for those near retirement age, and blacks are 6 times as likely as non-Hispanic whites to have cognitive impairment, but this is reduced to 3.7 with controls for education and income. U.S.-born Hispanics report more functioning problems and disability than non-Hispanic whites in two of the surveys; foreign-born Hispanics report significantly more functioning problems in three surveys. U.S.- and foreign-born Hispanics have relatively high levels of cognitive impairment. The elevated risk ratios are very similar for blacks and U.S.-born Hispanics, and about half as high for foreign-born Hispanics. Low education is always related to more functioning problems. Not surprisingly, the effect of education is especially strong for cognitive functioning. Cognitive ability early in life could be a determinant of educational attainment, so causation could run in both directions for this health indicator. The relative risk of cognitive impairment for both Hispanics and blacks is reduced by half with controls for education and income. The reduction in relative risk of ADL impairment is not as great.
+
+Relative Risk of Physical Functioning Difficulty and Cognitive Impairment by Race/Ethnicity, Education, and Income.
+
+All three minority groups have relatively high risk ratios for disability in the HRS age group. They are higher than the older ages and generally remain significant even with controls for socioeconomic status. In this working age, very low income is linked to higher reports of disability; in this case, the relationship may be partly because persons with disability stop working and earning income. The relationship between both of the SES variables and disability appears stronger in this age group than among the older group.
+
+In summary, the prevalence of diseases, functioning loss, and disability are all related to socioeconomic status; persons of lower status have more problems. Race and ethnicity also are related to all of these dimensions of health, but in complex ways. Education and income appear to partially mediate these relationships, and their roles are greater for functioning loss and disability than for disease.
+
+Disease and Disability Onset
+
+As we noted earlier, investigations of onset of diseases and/or disability that link education and income before the health event are theoretically preferable for understanding the direction of causation. Because the HRS and AHEAD are longitudinal surveys, onset of the same diseases and disabilities can be investigated for those who have not had the disease prior to the initial interview. Smaller samples and fewer onset events result in fewer significant relationships than observed in analysis of prevalence. In Table 9-6 we link race/ethnicity and education and income at the first interview to whether a person has experienced onset of diseases or death during the interval between waves 1 and 2, approximately 2 years.
+
+Relative Risk of Disease Onset by Race/Ethnicity, Education, and Income.
+
+First we discuss the results for the younger sample. In the HRS sample, onset of all conditions is significantly related to education, with the exception of death. There is less likely to be any relationship with income in this analysis when the income precedes the onset of the disease: Higher income is linked to less heart disease and chronic lung disease. Higher onset rates for blacks are found for the same conditions observed to be higher in prevalence: stroke, diabetes, and hypertension. Blacks are also more likely to die. U.S.- and foreign-born Hispanics have higher levels of diabetes and hypertension onset, but the differences for the foreign born are not significant once controls for education are introduced. There are no onset conditions that are significantly more likely among whites. The observed difference between the prevalence and the onset results for whites would suggest that survival rates for some diseases differ across races. The onset rates could be the same for heart disease, cancer, and chronic lung disease, but whites may live longer after getting diseases, raising the prevalence of these conditions in the white population.
+
+Now we examine differentials in the older population. There are few significant relationships between disease onset and either indicator of SES or race/ethnicity in the AHEAD or older population. Older blacks are more likely to die before controls for SES are introduced into the equation. They are also more likely to acquire hypertension and less likely to experience onset of chronic lung disease. Stroke and death are more likely among those with low education; chronic lung disease onset is more frequent with low income.
+
+Among those aged 70 and over, onset of functioning problems—both physical and cognitive—is more likely among those with lower education, but neither is related to income (Table 9-7). Onset of ADL problems is greater for all racial/ethnic minority groups, although significantly so only for blacks. Onset of cognitive impairment is more frequent for all three racial/ethnic/nativity groups, although not significantly so for foreign-born Hispanics. With controls for education, the difference between U.S.-born Hispanics and non-Hispanic whites disappears.
+
+Relative Risk of Onset of Physical and Cognitive Functioning Problems.
+
+Finally, because we have argued that early life experiences are important to late life health, we examined the effect of father's education on the onset of disease and death in the HRS sample (data not shown). When father's education is included as a four-category variable similar to respondent's education, the results indicate that father's education is much less likely to be related to any of the health outcomes. When both own and father's education are included, there is little change in the effect of own education. This indicates that although it may be theoretically desirable, the inclusion of SES of family of origin adds little beyond own education and does not change the effect of own education.
+
+EFFECT OF SOCIOECONOMIC STATUS WITHIN ETHNIC GROUPS
+
+Next we examine the variability in disease and disability prevalence by SES within racial/ethnic group to determine whether the relationships between income and education are the same for all ethnic groups (Tables 9-8 and 9-9). The strongest socioeconomic effects are within the white group. Nearly every disease is significantly more prevalent among whites with low levels of education and income—again cancer is the major exception to this finding (Table 9-8). In general, education does not significantly relate to the prevalence of disease among blacks and Hispanics. There are some exceptions; blacks with lower education have more heart disease in AHEAD and more hypertension in the LSOA. Blacks with higher education report having had more cancer in the LSOA. Among Hispanics, low education is linked to less cancer in AHEAD and more arthritis in LSOA, and more education is linked to less diabetes in LSOA.
+
+Relative Risk of Prevalence of Disease by Education and Income Within Racial/Ethnic Group.
+
+Effect of Socioeconomic Status on Functioning Problems Within Racial/Ethnic Group.
+
+Frequently lower income is also linked to higher levels of disease among whites. This is usually true in the HRS sample, perhaps indicating reduced wages among those with diseases. Lower income is also linked to a significantly higher disease prevalence among blacks in the HRS sample for a number of diseases: hypertension, heart disease, and arthritis.
+
+In the models of functioning and disability, low SES is a strong predictor of all problems for whites. Generally, low education is linked to worse physical functioning among older blacks, and low income is related to a higher probability of functioning loss among older Hispanics in AHEAD (Table 9-9). The effect of being in the lowest education group increases the relative risk of cognitive impairment similarly in each of the racial/ethnic groups. Income is strongly related to disability in all groups in the HRS or older working-age sample.
+
+Our results have generally provided support that SES is inversely linked to most aspects of health. The links appear to be stronger before old age; stronger for indicators of functioning than for some diseases; and stronger for education than income.
+
+Socioeconomic status is related to almost all health outcomes. In the United States, people with less education have worse health outcomes. Relationships between education and health among older persons can be interpreted as evidence linking lifetime SES to subsequent health; the direction of causation for income and wealth differentials is less clear. At the older ages particularly, cross-sectional relationships between income and health are a combination of effects from SES to health and health to SES. The role of SES in producing poor health outcomes appears to be less at the older ages than at earlier ages. It is true that groups with different lifetime mortality will have been differentially selected for health as well as SES by old age.
+
+Socioeconomic status better predicts most aspects of health within the white population than within other racial/ethnic groups. If we examine differentials among African Americans and Hispanics, we find that the ability of socioeconomic status to explain differences within these groups is limited. The links in all ethnic groups appear to be greater for functioning loss and disability than for disease or mortality.
+
+Controls for socioeconomic status do little to eliminate some of the racial/ethnic health differences observed. Controlling for SES does more to reduce racial/ethnic differentials in functioning, both physical and cognitive, than in the major diseases that cause death and disability.
+
+Blacks and to some extent Hispanics report high levels of disease that can be characterized as vascular and metabolic. This survey evidence indicates that these are the diseases of focus for reducing adverse health differentials. Functioning loss or disability also is more common among older blacks and Hispanics. Cognitive impairment is significantly higher among both groups and appears highly affected by educational differences.
+
+Some of the observed differences in prevalence, such as higher levels of functioning loss and disability as well as lower levels of heart disease and cancer reported by blacks, may be related to differential likelihood of survival. Conditions that are not highly related to mortality are higher among minority groups and conditions that may benefit the most from treatment are lower in the same groups. This reinforces the need to have further information on racial differences in all aspects of health change and in severity of conditions.
+
+We Need Better Information on the Process by Which Health Differentials Arise
+
+This means more details on age and date of onset, severity of condition, treatment, and resolution. Data on ethnic differences that allow understanding of the process of health change in old age are sparse. Much of what we know comes from information on prevalence or mortality. Neither of these indicators inform about the process of health change and the disease stage at which differences occur. In an aging population that is living longer with more diseases, the group with the highest prevalence can be the group with the “best” health. We need to evaluate incidence rates and survival rates in order to interpret the meaning of both prevalence and mortality. Even for the large ethnic groups, very limited information is available on the process of disease onset, life with disease, and resolution of disease.
+
+We Need to Better Operationalize Our Theoretical Approach to Understanding Mechanisms Through Which SES Works
+
+Our theoretical understanding of the meaning of SES far exceeds our ability to measure it in a research setting. Much thought needs to be given to how to better incorporate our theoretical ideas of the source of SES health differences into ongoing research. We need to be able to incorporate reasonable measurement of variables that represent the broad range of social, psychological, and financial mechanisms believed to mediate SES effects on health. The sparse evidence we have indicates that social stresses and supports and psychological mechanisms that are related to SES seem to mediate SES differences in health outcomes. Health behaviors also influence health outcomes. Recent work by Singer and Ryff (1999) and Warner and Hayward (2002) represent two successful attempts to incorporate lifecycle circumstances into analyses of adult health outcomes.
+
+Greater Specificity of Health Problems Will Add to Our Understanding of Racial/Ethnic and Socioeconomic Differentials in Health
+
+All-cause mortality and general indicators of disability and self-rated health have limited ability to add to understanding the reasons behind differential health. Cause-specific analysis of the different dimensions of health begins to complete a picture of differentials. To reduce poor health outcomes for subgroups of the population, we need to better target the health problems of importance.
+
+Existing National Data Should Be Enhanced with Larger Samples of Some Ethnic Groups, More Information on Health Status That Is Not Influenced by Medical Contact or Cultural Differences, and More Information on Potential Mechanisms by Which Socioeconomic and Racial/Ethnic Differences Arise
+
+Understanding the Asian-American health advantage is as important as understanding the disadvantage of other groups. There are challenges to including the racial/ethnic differences in reporting and assessment of health problems, availability and use of medical care, and social and psychological behavior that have only had cursory attention.
+
+We Need to Evaluate the Potential for Current Data Collection Efforts to Provide Appropriate Samples That Reflect the Socioeconomic Distribution of Minority Groups
+
+Our largely geographic clustering approach to drawing samples may not provide representative samples of racial/ethnic groups of the population.
+
+Health Differentials Need to Be Addressed in a Lifecycle Context
+
+Differentials in the likelihood of reaching old age may be important in understanding differentials in old age.
+
+Abraido-Lanza AF, Dohrenwend BP, Ng-Mak DS, Turner JB. The Latino mortality paradox: A test of the “Salmon Bias” and healthy migrant hypotheses. American Journal of Public Health. 1999;89(10):1543–1548. [PMC free article: PMC1508801] [PubMed: 10511837]
+
+Adler N, Boyce T, Chesney M, Folkman S, Syme S. Socioeconomic inequalities in health: No easy solution. Journal of the American Medical Association. 1993;269(24):3140–3145. [PubMed: 8505817]
+
+Adler N, Boyce T, Chesney M, Cohen S, Folkman S, Kahn R, Syme L. Socioeconomic status and health: The challenge of the gradient. American Psychologist. 1994;49:15–24. [PubMed: 8122813]
+
+Anderson NB. Behavioral and sociocultural perspectives on ethnicity and health: Introduction to the special issue. Health Psychology. 1995;14:589–591. [PubMed: 8654336]
+
+Blackwell D, Hayward MD, Crimmins E. Does childhood health affect chronic morbidity in later life? Social Science and Medicine. 2001;52:1269–1284. [PubMed: 11281409]
+
+Crimmins E. Mortality and health in human life spans. Experimental Gerontology. 2001;36:885–897. [PubMed: 11295521]
+
+Crimmins E, Saito Y. Trends in healthy life expectancy in the United States, 1970-1990: Gender, racial, and educational differences. Social Science and Medicine. 2001;52:1629–1641. [PubMed: 11327137]
+
+Ettner SL, Crimmins EM. Economic measures in health surveys (Background paper). Bethesda, MD: National Institutes of Health; 2002.
+
+Feldman JJ, Makuc D, Kleinman JC, Coroni-Huntley J. National trends in educational differences in mortality. American Journal of Epidemiology. 1989;129:919–933. [PubMed: 2705434]
+
+Hardy MA, Pavalko EK. The internal structure of self-reported health measures among older male workers and retirees. Journal of Health and Social Behavior. 1986;27:346–357. [PubMed: 3559128]
+
+Hayward MD, Friedman S, Chen H. Race inequities in men's retirement. Journals of Gerontology—Series B: Psychological Sciences and Social Sciences. 1996;51B(1):S1–S10. [PubMed: 8548518]
+
+Hayward MD, Crimmins EM, Miles TP, Yu Y. The significance of socioeconomic status in explaining the racial gap in chronic health conditions. American Sociological Review. 2000;65:910–930.
+
+Herzog AR, Wallace RB. Measures of cognitive functioning in the AHEAD study [special issue] Journals of Gerontology—Series B: Psychological Sciences and Social Sciences. 1997;52B:37–48. [PubMed: 9215356]
+
+House JS, Kessler RC, Herzog AR. Age, socioeconomic status, and health. The Milbank Quarterly. 1990;68(3):383–411. [PubMed: 2266924]
+
+House JS, Lepkowski JM, Kinney AM, Mero RP, Kessler RC, Herzog AR. The social stratification of aging and health. Journal of Health and Social Behavior. 1994;35:213–234. [PubMed: 7983335]
+
+Hummer RA, Rogers RG, Eberstein IW. Sociodemographic differentials in adult mortality: A review of analytic approaches. Population Development Review. 1998;24:553–578.
+
+Juster T, Suzman R. Overview of the health and retirement study. Journal of Human Resources. 1995;30:S7–S56.
+
+Kaufman JS, Cooper RS. Seeking causal explanations in social epidemiology. American Journal of Epidemiology. 1999;150:113–120. [PubMed: 10412955]
+
+Kaufman JS, Cooper RS, McGee DL. Socioeconomic status and health in blacks and whites: The problem of residual confounding and the resiliency of race. Epidemiology. 1997;8:621–628. [PubMed: 9345660]
+
+Kington RS, Nickens HW. Racial and ethnic differences in health: Recent trends, current patterns, future directions. In: Smelser N, Wilson WJ, Mitchell F, editors. America becoming: Racial trends and their consequences. Washington, DC: National Academy Press; 2001. pp. 253–310.
+
+Kuh D, Davey-Smith G. The life course and adult chronic disease: An historical perspective with particular reference to coronary heart disease. In: Kuh D, Ben-Shlomo B, editors. A life course approach to chronic disease epidemiology. New York: Oxford University Press; 1997.
+
+Lauderdale DS. Education and survival: Cohort, period, and age effects. Demography. 2001;38:551–561. [PubMed: 11723951]
+
+Lauderdale DS, Kestenbaum B. Mortality rates of elderly Asian American populations based on Medicare and Social Security data. Demography. 2002;39:529–540. [PubMed: 12205756]
+
+Liao Y, Cooper RS, Cao G, Durazo-Arvizu R, Kaufman JS, Luke A, McGee DL. Mortality patterns among older Hispanics: Findings from the National Health Interview Survey (1986 to 1994). Journal of the American College of Cardiology. 1998;30:1200–1205. [PubMed: 9350915]
+
+Lillie-Blanton M, Parsons P, Gayle H, Dievler A. Racial differences in health: Not just black and white, but shades of gray. Annual Review of Public Health. 1996;17:411–448. [PubMed: 8724234]
+
+Link BG, Phelan J. Social conditions as fundamental causes of disease. Journal of Health and Social Behavior. 1995;36:80–94. [PubMed: 7560851]
+
+Lynch SM. Cohort and life course patterns in the education-health relationship: A hierarchical approach. Demography. 2003;40(2):309–331. [PubMed: 12846134]
+
+Manton KG. Changes in the age dependence of mortality and disability: Cohort and other determinants. Demography. 1997;34:135–157. [PubMed: 9074836]
+
+Marmot M. Social differentials in health within and between populations. Daedalus. 1994;123(4):197–216.
+
+Marmot M, Kogevinas M, Elston M. Social/economic status and disease. Annual Review of Public Health. 1987;8:111–135. [PubMed: 3555518]
+
+Marmot M, Ryff C, Bumpass L, Shipley M, Marks N. Social inequalities in health: Next question and converging evidence. Social Science and Medicine. 1997;44:901–910. [PubMed: 9080570]
+
+Marmot MG, Shipley MJ. Do socioeconomic differences in mortality persist after retirement? 25 year follow-up of civil servants from the first Whitehall study. British Medical Journal. 1996;313:1177–1180. [PMC free article: PMC2352486] [PubMed: 8916748]
+
+Oakes JM, Rossi PH. The measurement of SES in health research: Current practice and steps toward a new approach. Social Science and Medicine. 2003;56:769–784. [PubMed: 12560010]
+
+Pamuk E. Social class inequality in mortality from 1921 to 1972 in England and Wales. Population Studies. 1985;39:17–31. [PubMed: 11611750]
+
+Pappas G, Queen S, Hadden W, Fisher G. The increasing disparity in mortality between socioeconomic groups in the United States, 1960 and 1986. The New England Journal of Medicine. 1993;329:103–109. [PubMed: 8510686]
+
+Pincus T, Callahan LF. What explains the association between socioeconomic status and health: Primarily access to medical care or mind-body variables? Advances: Journal of Mind-Body Health. 1995;11:4–36.
+
+Pincus T, Callahan LF, Burkhauser R. More chronic diseases are reported more frequently by individuals with fewer than 12 years of formal education in the age 18-64 U.S. population. Journal of Chronic Diseases. 1987;40:865–874. [PubMed: 3597688]
+
+Preston S, Elo I. Are educational differentials in adult mortality increasing in the United States? Journal of Aging and Health. 1995;7:476–496. [PubMed: 10165966]
+
+Preston S, Taubman P. Socioeconomic differences in adult mortality and health status. In: Martin L, Preston S, editors. Demography of aging. Washington, DC: National Academy Press; 1994. pp. 279–318.
+
+Preston S, Hill ME, Drevenstedt G. Childhood conditions that predict survival to advanced ages among African-Americans. Social Science and Medicine. 1998;47:1231–1246. [PubMed: 9783866]
+
+Ribisi KM, Winkleby MA, Fortmann SP, Flora JA. The interplay of socioeconomic status and ethnicity on Hispanic and white men's cardiovascular disease risk and health communication patterns. Health Education Research. 1998;13:407–417. [PubMed: 10186451]
+
+Schoen R. Modeling multigroup populations. New York: Plenum Press; 1988.
+
+Seeman TE, Crimmins EM. Social environment effects on health and aging: Integrating epidemiological and demographic approaches and perspectives. Annals of the New York Academy of Sciences. 2001;954:88–117. [PubMed: 11797869]
+
+Shea D, Miles TP, Hayward MD. The health and wealth connection: Racial differences. The Gerontologist. 1996;36(3):342–349. [PubMed: 8682332]
+
+Singer B, Ryff C. Hierarchies of life histories. Annals of the New York Academy of Sciences. 1999;896:96–115. [PubMed: 10681891]
+
+Smith JP. Healthy bodies and thick wallets: The dual relation between health and economic status. Journal of Economic Perspectives. 1999;13:145–166. [PMC free article: PMC3697076] [PubMed: 15179962]
+
+Smith JP, Kington R. Demographic and economic correlates of health in old age. Demography. 1997;34:159–170. [PubMed: 9074837]
+
+U.S. Bureau of the Census. Educational attainment of people 25 years and over by nativity and period of entry, age, sex, race, and Hispanic origin. Washington, DC: Author; Mar, 2000.
+
+Verbrugge LM, Jette AM. The disablement process. Social Science and Medicine. 1994;38:1–14. [PubMed: 8146699]
+
+Warner DF, Hayward MD. Race disparities in men's mortality: The role of childhood social conditions in a process of cumulative disadvantage; Paper presented at the 2002 Annual Meeting of the Population Association of America; Atlanta. May, 2002.
+
+Williams DR. Socioeconomic differentials in health: A review and redirection. Social Psychology Quarterly. 1990;53(2):81–99.
+
+Williams DR, Collins C. U.S. socioeconomic and racial differences in health: Patterns and explanations. Annual Review of Sociology. 1995;21:349–386.
+
+Williams DR, Lavizzo-Mourey R, Warren RC. The concept of race and health status in America. Public Health Reports. 1994;109:26–41. [PMC free article: PMC1402239] [PubMed: 8303011]
+
+Winkleby MA, Jatulis DE, Frank E, Fortmann SP. Socioeconomic status and health: How education, income, and occupation contribute to risk factors for cardiovascular disease. American Journal of Public Health. 1992;82:816–20. [PMC free article: PMC1694190] [PubMed: 1585961]
+
+Winkleby MA, Kraemer HC, Ahn DK, Varady AN. Ethnic and socioeconomic differences in cardiovascular disease risk factors: Findings for women from the Third National Health and Nutrition Examination Survey, 1988-1994. Journal of the American Medical Association. 1998;280:356–362. [PubMed: 9686553]
+
+Copyright © 2004, National Academy of Sciences.
+
+Bookshelf ID: NBK25526
+
+National Research Council (US) Panel on Race, Ethnicity, and Health in Later Life; Anderson NB, Bulatao RA, Cohen B, editors. Critical Perspectives on Racial and Ethnic Differences in Health in Late Life. Washington (DC): National Academies Press (US); 2004. 9, Race/Ethnicity, Socioeconomic Status, and Health.
+
+PDF version of this title (9.9M)
+
+CONCEPTIONS OF SOCIOECONOMIC STATUS
+
+MECHANISMS THROUGH WHICH SES WORKS TO AFFECT HEALTH
+
+CONCEPTIONS OF HEALTH AND THEIR RELATIONSHIP TO SOCIOECONOMIC STATUS AND RACE/ETHNICITY
+
+SOCIOECONOMIC STATUS, AGE, AND HEALTH
+
+HOW DOES SOCIOECONOMIC STATUS VARY BY RACE/ETHNIC GROUPS IN MAJOR HEALTH SURVEYS?
+
+SOCIOECONOMIC AND RACIAL/ETHNIC DIFFERENCES IN HEALTH
+
+EFFECT OF SOCIOECONOMIC STATUS WITHIN ETHNIC GROUPS
+
+Other titles in this collection
+
+The National Academies Collection: Reports funded by National Institutes of Health
+
+PubMed Central citations
+
+ClearTurn OffTurn On
+
+Race/Ethnicity, Socioeconomic Status, and Health - Critical Perspectives on Raci...
+
+Race/Ethnicity, Socioeconomic Status, and Health - Critical Perspectives on Racial and Ethnic Differences in Health in Late Life
+
+Your browsing activity is empty.
+
+Activity recording is turned off.
+
+Turn recording back onSee more...
+
+National Library of Medicine 8600 Rockville Pike Bethesda, MD 20894
+
+Web Policies FOIA HHS Vulnerability Disclosure
+
+Help Accessibility Careers

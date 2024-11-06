@@ -1,0 +1,279 @@
+Browse Definitions :
+
+Marketing and customer experience
+
+Tech Accelerator What is generative AI? Everything you need to know
+
+Prev Next 19 of the best large language models in 2024 7 generative AI challenges that businesses should consider
+
+Download this guide1
+
+Free Download What is generative AI? Everything you need to know
+
+The potential of AI technology has been percolating in the background for years. But when ChatGPT, the AI chatbot, began grabbing headlines in early 2023, it put generative AI in the spotlight. This guide is your go-to manual for generative AI, covering its benefits, limits, use cases, prospects and much more.
+
+Pros and cons of AI-generated content
+
+Artificial intelligence is growing rapidly in the tech sector and assisting with various tasks such as creating images and generating content. However, it cannot do everything.
+
+Share this item with your network:
+
+Amanda Hetler, Senior Editor
+
+Published: 08 Jul 2024
+
+AI-generated content is becoming popular, but many people wonder how to use it and if it truly sounds authentic.
+
+AI is growing rapidly in the tech sector, including supply chain, food industry, chatbot, and content and image generation use cases. AI-generated images made the news when critics claimed AI art systems were stealing people's intellectual property on large models, such OpenAI's Dall-E.
+
+OpenAI introduced a similar AI program for content known as ChatGPT. This bot serves a more general purpose and offers an open prompt for users to ask questions, give a command or ask for an observation. The bot answers both broad and specific questions. The system generated answers that professors and other educators said were extensive enough to receive a good grade. However, after further review, some sources -- such as Stack Overflow for coders and developers -- said the information was incorrect and temporarily banned answers using this system. Since there are no limits to the answers ChatGPT can give, a user was even allowed to search how to make explosives and shoplift.
+
+Businesses are looking at AI tools to help with content creation and copywriting. The same question is being posed as to whether AI will take the place of content writers. While AI-generated content might not be suitable for all copywriting, there are some great ways to use these tools.
+
+What is AI-generated content?
+
+AI-generated content includes copy such as blogs, marketing materials, articles and product descriptions written by a machine. The AI content creator generates the content after a person inputs information such as keywords, phrases and topics.
+
+This article is part of
+
+What is generative AI? Everything you need to know
+
+Which also includes:
+
+8 top generative AI tool categories for 2024
+
+Will AI replace jobs? 17 job types that might be affected
+
+19 of the best large language models in 2024
+
+AI-generated content can help speed up the writing process, and businesses are starting to take notice. Marketers might consider using AI-generated content for automating the content marketing process -- which can, at times, be time-consuming and expensive.
+
+How does AI-generated content work?
+
+To produce content, users enter the text format needed, along with a topic and keywords. The AI tool then searches the internet and pieces together copy fitting the requested format. Some tools also rewrite a company's existing content to add information based on web searches and editing tools. These tools can take this existing content and rework it to fit other communication formats, such as turning a blog article into a social media post or email draft.
+
+There are free content generators available, but others charge for more in-depth content.
+
+What are the pros of AI-generated content?
+
+AI-generated content can be valuable in several ways. Here are some of the pros.
+
+Efficiency and scalability
+
+AI can create content much faster than people, which is probably the biggest benefit. An AI tool can produce an article in minutes. It would take a human writer much longer to do all the research and write it.
+
+Multiply the quick turnaround by the number of articles, and an AI tool can produce a significant amount of content.
+
+AI also helps with language localization for various geographic areas and can create social media, personalizing this content for various sites.
+
+Hiring quality content writers typically costs a few hundred dollars per project, often depending on article length, the number of pieces and the needed technical knowledge. And this could prove to be money well spent if it results in high-quality, well-researched content.
+
+Some AI writing tools are free, while others charge a monthly subscription rate. The pricing typically runs about $100 for tens of thousands of words.
+
+Given these considerations, AI-generated content might be better suited for simpler content than articles needing expertise and authority.
+
+AI content generators scroll through thousands of online documents to absorb information. In viewing all these documents, generators choose keywords to improve search engine optimization (SEO). The AI tool can suggest keywords for the content writer. By using these keyword suggestions throughout an article, the content appears higher in search engine rankings if it follows the rest of the guidelines of being authoritative and is written by a person.
+
+Help with writer's block
+
+Writer's block is a common hurdle for many people. At times, writers might have trouble creating authoritative content for a subject they know little about.
+
+To help overcome this hurdle, AI tools can create detailed outlines and key points to help the writer determine what should be included in the article. These suggestions from AI tools can help the user overcome writer's block and spark the ideas needed to get started.
+
+What are the cons of AI-generated content?
+
+There are several considerations when it comes to using AI-generated content. Some content is best written by a human writer. Here are some cons of AI-generated content.
+
+Quality concerns and possible plagiarism
+
+AI relies on data and algorithms for content. AI tools can cover black-and white-areas of a topic, but gray areas are more subjective and the intended tone can get lost.
+
+Search engines might also flag content because it is similar to published materials, as the AI pulls from the same sources. The AI tools piece content together from various sites and reword them. Without adding the proper flow, this process goes against Google's "stitching and combining content" guidelines. Content needs to be authoritative and informative, which can be hard to do when piecing information together from various sites without proper human review.
+
+Algorithms devalue content
+
+Google released its helpful content update in August 2022 to punish content created for the purpose of ranking higher in search engine results.
+
+In March 2024, Google once again rolled out an update to improve some of its content ranking systems. The update is intended to help users decide if webpages aren't useful, provide a poor user experience or seem like they prioritize keywords over being informative to the reader.
+
+Lack of creativity and personalization
+
+Creative content makes articles more engaging. People tend to share articles they feel a connection to, but AI does not have the emotional intelligence to create a story. Its focus is generally directed toward adding facts to an outline.
+
+AI relies on existing web content and data to develop wording. The technology does not understand user intent for queries and still lacks the common sense of human behavior.
+
+Human editing still required
+
+People still need to read through AI-generated content. Although AI might save time, humans must continue to review articles for quality.
+
+AI tools combine information from several websites into one piece. There might be some mix-ups to fix, such as product descriptions with textures and colors. This is generally because AI tools do not understand adjective meanings.
+
+Can't generate new ideas
+
+AI tools use existing data for content, so this means they cannot come up with fresh ideas. AI tools make it hard to come up with new content covering the latest trending ideas and topics.
+
+Ways to use AI-generated content
+
+AI-generated content is best used as a writing assistant instead of a way to rely strictly on the technology. Here are some ways to use AI tools for assistance with content:
+
+Research. For writers having issues organizing a topic or coming up with ideas, AI-generated content can help them get started. Some tools give ideas about what to include for broader topics to help narrow down the research process.
+
+Proofread current material. To make sure a drafted article is optimized, writers can run it through AI tools for a grade. The tool can also highlight keywords and phrases that should be used. AI tools can further assist with checking grammar and correcting spelling mistakes.
+
+Write short content. AI tools can produce a lot of content in a short amount of time, so they are a great way to reduce boredom with repetitive tasks. While some communications require more of an emotional side, some short descriptions do not. Product descriptions, metatags, ad copy and social media posts are examples of short text suitable for content generators.
+
+Translate language. For written material to appeal to all audiences, AI generators can help translate content into different languages.
+
+Create templates. AI tools can help create emails or other templates. Some AI tools offer different types of ready-made templates for users to plug in customized information.
+
+Example of AI-generated content
+
+There are many AI content generators available. Here is an example of how content generation works using a program called CopyAI:
+
+Select style of writing from the left side.
+
+A screenshot of the CopyAI content generator with information from creating an article.
+
+A couple options pop up for text. Here is the AI-generated content from the information entered. This was the first option meant to imitate the information in this article:
+
+AI is an amazing technology that has the potential to change our world and how we live in it. But like any new technology, there are pros and cons to AI-generated content -- and businesses need to be aware of both before deciding whether or not to use it.
+
+1) AI-generated content saves time and money for businesses by allowing them to produce more content with fewer resources.
+
+2) It allows businesses to create highly personalized content for each customer, which leads to happier customers.
+
+3) AI-generated content makes sure that all information is correct, which helps prevent expensive lawsuits or bad press if something goes wrong with your business's operations (e.g., if you send out an email with incorrect information).
+
+Now, let's talk about some of the cons:
+
+1) AI-generated content can sound unnatural (like it was written by a robot), which can make customers feel uncomfortable or distrustful of your business. It doesn't matter how much effort you put into making sure that everything is correct if the end result sounds robotic!
+
+2) If someone finds out that they've been reading an AI-generated piece of content instead.
+
+Much of the information included in this TechTarget article is outlined in the AI-generated content above. However, the AI content is not particularly comprehensive or conversational -- even when selecting a friendly tone. This TechTarget article goes into greater detail for explanations and provides examples. The AI-generated content seems to be more of an outline and needs additional information to flow like a human-written article.
+
+How to detect AI-generated content
+
+There is a larger concern with AI-generated content: students using these tools to cheat. Several professors and teachers stated that the AI-generated content on ChatGPT created convincing essays.
+
+To help distinguish between human and AI text, OpenAI launched a new AI text classifier on Jan. 31, 2023. However, in July 2023, the company pulled the text classifier due to low accuracy. There are other online tools to help detect AI-generated content by classifying how likely it was written by a person versus AI. These resources include Originality.ai, Writing.com and Copyleaks.
+
+OpenAI is also working on creating a watermark for longer AI-generated text as an immediate identifier.
+
+In addition to running text through an online AI-content detector, there are a few other signs that content is AI-generated, such as the following:
+
+Lack of typos. Human writing often has typos and contains slang terms. AI-generated content rarely has typos such as grammar mistakes or misspellings.
+
+Overuse of "the." AI-generated content is based on predictive language by determining which word should be next, so it commonly uses words such as "the," "it" or "is" instead of more unusual terms.
+
+No cited sources. AI-generated text will often give facts and not cite the sources.
+
+Shorter sentences. AI content sentence length is typically shorter because it is trying to mimic human writing but often appears choppier.
+
+Repetition of words or phrases. If certain words or phrases are used abundantly, this could be a sign of AI-generated content because it is trying to fill space with relevant keywords.
+
+Lack of analysis. AI can collect data but cannot analyze it. If an article feels full of facts without any insight, it might be AI-generated.
+
+Editor's note: This article was updated in July 2024 to improve the reader experience.
+
+Amanda Hetler is a senior editor and writer for WhatIs where she writes technology explainer articles and works with freelancers.
+
+Generative AI landscape: Potential future trends
+
+Top generative AI benefits for business
+
+Assessing different types of generative AI applications
+
+Generative AI challenges that businesses should consider
+
+Successful generative AI examples worth noting
+
+RevOps: Your Missing Puzzle Piece to Hypergrowth –Webinar
+
+RevOps: Your missing puzzle piece to hypergrowth –Webinar
+
+Forrester TEI study of Equinix Digital Services –Webinar
+
+Large Language Models (LLMs) for the Enterprise" ChatGPT and Beyond –Webinar
+
+Dig Deeper on Marketing and customer experience
+
+Will AI replace technical writers? One user's experience
+
+6 steps in fact-checking AI-generated content
+
+By: Cameron Hashemi-Pour
+
+Perplexity AI revenue share model appeases publishers
+
+How to detect AI-generated content
+
+Power Your Generative AI Initiatives With High-Performance, Reliable, ... –Dell Technologies and Intel
+
+What to Look for in a Server Vendor in 2024 –Dell Technologies and Intel
+
+A Generative AI Use Case Brought to Life with Solutions from Dell Technologies –Dell Technologies and Intel
+
+Top 4 SEO marketing challenges for 2023 – Content Management
+
+A look at writers' battle to get AI vendors to pay ... – Enterprise AI
+
+Artificial intelligence content writing ramps up ... – Enterprise AI
+
+What is asynchronous?
+
+In general, asynchronous -- from Greek asyn- ('not with/together') and chronos ('time') -- describes objects or events not ...
+
+What is a URL (Uniform Resource Locator)?
+
+A URL (Uniform Resource Locator) is a unique identifier used to locate a resource on the internet.
+
+File Transfer Protocol (FTP) is a network protocol for transmitting files between computers over TCP/IP connections.
+
+What is email spam and how to fight it?
+
+Email spam, also known as 'junk email,' refers to unsolicited email messages, usually sent in bulk to a large list of recipients....
+
+What is threat detection and response (TDR)? Complete guide
+
+Threat detection and response (TDR) is the process of recognizing potential cyberthreats and reacting to them before harm can be ...
+
+What is network detection and response (NDR)?
+
+Network detection and response (NDR) technology continuously scrutinizes network traffic to identify suspicious activity and ...
+
+What are leadership skills?
+
+Leadership skills are the strengths and abilities individuals demonstrate that help to oversee processes, guide initiatives and ...
+
+What is an entrepreneur (entrepreneurship)?
+
+An entrepreneur is an individual who identifies a need in the marketplace and works to fulfill it.
+
+What is an IT service catalog?
+
+An IT service catalog is a list of information technology resources and offerings available from the IT service provider within ...
+
+What is employee self-service (ESS)?
+
+Employee self-service (ESS) is a widely used human resources technology that enables employees to perform many job-related ...
+
+What is DEI? Diversity, equity and inclusion explained
+
+Diversity, equity and inclusion is a term used to describe policies and programs that promote the representation and ...
+
+What is payroll software?
+
+Payroll software automates the process of paying salaried, hourly and contingent employees.
+
+What is a customer effort score (CES)?
+
+Customer effort score (CES) is a system for evaluating how much effort is required on the part of a customer to achieve ...
+
+What is a sales funnel? Everything you need to know
+
+A sales funnel, also called a 'purchase funnel,' is the visual representation of the customer journey, depicting the sales ...
+
+What is Salesforce Einstein 1?
+
+Salesforce Einstein 1 refers to an integrated set of artificial intelligence (AI) and machine learning (ML) technologies ...

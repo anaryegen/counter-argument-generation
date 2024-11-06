@@ -1,0 +1,441 @@
+Report | Unions and Labor Standards
+
+The Decline and Resurgence of the U.S. Auto Industry
+
+Report • By Joel Cutcher-Gershenfeld, Dan Brooks, and Martin Mulloy • May 6, 2015
+
+Introduction and executive summary
+
+Over the past 30 years the U.S. auto industry has faced multiple existential crises, illustrating both the cost of lost opportunities and the power of innovation as the archetypical industrial enterprise adapts to a post-industrial knowledge economy.
+
+Most policymakers and outside observers still make simplistic assumptions about labor and management in the auto industry, assuming, for example, that the industry’s problems can be alleviated just by reducing labor costs and relaxing union work rules. In contrast, the overarching goal of this report is to present a series of windows into the industry that convey its complexity, and that make clear the limitations of simplistic assumptions about labor and management. In particular, this paper aims to develop a deeper appreciation of the industry’s problems and of the sources of resilience in the industry, which include management leadership, union partnership, and front-line workforce teamwork.
+
+A more holistic understanding of the industry is important since its footprint accounts for an estimated one in every 22 U.S. jobs—and because the lessons are relevant to other industries facing transformational challenges. To increase understanding and appreciation of the strategic dynamics facing the industry, we offer a comparison of the industry’s responses to two major recessions (the early 1980s recession and the Great Recession); a look at the relationship between productivity and compensation; a specific focus on labor costs and work rules; an examination of the geography of the industry, including the role of what are termed “transplants” (foreign-owned assembly and supplier facilities); and a consideration of how new technologies and systems to achieve quality and efficiency improvements are challenging core operating assumptions.
+
+A number of themes emerge:
+
+The U.S. auto industry has been revitalized in recent years through a commitment to quality, innovative production and management techniques, a constructive relationship between management and labor, and improved relations with suppliers.
+
+As an example of the industry’s recent success, Ford enjoyed profits of $6.2 billion in 2011, $7.2 billion in 2012, $8.3 billion in 2013, and $6.9 billion in 2014. As a result, the company’s workers received profit sharing checks of $6,200 for 2011, $8,300 for 2012, $8,800 for 2013, and $6,900 for 2014.
+
+The United Automobile Workers union (UAW)—which represents autoworkers at the Big Three U.S. car manufacturers (Ford, General Motors, and Fiat/Chrysler)—is a constructive partner in the U.S. auto industry’s resurgence.
+
+The UAW is transitioning from a union that primarily threatens to withhold labor to one that primarily enables work. This is evident in the expertise the union now brings to discussions of quality, safety, predictive and preventative maintenance, workforce development, team-based operations, and other such topics.
+
+In the face of increased market volatility, the UAW and the auto industry have in recent decades embraced work rules that allow for more modular and more flexible forms of production. Two decades ago, it would have been considered an important accomplishment to have two or three products built on the same platform and the same assembly line. Today, there are a number of plants that can produce as many as six distinct products on the same assembly line—allowing for much more flexible responses to variation in product demand.
+
+The UAW has also played a constructive role in ensuring the financial viability of the Big Three.
+
+For example, the union agreed to a lower entry wage in 2007 of $14.20 (approximately 60 percent of the regular production starting hourly wage) for up to 20 percent of the workforce; after this threshold was reached, workers would receive the higher regular wage.
+
+Additionally, in 2007 the UAW agreed to the establishment of separate Voluntary Employee Benefit Association (VEBA) agreements with each of the Big Three manufacturers. These independent entities, funded to take on responsibility for retiree health care, helped to dramatically reduce automakers’ liability for health benefits, and provided retirees with much greater assurances of continuity of benefits than if they had relied on companies that might declare bankruptcy.
+
+As a result of concessions made on the part of the UAW, the gap in wages and compensation (wages plus benefits) between the Big Three and transplants has fallen dramatically in recent years.
+
+In 2005, there was a gap of $3.62 between the average hourly wage of $27.41 at Ford and $23.79 for the transplants. When fringe benefits, legally required payments, pension benefits, retiree health care, and other post-employment labor costs are added in, the gap grew to $20.55 ($64.88 versus $44.33).
+
+In 2010, following the 2007 introduction of the entry wage, the 2007 creation of VEBA agreements, and concessions made during the 2009 government bailout, the wage gap stood at $4 ($28 for Ford versus $24 for the transplants), and the gap when including fringe benefits and post-employment costs stood at $6 ($58 for Ford versus $52 for the transplants).
+
+The domestic auto industry’s commitment to helping displaced workers adjust to the post-industrial economy should serve as a model to other industries.
+
+For example, following the auto industry’s most recent crisis, Ford did not make a single involuntary layoff. Instead, all 50,000 workers who lost their jobs did so through voluntary separation packages. There were at least 14 distinct packages, ranging from special early retirement programs, to lump-sum separations offering $100,000 and six months of health care coverage, to a non-retirement-eligible educational opportunity program providing four years of college tuition (up to $15,000 a year) as well as half salary and full benefits for four years.
+
+These and other comparable programs far exceeded what most displaced workers experienced during the recent recession. The impact on individuals, families, and communities was far less severe than it would have been otherwise.
+
+As a result of globalization and the growing presence of transplants, the geography of the U.S. auto industry is shifting from the upper Midwest to the entire central corridor of the country. This has implications for the politics around trade agreements, employment practices in transplants, and other matters.
+
+The upcoming collective bargaining negotiations are pivotal to the U.S. auto industry. As the domestic industry prepares for 2015 collective bargaining, a full appreciation of the complexity of the industry’s technical and social dynamics is necessary in order to contextualize issues such as domestic job creation, the entry wage, and new technology.
+
+The 2003 national negotiations between UAW and Ford were not, in most respects, pivotal. Embedded in the negotiations, however, were two signals of the transformational change that is a focus of this report.
+
+Most of the 2003 negotiations involved traditional bargaining, continuing a longstanding practice of trading incremental gains in wages and benefits for labor peace and union/worker participation in joint programs on safety, quality, work-life balance, and other matters. The two transformational signals were largely invisible to policymakers and the general public.
+
+First, the quality subcommittee (one of over 20 subcommittees in the negotiations) utilized an interest-based, problem-solving approach to bargaining and generated an innovative agreement to have hourly workers designated as Quality Operating System Coordinators (QOSCs) in key areas of all the plants, taking responsibility for driving standardized work processes and joining with team leaders to generate continuous improvement suggestions from work teams. This harnessing of front-line knowledge in the early 2000s was pivotal to Ford’s progress from near last in quality to best-in-class by 2010.
+
+Second, the union proposed that hourly workers also be allowed to earn what is termed a “black belt” in lean/Six Sigma principles. Earning a black belt involves completing required coursework in statistical process control and related matters, as well as leading a major process improvement project through the stages of Define, Measure, Analyze, Improve, and Control (DMAIC), typically generating savings of hundreds of thousands of dollars up to a million dollars. Ford’s vice president of quality at the time could not conceive how an hourly worker could lead a change initiative on this scale, which would have entailed directing the work of the associated engineers and managers. The proposal was rejected.
+
+Fast forward to 2008, when the results of front-line engagement were increasingly evident. Even with 50,000 workers taking severance packages to depart from the company during the downturn, quality made year-over-year improvements. The UAW again raised the idea of hourly black belts, and this time Ford leadership agreed to support an initial cohort of 35 hourly workers entering training to earn a lean/Six Sigma black belt.
+
+Armentha Young is a UAW member in the Dearborn Truck Plant and a QOSC who was part of the first graduating class of black belts in 2010. Reflecting on the two years of training for this first cohort of trainees, she said:
+
+No longer were we management and employee, we were team members pursuing the same goal. This experience doesn’t eliminate the notion of salaried versus hourly, but for me personally it demonstrated how much more we as an organization can achieve when titles, classifications, and separation aren’t the central focus. (Cutcher-Gershenfeld, Brooks, and Mulloy 2015, 147)
+
+Back on the job, she describes the impact of the training:
+
+I am able to problem solve [and] coach team leaders. It is not just the statistical part; it is the basic DMAIC process for scoping problems and getting to root causes.
+
+Young further comments on the role of front-line knowledge:
+
+Company successes are not just due to the minds of the people at the top who are being paid all the money, but the minds of people at the bottom. This is not a false empowerment but truly and genuinely acknowledging that we have each chosen our part of the job and both are part of success. . . . People are loyal to the company—there has to be respect and loyalty because we are all giving our best and it doesn’t matter where you are in the structure.
+
+In reflecting on the experience, she adds that there are still cultural barriers in the minds of some:
+
+Black belt training has empowered me. People in management do respect you more. Some didn’t believe a person without a statistics background could pass. When I did pass, some begrudgingly shook my hand. You could see it in their faces: they were amazed. I thought, “You’ve got to be kidding me.” They were, like, “Oh my god, she passed and did it on the first time.”
+
+The comment is a little insulting—there are plenty of people who could do this. People have skills that managers don’t know anything about. One should never be comfortable making an assumption about another person’s skill set or talents simply by their classification, association with a group, or a particular organization and/or appearance. (Cutcher-Gershenfeld, Brooks, and Mulloy 2015, 53)
+
+As is evident from this last quote, despite considerable progress in valuing the distributed knowledge of the full workforce, there were still deeply embedded assumptions that had not fully changed. At the same time, the very existence of hourly employees with black belts speaks of many deeply embedded assumptions that have changed.
+
+We share this story for three reasons. First, it is illustrative of a long-term transformation that has delivered results and changed lives. The QOSCs and black belts are just two of many pivotal examples that break from common stereotypes about the auto industry.
+
+Second, it highlights the auto industry’s capacity for resurgence. When Congress and the Obama administration were debating a bailout of the auto industry, it was seen as troubled in ways comparable to the financial sector. Industry leaders were berated for flying corporate jets to testify before Congress (Wutkoski 2008). The congressional representatives’ questions revealed just how little they knew about this industry and the roles of labor and management in working to transform quality, safety, and other operational aspects. Unlike the financial sector, the auto industry in 2007–2008 (when the congressional hearings were taking place) was already well along on a transformational journey. By 2008, for example, the quality gains at Ford had translated into a reported savings of $1.2 billion in warranty costs (Kavanagh 2008). An improvement of this magnitude does not happen easily or quickly; it is the product of constancy of purpose over many years in product design and manufacturing.
+
+During the brief time that Cerberus, a venture capital firm, owned Chrysler it became very clear that running an auto company required deep expertise that was not easily acquired. Consider that a typical car will have as many as 10,000 components with an assembly process involving the coordinated efforts of over 4,000 workers. Tolerances of thousandths of an inch are required for quality standards, and if the assembly line doesn’t run due to a threat to quality or something not going as planned, it can cost a company as much as $15,000 a minute. The heartbeat of an auto assembly plant is measured in the plant producing approximately one new car a minute.
+
+The challenge for the auto industry when the congressional hearings were taking place was not figuring out how to improve—that was clear, and improvements were underway. It was the cash-flow implications of the short-term unprecedented collapse in the consumer market. Ford lost over $12 billion in 2006 as it adjusted to declining sales and lost market share, for example. Working with the UAW, Ford met that challenge and is now a national leader in job creation, generating an estimated 18,000 new jobs in the United States since the recession, including jobs that had been slated for Mexico. Overall, Goolsbee and Krueger (2015) document that motor vehicles and parts manufacturing accounted for an estimated increase of 256,000 jobs between June 2009 and July 2014. This represents 6 percent of the nation’s growth in jobs, even though this industry only accounts for 2 percent of total employment. Ford enjoyed profits of $6.2 billion in 2011, $7.2 billion in 2012, $8.3 billion in 2013, and $6.9 billion in 2014 (even with substantial investments in new products, such as the new fuel efficient, aluminum body F150 truck). Moreover, workers received profit sharing checks of $6,200 for 2011, $8,300 for 2012, $8,800 for 2013, and $6,900 for 2014 (each paid in the first quarter of the next year). General Motors workers received profit sharing payouts of $4,300 for 2011, $6,750 for 2012, $7,500 for 2013, and $9,000 for 2014 (again, each paid in the first quarter of the next year) based on profits of $7.6 billion for 2011, $4.9 billion for 2012, $3.8 billion for 2013, and $200 million for 2014. Although there is variability in profit sharing payouts, in the last four years autoworkers have received far larger payouts than have most U.S. workers.
+
+As former chairs of the Council of Economic Advisers during the industry crisis, Goolsbee and Krueger (2015) report being surprised by the industry’s resurgence, commenting, “We are both pleased and a bit surprised by how well the past five years have played out for the domestic auto industry.” These authors go on to conclude, “We are both thrilled and relieved with the result: the automakers got back on their feet, which helped the recovery of the U.S. economy. Indeed, the automakers outsize contribution to the economic recovery has been one of the unexpected consequences of government intervention.” These authors capture well the uncertainty felt in government during the tumult of the recession, but as we indicate in this report, a deep knowledge of the inner workings of the industry suggests that the capacity for resurgence was much stronger than many assumed. Also, while government intervention was essential for the industry’s recovery, also key were continuous improvement processes, organizational restructuring, and collective bargaining agreements that preceded the crisis.
+
+A third motivation for sharing the QOSC and lean/Six Sigma black belt story is that it illustrates the constructive role of the union. Many viewed the UAW as part of the problem, citing what they saw as inflexible wages and restrictive work rules. For example, U.S. Senator Bob Corker (R-Tenn.) criticized the UAW, stating that “it’s about confrontation, it’s about fighting,” adding, “[t]here’s no question that the UAW has had a negative impact on the big three automakers” (DePillis 2014). In fact, the union was a key driving force behind innovations such as the Quality Operating System Coordinators and the lean/Six Sigma black belts. The union also agreed to far-ranging work rule changes at various times before 2007 (including the negotiation of over 30 competitive operating agreements at Ford plants in 2006, generating estimated efficiency improvements of over $500 million). Additionally, the union agreed to a lower entry wage in 2007 for up to 20 percent of the workforce, after which workers would receive the higher regular wage. As is discussed more fully below, the 2007 establishment of a Voluntary Employee Benefit Association (VEBA), funded to take on responsibility for retiree health care, helped reduce the gap in compensation (wages and benefits) between the Big Three automakers and transplants from approximately $35 per hour to $6 per hour.1 By the time the industry was asked to testify before Congress in November 2008, the president of the UAW had clear evidence to indicate that labor was highly responsive to the economic challenges facing the industry and engaged in full partnership to enable industry success.
+
+This report features material from a forthcoming book titled Inside the Ford-UAW Transformation: Pivotal Events in Valuing Work and Delivering Results (Cutcher-Gershenfeld, Brooks, and Mulloy 2015), which presents a total of 56 pivotal events over 30 years that add up to a transformation in the Ford–UAW relationship.2 This does represent an orientation in the report toward the one company that didn’t take a government bailout, but many of the Ford–UAW pivots have counterparts at GM and Chrysler that are important to understanding their part in the industry’s resurgence. In addition to drawing on material from the Ford–UAW book, this report also incorporates material from other sources with the overarching aim of presenting a series of windows into the industry that conveys its complexity. A combination of qualitative and quantitative data is featured to provide a visceral and comprehensive sense of the industry and its challenges. Not all the pivots described in the Ford–UAW book or in the industry more broadly were successful. There were certainly strategic choices in the 1980s and 1990s that, in retrospect, were ill-advised, and there are still pivotal challenges ahead.
+
+It has been argued that a transformation in employment relations requires aligned changes at the strategic level, the collective bargaining or institutional level, and the front-line workplace level (Kochan, Katz, and McKersie 1986). In the domestic auto industry and particularly in the Ford–UAW case, we find evidence of transformational change at all three levels, though it is still incomplete, and there are many threats to progress. Thus, the aim of this paper is to make clear the limitations of simplistic assumptions about labor and management, pointing instead to a deep appreciation for the sources of resilience in an industry whose extended footprint accounts for an estimated 4.5 percent of U.S. employment, or one of every 22 U.S. jobs.3
+
+The balance of the paper proceeds as follows. It begins with a comparison of the auto industry’s response to the 1979–1982 and 2006–2009 crises to illuminate how the industry copes with adversity, and to demonstrate how it has remade itself in response to the most recent crisis. The paper then takes a detailed look at labor costs and work rules to dispel some of the most persistent myths surrounding the auto industry. Next, it examines a number of factors shaping U.S. automakers, including the arrival of transplants, the shifting geography of the industry, and evolving supplier relations. Finally, the paper details how the industry has been transformed by the shift to knowledge-driven work, the spread of lean/Six Sigma systems, and the development of new technologies.
+
+A historical comparison: The 1979–1982 and 2006–2009 crises
+
+For the auto industry, the 1979–1982 period was as cataclysmic as the recession that, for automakers, began in 2006. Putting the two crisis periods side-by-side helps illustrate how the industry copes with adversity, and is instructive about how both labor and management take into account the public interest to a much greater degree than almost any other industry.
+
+The logic of placing the two recessions side-by-side is evident in Figure A, which indicates that both represent the most precipitous declines in auto sales in the past half century.4
+
+Seasonally adjusted lightweight U.S. vehicle sales (millions of units)
+
+Source: Reproduced from Goolsbee and Krueger (2015)
+
+Share on Facebook Tweet this chart Embed
+
+Copy the code below to embed this chart on your website. Download image
+
+While a combination of monetary policy and global energy issues drove the recession of the early 1980s, the auto industry felt the impact in early 1979, as Automotive News recalls:
+
+Auto sales were off to a rousing start in 1979. Sales of domestic vehicles in the first 10 days of the year were up 23 percent. Then all hell broke loose. On Jan. 16, 1979, the Shah of Iran was overthrown, and the Ayatollah Khomeini came to power. He cut Iran’s oil production, which reduced shipments of crude oil to the United States. Gasoline prices soared, and the American economy plunged into a recession. (Sawyers 2013)
+
+Subsequently, sales of the more fuel-efficient Japanese cars took off. Sales for Toyota, Datsun (now Nissan), and Honda—the three top-selling Japanese brands—rose from 1.1 million in 1978 to 1.4 million in 1982, a 29 percent increase. Indeed, in 1982, Japan surpassed the United States, even if only briefly, as the world’s largest producer of cars and trucks. At Ford, the situation was eerily similar to the late 2000s recession. Ford’s car sales dropped 47 percent, from 2.5 million in 1978 to 1.4 million in 1982. The company had already lost $1.5 billion in 1980 and $1.0 billion in 1981 (equivalent to $4.6 billion and $2.7 billion, respectively, in 2014 dollars), with hourly employment dropping by 46 percent (approximately 100,000 jobs) during the same period (Cutcher-Gershenfeld, Brooks, and Mulloy 2015, 27).
+
+In an unprecedented move, contract negotiations between the UAW and the U.S. companies were opened six months early, and the automakers demanded and achieved an end to what was termed the Annual Improvement Factor (AIF). For over three decades prior, autoworkers received an annual wage increase of 3 percent (separate from additional inflation-based cost-of-living increases). The 3 percent year-over-year increase in base wages corresponded to a 3 percent year-over-year increase in productivity during that same period. This formula was adopted to varying degrees by other major U.S. industries and played a central role in building the U.S. middle class.
+
+The next section of the paper will focus more fully on the implications of breaking from this pattern. First, however, it is instructive to highlight another joint UAW–automaker response to the recession: effective efforts to retrain displaced workers. All three major auto manufacturers established joint training funds, initially supported at the rate of 5 cents for each hour worked by union members and later expanded to 10 cents and higher amounts, with additional premiums for overtime hours. The joint funds required both union and management signatures before money could be spent and were targeted at establishing retraining programs with community colleges and other service providers. Remarkably, within approximately two years over 90 percent of the laid-off autoworkers had been placed in new jobs (Ferman et al. 1991). This commitment to invest in workers who would most likely never work in the auto industry again cushioned the impact of the recession on individuals, families, and communities.
+
+In addition to breaking from the Annual Improvement Factor and establishing joint training funds, the UAW–Ford contract in particular was notable for the launch of what were termed Mutual Growth Forums. The principle of “mutual growth” preserved the spirit of the AIF, linking worker prosperity with business development, and recognized the need for a regular forum for dialogue between labor and management on these matters. We will return to all three developments in the context of the 2007–2009 recession.
+
+The late 2000s recession followed more than four decades of declining market share, as is indicated in Figure B.
+
+Percent of total U.S. auto industry market share, by automaker, 1961–2014
+
+ChartData Download data
+
+The data below can be saved or copied directly into Excel.
+
+The data underlying the figure.
+
+Source: WardsAuto (various years)
+
+Share on Facebook Tweet this chart Embed
+
+Copy the code below to embed this chart on your website. Download image
+
+By the end of the 1990s it was clear that the U.S. domestic manufacturers lagged competitors on quality, and Toyota in particular benefited with the fastest growth in market share. In the 2000s, however, the story is one of increasing recognition of the need for transformation in the domestic auto industry—and, in the case of Ford, clear progress in halting the decline.
+
+Before the full impact of a transformation was realized, the entire auto market collapsed in the most recent recession. The seasonally adjusted annual sales (SAAR) of cars and trucks dropped from a projection of more than 17 million vehicles at the beginning of 2006 to under 11 million in 2008. During 2006–2007, the hourly workforce at Ford was reduced from over 90,000 to approximately 40,000. These developments made the headlines. What was not as visible was the adjustment process, which paralleled and even went beyond what had happened in the early 1980s.
+
+There was again concession bargaining, resulting in 2007 in the establishment of a new $14.20 entry wage that was approximately 60 percent of the regular production starting hourly wage. Importantly—unlike two-tier wage systems in other settings—once 20 percent of the workforce was entry wage, the first employees hired would move up to the full wage. Instead of unilaterally cutting retiree health care, which happened in many non-union firms, each of the domestic original equipment manufacturers (OEMs) negotiated with the UAW their own separate Voluntary Employee Benefit Associations (VEBAs). (The term “OEM” refers to the companies designing and building the vehicles, in contrast to what are termed first-, second-, and third-tier suppliers.) The collective Overall Post-Employment Benefit (OPEB) liability of the three companies totaled $115 billion. In total the companies contributed approximately $70 billion in cash and stock to fund the retiree health care benefits. With the stroke of a pen, the VEBA, an independent entity controlled by a board with a majority of non-UAW directors, became one of the nation’s largest providers of health care benefits, and the members had much greater assurances of continuity of benefits than if they had relied on companies that might go into bankruptcy.
+
+As was the case in the early 1980s, all three auto companies went far beyond nearly all other U.S. firms in their efforts to cushion the downsizing’s impact on employees. Ford went the furthest—there was not one single involuntary layoff. Instead, all 50,000 workers who lost their jobs did so through voluntary separation packages. There were at least 14 distinct packages, ranging from a special early retirement program offering $100,000 and six months of health care coverage to a non-retirement-eligible educational opportunity program providing four years of college tuition (up to $15,000 a year), half salary, and full benefits for four years. Needless to say, these and other comparable programs far exceeded what most displaced workers experienced during the recent recession. The impact on individuals, families, and communities was far less severe than it would have been otherwise. Reflecting on the experience, current Ford CEO Mark Fields (and then president of the Americas, covering North and South American operations) observed:
+
+We went through a huge transformation. . . . We had to say goodbye to almost 50 percent of the hourly workforce and almost 40 percent of the salaried workforce. The key thing about the transformation is that we did not miss a unit of production during this time and quality went up. (Cutcher-Gershenfeld, Brooks, and Mulloy 2015, 74)
+
+From this comparison of the responses of labor and management in the early 1980s recession and the most recent recession, it is clear that the values of the union and of the employers combined to generate outcomes that mitigated the harm to workers, their families, and their communities. The original concept of a corporate charter was a social contract in which organizational leaders were indemnified from lawsuits in exchange for contributing to what was termed the commonweal (by providing employment, supplier purchases, and tax revenue that would contribute to the effective functioning of the economy and society). The mitigation of the impact of the recession on workers, families, and communities reflects attention to the public interest in keeping with the spirit of this fundamental social contract. We also see that the union was not intransigent—there was a capacity to adjust wages and benefits to the new competitive realities, but it was a negotiated process of adjustment rather than a unilateral cut. Finally, we see that there were tangible benefits in cost and quality that are still evident today. These benefits are part of a business case for the industry’s constructive response to the downturn. It would be interesting to know the degree to which leaders in other industries fully explored such options, as compared with just replicating common practices such as involuntary layoffs with limited assistance or severance payments.5
+
+The rate of change in productivity and wages
+
+In 1950 UAW President Walter Reuther led the negotiation of what has come to be called the “Treaty of Detroit” with General Motors, which was followed by similar agreements with Ford and Chrysler. This five-year agreement introduced cost-of-living adjustments to wages, the concept of an actuarially sound pension plan, a no-strike provision during the term of the agreement, reserved management rights to run the business, and a link between wages and productivity (termed the Annual Improvement Factor). In many respects, the legacy of this agreement still shapes labor–management relations in the auto industry.
+
+The impact of the “Treaty of Detroit” is evident in Figure C, which depicts the rate of change in nationwide productivity, overall hourly wages, overall hourly wages and benefits, and hourly wages among Ford assembly workers (which are similar to those of their GM and Chrysler counterparts).
+
+Cumulative percent change in U.S. productivity, U.S. hourly wages and compensation, and Ford assembly line worker hourly wages, 1947–2013
+
+U.S. hourly compensation (wages, health care, and pensions)
+
+Net productivity growth
+
+Ford assembly worker hourly wage (with COLA and profit sharing)
+
+ChartData Download data
+
+The data below can be saved or copied directly into Excel.
+
+The data underlying the figure.
+
+Source: Adapted from Cutcher-Gershenfeld, Brooks, and Mulloy (2015)
+
+Share on Facebook Tweet this chart Embed
+
+Copy the code below to embed this chart on your website. Download image
+
+In the U.S. economy, for the three decades following World War II, wage growth matched the rate of change in productivity. The combined increase in productivity and purchasing power fueled a remarkable period of economic growth in the United States. However, by the early 1970s, the rate of change in wages had begun to go flat. To some extent this was mitigated by continued growth in benefits (health care and pensions are indicated in the figure), though combined compensation (wages and benefits) was also flattening out by the early 1980s. Though it is not represented on this chart, household income continued to grow as second wage earners (women) entered the workforce, though the rate of change in household income went flat by the 1990s. At this point most households did not have a third wage earner able to enter the workforce, and this marked the beginning of the stagnation in purchasing power that contributed to the recent recession.
+
+Compensation for Ford assembly workers displays much greater variability since adjustments are generally made through three-year cycles of collective bargaining (with some longer-term agreements). The more recent addition of profit sharing has smoothed out some of the variability, but the main story is that the rate of change in auto industry wages continued to track the rate of change in productivity for two additional decades after the break from the AIF formula. It was not until the 2000s that the rate of change went flat in this industry.
+
+There are already indications that stagnant hourly wages will be an issue in the auto industry’s 2015 negotiations. There are also indications that efforts will be made to connect this issue with executive compensation. These are complex issues, and some aspects of them are beyond the scope of labor negotiations. Even issues that are within the scope will be challenging to resolve. For example, the entry wage has directly led to job growth among U.S. automakers that was either slated for suppliers or for other countries, such as Mexico. As noted previously, an estimated 18,000 new jobs have been created within Ford through new work and additional shifts in a number of domestic plants. As such, the issues surrounding pay become intertwined with issues pertaining to job creation.
+
+Ultimately, the challenge facing the auto industry, the U.S. economy, and the global economy more broadly is finding a way to ensure a continued linkage between pay and productivity—so that purchasing power continues to keep pace with the generation of products and services.
+
+Myths and realities regarding labor costs and work rules
+
+Two often-misunderstood facets of the U.S. auto industry are labor costs and work rules. While these issues are often at the core of criticisms of the U.S. auto industry, they are not the stagnant drag on the industry that they are typically seen to be. Moreover, there are other competitive factors—such as product mix, product quality, supply chain performance, and enterprise business strategy—that are far more important to the fortunes of the industry.
+
+The role of labor costs and work rules
+
+Direct labor costs (for hourly and salaried workers) represent approximately 18–20 percent of the total costs of an automotive enterprise (with hourly workers accounting for approximately half that amount). Most of the total costs are associated with purchased parts, energy, research and design, warranty, overhead, and other factors. Indeed, Helper and MacDuffie (2008) place the cost of purchased parts at 70 percent of total costs. Additionally, work rule flexibility has been increasing through pilot experiments since the introduction of the mutual growth forums in 1982, with major gains over the last decade-and-a-half as the industry has moved more systematically to team-based work systems.
+
+Far more consequential than labor costs or work rules are strategic choices, such as Ford’s decision to purchase new brands in the 1990s and early 2000s (Volvo, Land Rover, Jaguar, Aston Martin) and to undertake share buybacks, rather than reinvesting in domestic operations. In 2006, as the market was collapsing, Ford allowed the UAW to select a financial expert to conduct a detailed review of the business so that there would be full transparency on the extent of the crisis the company faced. This individual, Eric Perkins, who would later be named research director for the UAW, recalls the briefings to the union membership he provided based on his findings:
+
+I told the membership that the company was in terrible shape. They should prepare for the worst. There were flexible body shops only running one product. Money had been wasted on share buybacks and special dividends, rather than investment in new products. Purchased component costs (two-thirds of vehicle costs) were roughly $2,000 higher for Ford than for Toyota and maybe a thousand higher than they were at GM on equivalent vehicles, primarily because of lousy volume predictions at the time of product approval.
+
+There was too much complexity in the design. Their time to market was two to three years longer than the Japanese and one year longer than GM. Ford had generated many innovative products such as the Explorer and the Expedition, but the success covered up underlying problems. Further, most of the Big 3 market share loss since 2001 had been at Ford, and this included the very profitable products such as Explorers, Expeditions, and even pickups—product segments Ford had once dominated. I said this company is on the verge of bankruptcy and they needed to make a radical transformation. Purchasing and design accounted for more of the problem than labor. I said that though we were only 20 percent of the problem, every penny counted. Many UAW members owned stock and identified with Ford. People thought of themselves as working for a great company—so it was a difficult message to deliver. (Cutcher-Gershenfeld, Brooks, and Mulloy 2015, 43)
+
+As the quote indicates, business strategy is much more salient to the fortunes of the industry than labor costs or work rules. Yet in 2008, the Wall Street Journal still laid all the problems of the industry on the doorstep of employee benefits and UAW work rules, writing in a December 1 editorial:
+
+Consider labor costs. Take-home wages at the U.S. car makers average $28.42 an hour, according to the Center for Automotive Research. That’s on par with $26 at Toyota, $24 at Honda and $21 at Hyundai. But include benefits, and the picture changes. Hourly labor costs are $44.20 on average for the non-Detroit producers, in line with most manufacturing jobs, but are $73.21 for Detroit.
+
+This $29 cost gap reflects the way Big Three management and unions have conspired to make themselves uncompetitive – increasingly so as their market share has collapsed. . . .
+
+The absence of the UAW also gives [transplant] car producers the flexibility to deploy employees as needed. Work rules vary across company and plant, but foreign rules are generally less restrictive. At Detroit’s plants, electricians or mechanics tend to perform certain narrow tasks and often sit idle. That rarely happens outside Michigan. In the nonunionized plants, temporary workers can also be hired, and let go, as market conditions dictate.
+
+The editorial did point to some UAW locations—such as the GM–Toyota New United Motors, Inc., joint venture in Fremont, California (NUMMI)—as exceptions, but it failed to take into account the VEBA negotiated in 2007 and the progress with team-based work systems that preceded the collapse of the market and that continued even in the face of the departure of approximately half of the workforce. Moreover, the legacy pension and health care costs were not the product of what the Wall Street Journal editorial termed “a conspiracy to be uncompetitive.” Instead, they were the product of business success and a determination to share the gains across multiple generations of the workforce.
+
+The evolution of fringe benefits
+
+The health care and pension benefits provided by U.S. automakers are an important mechanism for broadly sharing companies’ prosperity, and for ensuring that the automakers uphold their end of the social contract. The provision of what became termed “fringe benefits” emerged during World War II under the National War Labor Board as an alternative to wage increases, which were constrained by national wage and price controls.6 Following the war, in the 1950s, the UAW pressed unsuccessfully for national health care legislation. The company-provided health benefits represented what the union saw as an acceptable but less-preferred alternative, which began with active worker coverage and was later extended to retirees.
+
+At various times when national health care arrangements have been debated in the United States, the domestic auto companies have been largely silent, but privately supportive of policies that would level the playing field vis-à-vis foreign competitors by lowering the companies’ benefit costs. Indeed, a 2003 New York Times articled indicated that Ford Chairman and CEO William Clay Ford Jr. “said that a national health care system, in some form, could help level the playing field with Japanese and European competitors based in countries with national health systems” (Hakim 2003). His comments were partly in response to a criticism of the domestic auto companies as “H.M.O.s on wheels.” Because the domestic firms didn’t have to cover health care costs in Canada, for example, this provided a cost advantage for some production to be shifted to Canada at various times during the past four decades.
+
+When transplant facilities arrived in the United States they also offered company-provided health benefits for active workers, but did not initially have retirement-eligible workers for whom pension or health care benefits would be needed. In addition, some have shifted from defined benefit to defined contribution 401(k) pension plans, and some have eliminated retiree healthcare benefits. Note, however, that BMW in South Carolina does still have a defined benefit pension plan, and others do contribute cash into the defined contribution plans. Perhaps a more significant factor is the use of temporary workers, with lower wages and lower benefit costs. For example, as much as 20 percent of the Toyota workforce is made up of temporary workers.
+
+The evolution of work rules
+
+Cost issues loom large in the daily operations of all auto plants. Most plants operate with what are termed “labor and overhead” budgets in which hourly and salaried labor accounts for around 80 percent of the operating budget (since purchased parts, warranty, research and development, and other costs are not considered “within the four walls” of a plant budget). Thus, for a plant manager, labor costs are a major portion of the budget they manage—particularly since each year these managers are faced with a cost-cutting “task” to be accomplished through efficiencies and reduced head count. The primary method of meeting the task is through efficiency improvements. Thus, work rules have historically been contested terrain—where management has an incentive to speed up operations and workers have an incentive to avoid work intensification. The rise of team-based work systems and continuous improvement tools and methods (discussed more fully below) has helped to shift a historically contentious issue into an area of mutual growth.
+
+In the face of increased market volatility, there has been mutual interest in developing work rules that allow for more modular and more flexible forms of production.7 Two decades ago, it would have been considered an important accomplishment to have two or three products built on the same platform and the same assembly line. Today, there are a number of plants that can produce as many as six distinct products on the same assembly line—allowing for much more flexible responses to variation in product demand (without as many complications due to established physical infrastructure). This has, of course, required increased flexibility within teams for training and work assignments, which the UAW has supported. In recent years, there have also been experiments with different forms of skilled trades teams, including what is termed “line-side deployment” (having various trades stationed on the side of the production line rather than in a separate tool room). Ford’s Powertrain Plant of the Future initiative is an example of the substantial increases in uptime that can result from these models (Cutcher-Gershenfeld, Brooks, and Mulloy 2015, 151).
+
+Further, the volatility of the markets means that labor costs can be highly consequential during a downturn. This goes beyond work rules. Given the large fixed capital investment, a major drop in volume quickly erodes any profit margins and requires attention to the two primary variable costs—labor (hourly and salaried) and purchased parts. There are penalties in both cases to a reduction in spending, so the adjustments are costly. With suppliers, the purchase agreements are premised on predicted volumes, with additional costs imposed when those volumes are not achieved (and often with shared savings when gains exceed what was anticipated in the contract). With the workforce, the original assurances of job security in exchange for contributions to continuous improvement (discussed further in a later section) have been relaxed, but the mutual commitment to cushioning the blow for displaced workers is a cost, albeit one that benefits the rest of society.
+
+The role of collective bargaining
+
+What is perhaps most important in understanding labor costs and union work rules is that both are a product of collective bargaining. Agreements are reached through the give and take of negotiations. Historically, auto negotiations are highly structured events, involving hundreds of union and management representatives serving on 20 or more subcommittees addressing issues such as quality, safety, sourcing, and other matters. Overall agreements on wages and benefits are made at the “main table,” which is also where the work in the subcommittees is reviewed and final agreements are reached. Importantly, the auto industry provides a vivid example of how this highly structured process can adjust in a crisis.
+
+In the 2007 UAW–Ford negotiations, the parties engaged in a “bargaining over how to bargain” process in which they redesigned the way they negotiated to emphasize problem solving (Cutcher-Gershenfeld 2011). For each subcommittee a multistep process was developed that included the following steps:
+
+Developing a shared vision for success
+
+Jointly collecting data
+
+Analyzing underlying interests
+
+Brainstorming options
+
+Identifying potential language/elements of agreements (as appropriate)
+
+Anticipating implementation, including recommended communication and training
+
+With periodic calibration at the main table, this process guided negotiators in developing a shared vision for success on their subcommittee topic. It also provided them with data, an analysis of underlying interests, and a brainstorming of options before the actual negotiations began. While the bargaining at General Motors and Chrysler was not restructured to the same degree, the 2007 negotiations with these companies were also characterized by a high degree of problem solving. As noted earlier, the 2007 negotiations generated the establishment of a VEBA that was funded to take over responsibility for retiree health care. The VEBA took an enormous liability off the U.S. auto companies’ books. Along with improvements in vehicle margins, reduced warranty costs, and other developments, the impact on Ford is evident in Figure D, which shows that the company’s credit rating began improving at the actual launch of the VEBA in 2010 and, by 2013, had moved back into the investment-grade range.
+
+Standard and Poor’s issuer rating for the Ford Motor Company, 2000–2013
+
+Source: Reproduced from Cutcher-Gershenfeld, Brooks, and Mulloy (2015)
+
+Share on Facebook Tweet this chart Embed
+
+Copy the code below to embed this chart on your website. Download image
+
+This is just one example of labor and management using collective bargaining to reach agreements with transformative impact, not just to make incremental adjustments in wages, benefits, and working conditions.
+
+Factors shaping the industry in recent decades: Transplants, shifting geography, and supplier relations
+
+In the last two decades, the U.S. auto industry has been shaped by globalization and the associated arrival of transplants. These forces have caused the geography of the U.S. auto industry to undergo a dramatic transformation. They have also had important effects on the wages and benefits of the domestic auto manufacturers and on their supply chains.
+
+The arrival of transplants and shifting industry geography
+
+The 1994 North American Free Trade Agreement (NAFTA) accelerated the growth of auto component production and auto assembly plants in Mexico (and to some degree, Canada). Political and market pressure on Japanese and European (and later, Korean) manufacturers to reduce imports to the United States has led to a rising number of “transplants” supplying auto components and assembling autos.
+
+Initially, the transplants operated in the Midwest, including assembly plants in Illinois (Mitsubishi), Michigan (Mazda), Ohio (Honda), and Pennsylvania (Volkswagen), along with California (Toyota’s joint venture with General Motors, now a Tesla facility). More recently, however, the growth has been in Southern states, including assembly plants in Alabama (Honda, Hyundai, and Mercedes-Benz), Georgia (Kia), Kentucky (Toyota), Mississippi (Nissan and Toyota), South Carolina (BMW and Mercedes-Benz), Tennessee (Nissan and Volkswagen), and Texas (Toyota). In Mexico there are current and planned assembly operations for Audi, BMW, Chrysler/Fiat, Ford, General Motors, Honda, Kia, Mercedes-Benz, Nissan, Porsche, Peugeot, Renault, and Volkswagen. In Canada, there are assembly plants for Chrysler/Fiat, Ford, General Motors, Honda, Suzuki (a joint venture with General Motors), and Toyota—a much smaller mix of manufacturers compared with Mexico.
+
+In addition to the transplant assembly plants, there are a large number of transplant suppliers. Even though Ford did not seek the same bailout as did General Motors and Chrysler, it fully supported government intervention since a failure of either of its major competitors would have had devastating impacts on the supply chain, which would have affected all firms (even the transplants). (Indeed, scholars have seen the government intervention as a de facto regional industrial policy on the part of the U.S. government [Klier and Rubenstein 2011]).
+
+As a result of these trends, the geography of the auto industry is no longer nearly as concentrated in the Midwest as it once was. The trend for overall motor vehicle manufacturing employment (original equipment manufacturers and parts suppliers) is presented in Figure E (which was developed with a focus on Tennessee, a state that has been in the public spotlight due to intense political opposition to a UAW organizing drive at the Volkswagen plant in Chattanooga). As Figure E illustrates, the greatest growth has been in Mexico, with the greatest loss of employment in the Midwest, the United States outside of the South and the Midwest, and Canada.
+
+North American motor vehicle manufacturing employment, by country and U.S. region, 1994–2012
+
+Source: Reproduced from Brookings Institution (2013)
+
+Share on Facebook Tweet this chart Embed
+
+Copy the code below to embed this chart on your website. Download image
+
+Against these larger geographic trends it is noteworthy that the 2007, 2009, and 2011 negotiations all involved dialogue and agreements about jobs to be maintained in the United States. In some cases, jobs targeted for Mexico were instead located in domestic plants. Thus, although the direction of the trends is clear, the trends are not immutable.
+
+Transplants’ effects on the Big Three’s wages and benefits
+
+The arrival of the transplants has resulted in a gap between the compensation of the domestic manufacturers and that of transplants, as nearly all transplants are non-union and located in lower-wage locations—undermining the original goal of the UAW to take wages out of competition. The gap is not just a product of lower base wages, but is also due to the absence of retiree pension and retiree healthcare costs for the newer organizations. In 2005, there was a gap of $3.62 between the average hourly wage of $27.41 at Ford and $23.79 for the transplants. When fringe benefits, legally required payments, pension benefits, retiree health care, and other post-employment labor costs are added in, the gap grew to $20.55 ($64.88 versus $44.33).
+
+During the government bailout negotiations in 2009, the U.S. government pressured the UAW to agree to what it termed competitive wages, competitive benefits, and competitive work rules, and to convert 50 percent of the VEBA to equity. Although the union did agree to a temporary shift in compensation from an annual wage increase to annual lump sums (among other adjustments), it was able to forestall deeper cuts. In 2010, following the 2007 introduction of the entry wage and concessions made during the 2009 government bailout, the wage gap stood at $4 ($28 for Ford versus $24 for the transplants), and the gap when including fringe benefits and post-employment costs stood at $6 ($58 for Ford versus $52 for the transplants). In retrospect, given the current profitability of the industry, it is clear that deeper wage cuts were not needed to enable the industry’s recovery. In this case, the collective bargaining process generated sufficient concessions to survive the crisis, but preserved what are considered good middle-class jobs to a much greater degree than would have occurred through unilateral action by management or government.
+
+The gap in post-retirement costs between the domestic manufacturers and the transplants is closing due to the VEBA, joint healthcare initiatives between the UAW and the domestic manufacturers, and rising costs for the transplants. Among the transplants, four (BMW, Honda, Subaru, and Toyota) provide PPO health care through age 65 with varying degrees of premium sharing (Honda is at 100 percent versus Toyota at 50 percent, for example). These companies also make contributions to healthcare retirement accounts (HRAs) based on service. Nissan offers an account-based health plan with premium sharing up to age 65, but has cut off the HRA for those hired after 2006 (presumably due to concerns with rising costs). Others (Hyundai, Kia, Mercedes, and Volkswagen) do not offer any post-retirement healthcare coverage. In this context, the VEBA is a competitive advantage in that it allows the UAW-represented workforce to have high quality healthcare coverage in retirement without imposing additional costs on the balance sheets of the domestic manufacturers.
+
+Shifts in supply chains
+
+The larger trends related to transplants and shifting industry geography obscure a number of additional shifts in the supply chains. First, in the late 1990s and early 2000s, there was a move by all three of the major U.S. original equipment manufacturers to outsource many aspects of component design to suppliers. This was seen as a cost-saving move, with the companies focusing on what they termed their “core” business. This strategy proved problematic, however, as key knowledge within the OEMs on the component designs dissipated, reducing the ability to oversee the work. As costs and warranty issues with component parts began to mount, the OEMs have begun to bring more engineering and design work in-house.
+
+Moreover, there has been a major shift in the way the domestic auto industry interacts with suppliers. Historically, the Big Three would pit suppliers against one another in competitive bidding processes and approach ongoing relations from a low-trust, high-control perspective. Annual surveys by Planning Perspectives, Inc. calculate a Working Relations Index, based on a supplier’s rankings of its automaker customers. As shown in Figure F, from 2002 to 2008, on a scale from 0 to 500 (where 0–250 indicates poor supplier relations and 350–500 indicates very good supplier relations), the range of scores for Toyota was 314 to 415, and the range for Honda was 297 to 384. In contrast, the range for GM was 114 to 174, Ford’s range was 157 to 191, and Chrysler’s range was 161 to 218. As Figure F indicates, however, the story since 2008 has been one of overall improvement by all three domestic manufacturers, as well as some decline among the major transplant manufacturers.
+
+Original equipment manufacturer–supplier working relations index, by automaker, 2002–2014
+
+Source: Reproduced from Planning Perspectives (2014)
+
+Share on Facebook Tweet this chart Embed
+
+Copy the code below to embed this chart on your website. Download image
+
+Changing the underlying approach to supplier relations is just one aspect of a broader set of cultural shifts happening in the auto industry. As is discussed more fully in the following section, these are rooted in the rise of knowledge-driven work systems that employ lean/Six Sigma principles, and in the impact of new technologies. Front-line hourly workers responsible for quality, for example, are increasingly expanding the scope of their work to include supplier visits and even technical assistance with suppliers on the use of quality-focused operating procedures. In the more dynamic marketplace, the interdependencies among manufacturers and suppliers are growing.
+
+With the increased importance of digital technology in cars there are new challenges in the supply chain. Key technology suppliers, such as Microsoft and Google, are not well-attuned to a business context where the reboot of a computer or a need for a software upgrade counts as one “thing gone wrong” in the J.D. Power quality standards. Thus, bringing new technology features to the customer, such as GM’s OnStar and Ford’s Sync, has contributed to a reversal in quality performance since 2010. Of course, maintaining constancy of purpose with regard to quality—both at the OEMs and among all the suppliers (not just the technology suppliers)—is a never-ending challenge for the industry.
+
+Knowledge-driven work, lean/Six Sigma systems, and new technology
+
+To understand the auto industry in the 21st century, it is crucial to consider how new technologies and systems to achieve quality and efficiency improvements are challenging the industry’s core operating assumptions.
+
+The auto industry is the archetypical industry of the industrial revolution. In some of the social sciences, the mass production model is still referred to as “Fordism.” Interestingly, the rise of lean principles (such as just-in-time delivery of parts, value stream mapping, continuous improvement suggestion systems, preventative and predictive maintenance, and error proofing) also has roots in the auto industry, building on the Toyota production system. What is not widely appreciated, however, is the degree to which lean principles have a deeply embedded operating assumption centered on the value of distributed knowledge across the workforce (Murman et al. 2002; Cutcher-Gershenfeld et al. 1998). Organizations that just try to apply lean production tools, but that don’t wrestle with this core assumption, will have limited success. While the Six Sigma principles (such as reducing variance before improving a system, identifying performance relative to “opportunities” for errors, and process-improvement projects) emerged first at Motorola and then were popularized at GE (both outside of the auto industry), they have come to be integrated with lean principles and depend equally on valuing distributed knowledge.
+
+The quotes in the prologue illustrate just how difficult it is to shift operating assumptions about front-line knowledge. The first pivotal event in shifting these assumptions involved the combination of an embrace of what was termed “employee involvement” and the mutual growth forums, both of which emerged in the late 1970s and early 1980s. At the time, there was an understanding that an increased degree of job security was needed in exchange for a commitment from the workforce to share ideas about improving efficiency.
+
+The initial focus on employee involvement was aimed not at improving companies’ bottom lines, but at addressing what were termed “blue collar blues”—worker alienation on the job. The publication of the book The Machine That Changed the World in 1991 brought the features of the Toyota Production System and what the authors and associated researchers termed “lean production” to a broad audience (Roos, Womack, and Jones 1991; Krafcik 1986). Within the U.S. auto industry the first exposure to these principles, such as at the GM–Toyota New United Motor Manufacturing, Inc. (NUMMI) joint venture, resulted in more piecemeal rather than systematic learning on the part of the U.S. manufacturers. This was ironic since the lean production systems involve deeply integrated organizational learning principles. Still, the results from the NUMMI case could not simply be dismissed. As Paul Adler (1992) notes from his analysis of the case:
+
+The NUMMI case presents a number of particularly interesting features. First, the plant’s design and operating philosophy were a very close copy of Toyota’s Takaoka plant in Japan. Kamata (1983) had given a harrowing account of his experience of exploitation and alienation as a temporary worker at Toyota City. Observers have thus been eager to learn how U.S. workers would respond to the intense discipline for which Toyota is renowned. Second, 85% of the workers hired by the new company were former employees of the GM-Fremont facility that NUMMI took over, and the United Auto Workers (UAW) continued to represent them. The GM-Fremont plant had an abysmal record of productivity, quality and labor strife. When it closed in 1982, there were over 700 outstanding grievances, and absenteeism was running at approximately 25%. Its productivity and quality were among the worst in the whole GM system. . .
+
+Within two years of start-up, the new plant had become the most productive auto assembly plant in the U.S. and the quality of the plant’s principal product, the Nova, was ranked by consumers and internal GM audits in the highest category among domestic and foreign cars. Moreover, worker morale seemed high: in the first four years of operation, only some 30 grievances had been filed, of which only three had gone to arbitration; absenteeism averaged 2.5%; personnel turnover averaged between 6% and 8%; and over 70% of the workers annually participated in the suggestion program, contributing on average approximately 6 suggestions per employee. Over the more recent years, the plant has sustained these exceptional levels of business and personnel management performance.
+
+The domestic auto firms have varied in the speed with which they have learned the lessons from the Toyota production system, particularly from the adapted version in the U.S. context at NUMMI. We document a number of false starts in the Ford–UAW case, and others have documented the same dynamics in the GM–UAW case (Rubinstein and Kochan 2001). Even though the learning could have been faster, particularly during the 1990s when the lessons were increasingly clear, important progress has been made throughout the 2000s. Today, lean and closely related Six Sigma principles are pervasive in the industry. A key lesson from our analysis of the Ford–UAW transformation is that these principles challenged deeply embedded operating assumptions.8 Surfacing operating assumptions is hard to do; changing them is even harder.
+
+Certain operating assumptions pertaining to management evolved to incorporate lean and Six Sigma principles. For example, the assumption that quality and safety should be driven by inspection shifted to the assumption that they should be driven by prevention. Shifting that assumption required increased communication and coordination between new product development and manufacturing (based on “design for assembly” and related principles), training of leaders and workers in a non-blaming approach to tracking and learning from “near misses,” and countless other changes in quality and safety operating procedures. A similar set of changes in operating assumptions involved setting aside the approach dating back to Frederick Taylor (1914) that put the design of work and the larger enterprise in the hands of expert engineers and managers, substituting instead the assumption of quality expert W. Edwards Deming (1986) that it was important to “[p]ut everybody in the company to work to accomplish the transformation. The transformation is everybody’s job.” At its root, this is a shift from what Douglas McGregor (1960) termed a “Theory X” assumption that people need to be monitored and controlled on the job, to a “Theory Y” assumption that people want to do a good job, and the focus should be on providing them with the tools and resources to do the best job they can.
+
+For the UAW, the shift in operating assumptions is still ongoing and no less central to its operations. Historically, unions have derived power from the threat of withholding labor. However, there is a shift underway whereby the UAW is learning to derive power by enabling work (Cutcher-Gershenfeld, Brooks, and Mulloy 2015, 335). This is evident in the expertise the union now brings to discussions of quality, safety, predictive and preventative maintenance, workforce development, team-based operations, and other such topics. This is challenging internally for the union—it is a highly centralized organization and, like management, it has had to increase its appreciation for distributed front-line expertise, and demonstrate flexibility in response to this diffusion of expertise. This is most evident with the individuals who are in what are termed “appointed roles” (rather than elected roles) in local unions. Appointees are designated to oversee quality, safety, training, and other such domains, as well as to fill roles such as Six Sigma black belts. As these individuals become subject matter experts, they must still honor and respect the primacy of the elected leaders—that is the heart of the union’s identity—but their knowledge must also be given weight in ways that change how a local or international union operates. At the root of this shift is an expansion of the domains in which the union is able to respond in a “pull” fashion, using distributed knowledge to advance the interests of its members. Other service organizations are facing similar challenges to their operating assumptions, whether in health care, human services, or other related domains.
+
+Some changes in operating assumptions were not as widely documented in the management literature, but were also pivotal. In the Ford–UAW case, these included a shift in the safety operating system from focusing equally on all safety incidents, to a special focus on what were termed “low frequency, high consequence events.” These include lacerations, amputations, and, in a few instances, deaths. Labor and management learned that the practices required for preventing the low frequency, high consequence events were not the same as for other aspects of safety prevention. Similarly, a number of changes in operating assumptions about training and development were needed. Instead of assuming that training should be provided by trainers through formal training events with a comprehensive curriculum, the assumption shifted to organizing training around single-point lessons delivered when needed by supervisors with access to instructor guides—an assumption of leaders as teachers and learning being delivered on a “pull” basis rather than a “push” basis (Cutcher-Gershenfeld, Brooks, and Mulloy 2015, 298).
+
+Even less visible within management was a shift in operating assumptions about the handling of bad news. Traditionally, leaders in the Ford culture assumed that problems within their domain were their responsibility to solve. As such, problems with a new product launch, for example, would only be shared with other leaders if it was evident that they could not be contained and resolved. When Alan Mulally joined Ford as CEO, he sought to change this assumption through weekly Business Plan Review (BPR) meetings for all managers, with Special Attention Review (SAR) sessions to follow up on problems that were identified. For the first few months of these meetings, the managers were careful to only present status reports that were color-coded as “green” or “yellow,” with no one daring to break the norm of handling problems internally by putting up a status of “red.” The pivot happened when the company’s then–president of the Americas, Mark Fields (now CEO), indicated that a product launch for which he was responsible was “red,” that is, in trouble on quality and cost. Mulally’s response was to embrace the problem and enlist everyone’s help in resolving it, rather than to react with blame, as was typical in the company’s culture. As the vice presidents and directors of manufacturing each set up BPR and SAR processes within their domains, the shift in this embedded operating assumption began to permeate the organization (Cutcher-Gershenfeld, Brooks, and Mulloy 2015, 103).
+
+Looking to the future, there are even more deeply embedded operating assumptions associated with the accelerating pace of change in technology. This is visible in manufacturing operations—where many of the most challenging jobs on the assembly line (such as the installation of windshields or the painting of vehicles) are now entirely handled by robots—and in engineering design, where the entire process utilizes computer-aided design (CAD) processes that directly translate into simulation models and manufacturing specifications. But the role of technology goes much further. A car may have approximately 10,000 component parts, but software’s role in the functioning of all of these parts is now pervasive in every aspect of the vehicle’s operation. Recently, for example, General Motors increased its staff of software engineers from 1,400 to 8,000 (Bennett 2015). This expansion wasn’t undertaken with a focus only on vehicle design; the expanded internal capability enabled the development of an improved customer direct ordering system for GM. Similarly, Tesla’s decision to build a large-scale battery facility, what it calls a “gigafactory,” in Nevada represents a strategic choice to not only be more of a vertically integrated enterprise, but to also set technology standards for batteries more broadly in the industry by supplying batteries to other companies (Ramsey 2014). Moreover, as Ford Chairman Bill Ford comments:
+
+The opportunity and challenge looking ahead is that changes are coming like we have never seen. Self-driving vehicles are coming. Vehicles will be connected to the cloud. We will be transitioning into being a technology company as a result. (Cutcher-Gershenfeld, Brooks, and Mulloy 2015, 243)
+
+Thus, an appreciation of the auto industry today and in the future is inextricably entwined with the advances of technology.
+
+The auto industry is transforming from the archetypical mass production industry to a knowledge-driven, technology-infused industry with enterprises committed to providing transportation solutions for the 21st century. Nevertheless, most policymakers and outside observers still make simplistic assumptions about the U.S. auto industry, viewing it as uncompetitive and badly lagging foreign rivals. The aim of this report has been to provide a few highly accessible windows into the industry and its operations to motivate a rethinking by outside observers and to prompt new ideas for policy and practice.
+
+Simple-minded characterizations of the industry’s challenges as being a product of high wages or union work rules miss the mark in multiple ways. The gap between union and non-union competitors in the domestic industry has been largest around post-employment legacy benefit costs. This was initially an artifact of the non-union transplants being newer organizations with few retirees, and is now also a reflection of the establishment of the VEBAs, as well as transplants’ higher usage of temporary workers. Not only is the competitive situation changing over time, but the UAW has worked with management at the Big Three in establishing a VEBA, which has addressed a major portion (and the most rapidly growing part) of this cost differential. And far from union work rules being a barrier, the union has been a full partner for more than a decade in experimenting with innovations in work organization.
+
+More consequential for the industry, in the short run, are the challenges of coping with swings in the marketplace. This is already driving increased team flexibility in operations, innovation in managing voluntary departures, increased attention to supplier relations, and a move to modular product platforms. In the long run the challenges are even greater as new technologies permeate vehicles and the broader enterprise.
+
+As labor and management in the domestic industry prepare for 2015 collective bargaining, a key question will be the degree to which the parties are able to address short-term issues around wages, hours, and working conditions—as well as the degree to which they use collective bargaining as a forum to lay the groundwork for jointly facing the challenges that lie ahead.
+
+Joel Cutcher-Gershenfeld is professor (and former dean) in the School of Labor and Employment Relations at the University of Illinois, Urbana–Champaign, and newly appointed as professor at Brandeis’ Heller School of Social Policy and Management (beginning January 2016). He is an expert on workplace innovation and served as a consultant to the UAW and Ford for over two decades.
+
+Dan Brooks served as a union leader with the UAW for 35 years, rising from local elected positions to co-lead many of the national UAW–Ford joint programs.
+
+Martin Mulloy rose in management over 34 years to serve as Ford’s Vice President for Global Labor Affairs. He is the 2015 president of the Labor and Employment Relations Association.
+
+1. The VEBA was the largest contributor to closing the gap ($17), but other factors contributed, including the later elimination of cost-of-living adjustments, lump-sum wage payments, the elimination of what were termed job banks, and the rising costs of the transplants’ full fringed costs from $47 to $55. By 2014 it was just a $6 gap. At the time the CEOs testified before Congress, the gap was around $10–12.
+
+2. The pivotal events in the book are presented in the present progressive tense, as though you were there at the time (though with quotes from people we interviewed looking back on the event). Here we draw on some of the same material, but we present them in the past tense.
+
+3. The Center for Automotive Research reports that “over 1.7 million people are employed by the auto industry. In addition, the industry is a huge consumer of goods and services from many other sectors and contributes to a net employment impact in the U.S. economy of nearly 8 million jobs. Approximately 4.5 percent of all U.S. jobs are supported by the strong presence of the auto industry in the U.S. economy. People in these jobs collectively earn over $500 billion annually in compensation and generate more than $70 billion in tax revenues” (Hill, Menk, and Cooper 2010).
+
+4. The decade preceding the period covered in Figure A includes the first oil shock of 1973–1974, which was also highly consequential.
+
+5. There is a well-established literature around what was first termed “institutional isomorphism,” which refers to the way institutional practices tend to look alike, without necessarily reflecting functional differences that would be expected to generate a greater degree of variation. See DiMaggio and Powell 1983. Breaking from such traditions does stand out—consider the attention that Netflix has received for its approach to severance payments not just in a crisis, but as part of its regular operations. See McCord 2014.
+
+6. The actual term for these benefits is reportedly a product of a meeting of the War Labor Board where they were discussing what to call these additional benefits that were being negotiated. The Broadway play Oklahoma! was popular at the time, and someone in the meeting was apparently humming the tune “Surrey with a Fringe on Top” when someone suggested that they be called “fringe benefits.”
+
+7. See, for example, Muffatto and Roveda 2002; and Simpson, Siddique, and Jiao 2006.
+
+8. This draws on Edgar Schein’s notion of the deeply embedded assumptions in an organization’s culture. See Schein 1990.
+
+Alder, Paul. 1992. “The Learning Bureaucracy: New United Motor Manufacturing, Inc.” Research in Organizational Behavior, vol. 15.
+
+Bennett, Jeff. 2015. “Why GM Hired 8,000 Programmers.” Wall Street Journal, February 18. http://www.wsj.com/articles/gm-built-internal-skills-to-manage-internet-sales-push-1424200731.
+
+Brookings Institution. 2013. Drive! Moving Tennessee’s Automotive Sector Up the Value Chain. http://www.brookings.edu/research/reports/2013/10/04-tennessee-automotive.
+
+Cutcher-Gershenfeld, Joel. 2011. “Bargaining When the Future of an Industry Is at Stake: Lessons from UAW-Ford Collective Bargaining Negotiations.” Negotiation Journal, vol. 27, no. 2, 115–145.
+
+Cutcher-Gershenfeld, Joel, Daniel Brooks, and Martin Mulloy. 2015. Inside the Ford-UAW Transformation: Pivotal Events in Valuing Work and Delivering Results. Cambridge, Mass.: MIT Press.
+
+Cutcher-Gershenfeld, Joel, Michio Nitta, Betty Barrett, Nejib Belhedi, Simon Chow, Takashi Inaba, Iwao Ishino, Wen-Jeng Lin, Michael Moore, William Mothersell, Jennifer Palthe, Shobha Ramanand, Mark Strolle, and Arthur Wheaton; with Cheryl Coutchie, Seepa Lee, and Stacia Rabine. 1998. Knowledge-Driven Work: Unexpected Lessons from Japanese and United States Work Practices. New York: Oxford University Press.
+
+Deming, W. Edwards. 1986. Out of the Crisis. Massachusetts Institute of Technology, Center for Advanced Engineering Study.
+
+DePillis, Lydia. 2014. “Sen. Bob Corker Can’t Stand the United Auto Workers: An Annotated Interview.” Washington Post, February 12, http://www.washingtonpost.com/blogs/wonkblog/wp/2014/02/12/sen-bob-corker-cant-stand-the-united-auto-workers-an-annotated-interview/.
+
+DiMaggio, Paul J., and Walter W. Powell. 1983. “The Iron Cage Revisited: Institutional Isomorphism and Collective Rationality in Organizational Fields.” American Sociological Association, vol. 48, 147–160.
+
+Ferman, Louis, Michele Hoyman, Joel Cutcher-Gershenfeld, and Ernest Savoie, eds. 1991. Joint Training Programs: Union-Management Approach to Preparing Workers for the Future. Ithaca, N.Y.: ILR Press.
+
+Goolsbee, Austan D., and Alan B. Krueger. 2015. A Retrospective Look at Rescuing and Restructuring General Motors and Chrysler. Princeton University Industrial Relations Section, Working Paper #558, http://arks.princeton.edu/ark:/88435/dsp01sj139419w.
+
+Hakim, Danny. 2003. “Ford Chairman, Now Confident of Turnaround, Expects a Profit.” New York Times, November 27, http://www.nytimes.com/2003/11/27/business/ford-chairman-now-confident-of-turnaround-expects-a-profit.html.
+
+Helper, Susan, and John Paul MacDuffie. 2008. “Better than a Bailout.” New Republic, December 2, http://www.newrepublic.com/article/politics/better-bailout.
+
+Hill, Kim, Debra Menk, and Adam Cooper. 2010. “Contribution of the Automotive Industry to the Economies of All Fifty States and the United States.” Center for Automotive Research, http://www.cargroup.org/?module=Publications&event=View&pubID=16.
+
+Kavanagh, Rebecca. 2008. “Ford’s Improved Quality Performance Equals Big Savings in Warranty Repair Costs.” @FordOnline, August 20, http://www.at.ford.com/news/cn/ArticleArchives/27499.aspx.
+
+Klier, T., and J. Rubenstein. 2011. “What Role Did Regional Policy Play in Addressing the U.S. Auto Industry Crisis?” International Journal of Automotive Technology and Management, vol. 11, no. 2, 189–204.
+
+Kochan, Thomas, Harry Katz, and Robert McKersie. 1986. The Transformation of American Industrial Relations. New York: Basic Books.
+
+Krafcik, John F. 1986. Learning from NUMMI. International Motor Vehicle Program, Massachusetts Institute of Technology.
+
+McCord, Patty. 2014. “How Netflix Reinvented HR.” Harvard Business Review, January.
+
+McGregor, Douglas. 1960. The Human Side of Enterprise, Annotated Edition. Joel Cutcher-Gershenfeld, ed. 2006. [with new introduction and annotated text]. New York: McGraw Hill.
+
+Muffatto, M., and M. Roveda. 2002. “Product Architecture and Platforms: A Conceptual Framework.” International Journal of Technology Management, vol. 24, no. 1, 1–16.
+
+Murman, Earll, Tom Allen, Kirkor Bozdogan, Joel Cutcher-Gershenfeld, Hugh McManus, Debbie Nightingale, Eric Rebentisch, Tom Shields, Fred Stahl, Myles Walton, Joyce Warmkessel, Stanley Weiss, and Sheila Widnall. 2002. Lean Enterprise Value: Insights from MIT’s Lean Aerospace Initiative. New York: Palgrave/Macmillan.
+
+Planning Perspectives. 2014. North American Automotive – Tier 1 Supplier Working Relations Index Study. http://www.ppi1.com/services/annual-automotive-industry-study/.
+
+Ramsey, Mike. 2014. “Tesla Confirms Nevada to Get Battery Factory.” Wall Street Journal, September 4, http://www.wsj.com/articles/tesla-confirms-nevada-to-get-battery-factory-1409871734.
+
+Roos, Daniel, James P. Womack, and Daniel T. Jones. 1991. The Machine That Changed the World: The Story of Lean Production. New York: Harper Perennial.
+
+Rubinstein, Saul A., and Thomas A. Kochan. 2001. Learning from Saturn: Possibilities for Corporate Governance and Employee Relations. Ithaca, N.Y.: Cornell University Press.
+
+Sawyers, Arlena. 2013. “1979 Oil Shock Meant Recession for U.S., Depression for Autos.” Automotive News, October 13.
+
+Schein, Edgar H. 1990. Organizational Culture and Leadership. New York: John Wiley & Sons.
+
+Simpson, T. W., Z. Siddique, and R. J. Jiao. 2006. Product Platform and Product Family Design: Methods and Applications. New York: Springer Science & Business Media.
+
+Taylor, Frederick W. 1914. The Principles of Scientific Management. New York: Harper.
+
+Wall Street Journal. 2008. “America’s Other Auto Industry.” Editorial, December 1.
+
+Ward’s Automotive. Various years. Public data. http://wardsauto.com/public-data.
+
+Wutkoski, Karey. 2008. “Auto Execs’ Private Flights to Washington Draw Ire.” Reuters, November 19. http://www.reuters.com/article/2008/11/19/us-autos-bailout-planes-idUSTRE4AI8C520081119.
+
+See related work on Unions and Labor Standards
+
+See more work by Joel Cutcher-Gershenfeld, Dan Brooks, and Martin Mulloy
+
+See related work on Unions and Labor Standards
+
+See more work by Joel Cutcher-Gershenfeld, Dan Brooks, and Martin Mulloy
+
+Sign up to stay informed
+
+New research, insightful graphics, and event invites in your inbox every week.

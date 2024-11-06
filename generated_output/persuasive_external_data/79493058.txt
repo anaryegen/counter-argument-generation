@@ -1,0 +1,69 @@
+Skip to main content
+
+An official website of the United States government Here's how you know
+
+Official websites use .gov A .gov website belongs to an official government organization in the United States.
+
+Secure .gov websites use HTTPS A lock ( ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+
+United States Department of Transportation
+
+Recreational Flyers & Community-Based Organizations
+
+ Did your drone registration expire or does it expire soon? The DroneZone is the FAA's official website for registration. If you are having trouble logging into the DroneZone, you may need to reset your password (PDF). Be sure to use the email you used when you originally registered your drone with the FAA.
+
+The rule for operating unmanned aircraft systems (UAS) or drones under 55 pounds in the National Airspace System (NAS) is 14 CFR Part 107, referred to as the Small UAS Rule. However, if you want to fly a drone for purely recreational purposes, there is a limited statutory exception ("carve out") that provides a basic set of requirements.
+
+The Recreational UAS Safety Test or TRUST is available! Recreational flyers are encouraged to take and pass TRUST at their earliest opportunity and carry proof of passage when flying.
+
+What is a Recreational Flight?
+
+Many people assume that a recreational flight simply means not flying for a business or being compensated. But, that's not always the case. Compensation, or the lack of it, is not what determines if a flight was recreational or not. Before you fly your drone, you need to know which regulations apply to your flight.
+
+The default regulation for drones weighing under 55 pounds is Part 107. Almost all non-recreational drone flying is regulated by Part 107.
+
+Note: Non-recreational drone flying include things like taking photos to help sell a property or service, roof inspections, or taking pictures of a high school football game for the school's website. Goodwill can also be considered non-recreational. This would include things like volunteering to use your drone to survey coastlines on behalf of a non-profit organization.
+
+Remember, if you’re not sure which rules apply to your flight, fly under Part 107. Congress created the Exception for Limited Recreational Operations of Unmanned Aircraft to allow those flying drones purely for fun or personal enjoyment to operate without complying with Part 107. People flying under this Exception are required to comply with all rules for recreational flyers. 
+
+What are the Rules for Recreational Flyers?
+
+The Exception for Limited Recreational Operations of Unmanned Aircraft (USC 44809) is the law that describes how, when, and where you can fly drones for recreational purposes. Following these rules helps keep people, your drone and our airspace safe:
+
+Fly only for recreational purposes (personal enjoyment).
+
+Follow the safety guidelines of an FAA-recognized Community Based Organization (CBO). For more information on how to become an FAA-recognized CBO, read Advisory Circular 91-57C.
+
+Keep your drone within the visual line of sight or use a visual observer who is co-located (physically next to) and in direct communication with you.
+
+Give way to and do not interfere with other aircraft.
+
+Fly at or below FAA-authorized altitudes in controlled airspace (Class B, C, D, and surface Class E designated for an airport) only with prior FAA authorization by using LAANC or DroneZone.
+
+Fly at or below 400 feet in Class G (uncontrolled) airspace. Note: Anyone flying a drone in the U.S. National Airspace System (NAS) is responsible for flying within the FAA guidelines and regulations. That means it is up to you as a drone pilot to know the rules: Where Can I Fly? 
+
+Take The Recreational UAS Safety Test (TRUST) and carry proof of test passage when flying.
+
+Have a current FAA registration, mark (PDF) your drones on the outside with the registration number, and carry proof of registration with you when flying. Note: Beginning September 16, 2023, if your drone requires an FAA registration number it will also be required to broadcast Remote ID information (unless flown within a FRIA). For more information on drone registration, visit How to Register Your Drone.
+
+Do not operate your drone in a manner that endangers the safety of the national airspace system.
+
+Visiting from another country? Using a foreign-registered drone? Be sure to check out our page: International UAS Operators in the United States
+
+Individuals violating any of these rules, and/or operating in a dangerous manner, may be subject to FAA enforcement action.
+
+For more information, read Advisory Circular 91-57C.
+
+Not sure what type of a drone user you are? We can help you!
+
+Visit our website or follow us on Facebook or Twitter for the latest safety information, news and updates.
+
+Last updated: Wednesday, December 20, 2023
+
+Download the B4UFLY Mobile App
+
+Keep your Remote Pilot Certificate Current
+
+Check out Hot Topics in UAS
+
+Sign up for UAS email

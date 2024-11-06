@@ -1,0 +1,113 @@
+Skip to main content
+
+An official website of the United States government, Department of Justice.
+
+Here's how you know Here's how you know
+
+Official websites use .gov A .gov website belongs to an official government organization in the United States.
+
+Secure .gov websites use HTTPS A lock ( ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+
+Five Things About Deterrence Download and print
+
+Does punishment prevent crime? If so, how, and to what extent? Deterrence — the crime prevention effects of the threat of punishment — is a theory of choice in which individuals balance the benefits and costs of crime.
+
+In his 2013 essay, “Deterrence in the Twenty-First Century,” Daniel S. Nagin succinctly summarized the current state of theory and empirical knowledge about deterrence.[1] The information in this publication is drawn from Nagin’s essay with additional context provided by NIJ and is presented here to help those who make policies and laws that are based on science.[2]
+
+NIJ’s “Five Things About Deterrence” summarizes a large body of research related to deterrence of crime into five points.
+
+1. The certainty of being caught is a vastly more powerful deterrent than the punishment.
+
+Research shows clearly that the chance of being caught is a vastly more effective deterrent than even draconian punishment.
+
+2. Sending an individual convicted of a crime to prison isn’t a very effective way to deter crime.
+
+Prisons are good for punishing criminals and keeping them off the street, but prison sentences (particularly long sentences) are unlikely to deter future crime. Prisons actually may have the opposite effect: Persons who are incarcerated learn more effective crime strategies from each other, and time spent in prison may desensitize many to the threat of future imprisonment.
+
+See Understanding the Relationship Between Sentencing and Deterrence for additional discussion on prison as an ineffective deterrent.
+
+3. Police deter crime by increasing the perception that criminals will be caught and punished.
+
+The police deter crime when they do things that strengthen a criminal’s perception of the certainty of being caught. Strategies that use the police as “sentinels,” such as hot spots policing, are particularly effective. A criminal’s behavior is more likely to be influenced by seeing a police officer with handcuffs and a radio than by a new law increasing penalties.
+
+4. Increasing the severity of punishment does little to deter crime.
+
+Laws and policies designed to deter crime by focusing mainly on increasing the severity of punishment are ineffective partly because criminals know little about the sanctions for specific crimes.
+
+More severe punishments do not “chasten” individuals convicted of crimes, and prisons may exacerbate recidivism.
+
+See Understanding the Relationship Between Sentencing and Deterrence for additional discussion on prison as an ineffective deterrent.
+
+5. There is no proof that the death penalty deters criminals.
+
+According to the National Academy of Sciences, "Research on the deterrent effect of capital punishment is uninformative about whether capital punishment increases, decreases, or has no effect on homicide rates."
+
+Understanding the Relationship Between Sentencing and Deterrence
+
+In his 2013 essay, “Deterrence in the Twenty-First Century,” Daniel S. Nagin succinctly summarized the current state of theory and empirical knowledge about deterrence. The information in this publication is drawn from Nagin’s essay with additional context provided by NIJ and is presented here to help those who make policies and laws that are based on science.
+
+Deterrence and Incapacitation
+
+There is an important distinction between deterrence and incapacitation. Individuals behind bars cannot commit additional crime — this is incarceration as incapacitation. Before someone commits a crime, he or she may fear incarceration and thus refrain from committing future crimes — this is incarceration as deterrence.
+
+NIJ’s “Five Things About Deterrence” summarizes a large body of research related to deterrence of crime into five points. Two of the five things relate to the impact of sentencing on deterrence — “Sending an individual convicted of a crime to prison isn’t a very effective way to deter crime” and “Increasing the severity of punishment does little to deter crime.” Those are simple assertions, but the issues of punishment and deterrence are far more complex. This addendum to the original “Five Things” provides additional context and evidence regarding those two statements.
+
+It is important to note that while the assertion in the original “Five Things” focused only on the impact of sentencing on deterring the commission of future crimes, a prison sentence serves two primary purposes: punishment and incapacitation. Those two purposes combined are a linchpin of United States sentencing policy, and those who oversee sentencing or are involved in the development of sentencing policy should always keep that in mind.
+
+“Sending an individual convicted of a crime to prison isn’t a very effective way to deter crime.”
+
+Prison is an important option for incapacitating and punishing those who commit crimes, but the data show long prison sentences do little to deter people from committing future crimes.
+
+Viewing the findings of research on severity effects in their totality, there is evidence suggesting that short sentences may be a deterrent. However, a consistent finding is that increases in already lengthy sentences produce at best a very modest deterrent effect.
+
+A very small fraction of individuals who commit crimes — about 2 to 5 percent — are responsible for 50 percent or more of crimes.[3] Locking up these individuals when they are young and early in their criminal careers could be an effective strategy to preventing crime if we could identify who they are. The problem is: we can’t. We have tried to identify the young people most likely to commit crimes in the future, but the science shows we can’t do it effectively.
+
+It is important to recognize that many of these individuals who offend at higher rates may already be incarcerated because they put themselves at risk of apprehension so much more frequently than individuals who offend at lower rates.
+
+“Increasing the severity of punishment does little to deter crime.”
+
+To clarify the relationship between the severity of punishment and the deterrence of future crimes, you need to understand:
+
+The lack of any “chastening” effect from prison sentences,
+
+That prisons may exacerbate recidivism,
+
+The different impacts of the certainty versus the severity of punishment on deterrence, and
+
+That individuals grow out of criminal activity as they age.
+
+More severe punishments do not “chasten” individuals convicted of crimes.
+
+Some policymakers and practitioners believe that increasing the severity of the prison experience enhances the “chastening” effect, thereby making individuals convicted of an offense less likely to commit crimes in the future. In fact, scientists have found no evidence for the chastening effect. Prisons may exacerbate recidivism. Research has found evidence that prison can exacerbate, not reduce, recidivism. Prisons themselves may be schools for learning to commit crimes. In 2009, Nagin, Cullen and Jonson published a review of evidence on the effect of imprisonment on reoffending.[4] The review included a sizable number of studies, including data from outside the U.S. The researchers concluded:
+
+“… compared to non-custodial sanctions, incarceration has a null or mildly criminogenic impact on future criminal involvement. We caution that this assessment is not sufficiently firm to guide policy, with the exception that it calls into question wild claims that imprisonment has strong specific deterrent effects.”
+
+Certainty has a greater impact on deterrence than severity of punishment.
+
+Severity refers to the length of a sentence. Studies show that for most individuals convicted of a crime, short to moderate prison sentences may be a deterrent but longer prison terms produce only a limited deterrent effect. In addition, the crime prevention benefit falls far short of the social and economic costs.
+
+Certainty refers to the likelihood of being caught and punished for the commission of a crime. Research underscores the more significant role that certainty plays in deterrence than severity — it is the certainty of being caught that deters a person from committing crime, not the fear of being punished or the severity of the punishment. Effective policing that leads to swift and certain (but not necessarily severe) sanctions is a better deterrent than the threat of incarceration. In addition, there is no evidence that the deterrent effect increases when the likelihood of conviction increases. Nor is there any evidence that the deterrent effect increases when the likelihood of imprisonment increases.
+
+A person’s age is a powerful factor in deterring crime.
+
+Even those individuals who commit crimes at the highest rates begin to change their criminal behavior as they age. The data show a steep decline at about age 35.[5] A more severe (i.e., lengthy) prison sentence for convicted individuals who are naturally aging out of crime does achieve the goal of punishment and incapacitation. But that incapacitation is a costly way to deter future crimes by aging individuals who already are less likely to commit those crimes by virtue of age.
+
+[note 1] Nagin, Daniel S., "Deterrence in the Twenty-First Century," in Crime and Justice in America: 1975-2025, ed. M. Tonry, Chicago, Ill.: University of Chicago Press, 2013: 199-264. View an abstract.
+
+Opinions or points of view expressed on this site represent a consensus of the authors and do not necessarily represent the official position or policies of the U.S. Department of Justice. The content on this page is not intended to create, does not create, and may not be relied upon to create any rights, substantive or procedural, enforceable at law by any party in any matter civil or criminal.
+
+[note 3] Mulvey, Edward P., Highlights from Pathways to Desistance: A Longitudinal Study of Serious Adolescent Offenders (pdf, 4 pages), Juvenile Justice Fact Sheet, Washington, DC: U.S. Department of Justice, Office of Juvenile Justice and Delinquency Prevention, March 2011, NCJ 230971.
+
+[note 4] Nagin, Daniel S., Francis T. Cullen and Cheryl Lero Johnson, “Imprisonment and Reoffending,” Crime and Justice: A Review of Research, vol. 38, ed. Michael Tonry, Chicago: University of Chicago Press, 2009: 115-200.
+
+[note 5] Sampson, Robert. J., John H. Laub and E.P. Eggleston, “On the Robustness and Validity of Groups,” Journal of Quantitative Criminology 20 (1) (2004): 37-42.
+
+National Institute of Justice, "Five Things About Deterrence," June 5, 2016, nij.ojp.gov: https://nij.ojp.gov/topics/articles/five-things-about-deterrence
+
+Read More About: Sentencing Punishment Prisons Adult correctional facilities Incarceration Offenses Crime Inmates/offenders Deterrence Effects of imprisonment Capital punishment Social and Behavioral Science Research and development
+
+Date Published: June 5, 2016
+
+NIJ's "Five Things" Series
+
+Find more titles in NIJ's "Five Things" series. 

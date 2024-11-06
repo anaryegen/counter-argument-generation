@@ -1,0 +1,109 @@
+Portada » To verify or not to verify on social media?
+
+To verify or not to verify on social media?
+
+Alicio Fecha de publicación: 29 de November de 2021
+
+When a user registers on a social media, a dating platform, a marketplace, etc., they are usually asked to indicate a name, an email, date of birth -to confirm that they are of legal age -… But, what guarantee is there that this information is real?
+
+Registration without confirmation leads to two major problems:
+
+And hate speech, which ranges from harassment to defamation and/or discrimination
+
+Both issues are interconnected and share a solution: verify the identity of users.
+
+Plague of fake accounts and the rise of cyberbullying
+
+Social networks and platforms are plagued with false accounts of all kinds, these are accounts that seek to make some kind of profit: from fictitious people on dating platforms to fake users on marketplaces trying to scam somehow.
+
+While there may be fake accounts without evil, those that are created to gossip or access content that requires being connected. The truth is that there is usually an illegitimate motivation to create fake accounts. One of the problems associated with this type of account is identity theft.
+
+Almost anyone with a little skill can steal an identity on social media. Most platforms publicly display user posts (usually, you just need to be logged in). And it’s not difficult to start collecting information quietly.
+
+In today’s digital world, anyone can misrepresent their identity. The anonymity of social platforms protects criminals and stalkers. And let’s face it, a username and email won’t identify anyone, that is why we are talking about anonymity. Unknowingly, social platforms have given voice to scammers, spammers, trolls and a long list of profiles with dubious moral intentions.
+
+Hiding under a username grants certain licenses to users with inappropriate intentions.
+
+With this outlook, it is not surprising that cases of cyberbullying and scam continue to rise.
+
+Hence, a significant part of the users of social media have experienced some type of online harassment and, the other part, may become the object of abuse of various kinds, from insults to identity theft, passing for insults and other hate crimes (which, in real life, are punishable).
+
+Verifying identity is the solution prevent cyberbullying
+
+Asking only an email, name and password does not imply any filter. People can create multiple fake accounts, use made up names, steal photos from the internet, use other people’s data, etc.
+
+prevent cyberbullying is to associate access to websites with an identity document. A person can have the email accounts or username that they want, but they only have an identity document. This is the only way that allows you to assign responsibilities and monitor those who are not respecting the rules of the platform (because yes, web pages also have rules). Those who engage in name calling, spamming or doing harm would generally be reduced to a reckless few.
+
+Verifying the identity of users is an effective security measure on platforms and social networks.
+
+Why? Because people, as users of these networks, can protect themselves up to a certain point. But the final responsibility lies with the service provider company, which must be aware of these problems and take the appropriate measures to protect its users.
+
+The platforms and social networks are ultimately responsible for preventing false accounts from being created.
+
+The social networks of the future verify the identity of their users
+
+Some governments are already taking steps towards this reality. They want internet users to browse social networks and platforms with complete safety, knowing that the messages they are going to receive are respectful and that there are real people behind the relationships they may establish.
+
+Regulating this sector means protecting vulnerable groups, including teenagers, young people and publicly exposed people, who are usually the most affected by the damage of identity theft and hatred on the internet.
+
+Digital identity verification would eliminate this practice and help platforms and social networks to build the honest community they are looking for, be it a platform to buy and sell clothes or a website to meet people.
+
+Of course, verifying the identity of users will not eradicate 100% social media harassment, but it will greatly facilitate the investigation and accountability of people who spread hate speech when necessary.
+
+In addition, the identity verification barrier helps users to regain trust in platforms and social networks. On the other hand, verifying users elevates and improves the brands and reputation of the platforms, since which makes users with illegitimate intentions think twice before acting.
+
+BONUS: Online age verification, are your users of legal age?
+
+If your industry requires your users to be over 18 to use your platform, how do you make sure they are? The typical question of “are you over 18?” it’s no use.
+
+To validate that your user is of legal age, it is necessary that they present an official identification document, otherwise, you are not assuring anything. Committing to the protection of minors implies doing things well and for that it is necessary to carry out an strong identity verification.
+
+Can we help you to reinforce the trust of your users?
+
+If you are looking for a solution or a reinforcement to gain the trust of your users on the internet, it does not matter if you manage a social network, dating platform, marketplace, etc., identity verification provides you with a solid way to verify your new users automatically and remotely.
+
+By including this “barrier to entry” in your online business, you show your users that you prioritize their safety and put a filter to avoid users with illegitimate intentions -those who refuse to verify their data- on your platform.
+
+Our technology allows you to intelligently identify and verify the identity of your new users so that you can confirm that they are using their identity – and not a false or stolen one – and that they are who they say they are.
+
+In addition to reducing fraud, it allows you to automate the registration process and offer a smoother check-in process, always adapted to regulatory compliance. We take GDPR very seriously.
+
+Do you want to know more? You can try our freemium version without obligation!
+
+We talk more about these topics on LinkedIn.
+
+If you liked it, share it on
+
+You may also be interested in
+
+Chatting with Your Documentation: LLMs and RAG for Enhanced Information Retrieval
+
+Introduction Have you ever felt that you know some useful information is somewhere in your documentation, but you cannot seem to find it? Yeah, me too. It is so frustrating, but after reading this article you are going to have some notion of how to build a system that enables you and your team to […]
+
+The Process of Verifying a Person's Identity Online
+
+In today’s era of increasing digital transactions and remote services, verifying a person’s identity online is not just an added feature but a fundamental necessity. For professionals like product managers, chief technology officers, or heads of legal and compliance, the question of how this verification is conducted is not a matter of mere curiosity but […]
+
+The Challenges of Digital Identity
+
+In an increasingly interconnected world, the significance of establishing and verifying an individual’s digital identity cannot be overstated. With each passing year, organizations and consumers alike are moving more and more of their operations and transactions online, making digital identity an integral aspect of modern business. This creates an environment ripe with both opportunities and […]
+
+ALICE BIOMETRICS, S.L., uses its own and third-party cookies to improve your browsing on our website, distinguish you from other users and analyse your habits in order to improve the quality of our services and your user experience. For more information, please access our Cookies Policy . You can accept the installation of all cookies by clicking on the "Accept cookies" button, configure your preferences by clicking on the "Configure cookies" button, or reject their installation by clicking on the "Reject cookies" button.
+
+Accept Reject Configure
+
+Close GDPR Cookie Settings
+
+Powered by GDPR Cookie Compliance
+
+This website uses cookies so that we can provide you with the best user experience possible. Cookie information is stored in your browser and performs functions such as recognising you when you return to our website and helping our team to understand which sections of the website you find most interesting and useful.
+
+This website uses Google Analytics to collect anonymous information such as the number of visitors to the site, and the most popular pages.
+
+Keeping this cookie enabled helps us to improve our website.
+
+Enable or Disable Cookies
+
+Please enable Strictly Necessary Cookies first so that we can save your preferences!
+
+Enable All Save Settings

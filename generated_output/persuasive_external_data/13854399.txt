@@ -1,0 +1,391 @@
+Convenient, Affordable Legal Help - Because We Care!
+
+The Employee’s Right to Privacy and Management of Personal Information
+
+Find a legal form in minutes
+
+Browse US Legal Forms’ largest database of 85k state and industry-specific legal forms.
+
+Last Will and Testament
+
+LLC Operating Agreement
+
+Rental Lease Agreement
+
+Non-Disclosure Agreement
+
+The Employee’s Right to Privacy and Management of Personal Information
+
+The issue of employee privacy can arise in several situations. For example, employers may want to monitor telephone conversations between employees and customers in order to evaluate employee performance and customer service. Employers may want to monitor e-mail for what the employer considers as valid business reasons. Employers may want to do drug tests on their employees or search their lockers for illegal drugs.
+
+SOURCE OF PRIVACY RIGHTS
+
+The 4th and 14th amendment provides the constitutional basis for the right of privacy for public employees (e.g., federal, state, county and municipal). However, these amendments do not apply to employees in the private sector. Employee rights in the private sector are covered by states statutes, case law and collective bargaining agreements.
+
+MONITORING EMPLOYEE TELEPHONE CONVERSATIONS
+
+The Federal Wiretapping Act provides that it is unlawful to intercept oral or electronic communications. Both criminal and civil penalties are provided for by this Act. There are two exceptions:
+
+An employer can monitor his/her/its telephones in the ordinary course of business through the use of extension telephone; and
+
+An employer can monitor employee communications with the employee’s consent. Consent may be established by prior written notice to employees of the employer’s monitoring policy. Consent signed by the employee is preferable.
+
+Interception of a business call is within the ordinary course of business exception. Personal calls can be monitored only to the extent necessary to determine whether the call is a personal or business call. As soon as it is determined that the call is a personal call, the employer must quit listening.
+
+Employers may want to monitor e-mail messages of employees for such reasons as evaluating the efficiency and effectiveness of the employees or for corporate security purposes such as the protection of trade secrets. The Electronic Communications Privacy Act (ECPA) amended the federal wiretap statute to make it apply to e-mail communications. However, the same two exceptions exist (i.e., ordinary course of business and consent).
+
+In the case of public employees, the employer, generally, can search the office, desk, or file cabinets because the employer’s interests in supervision, efficiency and control of the workplace have been held to outweigh an employee’s privacy interests.
+
+In the private sector, the question turns on whether or not the employer has created a reasonable expectation of privacy. For example, giving an employee a locker with the employee to furnish his own lock would cause the employee to believe that the locker would not be searched. However, if the employer provides the locks and the employee knows that the employer has a combination to all the locks no expectation of privacy would be created and the locker could be subject to search by the employer for legitimate reasons and the employee would have no grounds for an invasion of privacy suit. The safest thing for an employee to do is make it clear, by a written policy, what is subject to searches by the employer.
+
+DRUG AND ALCOHOL TESTING
+
+Drug testing of public employees carry both 4th (no unreasonable searches) and 5th (no self incrimination) amendment issues. The Federal Omnibus Transportation Employee Testing Act covers certain classes of employees in the airline, railroad and trucking industries. These employees are subject to random drug and alcohol testing.
+
+Random testing of employees working in safety-sensitive positions in the private sector is permissible, as is the testing of private-sector employees on the basis of reasonable suspicion. This policy should be made clear to the employees at the time they are hired and written consent obtained when possible (or at least written acknowledgment that they receive notice of such a policy).
+
+Foundations of Privacy Rights
+
+The U.S. Constitution does not actually speak of privacy, but it has been read into the Constitution as a necessary adjunct of other constitutional rights we hold. The right to privacy was first recognized by the Supreme Court in Griswold v. Connecticut, 381 U.S. 479 (1965) when the court held that a Connecticut statute restricting a married couple’s use of birth control devices unconstitutionally infringed upon the right to marital privacy. The Court held a constitutional guarantee of various zones of privacy as a part of fundamental rights guaranteed by the Constitution, such as the right to free speech and the right to be free from unreasonable searches and seizures. The latter right is that on which many claims for privacy rights are based.
+
+Public Sector Employee Privacy
+
+The Constitution protects individuals from wrongful invasions by the state or an entity acting on behalf of the government. Federal, state and local employees are therefore protected in their right of privacy, from governmental intrusion and excess. In order for the Fourth Amendment’s protection against unreasonable search and seizure to be applicable to a given situation, a search or seizure must first exist. The Supreme Court has liberally interpreted “search” to include the retrieval of blood samples and other bodily invasions, including urinalyses, as well as the collection of other personal information. In order for a search to violate the Fourth Amendment, that search must be deemed unreasonable, unjustified at its inception and impermissible in scope.
+
+The Supreme Court in O’Connor v. Ortega, 480 U.S. 709 (1987) held that a search was justified at its inception where the employer has:
+
+reasonable grounds for suspecting that the search will turn up evidence that the employee is guilty of work-related misconduct, or that
+
+the search is necessary for a non-investigatory work-related purpose such as to retrieve a file.
+
+A search is permissible in scope where:
+
+the measures adopted are reasonably related to the objectives of the search and not
+
+excessively intrusive in light of the nature of the misconduct being investigated.
+
+The unreasonableness of a search is determined by balancing the extent of the invasion and the extent to which the employee should expect to have privacy in this area against the employer’s interest in the security of its workplace, the productivity of its workers, and other job-related concerns.
+
+Prior to any search of employer-owned property, such as desks or lockers, employees should be given formal, written notice of the intent to search without their consent. Where the employer intends to search personal effects such as purses or wallets, employees should be forewarned, consent should be obtained prior to the search, and employees should be made well aware of the procedures involved. Consent is recommended under these circumstances because an employee has a greater expectation of privacy in those personal areas. These rights are significantly diminished where the employer is a private sector employer and is not restrained by Constitutional protections.
+
+When an employee is detained during a search, the employer may have a claim for false imprisonment, defined as a total restraint on freedom to move against the employee’s will, such as keeping an employee in one area of an office. The employee need not be “locked” into the confinement in order to be restrained, but when the employee remains free to leave at any time, there is no false imprisonment.
+
+The Fifth and Fourteenth Amendments
+
+The Fifth and Fourteenth Amendments also protect a government employee’s right to privacy in that the state may not restrict one’s rights unless it is justified. For instance, the Supreme Court has consistently held that everyone has a fundamental right to travel, free of government intervention.
+
+Where the state attempts to infringe upon anything that has been determined to be a fundamental right, that infringement or restriction is subject to the strict scrutiny of the courts. For the restriction to be allowed, the state must show that the restriction is justified by a compelling state interest. Moreover, the restriction must be the least intrusive alternative available. On the other hand, for those interests which are not deemed by the courts to constitute fundamental rights, a state may impose any restrictions which can be shown to be rationally related to a valid state interest, a much more lenient test.
+
+The Privacy Act of 1974, 5 U.S.C. § 552a applies only to government employees/public sector employees. This Act regulates the release of personal information about federal employees by federal agencies. Specifically, but for eleven stated exceptions, no federal agency may release information about an employee which contains the means for identifying that employee without the employee’s prior written consent. When one of the Privacy Act exceptions applies, the Act dismisses the employee consent requirement, which gives the agency total control over the use of the file.
+
+There are four basic principles addressed by the Privacy Act:
+
+There should be some mechanism by which an employee may correct or amend an inaccurate record.
+
+The employee should be able to prevent information from being inappropriately revealed or used without her or his consent, unless such disclosure is required by law.
+
+The person who is in charge of maintaining the information must insure that the files are not falling into the wrong hands and that the information contained within the files is accurate, reliable, and used for the correct reasons.
+
+Employees should have access to their own personnel files and there should be some way for them to find out the purposes for which the files are being used.
+
+The right to privacy is not absolute; the extent of protection varies with the extent of the intrusion, and the interests of the employee are balanced against the interests of the employer. Basically, the information requested under either the Privacy Act or the Freedom of Information Act is subject to a balancing test weighing the need to know the information against the employee’s privacy interest.
+
+The Ninth Circuit Court of Appeals has developed guidelines in order to assist in this balancing test. The court directs that the following four factors be looked to in reaching a conclusion relating to disclosure:
+
+the individual’s interest in disclosure of the information sought;
+
+the public interest in disclosure;
+
+the degree of invasion of personal privacy;
+
+whether there are alternative means of getting the information
+
+The Privacy Act grants employees two options for relief: criminal penalties and civil remedies, including damages and injunctive relief. The Act also allows employees who are adversely affected by an agency’s noncompliance to bring a civil suit against the agency in federal court.
+
+Critics of the Act suggest that it is enormously weakened as a result of one particular exemption that allows for disclosure for “routine use” compatible with the reason the information was originally collected. Certain specific agencies are also exempted such as the National Crime Information Center.
+
+The Electronic Communications Privacy Act of 1986 (ECPA) is codified at Title 18 USC, Sections 2510‑2521.These statutes provide privacy protection for and govern the interception of oral, wire, and electronic communications. This Act covers all telephone communications regardless of the medium, except that it does not cover the radio portion of a cordless telephone communication that is transmitted between the handset and base unit. The law authorizes the interception of oral, wire, and electronic communications by investigative and law enforcement officers conducting criminal investigations pertaining to serious criminal offenses, i.e., felonies, following the issuance of a court order by a judge. The Act authorizes the interception of particular criminal communications related to particular criminal offenses. In short, it authorizes the acquisition of evidence of crime. It does not authorize non-criminal intelligence gathering, nor does it authorize interceptions related to social or political views.
+
+Thirty seven states have statutes permitting interceptions by state and local law enforcement officers for certain types of criminal investigations. All of the state statutes are based upon the ECPA. These statutes must be at least as restrictive as the ECPA, and in fact most are more restrictive in their requirements.
+
+In recent years, state statutes have been modified to keep pace with rapid technological advances in telecommunications. Wiretaps are limited to the crimes specified in the ECPA and state statutes. Most wiretaps are large undertakings, requiring a substantial use of resources.
+
+At first, the ECPA was created to combat invasion of the government for eavesdropping in large part due to the Watergate scandal in the 60s. Originally the federal statutes targeted government eavesdropping on telephone discussion without the consent of the speakers. The federal statute required the government agents to obtain a warrant before they could intercept any oral discussions. In late 1986, Congress increased the coverage by broadening the range of electronic communications, resulting in the ECPA.
+
+The ECPA covers all forms of digital communications, including transmissions of text and digitalized images, in addition to voice communications on the telephone. The law also prohibits unauthorized eavesdropping by all persons and business, not only the government. In addition, the ECPA prohibits unauthorized access to messages in storage on a computer system, and unauthorized interception of messages in transmission. However, an employer does not violate the ECPA when it opens and reads employee emails on its own system.
+
+Private Sector Employee Privacy
+
+Privacy rights in the private sector of employment are limited; “the employment relationship generally denies any right to the employee who is arbitrarily treated [by his employer and is] . . . without a union or contract.” The distinction between the treatment of employees in the private and public sectors is one which is created by the constitutional requirement of state action as precedent to its application. The constitution is a limitation made to curb government excesses.
+
+So what should private sector employees do? Employers suggest that the employee has three choices when faced with objectionable intrusions by employers: quit, comply, or object and risk termination. Employees argue that they are defenseless because of their economic condition; that their privacy in the private sector is subject to greater abuse precisely because there are no protections and the option to quit is unrealistic.
+
+Bases for Right to Privacy in the Private Sector
+
+All but two states provide common law tort claims or state statutory protections. State legislatures have responded to the issue of private sector employee privacy in one of four ways:
+
+Enacted legislation mirroring federal law regarding the compilation and dissemination of information.
+
+Recognized a constitutional right to privacy under their state constitutions. [States that provide constitutional recognition and protection of privacy rights include California, Alabama, Arizona, Florida, Hawaii, Illinois, Louisiana, Montana, South Carolina and Washington. However, in all states except California, application of this provision to private sector organizations is limited, uncertain or not included at all.]
+
+Protect employees only in certain areas of employment, such as personnel records or the use of credit information.
+
+Left private sector employees to fend for themselves while the federal laws and the Constitution afford protection to federal employees and those subject to state action.
+
+Common Law Tort Remedies
+
+“Publication” as used in these torts means, not only publishing the information in a newspaper or other mass media, but generally bringing it to light or disseminating the information. Truth and absence of malice are generally not acceptable defenses by an employer sued for invasion of an employee’s privacy, as they are, for instance, in connection with claims of defamation.
+
+Intrusion into Seclusion
+
+In order to state a prima facie case for the tort of intrusion into seclusion, the plaintiff employee must show that:
+
+the defendant employer intentionally intruded into a private area;
+
+the plaintiff was entitled to privacy in that area; and
+
+the intrusion would be objectionable to a person of reasonable sensitivity.
+
+The intrusion may occur in any number of ways. An employer may:
+
+verbally request information as a condition of employment;
+
+require that its employees provide information in other ways, such as through polygraphs, drug tests, or psychological tests;
+
+require an annual medical examination; or
+
+ask others personal information about its employees;
+
+go into private places belonging to the employee.
+
+Any of these methods may constitute a wrongful invasion where it invades the employee’s private sphere such that it would be objectionable to a reasonable person.
+
+On the other hand, if the employer can articulate a justifying business purpose for the inquiry/invasion, the conduct is more likely to be deemed acceptable.
+
+Public Disclosure of Private Facts
+
+In order to state a prima facie case for the tort of public disclosure of private facts, the plaintiff employee must show that:
+
+there was an intentional or negligent public disclosure
+
+of private matters, and
+
+such disclosure would be objectionable to a reasonable person of ordinary sensitivities.
+
+The information disclosed must not be already publicized in any way, nor can it be information plaintiff has consented to publish.
+
+The public disclosure must be either communication to the public at large or to so many people that the matter must be regarded as substantially certain to become one of public knowledge, or one of knowledge to a particular public whose knowledge of the private facts would be embarrassing to the employee.
+
+Therefore, publication to all of the employees in a company may be sufficient, while disclosure to a limited number of supervisors may not.
+
+Publication in a False Light
+
+The prima facie case of publication in a false light requires that:
+
+there was a public disclosure
+
+of facts that place the employee in a false light before the public
+
+if the false light would be highly offensive to a reasonable person, and
+
+if the person providing the information had knowledge of or recklessly disregarded the falsity or false light of the publication.
+
+Voluntary consent to publication of the information constitutes an absolute bar to a false light action. This type of tort differs from defamation where disclosure to even one person other than the employer or employee satisfies the requirements. Publicizing someone in a false light requires that the general public be given a false image of the employee.
+
+In a false light action, the damage for which the employee is compensated is the inability to be left alone with injury to one’s emotions and mental suffering, while defamation compensates the employee for injury to her reputation in the public’s perception.
+
+Note that any of the above claims may be waived by the employee if the employee also publishes the information, or willingly or knowingly permits it to be published. But, as with defamation, an exception to this waiver exists in the form of compelled self-publication where an employer provides the employee with a false reason as the basis for termination and the employee is compelled to restate this reason when asked by a future employer the basis of departure from the previous job.
+
+An employee may also contest an invasion of privacy by her or his employer on the basis of a breach of contract. The contract may be an actual employment contract, collective bargaining agreement or one found go exist because of promises in an employment handbook, or policy manual.
+
+The elements of a claim for defamation include:
+
+false and defamatory words concerning employee
+
+negligently or intentionally communicated to a third party without the employee’s consent (publication)
+
+resulting harm to the employee defamed
+
+Where an employee is given a false or defamatory reason for her or his discharge, the employee is the one who is forced to publicize it to prospective employers. These circumstances give rise to a cause of action for defamation termed “compelled self-disclosure,” because the employee is left with no choice but to tell the prospective employer the defamatory reasons for her or his discharge. (Recognized only in Colorado, Iowa, Minnesota, Connecticut and California.) Barring this result, the employee would be forced to fabricate reasons different from those given by their former employer and runs the risk of being reprimanded or terminated for not telling the truth.
+
+An employer may defend against an employee’s claim of defamation by establishing the truth of the information communicated. While truth is a complete defense to defamation, it can be difficult to prove without complex paper management.
+
+Employers may also be immune from liability for certain types of statement because of court-recognized privileges in connection with them. For example, an employer is privileged to make statements, even if defamatory, where the statement is made in the course of a judicial proceeding, or where the statement is made in good faith by one who has a legitimate business purpose in making the communication (e.g., ex-employer) to one who has a business interest in learning the information (e.g., a prospective employer). This privilege would apply where a former employer offers a good faith reference to an employee’s prospective employer. Good faith means that the employer’s statement, though defamatory, not made with malice or ill will toward the employee.
+
+Regulation of Employee’s Off-Work Activities
+
+Employers may regulate the off-work activities of its employees where they believe that the off-work conduct affects the employee’s performance at the workplace. This legal arena is a challenging one since, in the at-will environment, employers can generally impose whatever rules they wish, as long as they don’t run afoul of common law privacy protections. In addition, some states have enacted legislation protecting against discrimination on the basis of various off-work acts. For instance, New York’s lifestyle discrimination statute prohibits employment decisions or actions based on four categories of off-duty activity: legal recreational activities, consumption of legal products, political activities, and membership in a union.
+
+Across the nation, there are other less broad protections of off-work acts. A number of states have enacted protections specifically on the basis of consumption or use of legal products off the job. On the other hand, employers are not prohibited from making employment decisions on the basis of weight, as long as they are not in violation of the American with Disabilities Act (ADA) when they do so. The issue depends on whether the employee’s weight is evidence of or due to a disability. If so, the employer will need to explore whether the worker is otherwise qualified for the position, with or without reasonable accommodation, if necessary. If the individual cannot perform then essential functions of the position, the employer is not subject to liability for reaching an adverse employment decision. However, employers should be cautious in this regard since the ADA also protects workers who are not disabled but who are perceived as being disabled, a category into which someone might fall based on their weight.
+
+Laws that protect against discrimination based on marital status exist in just under half of the states.
+
+A New York decision reaffirms the employer’s right to terminate a worker on the basis of romantic involvement. The court found that dating was not a recreational activity.
+
+The majority of states protect against discrimination on the basis of political involvement, though states vary on the type and extent of protection.
+
+Lifestyle discrimination may be unlawful if the imposition of the rule treats one protected group differently than another. For instance, as discussed elsewhere, if an employer imposes a rule restricting the use of peyote in Native American rituals that take place during off-work hours, the rule may be suspect and may subject the employer to liability. Similarly, the rule may be unlawful if it has a disparate impact on a protected group.
+
+Most statutes or common law decisions, however, provide for employer defenses for those rules that (a) are reasonably and rationally related to the employment activities of a particular employee, (b) constitute a bona fide occupational requirement, or (c) are necessary to avoid a conflict of interest or the appearance of conflict of interest.
+
+Non-Smoking Policies
+
+What about the well-intentioned employer who believes that employees who smoke cigarettes will benefit from a “no smoking any time, anywhere” policy? The employer may also be concerned about the financial impact of disease and other health problems related to smoking. The employer may first encounter obstacles in applying this policy in the workplace itself: Some states specifically prohibit discrimination against smokers in employment. Other states regulate smoking in the workplace only in government agencies or public buildings that are also workplaces. Of course, there are other states, like California, that prohibit smoking in all enclosed places of employment and require employers to warn of any toxic substances in the workplace, include tobacco smoke.
+
+The problem in enforcement would grow as the employer tries to encourage or require employees to quit smoking altogether. How would the employer know whether the employees are smoking when not at the workplace? Would the employer’s desire to have healthy employees support the intrusion into employees’ decisions regarding their own health?
+
+Employers who seek to establish an exercise or “healthy eating” program may encounter similar issues. Emphasizing the work-related benefits of such a program and limiting its reach to the workplace (e.g. creating an exercise room at work where employees may take their breaks if they choose) may allow the employer to reach its goal of a healthier workforce.
+
+Employer’s Information Gathering Process/Justified Use/Disclosure of Information
+
+Privacy can be invaded not only by a disclosure of specific types of information, but also by the process pursuant go which the information has been obtained. Improper retrieval of information may be an invasion where the process of collection constitutes harassment; improper filing or dissemination of the information collected may leave the employer liable for defamation actions; and inappropriate use of data for purposes other than those for which it was collected may inflict other harms.
+
+Employers are limited in the questions that may be asked of a potential employee. Certain questions are likely to violate Title VII of the Civil Rights Act, as employers are prohibited from reaching any employment decision on the basis of their answers.
+
+In addition, employers are limited in their collection of information through various forms of testing, such as polygraphs or medical tests. These were discussed in greater detail earlier in the text, but employers are constrained by a business necessity and relatedness standard or, in the case of polygraphs, by a requirement of reasonable suspicion.
+
+With regard to medical information specifically, employer’s decisions are not only governed by the Americans with Disabilities Act but also restricted by the Health Insurance Portability and Accountability Act (HIPAA). HIPAA stipulates that employers cannot use “protected health information” in making employment decisions without prior consent. Protected health information includes all medical records or other individually identifiable health information.
+
+In connection with the storage of the information collected, employers must be careful go insure that the information is stored in such a manner that it will not fall into the “wrong” hands. If an improper party has access go the personal information, the employer, again, may be subject go a defamation action by the employee based on the wrongful invasion of her personal affairs.
+
+Electronic Monitoring or Surveillance of Employee Activities
+
+With the dramatic increase in the use of technology in the workplace, several issues have recently developed surrounding the use of e-mail and the Internet. As of 1999, both areas are relatively undeveloped in the casebooks. Because of this, many state and district courts have dealt with the issues differently, or have not faced them at all.
+
+While, as stated earlier, there is little legislation that actually relates to these areas specifically, there is some statutory protection from overt intrusions, though the statute does not apply in all circumstances.
+
+Employee theft has led both public and private employers to monitor their employees using video surveillance. Nevertheless, video surveillance may cost the employer through loss of morale.
+
+Courts have supported reasonable monitoring of employees in open areas as a method of preventing and addressing employee theft. For example, in Sacramento County Deputy Sheriff’s Ass’n v. County of Sacramento, a public employer placed a silent video camera in the ceiling overlooking the release office counter top in response to theft of inmate money. The California Court of Appeal determined that the County had engaged in reasonable monitoring, because employee privacy expectations were diminished in the jail setting.
+
+The Federal wiretapping statute protect private and public sector employees from employer monitoring of their telephone calls and other communications without a court order. There are two exceptions to this general prohibition.
+
+First, interception is authorized where one of the parties to the communication has given prior consent.
+
+Second, the “business extension” provision creates an exception where the equipment used is that which is used in the ordinary course of business.
+
+the employer must be able to state a legitimate business purpose and
+
+there must be minimal intrusion into employee privacy.
+
+Employee Internet Use
+
+Web access at work may allow employees to be more creative and productive, but it also creates great risks. Wasted time, over clogged networks, and inappropriate material seeping into the workplace are all reasons why employers may seek to limit employees’ Internet use at work.
+
+Monitoring is made simpler through an employee’s use of a computer. Employers now customarily provide many employees with personal computers that are linked either to the Internet or, at least, to an internal network.
+
+The need to monitor employees’ usage becomes clear when one focuses on five areas of potential employer liability: defamation, copyright infringement, sexual harassment, discrimination, and obscenity.
+
+The guidelines that apply to a general defamation claim also apply to issues surrounding the Internet. However, some contend that the opportunity for harm is far greater. This is because employees and employers can easily disseminate information to a wide range of media. Not only can employers be subject to defamation claims by its own employees, but the far greater threat is the liability a company faces when an employee, as a representative of the employer, defames another individual using the Internet (with access provided by the employer) as the medium.
+
+Further, firms are concerned about inappropriate use of web software such as where an employee downloads program files without compensating the creator, or where employees use copywritten information from the web without giving credit to the original author, thereby exposing the firm to potentially significant copyright infringement liability. Finally, when an employee downloads software programs from the web, the computer systems within the firm have the potential to be compromised by viruses or even unauthorized access.
+
+Sexual harassment and discrimination by employees via the web are governed by the same general guidelines that were previously discussed in the chapters addressing sexual harassment and discrimination. However, many employees believe that, once on e-mail message is deleted, it is permanently removed from the system. This is not the case. Because of this, e-mail sent on company time, with contents constituting sexual harassment or that which might create a hostile working environment, or other forms of discrimination, may easily be discovered, both by the employer itself, as well as opposing parties to litigation against the employer. These communications might be interpreted as creating a hostile work environment. E-mail is discussed in greater detail in the next section. Finally, obscenity becomes a critical issue and the company may be placed at risk when employees download pornographic images while in the workplace.
+
+For example, female warehouse employees alleged that a hostile work environment was created in part by inappropriate e-mail, and sought $60 million in damages in federal court. The case settled out of court.
+
+A firm might be concerned about the impression created when an employee visits various sites. Assume, for instance, that Firm A is involved in research and development. If its employees peruse specific locations of its competitors’ sites, those competitors can learn which of its technology interests Firm A’s employees, thereby potentially having inadvertent access to the direction of Firm A’s research and development.
+
+Consider these scenarios: A customer service representative at an electronics store is surfing the Internet using one of the display computers. She accesses a website that shows graphic images of a crime scene. A customer in the store who notices the images is offended. Another customer service representative is behind the counter, using the store’s computer to access a pornographic site, and starts to laugh. A customer asks him why he is laughing. He turns the computer screen around to show her the images that are causing him amusement.
+
+Certainly, the employer would be justified in blocking employees’ access to such websites. But what about sites of activist groups regarding sensitive issues such as abortion – should an employer be allowed to block or restrict access to such sites? If such access may be restricted in order to promote efficiency and professionalism, then should employers be allowed to limit access to such innocuous sites as eBay or ESPN.com? By limiting or restricting access to websites, the employer may be creating an environment in which employees do not feel trusted, and perhaps inhibited in using the Internet for creative, work-related purposes for fear of being reprimanded for misusing access.
+
+Because of the overall potential liability for their employees’ actions, employers should develop a formal policy or program regulating employee usage of the Internet. In addition to a formal policy, employers may choose to establish a process of monitoring their employee’s Internet usage. This may involve tracking Web sites visited and the amount of time spent at each site with software programs designed for that specific purpose. This type of monitoring, however, is still in its infancy. Further, employees need to consider the employees’ right to free speech and the employees’ privacy rights when developing such policies and systems.
+
+Employee E-mail Usage
+
+In connection with e-mail monitoring, as well, employers’ needs must be weighed against the employees’ right to privacy. The employer is interested in ensuring that the e-mail system is not being used in ways that offend others, harms morale, or for disruptive purposes. Likewise, it is persuasive that an employer may choose to review e-mail in connection with a reasonable investigation of possible employee misconduct. Also, companies that maintain sensitive data may be concerned about disclosure of this information by disloyal or careless employees, apparently justifying this type of intrusion.
+
+Problems with e-mail abuse may extend beyond the end of the employment relationship. After an employee was fired by Intel Corporation, he began to air grievances about the company via e-mail. He repeatedly flooded his former employer’s e-mail system with mass e-mails that its security department was unable to block. Intel sought and obtained an injunction on the theory of trespass to chattels. A California appellate court rejected the former employee’s appeal that the injunction violated free speech principles.
+
+While monitoring e-mail transmissions over telephone lines is forbidden by the ECPA, communications within a firm do not generally go over the phone lines and therefore may be legally available to employers. In addition, there are numerous exceptions to the ECPA’s prohibitions including situations where one party to the transmission consents, where the provider of the communication service can monitor communications or where the monitoring is done in the ordinary course of business. In order to satisfy the ECPA consent exception, however, the employer’s interception must not exceed the scope of the employee’s consent. Employers must be aware, as well, that an employee’s knowledge that the employer is monitoring such communication is insufficient to be considered implied consent. To avoid liability, employers must specifically inform employees of the extent and circumstances under which the e-mail communications will be monitored.
+
+Despite the failure of legislative attempts to require employers to notify employees that their e-mail is being monitored, such as the proposed Notice of Electronic Monitoring Act, employers should provide such notification.
+
+Computer Usage Policies
+
+There are numerous ways in which an employer can meet its business necessity, protect itself from liability regarding e-mail monitoring while, at the same time, respect the employees’ legitimate expectation of privacy in the work place. Employers should develop concise written policy and procedures regarding the use of company computers, specifically e-mail. The Society for Human Resource Management strongly encourages companies to both adopt policies that address employee privacy and ensure that employees are notified of such policies. Any e-mail policy should be incorporated in the company polices and procedure manuals, employee handbooks, and instruction aides to ensure that the employee received consistent information regarding the employer’s rights to access and monitor employee e-mail. There are several other options available for employers to utilize. A company could have a notice each time an employee logs on to a company computer indicating the computers are only to be used for business related communication or the employee has no reasonable expectation of privacy in the electronic messages. Employers can also periodically send memos reminding employees of the policy.
+
+An employer has a strong defense to a potential invasion of privacy claim by an employee if the employer implements an e-mail policy that is both written and communicated to the employee, thereby stating that e-mail is for business purposes only and the employer may access the e-mail both in the ordinary course of business and if business reasons necessitate. Thus, an employer protects itself from lawsuits when it adopts an e-mail policy, notifies the employees of the policy, and faithfully adheres to it.
+
+As early as 1970, the U.S. Department of Health, Education and Welfare developed principles for a Code of Fair Employment Practices (CFEP), which includes five points.
+
+The first CFEP principle is openness, meaning that maintenance or collection of personal information must be disclosed to the subject.
+
+The second principle is disclosure. A subject should be informed not only of the fact that information is to be collected, but also the contents of that information and the purposes for which it will be used.
+
+The third principle is the concept of secondary usage, which requires that information collected for one purpose may not be used for a second purpose.
+
+Fourth, the CFEP mandates that individuals have the right to correction of erroneous personal information.
+
+The fifth principle directs that firms maintain appropriate security surrounding the information collected in order to protect against misuse.
+
+Failure to adhere to any of the above-stated principles may result in a violation of corporate integrity or a lack of accountability to those affected by the monitoring.
+
+It is possible to implement a monitoring program that is true to the values of the firm and accountable to those it impacts: the workers. Appropriate attention to the nature and extent of the monitoring, the notice given to those monitored, and the ethical management of the information obtained will ensure a balance of employer and employee interests.
+
+Waivers of Privacy Rights
+
+A waiver of privacy rights as a condition of employment would exempt the employer from liability for claims the employee may have as a result of privacy issues. While a valid waiver must be voluntarily given, requiring a waiver as an employment condition is a questionable approach. Employers maintain a superior bargaining position from which go negotiate such an arrangement, so voluntariness is questionable.
+
+Courts are not consistent in their acceptance of these waivers, but one common link among those that are approved is that there exists some form of consideration in which the employee receives something in return for giving up rights. It has thus been held that the waiver at least be accompanied by an offer of employment. No waiver which is given by an applicant prior to a job offer would be considered valid and enforceable. Other requirements articulated by the courts include that the waiver be knowingly and intelligently given, that it be clear and unmistakable, in writing, and voluntary.
+
+Privacy Rights since September 11, 2001
+
+The United States implemented widespread modifications to its patchwork structure of privacy protections since the terror attacks of September 11, 2001. In particular, proposals for the expansion of surveillance and information gathering authority were submitted and many, to the chagrin of some civil rights attorneys and advocates, were enacted.
+
+The most public and publicized of these modifications was the adoption and implementation of the Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism United States (USA PATRIOT) Act of 2001. The USA PATRIOT Act expanded states’ rights with regard to Internet surveillance technology, including workplace surveillance and amending the Electronic Communications Privacy Act in this regard. The Act also grants access to sensitive data with only a court order rather than a judicial warrant, among other changes, and imposes or enhances civil and criminal penalties for knowingly or intentionally aiding terrorists. In addition, the new disclosure regime increased the sharing of personal information between government agencies in order to ensure the greatest level of protection.
+
+Title II of the Act provides for the following enhanced surveillance procedures, among others, that have a significant impact on individual privacy and may impact an employer’s effort to maintain employee privacy:
+
+Expanded authority to intercept wire, oral, and electronic communications relating to terrorism and to computer fraud and abuse offenses.
+
+Roving surveillance authority under the Foreign Intelligence Surveillance Act of 1978 (FISA) to track individuals. (FISA investigations are not subject to Fourth Amendment standards but are instead governed by the requirement that the search serve “a significant purpose.”)
+
+Nationwide seizure of voice-mail messages pursuant to warrants (i.e. without the previously required wiretap order).
+
+Broadens the types of records that law enforcement may obtain, pursuant to a subpoena, from electronic communications service providers.
+
+Permits emergency disclosure of customer electronic communications by providers to protect life and limb.
+
+Nationwide service of search warrants for electronic evidence.
+
+Employers have three choices in terms of their response to a governmental request for information. They may:
+
+voluntarily cooperate with law enforcement by providing, upon request (as part of an ongoing investigation), confidential employee information,
+
+choose not to cooperate and ask instead for permission to seek employee authorization to release the requested information, or
+
+request to receive a subpoena, search warrant, or FISA order from the federal agency before disclosing an employee’s confidential information.
+
+See Business Law for People in Business, Sentia Publishers (2017); http://www.sentiapublishing.com/business/business-law-for-people-in-business-glover-doss-paperback/
+
+Author: William Glover
+
+I received my B.B.A. from the University of Mississippi in 1973 and his J.D. from the University of Mississippi School of Law in 1976. I joined the firm of Wells Marble & Hurst in May 1976 as an Associate and became a Partner in 1979. While at Wells, I supervised all major real estate commercial loan transactions as well as major employment law cases. My practice also involved estate administration and general commercial law. I joined the faculty of Belhaven University, in Jackson, MS, in 1996 as Assistant Professor of Business Administration and College Attorney. While at Belhaven I taught Business Law and Business Ethics in the BBA and MBA programs; Judicial Process and Constitutional Law History for Political Science Department; and Sports Law for the Department of Sports Administration. I still teach at Belhaven as an Adjunct both in the classroom and online. In 2004 I left Belhaven for a short stay at Wells Marble & Hurst, PLLC, and then joined the staff of US Legal Forms, Inc., 2006 where I draft forms, legal digests, and legal summaries. My most recent publications and presentations include: • Author: Sports Law Handbook for Coaches and Administrators, Sentia Publishing, 2017. • Co-Author: In the Arena published by the New York State Bar Association in 2013; • Co-Author: Criminal Justice Communications - Corinthian Colleges, Inc. in 2014. • Co-Author: Business Law for People in Business, Sentia Publishing, 2017. View all posts by William Glover
+
+Administrative Agencies
+
+Business Competition
+
+Business Crime and Cyberlaw
+
+Corporate Stock and Bonds
+
+Intellectual Property
+
+Limited Liability Companies
+
+Secured Transactions in Personal Property
+
+<-- removed online divorce -->
+
+Need a Personal Loan? USLegal has the lenders! --Apply Now--
+
+Personal Legal Forms
+
+Business Legal Forms
+
+FormsPass Subscriptions
+
+© Copyright 1997-2024 airSlate Legal Forms, Inc. USlegal is a Registered Trademark

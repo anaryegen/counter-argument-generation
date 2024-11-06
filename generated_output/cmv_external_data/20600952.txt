@@ -1,0 +1,103 @@
+Thank you for your interest in ExamSoft! Please click the icon below that best describes you:
+
+I want to schedule a demo
+
+I'm an exam-taker or student using Examplify
+
+I'm a current ExamSoft client
+
+3 Alternative Assessment Types and How to Use Them
+
+Various approaches to assessment have emerged as alternatives to traditional, multiple-choice testing. Most alternative assessment practices distinguish themselves from traditional methods by placing an emphasis on deep learning over surface-level learning.
+
+In “Assessment: Authenticity, Context, and Validity,” Grant Wiggins asks, “If competence is more like contextual insight and good judgment than inert knowledge, we will need to rethink our reliance on short-answer, unambiguous items and one-time tests.” Thus, alternative assessment rethinks traditional testing and involves practices that foster a deep understanding of subject matter, beyond the basic faculties of “remembering” and “understanding,” which represent the initial tiers of Bloom’s Taxonomy.
+
+Alternative Assessment Categories
+
+As noted in “Assessment at a Distance: Traditional vs. Alternative Assessments,” alternative assessments fall into three main categories:
+
+Authentic or cognitive
+
+Constructivist or portfolio
+
+While these terms are sometimes used interchangeably, their nuances are key to understanding how these approaches work in practice. But what these categories share is their emphasis on higher-order thinking skills. Read on to learn about the three types of alternative assessment.
+
+Authentic/Cognitive Assessment
+
+An assessment is authentic or cognitive when it asks students to apply their learning in a true-to-life scenario. Wiley Education Services defines authentic assessment as “the idea of using creative learning experiences to test students’ skills and knowledge in realistic situations.” By mimicking experiences students are likely to encounter in their field, authentic assessments can help to prepare students for post-graduation success.
+
+Because students develop specific skill sets related to career requirements, which vary by field of study, authentic assessment can take many shapes. For instance, an authentic assessment for a nursing course may require students to review a mock patient’s health record and provide a healthcare plan. Or for students of education, an authentic assessment activity may be designing a course plan accompanied by a syllabus. In any case, authentic assessment reinforces deep learning by prompting students to exercise their knowledge in a way that’s relevant to their future careers.
+
+Constructivist/Portfolio Assessment
+
+A constructivist or portfolio assessment requires students to assemble a cumulative collection of work that demonstrates their course achievements. “Implementing Alternative Assessment: Opportunities and Obstacles” describes portfolio assessment as “student selection of the best evidence of their learning, reflection on why a piece is best evidence, and a statement of future learning goals.” The scope of a portfolio assessment is much broader than a traditional, multiple-choice test and, therefore, can provide a more nuanced view of student learning. Portfolios can also help students feel more involved in the assessment process by allowing them to determine portfolio content and explain their rationale for including said content.
+
+Depending on the course, students may compose portfolios of class projects, written essays, or other assignments like quizzes or in-class exercises. Some instructors may use portfolios to observe the process of student revision, including students’ adjustments to their work based on past feedback. Because students are responsible for choosing their portfolio content, sharing grading guidelines or rubrics with students can help to direct their efforts.
+
+Performance-Based Assessment
+
+Like other forms of alternative assessment, performance-based assessment engages students in the practice of deep learning. ASCD provides this useful analogy for understanding performance assessment:
+
+Though [an athlete] could demonstrate knowledge of the rules on a paper and pencil test or through practice drills, the actual game requires the player to “put everything together” on the field. Similarly, effective performance assessments require knowledge, skills, and strategy, applied in context.
+
+Just as authentic assessments require students to apply their knowledge and skills to realistic, post-graduation scenarios, performance assessments call upon students’ skills in analysis, evaluation, and creation (the top tiers of Bloom’s taxonomy) to extend their knowledge of a subject beyond the classroom. As ASCD notes, “Any performance assessment of deeper learning needs to engage the student in transferring their learning to a novel situation, different from that in which it was initially learned.”
+
+A performance assessment can take the form of an essay in which students take a position based on current discourse, an experiment in which students test hypotheses and explain their findings, or even an interpretive dance or art project in which students demonstrate synthesis of a text. Like portfolio assessments, instructors can use performance assessment to encourage creative, student-led approaches. But in lieu of a more structured exam format, identifying clear guidelines for grading and sharing these guidelines with students is important to a successful assessment process.
+
+Developing Alternative Assessments
+
+Using any of the above assessment types in the classroom first requires instructors to lay the groundwork to ensure the assessment process is effective — both as a valid and reliable indicator of student learning and for its connection to necessary course objectives.
+
+As you begin developing alternative assessments of your own, follow these key steps derived from Wiley’s “Authentic Assessment in the Online Classroom”:
+
+Create Learning Objectives
+
+Start with a clear set of objectives that represent the skills and abilities you expect students to gain from the course.
+
+Identify Assessment Task
+
+Decide what actions students should be able to take from each learning objective. Consider how these tasks may apply to authentic assessment scenarios, a cumulative portfolio project, or relevant performance tasks and/or presentations.
+
+Define Scoring Criteria
+
+With these assessment tasks in mind, determine the indicators or benchmarks for completing them successfully. To help define your assessment’s benchmarks for success, consider what standards will be expected of students in their prospective careers.
+
+After identifying scoring criteria, determine measurable levels for each to place within a rubric. These levels might rank performance numerically, identify a range from “unsatisfactory” to “excellent,” or even use Bloom’s Taxonomy as a guide — with the topmost tiers of cognition carrying a higher score than the lower tiers.
+
+Share Rubric with Students
+
+When introducing your alternative assessment to the class, sharing the grading criteria in your rubric will communicate learning expectations to help ensure student submissions are on target.
+
+Deliver Alternative Assessments with ExamSoft
+
+Creating the framework for authentic, portfolio, and performance assessments is simple with ExamSoft’s all-in-one software. Using ExamSCORE, ExamSoft’s rubric-based tool, educators can create rubrics to grade uploaded assessments, including essays and research papers, or performance assessments like presentations or rotating clinical stations. To share completed rubrics with students, ExamSCORE makes it easy to print or export rubrics results to PDF.
+
+To keep track of the learning objectives behind each scoring criterion, educators can use ExamSoft’s administrative portal to create categories for each objective and link these categories to criteria in the rubric. By linking categories to rubric criteria, instructors can generate easy-to-understand reports that break down course-wide and individual student performance by each learning objective.
+
+For ease of scoring assessments with artifact uploads, ExamSCORE includes options to view the rubric and the artifact side-by-side. Progress meters at the top of the grading page help assessors gauge their progress while completing rubrics for each student. To provide differentiated feedback, assessors can enter comments for each criterion or overall comments at the rubric level to share with students.
+
+Are you ready to deliver alternative assessments with ExamSoft? Contact an Academic Business Consultant to get started with our data-driven assessment software.
+
+ASCD: 7 Approaches to Alternative Assessments
+
+The Phi Delta Kappan: Assessment: Authenticity, Context, and Validity
+
+TOJET: Assessment at a Distance: Tradition vs. Alternative Assessments
+
+Wiley Education Services: Authentic Assessment in the Online Classroom
+
+The Educational Forum: Implementing Alternative Assessment: Opportunities and Obstacles
+
+ASCD: Assessing Deeper Learning After a Year of Change
+
+ExamSCORE: Student-Centered Objective Rubrics Evaluation
+
+ExamSCORE enables educators to develop objective criteria for subjective assessments to improve scoring and student feedback. Simplify planning, administration, and grading of OSCEs and ensure that evaluation day runs...
+
+Bloom’s Taxonomy (Part 1): Bloom’s Basics
+
+Before a new semester begins, it’s important that educators reassess their curriculum. Have the learning objectives changed? How well do students retain the information and how do they demonstrate their knowledge? Is ...
+
+How to Measure Test Validity and Reliability
+
+Invalid or unreliable methods of assessment can reduce the chances of reaching predetermined academic or curricular goals. Poorly written assessments can even be detrimental to the overall success of a program. It is ...

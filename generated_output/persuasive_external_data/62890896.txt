@@ -1,0 +1,175 @@
+Numbers, Facts and Trends Shaping Your World
+
+Read our research on:
+
+Home Research Topics Internet & Technology Technology Policy Issues Online Privacy & Security
+
+Americans and Privacy: Concerned, Confused and Feeling Lack of Control Over Their Personal Information
+
+Majorities think their personal data is less secure now, that data collection poses more risks than benefits, and believe it is not possible to go through daily life without being tracked
+
+By Brooke Auxier, Lee Rainie, Monica Anderson, Andrew Perrin, Madhu Kumar and Erica Turner
+
+Americans and Privacy: Concerned, Confused and Feeling Lack of Control Over Their Personal Information
+
+1. How Americans think about privacy and the vulnerability of their personal data
+
+2. Americans concerned, feel lack of control over personal data collected by both companies and the government
+
+3. Public knowledge and experiences with data-driven ads
+
+4. Americans’ attitudes and experiences with privacy policies and laws
+
+(Garage Island Crew/Getty Images)
+
+For more recent findings on data privacy, read our 2023 report “How Americans View Data Privacy.”
+
+A majority of Americans believe their online and offline activities are being tracked and monitored by companies and the government with some regularity. It is such a common condition of modern life that roughly six-in-ten U.S. adults say they do not think it is possible to go through daily life without having data collected about them by companies or the government.
+
+Data-driven products and services are often marketed with the potential to save users time and money or even lead to better health and well-being. Still, large shares of U.S. adults are not convinced they benefit from this system of widespread data gathering. Some 81% of the public say that the potential risks they face because of data collection by companies outweigh the benefits, and 66% say the same about government data collection. At the same time, a majority of Americans report being concerned about the way their data is being used by companies (79%) or the government (64%). Most also feel they have little or no control over how these entities use their personal information, according to a new survey of U.S. adults by Pew Research Center that explores how Americans feel about the state of privacy in the nation.
+
+Americans’ concerns about digital privacy extend to those who collect, store and use their personal information. Additionally, majorities of the public are not confident that corporations are good stewards of the data they collect. For example, 79% of Americans say they are not too or not at all confident that companies will admit mistakes and take responsibility if they misuse or compromise personal information, and 69% report having this same lack of confidence that firms will use their personal information in ways they will be comfortable with.
+
+What personal data does government collect and access?
+
+Several of the queries of this survey focus on public perceptions of what “the government” does related to personal data. For instance, respondents were asked: “As far as you know, how much of what you do online or on your cellphone is being tracked by the government?” Related questions focused on people’s attitudes about the data the government collects about them.
+
+It is difficult to determine how much personal data the government collects and otherwise can access through private company records. Administrative government agencies like the IRS, Census Bureau, Postal Service and social welfare departments gather various personal details about people. That includes their tax- and employment-related information, physical attributes if they get a government ID, financial circumstances if they get benefits from social, housing and employment training programs, health information if they participate in government health-insurance programs, addresses, household composition, property ownership if they own houses or cars and educational details if they get student loan or grant, for example. This list is not exhaustive.
+
+Beyond that, national security organizations like the National Security Agency have authority to monitor phone traffic and people’s movements. With subpoenas or court orders and warrants, law enforcement organizations can typically access and monitor people’s phone and traffic records, health records (including genetic records), online and app browsing, search queries, texts and emails. Users’ social media activities and their tech-based social networks are at least at times examined in investigations, according to “transparency reports” released by the companies.
+
+It is important to note, that there are often limitations on the ways government agencies can share what they know with others, including those in other parts of the government.
+
+There is also a collective sentiment that data security is more elusive today than in the past. When asked whether they think their personal data is less secure, more secure or about the same as it was five years ago, 70% of adults say their personal data is less secure. Only 6% report that they believe their data is more secure today than it was in the past.
+
+But even as the public expresses worry about various aspects of their digital privacy, many Americans acknowledge that they are not always diligent about paying attention to the privacy policies and terms of service they regularly encounter. Fully 97% of Americans say they are ever asked to approve privacy policies, yet only about one-in-five adults overall say they always (9%) or often (13%) read a company’s privacy policy before agreeing to it. Some 38% of all adults maintain they sometimes read such policies, but 36% say they never read a company’s privacy policy before agreeing to it.
+
+Moreover, the practice of reading privacy policies doesn’t necessarily guarantee thoroughness. Among adults who say they ever read privacy policies before agreeing to their terms and conditions, only a minority – 22% – say they read them all the way through before agreeing to their terms and conditions.
+
+There is also a general lack of understanding about data privacy laws among the general public: 63% of Americans say they understand very little or nothing at all about the laws and regulations that are currently in place to protect their data privacy.
+
+These findings point to an overall wariness about the state of privacy these days, but there are some circumstances where the public sees value in this type of data-driven environment. For example, pluralities of adults say it is acceptable for poorly performing schools to share data about their students with a nonprofit group seeking to help improve educational outcomes or for the government to collect data about all Americans to assess who might be a potential terrorist.
+
+These findings come from a survey of 4,272 U.S. adults conducted on Pew Research Center’s American Trends Panel between June 3-17, 2019.
+
+Here are some of the key takeaways:
+
+Prevalence of tracking: 72% of Americans report feeling that all, almost all or most of what they do online or while using their cellphone is being tracked by advertisers, technology firms or other companies. Another 19% think some of what they do is being tracked. Close to half (47%) of adults believe at least most of their online activities are being tracked by the government.
+
+When it comes to their offline behavior such as where they are or whom they talk with, 69% believe companies are tracking at least some of that activity. And 56% of Americans think the government is tracking at least some of their activities, like who they are talking to or their whereabouts.
+
+Not feeling in control of personal data: Roughly eight-in-ten or more U.S. adults say they have very little or no control over the data that government (84%) or companies (81%) collect about them.
+
+When it comes to different kinds of information, the picture varies by the specific type. While relatively few Americans feel as if they have a lot of control over who has access to everything from their physical location to their social media posts, there are experiences in which some Americans especially feel a lack of control. Roughly half of Americans (48%) say they feel as if they have no control over who can access the search terms they use, and 41% say the same about the websites they visit. By comparison, a smaller share of the public feels as if they do not have control over who can access their physical location.
+
+Risks vs. rewards of data collection and profiling: 81% of Americans think the potential risks of data collection by companies about them outweigh the benefits, and 66% say the same about government data collection about them. Relatedly, 72% of adults say they personally benefit very little or none from company data collection about them, and 76% say this about the benefits they might get from government data collection.
+
+One aim of the data collection done by companies is for the purpose of profiling customers and potentially targeting the sale of goods and services to them based on their traits and habits. This survey finds that 77% of Americans say they have heard or read at least a bit about how companies and other organizations use personal data to offer targeted advertisements or special deals, or to assess how risky people might be as customers. About 64% of all adults say they have seen ads or solicitations based on their personal data. And 61% of those who have seen ads based on their personal data say the ads accurately reflect their interests and characteristics at least somewhat well. (That amounts to 39% of all adults.)
+
+Data collection and sharing for specific purposes: Despite their broad concerns about data collection and use by companies and the government, pluralities of U.S. adults say it is acceptable for data to be used in some ways. For instance, by a 49%-27% margin, more Americans find it acceptable than unacceptable for poorly performing schools to share data about their students with a nonprofit group seeking to help improve educational outcomes. Similarly, 49% say it is acceptable for government to collect data about all Americans to assess who might be a potential terrorist threat. That compares with 31% who feel it is unacceptable to collect data from all Americans for that purpose.
+
+On the other hand, more find it unacceptable than acceptable for social media companies to monitor users’ posts for signs of depression so they can identify people who are at risk of self-harm and connect them to counseling services (45% vs. 27%). The same pattern arises when it comes to companies that make smart speakers sharing audio recordings of customers with law enforcement to help with criminal investigations: 49% say this it is unacceptable, while 25% find it acceptable.
+
+The public is more evenly divided when it comes to the acceptability of fitness tracking app makers sharing user data with medical researchers to better understand the link between exercise and heart disease.
+
+Concern about how data is used: 79% of adults assert they are very or somewhat concerned about how companies are using the data they collect about them, while 64% say they have the same level of concern about government data collection.
+
+Separately, Americans have mixed views about which groups concern them in getting access to their data: About four-in-ten are concerned a lot about the personal information social media sites (40%) or advertisers might know about them (39%). But only 9% of Americans worry a lot about the information family and friends might know and 19% have similar concerns about what their employers might know.
+
+Still, the majority of Americans are not confident about the way companies will behave when it comes to using and protecting their personal data. Roughly seven-in-ten or more say they are not too or not at all confident that companies will admit mistakes and take responsibility when they misuse or compromise data (79%), will be held accountable by government if they misuse data (75%), or will use customers’ data in ways that people would feel comfortable with (69%).
+
+When it comes to data use for specific purposes, Americans have varying views depending on the purpose for the data use. For example, 57% of adults say they are very or somewhat comfortable with companies using their personal data to help companies improve their fraud prevention systems. But they are evenly split when the issue is their comfort with companies using their personal data in developing new products. About a third (36%) of adults say they are at least somewhat comfortable with companies sharing their personal data with outside groups doing research that might help them improve society, but a larger share (64%) say they would be uncomfortable with this practice.
+
+Lack of understanding: 78% of U.S. adults say they understand very little or nothing about what the government does with the data it collects, and 59% say the same about the data companies collect. Only 6% of adults say they understand a great deal what companies do with the data collected, and a similar share (4%) say they know a great deal about what the government does with the data.
+
+Some Americans also admit they struggle to understand the privacy laws that govern use of their data. Roughly six-in-ten Americans (63%) say they have very little or no understanding of the laws and regulations that are currently in place to protect their privacy. Only 3% of adults say they understand these laws a great deal, and 33% say they have some understanding.
+
+How Americans handle privacy policies: Core parts of the current system of data collection and privacy protection are built on the idea that consumers are given notice about how firms collect and use data and ask for their consent to having their data used that way. Fully 97% say they are ever asked to approve privacy policies, yet only one-in-five adults overall say they always (9%) or often (13%) read these policies. Some 38% of U.S. adults maintain they sometimes read such policies, and 36% say they never read a company’s privacy policy before agreeing to it. In all, about four-in-ten adults say they understand privacy policies great deal (8%) or some (33%).
+
+In addition to the concerns cited above about how companies handle personal data, a majority of Americans (57%) say they are not too confident (40%) or not at all confident (17%) companies follow what their privacy policies say they will do with users’ personal data.
+
+Several other key findings in the survey:
+
+Roughly three-in-ten Americans (28%) say they have suffered at least one of three kinds of major identity theft problems in the previous 12 months at the time of the survey: 21% have had someone put fraudulent charges on their credit or debit card; 8% have had someone take over their social media or email accounts without their permission; and 6% have had someone try to open a credit line or get a loan using their name.
+
+A majority of U.S. adults (57%) say they follow privacy news very closely (11%) or somewhat closely (46%).
+
+There are some differences by age on some privacy issues: People in different age groups have varying views on some key privacy and surveillance issues. Americans ages 65 and older are less likely than those ages 18 to 29 to feel they have control over who can access things like their physical location, purchases made both online and offline and their private conversations. At the same time, older Americans are less likely to think they benefit from data collection: Just 17% of those 65 and older believing they benefit from the data government collects about them, and only 19% think the same about data collected by companies.
+
+There are also age differences on the issue of how data gets used once obtained. Americans ages 65 and older are more likely than younger adults to say it is acceptable for law enforcement to use customers’ genetic data to help solve crimes, approve data collection to assess terrorist threats, and have smart speaker makers share users’ audio recordings in investigations. By contrast, young adults ages 18 to 29 are more likely than older adults to find acceptable the idea that social media companies monitor users for signs of depression and to allow fitness tracking user data to be shared with medical researchers.
+
+In addition, two-thirds of adults ages 65 and older say they follow privacy news at least somewhat closely, compared with just 45% of those 18 to 29 who do the same.
+
+There are differences by race and ethnicity on some privacy issues: Black Americans are more likely than white Americans to say they believe the government is tracking all or most of what they do online or on their cellphone (60% vs. 43%). Similar gaps are present in views about offline activities: 47% of black adults think all or most of their offline activities are tracked by the government, compared with just 19% of white adults.
+
+In addition, black and Hispanic adults are more likely than white adults to say they are concerned to some degree about what law enforcement officials, employers and family and friends know about them.
+
+When it comes to identity-theft issues, black adults (20%) are roughly three times as likely as their Hispanic (7%) or white counterparts (6%) to say someone has taken over their social media or email account in the past year. Black Americans are also more likely than white and Hispanic adults to say someone attempted to open a line of credit or applied for a loan using their name in the past 12 months.
+
+At the same time, white adults also report feeling less control across several information types when compared with black and Hispanic adults. For example, 50% of white Americans feel they have control over who can access information about their on- and offline purchases, compared with 69% of black adults and 66% of Hispanic adults.
+
+CORRECTION: In the chart, “Majority of Americans feel as if they have little control over data collected about them by companies and the government,” the explanatory text for the findings related to “Risks outweigh benefits” was transcribed incorrectly. The correct text is, “Potential risks of ___ (companies or the government) collecting data about them outweigh the benefits.”
+
+Next: How Americans think about privacy and the vulnerability of their personal data
+
+1 2 3 4 5 6 7 Next Page →
+
+Sign up for our weekly newsletter
+
+Fresh data delivery Saturday mornings
+
+Sign up for The Briefing
+
+Weekly updates on the world of news & information
+
+Online Privacy & Security
+
+Technology Policy Issues
+
+short readsSep 19, 2024
+
+Americans in both parties are concerned over the impact of AI on the 2024 presidential campaign
+
+short readsMay 15, 2024
+
+A quarter of U.S. teachers say AI tools do more harm than good in K-12 education
+
+short readsMar 26, 2024
+
+Many Americans think generative AI programs should credit the sources they rely on
+
+short readsMar 26, 2024
+
+Americans’ use of ChatGPT is ticking up, but few trust its election information
+
+short readsFeb 6, 2024
+
+Q&A: How we used large language models to identify guests on popular podcasts
+
+1How U.S. Public Opinion Has Changed in 20 Years of Our Surveys
+
+2Are you in the American middle class? Find out with our income calculator
+
+3More Americans – especially young adults – are regularly getting news on TikTok
+
+47 facts about Germany’s AfD party
+
+5Black voters support Harris over Trump and Kennedy by a wide margin
+
+American Trends Panel Wave 49
+
+Americans and Privacy: Concerned, Confused and Feeling Lack of Control Over Their Personal Information
+
+1. How Americans think about privacy and the vulnerability of their personal data
+
+2. Americans concerned, feel lack of control over personal data collected by both companies and the government
+
+3. Public knowledge and experiences with data-driven ads
+
+4. Americans’ attitudes and experiences with privacy policies and laws
+
+901 E St. NW, Suite 300 Washington, DC 20004 USA (+1) 202-419-4300 | Main (+1) 202-857-8562 | Fax (+1) 202-419-4372 | Media Inquiries
+
+ABOUT PEW RESEARCH CENTER Pew Research Center is a nonpartisan, nonadvocacy fact tank that informs the public about the issues, attitudes and trends shaping the world. It does not take policy positions. The Center conducts public opinion polling, demographic research, computational social science research and other data-driven research. Pew Research Center is a subsidiary of The Pew Charitable Trusts, its primary funder.
+
+© 2024 Pew Research Center

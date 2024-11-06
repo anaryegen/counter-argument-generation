@@ -1,0 +1,347 @@
+Prayer and Religious Expression in Public Institutions: A Constitutional Analysis
+
+June 23, 2014 R43188
+
+The First Amendment of the U.S. Constitution prohibits the government from providing official support or endorsement of religion and from interfering with individuals’ exercise of religion. Balancing the constitutional protections under the Establishment and Free Exercise Clauses, as these provisions are known, often leads to questions regarding the extent to which religious activities may occur within public institutions or at public events. On one hand, permitting prayer at publicly sponsored activities arguably may suggest official support for religion. On the other hand, restricting religious expression by individuals at such activities may appear to interfere with their ability to exercise their religious beliefs freely.
+
+As a general rule, publicly sponsored prayer is prohibited under the First Amendment with few exceptions. Legal challenges to prayer in public fora have arisen most frequently in the context of prayer in schools. The U.S. Supreme Court generally has struck down school prayer policies adopted by public schools, even if the content of the prayer is neutral and participation among students is voluntary. This prohibition has been extended to extracurricular and other school-related activities as well, but does not apply to all religious activity in public schools. Rather, the First Amendment prohibits any school-sponsored religious activity, but protects students’ ability to pray voluntarily at their own initiative.
+
+Although official prayers by public institutions are generally unconstitutional, there are a few notable exceptions. The Supreme Court has recognized that legislative prayer—invocations made to open legislative sessions—are generally permissible because of the role such prayers have played in the history and tradition of American government. Although the Court acknowledged the constitutionality of legislative prayer, for decades, lower courts generally have had to interpret the parameters of the exemption, including how speakers may be selected and what the content of such prayers may be. The Court issued a decision in Town of Greece, New York v. Galloway in 2014 clarifying that legislative prayers need not be nonsectarian to pass constitutional muster. Furthermore, courts have acknowledged other exemptions, upholding the constitutionality of the military chaplaincy and the use of religious references in official proceedings and on coins and currency.
+
+Constitutional Questions
+
+Report Type: CRS Report
+
+Source: EveryCRSReport.com
+
+Prayer and Religious Expression in Public Institutions: A Constitutional Analysis
+
+June 23, 2014 (R43188)
+
+Prayer and Other Religious Activities During School Hours
+
+Prayer at School-Related Activities
+
+Constitutional Protections for Individual Religious Activity
+
+General Permissibility of Legislative Prayers
+
+Scope of Legislative Prayer Exemption
+
+Selection of Speakers and Content of Prayers
+
+School Boards as Legislative Bodies
+
+Standing To Challenge Legislative Prayers
+
+Invocations and Other Acknowledgments of Religion at Public Events
+
+Standing to Challenge Government Expression and Acknowledgment of Religion
+
+Legislative Issues in the 113th Congress
+
+The First Amendment of the U.S. Constitution prohibits the government from providing official support or endorsement of religion and from interfering with individuals' exercise of religion. Balancing the constitutional protections under the Establishment and Free Exercise Clauses, as these provisions are known, often leads to questions regarding the extent to which religious activities may occur within public institutions or at public events. On one hand, permitting prayer at publicly sponsored activities arguably may suggest official support for religion. On the other hand, restricting religious expression by individuals at such activities may appear to interfere with their ability to exercise their religious beliefs freely.
+
+As a general rule, publicly sponsored prayer is prohibited under the First Amendment with few exceptions. Legal challenges to prayer in public fora have arisen most frequently in the context of prayer in schools. The U.S. Supreme Court generally has struck down school prayer policies adopted by public schools, even if the content of the prayer is neutral and participation among students is voluntary. This prohibition has been extended to extracurricular and other school-related activities as well, but does not apply to all religious activity in public schools. Rather, the First Amendment prohibits any school-sponsored religious activity, but protects students' ability to pray voluntarily at their own initiative.
+
+Although official prayers by public institutions are generally unconstitutional, there are a few notable exceptions. The Supreme Court has recognized that legislative prayer—invocations made to open legislative sessions—are generally permissible because of the role such prayers have played in the history and tradition of American government. Although the Court acknowledged the constitutionality of legislative prayer, for decades, lower courts generally have had to interpret the parameters of the exemption, including how speakers may be selected and what the content of such prayers may be. The Court issued a decision in Town of Greece, New York v. Galloway in 2014 clarifying that legislative prayers need not be nonsectarian to pass constitutional muster. Furthermore, courts have acknowledged other exemptions, upholding the constitutionality of the military chaplaincy and the use of religious references in official proceedings and on coins and currency.
+
+Prayer and Religious Expression in Public Institutions: A Constitutional Analysis
+
+The First Amendment of the U.S. Constitution prohibits the government from establishing religion (the Establishment Clause),1 which the U.S. Supreme Court has interpreted to include a prohibition on official support or endorsement of religion.2 It also prohibits the government from interfering with individuals' exercise of religion (the Free Exercise Clause).3 The balancing of these constitutional provisions often leads to questions regarding the extent to which religious activities may occur at public events or within public institutions. On one hand, it may be argued that permitting prayer as a part of publicly sponsored events or activities suggests official support for religion. On the other hand, restricting religious expressions at events or activities may appear to interfere with individuals' ability to exercise their religious beliefs.
+
+The Court has addressed these questions in a variety of contexts and drawn important distinctions regarding the constitutionality of such prayers. In particular, the Court's major decisions have focused on two categories of public prayers: prayer in schools and legislative prayers. Lower courts have considered the constitutionality of publicly sponsored prayers in other contexts, including the military chaplaincy as well as invocations and other religious commemorations at public events. This report will analyze the Court's approach to each of these categories and examine the relevant distinctions used to determine whether a public official or entity may engage in prayer activity or other religious commemorations.
+
+The Court's interpretation of the Establishment Clause's prohibition on publicly sponsored prayer arises from the historical roots of the founding of the United States.4 The Court has noted that the "practice of establishing governmentally composed prayers for religious services was one of the reasons which caused many of our early colonists to leave England and seek religious freedom in America."5 Accordingly, the Court has held that "the constitutional prohibition against laws respecting an establishment of religion must at least mean that in this country it is no part of the business of government to compose official prayers for any group of the American people to recite as a part of a religious program carried on by government."6
+
+However, the Court has also recognized the significance of the role of religion in the history of the nation and has upheld some religious messages in selected public contexts. As a general rule, the Court has permitted public displays of religious symbols, including in one case a display of the Ten Commandments, if the display is set in a diversified context.7 The Court also has allowed privately donated displays of religious messages on public grounds, although these cases were not resolved under the Establishment Clause.8 Despite the Court's decisions upholding public displays with religious messages, it is important to note that these cases are distinguishable from its public prayer decisions.9
+
+As a general rule, publicly sponsored prayer is prohibited by the Establishment Clause. Legal challenges to public prayers have arisen most frequently in the context of school prayers, and the U.S. Supreme Court consistently has struck down school policies that implement official acts of prayer in school settings.10
+
+Prayer and Other Religious Activities During School Hours
+
+Supreme Court jurisprudence explains that neither neutrality of a prayer, nor its voluntary nature, can cure the constitutional violation of a publicly adopted prayer program in schools. The Court struck down a New York school district's policy that adopted the following prayer for daily recitation: "Almighty God, we acknowledge our dependence on Thee, and we beg Thy blessings upon us, our parents, our teachers and our Country."11 Finding "no doubt" that the daily invocation was a religious activity, the Court rejected the school district's justification of the prayer as a nondenominational, voluntary activity.12 According to the Court, "the Establishment Clause … does not depend upon any showing of direct governmental compulsion and is violated by the enactment of laws which establish an official religion whether those laws operate directly to coerce nonobserving individuals or not."13 Similarly, the Court struck down Pennsylvania and Maryland state policies that required passages from the Bible be read aloud daily in public schools.14 The passages were chosen from the Christian Bible and students were permitted to be excused during the exercise.15 The Court again rejected the voluntary nature of the exercise as a justification of adopting a religious activity under the Establishment Clause.16 Although students may have been permitted to be excused from the exercise, their attendance at school was required by law and they remained confined to the building in which the activity took place and under the supervision of school employees who participated in the exercise.17
+
+When considering challenges to school programs that include public prayers, the Court has emphasized the importance of a secular purpose. Programs that clearly indicate an intent to promote prayer in schools do not comport with the Establishment Clause.18 In 1981, Alabama amended a statute authorizing a moment of silence "for meditation" to authorize a moment of silence "for meditation or voluntary prayer."19 The sponsor of the legislation stated in the legislative record that the change was intended to return prayer to schools.20 Because there was no evidence of a secular purpose, the Court held that the legislature's action was unconstitutional, explaining that "the legislative intent to return prayer to the public schools is, of course, quite different from merely protecting every student's right to engage in voluntary prayer during an appropriate moment of silence during the schoolday."21
+
+Prayer at School-Related Activities
+
+The Court has extended the constitutional restrictions on prayer during the school day to other school-related activities, such as graduations and sporting events. Underlying this rule is the Court's understanding that "the Constitution guarantees that government may not coerce anyone to support or participate in religion or its exercise."22
+
+In Lee v. Weisman, the Court struck down a school's policy to invite local clergy to deliver nonsectarian prayers at school graduation ceremonies because of the state's involvement in the prayer and the coercive effect that the practice would have on students.23 The Court noted that the school decided whether to have a prayer at the graduation; which religious participant would deliver the prayer; and what the guidelines for the content of the prayer would be.24 The Court interpreted the school's involvement in each step of this process to mean that the prayer was attributable to the state.25 According to the Court, the school's actions were unconstitutional regardless of the steps it took to maintain neutrality in the prayer and its delivery.26
+
+Because of the heightened concerns related to the First Amendment in elementary and secondary schools, the Court has noted that prayer activities in schools "carry a particular risk of indirect coercion."27 This risk was an underlying factor in the Court's earlier school prayer decisions that involved daily prayers and scripture readings.28 Just as the Court rejected attempts to justify those activities through their voluntary nature, it likewise rejected arguments that a student's attendance at his or her graduation ceremony was actually voluntary. Noting the social significance of one's graduation, the Court explained that "[a]ttendance may not be required by official decree, yet it is apparent that a student is not free to absent herself from the graduation exercise in any real sense of the term 'voluntary,' for absence would require forfeiture of those intangible benefits which have motivated the student through youth and all her high school years."29 The pressure on students to conform through attendance at and participation in the ceremony, "though subtle and indirect, can be as real as any overt compulsion."30 Accordingly, the Court distinguished the legitimacy of other public prayers that it had held constitutional from those offered in school settings "because the State has in every practical sense compelled attendance and participation in an explicit religious exercise at an event of singular importance to every student, one the objecting student had no real alternative to avoid."31
+
+The Court later considered whether the constitutional restrictions on prayer at school events would extend to prayers at extracurricular football games. A Texas high school adopted a prayer policy that allowed two student elections, which determined, first, whether invocations would be delivered at football games and, second, who would deliver such invocations.32 Once the students voted to deliver invocations and chose their preferred speaker, that speaker was designated to deliver the invocation at every game for the entire season.33 The Court distinguished the case from others in which it had upheld government support for religious speech because the school did not open the practice "to indiscriminate use … by the student body generally."34 The Court explained that "the majoritarian process implemented by the District guarantees … that minority candidates will never prevail and that their views will effectively be silenced."35 The Court noted that the school's involvement was equally impermissible as in the case of prayer during a graduation ceremony and again rejected the school's justification that it had attempted to include a majority of the audience subjected to the prayer exercise.36 The Court emphasized the constitutional requirement for a secular purpose, noting that the secular purpose must be sincere and that the history of the school's actions regarding the policy indicated "that the District intended to preserve the practice of prayer before football games."37 The nature of a high school football game as an extracurricular activity did not resolve the Court's concern that students may feel indirectly coerced to participate. The Court recognized that for some students attendance at a football game may be required for class credit and even for those who attend without any official commitment, attendance at such events is "part of a complete educational experience."38
+
+Constitutional Protections for Individual Religious Activity
+
+Those who disagree with the Court's decisions limiting school prayer have argued that restricting religious activities in schools carries its own risk of violating the First Amendment. These concerns suggest that such restrictions may violate requirements of the Establishment Clause by demonstrating a disapproval or hostility to religion or the requirements of the Free Exercise by interfering with individuals' ability to exercise their beliefs at public events. One of the Court's standards for considering potential Establishment Clause violations requires that government actions are neutral between religions and between religion and non-religion.39 The Court has explicitly addressed this argument, explaining that the drafters included individuals with "faith in the power of prayer who led the fight for adoption of our Constitution and also for our Bill of Rights with the very guarantees of religious freedom that forbid the sort of governmental activity" that adopts an official prayer.40 However, according to the Court, "by no means do [the religion clauses] impose a prohibition on all religious activity in our public schools."41 The restriction is imposed only on the school sponsoring a religious practice, but students remain free to pray voluntarily "at any time before, during, or after the schoolday."42 Such a rule avoids constitutional concerns because it not only prevents the government from adopting an official position related to religious practice, but also ensures that individuals may practice their religious beliefs without interferences if they initiate such activity voluntarily.
+
+Although a number of restrictions apply to official prayers, the Court has recognized that in certain public contexts, official prayer or religious expression may be permissible, e.g., the legislative prayer exemption. Legislative prayers generally are permissible provided that such prayers do not indicate a government preference for one religion over another.
+
+General Permissibility of Legislative Prayers
+
+In 1983, the Court interpreted the Establishment Clause in the context of prayers in legislative bodies of government. In Marsh v. Chambers, a state legislator challenged the Nebraska legislature's practice of opening legislative sessions with a prayer by a state-funded chaplain.43 The Court allowed the practice, emphasizing the long history and tradition of legislative prayer in the United States that dated back to the nation's founding.44 In doing so, the Court created a standard that relied on the historical nature of the practice, stating that "[i]n light of the unambiguous and unbroken history of more than 200 years, there can be no doubt that the practice of opening legislative sessions with prayer has become part of the fabric of our society."45
+
+The Court noted that prayers like the one at issue in Marsh were typical practices in various government contexts and recognized the standard judicial practice in federal courts to open with an announcement stating "God save the United States and this Honorable Court."46 Furthermore, the Court examined the history of the U.S. Congress itself, noting a tradition of opening sessions with prayer that dated back to 1774.47 The Court's historical study of the practice of legislative prayers indicated that Congress authorized the use of publicly funded legislative chaplains within days of approving the First Amendment as part of the Bill of Rights.48 Although the issue in Marsh involved a state legislature's prayer activity, the Court's rationale indicated that it would not distinguish between whether actors were state or federal bodies, or between which branch of government conducted the prayer.
+
+After holding that the legislature's prayer was constitutional, the Court addressed additional questions raised by the case regarding its implementation. The Court held that the long tenure of a chaplain of a particular denomination did not invalidate the practice by itself. Even though a Presbyterian chaplain had held the position for 16 years, other chaplains had been used as substitutes over that period. According to the Court, "absent proof that the chaplain's reappointment stemmed from an impermissible motive, we conclude that his long tenure does not in itself conflict with the Establishment Clause."49 The Court declined to hold the content of the prayer unconstitutional, given the lack of evidence that the prayer was an attempt to advance or disparage a particular religion.50 The Court noted that specific references to Christ had been removed at the request of a Jewish legislator years before the litigation and that the prayer was nonsectarian.51 Furthermore, the Court relied on historical interpretations of invocations and found that the chaplain's prayer was an action that "harmonize[d]" tenets from various religions and as such did not violate the Establishment Clause.52
+
+Scope of Legislative Prayer Exemption
+
+The Supreme Court has emphasized that legislative prayer cannot be deemed constitutional merely because of its long-standing historical practice.53 Rather, if a legislative prayer goes beyond the acceptable limits implied in Marsh, a court may find that prayer to be unconstitutional. The purpose of legislative prayer, as explained by the Court, is to acknowledge widely held religious beliefs, not to reflect one particular religious perspective.54 Accordingly, legislative prayer may be unconstitutional if it is "exploited to proselytize or advance any one, or to disparage any other, faith or belief."55 A number of courts have considered issues related to the delivery of legislative prayers since the Court decided Marsh, shedding light on factors relevant to the constitutional analysis.
+
+Selection of Speakers and Content of Prayers
+
+Federal courts have encountered a number of questions related to the selection of, and consequently the regulation of content delivered by, the speaker of legislative prayers. For instance, some questions that have been raised include whether the government may choose (or alternatively) reject a particular speaker, what restrictions may apply to that selection process, and whether the restrictions interfere with the speaker's Free Exercise rights.
+
+The U.S. Court of Appeals for the 10th Circuit has held that it is constitutional for a city to choose individuals to deliver prayers at city council meetings.56 A Utah city council opened its meetings with a prayer after soliciting volunteers from local religious communities. Tom Snyder, a local individual who opposed the practice of legislative prayers, requested permission to recite a prayer before the city council, which refused his request. The proposed prayer "[called] on public officials to cease the practice of using religion in public affairs" and was deemed "unacceptable" by the city council.57 Snyder challenged the council's refusal to select him to deliver the prayer as a violation of the Establishment Clause, claiming that "in branding his particular prayer 'unacceptable' … [the city] has impermissibly preferred one religion over another."58
+
+The court explained that Marsh established legislative prayer as a constitutional practice of government religious activity. The court reasoned that
+
+as a consequence of the fact that this genre of government religious activity cannot exist without the government actually selecting someone to offer such prayers, the decision in Marsh also must be read as establishing the constitutional principle that a legislative body does not violate the Establishment Clause when it chooses a particular person to give its invocational prayers. Similarly, there can be no Establishment Clause violation merely in the fact that a legislative body chooses not to appoint a certain person to give its prayers.59
+
+Under the court's rationale, the constitutionality of legislative prayers does not appear to require that any willing participant be given equal access to participate in the prayers.
+
+The Supreme Court issued its only decision on legislative prayer since Marsh in 2014, clarifying whether legislatures must limit the content of prayers by outside speakers.60 In Town of Greece, NY v. Galloway, a 5-4 majority of the Court rejected the assumption that legislative prayer must be nonsectarian to satisfy Marsh's requirement that prayer not advance a particular religion.61 Despite the predominance of Christian prayers delivered at monthly town board meetings, the Court held that sectarian references alone do not violate the Establishment Clause. Instead, the Court wrote, "[s]o long as the town maintains a policy of nondiscrimination, the Constitution does not require it to search beyond its borders for non-Christian prayer givers in an effort to achieve religious balancing."62
+
+Over several decades, the town invited local clergy to deliver an invocation before the monthly board meeting, selecting speakers first from a local directory and later from a compilation of past participants.63 As the Court noted, "the town at no point excluded or denied an opportunity to a would-be prayer giver," although in practice the vast majority of the town's congregations and the clergy participants were Christian.64 The town did not instruct participants on tone or content, nor did it review the prayers prior to delivery. 65 Individuals attending the town board meetings challenged the sectarian nature of the prayers and lack of diversity among the participants, alleging that the practice was unconstitutional under the Establishment Clause.66
+
+The Justices' opinions in Town of Greece illustrated significant divisions among the Court on the framework for analyzing legislative prayer. Despite those divisions, a narrow majority of Justices agreed that "[a]bsent a pattern of prayers that over time denigrate, proselytize, or betray an impermissible government purpose, a challenge based solely on the content of a prayer will not likely establish a constitutional violation."67 The Court's opinion, authored by Justice Kennedy, reaffirmed that the constitutional analysis of legislative prayer is rooted in the historical "fabric of society" test reflected in Marsh, but it also recognized that historical practice alone cannot justify government activity that otherwise would violate the First Amendment.68 The Court clarified that "Marsh stands for the proposition that it is not necessary to define the precise boundary of the Establishment Clause where history shows that the specific practice is permitted."69 Accordingly, the majority refused to adopt a nonsectarian standard for legislative prayer, indicating that religious diversity can be achieved "by welcoming ministers of many creeds," and does not require proscribing certain content in public prayers.70 The Court explained that establishing a nonsectarian standard would require legislatures to regulate religious speech and consequently create additional risks of First Amendment violations (e.g., Free Exercise and Free Speech concerns, discussed below).71 The Court's decision also reflects a tendency to avoid defining religious content, noting that identifying a prayer that is "inclusive beyond dispute" would be impossible, and "the next-best option" of identifying a prayer that is acceptable to a majority would violate the First Amendment rights of the minority.72
+
+After holding that the content of a legislative prayer is not dispositive in constitutional analysis, the majority noted that the prayer practice must not coerce religious observance.73 None of the Justices comprising the majority found that the prayers offered before the board constituted coercion, but they were divided in the application of the coercion test.74 Justice Kennedy, joined by Chief Justice Roberts and Justice Alito, wrote that whether a prayer practice is coercive is "a fact-sensitive [inquiry] that considers both the setting in which the prayer arises and the audience to whom it is directed."75 These Justices explained that the prayer was offered on behalf of the board members, not the public; that the prayer was offered independently by non-board members; and that there was no evidence of preferential or discriminatory treatment by the board based on attendees' participation.76 Separately, Justices Thomas and Scalia wrote that unconstitutional coercion must be "actual legal coercion ... not the 'subtle coercive pressures' allegedly felt ... in this case."77 They defined such coercion as requiring financial support of religious institutions, compelling religious observance, or controlling religious doctrine.78 Accordingly, the standard for coercion to be applied in future cases remains unclear. However, both opinions agreed that individuals being offended by a particular prayer practice is not sufficient to demonstrate unconstitutional coercion.79
+
+The dissenting Justices criticized the Court's holding as disregarding the constitutional promise of pluralism and diversity among religions in public fora.80 Although the dissenters acknowledged the constitutional tradition of legislative prayer under Marsh, they disagreed that the prayer practice at issue in the case fit within that tradition, noting that the town board's function is both legislative (within the purview of Marsh) as well as an opportunity "for ordinary citizens to engage with and petition their government, often on highly individualized matters."81 Because of this second function, the town, according to the dissent, had a higher duty to maintain neutrality and strive for inclusion.82 The dissent's critique explained the distinctions between the prayers permitted under Marsh and those delivered in Town of Greece, noting that a prayer before a state legislature differs from a prayer before a local town council because of the nature and purpose of the proceedings; the audience of the prayer; and content and character of the prayer.83 Despite the dissent's critique, it did not suggest a ban on prayer at local town councils.84 Instead, the dissenting Justices would require the town to inform speakers that prayers must be nonsectarian, "common to diverse religious groups."85
+
+In addition to the questions arising under the Establishment Clause relating to the selection of speakers, other challenges may be raised regarding whether a prayer policy violates the speaker's Free Exercise rights by dictating how selected individuals may pray at legislative meetings. In a 2008 case in the U.S. Court of Appeals for the Fourth Circuit, a city council refused to permit a council member whose religious beliefs require that he close prayers with specific reference to Jesus Christ to deliver the council's invocation.86 The council member challenged the requirement that all prayers be nondenominational as a violation of his right under the Free Exercise and Free Speech Clauses of the First Amendment. The court's decision, authored by retired U.S. Supreme Court Justice Sandra Day O'Connor, sitting by designation for the case, held that legislative prayer is governmental speech and as such, its content can be regulated by the government.87 The court explained, "[The speaker] was not forced to offer a prayer that violated his deeply-held religious beliefs. Instead, he was given a chance to pray on behalf of the government. [He] was unwilling to do so in the manner that the government had proscribed, but remains free to pray on his own behalf, in nongovernmental endeavors, in the manner dictated by his conscience."88
+
+The decision comports with the Supreme Court's interpretation of government speech generally.89
+
+School Boards as Legislative Bodies
+
+Courts generally have held that Marsh created an exemption from the Establishment Clause's prohibition on state-sponsored religious expression, but have interpreted the exemption narrowly. Several appellate courts have explained that the exemption for legislative prayer cannot be extended to all possible governmental contexts, and several courts have refused to uphold prayers at school board meetings under Marsh.90
+
+Under traditional Establishment Clause jurisprudence, courts have applied a heightened standard for potential violations in contexts involving children, particularly in education. The Supreme Court has held that the unique nature of the school environment creates heightened risks that students may be coerced into participation in religious activities or that they may not understand that the religious activity is not an official act.91 The Court has emphasized that even if a student is not officially obligated to participate in a prayer or attend an event where a prayer may be offered, an official delivery of a prayer in a school setting may violate the student's First Amendment rights.92 The Court reasoned that such prayers could force the student to make a choice between attending the event and missing a significant experience in his or her educational career.93
+
+While the Supreme Court has applied this understanding in the context of graduation and school sporting events, lower courts have extended it to apply to school board meetings, explaining that school board meetings also comprise part of the educational experience.94 These courts have recognized a variety of instances in which students may feel obligated or wish to attend school board meetings: student disciplinary actions adjudicated by the school board; student involvement in school government and public debate; student performances; and student award ceremonies presented by the school board.95 One court explained that these connections between school board meetings and students' educational experience indicate "that school board meetings are an integral component of the … public school system" and as such "remove it from the logic in Marsh and … place it squarely within the history and precedent concerning the school prayer line of cases."96
+
+Despite the similarity of the school board to deliberative bodies in government, it has not been considered to be sufficiently analogous to qualify for Marsh's legislative prayer exemption:
+
+Simply stated, the fact that the function of the school board is uniquely directed toward school-related matters gives it a different type of 'constituency' than those of other legislative bodies – namely students. Unlike ordinary constituencies, students cannot vote. They are thus unable to express their discomfort with state-sponsored religious practices through the democratic process.97
+
+Accordingly, courts have recognized that student involvement in school board meetings may be considered compulsory and therefore cannot be examined under the parameters of Marsh.
+
+Standing To Challenge Legislative Prayers
+
+Although the constitutionality of legislative prayers generally has been upheld, legal challenges to such prayers may be difficult to sustain due to restrictions on standing. Standing is a constitutional principle that serves as a restraint on the power of federal courts to render decisions.98 Under general standing rules that apply to any case, an individual must have an individualized interest that has actually been harmed under the law or by its application to bring that case to court.99 In some instances, an individual may wish to challenge a governmental action that injures the individual generally as a member of society. The U.S. Supreme Court has construed the requirements to raise such cases narrowly.
+
+As a general rule, taxpayers do not have standing to challenge the constitutionality of the appropriation of funds for government programs.100 However, the Court has specifically allowed an exception to the taxpayer standing rule for certain claims arising under the Establishment Clause.101 The Court continually has construed this exception narrowly, refusing to extend it to permit taxpayer lawsuits challenging executive actions or taxpayer lawsuits challenging congressional actions taken under powers other than taxing or spending.102 Under the so-called Flast exception to the general prohibition on taxpayer standing, taxpayers may raise challenges of actions taken by Congress under Article I's Taxing and Spending Clause that exceed specific constitutional limitations (i.e., the Establishment Clause).103 The Flast exception grants taxpayers standing only if there is (1) a "logical link between [taxpayer] status and the type of legislative enactment attacked" and (2) "a nexus between that status and the precise nature of the constitutional infringement alleged."104 The Court later clarified the application of Flast in Hein v. Freedom from Religion Foundation, explaining that the taxpayers in Flast challenged an action "funded by a specific congressional appropriation and was undertaken pursuant to an express congressional mandate."105 Without such a "link between congressional action and constitutional violation," taxpayers cannot claim standing to assert Establishment Clause claims.106
+
+After the Court issued its decision in Hein, a lawsuit challenging legislative prayer in the Indiana legislature was dismissed due to lack of standing of the litigants.107 Four taxpayers attempted to challenge the delivery of sectarian prayers before legislative sessions. Under legislative rules, a prayer or invocation is offered each day prior to the conduct of any business, a practice dating back almost two centuries.108 However, the U.S. Court of Appeals for the 7th Circuit refused to adjudicate the merits of the case, finding that the legislature's prayer practice originated in legislative rules and was not mandated by statute.109 The court explained that the program's administration was "a matter of House tradition, implemented at the discretion of the Speaker. Although there is some minimal amount of funds expended in the administration of the program, the plaintiffs have not pointed to any specific appropriation of funds by the legislature to implement the program."110 Noting that "the 'use' of funds for the allegedly unconstitutional program, without more, is not sufficient to meet the nexus required by Flast," the court held that taxpayers could not claim standing to challenge Indiana's prayer practice.111
+
+Although the rules for recognizing taxpayer standing have curtailed significantly the ability of taxpayers to challenge prayers conducted by legislatures, courts still may recognize standing of other parties who have an individualized interest beyond their status as taxpayers. For instance, a member or attendee who has business before a legislative body and opposes the prayer practice could likely demonstrate an individualized injury to assert standing to challenge the practice.112 In some cases, individuals seeking to be appointed to deliver the prayer or invocation may also be recognized as having the requisite standing to challenge legislative prayer policies.113
+
+In 1985, the U.S. Court of Appeals for the Second Circuit decided the only direct constitutional challenge to the military chaplaincy, Katcoff v. Marsh.114 Although later cases have challenged how the chaplaincy is administered, Katcoff considered whether the mere existence of the military chaplaincy violated the Establishment Clause. The Second Circuit held that the chaplaincy itself did not violate the Establishment Clause, but concluded that specific practices of the chaplaincy may not be constitutional.115
+
+The Second Circuit noted that the Supreme Court upheld the constitutionality of legislative chaplains offering prayers at legislative sessions under the rationale that the practice was a part of American history and had been woven into the fabric of our society. The Court had reasoned that the legislative chaplaincy had an "unbroken history of more than 200 years."116 It may be argued that the legislative chaplaincy is distinct from the military chaplaincy, meaning that the Supreme Court's analysis of the legislative chaplaincy does not control the outcome of cases challenging the military chaplaincy. Thus, the Second Circuit examined the challenge under other constitutional tests.
+
+The court indicated that the military chaplaincy would fail the constitutional requirements of the Establishment Clause, but recognized that the Establishment Clause concerns must be balanced by other constitutional considerations, including the Free Exercise Clause.117 The court held that the military chaplaincy was a constitutional means of accommodating servicemembers' religious exercise rights under the Free Exercise Clause.118 Because members of the military have been removed from their religious communities, the court explained that the government had interfered with their ability to exercise their religious beliefs.119 Accordingly, the military chaplaincy, although unconstitutional if examined solely under the Establishment Clause, alleviated the burden imposed by the military on servicemembers' religious exercise. The court reinforced this balance favoring the accommodation of servicemembers' religious exercise by noting the importance of the War Powers Clause120 of the U.S. Constitution, which requires the court to give significant deference to Congress in military affairs. The court explained that "when a matter provided for by Congress in the exercise of its war power and implemented by the Army appears reasonably relevant and necessary to furtherance of our national defense it should be treated as presumptively valid and any doubt as to its constitutionality should be resolved ... in favor of deference to the military's exercise of discretion."121 Thus, the court determined that because the chaplaincy serves as an accommodation to alleviate a burden on religion imposed by the government and because the military is entitled to deference in a reasonable policy to ensure that servicemembers are treated adequately to maintain military order, the chaplaincy is a permissive accommodation of religion by the government.
+
+Invocations and Other Acknowledgments of Religion at Public Events
+
+The Court has often recognized the role of religion in the nation's history, noting a number of occasions on which government officials invoke religion during official acts. The Court has specifically stated that "[w]e are a religious people whose institutions presuppose a Supreme Being."122 With that understanding, the Court often has justified examples of religious references during public ceremonies: "So help me God" as part of the oath of office; opening prayers during legislative sessions; "God save the United States and this Honorable Court" in the opening statement of the Supreme Court's sessions; presidential proclamations, including the Thanksgiving holiday; etc.123 Such references have been labeled as "ceremonial deisms"—practices that may not violate the Establishment Clause "because they have lost through rote repetition any significant religious content."124 The Court has justified references to religion, particularly with regard to displays of religious symbols, as long as the context of the reference does not promote religious beliefs, but only acknowledges a religious history of the nation.125 The Court also has explained that "however history may affect the constitutionality of nonsectarian references to religion by the government, history cannot legitimate practices that demonstrate the government's allegiance to a particular sect or creed."126
+
+Courts have upheld the inscription of "In God We Trust" as the national motto on coins and currency.127 One court explained that the motto was not a religious invocation and therefore could not violate the First Amendment.128 According to the court, "[i]t is quite obvious that the national motto and the slogan on coinage and currency 'In God We Trust' has nothing whatsoever to do with the establishment of religion. Its use is of a patriotic or ceremonial character and bears no true resemblance to a governmental sponsorship of a religious exercise."129
+
+Standing to Challenge Government Expression and Acknowledgment of Religion
+
+Some cases challenging such religious references have been dismissed based on a lack of standing. In 2004, the Court dismissed a case challenging "under God" in the Pledge of Allegiance on standing grounds, but several Justices indicated that a decision on the merits likely would have justified the phrase under the First Amendment.130 Chief Justice Rehnquist, concurring only in the judgment, explained that the reference to God in the pledge does not "[convert] its recital into a 'religious exercise' of the sort described in Lee."131 The Chief Justice wrote that the phrase "is in no sense a prayer, nor an endorsement of any religion, but a simple recognition" of the religious history of the nation.132 Justice O'Connor explicitly elaborated on the concept of ceremonial deisms in First Amendment jurisprudence, suggesting a four-part test to determine whether a religious reference may be constitutionally permissible.133 Public references to religion may be constitutional according to Justice O'Connor depending on (1) the history and ubiquity of the practice; (2) the absence of worship or prayer in the practice; (3) the absence of any reference to a particular religion in the practice; and (4) extent of religious content in the practice.134
+
+In another case, the U.S. Court of Appeals for the Ninth Circuit held that an individual challenging the national motto and monetary inscription had standing to challenge the inscription but not the motto itself.135 The court distinguished the two claims based on the type of harm caused by each. The court recognized that "given the ubiquity of coins and currency in everyday life … [the inscription] forces him repeatedly to encounter a religious belief he finds offensive," and therefore constituted a legally cognizable injury to justify standing.136 However, the statutory authorization of the national motto "merely recognizes 'In God We Trust'" and did not cause the individual the "'unwelcome direct contact'" to justify standing.137
+
+In a third example, the U.S. Court of Appeals for the Seventh Circuit held that a group of individuals did not have standing to challenge the presidential proclamation for a National Day of Prayer.138 The court explained that the challenged law directs the President to issue the proclamation annually, but does not require any other person to take any action related to the President's proclamation.139 Accordingly, only the President may suffer an injury sufficient to be eligible to challenge the statute.140 The court recognized that the President's proclamation included a call to prayer: "I call upon the citizens of our Nation to pray, or otherwise give thanks, in accordance with their own faiths and consciences, for our many freedoms and blessings, and I invite all people of faith to join me in asking for God's continued guidance, grace, and protection as we meet the challenges before us."141
+
+However, the court explained that "although this proclamation speaks to all citizens, no one is obliged to pray, any more than a person would be obliged to hand over his money if the President asked all citizens to support the Red Cross and other charities."142 The court questioned whether individuals could pursue legal challenges of a government official's statements simply because they might disagree with the content of those statements, calling it "preposterous" to expect courts to censor presidential references to religion or other subjects to which some individuals might object.143
+
+Legislative Issues in the 113th Congress
+
+Congress regularly confronts public concerns regarding the parameters of permissible public religious expression. Among the notable issues of legislative interest in the 113th Congress are the permissibility of voluntary prayer in publicly funded programs; religious inscriptions on government property; and the religious freedom of military chaplains.
+
+H.R. 2926/S. 1279, the Freedom to Pray Act, would prohibit the revocation or withholding of federal funds to otherwise qualified recipients "on the basis of religious activities that are conducted voluntarily and initiated by participants" in the recipient's program or activity. The bill explicitly clarifies that it would not authorize sponsorship of religious activity in federally funded programs or activities; restrictions on recipients' ability to ensure that permissible religious activities do not interfere with the program or activity; or requirements for participation in prayer or other activities that may conflict with individuals' First Amendment freedoms.
+
+H.R. 2175/S. 1044, the World War II Memorial Prayer Act of 2013, would direct the Secretary of the Interior to incorporate the words of the prayer from President Franklin D. Roosevelt's June 1944 D-Day address at the World War II Memorial on the National Mall. The bill would prohibit the use of public funds to prepare or install the inscription, but would authorize the use of private contributions.
+
+H.R. 343 would amend statutory provisions relating to military chaplains to include an explicit protection allowing a chaplain to close prayers offered outside of religious services "according to the dictates of the Chaplain's conscience." The bill would amend provisions governing chaplains serving under the U.S. Army, U.S. Navy, U.S. Marine Corps, and U.S. Air Force, as well as the U.S. Military Academy and U.S. Air Force Academy. It does not address chaplains serving under the U.S. Coast Guard.
+
+Although these bills implicate First Amendment protections, they do not affect the constitutional rules controlling public prayer. It should be noted that Congress may not alter the constitutional parameters of public prayer and religious expression through statute.
+
+[author name scrubbed], Legislative Attorney in the American Law Division, assisted in the authorship of this report.
+
+U.S. Const. amend I ("Congress shall make no law respecting an establishment of religion….").
+
+See Lemon v. Kurtzman, 403 U.S. 602 (1971); Lynch v. Donnelly, 465 U.S. 668, 688 (1984) (O'Connor, J., concurring).
+
+U.S. Const. amend I ("Congress shall make no law ... prohibiting the free exercise thereof….").
+
+Engel v. Vitale, 370 U.S. 421, 425-27 (1962).
+
+County of Allegheny v. ACLU Greater Pittsburgh Chapter, 492 U.S. 573 (1989) (upholding inclusion of a menorah in a display at a government building that also included a Christmas tree and a sign saluting liberty); Van Orden v. Perry, 545 U.S. 677 (2005) (upholding display of the Ten Commandments on the grounds of the Texas State Capitol which also included numerous other historical markers). Cf. McCreary County v. ACLU of Kentucky, 545 U.S. 844 (2005) (holding a display of the Ten Commandments in a county courthouse demonstrated unconstitutional religious preference).
+
+See Pleasant Grove City, Utah v. Summum, 555 U.S. 460 (2009). In Summum, the Court held that even after selecting one religious symbol for display in a public park, the government was not required to open the park for display of other religious symbols under the Free Speech Clause. The case did not challenge the constitutional validity of the religious display under the Establishment Clause, however. See also Salazar v. Buono, 559 U.S. 700 (2010). In Salazar, the Court upheld display of a Latin cross on land in the Mojave National Preserve as a war memorial. The Court did not resolve the case on constitutional grounds.
+
+For a legal analysis of public displays of religious symbols, see CRS Report RS22223, Public Display of the Ten Commandments and Other Religious Symbols.
+
+See, e.g., Engel, 370 U.S. 421; School District of Abington Township v. Schempp, 374 U.S. 203 (1963); Lee v. Weisman, 505 U.S. 577 (1992).
+
+Engel, 370 U.S. at 422.
+
+Id. at 424. See also id. at 430 ("Neither the fact that the prayer may be denominationally neutral nor the fact that its observance on the part of the students is voluntary can serve to free it from the limitations of the Establishment Clause….").
+
+Abington Township, 374 U.S. 203.
+
+Wallace v. Jaffree, 472 U.S. 38 (1985).
+
+Lee, 505 U.S. at 587.
+
+Id. ("The government involvement with religious activity in this case is pervasive, to the point of creating a state-sponsored and state-directed religious exercise in a public school.").
+
+Id. at 588-89 ("The question is not the good faith of the school in attempting to make the prayer acceptable to most persons, but the legitimacy of its undertaking that enterprise at all when the object is to produce a prayer to be used in a formal religious exercise which students, for all practical purposes, are obliged to attend.").
+
+See Engel, 370 U.S. 421; Abington Township, 374 U.S. 203.
+
+Lee, 505 U.S. at 595.
+
+Santa Fe Independent School District v. Doe, 530 U.S. 290 (2000).
+
+Id. at 303 (quotations and citations omitted).
+
+Id. at 305 ("a majoritarian policy 'does not lessen the offense or isolation to the objectors.'").
+
+Id. at 311-12 ("Undoubtedly, the games are not important to some students, and they voluntarily choose not to attend. For many others, however, the choice between whether to attend these games or to risk facing a personally offensive religious ritual is in no practical sense an easy one.").
+
+Epperson v. Arkansas, 393 U.S. 97, 103-04 (1968).
+
+Engel, 370 U.S. at 434-35. See also Abington Township, 374 U.S. at 216-17 (explaining that the Establishment Clause not only forbids adoption of an official religion, but also was intended to separate "'the spheres of religious activity and civil authority'"); Zorach v. Clauson, 343 U.S. 306, 312 (1952) ("There cannot be the slightest doubt that the First Amendment reflects the philosophy that Church and State should be separated.").
+
+Santa Fe, 530 U.S. at 313. See also Lamb's Chapel v. Center Moriches Union Free School Dist., 508 U.S. 384, 395 (1993); Board of Education of Westside Community Schools v. Mergens, 496 U.S. 226 (1990); Wallace v. Jaffree, 472 U.S. 38, 59 (1985).
+
+Santa Fe, 530 U.S. at 313.
+
+463 U.S. 783 (1983).
+
+Id. at 786 ("From colonial times through the founding of the Republic and ever since, the practice of legislative prayer has coexisted with the principles of disestablishment and religious freedom.").
+
+Id. at 792, citing McGowan v. Maryland, 366 U.S. 420, 462 (1961) (Frankfurter, J., concurring). The Court also noted that "the individual claiming injury by the practice is an adult, presumably not readily susceptible to 'religious indoctrination,' or peer pressure." Id. (citations omitted).
+
+See id. at 790; Town of Greece, NY v. Galloway, 134 S.Ct. 1811, 1819 (2014).
+
+Marsh, 463 U.S. at 792.
+
+Snyder v. Murray City Corp., 159 F.3d 1227 (10th Cir. 1998).
+
+Just two years before the Court decided Town of Greece, it declined to review a similar case in a different circuit. Forsyth County v. Joyner, 132 S.Ct. 1097 (2012). In Joyner v. Forsyth County, the U.S. Court of Appeals for the 4th Circuit held that "in order to survive constitutional scrutiny, invocations must consist of the type of nonsectarian prayers that solemnize the legislative task and seek to unite rather than divide." 653 F.3d 341, 342 (4th Cir. 2011). In that case, a county legislature invited religious leaders of congregations with an established presence in the community to deliver invocations at board meetings, but did not monitor the content, leading to a large majority of prayers delivered with specific Christian references. Id. at 343-44 (noting that almost four-fifths of prayers offered over a 16-month period referred to "Jesus," "Jesus Christ," "Christ," or "Savior."). The Fourth Circuit noted that the constitutionality of a legislative prayer depends not only on a neutral policy that strives for diversity of religious views, but also on implementation that does not advance a particular view at the expense of others. Id. at 353-54 ("Take-all-comers policies that do not discourage sectarian prayer will inevitably favor the majoritarian faith in the community at the expense of religious minorities living therein.").
+
+Town of Greece, NY v. Galloway, 134 S.Ct. 1811 (2014).
+
+Id. at 1824. The Court alluded to its traditional avoidance of entangling the government with religion, one of the three prongs of the traditional Lemon test under the Establishment Clause. Lemon v. Kurtzman, 403 U.S. 602, 612-13 (1971). Lemon prohibited the government from being actively involved in religious matters, including intensive oversight to ensure no constitutional violations. See id. at 619.
+
+Town of Greece, 134 S.Ct. at 1816.
+
+Id. at 1819. Responding to calls to reconsider the standard required by Marsh, Justice Kennedy explained that any "test that would sweep away what has so long been settled would create new controversy and begin anew the very divisions along religious lines that the Establishment Clause seeks to prevent." Id.
+
+Id. at 1820-21 ("An insistence on nonsectarian or ecumenical prayer as a single, fixed standard is not consistent with the tradition of legislative prayer outlined in the Court's cases.").
+
+Id. at 1822 ("To hold that invocations must be nonsectarian would force the legislatures that sponsor prayers and the courts that are asked to decide these cases to act as supervisors and censors of religious speech, a rule that would involve government in religious matters to a far greater degree than is the case under the town's current practice of neither editing or approving prayers in advance nor criticizing their content after the fact.").
+
+Id. at 1822-23. The Court's opinion highlights the challenge of ensuring that the government's actions when attempting to comport with the Establishment Clause do not create separate violations of the Free Exercise Clause.
+
+Id. at 1824-25; id. at 1837 (Thomas, J., concurring).
+
+The coercion test traditionally has been applied in the context of prayers at school ceremonies and events. See Lee v. Weisman, 505 U.S. 577 (1992).
+
+Town of Greece, 134 S.Ct. at 1825.
+
+Id. at 1838 (Thomas, J., concurring).
+
+Id. at 1841-42 (Kagan, J., dissenting).
+
+Id. Justice Kagan explained that the public did not take part in the larger legislatures like that in Marsh, but were the center of local town council activity; that the prayer in Marsh was directed only at lawmakers while any members of the public who were present were merely spectators, whereas the public was very much involved in the prayers delivered in the more intimate setting of town councils; and the prayers delivered in Marsh had been modified as necessary for inclusion, while the Town of Greece prayers were "constantly and exclusively" Christian. Id. at 1847-50.
+
+Id. at 1850 ("None of this means that Greece's town hall must be religion- or prayer-free.")
+
+Turner v. City Council, 534 F.3d 352 (4th Cir. 2008).
+
+See Pleasant Grove City, 555 U.S. 460. See also CRS Report 95-815, Freedom of Speech and Press: Exceptions to the First Amendment.
+
+See Doe v. Indian River School District, 653 F.3d 256 (3rd Cir. 2011); Coles v. Cleveland Board of Education, 171 F.3d 369 (6th Cir. 1999).
+
+Lee, 505 U.S. 577; see also Committee for Public Education v. Nyquist, 413 U.S. 756 (1973).
+
+See Lee, 505 U.S. 577; Santa Fe, 530 U.S. 290.
+
+Lee, 505 U.S. at 595.
+
+See Coles, 171 F.3d at 377 ("Although meetings of the school board might be of a 'different variety' than other school-related activities, the fact remains that they are part of the same 'class' as those other activities in that they take place on school property and are inextricably intertwined with the public school system.").
+
+See Doe, 653 F.3d 256; Coles, 171 F.3d 369.
+
+Coles, 171 F.3d at 381.
+
+See U.S. Const. art. III, §2.
+
+There are generally three constitutionally required elements to standing: (1) the individual must have personally suffered an actual or threatened injury; (2) the injury must be fairly traced to the challenged action; and (3) the injury must be likely to be redressed by a favorable decision. See Valley Forge Christian College v. Americans United for Separation of Church and State, 454 U.S. 464, 472 (1982); Allen v. Wright, 468 U.S. 737, 751 (1984); Lujan v. Defenders of Wildlife, 504 U.S. 555, 560-61 (1992).
+
+Frothingham v. Mellon, 262 U.S. 447 (1923).
+
+See Flast v. Cohen, 392 U.S. 83 (1968). For a comprehensive analysis of Establishment Clause standing, see CRS Report R40825, Legal Standing Under the First Amendment's Establishment Clause.
+
+See Valley Forge Christian College, 454 U.S. 464 (refusing to allow a taxpayer challenge of government transfer of property to a sectarian institution without charge because the action was taken by an executive agency exercising power under the Property Clause); Hein v. Freedom from Religion Foundation, 551 U.S. 587 (2007) (refusing to allow a taxpayer challenge of activities of the White House Office of Faith-Based and Community Initiatives because the funding was made through discretionary executive spending). See also Arizona Christian School Tuition Organization v. Winn, 131 S.Ct. 1436 (2011) (refusing to allow a taxpayer challenge to a state tax credit provision because tax credits, unlike governmental expenditures, are not imposed involuntarily on taxpayers).
+
+Flast, 392 U.S. at 105-06.
+
+Hein, 551 U.S. at 604.
+
+Hinrichs v. Speaker, 506 F.3d 584 (7th Cir. 2007).
+
+Id. at 599-600 ("Instead, it is the appropriation of those funds for the allegedly unconstitutional purpose that provides the link between taxpayer and expenditure necessary to support standing.").
+
+See Joyner, 653 F.3d 341.
+
+See Turner, 534 F.3d 352. But see Kurtz v. Baker, 829 F.2d 1133 (D.C. Cir. 1987).
+
+755 F.2d 223 (2d Cir. 1985).
+
+Id. at 232 (citing Marsh v. Chambers, 463 U.S. 783 (1983)) (internal quotations omitted).
+
+Id. at 232 ("If the current Army chaplaincy were viewed in isolation, there could be little doubt that it would fail to meet the Lemon v. Kurtzman conditions. ... However, neither the Establishment Clause nor statutes creating and maintaining the Army chaplaincy may be interpreted as if they existed in a sterile vacuum.").
+
+U.S. Const. art. I, §8.
+
+Katcoff, 755 F.2d at 234 (citing Rostker v. Goldberg, 453 U.S. 57, 64-68 (1981)).
+
+Zorach, 343 U.S. at 313.
+
+Id. at 312-13; Abington, 374 U.S. at 212-13.
+
+Lynch, 465 U.S. at 716-17 (Brennan, J., dissenting) ("The practices by which the government has long acknowledged religion are therefore probably necessary to serve certain secular functions, and that necessity, coupled with their long history, gives those practices an essentially secular meaning.").
+
+See County of Allegheny, 492 U.S. 573 ("government may celebrate Christmas in some manner and form, but not in a way that endorses Christian doctrine"). See also McCreary County, 545 U.S. 844; Van Orden, 545 U.S. 677.
+
+County of Allegheny, 492 U.S. at 603.
+
+See Newdow v. Lefevre, 598 F.3d 638 (2010). See also Lambeth v. Bd. of Commissioners of Davidson County, North Carolina, 407 F.3d 266 (4th Cir. 2005); Gaylor v. United States, 74 F.3d 214 (10th Cir. 1996); O'Hair v. Murray, 588 F.2d 1144 (5th Cir. 1979).
+
+Newdow, 598 F.3d at 644 (stating that the motto "is excluded from First Amendment significance because the motto has no theological or ritualistic impact. As stated by the Congressional report, it has 'spiritual and psychological value' and 'inspirational quality.'") (quoting Aronow v. United States, 432 F.2d 242, 243-44 (9th Cir. 1970)).
+
+Newdow, 598 F.3d at 644 (quoting Aronow v. United States, 432 F.2d 242, 243-44 (9th Cir. 1970)).
+
+Elk Grove Unified School District v. Newdow, 542 U.S. 1 (2004).
+
+Id. at 31 (Rehnquist, C.J., concurring in the judgment).
+
+Id. at 36-37 (O'Connor, J., concurring in the judgment).
+
+Newdow, 598 F.3d at 642-43.
+
+Freedom from Religion Foundation v. Obama, 641 F.3d 803 (7th Cir. 2011).

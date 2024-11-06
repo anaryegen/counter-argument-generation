@@ -1,0 +1,191 @@
+Skip to Main Content
+
+7 mistakes to avoid when trading options
+
+Advertiser Disclosure
+
+Advertiser Disclosure
+
+We are an independent, advertising-supported comparison service. Our goal is to help you make smarter financial decisions by providing you with interactive tools and financial calculators, publishing original and objective content, by enabling you to conduct research and compare information for free - so that you can make financial decisions with confidence.
+
+Our articles, interactive tools, and hypothetical examples contain information to help you conduct research but are not intended to serve as investment advice, and we cannot guarantee that this information is applicable or accurate to your personal circumstances. Any estimates based on past performance do not a guarantee future performance, and prior to making any investment you should discuss your specific investment needs or seek advice from a qualified professional.
+
+The offers that appear on this site are from companies that compensate us. This compensation may impact how and where products appear on this site, including, for example, the order in which they may appear within the listing categories, except where prohibited by law for our mortgage, home equity and other home lending products. But this compensation does not influence the information we publish, or the reviews that you see on this site. We do not include the universe of companies or financial offers that may be available to you.
+
+Editorial disclosure
+
+All reviews are prepared by our staff. Opinions expressed are solely those of the reviewer and have not been reviewed or approved by any advertiser. The information, including any rates, terms and fees associated with financial products, presented in the review is accurate as of the date of publication.
+
+Share this article on Facebook
+
+Share this article on Twitter
+
+Share this article on LinkedIn
+
+Share this article via email
+
+On This Page Jump to
+
+1. Not having a trading strategy
+
+2. Lack of diversification
+
+3. Lack of discipline
+
+4. Using margin to buy options
+
+5. Focusing on illiquid options
+
+6. Failing to understand technical indicators
+
+7. Not accounting for volatility
+
+Jonathan Kirn/Getty Images
+
+5 min read Published August 22, 2024
+
+Bob Haegele Contributor
+
+Bob Haegele is a contributing writer for Bankrate. Bob writes about topics related to investing and retirement.
+
+James Royal, Ph.D. Principal writer, investing and wealth management
+
+• Wealth management
+
+Bankrate principal writer and editor James F. Royal, Ph.D., covers investing and wealth management. His work has been cited by CNBC, the Washington Post, The New York Times and more.
+
+Connect with James Royal, Ph.D. on Twitter
+
+Connect with James Royal, Ph.D. on LinkedIn
+
+Get in contact with James Royal, Ph.D. via Email Close
+
+The Bankrate promise More info
+
+At Bankrate we strive to help you make smarter financial decisions. While we adhere to strict editorial integrity , this post may contain references to products from our partners. Here's an explanation for how we make money .
+
+The Bankrate promise
+
+Founded in 1976, Bankrate has a long track record of helping people make smart financial choices. We’ve maintained this reputation for over four decades by demystifying the financial decision-making process and giving people confidence in which actions to take next.
+
+Bankrate follows a strict editorial policy, so you can trust that we’re putting your interests first. All of our content is authored by highly qualified professionals and edited by subject matter experts, who ensure everything we publish is objective, accurate and trustworthy.
+
+Our investing reporters and editors focus on the points consumers care about most — how to get started, the best brokers, types of investment accounts, how to choose investments and more — so you can feel confident when investing your money. Investing disclosure:
+
+The investment information provided in this table is for informational and general educational purposes only and should not be construed as investment or financial advice. Bankrate does not offer advisory or brokerage services, nor does it provide individualized recommendations or personalized investment advice. Investment decisions should be based on an evaluation of your own personal financial situation, needs, risk tolerance and investment objectives. Investing involves risk including the potential loss of principal.
+
+Bankrate follows a strict editorial policy, so you can trust that we’re putting your interests first. Our award-winning editors and reporters create honest and accurate content to help you make the right financial decisions.
+
+We value your trust. Our mission is to provide readers with accurate and unbiased information, and we have editorial standards in place to ensure that happens. Our editors and reporters thoroughly fact-check editorial content to ensure the information you’re reading is accurate. We maintain a firewall between our advertisers and our editorial team. Our editorial team does not receive direct compensation from our advertisers.
+
+Editorial Independence
+
+Bankrate’s editorial team writes on behalf of YOU – the reader. Our goal is to give you the best advice to help you make smart personal finance decisions. We follow strict guidelines to ensure that our editorial content is not influenced by advertisers. Our editorial team receives no direct compensation from advertisers, and our content is thoroughly fact-checked to ensure accuracy. So, whether you’re reading an article or a review, you can trust that you’re getting credible and dependable information.
+
+You have money questions. Bankrate has answers. Our experts have been helping you master your money for over four decades. We continually strive to provide consumers with the expert advice and tools needed to succeed throughout life’s financial journey.
+
+Bankrate follows a strict editorial policy, so you can trust that our content is honest and accurate. Our award-winning editors and reporters create honest and accurate content to help you make the right financial decisions. The content created by our editorial staff is objective, factual, and not influenced by our advertisers.
+
+We’re transparent about how we are able to bring quality content, competitive rates, and useful tools to you by explaining how we make money.
+
+Bankrate.com is an independent, advertising-supported publisher and comparison service. We are compensated in exchange for placement of sponsored products and services, or by you clicking on certain links posted on our site. Therefore, this compensation may impact how, where and in what order products appear within listing categories, except where prohibited by law for our mortgage, home equity and other home lending products. Other factors, such as our own proprietary website rules and whether a product is offered in your area or at your self-selected credit score range, can also impact how and where products appear on this site. While we strive to provide a wide range of offers, Bankrate does not include information about every financial or credit product or service.
+
+Trading options can be appealing for many reasons. Options can serve as a hedge against falling stock prices and give traders the magnifying power of leverage, making them useful and lucrative in the right situations.
+
+But traders can also misuse options and may make common mistakes that derail their portfolio. Trading options is generally more complicated than trading stocks, so you must know a few key things before diving in. If you want to trade options, be sure to avoid these common mistakes.
+
+7 mistakes to avoid when trading options
+
+1. Not having a trading strategy
+
+Trading options has its benefits, but diving in without any sort of trading strategy is not a recipe for success. For example, how will you identify potential trading opportunities? What criteria will you use to determine whether a potential trade is worth pursuing? How much are you willing to lose on a trade that doesn’t go according to plan? These are important questions to answer.
+
+If you don’t have a clearly defined options trading plan, you might end up making random decisions based on emotion or what you heard in the news. When you have a trading plan, your decisions are based simply on whether an opportunity fits within the framework you have created.
+
+In addition, inexperienced traders sometimes don’t have an exit strategy, which can be a problem. Options can make big moves in either direction. You should know not only how large of a move should trigger action on your part, but also how long you’ll wait before taking action.
+
+The best options brokers offer tools that can help you determine the best options strategy based on how you think a stock will perform.
+
+2. Lack of diversification
+
+One of the most common problems when trading options is a lack of diversification. When buying equities, diversification usually means purchasing stock in many different companies and industries. When thinking about options, it means something a little different.
+
+With options, you have more possibilities than buying promising stocks and selling the losers. You’ll have both calls and puts, and many trading strategies and tactics to use them, such as covered calls, married puts and bear put spreads. So you can match the options strategy with a variety of situations.
+
+Using multiple options strategies can also help you succeed even if one particular strategy is unsuccessful, and this diversification can be especially helpful since options can be an all-or-nothing wager. If you put all your cash into one options position and it doesn’t work out, you don’t have any more cash to trade with.
+
+3. Lack of discipline
+
+Options trading requires an acute sense of discipline and self-control. While it can provide wins more quickly than investing in index funds, that isn’t to say it will always produce immediate results. If you want to do well, you must be willing to stick to your strategy.
+
+For example, options traders can be too quick to sell a winner while holding onto a loser for too long. Or perhaps they wait too long to buy back short options. Options require you to be smart with how you trade if you want to be successful in the long run, and they require active trading and vigilance.
+
+If you’re more of a buy-and-hold type of investor, it could make much more sense to purchase the best long-term investments and then add to them over time.
+
+4. Using margin to buy options
+
+Using a margin loan can be tempting when trading options since it might allow you to make a nice profit without putting up much capital. The problem is that while a margin loan can amplify the wins, it does the same with losses. Buying on margin is risky, whether or not you use it to trade options. Margin calls are also a concern when trading with leverage.
+
+It’s important that you don’t trade with money you can’t afford to lose, but trading options increase the likelihood of that happening. Because of the heavy risk associated with buying on margin, it’s like you’re doubling your risk when you use margin to buy options.
+
+5. Focusing on illiquid options
+
+Liquidity is the ease with which something can be converted into cash. Shares of stock are often quite liquid since they can easily be sold for cash whenever the market is open. But trading options isn’t as simple as selling shares at a given market price.
+
+Options traders are at the mercy of the bid-ask spread, which is the difference between what sellers are asking for an asset and what buyers are willing to pay (bid). If there is a big difference between those two prices, you have an illiquid option. That means you might have trouble finding a buyer for your option when needed, which can be a problem given the sometimes rapid price swings with options.
+
+6. Failing to understand technical indicators
+
+When trading options, traders must understand the dynamics of option pricing and how they work. For instance, indicators such as the delta, gamma, vega and theta of an option should be second nature to you. If you aren’t familiar with the “Greeks” of options trading, it’s best to understand them before getting started.
+
+For example, delta represents how much the option price is likely to move based on a $1 change in the underlying security. In other words, it tells you the price sensitivity of the option. Similarly, theta explains the effect of time on the option and how much an option’s price will decay with the passage of time.
+
+An effective options trading strategy requires that you understand these various indicators so that you know how options prices will move in response to time, the price movement of the underlying stock and the overall market’s volatility, among other factors.
+
+7. Not accounting for volatility
+
+As noted earlier, the options market can be volatile. However, savvy options traders can use this to their advantage. The expected volatility of a stock influences the option’s premium, or the price the options trader pays for the contract. So understanding volatility will help you determine whether an option is cheap.
+
+Your trading strategy should account for volatility so you know whether a contract is worth buying. And if it isn’t worth buying, then maybe it’s worth selling instead. Options can help you play the situation either way.
+
+Options allow traders to magnify their gains, but they can be risky if you don’t have the necessary knowledge beforehand. Like most things, options trading requires learning by doing. But keeping these common mistakes in mind can help make your learning experience a less costly one.
+
+— Bankrate’s James Royal contributed to an update.
+
+Editorial Disclaimer: All investors are advised to conduct their own independent research into investment strategies before making an investment decision. In addition, investors are advised that past investment product performance is no guarantee of future price appreciation.
+
+Share this article on Facebook
+
+Share this article on Twitter
+
+Share this article on LinkedIn
+
+Share this article via email
+
+Written by Bob Haegele Contributor Read more from Bob
+
+Bob Haegele is a contributing writer for Bankrate. Bob writes about topics related to investing and retirement.
+
+James Royal, Ph.D. Principal writer, investing and wealth management
+
+• Wealth management
+
+Bankrate principal writer and editor James F. Royal, Ph.D., covers investing and wealth management. His work has been cited by CNBC, the Washington Post, The New York Times and more.
+
+Connect with James Royal, Ph.D. on Twitter
+
+Connect with James Royal, Ph.D. on LinkedIn
+
+Get in contact with James Royal, Ph.D. via Email Close
+
+James Royal, Ph.D. Principal writer, investing and wealth management
+
+Connect with James Royal, Ph.D. on Twitter
+
+Connect with James Royal, Ph.D. on LinkedIn
+
+Get in contact with James Royal, Ph.D. via Email
+
+Part of Basics of options trading
+
+5 options trading strategies for beginners Investing

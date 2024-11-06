@@ -1,0 +1,473 @@
+Back to Top Skip to main content
+
+An official website of the United States government Here's how you know
+
+The .gov means it’s official. Federal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you’re on a federal government site.
+
+The site is secure. The https:// ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely.
+
+Log in Show account info
+
+Logged in as: username
+
+Access keys NCBI Homepage MyNCBI Homepage Main Content Main Navigation
+
+The PMC website is updating on October 15, 2024. Learn More or Try it out now.
+
+PMC Canada Author Manuscripts
+
+As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with, the contents by NLM or the National Institutes of Health. Learn more: PMC Disclaimer | PMC Copyright Notice
+
+J Sex Res. Author manuscript; available in PMC 2017 Dec 15.
+
+Published in final edited form as:
+
+J Sex Res. 2017 Oct; 54(8): 1006–1017. Published online 2016 Dec 23. doi: 10.1080/00224499.2016.1255874
+
+Consequences of Casual Sex Relationships and Experiences on Adolescents’ Psychological Well-Being: A Prospective Study
+
+Sophie Dubé,1 Francine Lavoie,2 Martin Blais,3 and Martine Hébert4
+
+1Sophie Dubé, École de psychologie, Université Laval, 2325, rue des Bibliothèques, Pavillon Félix-Antoine-Savard, Quebec (Quebec), Canada, G1V 0A6
+
+Find articles by Sophie Dubé
+
+2Francine Lavoie, École de psychologie, Université Laval, 2325, rue des Bibliothèques, Pavillon Félix-Antoine-Savard, Quebec (Quebec), Canada, G1V 0A6, 418-656-2131 # 7496
+
+Find articles by Francine Lavoie
+
+3Martin Blais, Département de sexologie, Université du Québec à Montréal, 455, René Lévesque Est (W-R310), Montreal (Quebec), Canada, H3C 3P8, 514-987-3000 # 4031
+
+Find articles by Martin Blais
+
+4Martine Hébert, Département de sexologie, Université du Québec à Montréal, 455, René Lévesque Est (W-R410), Montreal (Quebec), Canada, H3C 3P8, 514-987-3000 # 5697
+
+Find articles by Martine Hébert
+
+1Sophie Dubé, École de psychologie, Université Laval, 2325, rue des Bibliothèques, Pavillon Félix-Antoine-Savard, Quebec (Quebec), Canada, G1V 0A6
+
+2Francine Lavoie, École de psychologie, Université Laval, 2325, rue des Bibliothèques, Pavillon Félix-Antoine-Savard, Quebec (Quebec), Canada, G1V 0A6, 418-656-2131 # 7496
+
+3Martin Blais, Département de sexologie, Université du Québec à Montréal, 455, René Lévesque Est (W-R310), Montreal (Quebec), Canada, H3C 3P8, 514-987-3000 # 4031
+
+4Martine Hébert, Département de sexologie, Université du Québec à Montréal, 455, René Lévesque Est (W-R410), Montreal (Quebec), Canada, H3C 3P8, 514-987-3000 # 5697
+
+Correspondence concerning this article should be addressed to Sophie Dubé, École de psychologie, Université Laval, 2325 rue des Bibliothèques, Pavillon Félix-Antoine-Savard, Quebec (Quebec), Canada, G1V 0A6, phone number : 418-656-2131 # 7496, ac.lavlau@3.ebud.eihpos
+
+The publisher's final edited version of this article is available at J Sex Res
+
+Casual sexual relationships and experiences (CSREs) are still considered to be detrimental to the psychological well-being of youth even though findings remain inconclusive. Most studies have focused on emerging adulthood. Using a prospective design based on a representative sample of high school students in the province of Québec, we measured sexually active adolescents’ (N = 2,304) psychological well-being six months after engaging in these relationships while controlling for prior well-being. We analyzed two forms of CSREs, friends with benefits (FWB) and one-night stand (ONS) relationships, as well as levels of sexual intimacy. The results show that CSREs had a small impact (small effect sizes) on subsequent psychological well-being, especially among girls; FWB relationships involving penetrative contact increased girls’ psychological distress and both their alcohol and drug consumption. ONSs including sexual touching increased girls’ psychological distress and their drug use. None of the CSREs influenced boys’ psychological well-being. The findings underscored the importance of using caution when arguing that CSREs are detrimental or harmless to the psychological well-being of adolescents. The results also highlight the importance of taking into account gender and forms of CSREs in prevention and health interventions.
+
+Keywords: casual sex, psychological well-being, adolescents, substance use, sexual behavior
+
+The association of casual sexual relationships and experiences (CSREs), defined as sexual contact occurring outside of a romantic or dating relationship, with psychological well-being has garnered great interest in recent years (e.g., Fielder & Carey, 2010; Fielder, Walsh, Carey, & Carey, 2013; Grello, Welsh, & Harper, 2006; Owen, Fincham, & Moore, 2011; Owen & Fincham, 2011a; 2011b). Despite some evidence supporting concerns about negative outcomes associated with CSREs, findings remain inconsistent. Psychological outcomes have mainly been investigated among college students and rarely among adolescents. However, investigating the impact of CSREs in adolescence is important to clarify whether these relationships are part of normative sexual exploration (Furman & Shaffer, 2003) or are expressions of sexuality related to psychological problems, such as internalizing (e.g., depression) and externalizing problems (e.g., high substance use) (Grello, Welsh, Harper, & Dickson, 2003; Shulman, Walsh, Weisman, & Schelyer, 2009). Because adolescents are generally less sexually experienced than young adults, their sexual choices may have different outcomes (Welsh, Grello, & Harper, 2003) than among young adults. Those sexual experiences, especially the earlier ones, play a defining role in sexual trajectories over the lifespan (Russell, van Campen, & Muraco, 2012). Adolescents may also be more impacted because CSREs could be considered a violation of age norms (Meier, 2007).
+
+Studies of young adults suggested that at least half of college students have had a CSRE within the past few months (56.6%) (Owen et al., 2011), during the past year (52%) (Owen, Rhoades, Stanley, & Fincham, 2010), or during their lifetime (53%) (Grello et al., 2006). A prevalence of up to 80% was reported in one study asking about specific sexual behaviors (Reiber & Garcia, 2010). Similarly, among representative samples of sexually active adolescents, 37% to 77% (37% for Manning, Longmore, & Giordano, 2005; 61% for Manning, Giordano, & Longmore, 2006; 77% for Grello et al., 2003) of 12- to 17-year-olds and 85% of 17- to 21-year-olds (Grello et al., 2003) have had a CSRE within the past year. Percentages of non-sexually active adolescents who transitioned to CSREs are smaller; 15% of 12- to 17-year-olds and 40% of 17- to 21-year-olds have had a hookup within the past year (Grello et al., 2003). For sexually active 12- to 18-year-olds, the lifetime prevalence varies from 28% in the United States (Fortunato, Young, Boyd, & Fons, 2010) to 38% in Canada (Frappier et al., 2008).
+
+This study sought to fill some gaps in the existing literature. First, studies with adolescents generally focused on depressive symptoms (e.g., Grello et al., 2003; Monahan & Lee, 2008). However, depressive symptoms may co-occur with multiple symptoms of other psychological problems (Starr et al., 2012). Thus, we extended our study to other underexplored indicators of CSREs among adolescent casual sex research, such as suicidal ideation, low self-esteem, and consumption of alcohol or drugs. Second, we used a longitudinal design to better understand the direction of the link between psychological well-being and CSREs (e.g., Deutsch & Slutske, 2015; Fielder & Carey, 2010; Furman & Collibee, 2014; Vrangalova, 2015a). Third, we distinguished the type of sexual partners. To our knowledge, only one previous study among adolescents did this (i.e., Manning et al., 2006), the others having examined CSREs more generally (i.e., encompassing any sexual contact between partners who are not dating or in a romantic relationship). This distinction is important since well-being outcomes may be different depending on the types of casual sexual partners (Bersamin et al., 2013; Sandberg-Thoma & Kamp Dush, 2014). We investigated one-night stand (ONS) and friends with benefits (FWB) relationships. An ONS was defined as an unplanned sexual encounter usually occurring on one occasion between two people who are strangers or brief acquaintances and do not plan to become a couple (Paul, McManus, & Hayes, 2000), and FWB relationships were defined as sexual contact that usually occurs multiple times between two friends (Guerrero & Mongeau, 2008). Fourth, this study examined changes in psychological well-being across different sexual intimacy levels (i.e., sexual touching, oral sex, vaginal or anal intercourse), which has been done in a few studies among young adults (e.g., Fielder & Carey, 2010; Vrangalova, 2015a) but not among adolescents. Finally, our research used a representative sample of adolescents.CSREs and Psychological Well-Being
+
+We examined five indicators of low psychological well-being: depressive symptoms, suicidal ideation, low self-esteem, alcohol use, and drug use. Some studies have found a positive association between depressive symptoms and CSREs in adults (e.g., Bersamin et al., 2013; Fielder et Carey, 2010; Grello et al., 2006), whereas others have found no association (Eisenberg, Ackard, Resnick, & Neumark-Sztainer, 2009; Owen & Fincham, 2011a). The prospective two-time-point studies by Grello et al. (2003) and Monahan and Lee (2008) reported more depressive symptoms 12 to 18 months after a transition to CSREs among 12- to 21-year-old adolescents. Those youths were initially virgins and were compared to adolescents who remained virgins. Importantly, such depressive symptoms were present prior to hookups, which challenges the idea that CSREs cause depression. In comparison, no change in depressive symptoms was found one year (Deutsch & Slutske, 2015) and five years after adolescents engaged in CSREs (Deutsch & Slutske, 2015; Monahan & Lee, 2008; Sandberg-Thoma & Kamp Dush, 2014).
+
+Suicidal ideation is another indicator of low psychological well-being that is common in adolescence (Cheung & Dewa, 2006). Few studies have investigated this indicator in association with CSREs, and the two that have done so presented divergent conclusions. On the one hand, a study reported that both young men and women who had no suicidal ideation and engaged in CSREs during adolescence reported suicidal ideation in emerging adulthood (Sandberg-Thoma & Kamp Dush, 2014). On the other hand, another study with a better temporal precedence of variables reported that engagement in CSREs during adolescence caused no suicidal ideation one year and five years after the activity (Deutsch & Slutske, 2015).
+
+Self-esteem has been studied in association with casual sex among college students but not among adolescents. Divergent conclusions emphasize the relevance of continuing this investigation. Studies have documented a negative association for young adults (Bersamin et al., 2013; Paul et al., 2000) and a positive association for men (Schmitt, 2005). Fielder and Carey (2010) reported a decrease in self-esteem among women who transitioned to a penetrative CSRE over 10 weeks compared to women who transitioned to a non-penetrative CSRE. The authors found no association among men. However, another prospective study reported that men who engaged in a CSRE involving intercourse also had a decrease in self-esteem three months after the activity (Vrangalova, 2015a).
+
+Investigating alcohol and drug use is relevant in a study of psychological well-being because high consumption may be part of externalizing problems and an indicator of lower psychological well-being (Hallfors et al., 2004; Schulte & Hser, 2014). Cross-sectional studies among young adults have reported an association between alcohol use and CSREs (e.g., Cooper, 2002; Fielder & Carey, 2010; Owen & Fincham, 2011a; Owen et al., 2011), which was stronger among women (Owen & Fincham, 2010a; Owen et al., 2011). Alcohol use has been considered to be a strong predictor of CSREs (Johnson, 2013), but few studies have investigated substance use as a consequence of CSREs. A representative prospective study among 12- to 18-year-olds reported that casual sex was associated with a significant increase in substance use, including cigarettes, alcohol, marijuana, cocaine and other illegal drugs, over one year (McCarthy & Casey, 2008). Gender differences were not studied. The distinction between alcohol and drugs is relevant to examine because alcohol users are not necessarily drug users; such research would thus help detect different patterns of consumption.
+
+In sum, the negative impact of CSREs on adolescents’ depressive symptoms, suicidal ideation, self-esteem, and alcohol and drug use is not clear. Longitudinal studies have mostly focused on the long-term impact of CSREs, especially for depressive symptoms and suicidal ideation, while the short-term impact deserves further study. This current prospective study will thus help clarify this question while distinguishing two types of casual sexual partners and considering the effect of gender.
+
+It has been suggested that the level of sexual intimacy involved in CSREs may influence subsequent psychological well-being among young adults (e.g., Bersamin et al., 2013). College students, especially women, who engaged in CSREs involving penetrative contact (i.e., oral sex, vaginal or anal intercourse) reported subsequently greater depressive symptoms (Fielder & Carey, 2010; Strokoff, Owen, & Fincham, 2015) and lower self-esteem (Fielder & Carey, 2010) than those who engaged in non-penetrative CSREs. When considering other indicators of well-being, in her prospective study, Vrangalova (2015a) found different results. In men, three months later, CSREs involving intercourse were associated with lower self-esteem; CSREs involving oral sex were associated with subsequently more severe depression; and CSREs involving genital touching, oral sex, and intercourse were all associated with subsequently higher anxiety. Only CSREs involving oral sex were linked with higher anxiety in women. Such complex and subtle results support the relevance of further investigation while considering gender, types of sexual contact, and the inclusion of multiple psychological indicators.
+
+Gender is important to consider when examining the association between casual sex and psychological well-being. Girls and women who reported lower psychological well-being engaged more in CSREs and generally suffered more from those sexual relationships than did boys and men. Indeed, girls who did not have prior suicidal ideation and who then engaged in CSREs during adolescence reported subsequently higher odds of suicidal ideation in adulthood than in adolescence (Sandberg-Thoma & Kamp Dush, 2014), an increase in depressive symptoms (Fielder & Carey, 2010; Grello et al., 2003; Monahan & Lee, 2008), and a decrease in self-esteem (Fielder & Carey, 2010). In contrast, CSREs have been correlated in some studies with higher psychological well-being among men (Grello et al., 2006; Owen et al., 2010). However, some studies have found contradictory results (Vrangalova, 2015a) or no association between CSREs and psychological well-being for women or men (Deutsch & Slutske, 2015; Eisenberg et al., 2009; Owen & Fincham, 2011a).
+
+This two-wave study aimed to investigate the association between CSREs and later psychological well-being among a subsample of sexually active adolescents while controlling for the Time 1 (T1) level of psychological well-being. The hypotheses were as follows: H1: Engagement in FWB relationships/ONSs will be associated with a later decrease in psychological well-being, as measured by increased psychological distress, increased suicidal ideation, decreased self-esteem, and increased use of alcohol or drugs, for both girls and boys. H2: Engagement in FWB relationships/ONSs will be associated with a greater decrease in psychological well-being for girls than for boys. H3: Penetrative FWB relationships/ONSs (oral sex, vaginal or anal intercourse) will be associated with a greater decrease in psychological well-being than nonpenetrative FWB relationships/ONSs (sexual touching) for both genders.
+
+Of the 6,540 participants in the weighted sample at T1, the analyses were based on sexually active adolescents who had already had sexual contact, which was defined as sexual touching (above or below the waist) or penetrative contact (oral sex, vaginal and/or anal intercourse). The final weighted sample was based on 2,304 participants, with statistically more girls than boys (girls: 61.9%, 95% CI [55.7, 67.7], boys: 38.1%, 95% CI [32.3, 44.3], p < 0.001). They were, on average, 15.64 years old [SE = .10] at T1. Sociodemographic characteristics of the sample are presented in Table 1.
+
+Sociodemographic Characteristics of the Sample at T1 (Weighted N = 2, 304)
+
+Sample characteristics
+
+ Two parents under the same household
+
+ Living with their mother
+
+ Living with their father
+
+ Other family structure
+
+ Born in Canada from Canadian parents
+
+ Born in Canada from parents of another nationality
+
+ Born in another country
+
+Parents’ ethnic or cultural group
+
+ Québécois or Canadian
+
+ Latino-American or African-American
+
+ North African (Maghreb)/Middle Eastern
+
+Parents’ education
+
+ Completed high school degree
+
+ Completed collegial or professional degree
+
+ Completed university degree
+
+ Completed high school degree
+
+ Completed collegial or professional degreee
+
+ Completed university degree
+
+Open in a separate window
+
+aSexually attracted only by persons of the other sex.
+
+bAttracted only by same-sex patners.
+
+cAttracted by both, or not exclusively attracted by either sex.
+
+dNot sure or not knowing yet, or by no one.
+
+eA college degree is usually undertaken around 18 years old and not in a university setting.
+
+The study used the Quebec Youths’ Romantic Relationships Survey, which included 8,194 adolescents (56.3% were girls) aged 14 to 20 years at T1 and 6,472 adolescents at Time 2 (T2) (57.3% were girls). The timespan between T1 and T2 was six months. Data were collected through a one-stage stratified cluster sampling of Quebec high schools. Schools were randomly selected from an eligible pool from the Ministry of Education, Leisure and Sports of Quebec (MELS) database of public and private schools. To obtain a representative sample of students in grades 10 through 12, schools were first classified into eight strata according to the metropolitan geographical area, status of schools (public or private schools), language of instruction (French or English) and socioeconomic deprivation index. The final sample comprised 329 classes from 34 schools. Participants were given a correction weight to compensate for biases due to sample design. The weight was defined as the inverse of the probability of selecting the given grade in the respondent’s stratum in the sample multiplied by the probability of selecting the same grade in the same stratum in the population. The weighted sample included 6,540 youths at Time 1 and 4,447 youths at Time 2. The weighted sample proved representative of Quebec French- and English-speaking students in 14 to 18 years old in the public education system.
+
+The class response rate and the overall student response rate were determined as the ratio between the number of students who agreed to participate (students from whom consent was obtained) and the number of approached students, calculated per class and for the entire set of participants. The response rate was 100% of all students who were present in most of the classes (320/329 classes); for the remaining classes, the response rate ranged from 90% to 98%. The survey was finalized with an overall response rate of 99% of students who agreed to participate. The retention rate between T1 and T2 was 71% (i.e., 71% of the students who completed T1 also completed T2). This research was approved by the Ethics Committee of the Université du Québec à Montréal, which agreed that the research could be conducted without parental consent and with the consent of adolescents aged 14 and older.
+
+Casual Sexual Relationships and Experiences
+
+The four items measuring casual sexual relationships and experiences (CSREs) at T1 were inspired by Manning et al. (2006) and were distinguished from items on romantic sexual contact. The items measured consensual sexual contact occurring during the past 12 months. The definition of ONS was “sexual contact with an acquaintance or with a stranger,” and an FWB relationship was defined as “sexual contact with your best friend or a friend.” The levels of sexual intimacy were assessed by asking whether the participants had engaged in sexual touching (0) or in oral, vaginal, and/or anal penetration (1) for both FWB relationships and ONSs. Participants could answer that they had more than one type of casual sexual partner and had more than one type of intimate sexual contact. The terms FWB relationship, ONS, and casual sex were never used.
+
+Four binary independent sexual intimacy variables (IVs) were created according to types of intimacy: (a) for sexual touching in FWB relationships, (b) for sexual touching in ONSs, (c) for penetrative contact (i.e., oral, vaginal, and/or penetration) in FWB relationships, and (d) for penetrative contact in ONSs. These variables were independent and not mutually exclusive. On the one hand, the variable for sexual touching in FWB relationships included acts of touching in FWB relationships regardless of what other sexual contact may have also occurred in ONSs. On the other hand, a participant who answered that he/she had penetrative contact was coded only for the penetrative CSRE variable regardless of whether he/she had participated in a CSRE involving touching.
+
+Psychological Distress
+
+Psychological distress was measured at T1 and T2 using the 10-item Psychological Distress Scale (K10) (Kessler et al., 2002). This scale measures a state of psychological distress in the broadest sense within non-clinical and clinical populations, including depressive and anxious symptoms (Kessler et al., 2002). Its validity has been confirmed by various criteria, including an excellent internal consistency (α = .93, α = .88 on our sample) (Kessler et al., 2002). Participants responded in a five-point scale ranging from 1 (None of the time) to 5 (All of the time). An average score was used, with a high score indicating high distress. A logarithmic transformation was performed on average scores because the distribution was not normal.
+
+The five items measuring self-esteem at T1 and T2 were inspired by the Marsh and O’Neill Self-Description Questionnaire III (SDQ-III) (1984). The same five items were used in the National Longitudinal Survey of Children and Youth 2006–2007 (NLSCY) (Statistics Canada and Human Resources and Skills Development Canada, 2008). These items had a high internal consistency (α = .89, α = .88 on our sample). Participants rated their agreement with each statement, with no period of reference, on a five-point scale from 1 (false) to 5 (true). An average score was calculated, with a high score indicating good self-esteem. For the same reason as for psychological distress, a logarithmic transformation was performed on average scores.
+
+Suicidal ideation was measured at T1 and T2 by one item from the National Longitudinal Survey of Children and Youth 2006–2007 (NLSCY) (Statistics Canada and Human Resources and Skills Development Canada, 2008), which was “(In the last six months [at T2]) have you ever seriously thought of committing suicide?” The response scale was dichotomous (0 = No, 1 = Yes).
+
+Consumption of Both Alcohol and Drugs
+
+Three items at T1 and T2 assessed substance use. They were inspired by the DEP-ADO and were used in national surveys, including the Quebec Survey on Smoking, Alcohol, Drugs and Gambling in High School Students (QHSHSS) (Institut de la statistique du Québec, 2008). These items measured the frequency of alcohol, cannabis, and other drug use (e.g., ecstasy, amphetamines, cocaine, acid) during the past 12 months (T1) or the past six months (T2). The response scale was 0 (not at all), 1 (occasionally), 2 (about once a month), 3 (on weekends or once or twice a week), 4 (3 times a week or more, but not every day), and 5 (every day). Continuous variable for alcohol consumption and for drug consumption, including the items for cannabis and other drugs, were created. These non-normally distributed variables were statistically transformed. A high score indicated high consumption.
+
+Gender was coded as dichotomous (0 = girls and 1 = boys) and was taken into account by conducting path analysis separately for girls and boys.
+
+We controlled for youths’ well-being at T1 and sexual orientation, which were associated with well-being at T2. Sexual orientation was coded as dichotomous (0 = heterosexual and 1 = homosexual, bisexual or questioning). We examined whether sex with a romantic partner at T1, occurring in the past 12 months, was linked to psychological well-being at T2, six months later. Because no significant association was found, we did not control for romantic sex at T1.
+
+We took the complex sample into account in our analysis (Muthén & Muthén, 1998–2012). Regressions for continuous dependent variables (DVs) (psychological distress, self-esteem, and consumption of both alcohol and drugs at T2) were conducted by path analysis, and a logistic regression was conducted for the dichotomous DV (suicidal ideation at T2) using Mplus 7.00 software (Muthén & Muthén, 1998–2012). The four variables of sexual intimacy in CSREs were IVs, and the psychological well-being variables at T1 were entered as control variables to control for the initial level of well-being. Two models were employed, one for girls and one for boys, for the following reasons: we expected girls to be different from boys in their psychological well-being, as reported by some epidemiological surveys (e.g., Cheung & Dewa, 2006); there were more girls than boys in the study; and preliminary analysis showed differences between the genders.
+
+The percentage of missing data for regression models varied from 1% to 41%, depending on the model variables (psychological well-being variables at T1, sexual orientation, IVs of levels of sexual intimacy, and psychological well-being outcomes at T2). This latter proportion was largely due to missing responses for T2 items. Gender had no missing data. Furthermore, the analysis of missing data did not indicate the presence of a specific pattern of non-response. Missing data were addressed using the FIML (Full Information Maximum Likelihood) procedure, which took the approach of maximum likelihood to estimate the model parameters when considering all the raw data available (Wothke, 2000).
+
+Table 2 presents CSRE prevalence among sexually active adolescents. Without a distinction between the forms of CSREs (i.e., FWB relationships and ONSs), 40.7% had engaged in at least one CSRE in the 12 months preceding the survey. Thirty-four (34.3%) reported engaging in at least one FWB relationship, and 15% reported engaging in at least one ONS. Z-tests to compare two proportions indicated that more sexually active adolescents engaged in FWB relationships than ONSs regardless of the level of sexual intimacy. Indeed, 16.9% of sexually active adolescents had engaged in FWB relationships involving either sexual touching or penetrative contact, while 6.6% had engaged in ONSs involving sexual touching only and 8.2% in ONSs involving penetrative contacts. Within each form of CSREs, there was no significant difference in the proportions of sexually active adolescents involved in sexual touching and those involved in penetrative contact. For all levels of sexual intimacy, more boys than girls had engaged in FWB relationships and ONSs.
+
+Prevalence of CSREs at T1 and Gender Differences across Levels of Sexual Intimacy (Weighted N = 2,304)
+
+Open in a separate window
+
+Notes. Z-tests were conducted to test the significance difference between two proportions of categories of sexual intimacy designated by letters. Each chi-squared test was calculated within each category of sexual intimacy and indicated significant gender difference.
+
+At both time points, sexually active girls had a higher level of psychological distress and were more likely to report suicidal ideation than sexually active boys (Table 3). These boys also had higher levels of self-esteem and both alcohol and drug use than sexually active girls.
+
+Descriptive Information and Gender Differences for Psychological Well-Being Variables at T1 and T2 (Weighted N = 2,304)
+
+t-testa or chi-squared testb
+
+Psychological distress
+
+Psychological distress
+
+Open in a separate window
+
+aA t-test was performed after log transformation to reduce nonnormality. When Levene’s test for equality of variances was significant at p < .05, t-test for equal variances not assumed is used.
+
+bA chi-squared test was performed for dichotomous variable of suicidal ideation. Percentage of suicidal ideation at T1 was on the last 12 months and at T2, on the last six months.
+
+Path analysis was used to examine whether levels of sexual intimacy in FWB relationships and ONSs during the past 12 months were related to later changes in psychological well-being while controlling for T1 psychological well-being.
+
+For girls, FWB relationships involving penetrative contact (i.e., oral sex, vaginal and/or anal intercourse) and ONSs with sexual touching were linked to an increase in psychological distress at T2, β = .20, SE = .08, p < .05; β = .29, SE = .12, p < .05 (Table 4). Standardized regression coefficients indicated that for ONSs, sexual touching was the most important factor in the increase in psychological distress (β = .29). Penetrative FWB relationships were linked to an increase in alcohol use at T2, β = .30, SE = .07, p < .001, and drug use, β = .22, SE = .08, p < .01. ONSs with sexual touching were also linked to an increase in drug use at T2, β = .20, SE = .10, p < .05. For all well-being outcomes at T2, their respective well-being variables at T1 were associated. The final models, with sexual intimacy variables and T1 well-being variables, explained 31% of the variance of psychological distress at T2 (R2 = .31, p < .001), 31% of the variance of alcohol use at T2 (R2 = .31, p < .001), and 43% of the variance of drug use at T2 (R2 = .43, p < .001). As expected, the T1 well-being variables explained more variance than the sexual intimacy variables; indeed, the latter explained 1% to 2% of the variance in psychological well-being at T2. Sexual orientation other than heterosexual also explained the variance but of only two outcomes: girls’ psychological distress and suicidal ideation at T2. For boys, CSRE was not linked to T2 well-being; only well-being at T1 was (Table 5).
+
+Regressions Predicting Psychological Well-Being at T2 by Levels of Sexual Intimacy in CSREs for Girls
+
+Psychological distress
+
+0.51 (0.03)*** [0.46, 0.57]
+
+0.69 (0.02)*** [0.65, 0.74]
+
+10.27 (0.23)*** [6.57, 16.08]
+
+0.51 (0.03)*** [0.46, 0.56]
+
+0.61 (0.02)*** [0.57, 0.66]
+
+0.25 (0.07)*** [0.12, 0.38]
+
+0.05 (0.05) [−0.05, 0.15]
+
+1.65 (0.21)* [1.03, 2.47]
+
+−0.002 (0.06) [−0.12, 0.12]
+
+0.01 (0.06) [−0.10, 0.13]
+
+0.12 (0.07) [−0.01, 0.25]
+
+0.03 (0.06) [−0.08, 0.14]
+
+1.09 (0.24) [0.68, 1.75]
+
+−0.03 (0.07) [−0.16, 0.10]
+
+−0.05 (0.06) [−0.17, 0.08]
+
+0.20 (0.08)* [0.03, 0.36]
+
+0.01 (0.07) [−0.13, 0.14]
+
+1.15 (0.27) [0.68, 1.94]
+
+0.30 (0.07)*** [0.15, 0.44]
+
+0.22 (0.08)** [0.07, 0.37]
+
+0.29 (0.12)* [0.05, 0.53]
+
+−0.01 (0.08) [−0.17, 0.14]
+
+0.98 (0.39) [0.46, 2.13]
+
+0.16 (0.10) [−0.04, 0.37]
+
+0.20 (0.10)* [0.001, 0.39]
+
+0.21 (0.12) [−0.03, 0.45]
+
+−0.13 (0.10) [−0.31, 0.07]
+
+1.37 (0.34) [0.71, 2.66]
+
+0.03 (0.10) [−0.16, 0.22]
+
+0.13 (0.10) [−0.07, 0.32]
+
+ R2 control variables
+
+Open in a separate window
+
+Notes. Psy IV T1 is the same psychological variable as the outcome, but at T1. Psy IV T1 and Sexual orientation were controlled. R2 control variables: Variance of the psychological well-being variable at T2 only explained by the same well-being variable at T1 and sexual orientation. R2 Total: Variance of the psychological well-being variable at T2 explained by the well-being variable at T1, sexual orientation and variables of levels of sexual intimacy.
+
+Regressions Predicting Psychological Well-Being at T2 by Levels of Sexual Intimacy in CSREs for Boys
+
+Psychological distress
+
+0.52 (0.03)*** [0.45, 0.59]
+
+0.61 (0.04)*** [0.53, 0.69]
+
+9.35 (0.31)*** [5.06, 17.31]
+
+0.62 (0.04)*** [0.55, 0.68]
+
+0.69 (0.03)*** [0.63, 0.76]
+
+0.23 (0.14) [−0.04, 0.51]
+
+−0.07 (0.12) [−0.30, 0.15]
+
+1.79 (0.43) [0.78, 4.11]
+
+−0.03 (0.13) [−0.29, 0.24]
+
+0.05 (0.11) [−0.16, 0.25]
+
+0.11 (0.08) [−0.04, 0.27]
+
+−0.06 (0.08) [−0.21, 0.09]
+
+1.08 (0.40) [0.50, 2.35]
+
+0.04 (0.09) [−0.13, 0.20]
+
+−0.17 (0.09) [−0.34, 0.00]
+
+0.09 (0.08) [−0.07, 0.26]
+
+0.03 (0.10) [−0.16, 0.22]
+
+1.11 (0.40) [0.51, 2.41]
+
+0.11 (0.09) [−0.06, 0.28]
+
+−0.10 (0.10) [−0.29, 0.09]
+
+0.16 (0.12) [−0.07, 0.39]
+
+0.05 (0.11) [−0.16, 0.26]
+
+1.71 (0.46) [0.69, 4.24]
+
+0.08 (0.15) [−0.22, 0.37]
+
+0.02 (0.13) [−0.23, 0.28]
+
+−0.002 (0.09) [−0.18, 0.18]
+
+−0.04 (0.14) [−0.32, 0.24]
+
+0.77 (0.51) [0.28, 2.07]
+
+0.18 (0.11) [−0.04, 0.40]
+
+0.18 (0.12) [−0.07, 0.42]
+
+ R2 control variables
+
+Open in a separate window
+
+Notes. Psy IV T1 is the same psychological variable as the outcome, but at T1. Psy IV T1 and Sexual orientation were controlled. R2 control variables: Variance of the psychological well-being variable at T2 only explained by the same well-being variable at T1 and sexual orientation. R2 Total: Variance of the psychological well-being variable at T2 explained by the well-being variable at T1, sexual orientation and variables of levels of sexual intimacy.
+
+Three adjustment indices were used to determine whether the two models studied corresponded optimally to the sample data. The Comparative Fit Index (CFI), the Root Mean Square Error of Approximation (RMSEA) and the Standardized Root Mean Square Residuals (SRMR) were considered. A CFI between .80 and .90 means a moderate adjustment. If it is higher than .90 or .95, the fit is then considered to be good or excellent, respectively (Tabachnick & Fidell, 2013). An SRMR and an RMSEA between .05 and .08 represent a moderate adjustment, while a lower value of .05 represents a good fit. Indices of adjustment show evidence that the data are well represented by the models (model for girls: CFI = .96, SRMR = .04, RMSEA = .04 with CI at 90% = .03, .05; model for boys: CFI = .98, SRMR = .03, RMSEA = .03 with CI at 90% = .01, .04).
+
+Our study aimed to examine the short-term consequences of FWB relationships and ONSs for psychological well-being based on a subsample of sexually active adolescents. Four out of 10 sexually active adolescents had at least one CSRE in the 12 months preceding the survey, and this prevalence was similar to that in other representative studies among adolescents (e.g., Manning et al., 2005). In addition, more sexually active adolescents engaged in FWB relationships than in ONSs, and more boys engaged in CSREs than girls, which has also been documented among adolescents (e.g., Manning et al., 2006) and young adults (e.g., Vrangalova, 2015a). With regard to levels of sexual intimacy, as many sexually active adolescents had engaged in sexual touching only and in penetrative contact within each form of CSRE, the results support the use of a widespread definition of CSREs that includes a wide range of sexual acts.
+
+Our results partially support the first and second hypotheses, in that engagement in FWB relationships/ONSs was associated with a decrease in psychological well-being especially for girls; the reason for partial support is that the decrease is very small, as shown by the R2. However, only girls had a decrease in their well-being, which more strongly supports the second hypothesis. When we controlled for well-being at T1, girls who engaged in FWB relationships involving penetrative contact at T1 reported a small increase in psychological distress six months later, as well as an increase in both alcohol and drug use. Girls who engaged in ONSs involving sexual touching also had a small increase in psychological distress and in drug use. This result supports the conclusion that CSREs may have no significant impact on psychological well-being (Deutsch & Slutske, 2015; Eisenberg et al., 2009; Owen & Fincham, 2011a; Vrangalova, 2015b). It appears plausible that CSREs have no major impact on psychological well-being when considering previous well-being, since many other events and factors in an adolescent’s life may be more significant. In the long run, it is important to consider that CSREs may have a more negative impact on psychological well-being in adolescence than in adulthood because adolescents aim to develop close and committed relationships (Paul, Wenzel, & Harvey, 2008). CSREs may thus fail to satisfy their emotional needs (Baumeister & Leary, 1995) and hinder the development of their aptitude for intimate relationships (Paul et al., 2008).
+
+When CSREs slightly decrease psychological well-being, one possible explanation is that girls with pre-existing distress may engage in FWB relationships or ONSs to relieve their low psychological well-being (Owen et al., 2011), but these experiences may have the opposite effect. Indeed, girls are reported to be more vulnerable than boys to a lack of commitment in relationships that include sex (Meier, 2007). Ambiguity in expectations (i.e., lack of clarity about romantic commitment, closeness, or exclusivity) and lack of communication (Lovejoy, 2015) may contribute to conflicting feelings and emotional vulnerability, such as frustration about unreciprocated deeper feelings and feelings of betrayal (Lovejoy, 2015; Weaver, MacKeigan, & MacDonald, 2011), and consequently to greater psychological distress. Girls may also feel manipulated, even more so if they develop romantic interest, and may blame themselves when their casual partner does not show interest afterward (Meier, 2007; Paul & Hayes, 2002; Lovejoy, 2015). Higher alcohol and drug use may therefore be a strategy to cope with their increased psychological distress. It is also possible that girls may suffer from negative appraisals of double standards (Crawford & Popp, 2003), acquiring a negative reputation from having engaged in a CSRE.
+
+For FWB relationships, the small decrease in psychological well-being may be related to disappointment, loneliness, and psychological distress if the friendship ends (Owen, Fincham, & Manthos, 2013). The way that a young woman’s FWB partner treated her during the relationship may also influence her subsequent psychological well-being (Owen et al., 2013). A qualitative study among college women reported that uneasiness and distress may arise when sex is added to friendship because the new focus on sex may suppress emotional intimacy (Lovejoy, 2015). As Vrangalova (2015a) suggested, when FWB relationships last longer, their effects may also be stronger and longer. Thus, girls who engage in more sexually intimate contact, such as penetrative FWB relationships, may suffer more, as indicated by both an increase in psychological distress and substance use, because they develop stronger attachment and expectations.
+
+Our results did not support the third hypothesis that penetrative CSREs are associated with a greater decrease in psychological well-being than non-penetrative CSREs are. Indeed, we found that sexual touching in the context of ONSs has a more detrimental impact on girls’ psychological well-being, with the strongest association with psychological distress and an increase in drug use. This result is the opposite of some findings of a greater association between genital penetrative CSREs and lower psychological well-being among girls and young women (e.g., Fielder & Carey, 2010; Grello et al., 2006; Monahan & Lee, 2008). However, these studies did not distinguish forms of CSREs, which may explain the difference in our results. The simple fact of having engaged in sexual touching with a lesser known person, such as a stranger or an acquaintance, may be viewed as a violation of “standards” for women’s sexual behavior (e.g., Crawford & Popp, 2003). Regret may be strongly associated with such sexual touching and may increase psychological distress. Girls may regret having hooked up with a particular partner (Napper, Montes, Kenney, & LaBrie, 2016). By having engaged in sexual touching without more sexually intimate contact such as intercourse, these girls may also feel that they were used for boys’ sexual pleasure and may feel like a sexual object. They may engage in ONSs involving sexual touching to please their ONS partner or to respond to his sexual desires even if they do not truly enjoy these sexual acts themselves (Armstrong, England, & Forgaty, 2012). They may thus blame themselves for not having respected themselves and not setting limits.
+
+Our study was the first to investigate self-esteem in association with CSREs among adolescents. We found no change in self-esteem after CSREs for girls or boys, in contrast to the results obtained by Fielder and Carey (2010) and Vrangalova (2015a), who used the same scale as ours (i.e., the Rosenberg scale). The impact of CSREs on self-esteem appears to be different according to whether the individual is an adolescent or adult. We found no links between CSREs and later suicidal ideation, which corroborates the findings of Deutsch and Slutske (2015) for twins one year after CSREs. Because CSREs did not have an important effect on later psychological well-being in our study, it appears plausible that CSREs themselves do not lead to suicidal ideation, which is an indicator of intense psychological pain.
+
+Limitations and Strengths
+
+This study had some limitations. First, we did not take into account the number of different casual sexual partners. Indeed, a high engagement with many different partners might be part of a constellation of behavioral problems (Bersamin et al., 2013) that may contribute to decreased psychological well-being. We did not know the relational context in which the CSREs occurred, such as the presence of abuse or the duration of the experiences, or the teens’ other life situations that could contribute to the lower psychological well-being of our participants. One potential confounding variable that might explain the association between CSREs and increased alcohol and drug use among girls is the exposure to settings where CSREs and consumption are more likely to occur, such as parties. Future studies should control for the effect of this variable.
+
+Because CSREs explained a small amount of the variance in girls’ psychological well-being in our design, further research should identify moderators to better understand the conditions under which these relationships may lead to lower psychological well-being (Vrangalova, 2015b). Possible moderators that could be examined include the following: individual-level factors such as personality, attachment styles, communication skills, motivations (Vrangalova, 2015b); negative social or health hookup consequences (Napper et al., 2016); and contextual factors such as social norms, peer pressure, coercion, or relationship breakups. Identifying other variables that may be associated with alcohol and drug use, such as delinquency, poorer grades, and truancy (e.g., McCarthy & Casey, 2008), would be useful to verify whether CSREs are part of a constellation of externalizing problems. General self-esteem was not associated with engagement in CSREs in our study, but a measure of sexual self-esteem could be interesting to examine among boys and girls. Especially among girls, sexual self-esteem could indicate whether they feel more attractive after a CSRE (Weaver et al., 2011).
+
+This research had many strengths; our results emphasize the relevance of continuing to distinguish forms of CSREs and levels of sexual intimacy in further research. The findings highlight the importance of not underestimating sexual touching and verifying how girls subjectively live and interpret such contact. The distinction between alcohol and drugs revealed the use of diverse substances among girls who engaged in CSREs, which was a distinction that had not been made in other studies of casual sex among adolescents (e.g., McCarthy & Casey, 2008). We also used T1 CSREs as predictors of T2 psychological well-being while controlling for T1-well-being, thereby assuring the temporal precedence of CSREs in influencing later well-being. The inclusion of R2, which was not reported in previous studies, also showed the effect size and provided a more critical understanding of the significance of the associations we found. Finally, the large subsample from a representative sample of adolescents allowed for generalization to sexually active high school students and is a major contribution, considering that few studies on CSREs among this population have been conducted.
+
+This is one of the few prospective studies of CSREs among adolescents, and it was also the first to report data on well-being outcomes other than depressive symptoms. This work also distinguished the impact of two levels of sexual intimacy in FWB relationships and ONSs among adolescents. Several studies among adolescents and adults have documented that CSREs have no long-term impact on psychological well-being (e.g., Deutsch & Slutske, 2015; Monahan & Lee, 2008; Sandberg-Thoma & Kamp Dush, 2014). Our findings also support the hypothesis that CSREs have no major short-term impact among adolescents, with a small effect for girls only. This study underscores two points of discussion: 1) the importance of using caution when arguing that CSREs are detrimental to psychological well-being and 2) the importance of not being too confident that CSREs are harmless, especially for adolescent girls. Our results have several implications for practice. If CSREs serve as coping strategies, then youth workers should help girls choose other strategies, because even though CSREs do not dramatically decrease psychological well-being, they do not increase it either. Practitioners should also encourage girls to clarify their expectations about CSREs and the conditions under which they could become positive experiences. For some, CSREs can be a positive exploration of sexuality or an unplanned one-time event without negative consequences, but youth workers should discuss CSREs with girls and boys as a means of initiating and maintaining satisfying emotional and intimate relationships.
+
+Funding: This research was supported by grant from Canadian Institutes of Health Research (#103944; Principal Investigator: Martine Hébert) and by a Doctoral Research Scholarship from Fonds de Recherche du Québec - Société et Culture (FRQSC) awarded to the first author.
+
+Armstrong EA, England P, Fogarty ACK. Accounting for women's orgasm and sexual enjoyment in college hookups and relationships. American Sociological Review. 2012;77(3):435–462. doi: 10.1177/0003122412445802. [CrossRef] [Google Scholar]
+
+Baumeister RF, Leary MR. The need to belong: Desire for interpersonal attachments as a fundamental human motivation. Psychological Bulletin. 1995;117(3):497–529. Retrieved from http://www.ncbi.nlm.nih.gov/pubmed/7777651. [PubMed] [Google Scholar]
+
+Bersamin MM, Zamboanga BL, Schwartz SJ, Donnellan MB, Hudson M, Weisskirch RS, … Caraway SJ. Risky business: Is there an association between casual sex and mental health among emerging adults? Journal of Sex Research. 2013;0(0):1–9. doi: 10.1080/00224499.2013.772088. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+
+Cheung AH, Dewa CS. Canadian community health survey: Major depressive disorder and suicidality in adolescents. Health Care Policy. 2006;2(2):76–89. Retrieved from http://www.ncbi.nlm.nih.gov/pubmed/19305706. [PMC free article] [PubMed] [Google Scholar]
+
+Cooper ML. Alcohol use and risky sexual behavior among college students and youth: Evaluating the evidence. Journal of Studies of Alcohol. 2002;14(March Supplement):101–117. Retrieved from http://www.addictioncounselorce.com/articles/101641/101-Cooper.pdf. [PubMed] [Google Scholar]
+
+Crawford M, Popp D. Sexual double standards: A review and methodological critique of two decades of research. Journal of Sex Research. 2003;40(1):13–26. doi: 10.1080/00224490309552163. [PubMed] [CrossRef] [Google Scholar]
+
+Deutsch AR, Slutske WS. A noncausal relation between casual sex in adolescence and early adult depression and suicidal ideation: A longitudinal discordant twin study. Journal of Sex Research. 2015;52(7):770–780. doi: 10.1080/00224499.2014.942413. [PubMed] [CrossRef] [Google Scholar]
+
+Eisenberg ME, Ackard DM, Resnick MD, Neumark-Sztainer D. Casual sex and psychological health among young adults: Is having “friends with benefits” emotionally damaging? Perspectives on Sexual and Reproductive Health. 2009;41(4):231–237. doi: 10.1363/4123109. [PubMed] [CrossRef] [Google Scholar]
+
+Fielder RL, Carey MP. Predictors and consequences of sexual “hookups” among college students: A short-term prospective study. Archives of Sexual Behavior. 2010;39(5):1105–1119. doi: 10.1007/s10508-008-9448-4. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+
+Fielder RL, Walsh JL, Carey KB, Carey MP. Predictors of sexual hookups: A theory-based, prospective study of first-year college women. Archives of Sexual Behavior. 2013;42(8):1425–1441. doi: 10.1007/s10508-013-0106-0. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+
+Fortunato L, Young AM, Boyd CJ, Fons CE. Hook-up sexual experiences and problem behaviors among adolescents. Journal of Child & Adolescent Substance Abuse. 2010;19(3):261–278. doi: 10.1080/1067828X.2010.488965. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+
+Frappier JY, Kaufman M, Baltzer F, Elliott A, Lane M, Pinzon J, McDuff P. Sex and sexual health: A survey of Canadian youth and mothers. Paediatrics & Child Health. 2008;13(1):25–30. Retrieved from http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=19119349. [PMC free article] [PubMed] [Google Scholar]
+
+Furman W, Collibee C. Sexual activity with romantic and nonromantic partners and psychosocial adjustment in young adults. Archives of Sexual Behavior. 2014;43(7):1327–1341. doi: 10.1007/s10508-014-0293-3. [PubMed] [CrossRef] [Google Scholar]
+
+Furman W, Shaffer L. The role of romantic relationships in adolescent development. In: Florsheim P, editor. Adolescent romantic relations and sexual behavior: Theory, research, and practical implications. Mahwah, NJ: Lawrence Erlbaum Associates; 2003. pp. 3–22. [Google Scholar]
+
+Grello CM, Welsh DP, Harper MS. No strings attached: The nature of casual sex in college students. Journal of Sex Research. 2006;43(3):255–267. doi: 10.1080/00224490609552324. [PubMed] [CrossRef] [Google Scholar]
+
+Grello CM, Welsh DP, Harper MS, Dickson JW. Dating and sexual relationship trajectories and adolescent functioning. Adolescent and Family Health. 2003;3(3):103–112. Retrieved from http://www.icpsr.umich.edu/icpsrweb/ICPSR/biblio/resources/73651?journal=Adolescent+and+Family+Health&paging.startRow=1&collection=DATA. [Google Scholar]
+
+Guerrero LK, Mongeau PA. On becoming “more than friends”: The transition from friendship to romantic relationship. In: Sprecher S, Wenzel A, Harvey J, editors. Handbook of relationship initiation. New York: Taylor & Francis Group; 2008. pp. 175–194. [Google Scholar]
+
+Hallfors DD, Waller MW, Ford CA, Halpern CT, Brodish PH, Iritani B. Adolescent depression and suicide risk: Association with sex and drug behavior. American Journal of Preventive Medicine. 2004;27(3):224–231. doi: 10.1016/j.amepre.2004.06.001. [PubMed] [CrossRef] [Google Scholar]
+
+Institut de la statistique du Québec. Quebec Survey on Smoking, Alcohol, Drugs and Gambling in High School Students (QHSHSS) 2008 Retrieved from http://www.stat.gouv.qc.ca/statistiques/sante/enfants-ados/alcool-tabac-drogue-jeu/tabac-alcool-drogue-jeu.html.
+
+Johnson MD. Parent-child relationship quality directly and indirectly influences hooking up behavior reported in young adulthood through alcohol use in adolescence. Archives of Sexual Behavior. 2013;42(8):1463–1472. doi: 10.1007/s10508-013-0098-9. [PubMed] [CrossRef] [Google Scholar]
+
+Kessler RC, Andrews G, Colpe LJ, Hiripi E, Mroczek DK, Normand SLT, … Zaslavsky AM. Short screening scales to monitor population prevalences and trends in non-specific psychological distress. Psychological Medicine. 2002;32(6):959–976. doi:10.1017}S0033291702006074. [PubMed] [Google Scholar]
+
+Lovejoy MC. Hooking up as an individualistic practice: A double-edged sword for college women. Sexuality & Culture. 2015;19(3):464–492. doi: 10.1007/s12119-015-9270-9. [CrossRef] [Google Scholar]
+
+Manning WD, Giordano PC, Longmore MA. Hooking up: The relationship contexts of “nonrelationship” sex. Journal of Adolescent Research. 2006;21(5):459–483. doi: 10.1177/0743558406291692. [CrossRef] [Google Scholar]
+
+Manning WD, Longmore MA, Giordano PC. Adolescents’ involvement in non-romantic sexual activity. Social Science Research. 2005;34(2):384–407. doi: 10.1016/j.ssresearch.2004.03.001. [CrossRef] [Google Scholar]
+
+Marsh HW, O’Neill R. Self-description questionnaire III: The construct validity of multidimensional self-concept ratings by late adolescents. Journal of Educational Measurement. 1984;21(2):153–174. doi: 10.1111/j.1745-3984.1984.tb00227.x. [CrossRef] [Google Scholar]
+
+McCarthy B, Casey T. Love, sex, and crime: Adolescent romantic relationships and offending. American Sociological Review. 2008;73(6):944–969. doi: 10.1177/000312240807300604. [CrossRef] [Google Scholar]
+
+Meier AN. Adolescent first sex and subsequent mental health. American Journal of Sociology. 2007;112(6):1811–1847. doi: 10.1086/512708. [CrossRef] [Google Scholar]
+
+Monahan KC, Lee JM. Adolescent sexual activity: Links between relational context and depressive symptoms. Journal of Youth and Adolescence. 2008;37(8):917–927. doi: 10.1007/s10964-007-9256-5. [CrossRef] [Google Scholar]
+
+Muthén LK, Muthén BO. Mplus User’s Guide. 7. Los Angeles, CA: Muthén & Muthén; 1998–2012. [Google Scholar]
+
+Napper LE, Montes KS, Kenney SR, LaBrie JW. Assessing the personal negative impacts of hooking up experienced by college students: Gender differences and mental health. Journal of Sex Reseach. 2016;53(7):766–775. doi: 10.1080/00224499.2015.1065951. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+
+Owen J, Fincham F, Moore J. Short-term prospective study of hooking up among college students. Archives of Sexual Behavior. 2011;40(2):331–341. doi: 10.1007/s10508-010-9697-x. [PubMed] [CrossRef] [Google Scholar]
+
+Owen J, Fincham FD. Effects of gender and psychosocial factors on “friends with benefits” relationships among young adults. Archives of Sexual Behavior. 2011a;40(2):311–320. doi: 10.1007/s10508-010-9611-6. [PubMed] [CrossRef] [Google Scholar]
+
+Owen J, Fincham FD. Young adults’ emotional reactions after hooking up encounters. Archives of Sexual Behavior. 2011b;40(2):321–330. doi: 10.1007/s10508-010-9652-x. [PubMed] [CrossRef] [Google Scholar]
+
+Owen J, Fincham FD, Manthos M. Friendship after a friends with benefits relationship: Deception, psychological functioning, and social connectedness. Archives of Sexual Behavior. 2013;42(8):1443–1449. doi: 10.1007/s10508-013-0160-7. [PubMed] [CrossRef] [Google Scholar]
+
+Owen J, Rhoades GK, Stanley SM, Fincham FD. “Hooking up” among college students: Demographic and psychosocial correlates. Archives of Sexual Behavior. 2010;39(3):653–663. doi: 10.1007/s10508-008-9414-1. [PubMed] [CrossRef] [Google Scholar]
+
+Paul EL, Hayes KA. The causalities of “casual’ sex: A qualitative exploration of the phenomenology of college students’ hookups. Journal of Social and Personal Relationships. 2002;19(5):639–661. doi: 10.1177/0265407502195006. [CrossRef] [Google Scholar]
+
+Paul EL, McManus B, Hayes A. “Hookups”: Characteristics and correlates of college students’ spontaneous and anonymous sexual experiences. Journal of Sex Research. 2000;37(1):76–88. doi: 10.1080/00224490009552023. [CrossRef] [Google Scholar]
+
+Paul EL, Wenzel A, Harvey J. Hookup: A facilitator or a barrier to relationship initiation and intimacy development? In: Sprecher S, Wenzel A, Harvey J, editors. Handbook of relationship initiation. New York: Taylor & Francis Group; 2008. pp. 375–390. [Google Scholar]
+
+Reiber C, Garcia JR. Hooking up: Gender differences, evolution, and pluralistic ignorance. Evolutionary Psychology. 2010;8(3):390–404. http://www.epjournal.net/ Retrieved from http://www.epjournal.net/ [PubMed] [Google Scholar]
+
+Russell ST, Van Campen KS, Muraco JA. Sexuality development in adolescence. In: Carpenter LM, DeLamarter J, editors. Sex for life: From virginity to viagra. How sexuality changes throughout our lives. New York: New York University Press; 2012. pp. 70–87. [Google Scholar]
+
+Sandberg-Thoma SE, Kamp Dush CM. Casual sexual relationships and mental health in adolescence and emerging adulthood. Journal of Sex Research. 2014;51(2):121–130. doi: 10.1080/00224499.2013.821440. [PubMed] [CrossRef] [Google Scholar]
+
+Schmitt DP. Is short-term mating the maladaptive result of insecure attachment? A test of competing evolutionary perspectives. Personality and Social Psychology Bulletin. 2005;31(6):747–768. doi: 10.1177/0146167204271843. [PubMed] [CrossRef] [Google Scholar]
+
+Schulte MT, Hser YI. Substance use and associated health conditions throughout the lifespan. Public Health Reviews. 2014;35(2):1–27. [PMC free article] [PubMed] [Google Scholar]
+
+Shulman S, Walsh SD, Weisman O, Schelyer M. Romantic contexts, sexual behavior, and depressive symptoms among adolescent males and females. Sex Roles. 2009;6(11):850–863. doi: 10.1007/s11199-009-9691-8. [CrossRef] [Google Scholar]
+
+Starr LR, Davila J, Stroud CB, Clara Li PC, Yoneda A, Hershenberg R, Ramsay Miller M. Love hurts (in more ways than one): Specificity of psychological symptoms as predictors and consequences of romantic activity among early adolescent girls. Journal of Clinical Psychology. 2012;68(4):403–420. doi: 10.1002/jclp.20862. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+
+Statistics Canada and Human Resources and Skills Development Canada. National Longitudinal Survey of Children and Youth 2006–2007 (NLSCY): Survey Instruments. 2008 Retrieved from http://www.statcan.gc.ca/cgi-bin/imdb/p2SV_f.pl?Function=getSurvey&SurvId=4450&SurvVer=1&InstaId=16044&InstaVer=7&SDDS=4450&lang=fr&db=imdb&adm=8&dis=2.
+
+Strokoff J, Owen J, Fincham FD. Diverse reactions to hooking up among U.S. university students. Archives of Sexual Behavior. 2015;44(4):935–943. doi: 10.1007/s10508-014-0299-x. [PubMed] [CrossRef] [Google Scholar]
+
+Tabachnick BG, Fidell LS. Using multivariate statistics. 6. New York: Pearson Education; 2013. [Google Scholar]
+
+Vrangalova Z. Does casual sex harm college students’ well-being? A longitudinal investigation of the role of motivation. Archives of Sexual Behavior. 2015a;44(4):945–059. doi: 10.1007/s10508-013-0255-1. [PubMed] [CrossRef] [Google Scholar]
+
+Vrangalova Z. Hooking up and psychological well-being in college students: Short-term prospective links across different hookup definitions. Journal of Sex Research. 2015b;52(5):485–498. doi: 10.1080/00224499.2014.910745. [PubMed] [CrossRef] [Google Scholar]
+
+Weaver AD, MacKeigan KL, MacDonald HA. Experiences and perceptions of young adults in friends with benefits relationships: A qualitative study. Canadian Journal of Human Sexuality. 2011;20(1–2):41–53. Retrieved from http://findarticles.com/p/articles/mi_go1966/is_1-2_20/ai_n57951623/ [Google Scholar]
+
+Welsh DP, Grello CM, Harper MS. When love hurts: Depression and adolescent romantic relationships. In: Florsheim P, editor. Adolescent romantic relations and sexual behavior: Theory, research and practical implications. Mahwah, NJ: Lawrence Erlbaum; 2003. pp. 185–211. [Google Scholar]
+
+Wothke W. Longitudinal and multigroup modeling with missing data. In: Little TD, Schnabel KU, Baumert J, editors. Modeling longitudinal and multiple-group data: Practical issues, applied approaches, and specific examples. Hillsdale, New Jersey: Lawrence Erlbaum Associates; 2000. pp. 219–240. [Google Scholar]
+
+Cited by other articles
+
+Links to NCBI Databases
+
+Copy Download .nbib .nbib

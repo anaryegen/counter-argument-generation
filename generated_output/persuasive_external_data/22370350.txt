@@ -1,0 +1,343 @@
+Automotive Fuel Economy: How Far Can We Go?
+
+Chapter: 5 IMPACTS ON THE AUTOMOTIVE INDUSTRY
+
+Visit NAP.edu/10766 to get more information about this book, to buy it in print, or to download it as a free PDF.
+
+« Previous: 4 ENVIRONMENTAL ISSUES
+
+Suggested Citation:"5 IMPACTS ON THE AUTOMOTIVE INDUSTRY." National Research Council. 1992. Automotive Fuel Economy: How Far Can We Go?. Washington, DC: The National Academies Press. doi: 10.17226/1806.
+
+5 IMPACTS ON THE AUTOMOTIVE INDUSTRY
+
+The U.S. automotive industry is facing a difficult if not unprecedented period of competition and capital spending in its efforts to compete with Japanese automakers and to meet pending government regulations on emissions control and safety. These burdens are falling on an industry trying to cope with massive losses due to the 1990-1991 recession and the battle for market share.
+
+Fuel economy has not been a major competitive issue in the marketplace since 1981. Relatively low gasoline prices have allowed consumers to focus instead on vehicle prices, performance, comfort, and style. But firms that can provide all of those characteristics, plus superior fuel economy, should have an advantage over those that do not. Whatever the future fuel economy standards, U.S. automakers must confront the fact that the Japanese appear to have targeted improved fuel economy as an area deserving particular emphasis.1
+
+Although properly designed fuel economy standards would not necessarily constitute a competitive disadvantage to U.S. automotive companies (see Chapter 9), new fuel economy standards that are extremely costly to implement or that greatly distort the normal product cycle of the industry would place an enormous financial burden on domestic automakers. Hence, the impacts on the industry are central to the discussion of new fuel economy targets. This chapter explores those impacts.
+
+It is difficult to separate fact from rhetoric on this matter. The Japanese are targeting fuel economy in Japan (U.S. Department of Commerce and Motor Equipment Manufacturers Association, 1990) under the threat of tougher U.S. corporate average fuel economy (CAFE) laws and the possibility that Japan will adopt its own version of CAFE standards, and because the price of gas is nearly $4 a gallon there and the Japanese government has been critical of declining fuel economy. Nonetheless, it must be noted that in general, on a class-by-class basis, U.S. cars currently have better fuel economy than similar Japanese cars. In its presentation on November 4, 1991, to the Standards and Regulations Subgroup of the committee (see Appendix F), General Motors noted that for MY 1990 cars, if the sales mix of its vehicles had been the same (by size class and transmission types) as its principal Japanese competitors, its CAFE rating would have been as follows: GM with a Honda mix, 31.6 vs. Honda's 30.8 mpg; GM with a Nissan mix, 29.4 vs. 28.4 mpg for Nissan; GM with a Toyota mix, 30.3 vs. 30.6 mpg for Toyota. General Motor's actual CAFE rating for MY 1990 was 27.1 mpg.
+
+Suggested Citation:"5 IMPACTS ON THE AUTOMOTIVE INDUSTRY." National Research Council. 1992. Automotive Fuel Economy: How Far Can We Go?. Washington, DC: The National Academies Press. doi: 10.17226/1806.
+
+FINANCIAL PERFORMANCE
+
+The domestic manufacturers will continue to confront serious financial burdens, wholly apart from any changes in fuel economy regulations. The domestic automotive industry is mature and highly cyclical; the peaks and troughs in vehicle demand essentially parallel economic activity. Even though Chrysler, Ford, and General Motors have diversified through foreign vehicle production and sales, as well as nonautomotive activities in financial services, defense electronics, and vehicle rental companies, vehicle production in North America is an important part of their total sales. The level of vehicle demand is the primary factor in determining profitability, but market share and the mix of cars and trucks and of small and large cars also influence profits. 2
+
+The domestic automotive industry emerged from the recession of 1980–1982 (when it posted a cumulative loss of $4.1 billion) to a record post-World War II expansion between 1983 and 1989, during which time it earned $61 billion. Restricted Japanese competition between 1981 and 1985, buyer preference for trucks and larger, well-equipped cars, and record vehicle demand in North America combined to create the unprecedented total profit rebound for each of the three domestic automotive companies. (See Figure 5-1.)
+
+Since 1986, the domestic industry has faced increasing competitive pressure. The Japanese automakers have opened eight assembly plants (''transplants") in the United States and thus have been able to add more than 2 million units of locally produced cars and trucks to the 2.3 million imports permitted under the voluntary restraint agreement.3 Although Japan lost some of its competitive edge when the dollar was depreciated relative to the yen following the 1985 Plaza Accord, the Japanese automobile companies have continued to gain market share in the United States.4
+
+Labor and overhead costs are relatively constant over all models. Nonetheless, on average, trucks contribute more profit per unit, followed by large luxury automobiles. Trucks are redesigned infrequently, so tooling investment per unit is relatively low. Historically, small cars have been less profitable than large cars, and there has been greater competition in this market segment from imports. Larger cars can command higher prices because of their size and features. Moreover, as discussed herein, the CAFE standards may themselves establish pressures on manufacturers to reduce the prices of small, fuel-efficient cars to ensure compliance.
+
+The Japanese share of the U.S. automotive market rose from 19.6 to 28.1 percent between 1980 and 1990. The Japanese share of the light-truck segment has consistently trailed that for automobiles. In 1980, the Japanese share of light-truck sales was 10.1 percent, rising to 16.1 percent in 1990. The 25 percent tariff on imported two-door trucks limits profitability and, in addition, the Japanese do not, as yet, produce many popular types of light trucks, such as standard-size pickup trucks, vans, and sport-utility vehicles.
+
+In 1985, Britain, France, West Germany, Japan, and the United States met at New York's Plaza Hotel and reached agreement on depreciating the dollar, which made it cheaper for foreigners to buy U.S. Goods.
+
+Suggested Citation:"5 IMPACTS ON THE AUTOMOTIVE INDUSTRY." National Research Council. 1992. Automotive Fuel Economy: How Far Can We Go?. Washington, DC: The National Academies Press. doi: 10.17226/1806.
+
+FIGURE 5-1 Net income of Chrysler, Ford, and General Motors automotive companies, 1980-1990.
+
+SOURCE: Based on data from the companies' annual reports.
+
+They retained a tremendous advantage in cost of capital until 1990, as well as an advantage in production efficiency, in factories in Japan and the United States (Womack et al., 1990).5
+
+The expansion of Japanese penetration into the automobile and truck sectors of the market has touched off a battle for market share that is a major factor in the recent record losses of the U.S. automakers. On February 24, 1992, General Motors announced corporate losses of $4.45 billion in 1991. General Motor's announcement followed those of Ford and Chrysler reporting losses in 1991 of $2.26 billion and $665 million, respectively. The recession has also had an impact on Japanese automakers, but not as severe as for U.S. automakers. Whereas the U.S. companies have experienced record losses, the principal Japanese automobile companies have experienced only a decline in profits. And the market share of Japanese automobiles has increased to record levels in the United States during the recession.
+
+Their U.S. factories benefit from a young, skilled work force. They have virtually no pension liabilities as yet, and health care costs are low because of the young work force and lack of retirees. They are also not burdened by the need to provide wages and benefits to workers displaced by plant closings. In addition, states that won transplant investment provide incentives in the form of funds for training workers, tax abatements, and so forth.
+
+Suggested Citation:"5 IMPACTS ON THE AUTOMOTIVE INDUSTRY." National Research Council. 1992. Automotive Fuel Economy: How Far Can We Go?. Washington, DC: The National Academies Press. doi: 10.17226/1806.
+
+Capital spending by the domestic automakers was estimated at about $17 billion in 1991, and negative cash flow forced them to raise outside capital, debt, and equity in record amounts in 1991, in addition to cutting dividends. The creditworthiness of all three companies has deteriorated, as evidenced by the credit-rating reductions for all three companies in 1991. As a result, borrowing is now more difficult and more expensive. Although profitability should be restored when an economic rebound occurs, it is doubtful that the domestic industry can match previous levels of income because of such factors as the extensive competition across all model lines, especially those that have been highly profitable to U.S. manufacturers, the extreme overcapacity that exists, and the likely continuation of various incentive programs to purchase or lease cars. Capital spending, on the other hand, will have to remain relatively high to meet government safety and emissions regulations and to respond to Japanese competition, especially Japanese inroads into the markets for larger cars and standard-size trucks.
+
+It is probable that the domestic industry will suffer further loss of market share in the classes of vehicles (large cars and trucks) that contribute a disproportionate share of industry profits even if the overall Japanese share remains stable in the future. The industry's earning power will be further limited in the 1990s by high marketing costs, R & D spending, the interest expenses associated with its record-high debt, and double-digit percentage increases in health care and pension expenses. Moreover, as discussed in more detail in the next chapter, because the population of cars and light trucks is approximately equal to the population of driving age, future demand in the United States will only slightly exceed replacement of scrapped vehicles. With the trend in demand for new vehicles projected at about 16 million units by the year 2000 (cyclical peaks could exceed 16 million, as in 1986), the United States will continue to suffer from severe excess capacity, even during brief periods of strong economic expansion.6 This is an unprecedented situation.
+
+EFFECTS OF COMPETITION
+
+The competitive situation of the domestic industry could be adversely affected by any government policy that imposes added burdens on the industry that hit domestic manufacturers harder than foreign manufacturers or that imposes costs significant enough to reduce overall vehicle demand substantially.
+
+Despite worldwide capital spending of $90 billion between 1983 and 1989, the domestic manufacturers lost ground in terms of market share to the Japanese automakers. It is estimated that by 1995 Japan's North American transplant capacity for cars and light trucks could reach 2.8 million units, compared with just over 2 million
+
+Based on presentations by Chrysler, Ford, and General Motors to the committee's Impacts Subgroup on September 16, 1991 (see Appendix F).
+
+Suggested Citation:"5 IMPACTS ON THE AUTOMOTIVE INDUSTRY." National Research Council. 1992. Automotive Fuel Economy: How Far Can We Go?. Washington, DC: The National Academies Press. doi: 10.17226/1806.
+
+units in 1991. The combination of Japanese vehicles (imported and locally assembled), imports of European automobiles, and vehicles produced by General Motors, Ford, and Chrysler constitutes a potential supply that could far exceed demand in 1995, even with General Motors' decision to close six more plants. For the foreseeable future, the pressure on profit margins will prompt the withdrawal of some companies and the closing of more domestic capacity.7
+
+The North American motor vehicle market remains the most open major market in the world, and thus, it is the target market for foreign manufacturers who wish to expand or shift production. For example, at the same time that some European manufacturers are withdrawing from North America, Korean manufacturers (e.g., Kia) are announcing their intention to sell cars in the United States through an independent dealer network.8 Europeans see U.S.-made Japanese cars as a means of circumventing their own limits on Japanese cars.
+
+In an attempt to increase sales, the industry has resorted to numerous marketing, incentive, and service programs. These include increasing the period of a car loan to five years (thereby decreasing the monthly payment), offering cash rebates, lowering loan interest rates, subsidizing leases, selling program cars,9 and offering enhanced warranty and buyer-protection programs. Although these programs are beneficial to the consumer, they are costly to the manufacturers.
+
+Employment in the domestic automotive industry is likely to continue to decline during the 1990s, regardless of any action on fuel economy regulations. And, industry adjustments to the current overcapacity will further reduce employment.
+
+Domestic automobile manufacturers directly employed 609,800 hourly production workers in 1990. Many more workers are employed in industries that support the
+
+In 1991, Sterling (United Kingdom) and Peugeot (France) terminated sales of automobiles in the United States. Other producers might also choose to abandon the market because of the high fixed cost of meeting pending emissions standards. Since 1988, Chrysler has closed 3 assembly plants and opened 1 in the United States, while General Motors has closed 10 assembly plants and opened 1 (see Table 5-1). Another 6 plants and 17 components factories will be closed as a result of capacity cuts announced on December 18, 1991, in addition to 4 other pending assembly plant closings by General Motors. Chrysler will probably close its Toledo plant, which builds the aging Jeep Cherokee. The December 18, 1991, announcement by General Motors was equal to a capacity reduction of 1.4 million units (Frame, 1991).
+
+Kia manufactures the Festiva in Korea, which is sold in the United States by Ford.
+
+Program cars are new cars that are used by automobile rental companies for a short period of time and then repurchased by automobile companies for resale as used cars at a significant loss to the vehicle manufacturer. It is estimated that program cars account for approximately 1.5 to 2.0 million units a year.
+
+Suggested Citation:"5 IMPACTS ON THE AUTOMOTIVE INDUSTRY." National Research Council. 1992. Automotive Fuel Economy: How Far Can We Go?. Washington, DC: The National Academies Press. doi: 10.17226/1806.
+
+TABLE 5-1 Closings and Openings of North American Assembly Plants by the American-Owned Automobile Companies
+
+Flint Body/Pontiac Assembly, Michigan
+
+Framingham, Massachusetts
+
+Willow Run, Michigan
+
+North Tarrytown, New York
+
+General Motors (Saturn)
+
+Spring Hill, Tennessee
+
+SOURCE: Based on information from the automobile manufacturers, Autofacts 1991 Yearbook (Autofacts, Inc. West Chester, Pa.), and the New York Times (February 25, 1992, p. A1).
+
+Suggested Citation:"5 IMPACTS ON THE AUTOMOTIVE INDUSTRY." National Research Council. 1992. Automotive Fuel Economy: How Far Can We Go?. Washington, DC: The National Academies Press. doi: 10.17226/1806.
+
+motor vehicle industry (Motor Vehicle Manufacturers Association [MVMA], 1991; Salter et al., 1985).10 Hence, any decrease in automotive sales has ripple effects on employment throughout the U.S. economy.
+
+Hourly employment reached a recession low in the first quarter of 1991 as factories closed to respond to low retail sales and inventory reductions by dealers. Apart from the cyclical slump in employment, the industry has lost more than 120,000 hourly jobs since 1978 (see Figure 5-2). Japanese transplants in the United States are blamed for the loss of about 20,000 jobs because they are more efficient and use fewer
+
+FIGURE 5-2 U.S. motor vehicle and equipment manufacturing employment, 1977-1990.
+
+SOURCE: Based on MVMA (1991).
+
+Different analysts report varying employment statistics. Salter et al. (1985) estimated that for every 1 million unit fluctuation in sales, about 150,000 to 200,000 jobs in the automotive and supplier sectors are affected. The U.S. General Accounting Office (GAO, 1988) reported that a typical 1990 U.S. assembly plant had 4,068 assembly workers producing 200,000 vehicles, whereas the United Automobile Workers (UAW) indicated that 5,932 assembly workers would be used in such a plant. Indirect employment is also generated in industries connected to the assembly plants. The GAO (1988) reported that 4.87 jobs were created at auto parts companies and all upstream sectors for every assembly plant worker, whereas it reported a UAW estimate of 4.21 such workers per assembly plant worker. Thus, estimates for vehicles per worker range from 6.5 to about 8.4 units per worker.
+
+Suggested Citation:"5 IMPACTS ON THE AUTOMOTIVE INDUSTRY." National Research Council. 1992. Automotive Fuel Economy: How Far Can We Go?. Washington, DC: The National Academies Press. doi: 10.17226/1806.
+
+locally produced components. Thus, the displacement of one U.S.-made car by a transplant-made car represents a net loss of assembly and components jobs in the United States (GAO, 1988).11
+
+In addition to Japanese transplant assembly facilities, approximately 300 to 400 Japanese automotive parts companies have established wholly owned or joint-venture operations in the United States to sell to U.S. and Japanese automotive companies. It is impossible to predict precisely what the impact of these new operations will be. It appears probable, however, that they will rely in part on imported parts and components and will be more productive than their U.S. counterparts, which will result in further job losses. Further inroads by Japanese brands, whether imported or locally assembled, will reduce U.S. hourly jobs. Productivity gains will also reduce labor needs.12 (Figure 5-3 shows how output per worker has changed over the past 15 years.)
+
+FIGURE 5-3 Net vehicle output (sales of new cars and used cars) per worker in constant 1989 dollars and autos per worker. Employment is that in U.S. motor vehicle and equipment manufacturing.
+
+SOURCE: MVMA (1991).
+
+If the Japanese exported vehicles to the United States rather than producing some vehicles here, the loss of U.S. jobs would have been considerably greater. In its presentation at the committee's meeting on May 13-15, 1991 (see Appendix F), the UAW estimated that for every 200,000 to 250,000 vehicles imported, 30,000 jobs in assembly plants and supplier companies would be lost, or roughly 7 to 8 jobs per car.
+
+The 1990 contract with the UAW allows elimination of one job for every two employees who leave. On December 18, 1991, General Motors said that this would reduce hourly employment by 15,000 people in 1992 and each year through the mid-1990s (Frame, 1991). Attrition, according to General Motors, cut hourly jobs by 25,000 in 1991.
+
+Suggested Citation:"5 IMPACTS ON THE AUTOMOTIVE INDUSTRY." National Research Council. 1992. Automotive Fuel Economy: How Far Can We Go?. Washington, DC: The National Academies Press. doi: 10.17226/1806.
+
+Changing Market Share
+
+As Japanese transplant capacity grew in the United States during the late 1980s, sales and the market shares of Japanese automobile companies increased, to the detriment of domestic companies. In addition to having more cars to sell, Japanese manufacturers followed a logical (particularly considering the import quotas) path of product evolution, capitalizing on the comparable advantage that was available to them (as producers of small cars) under the CAFE system (see Chapter 9). They moved upmarket into larger and more luxurious models by the late 1980s. New divisions (e.g., Lexus, Infiniti, and Acura) were launched to focus on highly profitable luxury cars. The extension of Japanese product ranges into market sectors that provide the bulk of domestic industry profits—mid- and full-size cars and light trucks—has made the Japanese a greater threat to domestic industry profitability in the future than it has been over the past 10 years. For example, although the Honda Accord and Toyota Camry were initially introduced as compact cars, both have increased in size and luxury features and are currently classified as midsize cars. The substitution of a $30,000 Japanese car for a similarly priced domestic model has severe profit implications for domestic automakers.
+
+The Japanese producers have also fragmented the U.S. market by expanding their product offerings into low-volume specialty and luxury models. Today, the American consumer can choose among approximately 290 nameplates of cars and light trucks, compared with 170 only 10 years ago.13 The domestic automotive industry has traditionally relied on large volumes of a single model to attain production efficiency. The Japanese, on the other hand, have very efficient, flexible plants capable of producing several models and of adjusting to changes in the marketplace (Womack et al., 1990). As a result, the Japanese automakers have evolved from an initial strategy when they first entered the U.S. market of concentrating on "econobox" utilitarian vehicles to the current strategy of extensive product diversity. This strategy has enhanced the threat they pose to the domestic manufacturers.
+
+The Japanese automakers also have a more efficient product-development process than their U.S. counterparts although there is evidence that this situation is changing. Whereas it takes U.S. automakers about 60 months, on average, to develop a new product, Japanese automakers take only 47 months. Moreover, the product-development effort requires 3 million person-hours in the United States, in comparison with only 1.7 million person-hours in Japan (Clark and Fujimoto, 1991). Japanese automakers thus have a significant competitive edge in product development with respect to development time and resource requirements.
+
+Between 1982 and 1990, Japanese automobile companies doubled the number of model offerings from 45 to 90, whereas the United States had a modest increase—from 35 to 45 models. In 1976, the top-selling car model in the United States had sales of 621,140, whereas in 1989 the top-selling model, the Honda Accord, had sales of only 362,707. The top 10 models had total sales of 2.78 million cars (28 percent of the new-car market) in 1989 versus 3.58 million (32 percent of the new-car market) in 1978 (Wards Communications, various years).
+
+Suggested Citation:"5 IMPACTS ON THE AUTOMOTIVE INDUSTRY." National Research Council. 1992. Automotive Fuel Economy: How Far Can We Go?. Washington, DC: The National Academies Press. doi: 10.17226/1806.
+
+The Japanese automobile industry has followed a product-replacement philosophy based on short product cycles (roughly half the time of the U.S. companies) and fast depreciation of assets. Short product cycles mean that vehicles can be adjusted to changes in the marketplace more frequently. Features that are more easily incorporated with major changes can be introduced more rapidly. Tools and equipment that are model specific can be written off over the short life of the model.14 Because domestic manufacturers have followed longer product cycles, they are less nimble in the marketplace than their Japanese competitors.15
+
+The best Japanese automakers have developed a production system that enables them to produce efficiently at a smaller scale than the American manufacturers while manufacturing products of high quality (Womack et al., 1990). The annual production volume for the Japanese product cycle can be economically viable at levels as low as 50,000 units, compared with optimum production levels of 200,000 units for a U.S. model. The four-to-one difference in production volume enables Japanese automakers to provide four times as many product offerings from a single plant as a U.S. manufacturer, thereby providing the opportunity to satisfy more market segments.
+
+The relationship between Japanese companies and their principal suppliers may also provide a competitive advantage for the largest companies in product development involving new technology. Japanese automobile manufacturers enter into long-term relationships with their principal suppliers and are bound together in business groups through joint-equity relationships termed Keiretsu. As a result of these long-term relationships, joint product development is possible. In the United States, suppliers are involved jointly in only 14 percent of the engineering effort in new product development, whereas in Japan suppliers account for 51 percent of that engineering.16 U.S. automotive companies, especially General Motors and to a lesser extent Ford and Chrysler, are vertically integrated more extensively than the Japanese manufacturers,
+
+Japanese firms also write off investments on key components, like engines and transmissions, more quickly than American firms. Toyota, for example, launched 14 new engines between 1978 and 1990, fully depreciating its engine facilities over six years. Engine and drivetrain life is at least 12 to 15 years for domestic companies; Ford, for example, did not launch a single new engine during the 1980s.
+
+For example, the Honda Accord was redesigned in 1982, 1986, and 1990. In comparison, the Ford Taurus was introduced in 1985, was significantly updated in 1991, and is scheduled to be face-lifted in 1995 before being completely changed in 1999 (based on presentations to the committee by Ford Motor Company). Thus, the Accord had two major redesigns in an 8-year period (1982-1990), whereas the Taurus is scheduled to have two major redesigns over a 14-year period. Chrysler's first completely new automobile platform since 1982 will be launched in the fall of 1992.
+
+The Japanese product-development strategy of small-scale production and extensive product diversity also has implications for the introduction of new technology. It allows Japanese companies to experiment with new technology on small-volume products before committing more broadly to the technology on many product lines. Moreover, because it is easier and more cost-effective to incorporate new technologies at the time of a facelift or model change, the Japanese will retain the ability to adopt some technologies faster than their American competitors.
+
+The committee distinguished subcontracted engineering effort from joint R&D. The latter may provide a competitive advantage because it allows the manufacturer to augment its own technical skills with those of its supplier.
+
+Suggested Citation:"5 IMPACTS ON THE AUTOMOTIVE INDUSTRY." National Research Council. 1992. Automotive Fuel Economy: How Far Can We Go?. Washington, DC: The National Academies Press. doi: 10.17226/1806.
+
+which does provide economies somewhat analogous to the Japanese Keiretsu system. Nonetheless, even considering this fact, the Japanese have been more effective at joint product development, particularly in cooperation among different industries as well as within Keiretsu structures.
+
+Manufacturing Productivity
+
+Although the American automobile industry has made some progress in introducing flexible manufacturing, it has failed to match Japanese levels of manufacturing and organizational efficiency. Improved factory operating efficiency and vehicle design have yielded higher quality and productivity, but that only partly closed the competitive gap. A recent study (Womack et al., 1990) comparing the performance of auto assembly plants throughout the world found that U.S. plants operated by the U.S. automakers had an average productivity of 24.9 hours per vehicle. In comparison, Japanese plants in Japan had an average productivity of 16.8 hours per vehicle. Cars assembled at the U.S. plants had 7.8 assembly defects per car in comparison with 5.2 defects per car in the Japanese plants. The gulf between American and Japanese manufacturers is narrowing but remains a troubling national problem.
+
+Capacity for Investment
+
+Access to cheap capital through the issuance of warrants and convertible bonds worth billions of yen during the late 1980s supported Japanese investment in new plants and products.17 While the Japanese automobile companies must replace this low-cost debt with more expensive capital, they continue to benefit from the investments made during the late 1980s.
+
+Although the domestic automakers also invested heavily during the 1980s, much of the surplus cash was used for acquisitions outside the North American automotive market. In addition, cash was also used to repurchase shares in attempts to boost stock prices, on products and facilities for overseas subsidiaries, or on domestic facilities deemed necessary for the future of the business, such as the billion-dollar Chrysler Technology Center. Despite record spending on domestic automotive operations, the industry must still invest to match Japanese production standards and to respond to the shift upmarket (i.e., the movement to larger, more expensive cars) of Japanese manufacturers. The prospect of lower vehicle demand, further losses in market share, and significantly higher fixed costs raises questions as to the domestic industry's capacity to fund investments to close the competitive gap with the Japanese and to meet the safety and emissions standards that have been enacted. Investments in fuel economy technologies that force the early retirement of models or components, or that must be accomplished outside the planned spending cycles, could place an untenable financial burden on domestic automakers.
+
+Convertible debentures and warrant bonds were sold by Japanese companies to public investors, often at interest rates of 1 to 2 percent. This enabled long-term projects to be financed despite low returns on investment. In contrast, the long-term U.S. interest rates to automotive borrowers at that time were about 10 percent.
+
+Suggested Citation:"5 IMPACTS ON THE AUTOMOTIVE INDUSTRY." National Research Council. 1992. Automotive Fuel Economy: How Far Can We Go?. Washington, DC: The National Academies Press. doi: 10.17226/1806.
+
+The automobile industry is characterized by long lead times for major component systems, such as engines and transmissions, and complete vehicles. To determine the design and features of a vehicle or of critical components, a two- to four-year lead time is necessary for ordering specialized equipment and preparing manufacturing plants. Vehicle assembly facilities require a lead time of two to four years. (The required lead time is affected by the extent of change in the vehicle and the production process.) Three to four years are required to prepare for an all new engine or drivetrain (U.S. Department of Transportation, 1991).
+
+Some American automotive companies seemed slow to convert to new models and contemporary engine designs during the 1980s. However, every automotive company is expected to spend a relatively large amount of capital on new products and facilities well into the 1990s. In the process, a significant number of new models and four-valve-per-cylinder aluminum engines will be launched. Because these new models and components are already set, the industry's ability to adapt to more stringent fuel economy standards prior to MY 1996 is limited. Nonetheless, there will probably be some improvement in fuel economy in these newer vehicles over their current counterparts.
+
+The industry relies largely on internally generated funds to provide the bulk of capital for investment. As a result, capital spending should roughly match depreciation and amortization of equipment and tools. The long life typical of domestic car lines (10 years or more) and of major components (10 to 15 years) results in a slow write-off of assets. The product-development and depreciation strategies of domestic automakers—as well as significant spending into the early 1990s—are a potential obstacle to investment for the rapid introduction of new technologies beyond those already planned. If fuel economy standards are enacted that make vehicles, production equipment, or key components obsolete before their normal retirement, the industry's financial condition will be compromised.
+
+Nonetheless, a long-term fuel economy standard or goal should be within the industry's capacity, as long as it does not distort normal product evolution. Within 10 to 15 years, all current models and most engines and drivetrains will undergo at least one major change, and the equipment used in their manufacture will be written off. If fuel economy standards follow the industry's own product-development process, some, but not all, of the financial risk of the new standards would be reduced.
+
+It is difficult to comment about the ability of the automotive parts and materials industry to invest in fuel economy technologies. Once again, over a long period of time, such investments could be incorporated into the normal product programs of these companies. If such investment created new opportunities—for example, in the application of aluminum and plastics—the beneficiaries would support necessary development and engineering efforts. Government regulation has hurt some parts makers in the past, but it has also created new industries—for example, producers of airbags, catalytic converters, and fuel-injection systems. No doubt fuel-saving technology would make some materials, processes, and existing systems obsolete, but their replacement by other materials, components, and technologies could create new
+
+Suggested Citation:"5 IMPACTS ON THE AUTOMOTIVE INDUSTRY." National Research Council. 1992. Automotive Fuel Economy: How Far Can We Go?. Washington, DC: The National Academies Press. doi: 10.17226/1806.
+
+opportunities for other companies. Again, however, the adverse financial impact would be minimized by allowing the transition to occur at a natural pace.
+
+Structural Change in the Industry
+
+The U.S. automotive industry is in the midst of a major transition. Recent studies have documented that the best Japanese companies not only perform better than their American counterparts, but also operate in a fundamentally different manner. On average, the best Japanese companies can manufacture cars of better quality and with superior manufacturing productivity compared with American manufacturers but the gap is narrowing.
+
+The best Japanese automobile companies have redefined the bases of international competition and introduced new standards of ''best practice." They have done this by introducing an approach to manufacturing and product development that is fundamentally different from the conventional mass-production system that has been the basis of U.S. automotive manufacturing. This new manufacturing and product-development approach, commonly referred to as lean production, is based on a different concept of work organization and human resource utilization within and between organizations. If the U.S. automotive industry is to remain competitive, it must undergo structural change and adopt this new production paradigm. The process has already begun, but it is time consuming, complex, expensive, and demanding. The industry has limited capacity to accommodate other changes during this period of intensive competition and transition.
+
+In addition to the structural changes, the American automotive industry must confront a series of regulatory requirements for safety and emissions control in the 1990s. There is also the prospect of international regulation of greenhouse gases. Care should be taken in placing additional burdens on an industry with a full agenda.
+
+No doubt some people will claim that many of the U.S. industry's problems are of its own making. The industry might be said to have waited too long to respond to competitive pressures, to have made an inadequate response, and to have chosen inappropriate priorities in its allocation of human and financial resources. Whether or not that is the case, the industry is a significant sector of the U.S. economy and it is in serious trouble. Fuel economy standards above those demanded by the marketplace should be evaluated with this reality in mind.
+
+THE INTERNATIONAL AUTOMOTIVE MARKET
+
+Automotive manufacturing is a global industry and most companies seek to sell their products outside their home markets. U.S. companies produce motor vehicles through subsidiaries in Europe, Australia, Latin America, and elsewhere, that are different from the vehicles they produce in the United States. American automobile companies are thus directly affected by the energy and emissions policies of other major automobile-producing countries.
+
+Suggested Citation:"5 IMPACTS ON THE AUTOMOTIVE INDUSTRY." National Research Council. 1992. Automotive Fuel Economy: How Far Can We Go?. Washington, DC: The National Academies Press. doi: 10.17226/1806.
+
+Impact of Fuel Prices
+
+Traditional American-built cars have been disadvantaged in major foreign markets, such as Japan and Europe, that have used high gasoline taxes to accomplish energy-conservation goals and to raise tax revenues. Because they have evolved under a regime of low fuel prices, American cars have been too large and inefficient to compete, even if the official barriers to their sale in some countries were eliminated. As a result, the European subsidiaries of Ford, General Motors, and (formerly) Chrysler, developed families of automobiles that conformed to the requirements of their host countries. Even though American cars have improved significantly in terms of fuel economy over the past 15 years, they still carry the reputation in foreign markets of being gas guzzlers. In effect, cheap energy has been one factor that has confined American cars to the North American market.
+
+In contrast, Japanese and European manufacturers have exported their vehicles, developed in markets with high fuel prices, to markets throughout the world. Their highly fuel-efficient cars were salable in all countries, whether fuel was expensive or cheap. For example, foreign brands account for about 35 percent of the U.S. market. Whereas American manufacturers have developed separate product lines for domestic and foreign customers, the Japanese and Europeans have been able to sell the same models worldwide, which gives them a significant economic advantage.
+
+Because gasoline prices are higher overseas, it could be easier for Japanese and European companies to introduce costly fuel-saving technologies more quickly throughout the world than for American companies. For example, Toyota has established a policy of reimbursing suppliers 1,000 yen per part or component for every kilogram of weight saved (about $3 a pound). This "bounty" is cost-effective for the Japanese consumer because, at the cost of fuel in Japan, a consumer can recover the resulting increase in the vehicle price through lower expenditures on fuel (U.S. Department of Commerce and Motor Equipment Manufacturers Association, 1990).
+
+Canada has had higher gasoline prices than the United States for more than a decade and currently has gasoline prices about 60 percent higher than in the United States. Canadian fuel economy standards rose from about 19.7 mpg in 1978 to 29 mpg in 1990, compared with 19.9 to 27.8 mpg in the United States over the same period. On August 1, 1991, Canada also enacted the Tax for Fuel Conservation to encourage the purchase of fuel-efficient cars.18
+
+Consumers will be paid $100 (Canadian) for vehicles purchased with fuel economy better than 6.0 liters per 100 kilometers (about
+
+39 mpg). The legislation imposes a tax ranging from $75 for cars using 6.0 to 9.0 liters per 100 kilometers (about 39 to 26 mpg) to $7,000 on cars consuming 18.1 liters per 100 kilometers (13 mpg). Sport-utility vehicles are also covered under this law; the taxes range from $75 for vehicles using 8.0 to 9.0 liters per 100 kilometers (about 29.4 to 26 mpg) to $3,200 for vehicles using more than 18.1 liters of fuel per 100 kilometers. The Canadian approach to energy conservation will result in a mix shift through direct encouragement of the public to purchase higher fuel economy vehicles.
+
+Suggested Citation:"5 IMPACTS ON THE AUTOMOTIVE INDUSTRY." National Research Council. 1992. Automotive Fuel Economy: How Far Can We Go?. Washington, DC: The National Academies Press. doi: 10.17226/1806.
+
+Concerns over Greenhouse Gases
+
+Europe appears to be ahead of the United States in addressing emissions of greenhouse gases. The Commission of the European Community is drafting legislation, after more than two years of debate, proposing that an energy tax equivalent to $10 a barrel of oil be imposed by the year 2000 (Clean Coal/Synfuels Letter, 1992). The tax would start at $3 a barrel in 1993. At this time it is not known whether other taxes on fuel would be reduced, but it is clear that the intent of the European Commission is to send a message to industry and consumers that "environment costs must be internalized" (Wolf, 1991).
+
+European automobile companies have voluntarily agreed through their Association des Constructeurs Europeens d'Automobiles (ACEA) that they will reduce the carbon dioxide emissions of their vehicles by 10 percent between 1993 and 2005. This means that manufacturers intend to achieve a 10 percent improvement in fleet fuel economy. The ACEA has indicated that it would achieve the targeted fuel economy improvement over that period by forcing "changes in vehicle selection patterns by influencing the consumer's decisions when purchasing a car." In addition, the ACEA will cooperate with other programs to limit carbon dioxide emissions of the entire fleet through reduction in traffic congestion.
+
+In a separate action, the German automobile industry has agreed to a 25 percent increase in the fuel economy of the fleet of new cars on the road between 1998 and 2005 if the government institutes traffic management policies that will add another 10 percent benefit.19 The German industry has made the assumption that taxation will increase the price of fuel to three deutsche marks per liter (about $7 a gallon) and, with that incentive to the consumer for favoring gas-saving technology, consumers might be more willing to accept a variety of technologies, including direct-injection diesels and engine on-off, among others, to accomplish the goal.20
+
+FINDINGS AND CONCLUSIONS
+
+The domestic automotive industry is in a period of unprecedented financial challenge. The current recession, the intense competition with the Japanese manufacturers, and soaring costs mean that the domestic manufacturers confront serious financial burdens, wholly apart from any burdens associated with changes in fuel economy regulations. 
+
+Note that the normal turnover of the U.S. fleet, if new car automotive fuel economy remained in the range of 26 to 27 mpg, would also result in significant increases in the fuel economy of the existing fleet.
+
+Engine on-off refers to an engine that shuts off rather than idles. When the driver depresses the accelerator, the engine starts up again. Volkswagen is concerned about adverse consumer response to this technology. Eventual acceptance may occur, however, as drivers become confident that the technology is reliable, that it does not interfere with normal vehicle performance, and that there is an environmental benefit as well as an economic one. The high tax on gasoline no doubt serves an important role in prompting acceptance of such new technologies.
+
+Suggested Citation:"5 IMPACTS ON THE AUTOMOTIVE INDUSTRY." National Research Council. 1992. Automotive Fuel Economy: How Far Can We Go?. Washington, DC: The National Academies Press. doi: 10.17226/1806.
+
+Employment in the U.S. automotive industry has declined significantly and the trend is likely to continue during the 1990s. The world automotive industry, particularly the domestic industry, suffers from overcapacity, and further plant closings and reductions in employment are inevitable. These changes will have ripple effects throughout the U.S. economy.
+
+The market share of Japanese automotive manufacturers has grown and is expected to continue to grow, especially in the size classes (trucks and large cars) that are important to the profitability of the domestic industry. Unlike the domestic manufacturers, the Japanese have very efficient, flexible plants capable of producing several models and of adjusting rapidly to changes. As a result, the Japanese manufacturers are more nimble in the marketplace than the domestic manufacturers.
+
+The product development and investment cycle of the automotive industry requires long lead times and huge amounts of capital. The manufacturers are in the midst of a major wave of investment in new models and major engine plants, which will make it difficult for them to modify the fuel economy that is planned for vehicles to be launched through MY 1995.
+
+The domestic automotive industry relies on internally generated funds to provide the bulk of capital for investment in new plant and equipment. Within 10 to 15 years, all current models and most engines and drivetrains will undergo at least one major change, and the equipment used in their manufacture will be written off. If the timing of new fuel economy standards follows the industry's product-development schedule, some, but not all, of the financial risk of new standards would be reduced.
+
+The domestic automotive industry is in the midst of major transition. If the industry is to remain competitive with the Japanese manufacturers, it must undergo structural change and accommodate itself to new production methods. That aside, the industry has limited capacity to accommodate other changes during a period of intense competition. The imposition of new fuel economy standards should be evaluated with this reality in mind.
+
+The automobile industry is global in nature, and domestic manufacturers will be directly affected by overseas initiatives that have an impact on fuel economy. Fuel prices are much higher in Europe and Japan than in the United States, which creates incentives for the automobile industry there to pursue fuel economy improvements aggressively. 
+
+Suggested Citation:"5 IMPACTS ON THE AUTOMOTIVE INDUSTRY." National Research Council. 1992. Automotive Fuel Economy: How Far Can We Go?. Washington, DC: The National Academies Press. doi: 10.17226/1806.
+
+Clark, K.B., and T. Fujimoto. 1991. Product Development Performance . Cambridge, Mass.: Harvard Business School Press.
+
+Clean Coal/Synfuels Letter. 1992. EC eyes carbon tax for possible enactment by 1993. January 13:5.
+
+Frame, P. 1991. Stempel's GM: 80,000 fewer jobs. Automotive News December 23:1.
+
+Motor Vehicle Manufacturers Association (MVMA). 1991. Facts and Figures '91. Washington, D.C.
+
+Salter, M.S., A.M. Webber, and D. Dyer. 1985. U.S. competitiveness in global industries: Lessons from the auto industry. In U.S. Competitiveness in the World Economy, B.R. Scott and G.C. Lodge, eds. Cambridge, Mass.: Harvard Business School Press.
+
+U.S. Department of Commerce and Motor Equipment Manufacturers Association. 1990. Weight reduction offensive spurs industry activity. JAPAN, News and Analysis for the U.S. Vehicle Parts Industry. August/September:1.
+
+U.S. Department of Energy. 1992. Gas Mileage Guide. Document DOE/CE-0019/11. Washington, D.C.
+
+U.S. Department of Transportation. 1991. Briefing Book on the United States Motor Vehicle Industry and Market, Version 1. Cambridge, Mass.: John A. Volpe National Transportation Systems Center.
+
+U.S. General Accounting Office (GAO). 1988. Foreign Investment: Growing Japanese Presence in the U.S. Auto Industry. GAO/NSIAD-88-11. Washington, D.C.
+
+Wards Communication, Inc. Various years. Wards Automotive Yearbook . Detroit, Mich.
+
+Wolf, J. 1991. Support grows within the EC for energy tax. Wall Street Journal December 16:B6C.
+
+Womack, J., D. Jones, and D. Roos. 1990. The Machine That Changed the World. New York: Rawson Associates.
+
+Suggested Citation:"5 IMPACTS ON THE AUTOMOTIVE INDUSTRY." National Research Council. 1992. Automotive Fuel Economy: How Far Can We Go?. Washington, DC: The National Academies Press. doi: 10.17226/1806.
+
+Suggested Citation:"5 IMPACTS ON THE AUTOMOTIVE INDUSTRY." National Research Council. 1992. Automotive Fuel Economy: How Far Can We Go?. Washington, DC: The National Academies Press. doi: 10.17226/1806.
+
+Suggested Citation:"5 IMPACTS ON THE AUTOMOTIVE INDUSTRY." National Research Council. 1992. Automotive Fuel Economy: How Far Can We Go?. Washington, DC: The National Academies Press. doi: 10.17226/1806.
+
+Suggested Citation:"5 IMPACTS ON THE AUTOMOTIVE INDUSTRY." National Research Council. 1992. Automotive Fuel Economy: How Far Can We Go?. Washington, DC: The National Academies Press. doi: 10.17226/1806.
+
+Suggested Citation:"5 IMPACTS ON THE AUTOMOTIVE INDUSTRY." National Research Council. 1992. Automotive Fuel Economy: How Far Can We Go?. Washington, DC: The National Academies Press. doi: 10.17226/1806.
+
+Suggested Citation:"5 IMPACTS ON THE AUTOMOTIVE INDUSTRY." National Research Council. 1992. Automotive Fuel Economy: How Far Can We Go?. Washington, DC: The National Academies Press. doi: 10.17226/1806.
+
+Suggested Citation:"5 IMPACTS ON THE AUTOMOTIVE INDUSTRY." National Research Council. 1992. Automotive Fuel Economy: How Far Can We Go?. Washington, DC: The National Academies Press. doi: 10.17226/1806.
+
+Suggested Citation:"5 IMPACTS ON THE AUTOMOTIVE INDUSTRY." National Research Council. 1992. Automotive Fuel Economy: How Far Can We Go?. Washington, DC: The National Academies Press. doi: 10.17226/1806.
+
+Suggested Citation:"5 IMPACTS ON THE AUTOMOTIVE INDUSTRY." National Research Council. 1992. Automotive Fuel Economy: How Far Can We Go?. Washington, DC: The National Academies Press. doi: 10.17226/1806.
+
+Suggested Citation:"5 IMPACTS ON THE AUTOMOTIVE INDUSTRY." National Research Council. 1992. Automotive Fuel Economy: How Far Can We Go?. Washington, DC: The National Academies Press. doi: 10.17226/1806.
+
+Suggested Citation:"5 IMPACTS ON THE AUTOMOTIVE INDUSTRY." National Research Council. 1992. Automotive Fuel Economy: How Far Can We Go?. Washington, DC: The National Academies Press. doi: 10.17226/1806.
+
+Suggested Citation:"5 IMPACTS ON THE AUTOMOTIVE INDUSTRY." National Research Council. 1992. Automotive Fuel Economy: How Far Can We Go?. Washington, DC: The National Academies Press. doi: 10.17226/1806.
+
+Suggested Citation:"5 IMPACTS ON THE AUTOMOTIVE INDUSTRY." National Research Council. 1992. Automotive Fuel Economy: How Far Can We Go?. Washington, DC: The National Academies Press. doi: 10.17226/1806.
+
+Suggested Citation:"5 IMPACTS ON THE AUTOMOTIVE INDUSTRY." National Research Council. 1992. Automotive Fuel Economy: How Far Can We Go?. Washington, DC: The National Academies Press. doi: 10.17226/1806.
+
+Suggested Citation:"5 IMPACTS ON THE AUTOMOTIVE INDUSTRY." National Research Council. 1992. Automotive Fuel Economy: How Far Can We Go?. Washington, DC: The National Academies Press. doi: 10.17226/1806.
+
+Suggested Citation:"5 IMPACTS ON THE AUTOMOTIVE INDUSTRY." National Research Council. 1992. Automotive Fuel Economy: How Far Can We Go?. Washington, DC: The National Academies Press. doi: 10.17226/1806.
+
+Suggested Citation:"5 IMPACTS ON THE AUTOMOTIVE INDUSTRY." National Research Council. 1992. Automotive Fuel Economy: How Far Can We Go?. Washington, DC: The National Academies Press. doi: 10.17226/1806.
+
+Next: 6 THE AUTOMOBILE, FUEL ECONOMY, AND THE CONSUMER »
+
+Automotive Fuel Economy: How Far Can We Go? Get This Book
+
+Buy Paperback | $75.00
+
+MyNAP members save 10% online. Login or Register to save! Download Free PDF
+
+This volume presents realistic estimates for the level of fuel economy that is achievable in the next decade for cars and light trucks made in the United States and Canada.
+
+A source of objective and comprehensive information on the topic, this book takes into account real-world factors such as the financial conditions in the automotive industry, costs and benefits to consumers, and marketability of high-efficiency vehicles.
+
+The committee is composed of experts from the fields of science, technology, finance, and regulation and offers practical evaluations of technological improvements that could contribute to increased fuel efficiency. The volume also examines potential barriers to improvement, such as high production costs, regulations on safety and emissions, and consumer preferences.
+
+This practical book is of considerable interest to car and light truck manufacturers, policymakers, federal and state agencies, and the public.
+
+Welcome to OpenBook!
+
+You're looking at OpenBook, NAP.edu's online reading room since 1999. Based on feedback from you, our users, we've made some improvements that make it easier than ever to read thousands of publications on our website.
+
+Do you want to take a quick tour of the OpenBook's features? No Thanks Take a Tour »
+
+Show this book's table of contents, where you can jump to any chapter by name. « Back Next »
+
+...or use these buttons to go back to the previous chapter or skip to the next one. « Back Next »
+
+Jump up to the previous page or down to the next one. Also, you can type in a page number and press Enter to go directly to that page in the book. « Back Next »
+
+Switch between the Original Pages, where you can read the report as it appeared in print, and Text Pages for the web version, where you can highlight and search the text. « Back Next »
+
+To search the entire text of this book, type in your search term here and press Enter. « Back Next »
+
+Share a link to this book page on your preferred social network or via email. « Back Next »
+
+View our suggested citation for this chapter. « Back Next »
+
+Ready to take your reading offline? Click here to buy this book in print or download it as a free PDF, if available. « Back Next »

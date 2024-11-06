@@ -1,0 +1,23 @@
+Gender|The Risks of Using AI to Interpret Human Emotions
+
+The Risks of Using AI to Interpret Human Emotions
+
+by Mark Purdy, John Zealley and Omaro Maseli
+
+Don Farrall/Getty Images
+
+Companies have historically used focus groups and surveys to understand how people felt. Now, emotional AI technology can help businesses capture the emotional reactions of both employees and consumers in real time — by decoding facial expressions, analyzing voice patterns, monitoring eye movements, and measuring neurological immersion levels, for example. The ultimate outcome is a much better understanding both of workers and customers. But, because of the subjective nature of emotions, emotional AI is especially prone to bias. AI is often also not sophisticated enough to understand cultural differences in expressing and reading emotions, making it harder to draw accurate conclusions. For instance, a smile might mean one thing in Germany and another in Japan. Confusing these meanings can lead businesses to make wrong decisions. Imagine a Japanese tourist needing assistance while visiting a shop in Berlin. Using emotion recognition to prioritize which customers to support, the shop assistant might mistake their smile — a sign of politeness back home — as an indication that they don’t require help. If left unaddressed, conscious or unconscious emotional biases like this can perpetuate stereotypes and assumptions at an unprecedented scale.
+
+Leer en españolLer em português
+
+What do people really feel?
+
+Read more on Gender or related topics Race and Technology and analytics
+
+Mark Purdy is a thought leader and advisor on issues at the intersection of economics, technology and business. He is Managing Director of Purdy & Associates, an independent consultancy focusing on economic and technology policy issues.
+
+John Zealley is Senior Managing Director and Customer Insight & Growth Global Lead at Accenture.
+
+Omaro Maseli is a senior analyst with Accenture Research.
+
+Read more on Gender or related topics Race and Technology and analytics

@@ -1,0 +1,181 @@
+Skip to main content
+
+Advertising Policies Help
+
+Verification and transparency
+
+Advertising Policies
+
+This help content & information
+
+General Help Center experience
+
+Advertising Policies
+
+Advertising policiesThird-party policiesRelated policies & terms
+
+Approval processDisapprovals and suspensions
+
+Verification and transparency
+
+Verification programsTransparency
+
+Upcoming and recent changesPast changes
+
+Google provides translated versions of our Help Center, though they are not meant to change the content of our policies. The English version is the official language we use to enforce our policies. To view this article in a different language, use the language dropdown at the bottom of the page.
+
+To provide a safe and trustworthy ad ecosystem for users, and to comply with emerging regulations, Google will require advertisers to complete one or more verification programs. Below are some examples of the verification programs we may ask you to complete. A more detailed list can be found here.
+
+Advertisers must also comply with Google Ads policies. Learn about what happens if you violate our policies.
+
+Advertiser verification program
+
+Display & Video 360 users should visit the Display & Video 360 help center for details about the advertiser verification program for Display & Video 360.
+
+Advertiser verification program comprises a series of steps that advertisers will be required to follow and complete. Under this program, advertisers will be asked to provide basic information about their business and identity.
+
+Once Google verifies the advertiser's information, Google will show the advertiser's information such as the name, location, and the ads they served over a certain time period on Google platforms (including Google Search and YouTube) in the Ads Transparency Center and in ad disclosures. In order to comply with applicable laws, Google may also be required to disclose certain additional information about its advertisers and ad campaigns to users of its services, depending on the country. Learn more about ads transparency
+
+How Google uses your information
+
+Google will use the information you provide to:
+
+Verify your identity and/or your business operations
+
+Show a disclosure including your name, or the name of the business you represent, and location, linked from any ads you run
+
+As Google expands its transparency efforts, we will make information about your Google Ads accounts and ad campaigns publicly available including:
+
+Advertiser name change history
+
+Dates and locations ads served
+
+Ads removed or accounts suspended for legal or policy reasons
+
+Business contact information
+
+Learn more about Ads transparency.
+
+How disclosures appear in different ad formats
+
+On Google Search, the disclosure will show in "About this advertiser" in My Ad Center.
+
+On YouTube, the disclosure will show in “My Ad Center” which can be accessed through the info icon or the 3-dot icon .
+
+On websites and apps that partner with Google for display ads, the disclosure will show in “Why this ad?” which can be accessed through the AdChoices icon .
+
+Verification process
+
+Google will notify advertisers via an in-account notification and/or an email when they are selected to undergo the advertiser verification program and the associated deadline to complete the verification if any. Advertisers may check whether they are eligible in the Advertiser verification page and may choose to undergo verification proactively.
+
+If you intend to run election ads, in certain countries you must also complete election ads verification.
+
+Additional certifications may be required to run ads in certain restricted verticals, such as financial services.
+
+If we find that you violate our Google Ads policy, or you’ve provided false information during the verification program, your verification will be revoked, and your account may be suspended.
+
+Google reserves the right to verify your identity or business operations again. You’ll receive a notification when this verification is required. For example, you may be asked to re-verify your identity or business operations if there are significant changes in your Google Ads account, including making changes to your payments profile. Until verification is successfully completed, some ads in the account (e.g. financial services ads) will be paused.
+
+Google may update these verification requirements at any time.
+
+If you are given a deadline to complete the verification
+
+Advertisers will have 30 days from the day they received the notification to initiate the verification and another 30 days to successfully complete it. Failure to complete or meet the verification requirements within the specified time period will result in the advertiser’s account being paused. Learn more about account pausing.
+
+Advertisers may be selected and required to complete Google’s advertiser verification program within a deadline based on the following example criteria:
+
+As a part of a phased rollout of Google’s transparency efforts, under which all advertisers will eventually be required to complete Google’s Advertiser verification program that encompasses completion of the steps above. Currently, Google supports identity verification for advertisers registered in these regions.
+
+Advertisers may be selected to complete verification if, for example, the advertising behavior or your ad content is deemed as potentially misleading. We want to ensure that users understand who is providing the advertised products or services on Google ads.
+
+As an additional layer of protection for our users, Google may request that advertisers complete the Advertiser verification program if, for example, they are cross-geo targeting, advertising on brand-related queries or user queries in business verticals or industries susceptible to abuse, invalid activity, and scams (such as travel, customer or technical support services and financial services). Where an advertiser is asked to complete additional verification, advertisers' campaigns may be impacted when advertising on certain Google restricted queries. Successful completion of the requested verifications may help improve campaign performance if it was previously affected by Google Ads restricted queries.
+
+Advertisers whose accounts were suspended due to a violation of our Google Ads policies may be prompted to successfully complete this verification in order to appeal their account suspension. In this case, the advertiser’s accounts will remain suspended until the appeal is granted.
+
+If you are not given a deadline to complete the verification
+
+Advertisers may see an option to complete the advertiser verification program without a deadline for the following example situations:
+
+To proactively verify their account(s)
+
+To access advanced ad formats and features of Google Ads, such as business information. We review all our ad formats for policy violations and abuse, and may introduce new verification requirements to access certain ad formats and features
+
+To unpause campaigns that use certain features
+
+To remove limits placed on their account
+
+Advertisers may continue running ads if they did not initiate or complete the verification or if they had failed to meet the requirements of the verification program.
+
+Note: If an advertiser submits false information as part of our verification programs or does not meet Google's age requirements, their account will be suspended and their ads will not serve, even when they were not given a deadline to complete verification.
+
+If your account is paused immediately when the Advertiser verification program is initiated
+
+In certain circumstances, we may pause your Google Ads accounts immediately when the Advertiser verification program is initiated. This means that your ads will not be able to serve until you are able to complete the program successfully.
+
+We will pause your account immediately for the following reasons:
+
+If we suspect your ads violate our Google Ads policies, including Misleading representation, Unreliable claims, Unidentified business, Business name requirements, Solicitation of funds, Sensitive events, and Coordinated deceptive practices
+
+If we suspect that your advertising or business practices may cause physical or monetary harm to users. Non-exhaustive examples include: misrepresenting yourself in your ad content; offering financial products or services under false pretenses; or offering unauthorized customer support services on behalf of third parties
+
+If we suspect you are attempting to circumvent our verification process
+
+If your identity or your advertising behavior has been identified as unclear
+
+In determining whether an advertiser’s account should be paused during the verification process, we may review information from multiple sources, including but not limited to: regulatory warnings, rulings about an advertiser’s business practices or complaints from users, businesses, and other entities about impersonation or scams.
+
+Once the verification process is completed successfully, the advertiser’s account(s) will be unpaused and any ads that are compliant with Google Ads policies will be able to serve. However, accounts that do not meet the requirements of this verification program will remain paused.
+
+Steps to start advertiser verification
+
+The advertiser verification program comprises multiple steps, including completing a questionnaire about the advertiser’s business, verifying the advertiser’s identity, their business operations or both. However, the steps required to complete advertiser verification for certain Google Ads accounts may differ, depending on the account structure, the billing setup, and if they are advertising on behalf of an organization or individual. Please refer to your Google Ads account and follow the instructions provided to complete the verification process.
+
+Below are details of the Advertiser verification program: About your business
+
+In the first step of the Advertiser verification program, Google will ask advertisers a few basic questions related to their Google Ads account and business under the ‘About your business’ section. These questions will help us get a better understanding of your business. Here are examples of questions that you may be required to answer:
+
+Whether your business is an advertising agency
+
+Who pays for your ads
+
+Whether you advertise your own products/services or some else’s
+
+Your industry (or industries)
+
+The person who is responsible for completing this section should be a Google Ads account admin familiar with your business operations and advertising practices for your Google Ads account. If you are given a certain time period to initiate verification (30 days), you will be notified in-account and via emails to submit your answers within the time period or your account(s) will be paused at the end of the given deadline.
+
+Learn more about account pausing.
+
+Responses from the completion of the About your business questions will determine the verification requirements and direct advertisers to the next steps of additional verification, which may include verifying your identity, your business operations, or both. Verify your identity
+
+Upon completion of the ‘About your business’ questions, you may be asked to verify your legal name via the advertiser identity verification or business operations verification process. Depending upon the setup of your Google Ads account, this verification may be requested for your organization and/or your client’s organization (if you work for an agency). Google will verify your identity and generate a disclosure on any ads you run, displaying your name and location. Find out more about transparency and ad disclosures here.
+
+This verification must be completed by an authorized representative, who is an admin of the Google Ads account and/or the payments profile paying for the ads. If you are given a deadline to complete verification (30 days), you will be notified and reminded via in-account notifications and emails to successfully complete this verification and all other requested verifications (if applicable) within the given time period or your account(s) will be paused at the end of the given deadline (the 30th day). Learn more about account pausing.
+
+Further instructions on how to complete Identity verification can be found here. Verify your business operations
+
+Based on your responses in the About your business questions, we may ask you to verify details about your business operations (if applicable) along with supporting documentation, such as your business model, business registration information, types of services you offer, business practices, and relationships with advertised brands, products or third parties, if applicable.
+
+You will be given 30 days to successfully complete business operations verification and all other requested verifications (if applicable) once you start this process. In certain circumstances, we may pause your Google Ads accounts immediately when the business operations verification program is initiated. This means that your ads will not be able to serve until you are able to complete the program successfully. Learn more about account pausing.
+
+Learn more about business operations verification here.
+
+Verify your affiliation with the organization
+
+Upon successful verification of your organization, you may have the option to verify your affiliation with the verified organization. You will need to provide and verify your organizational email to establish your affiliation with the verified organization.
+
+This is an optional step and there will be no adverse consequences for failing to complete this verification process.
+
+To protect our users, we allow only legitimate advertisers to promote content associated with certain regulated industries, such as Gambling and games, Healthcare and medicines, and Financial products or services. If you would like to advertise this content on our platform, you may be required to complete the verification program to prove you meet local licensing requirements. You may also have to complete additional identity checks.
+
+We continually review our ad policies in light of industry changes and abuse trends, and may introduce new verification requirements for certain content.
+
+Advertiser responsibility
+
+As stated in the Google Ads Terms & Conditions, advertisers are solely responsible for their use of Google Ads. Submitting false information as part of our verification programs will be considered in violation of our Circumventing Systems policy. Google uses its best efforts to review and validate the information provided by advertisers as part of these verification programs, but in doing so does not guarantee or assume responsibility for advertiser content or activity.
+
+Need help? If you have questions about our policies, let us know: Contact Google Ads Support
+
+How can we improve it?
+
+16911489980755669927

@@ -1,0 +1,325 @@
+Back to Top Skip to main content
+
+An official website of the United States government Here's how you know
+
+The .gov means it’s official. Federal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you’re on a federal government site.
+
+The site is secure. The https:// ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely.
+
+Log in Show account info
+
+Logged in as: username
+
+Access keys NCBI Homepage MyNCBI Homepage Main Content Main Navigation
+
+The PMC website is updating on October 15, 2024. Learn More or Try it out now.
+
+HHS Author Manuscripts
+
+As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with, the contents by NLM or the National Institutes of Health. Learn more: PMC Disclaimer | PMC Copyright Notice
+
+J Sex Res. Author manuscript; available in PMC 2021 Feb 9.
+
+Published in final edited form as:
+
+J Sex Res. 2014; 51(1): 43–51. Published online 2013 Jun 7. doi: 10.1080/00224499.2013.772088
+
+NIHMSID: NIHMS1666526
+
+Risky Business: Is There an Association between Casual Sex and Mental Health among Emerging Adults?
+
+Melina M. Bersamin, Byron L. Zamboanga, Seth J. Schwartz, M. Brent Donnellan, Monika Hudson, Robert S. Weisskirch, Su Yeong Kim, V. Bede Agocha, Susan Krauss Whitbourne, and S. Jean Caraway
+
+Department of Child Development, California State University, Sacramento
+
+Find articles by Melina M. Bersamin
+
+Department of Psychology, Smith College
+
+Find articles by Byron L. Zamboanga
+
+Department of Epidemiology and Public Health, University of Miami
+
+Find articles by Seth J. Schwartz
+
+Department of Psychology, Michigan State University
+
+Find articles by M. Brent Donnellan
+
+School of Business and Professional Studies, University of San Francisco
+
+Find articles by Monika Hudson
+
+Robert S. Weisskirch
+
+Human Development, California State University, Monterey Bay
+
+Find articles by Robert S. Weisskirch
+
+Department of Human Ecology, University of Texas, Austin
+
+Find articles by Su Yeong Kim
+
+Department of Psychology, University of Connecticut
+
+Find articles by V. Bede Agocha
+
+Susan Krauss Whitbourne
+
+Department of Psychology, University of Massachusetts Amherst
+
+Find articles by Susan Krauss Whitbourne
+
+Department of Psychology, University of South Dakota
+
+Find articles by S. Jean Caraway
+
+Melina M. Bersamin, Department of Child Development, California State University, Sacramento;
+
+Contributor Information.
+
+Correspondence should be addressed to Melina M. Bersamin, Department of Child Development, California State University, Sacramento, 6000 J Street, Sacramento, CA 95819. ude.susc@nimasreb
+
+The publisher's final edited version of this article is available at J Sex Res
+
+A multiethnic sample of single, heterosexual, emerging-adult college students (N = 3,907) ages 18 to 25, from 30 institutions across the United States, participated in a study about identity, culture, psychological well-being, and risky behaviors. Given ongoing debates about the connection between casual sex and psychological adjustment, in the current study we assessed the cross-sectional association of participation in casual sex with psychological well-being and distress. A greater proportion of men (18.6%) compared to women (7.4%) reported having had casual sex in the month prior to assessment. Structural equation modeling indicated that casual sex was negatively associated with well-being (β=.20, p < .001) and positively associated with psychological distress (β=.16, p < .001). Gender did not moderate these associations. For emerging-adult college students, engaging in casual sex may elevate risk for negative psychological outcomes.
+
+Media accounts and scholarly research indicate that many young adults engage frequently in “casual sex,” or sexual experiences outside of a committed relationship. Prevalence rates of casual sex range from 14% to 64% in emerging-adult samples (Eisenberg, Ackard, Resnick, & Neumark-Sztainer, 2009; Garcia & Reiber, 2008; Grello, Welsh, Harper, & Dickson, 2003; Owen, Rhoades, Stanley, & Fincham, 2010). For example, among a random sample of undergraduate students from a Northeastern U.S. state college, 30% reported engaging in sexual intercourse with a stranger or brief acquaintance, and 48% had engaged in at least some intimate physical interaction with a stranger or brief acquaintance while in college (Paul, McManus, & Hayes, 2000). Although casual sexual encounters are known to be associated with increased risks for negative physical health consequences such as sexually transmitted infection (Rogers, Miller, Miller, Zenilman, & Turner, 2002; Tanfer, Cubbins, & Billy, 1995), there is less evidence regarding the negative socioemotional outcomes of sexual experiences outside of committed relationships. The current study investigated the association between casual sex and socioemotional outcomes in a diverse, multicampus sample of undergraduates.
+
+Casual sex has been operationalized in many ways, ranging from non-committed sexual relationships between friends to sexual encounters between strangers (Herold, Maticka-Tyndale, & Mewhinney, 1998; Paul et al., 2000). Terminology for these relationships, in addition to the umbrella term casual sex, include phrases such as friends with benefits, hookups, and the more traditional one-night stand. The construct of “hooking up” can be characterized based on multiple dimensions, such as partner type (e.g., stranger, ex-boyfriend, or friend), duration of the relationship, and motivation for hooking up (Fielder & Carey, 2010a). Researchers, and emerging-adult college students themselves, often define casual sex differently depending on the behaviors that occur within a sexual encounter (e.g., penile-vaginal sex versus oral sex), perceived intimacy, commitment level, and/or the length of the relationship and/or acquaintanceship. Thus, a clear understanding of the precise operational definition of casual sex is necessary to interpret the results of a given study. In the current study, we defined casual sex as having intercourse with a partner one has known for less than a week. That is, the emphasis was on a sexual encounter between two relative strangers. This distinction is important as there may be unique psychological ramifications for different kinds of casual sexual relationships and correspondingly varied implications for how researchers examine them (Cooper, 2010). In reviewing current research, we use and define terminology consistent with that of each empirical study that we cite.
+
+Studies examining the association between mental health and casual sex among young adults and college students have produced mixed findings. For example, Paul and colleagues (2000) found that levels of self-esteem were significantly lower among college students who reported engaging in a sexual experience (either coital or noncoital) with a stranger or brief acquaintance compared to college students who had not done so. By contrast, a recent study among a diverse sample of sexually active young adults (Eisenberg et al., 2009) found that individuals whose most recent sexual partner was a casual acquaintance were not at higher risk for depressive symptoms, low self-esteem, suicidal ideation, or body dissatisfaction compared to young adults who did not report casual sex. The study results held after controlling for demographic characteristics (e.g., ethnicity, socioeconomic status, student status) and previous-year psychological well-being. Within another college student sample, psychological well-being was positively associated with “hooking up” for men, but the association was not significant for women (Owen et al., 2010). However, psychological well-being did not predict hooking up in that study when controlling for other predictors including demographic characteristics, alcohol use, and attitudes toward hooking up. Note that the authors defined hooking up as “an event in which two people are physically intimate outside of a committed relationship without the expectation of future encounters” (Owen et al., 2010, p. 656). Thus, the physical intimacy outcomes examined may or may not have included sexual intercourse, so the emotional sequelae may be less definitive.
+
+A recent longitudinal study found that distress was not a significant predictor of hookups among college students; rather, the strongest predictors of hookups were prior hookup behavior, alcohol consumption, and situational factors that encourage hookups (Fielder & Carey, 2010b). Further, Fielder and Carey (2010b) found that sex hookups increased psychological distress for females but not for males. Note that this study included a small sample size from one institution and may not be generalizable to a larger population. Moreover, despite considerable literature suggesting that negative affective states promote risky sexual behavior, a meta-analysis found surprisingly limited substantiation of this link but left open the possibility that engaging in sexual risk taking may be associated with negative affect (see Crepaz & Marks, 2001).
+
+Research suggests that gender is a significant consideration when understanding the associations between casual sex and psychological outcomes. Men and women report persistently divergent attitudes toward casual sex in both late adolescence and young adulthood (Oliver & Hyde, 1993). In general, women have more negative attitudes toward casual sex than men do. Although a majority of studies have found that men are significantly more likely than women to report having had casual sex (Eisenberg et al., 2009; Grello, Welsh, & Harper, 2006; Paik, 2010; Paul et al., 2000), a recent study among college students found no such differences (Owen et al., 2010). Several investigators have also reported gender differences in the association between depressive symptoms and involvement with casual sex. For example, Grello and colleagues (2006) found that men with the lowest number of depressive symptoms, and women with the highest number of depressive symptoms, were most likely to report having engaged in casual sex (Grello et al., 2006). Compared to men, women report more feelings of guilt and regret, and less enjoyment of sexual intercourse, with a relative stranger (Fisher, Worth, Garcia, & Meredith, 2012; Herold & Mewhinney, 1993). In addition, among college students who reported hooking up in the past year, a significantly lower percent of women (26%) reported a positive reaction than males (50%; Owen, et al., 2010). Another study similarly found that women evaluated one-night stands more negatively compared with men (Campbell, 2008). These gender differences may result from a sexual double standard that encourages men to be more sexually permissive and to have more sexual relationships compared to women (Crawford & Popp, 2003). Consequently, women may feel regret about casual sex because doing so violates the “standard” for women’s sexual behavior. Nonetheless, in a recent study of college students, both male and female students reported that their emotional reactions after the encounter were more positive than negative (Owen & Fincham, 2011). Apparently, sexual standards on college campuses are changing—there are now even smartphone apps to help people find casual sexual partners. However, whether and how these changes differentially impact college women and men is not altogether clear, despite considerable interest in the topic.
+
+Biological, sociological, and psychological theories exist to explain gender differences in casual sex behaviors and attitudes. For example, evolutionary theory, which defines hookups, casual sex, and friends with benefits as short-term mating strategies, would suggest that attitudes and behaviors, particularly those that are sexual in nature, have an adaptive function. Because men and women encounter different reproductive constraints (e.g., paternity confidence, identifying men that will provide resources), one would expect gender differences in the psychological mechanisms and behaviors around short-term and long-term mating strategies (Buss & Schmidt, 1993; Trivers, 1972). From an evolutionary perspective, short-term mating strategies would theoretically benefit men as it allows them to minimize commitment and resource costs while maximizing the potential number of partners and offspring. Conversely, there are fewer benefits for women who are less able to obtain immediate resources and face the additional cost of raising an offspring without resources. Hence, it stands to reason that sexual selection favors positive attitudes and affect toward short-term mating among men and not women.
+
+Social cognitive theory, alternatively, suggests that behavior is learned through exposure to or observation of behaviors (Bandura, 1985). For example, positive attitudes and affect toward casual sex may be due to positive images and attitudes depicted in the media, which rarely depict emotional or physical consequences (Fisher et al., 2004). In fact, increased exposure to sexual media is associated with more permissive sexual attitudes and behaviors (Bersamin, Bourdeau, Fisher, & Grube, 2010; Ward & Rivadeneyra, 1999; Zurbriggen & Morgan, 2006). Gender differences seen in casual sex prevalence rates and attitudes may be a function of sexual socialization depicted in the media, in which men are shown needing to sow their wild oats while the ideal woman is portrayed as attractive but not sexually promiscuous. It may be that women who behave against type experience guilt, hence the association between casual sex and mental health. Empirical research suggests that gender moderates the relationship between exposure and beliefs, as one study found an association between traditional gender roles and amount of prime-time viewing among women but not men (Ward, 2002).
+
+Although these perspectives are sometimes treated as diametric opposites in the oft-debated nature–nurture polemic, some recent approaches use dynamic cultural processes to integrate these views and better account for conflicting findings in the literature (Agocha, Asencio, & Decena, in press). Briefly, taking survival of the fittest as a reference to the influence of natural selection and other forces that allow organisms to meet the challenges of the physical and social ecologies they inhabit, the advent of complex culture—as learning capacity or behavioral plasticity—is perhaps the greatest adaptation for humans. This means that behaviors predicated on biophysiological imperatives will tend to be highly similar across cultural groupings, such as gender, whereas behaviors that are not strongly tied to biophysiological needs will show considerable variation across cultural groups and contexts reflective of individual and shared learning, experience, and socialization of ways of being (see Agocha et al., in press; Bussey & Bandura, 1999; Wilson, 1998; Wood & Eagly, 2002). While procreating through sexual intercourse has remained essentially unchanged over many millennia, the specific consequences and circumstances within which individuals have sex have varied widely. Thus, the attendant sociocultural meaning and emphasis attributed to biophysiological signals greatly help explain sexuality as the combined responding to these cues and situational demands, relational goals, power/structural constraints, and so on. So, given colleges as environments that promote socialization to similar values, the media influences previously noted may increase acceptance of hookups by men and women on college campuses, and still only a minority of this population may engage in the behavior.
+
+Existing literature has not yet produced a consistent answer as to whether involvement in casual sex is associated with positive or negative psychological outcomes for emerging-adult college men and women. However, because psychological distress among college students can impact academic performance, college retention, and alcohol and drug use (Kitzrow, 2003), continued research is very much needed to better understand casual sex and its link to psychological well-being and distress. Previous studies have often been restricted to one university context, or otherwise hampered by small sample sizes, and the largest study sample (N = 1,311), though ethnically diverse, was comprised of young adults living in one Midwestern state (Eisenberg et al., 2009).
+
+The current study was unique in that it examined the associations of casual sex with psychological well-being and distress in a large sample of college students from 30 colleges and universities around the United States. The study also specified casual sex to include sexual intercourse. Past studies have included an extensive subset of sexual activity when operationalizing casual sex. This category of behavior is too broad to be useful, as, from both a psychological and public health perspective, kissing someone is not likely to have the same correlates as intercourse with a stranger. The current study allowed for a more precise understanding of the hypothesized association. Specifically, we examined whether the prevalence of casual sex behavior, having intercourse with someone known for less than a week, differs significantly by gender, and whether casual sex was associated with psychological distress and well-being. In addition, we controlled for socioeconomic status because, in previous research, parental income was positively associated with hooking up (Owen et al., 2010). Based on extant research, we hypothesized that (a) men would report higher rates of casual sex than women; (b) casual sex would be positively associated with psychological distress and negatively associated with psychological well-being; and (c) the relationship between psychological distress, well-being, and casual sex would be stronger for women than for men.
+
+Participants and Procedures
+
+Participants were drawn from a larger study of identity, culture, and psychosocial adjustment and risk taking among college students in the United States (the Multi-site University Study of Identity and Culture, or MUSIC; N = 10,573) between September 2008 and October 2009. For the purpose of this study, the sample focused on those who identified as single, heterosexual, and between the ages of 18 and 25, reducing the sample to n = 3,907 (mean age = 19.58 years, SD = 1.51 years; 32% men, 68% women). The racial/ethnic distribution of the study sample were as follows: 61%, self-identified as White, 13% as Hispanic, 15% as East/South Asian, 9% as Black, 1.6% as Middle Eastern, and less than 1% as “Other.”
+
+The majority (15) of the colleges were major public universities. Eight were smaller/commuter state universities, four were major private universities, and three were private colleges. Eight colleges were located in the West, six in the Midwest, three in the Southwest, seven in the Southeast, and six in the Northeast. The study was approved by the institutional review board at each respective institution. Students were recruited primarily from psychology, human development, and family and consumer science courses. Participants were provided with a link to a secure Web site, read an informed consent form, and checked a box indicating that they were willing to take part in the study. Participants then completed the study measures via the Internet. Participants received partial course credit or credit toward a research requirement, depending on their institution.
+
+Demographic characteristics.
+
+Participants reported their age, gender, ethnicity, and family income level.
+
+Participants indicated how often during the past 30 days they had sex with someone they knew for less than a week on a 5-point, Likert-type scale (1 = Never; 2 = Once or twice; 3 = 3 to 5 times; 4 = 6 to 10 times; 5 = 11 or more times).Because only 11% of participants reported any casual sex in the month prior to assessment (i.e., responses of 2 or more on the item), we created a dichotomous variable reflecting whether the participants had had sex with someone they knew for less than a week within the past 30 days (0 = No; 1 = Yes). This variable was used for subsequent analyses.
+
+We assessed four aspects of well-being: self-esteem, life satisfaction, psychological well-being, and eudaimonic well-being. Self-esteem refers to a positive overall evaluation of oneself (Swann, Chang-Schneider, & Larsen McClarty, 2007). Life satisfaction refers to a positive evaluation of how one’s life has proceeded thus far (Diener, 2006). Psychological well-being refers to a general sense of positive functioning (e.g., positive relationships with others, feeling in control over one’s life; Ryff & Keyes, 1995). Eudaimonic well-being refers to having “found oneself” and having begun to actualize one’s potentials (Waterman, 2008). There is evidence that these aspects of well-being are strongly interrelated and therefore reflect a general index of well-being (Waterman, 2008; Waterman et al., 2010).
+
+We assessed self-esteem using the Rosenberg (1979) Self-Esteem Scale, which is the most commonly used measure of self-esteem for adolescents and adults. Participants answered five positively worded items (e.g., “I feel that I have a number of good qualities”) and five negatively worded items (e.g., “At times, I think I am no good at all”) using a 5-point scale ranging from 1 (Strongly disagree) to 5 (Strongly agree). Reverse-scored items were recoded before summing so that higher scale scores reflected higher levels of self-esteem. In the present study, Cronbach’s alpha was .88.
+
+We assessed life satisfaction using the 5-item Satisfaction with Life Scale (Pavot & Diener, 1993). A 5-point response scale, ranging from 1 (Strongly disagree) to 5 (Strongly agree), was used for each item (e.g., “In most ways, my life is close to my ideal”). This measure has been extensively validated around the world (Kuppens, Realo, & Diener, 2008). In the present study, Cronbach’s alpha was .87.
+
+We measured psychological well-being using the shortened (18-item) version of the Scales for Psychological Well-Being (Ryff & Keyes, 1995). This instrument assesses the dimensions of psychological well-being identified as autonomy, environmental mastery, personal growth, positive relations with others, purpose in life, and self-acceptance (Ryff, 1989). Ten items are worded in a positive direction, and eight are worded in a negative direction. A composite score for psychological well-being is created by recoding the negatively worded items and summing across the 18 items. Items include “I am quite good at managing the many responsibilities of my daily life.” In the present data set, Cronbach’s alpha for the composite score was .84.
+
+We assessed eudaimonic well-being using the Questionnaire for Eudaimonic Well-Being (Waterman et al., 2010). This 21-item measure taps into the extent to which respondents enjoy challenging activities, expend a great deal of effort in activities that they enjoy, and spend time pursuing and actualizing their personal potentials. Each item is responded to using a 5-point Likert-type scale, with possible choices ranging from 1 (Strongly disagree) to 5 (Strongly agree). For this scale, 14 of the items are written in an affirmative direction, and 7 items are written in a negative direction and are reverse-scored. Sample items include “I feel I have discovered who I really am” and “I feel best when I’m doing something worth investing a great deal of effort in.” In the present sample, Cronbach’s alpha was .87.
+
+Psychological distress.
+
+We assessed three forms of psychological distress symptoms: general anxiety, social anxiety, and depression. To measure general anxiety, participants completed an 18-item adapted version of the Beck Anxiety Inventory (BAI; Beck, Epstein, Brown, & Steer, 1988). The items address feelings of tension, hypervigilance, and difficulty relaxing or calming down during the week prior to assessment (e.g., “This week, I have found myself worrying about the worst possible things that can happen to me”). Participants rated these items using a scale which ranges from 1 (Strongly disagree) to 5 (Strongly agree). In the present study, the Cronbach’s alpha was .95. To assess social anxiety, participants completed the Social Interaction Anxiety Scale (SIAS; Mattick & Clarke, 1989). Items for the SIAS include “I have difficulty making eye-contact with others” and “I am unsure whether to greet someone I know only slightly.” The SIAS score is computed by summing all items (with items 8 and 10 being reverse coded), which are rated by participants on a 0 (Not at all) to 4 (Extremely) scale. In the present study, the Cronbach’s alpha was .87.
+
+Last, participants completed the Center for Epidemiologic Studies Depression Scale (CES-D), which measures feelings of dysthymia, listlessness, and difficulty eating and sleeping during the week prior to assessment (e.g., “I have felt down and unhappy this week”). In the present study, the Cronbach’s alpha was .87.
+
+Analyses for the present study proceeded in three primary steps. First, we evaluated descriptive information (including correlations between manifest variables) (see Table 1). Second, we estimated a structural equation model (SEM) in which engagement in casual sex (as a dichotomous variable) was allowed to predict well-being and psychological distress. SEM was used to control for attenuation of results due to measurement error and to allow us to include multiple dependent variables in analysis rather than conducting separate regression analyses for well-being and for distress. We also accounted for multilevel nesting and for nonnormality using appropriate estimation procedures described in the following sections. In our SEM model, casual sexual experiences, as a dichotomous predictor variable, was allowed to predict latent variables for well-being and for psychological distress. The well-being latent variable was defined using self-esteem, life satisfaction, psychological well-being, and eudaimonic well-being. The psychological distress latent variable was defined using general anxiety, social anxiety, and depressive symptoms. Lastly, we also examined the consistency of the structural equation model estimates across gender.
+
+Bivariate Correlations among Study Variables for the Entire Sample
+
+3. Life satisfaction
+
+4. Psychological well-being
+
+5. Eudaimonic well-being
+
+Open in a separate window
+
+Note. All correlations are significant at p < .001.
+
+A total of 11% of the sample reported having engaged in casual sex in the 30 days prior to assessment. However, when the sample was split by gender, significantly more men (18.6%) than women (7.4%) reported at least one casual sex encounter in the month prior to assessment, χ2 (1) = 107.51, p < .001, φ = .16. We therefore estimated a structural equation model to examine the associations between casual sex and well-being and psychological distress. The basic model is reported in Figure 1. The advantage of SEM is the ability to use latent variable modeling to specify measurement error in the analysis. We used the robust maximum likelihood estimator to adjust the fit indices for nonnormality in the data (Satorra & Bentler, 1994). To account for nesting of participants within data collection sites, we used the sandwich estimator (Kauermann & Carroll, 2001). The sandwich estimator adjusts the standard errors of model parameters for the effects of multilevel nesting. Our specified model fit the data adequately: χ2 (20) = 351.10, p < .001; CFI = .96; NNFI = .93; RMSEA = .059 (90% CI = .054 to .065); SRMR = .031. Self-esteem, life-satisfaction, psychological well-being, and eudaimonic well-being all loaded significantly on the well-being factor, with standardized loadings ranging from .60 to .91 (see Figure 1). General anxiety, social anxiety, and depression all loaded significantly on the psychological distress factor, with standardized loadings between .66 and .70.
+
+Open in a separate window
+
+Structural equation model predicting psychological well-being and psychological distress. Note. Overall model fit χ2 (20) = 351.10, p < .001; CFI = .96; NNFI = .93; RMSEA = .059 (90% CI = .054 to .065); SRMR = .031. Although not depicted in the figure, correlated residuals among the well-being (self-esteem, life satisfaction, psychological well-being, eudaimonic well-being) and distress (general anxiety, social anxiety, depression) indicators were specified in model estimation.*p < .001.
+
+Results from the structural equation model indicated that casual sex was significantly and negatively associated with the well-being latent variable (ß = −.20, p < .001), controlling for SES. Mean comparisons conducted using the sandwich estimator indicated that college students who had recently engaged in casual sex reported lower levels of self-esteem, life-satisfaction, and happiness compared to those students who had not had casual sex in the past 30 days (see Table 2). Casual sex was also positively associated with a psychological distress latent variable (ß = .16, p < .001). College students who had recently engaged in casual sex reported higher levels of general anxiety, social anxiety, and depression compared to college students who had not had recent casual sex.
+
+Mean Differences in Psychological Well-Being Scores between Young Adults With and Without Casual Sex Experience in the Past Month
+
+Psychological well-being
+
+Eudaimonic well-being
+
+Open in a separate window
+
+Finally, we conducted multiple-group tests to determine whether the model parameters were significantly different between women and men. These invariance tests were conducted in two steps: first, examining invariance of factor loadings for the latent construct; second, examining invariance of structural paths from casual sex to psychological well-being, and to psychological distress. For each invariance test, we estimated two models: one where the relevant path coefficients were free to vary across gender, and another where these same paths were constrained to be equal across gender. The fits of the unconstrained and constrained models were then compared. Thus, the null hypothesis of invariance of the structural paths across gender would be statistically rejected if at least two of the following three criteria were met: Δχ2 significant at p < .05 (Byrne, 2001); ΔCFI ≥ .01 (Cheung & Rensvold, 2002); and ΔNNFI≥.02 (Vandenberg & Lance, 2000). For factor loadings, although the chi-square difference was significant, Δχ2 (7) = 39.54, p < .001, the other fit indices did not differ substantially between the constrained and unconstrained models, ΔCFI = .003; ΔNNFI = .003. Similarly, in the test of structural paths, the chi-square difference was significant, Δχ2 (2) = 16.09, p < .001, but the other fit indices did not differ substantially between the constrained and unconstrained models, ΔCFI = .001; ΔNNFI = .001. This finding suggests that, in both cases, the significant chi-square difference was likely a function of the large sample size (Kline, 2006). Accordingly, the present results can be taken as largely invariant associations across male and female emerging-adult college students.
+
+Popular media often report about a hookup culture permeating contemporary American colleges, which has prompted increasing interest in the psychosocial correlates of casual sex among college students. A key issue is whether casual sexual encounters are associated with psychological distress and diminished well-being (Eisenberg et al., 2009; Eshbaugh & Gute, 2008; Paul, et al., 2000). Whereas a handful of studies have investigated this topic, the results have been generally mixed and often qualified by gender.
+
+In the present study, we hypothesized and found that men were more likely than women to report a casual sexual encounter. But the current results suggest a different conclusion regarding the correlates of casual sex. As expected, latent variable modeling indicated a positive correlation between casual sex and psychological distress and diminished well-being—an association that, unexpectedly, appeared to be similar for men and for women. The results of the present study, therefore, argue that involvement in casual sex among college students is similarly associated with mental health outcomes for men and women. The lack of a gender interaction is surprising. Whereas a large meta-analysis found small gender differences in sexual attitudes and behaviors between 1993 and 2007, gender differences did emerge around attitudes toward casual sex, casual sex, and fear, anxiety and guilt toward sex (Petersen & Hyde, 2010).
+
+The observed results may to some extent operate through the phenomenon of sexual regret. For example, one study found that having sexual intercourse with someone only once or having sexual intercourse with someone known for less than 24 hours was significantly associated with feelings of sexual regret (Eshbaugh & Gute, 2008). Both men and women report sexual regret, albeit for different reasons, following casual sex encounters (Fisher et al., 2012). Feelings of sexual regret, and feelings of regret in general, have been linked to poor psychological outcomes, such as lower life satisfaction, loss of self-worth, depression, and physical health problems (Grello et al., 2006; Jokisaari, 2004). So the link between casual sex and psychological distress and diminished well-being may represent a manifestation of sexual regret.
+
+Another explanation for the current findings may be that sex with a relative stranger is actually an exemplar of problem behavior as conceptualized within problem behavior theory (Jessor & Jessor, 1977). In support of this assertion, we note that the vast majority of participants (89%) in the present study did not report engaging in casual sex within the 30 days prior to assessment, suggesting that the activity itself is somewhat atypical in this sample of college students. Casual sex (as defined here) might, therefore, be one aspect of a general constellation of symptoms linked with unconventionality and problematic behavior. In fact, results from our previous MUSIC study found that casual sex was associated with danger invulnerability, and that the number of sexual partners in the past month was associated with both danger invulnerability and sensation seeking (Ravert et al., 2009). Both sensation seeking and danger invulnerability are known to predict unconventionality and risky behaviors (Donohew et al., 2000; Jessor & Jessor, 1977).
+
+It also may be the case that additional characteristics need to be taken into account when studying casual sex and psychological outcomes, including specific emotional reactions to the encounter. For instance, one study found that young adults reacted more positively to a hookup if they had consumed less alcohol, and that positive emotional reactions following a hookup were related to a hope for a committed relationship (Owen & Fincham, 2011). In contrast, negative emotional reactions after a hookup were related to depressive symptoms and feelings of loneliness. In other words, poor mental health may proceed from casual-sex behavior. Thus, psychological well-being in relation to casual sex may depend upon situational, contextual, and individual-level factors, variables that future longitudinal studies should control for in order to establish causality (see, e.g., Cooper, 2010). All of these possibilities are consistent with modern cultural explanations of sociosexual behavior (see Agocha et al., in press).
+
+Although the existing evidence points to an association between psychological distress and involvement with casual sex (especially for young women), a recent and prominent study by Eisenberg and colleagues (2009) found no connection between psychological outcomes and casual sex, even across gender, using a sample of 1,311 young adults from one Midwestern state. The inability to detect effects was not likely a result of diminished statistical power, given this study’s relatively large sample size, and therefore this study represents an important null result. However, given the single campus location, cultural models of sexuality suggest that social context factors specific to that location may explain these results (see Agocha et al., in press).
+
+Moreover, there are noteworthy differences between the present research and the Eisenberg et al. (2009) study that may explain the discrepant findings. The differences relate to our measures. Eisenberg and associates asked participants to describe their most recent sexual partner from a list of forced-choice categories. Individuals were considered to have engaged in casual sex if they described their most recent partner as a “casual acquaintance” or “close but not exclusive partner.” In contrast, participants in the current study were asked how many times within the past 30 days they had sex with someone they had known for less than a week, which we dichotomized into “yes” (if they had casual sex in the past month) or “no” (if they had not). The specified time frames for the occurrence of the target behavior were different across the two studies, as were the operational definitions of casual sex.
+
+The various studies investigating casual sex have used a very broad definition of casual sex, which included all sexual relationships outside the context of a romantic relationship, regardless of length of acquaintance, type of acquaintance, and length of sexual relationship. As noted in the introduction, the different ways in which researchers have operationalized casual sex may contribute to the difficulties in evaluating whether psychological distress is associated with sexual behaviors that occur outside of committed relationships. It is plausible that seemingly subtle differences in operational definitions may account for the different results between the present study and others. Sexual dalliances with real strangers (known for a very brief time) may indicate a level of impulsivity that may not occur for those with casual acquaintances. Sexual behaviors with strangers might therefore be associated with different outcomes than sexual behaviors with known acquaintances. These subtleties suggest that researchers need to pay considerable attention to how questions about casual sexual behavior are asked of participants. It is important to carefully specify the operational definition of casual sex if researchers are to definitively answer questions about the correlates of casual sex.
+
+The current results should be interpreted in light of several limitations. First, the cross-sectional design does not permit us to infer causality, and although some studies find that participation in casual sex leads to psychological distress (Fielder & Carey, 2010a), other findings suggested that challenged or negative psychological health precedes participation in casual sex (Grello et al., 2003; but see Crepaz & Marks, 2001). Future longitudinal work is needed to clarify temporal precedence and to potentially evaluate reciprocal effects models. In other words, there is the possibility that a continuous cycle between psychological health and casual sex occurs. At this point, we can say only that we found a positive association between having sex with someone known less than a week and psychological difficulties. Second, the current study used a large sample drawn across a number of universities, but we did not sample participants at random. Rather, we advertised the study primarily through psychology and child development classes, which may explain the high number of female participants. Future studies might draw random samples from multiple universities to address this limitation. Third, the current study was limited to heterosexual students. It is unknown whether a similar association would be found among homosexual college students, an area that is ripe for additional research.
+
+Despite these limitations, the current results are noteworthy because of the importance of the psychological correlates of casual sex, the diversity of the current sample, and the use of latent variable analyses that estimate measurement error in the data analysis. We found evidence that casual sex was associated with psychological distress and lower levels of psychological well-being. This result is seemingly inconsistent with the Eisenberg and associates’ (2009) study and suggests that unqualified statements about the correlates of casual sexual behavior are not warranted at this time, especially for casual sex with relative strangers. More work is clearly needed in this area to further investigate sources of the discrepancies in the literature. We suggest that greater attention be directed to the measurement of casual sex and to the situational and relationship context (see Cooper, 2010) and sociocultural meaning of the sexual encounter (see Agocha et al., in press).
+
+Nonetheless, we believe it is premature to conclude that casual sexual encounters pose no harmful psychological risks for young adults. Indeed, while our cross-sectional study, of course, does not answer the question of causal direction in the link between risky sexual behaviors and psychological distress and negative well-being, our findings do lend support to this side of the equation as a direction for future research. In their meta-analysis, Crepaz and Marks (2001) queried whether “engaging in high-risk sex may promote anxiety, self-directed anger, stress, and other negative states” (p. 297). The present study suggests that such an association exists, and fruitful research can be developed to prospectively determine whether the link derives from individuals in negative psychological states engaging in greater sexual risk taking (which some limited longitudinal studies failed to find; Crepaz & Marks, 2001) or from individuals who engage in risky sex experiencing greater negative psychological states. For example, the latter question can be tackled by examining psychological states and well-being that correspond to change in sexual experience status among a sample of (sexually) uninitiated college students or emerging adults. Accordingly, practitioners, STI=HIV counselors, and college administrators may wish to consider the broader health ramifications of casual sexual behaviors, given the link between mental health and sexual attitudes and behaviors. Efforts aimed at promoting positive sexual development and sexual health in college-aged individuals may wish to underscore the benefits of committed relationships and highlight the potentially negative psychological correlates of sex with relative strangers.
+
+Contributor Information
+
+Melina M. Bersamin, Department of Child Development, California State University, Sacramento.
+
+Byron L. Zamboanga, Department of Psychology, Smith College.
+
+Seth J. Schwartz, Department of Epidemiology and Public Health, University of Miami.
+
+M. Brent Donnellan, Department of Psychology, Michigan State University.
+
+Monika Hudson, School of Business and Professional Studies, University of San Francisco.
+
+Robert S. Weisskirch, Human Development, California State University, Monterey Bay.
+
+Su Yeong Kim, Department of Human Ecology, University of Texas, Austin.
+
+V. Bede Agocha, Department of Psychology, University of Connecticut.
+
+Susan Krauss Whitbourne, Department of Psychology, University of Massachusetts Amherst.
+
+S. Jean Caraway, Department of Psychology, University of South Dakota.
+
+Agocha VB, Asencio M, & Decena CU (in press). Sexuality and culture In Tolman DL & Diamond L (Eds.), The American Psychological Association handbook of sexuality and psychology (Vol. 2; pp. 183–228). Washington, DC: American Psychological Association. [Google Scholar]
+
+Bandura A (1985). Social foundations of thought and action. Englewood Cliffs, NJ: Prentice-Hall. [Google Scholar]
+
+Beck AT, Epstein N, Brown G, & Steer RA (1988). An inventory for measuring clinical anxiety: Psychometric properties. Journal of Consulting and Clinical Psychology, 56(6), 893–897. [PubMed] [Google Scholar]
+
+Bersamin MM, Bourdeau B, Fisher DA, & Grube JW (2010). Television use, sexual behavior, and relationship status at last oral sex and vaginal intercourse. Sexuality and Culture: An Interdisciplinary Quarterly, 14(2), 157–168. [PMC free article] [PubMed] [Google Scholar]
+
+Buss DM, & Schmitt DP (1993). Sexual strategies theory: An evolutionary perspective on human dating. Psychological Review, 100, 204–232. [PubMed] [Google Scholar]
+
+Bussey K, & Bandura A (1999). Social cognitive theory of gender development and differentiation. Psychological Review, 106, 676–713. [PubMed] [Google Scholar]
+
+Campbell A (2008). The morning after the night before. Human Nature, 19(2), 157–173. [PubMed] [Google Scholar]
+
+Cheung GW, & Rensvold RB (2002). Evaluating goodness-of-fit indexes for testing measurement invariance. Structural Equation Modeling, 9, 233–255. [Google Scholar]
+
+Cooper ML (2010). Toward a person × situation model of sexual risk-taking behaviors: Illuminating the conditional effects of traits across sexual situations and relationship contexts. Journal of Personality and Social Psychology, 98, 319–341. [PubMed] [Google Scholar]
+
+Crawford M, & Popp D (2003). Sexual double standards: A review and methodological critique of two decades of research. Journal of Sex Resesarch, 40(1), 13–26. [PubMed] [Google Scholar]
+
+Crepaz N, & Marks G (2001). Are negative affective states associated with HIV sexual risk behaviors? A meta-analytic review. Health Psychology, 20, 291–299. [PubMed] [Google Scholar]
+
+Diener E (2006). Guidelines for national indicators of subjective well-being and ill-being. Journal of Happiness Studies, 7, 398–404. [Google Scholar]
+
+Donohew L, Zimmerman R, Cupp PS, Novak S, Colon S, & Abell R (2000). Sensation seeking, impulsive decision-making, and risky sex: Implications for risk-taking and design of interventions. Personality and Individual Differences, 28, 1079–1091. [Google Scholar]
+
+Eisenberg ME, Ackard DM, Resnick MD, & Neumark-Sztainer D (2009). Casual sex and psychological health among young adults: Is having “friends with benefits” emotionally damaging? Perspectives on Sexual and Reproductive Health, 41(4), 231–237. [PubMed] [Google Scholar]
+
+Eshbaugh EM, & Gute G (2008). Hookups and sexual regret among college women. Journal of Social Psychology, 148(1), 77–90. [PubMed] [Google Scholar]
+
+Fielder RL, & Carey MP (2010a). Predictors and consequences of sexual “hookups” among college students: A short-term prospective study. Archives of Sexual Behavior, 39(5), 1105–1119. [PMC free article] [PubMed] [Google Scholar]
+
+Fielder RL, & Carey MP (2010b). Prevalence and characteristics of sexual hookups among first-semester female college students. Journal of Sex and Marital Therapy, 36(4), 346–359. [PMC free article] [PubMed] [Google Scholar]
+
+Fisher DA, Hill DL, Grube JW, & Gruber EL (2004). Sex on American television: An analysis across program genres and network types. Journal of Broadcasting & Electronic Media, 48, 529–553. [PMC free article] [PubMed] [Google Scholar]
+
+Fisher ML, Worth K, Garcia JR, & Meredith T (2012). Feelings of regret following uncommitted sexual encounters in Canadian university students. Culture, Health, and Sexuality, 14(1), 45–57. [PubMed] [Google Scholar]
+
+Garcia JR, & Reiber C (2008). Hook-up behavior: A biopsychosocial perspective. Journal of Social, Evolutionary, and Cultural Psychology, 2(4), 192–208. [Google Scholar]
+
+Grello CM, Welsh DP, & Harper MS (2006). No strings attached: The nature of casual sex in college students. Journal of Sex Research, 43(3), 255–267. [PubMed] [Google Scholar]
+
+Grello CM, Welsh DP, Harper MS, & Dickson JW (2003). Dating and sexual relationship trajectories and adolescent functioning. Adolescent and Family Health, 3, 103–112. [Google Scholar]
+
+Herold ES, Maticka-Tyndale E, & Mewhinney D (1998). Predicting intentions to engage in casual sex. Journal of Social and Personal Relationships, 15(4), 502. [Google Scholar]
+
+Herold ES, & Mewhinney D-MK (1993). Gender differences in casual sex and AIDS prevention: A survey of dating bars. Journal of Sex Research, 30(1), 36–42. [Google Scholar]
+
+Jessor R, & Jessor SL(1977).Problem behavior and psychological development: A longitudinal study of youth. New York: Academic Press. [Google Scholar]
+
+Jokisaari M (2004). Regrets and subjective well-being: A life course approach. Journal of Adult Development, 11(4), 281–288. [Google Scholar]
+
+Kauermann G, & Carroll RJ (2001). A note on the efficiency of sandwich covariance matrix estimation. Journal of the American Statistical Association, 96, 1387–1396. [Google Scholar]
+
+Kitzrow M (2003). The mental health needs of today’s college students: Challenges and recommendations. NASPA Journal, 41(1), 165–179. [Google Scholar]
+
+Kline RB (2006). Principles and practices of structural equation modeling. New York: Guilford. [Google Scholar]
+
+Kuppens P, Realo A, & Diener E (2008). The role of positive and negative emotions in life satisfaction judgment across nations. Journal of Personality and Social Psychology, 95(1), 66–75. [PubMed] [Google Scholar]
+
+Mattick RP, & Clarke JC (1989). Development and validation of measures of social phobia scrutiny fear and social interaction anxiety. Behaviour Research and Therapy, 36, 455–470. [PubMed] [Google Scholar]
+
+Oliver MB, & Hyde JS (1993). Gender differences in sexuality: A meta-analysis. Psychological Bulletin, 114(1), 29–51. [PubMed] [Google Scholar]
+
+Owen J, & Fincham FD (2011). Youngadults’ emotional reactions after hooking up encounters. Archives of Sexual Behavior, 40(2), 321–330. [PubMed] [Google Scholar]
+
+Owen JJ, Rhoades GK, Stanley SM, & Fincham FD (2010). “Hooking up” among college students: Demographic and psychosocial correlates. Archives of Sexual Behavior, 39(3), 653–663. [PubMed] [Google Scholar]
+
+Paik A (2010). The contexts of sexual involvement and concurrent sexual partnerships. Perspectives on Sexual and Reproductive Health, 42(1), 33–42. [PubMed] [Google Scholar]
+
+Paul EL, McManus B, & Hayes A (2000). “Hookups”: Characteristics and correlates of college students’ spontaneous and anonymous sexual experiences. Journal of Sex Research, 37(1), 76–88. [Google Scholar]
+
+Pavot W, & Diener E (1993). Review of the Satisfactions with Life Scale. Psychological Assessment, 5, 164–177. [Google Scholar]
+
+Petersen JL, & Hyde JS (1993). A meta-analytic review of research on gender differences in sexuality, 1993–2007. Psychological Bulletin, 136, 21–38. [PubMed] [Google Scholar]
+
+Ravert R, Schwartz S, Zamboanga B, Kim S, Weisskirch R, & Bersamin M (2009). Sensation seeking and danger invulnerability: Paths to college student risk-taking. Personality and Individual Differences, 47(7), 763–768. [PMC free article] [PubMed] [Google Scholar]
+
+Rogers SM, Miller HG, Miller WC, Zenilman JM, & Turner CF (2002). NAAT-identified and self-reported gonorrhea and chlamydial infections: Different at-risk population subgroups? Sexually Transmitted Diseases, 29(10), 588–596. [PubMed] [Google Scholar]
+
+Rosenberg M (1979). Conceiving the self. New York: Basic Books. [Google Scholar]
+
+Ryff CD (1989). Happiness is everything, or is it? Explorations on the meaning of psychological well-being. Journal of Personality and Social Psychology, 57, 1069–1081. [Google Scholar]
+
+Ryff CD, & Keyes CL (1995). The structure of psychological well-being revisited. Journal of Personality and Social Psychology, 69(4), 719–727. [PubMed] [Google Scholar]
+
+Satorra A, & Bentler PM (Eds.). (1994). Latent variables analysis: Applications for Developmental Research. Thousand Oaks, CA: Sage. [Google Scholar]
+
+Swann WB, Chang-Schneider C, & Larsen McClarty K (2007). Do people’s self-views matter? Self-concept and self-esteem in everyday life. American Psychologist, 62, 84–94. [PubMed] [Google Scholar]
+
+Tanfer K, Cubbins LA, & Billy JO (1995). Gender, race, class, and self-reported sexually transmitted disease incidence. Family Planning Perspectives, 27(5), 196–202. [PubMed] [Google Scholar]
+
+Trivers RL (1972). Parental investment and sexual selection In Campbell B (Ed.), Sexual selection and the descent of man (pp. 139–179). New York: Aldine. [Google Scholar]
+
+Vandenberg RJ, & Lance CE (2000). A review and synthesis of the measurement invariance literature: Suggestions, practices, and recommendations for organizational research. Organizational Research Methods, 3(1), 4–69. [Google Scholar]
+
+Ward L (2002). Does television exposure affect emerging adults’ attitudes and assumptions about sexual relationships? Correlational and experimental confirmation. Journal of Youth and Adolescence, 31(1), 1–15. [Google Scholar]
+
+Ward LM, & Rivadeneyra R (1999). Contributions of entertainment television to adolescents’ sexual attitudes and expectations: The role of viewing amount versus viewer involvement. Journal of Sex Research, 36, 237–249. [Google Scholar]
+
+Waterman AS (2008). Reconsidering happiness: A eudaimonist’s perspective. Journal of Positive Psychology, 3, 234–252. [Google Scholar]
+
+Waterman AS, Schwartz SJ, Zamboanga BL, Ravert RD, Williams MK, Agocha B, et al. (2010). The Questionnaire for Eudaimonic Well-Being: Psychometric properties, demographic comparisons, and evidence of validity. Journal of Positive Psychology, 6, 41–61. [PMC free article] [PubMed] [Google Scholar]
+
+Wilson EO (1998). Consilience: The unity of knowledge. New York: Knopf. [Google Scholar]
+
+Wood W, & Eagly AH (2002). A cross-cultural analysis of the behavior of women and men: Implications for the origins of sex differences. Psychological Bulletin, 128, 699–727. [PubMed] [Google Scholar]
+
+Zurbriggen EL, & Morgan EM (2006). Who wants to marry a millionaire? Reality dating television programs, attitudes toward sex, and sexual behaviors. Sex Roles, 54, 1–17. [Google Scholar]
+
+Cited by other articles
+
+Links to NCBI Databases
+
+Copy Download .nbib .nbib

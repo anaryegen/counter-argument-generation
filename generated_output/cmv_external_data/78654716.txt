@@ -1,0 +1,101 @@
+Skip to main content Accessibility help
+
+We use cookies to distinguish you from other users and to provide you with a better experience on our websites. Close this message to accept cookies or find out how to manage your cookie settings.
+
+Hostname: page-component-848d4c4894-hfldf Total loading time: 0 Render date: 2024-05-14T00:48:54.758Z Has data issue: false hasContentIssue false
+
+>Royal Institute of Philosophy Supplements
+
+>Volume 81: Religious Epistemology
+
+>Divine Hiddenness: Defeated Evidence
+
+Royal Institute of Philosophy Supplements
+
+Divine Hiddenness: Defeated Evidence
+
+Published online by Cambridge University Press: 28 November 2017
+
+Charity_Anderson@baylor.edu
+
+Cite Rights & Permissions [Opens in a new window]
+
+This paper challenges a common assumption in the literature concerning the problem of divine hiddenness, namely, that the following are inconsistent: God's making available adequate evidence for belief that he exists and the existence of non-culpable nonbelievers. It draws on the notions of defeated evidence and glimpses to depict the complexity of our evidential situation with respect to God's existence.
+
+Royal Institute of Philosophy Supplements , Volume 81: Religious Epistemology , October 2017 , pp. 119 - 132
+
+DOI: https://doi.org/10.1017/S1358246117000212 [Opens in a new window]
+
+Copyright © The Royal Institute of Philosophy and the contributors 2017
+
+Access options Get access to the full version of this content by using one of the access options below. (Log in options will check for institutional or personal access. Content may require purchase if you do not have access.)
+
+1 See Schellenberg, J.L., Divine Hiddenness and Human Reason (Cornell University Press, 1993)Google Scholar and his The Wisdom to Doubt: A Justification of Religious Skepticism (Cornell University Press, 2007)Google Scholar.
+
+2 See, for example, Henry, D., ‘Does Reasonable Nonbelief Exist?’, Faith and Philosophy 18(1) (2001), 75–92 CrossRefGoogle Scholar and ‘Reasonable Doubts about Reasonable Nonbelief’, Faith and Philosophy 25 (2008), 276–289 CrossRefGoogle Scholar, Moser, P., ‘Cognitive Idolatry and Divine Hiding’, in Divine Hiddenness: New Essays. Ed by Howard-Snyder, & Moser, (Cambridge: Cambridge University Press, 2002)Google Scholar and Wainwright, W., ‘Jonathan Edwards and the Hiddenness of God’ in Howard-Snyder, and Moser, (eds.) Divine Hiddenness: New Essays (Cambridge, Cambridge University Press, 2002), 98–119 Google Scholar.
+
+3 For examples of this strategy, see S. Coakley, S. ‘On the Very Idea of “Divine Hiddenness”: Analytic Approaches to “Apophasis”’ Address at the BSPR 2015, Cullison, A., ‘Two Solutions to the Problem of Divine Hiddenness’, American Philosophical Quarterly 47 (2010), 119–134 Google Scholar, Murray, M., ‘Coercion and the Hiddenness of God’, American Philosophical Quarterly 30 (1993), 27–38 Google Scholar, M. Rea, ‘Narrative, Liturgy, and the Hiddenness of God’, in K. Timpe (ed.) Metaphysics and God: Essays in Honour of Eleonore Stump (New York: Routledge), 76–96, and Swinburne's, R. Providence and the Problem of Evil (Oxford: Oxford University Press, 1998)CrossRefGoogle Scholar and The Existence of God (Oxford: Oxford University Press, 2004)Google ScholarPubMed.
+
+4 The evidence might be publically accessible, but it need not be; it could consist of personal religious experience.
+
+5 Schellenberg, J.L. ‘Divine Hiddenness Justifies Atheism’, in Contemporary Debates in Philosophy of Religion. Ed by VanArragon, Peterson (Oxford: Blackwell Publishing, 2004), 40 Google Scholar.
+
+6 Whether being in a position to believe that God exists entails that the respective individuals will actually believe that God exists is a matter that turns on certain assumptions about belief. The way I understand Schellenberg's position, he thinks that a nonresistant agent that has sufficient evidence is not only in a position to believe, but in fact believes. The assumption that the evidence will always be efficacious in producing belief is problematic for reasons Kvanvig discusses in Kvanvig, J., ‘Divine Hiddenness: What is the Problem?’, in Divine Hiddenness: New Essays. Ed by Howard-Snyder, & Moser, (Cambridge: Cambridge University Press, 2002)Google Scholar.
+
+7 Although in this paper I follow recent literature and present the argument in a way that assumes an evidentialist epistemology, one could construe the problem in an alternative framework. One might suggest, for example, that if God exists he would make it such that each person is in a position to rationally (or safely/sensitively) believe that he exists. Whether this can be done without loss of some significant features of the argument is a question I will not pursue here.
+
+8 We need a gloss on ‘our evidential situation’ to make progress. For the most part, I will make a simplifying assumption that there is some group of people whose evidence is roughly counterbalanced for and against theism. I do this so that ‘our evidential situation’ refers to something close to what advocates of the argument seem to have in mind when they claim God is hidden.
+
+9 Schellenberg (2007), 200.
+
+10 Schellenberg (1993), 39.
+
+11 Schellenberg (1993), 41.
+
+12 Schellenberg (2007), 205.
+
+13 See Schellenberg (2007), 17–27 for further discussion, including further categories of undiscovered evidence and undiscoverable evidence, neither of which are relevant for my purposes here.
+
+14 Schellenberg (2007), 228.
+
+15 Lasonen-Aarnio, M. Lasonen-Aarnio ‘Unreasonable Knowledge’, Philosophical Perspectives (2010)Google Scholar and Benton, M. & Baker-Hutch, M. ‘Defeatism Defeated’, Philosophical Perspectives ((2015) 29(1):40–66.)Google Scholar each provide useful discussions of the difficulties involved in articulating a systematic account of defeat, and also advance a minority view on which one may still be in a position to know the cup is red in cases of this sort.
+
+16 A further issue that is relevant is whether permissivism or uniqueness is correct. If permissivism is true, it may be that there is no one body of evidence such that if God to provides it to each individual, the only rational response to the evidence is to believe that God exists. It could be irrational, for some people, to believe God exists given the same body of evidence on which it is rational for others to believe God exists, if permissivism is true.
+
+17 Schellenberg (1993), 212–13.
+
+18 Imagine, for example, an individual who has been convinced not to trust religious experience but rather only to trust evidence that is ‘public’ or objectively available to many people. Suppose further that this person has defeaters that make it such that only very strong evidence would make theism probable. If God is required to defeat the defeaters of every individual in order to provide ‘adequate evidence’, adequate evidence may, in this case, require public signs and wonders.
+
+19 Note that on an E=K picture of evidence, where one's evidence consists of all and only the propositions one knows, this is a natural way to present the problem of hiddenness. Williamson advocates for this view of evidence in Williamson, T., Knowledge and its Limits (Oxford: Oxford University Press, 2000)Google ScholarPubMed.
+
+20 There is nothing in particular that ought to dissuade the advocate of the argument from presenting the argument in terms of knowledge, beyond the already mentioned cost of demanding more of God. The reason for expecting that advocates will resist this presentation is simply that much seems to be made of God failing to meet the minimal condition of making his existence merely more probable than not for any nonresistant individual, which is quite a bit less than is required for knowledge, on most views.
+
+21 See Schellenberg (2004).
+
+22 Another salient feature of glimpses is the way in which they require one to rely on memory once the momentary vision is over. This makes issues relating to reconstructive memory salient to the problem of hiddenness.
+
+23 Has God given us glimpses as evidence? Here is not the place to argue that he has or has not – or that he has given glimpses to every individual. I will content myself to merely suggest that consideration of this image is conducive to constructive conversation.
+
+24 Consider, for example, Schellenberg's discussion of a case where an individual, Kim, receives a glimpse of her friend Flo at the park. (1993, 210–212) Kim is then told something that makes it unlikely that she saw Flo, such as that Flo is out of town for the week. We can easily fill in the details such that Kim will doubt that it was Flo that she saw and think it was someone else who looked much like Flo. But suppose Kim knows Flo well, and Flo was not very far away when she saw her, and it was a bright day and Kim got a clear glimpse. In this case, it seems more likely that Kim will think the testifier is mistaken.
+
+25 I am grateful to John Hawthorne and Miriam Schoenfield for discussion of issues in this paper. Thanks also to Max Baker-Hytch, Nick Colgrove, Justin McBrayer, Jon Kvanvig, Jeffrey Russell, and audiences at Oxford University and the University of London where a version of this material was presented.
+
+26 The research for this paper was made possible in part through the support of a grant from the John Templeton Foundation.
+
+This article has been cited by the following publications. This list is generated based on data provided by Crossref.
+
+Anderson, Charity 2018. ON PROVIDING EVIDENCE. Episteme, Vol. 15, Issue. 3, p. 245.
+
+Rizzieri, Aaron 2021. How to make the problem of divine hiddenness worse. International Journal for Philosophy of Religion, Vol. 90, Issue. 1, p. 3.
+
+Anderson, Charity 2021. Divine hiddenness: An evidential argument. Philosophical Perspectives, Vol. 35, Issue. 1, p. 5.
+
+Blanton, Andrew 2023. Divine hiddenness, the demographics of theism, and mutual epistemic dependence: a response to Max Baker-Hytch. Religious Studies, p. 1.
+
+Beilby, James 2023. Divine Hiddenness and the Afterlife: A Response to Aaron Rizzieri. Perichoresis, Vol. 21, Issue. 4, p. 22.
+
+Baker-Hytch, Max 2024. God and the Problem of Evidential Ambiguity.
+
+Google Scholar Citations
+
+View all Google Scholar citations for this article. ×

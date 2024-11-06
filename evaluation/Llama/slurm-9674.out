@@ -1,0 +1,119 @@
+/gaueko0/users/ayeginbergenov001/.local/lib/python3.9/site-packages/transformers/utils/hub.py:127: FutureWarning: Using `TRANSFORMERS_CACHE` is deprecated and will be removed in v5 of Transformers. Use `HF_HOME` instead.
+  warnings.warn(
+Loading checkpoint shards:   0%|          | 0/30 [00:00<?, ?it/s]Loading checkpoint shards:   3%|▎         | 1/30 [00:59<28:33, 59.09s/it]Loading checkpoint shards:   7%|▋         | 2/30 [02:07<30:03, 64.41s/it]Loading checkpoint shards:  10%|█         | 3/30 [03:20<30:44, 68.33s/it]Loading checkpoint shards:  13%|█▎        | 4/30 [04:30<30:01, 69.29s/it]Loading checkpoint shards:  17%|█▋        | 5/30 [05:38<28:35, 68.62s/it]Loading checkpoint shards:  20%|██        | 6/30 [06:44<27:04, 67.70s/it]Loading checkpoint shards:  23%|██▎       | 7/30 [07:52<25:57, 67.70s/it]Loading checkpoint shards:  27%|██▋       | 8/30 [09:04<25:23, 69.27s/it]Loading checkpoint shards:  30%|███       | 9/30 [10:18<24:47, 70.86s/it]Loading checkpoint shards:  33%|███▎      | 10/30 [11:25<23:09, 69.45s/it]Loading checkpoint shards:  37%|███▋      | 11/30 [12:32<21:49, 68.91s/it]Loading checkpoint shards:  40%|████      | 12/30 [13:45<20:59, 69.97s/it]Loading checkpoint shards:  43%|████▎     | 13/30 [15:36<23:19, 82.32s/it]Loading checkpoint shards:  47%|████▋     | 14/30 [17:51<26:11, 98.22s/it]Loading checkpoint shards:  50%|█████     | 15/30 [20:00<26:55, 107.72s/it]Loading checkpoint shards:  53%|█████▎    | 16/30 [23:03<30:22, 130.21s/it]Loading checkpoint shards:  57%|█████▋    | 17/30 [26:16<32:20, 149.30s/it]Loading checkpoint shards:  60%|██████    | 18/30 [29:38<33:00, 165.08s/it]Loading checkpoint shards:  63%|██████▎   | 19/30 [32:33<30:46, 167.84s/it]Loading checkpoint shards:  67%|██████▋   | 20/30 [34:42<26:04, 156.46s/it]Loading checkpoint shards:  70%|███████   | 21/30 [36:43<21:52, 145.81s/it]Loading checkpoint shards:  73%|███████▎  | 22/30 [38:53<18:47, 141.00s/it]Loading checkpoint shards:  77%|███████▋  | 23/30 [41:02<16:00, 137.28s/it]Loading checkpoint shards:  80%|████████  | 24/30 [43:15<13:37, 136.19s/it]Loading checkpoint shards:  83%|████████▎ | 25/30 [45:18<11:00, 132.02s/it]Loading checkpoint shards:  87%|████████▋ | 26/30 [47:27<08:45, 131.25s/it]Loading checkpoint shards:  90%|█████████ | 27/30 [49:36<06:31, 130.45s/it]Loading checkpoint shards:  93%|█████████▎| 28/30 [51:49<04:22, 131.37s/it]Loading checkpoint shards:  97%|█████████▋| 29/30 [54:06<02:13, 133.04s/it]Loading checkpoint shards: 100%|██████████| 30/30 [54:06<00:00, 108.23s/it]
+WARNING:root:Some parameters are on the meta device device because they were offloaded to the disk.
+  0%|          | 0/19 [00:00<?, ?it/s]Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+  5%|▌         | 1/19 [07:21<2:12:28, 441.56s/it]Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+ 11%|█         | 2/19 [12:09<1:39:27, 351.04s/it]Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+ 16%|█▌        | 3/19 [17:09<1:27:22, 327.67s/it]Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+ 21%|██        | 4/19 [21:31<1:15:29, 301.96s/it]Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+ 26%|██▋       | 5/19 [25:52<1:07:01, 287.28s/it]Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+ 32%|███▏      | 6/19 [30:41<1:02:20, 287.72s/it]Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+ 37%|███▋      | 7/19 [35:10<56:19, 281.60s/it]  Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+ 42%|████▏     | 8/19 [40:01<52:08, 284.45s/it]Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+ 47%|████▋     | 9/19 [45:24<49:25, 296.59s/it]Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+ 53%|█████▎    | 10/19 [50:32<45:00, 300.10s/it]Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+ 58%|█████▊    | 11/19 [55:37<40:14, 301.79s/it]Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+ 63%|██████▎   | 12/19 [1:01:25<36:49, 315.69s/it]Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+ 68%|██████▊   | 13/19 [1:06:25<31:05, 310.87s/it]Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+ 74%|███████▎  | 14/19 [1:11:34<25:51, 310.34s/it]Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+ 79%|███████▉  | 15/19 [1:17:17<21:21, 320.29s/it]Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+ 84%|████████▍ | 16/19 [1:21:30<14:59, 299.94s/it]Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+ 89%|████████▉ | 17/19 [1:26:46<10:09, 304.77s/it]Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+ 95%|█████████▍| 18/19 [1:31:29<04:58, 298.23s/it]Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+100%|██████████| 19/19 [1:35:45<00:00, 285.72s/it]100%|██████████| 19/19 [1:35:45<00:00, 302.41s/it]

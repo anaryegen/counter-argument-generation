@@ -1,0 +1,467 @@
+Next Article in Journal
+
+Religion Involvement and Substance Use Problems in Schoolchildren in Northern Chile
+
+Previous Article in Journal
+
+Buddhism and Martial Arts in Premodern Japan: New Observations from a Religious Historical Perspective
+
+Active Journals Find a Journal Proceedings Series
+
+For Authors For Reviewers For Editors For Librarians For Publishers For Societies For Conference Organizers
+
+Open Access Policy Institutional Open Access Program Special Issues Guidelines Editorial Process Research and Publication Ethics Article Processing Charges Awards Testimonials
+
+Sciforum MDPI Books Preprints.org Scilit SciProfiles Encyclopedia JAMS Proceedings Series
+
+Overview Contact Careers News Press Blog
+
+You are accessing a machine-readable page. In order to be human-readable, please install an RSS reader.
+
+Continue Cancel clear
+
+All articles published by MDPI are made immediately available worldwide under an open access license. No special permission is required to reuse all or part of the article published by MDPI, including figures and tables. For articles published under an open access Creative Common CC BY license, any part of the article may be reused without permission provided that the original article is clearly cited. For more information, please refer to https://www.mdpi.com/openaccess.
+
+Feature papers represent the most advanced research with significant potential for high impact in the field. A Feature Paper should be a substantial original Article that involves several techniques or approaches, provides an outlook for future research directions and describes possible research applications.
+
+Feature papers are submitted upon individual invitation or recommendation by the scientific editors and must receive positive feedback from the reviewers.
+
+Editor’s Choice articles are based on recommendations by the scientific editors of MDPI journals from around the world. Editors select a small number of articles recently published in the journal that they believe will be particularly interesting to readers, or important in the respective research area. The aim is to provide a snapshot of some of the most exciting work published in the various research areas of the journal.
+
+Original Submission Date Received: .
+
+For Conference Organizers
+
+Institutional Open Access Program
+
+Special Issues Guidelines
+
+Research and Publication Ethics
+
+Article Processing Charges
+
+Sign In / Sign Up Submit
+
+Submit to this Journal Review for this Journal Propose a Special Issue
+
+► ▼ Article Menu
+
+Recommended Articles
+
+More by Author Links
+
+/ajax/scifeed/subscribe
+
+Altmetric share Share announcement Help format_quote Cite question_answer Discuss in SciProfiles thumb_up
+
+Find support for a specific problem in the support section of our website. Get Support
+
+Please let us know what you think of our products and services. Give Feedback
+
+Visit our dedicated information section to learn more about MDPI. Get Information clear
+
+first_page Download PDF
+
+settings Order Article Reprints
+
+Arial Georgia Verdana
+
+American Muslim Attitudes toward Jews
+
+SciProfiles Scilit Preprints.org Google Scholar
+
+Department of Political Science, Fordham University, Bronx, NY 10458, USA
+
+Religions 2022, 13(5), 441; https://doi.org/10.3390/rel13050441
+
+Submission received: 5 April 2022 / Revised: 6 May 2022 / Accepted: 10 May 2022 / Published: 14 May 2022
+
+(This article belongs to the Section Religions and Health/Psychology/Social Sciences)
+
+Download keyboard_arrow_down
+
+Download PDF Download PDF with Cover Download XML Download Epub
+
+Review Reports Versions Notes
+
+Muslims are often accused of being antisemitic and for being a major source of attacks and violence against Jews and Jewish institutions. Research also finds variation in Muslim orientations toward Jews at the aggregate, cross-national level, with lower levels of anti-Jewish sentiment in some western nations. There is also variation in the antisemitic sentiment of Muslims at the individual level in western nations. This paper asks whether factors that affect antisemitism among non-Muslims similarly affect Muslims with the same weight. In order to estimate these relative effects with precision, it is desirable to have a common dataset that includes both Muslims and non-Muslims. Since Muslims comprise a small percentage of the population in most western nations, nationally representative surveys rarely contain enough Muslim respondents for reliable statistical analysis. This paper uses the Democracy Fund + UCLA Nationscape survey, which has over 500,000 respondents, including 5000 Muslim respondents, sufficient for such analysis. The analysis finds that although American Muslims are less positive toward Jews than non-Muslims, the difference is not great, and, on average, American Muslims have positive views of Jews. Results also find that education, being foreign born, and perceiving discrimination against Muslims similarly affects Muslim and non-Muslim attitudes toward Jews. However, perceptions of a weak economy and age have discernably different effects on Muslim and non-Muslim attitudes toward Jews.
+
+Keywords: antisemitism; public opinion; American Muslims
+
+Antisemitism appears to be on the rise in recent decades, as criticism of Israel has mounted and sympathy for Palestinians has soared. Some implicate Muslims for much of this rise in antisemitism. This paper asks just how much antisemitism exists in the opinions of Muslims living in the west, particularly the United States, and what factors lead to variation in American Muslims’ attitudes toward Jews.
+
+Several indicators have been used to support the contention of high rates of antisemitism among Muslims. First are studies that use aggregate data across nations, which correlate the percentage of the Muslim population with rates of antisemitism in mass publics. The most famous of these data compilations comes from the Global 100 database of the Antidefamation League (https://global100.adl.org; (accessed on 13 March 2022)). These data show the highest rates of antisemitic attitudes are in the Middle Eastern and North African (MENA) nations, where there are large Muslim population percentages (Tausch 2016; Berggren and Nilsson 2021; Tausch 2014).
+
+However, aggregate studies such as these may suffer from the ecological fallacy, attributing individual level differences from aggregate relationships. While this may not be much of a concern when looking at MENA nations, because of the large Muslim populations, it becomes problematic for other nations where Muslim populations tend to be much smaller. Aggregate studies treat Muslims homogenously regarding antisemitic sentiment and fail to recognize heterogeneity in antisemitic attitudes across Muslims. For example, in Europe one can distinguish between two major sets of Muslims, those in western Europe, who are primarily recent immigrants and coming mostly from the MENA nations, compared to eastern European Muslims, who have resided there for centuries, since the Islamic/Ottoman rule of much of that region. Do these different types of Muslims think differently about Jews?
+
+Other studies use individual-level surveys of Muslims. There are two main types of individual-level surveys, population-based samples and samples exclusively of Muslims. Due to the small population of Muslims in most non-MENA nations, population-based samples usually do not include enough Muslims for statistical analysis, although there are some exceptions (Beyer 2019; Solomon and Tausch 2020).
+
+Consequently, researchers generally use purposive samples of Muslims. Jikeli (2015b), for example, personally interviewed Muslims, especially young men, in Great Britain and Iran. However enlightening, his samples are small and not necessarily representative of Muslims in those nations, making it hard to generalize his findings. Others use large-scale surveys of Muslims within a nation, mainly the United States (Abdelhadi and O’brien 2020), but also in Norway (Bergmann 2017). Such studies are meant to be representative of Muslims in those nations. Developments in survey research for targeting smaller populations have facilitated this type of data collection on Muslims. Since 2016, the Institute for Social Policy and Understanding (ISPU, https://www.ispu.org; (accessed on 10 March 2022)) has been conducting polls of self-identified American Muslims and Jews, but their survey instrument does not ask about attitudes toward Jews.
+
+Although such Muslim-targeted studies uncover variance in attitudes among Muslims, they do not provide a baseline for measuring Muslim antisemitism compared to non-Muslims. Results of Muslim-only studies can be compared to the general population and other surveys only if the design across the studies is identical—that is, the survey instruments are identical, as are the sampling designs (Stegmueller 2011). Muslim-only surveys are best suited for studying Muslim opinion. Direct comparison of Muslims with non-Muslims is facilitated if a general population survey includes enough Muslims for reliable statistical analysis, but most do not have a large enough sample for statistically reliable comparisons.
+
+Two questions motivate this study: (1) How do Muslims compare to non-Muslims regarding levels of antisemitism, and (2) What accounts for variance among Muslims concerning antisemitism? Do factors that moderate or exacerbate antisemitism among non-Muslims have similar effects on Muslims?
+
+This paper uses a new, massive dataset of Americans from the Democracy Fund + UCLA Nationscape Data (hereafter, Nationscape) to address these questions.1 The Nationscape study, with over 500,000 respondents, was fielded from mid-2019 until early 2021. It contains nearly 7500 Muslim respondents,2 about 1.5% of the total sample, yet is a large enough subsample for statistical analysis. Further, the Nationscape data allow direct comparison of Muslims with non-Muslims because the subsample of Muslims is large and representative of Muslims in the U. S.
+
+This paper begins by asking whether American Muslims are more likely to hold antisemitic opinions than non-Muslims. However, this paper goes beyond that question to ask, are the factors that lead to greater antisemitism among American Muslims the same as for non-Muslims? Based on research on antisemitism in public opinion (Cohen 2018a; Smith and Schapiro 2019) and availability of questions on the Nationscape survey instrument, I look at the impact of the factors: birth outside of the U. S., economic distress, age, gender, education, perceptions of discrimination against Muslims, and religiosity. As an example of the analytical approach, existing research finds that antisemitism is more likely among less educated than well-educated individuals. Is it also the case that less educated Muslims are more likely to be antisemitic than more educated Muslims? Details for making such comparisons are provided later in the paper when discussing the specific mediating variables. First, this paper simply compares the degree of antisemitism between Muslims and non-Muslims.
+
+2. American Muslim Attitudes toward Jews
+
+“Research into Muslim anti-Semitism is somewhat underdeveloped”, (Ehsan 2020) (p. 8). In addition to his own research, Ehsan cites only one other study, Staetsky (2017). Both the Ehsan and Staetsky studies look at Muslim attitudes in Great Britain. Regarding American politics, Calfano et al. (2019) remark that the “assessment of Muslim Americans lags other religious and ethnic groups in terms of data and hypothesis testing”. (p. 1). In reviewing the research on European Muslim antisemitism, Bergmann (2017 states, “there exist only a few empirical studies on this issue…”. (p. 212), citing only Jikeli (2015a), who investigates the question with data on France.
+
+There is also little relevant research on Muslim attitudes towards Jews in the U. S. In their review of the public opinion research on American Muslims, Calfano et al. (2019) do not cite one study on the topic of American Muslim antisemitism, nor is the question mentioned as an area for future research. Similarly, in their exhaustive review of the demographic and religious sources of antisemitism, Smith and Schapiro (2019) do not mention being Muslim as a possible factor. The lack of discussion of the “Muslim factor” in Smith and Schapiro is not because of its irrelevance but from the lack of research on this question.
+
+Several reasons account for the limited research on Muslim public opinion in western nations. One is that Muslims constitute a small fraction of the population in most western nations. Reliable statistical analysis of Muslim opinion from a national survey requires a very large sample. For example, in the U. S. with Muslims constituting about 1.5% of the population, a standard national sample of 1500–2000 respondents would have 22–30 Muslim respondents. Rather than trying to sample Muslims in a nationally representative sample of all citizens, scholars have turned to Muslim-only samples. Muslim-only polls are very expensive, which is exacerbated in the U. S., where the government does not collect data on religious affiliation. Few Muslim-only surveys of any quality existed until the Gallup and Pew organizations decided to invest resources for conducting such polls in the early 2000s.
+
+Despite these obstacles, there is some research on the topic of antisemitism in Muslim opinion outside of the MENA region. Staetsky (2017), for example, has investigated variation in Muslim attitudes toward Jews in Great Britain, and Bergmann (2017) reports on a similar study for Norway, while Jikeli (2015a) used data from a 2014 French poll that oversampled Muslims. Generally, surveys of Muslims living in western nations find them to be more negative toward Jews than the population at large. There is also variation in Muslim attitudes toward Jews (Abdelhadi and O’brien 2020; Staetsky 2017). What accounts for this variation? Research has identified several characteristics that are associated with the antisemitic sentiment, which also may account for variation in Muslim attitudes toward Jews. These include integration into western societies, perceptions of discrimination against Muslims, economic distress, education, age, and religiosity (Staetsky 2017).
+
+The Distribution of Muslim Attitudes toward Jews
+
+Nationscape is a nationally representative survey of Americans (See Note 1). The Nationscape survey was sponsored and designed by Democracy Fund Voter Study Group and UCLA political scientists under the direction of Chris Tausanovitch and Lynn Vavreck. Lucid, Inc., the market research firm, conducted the data collection. Lucid, Inc., employed an online interview system, which respondents could access on any device with an internet connection. The survey instrument was designed to be completed in 15 min on average.
+
+The Nationscape study was fielded questions weekly from mid-2019 through January 2021, with over 500,000 respondents, an average of nearly 10,000 per week, making it one of the largest academic data collections of public opinion ever. Although the primary purpose concerned the 2020 presidential election, the study asked numerous questions about other topics, including attitudes toward Jews.
+
+Nationscape has two questions that tap attitudes toward Jews, (1) favorability and (2) perception of discrimination toward Jews.3 The question wordings are:
+
+Favorability: Here are the names of some groups that are in the news from time to time. How favorable is your impression of each group or haven’t you heard enough to say?—Jews. (The response categories are, very favorable, somewhat favorable, somewhat unfavorable, very unfavorable, haven’t heard enough.)
+
+Discrimination: How much discrimination is there in the United States today against each of the following groups?—Jews. (The response categories are, a great deal, a lot, a moderate amount, a little, none at all.)
+
+From these questions, I constructed an antisemitism index by combining responses to these questions using this process. First, the discrimination question was coded so that the more one sees discrimination toward Jews, the more sympathetic toward Jews and, thus, the less antisemitic. Thus, using the response categories, seeing a great deal of discrimination toward Jews is coded five, a lot is coded four, a moderate amount is coded three, a little is coded two, and not seeing discrimination at all is coded one. Second, the “haven’t heard enough” category on the favorability question was set as the midpoint.4 The coding for the response categories is: very favorable (5), somewhat favorable (4), haven’t heard enough (3), somewhat unfavorable (2), and very unfavorable (1). Both questions have five categories, with assigned values from one to five. The two questions are then added together, creating an index that can range from 1–10 but only runs from 2–10. High values indicate positive orientations toward Jews and low values negative orientations.
+
+Paralleling other studies of American attitudes toward Jews (Cohen 2018a; Smith and Schapiro 2019), this antisemitism index suggests Americans are positively disposed toward Jews, with a mean value of 6.93 and over 60% of respondents score seven or higher. (The analysis throughout, including these figures, excludes Jews and is weighted.)
+
+Turning toward our first question: Are Muslims less positive toward Jews than non-Muslims? If so, by how much? And how much do Muslims vary in their attitudes toward Jews? Past research does not help much on these questions because of the paucity of relevant research. Figure 1 plots the distribution of attitudes toward Jews by Muslims and non-Muslims.
+
+Muslims are less positive toward Jews than non-Muslims, but the difference is slight compared to research on Muslim antisemitism. The distributions of Muslims and non-Muslims in Figure 1 resemble each other, although the percentage of Muslims with highly negative attitudes toward Jews is higher than for non-Muslims, and those with highly positive attitudes are smaller.
+
+Yet it is somewhat surprising that so few American Muslims have highly negative attitudes. If we define highly negative as scoring 0–3 on the antisemitism index, then only 8.2% of Muslims are highly negative. The percentage for non-Muslims is a paltry 2.2%. Furthermore, the mean antisemitism index score for Muslims is 6.6 compared to 6.9 for non-Muslims, which is a statistically significant (t = 7.20, p < 0.000) difference. However, we should not put much interpretive weight on tests of statical significance when using such a large sample (over 332,000). A final noteworthy point is the variance in Muslim attitudes toward Jews (Muslim standard deviation = 2.1, non-Muslim standard deviation = 1.7).
+
+These distributions belie stereotypes of Muslims as decidedly anti-Jewish in their attitudes. Similarly, Staetsky (2017) finds that while Muslims in Great Britain are more negative toward Jews than non-Muslims, “Most Muslims, both in general and among the most religious, either reject, or are neutral about each of the individual antisemitic motifs presented to them”, (p. 58) and “Thus broad stigmatisation of all Muslims is neither accurate not helpful—whilst we do find heightened levels of both antisemitic and anti-Israel ideas within the Muslim population, significant proportions of Muslims reject all such prejudice”. (p. 58). In an analysis of Norwegian data, with separate samples of Jews and Muslims, Bergmann (2017) finds that “Muslims reject Jews only a little more frequently (9.1%) than the general population (7.5%)”, (p. 217). Jikeli (2015a) reviews findings from surveys across several European countries from the early 2010s, summarized thusly: “[T]he level of antisemitic attitudes is significantly higher among Muslims than among non-Muslims, although many European Muslims do not share antisemitic beliefs”. (p. 19). Results reported here using the Nationscape data are in line with these other studies: Muslims display higher levels of antisemitism than non-Muslims, but many Muslims harbor little or no negativity toward Jews. What is also critical for this research is that all studies agree that there is heterogeneity in western Muslim attitudes toward Jews.
+
+3. Accounting for Variance in Muslim Attitudes toward Jews
+
+What accounts for the heterogeneity in American Muslim attitudes toward Jews? Based on past research and the availability of pertinent questions in the Nationscape survey, this paper investigates the effects of being foreign born, perceptions of discrimination against Muslims, economic distress, education, age, and gender. Finally, on a subset of the data, I investigate the effects of the importance of religion, which is closely related to the idea of religiosity. These variables are used to address the question of variation in Muslim American attitudes towards Jews, as shown in Figure 1. First, I discuss the logic and past research on how these factors affect antisemitism in general and how they may be applied to Muslims in particular.
+
+A large percentage of Muslims residing in the U. S. are foreign born, which Pew estimates to be approximately 60%.5 It takes time for immigrants to learn and adopt their new country’s mores, norms, and culture (Nesdale and Mak 2000). Foreign-born Muslims in the U. S. tend to come from nations without democratic traditions; thus, they may be less likely to have fully embraced American political norms and culture, such as regard for democratic institutions and practices, including political tolerance. Moreover, the longer a new immigrant lives in their new country, the more likely they will meet and interact with people who differ. From such contact, especially when it is positive, immigrants may become less hostile to other groups. Presumably, many Muslims who immigrated to the U. S. brought with them negative attitudes toward Jews. The guiding hypothesis tested here is that native-born Muslims will be less negative toward Jews than foreign-born Muslims.6
+
+3.2. Perceptions of Discrimination
+
+Research indicates that perceptions of discrimination among group members, especially immigrants, increase group solidarity and identity among group members but also promote positive sentiment toward other groups who also are perceived as discriminated against (Abdelhadi and O’brien 2020; Dawson 2020). Abdelhadi and O’brien (2020) have extended this line of inquiry to U. S. Muslims, using data from 2007, 2011, and 2017 Pew Research Center surveys of American Muslims. They find that perceived discrimination toward Muslims positively affects attitudes toward blacks, homosexuals, Hispanics, and Jews. Nationscape includes a question on perceived discrimination against Muslims, which allows a test of the hypothesis that Muslims who perceive discrimination against Muslims will be less likely to hold anti-Jewish attitudes.
+
+3.3. Economic Distress
+
+Jews have often been scapegoated for various social ills, including the economy (Bilewicz and Krzeminski 2010; Bramoullé and Morault 2021; Gibson and Howard 2007; Glick 2005). Muslims seeing difficulties in the national economy and feeling distressed in their personal economic situation may blame Jews for these problems. Plus, Jews may be handy scapegoats for Muslims who perceive and/or feel poor economic conditions. Due to limitations in the Nationscape questions, I am only able to test the national economic perceptions hypothesis, which states that Muslims who perceive the national economy as being in poor shape will be more likely to hold antisemitic attitudes than those with more positive perceptions of the economy.
+
+Considerable research has found that higher education is associated with lower levels of antisemitism, as well as discriminatory and racists attitudes more generally (Bergmann 1992; Bilewicz et al. 2012; Cohen 2018a, 2018b; Enstad 2021; Greene and Kingsbury 2017; Jikeli 2015a; Kressel and Kressel 2016; Smith and Schapiro 2019; Staetsky 2017; Weil 1985; Winiewski and Bilewicz 2008–2009). Education may affect antisemitic and related attitudes through several mechanisms. First, educational institutions not only teach students academic subjects but also socialize students into societal norms, including those associated with the political system (Campbell 2019; Nie et al. 1996; Niemi and Junn 2005). Education may also broaden the student contacts and social interactions with students of other backgrounds. Positive interactions with people who differ may lead to greater tolerance and respect for people of different backgrounds (Leighley 1990; Weinschenk and Dawes 2021). In several senses, education measures a person’s social and political integration into society. The more integrated, the more likely the individual will adopt and internalize society’s norms and expectations, including those relevant to politics. Thus, I hypothesize that American Muslims with greater education will display lower levels of anti-Jewish sentiment than American Muslims with less education.
+
+Although young people are often found to be less prejudiced than their elders (Gonsalkorale et al. 2009), this generational difference is not always found in research on attitudes toward Jews. Studies generally find less antisemitism among older than younger adults (Cohen 2018a; Martire and Clark 1982; Quinley and Glock 1979; Selznick and Steinberg 1969; Smith and Schapiro 2019), but others disagree (D’Alessio and Stolzenberg 1991).
+
+Several factors may account for why older Americans are less anti-Jewish than younger ones. One may be that the simple age–antisemitic relationship is spurious. Once controlling for other factors, this association may disappear or reverse. Age differences in antisemitic opinion also may be a function of the cohort, aging, and/or period effects. However, it can be hard to disentangle cohort, period, and generational effects (Bartels and Jackman 2014).
+
+Take cohort effects. By this argument, cohorts who came of age prior to the Holocaust should be strongly antisemitic, a function of the social milieu in which they were raised. Even news of the Holocaust might have little effect on their attitudes toward Jews, which were already firmly in place. However, news of the Holocaust may strongly influence attitudes toward Jews among younger individuals who came of age in the 1940s, whose opinions are not as firmly implanted as their elders. However, we may see increases in anti-Jewish sentiment among cohorts who followed, coming of age when the Holocaust is no longer newsworthy but a topic of history. Following this logic, we may see a rise in anti-Jewish attitudes among younger cohorts today, coming of age in an era when criticism of Israel is commonplace and when some may conflate attitudes toward Israel with attitudes toward Jews. Although such logic may apply to non-Muslims as well as Muslims, its effects may be more pronounced among Muslims due to the Israel-Palestinian conflict (Cohen et al. 2009; Cohen et al. 2011; Jikeli 2015a; Lewis 2006; Lipstadt 2019; Rosenfeld 2015; Tausch 2014). Thus, we expect a negative relationship between age and anti-Jewish attitudes, with younger American Muslims more negative toward Jews than older American Muslims.
+
+There is little research on gender and antisemitic attitudes, but research generally finds women less prejudiced than men (Ekehammar et al. 2003; Sidanius and Pratto 2001). Several studies report that women in the U. S. are less antisemitic than men (Cohen 2018a; D’Alessio and Stolzenberg 1991; King and Weiner 2007; Stember et al. 1966). We hypothesize that American Muslim women will also demonstrate lower levels of anti-Jewish sentiment than men. There has been a gender gap in the policy attitudes of men and women in the U. S. dating at least into the early 1980s, with women more liberal than men. Lower levels of prejudice among women, including antisemitism, may be due to the same factors that produced the gender gap more generally (Herek 2002). Many factors have been offered to account for the gender gap, including differences in education and socioeconomic status, and that women are more likely to have felt the effects of discrimination than men, sensitizing them to such issues (Howell and Day 2000). The debate over the sources of the gender gap still exists (Harris and Sen 2019). Here I ask whether there is a gender gap in antisemitism among American Muslims.
+
+Religion has played a large role in antisemitism over the ages. Historically, antisemitism was closely related to Christianity. Jews were blamed for the crucifixion of Jesus, for instance (Pargament et al. 2007; Tausch 2018). In the 19th century, in Europe, antisemitism took on more political overtones and was found on both the right and the left (Cohen 2018b; Rubinstein 2015; Staetsky 2020; Wodak 2018). This European political antisemitism coexisted alongside religious antisemitism for much of the 19th and 20th centuries. In the late 20th and early 21st centuries, however, Christian antisemitism faded considerably, which may be one factor leading to the decline of anti-Jewish sentiment in western publics. To some degree, Christian antisemitism in the west has been replaced by Muslim antisemitism. The sparse public opinion research on religion and antisemitism finds that the more religious an individual is, the more likely the person will hold antisemitic attitudes (Tausch 2018). Insofar as Islam has become more doctrinairely antisemitic (Bostom 2011; Kressel 2012; Silva 2017), we may also hypothesize that more religious Muslims in the U. S. will more likely hold antisemitic attitudes than less religious Muslims.
+
+The following questions from the Nationscape study are used to measure the independent variables discussed above: foreign born, perceptions of Muslim discrimination, economic distress, education, age, gender, and religiosity. Foreign born is a dummy variable, coded “1” if respondents answer they were born in another country, and “0” if born in the U. S. The Muslim discrimination question uses the same wording as the Jewish discrimination question:
+
+Discrimination: How much discrimination is there in the United States today against each of the following groups?—Muslims. (Jikeli 2015a a moderate amount (3), a little (2), none at all (1).)
+
+Economic distress is measured with the following question, with value codes in parentheses: Would you say that as compared to one year ago, the nation’s economy is now better (3), about the same (2), or worse (1)?
+
+Education is measured using an 11-point scale, asking the respondent the highest level of education reached, with category values in parentheses: Third Grade or less (1), Middle School—Grades 4–8 (2), Completed some high school (3), High school graduate (4), Other post-high-school vocational training (5), Completed some college, but no degree (6), Associate Degree (7), College Degree, such as B.A., B.S. (8), Completed some graduate, but no degree (9), Master’s degree (10), Doctorate degree (11).
+
+To measure age, Nationscape asked respondents: What is your age? The age variable takes on values in years from 18 to 99. Gender is measured with a dummy variable, coded “1” for female and “0” for male.
+
+The analysis also uses several control variables that past research has found to be associated with attitudes toward Jews: white, black, Hispanic, Party Identification, Ideological Self-placement, and being an Evangelical. White, black, and Hispanic are measured as dummy variables, coded “1” if the respondent identifies with that racial/ethnic category and “0” otherwise. White and black come from a question asking respondents their race. Hispanic is based on this question: Are you of Hispanic, Latino, or Spanish origin? Party Identification uses the familiar 7-point scale from Strong Democrat, coded “1”, through Strong Republican, coded “7”. Ideological self-placement asks respondents to locate their political viewpoint on a 5-point scale: Very Liberal (1), Liberal (2), Moderate (3), Conservative (4), Very Conservative (5). To preserve cases, those who answered Not Sure” were classified as Moderates. Evangelical is measured with a dummy variable based on this question: Would you describe yourself as a born-again or evangelical Christian, or not?
+
+Religiosity is not asked across all Nationscape waves. For approximately 36,000 respondents, Nationscape asked about the importance of religious beliefs to their identity, with the following response categories: Very Important (4), Somewhat Important (3), Not Too Important (2), and Not at all Important (1).
+
+The analysis proceeds in several steps. First, using Ordinary Least Squares (OLS), the independent variables are regressed on the antisemitism index, the dependent variable. This analysis is conducted to ask how much does being Muslim explain antisemitic attitudes once controlling for the effects of the other variables. In other words, is the difference in Muslim and non-Muslim antisemitism a function of the other variables, such as education and being foreign born? Does knowing that someone is a Muslim add to the explanation for the sources of antisemitism?
+
+The second step involves interacting the Muslim dummy variable with the variables that the discussion above suggested my affect variable Muslim antisemitic sentiment: foreign born, perceptions of Muslim discrimination, economic distress, education, age, and gender. Since the religiosity question is asked only of a subset of respondents, a separate analysis tests for its effects. That analysis uses all the variables from the larger n analysis but adds the religiosity question and its interaction with the Muslim dummy variable.
+
+Interaction analysis can be viewed as a type of subgroup analysis.7 If Muslim versus non-Muslim is a group comparison, then a subgroup analysis would be comparing high educated Muslims with low educated Muslims. The interaction analysis allows another type of subgroup analysis. Continuing with the educational example, we can compare the antisemitism levels of highly educated Muslims with highly educated non-Muslims. Since it is difficult to interpret interaction effects from regression results that statistical packages produce, marginal effect plots are presented. Marginal effects estimate the effects of an independent variable, for instance, being a Muslim, for different levels of another independent variable, such as high, medium, or low education on the level of the dependent variable, antisemitism. These estimates are plotted in graphs below, and the text provides basic comparisons.
+
+Table 1 presents the analysis, with Models 1 and 2 using the full dataset and Models 3 and 4 restricted to data using the importance of religion question. Models 1 and 3 present results without the interactions, while Models 2 and 4 are for the interaction models.
+
+With such large n’s, tests of statistical significance are not relevant except when a variable fails to reach conventional levels (p < 0.05). For Model 1, female, black, and Hispanic do not attain that level. Muslims, foreign born, and Republican party identification all suggest greater negativity toward Jews, while perceptions of discrimination against Muslims, positive assessments of the economy, higher education, greater age, being white, ideological conservatism, and being an evangelical all suggest more positive attitudes toward Jews.
+
+The Muslim effect is most relevant here. Being a Muslim is associated with nearly a 0.5 step decrease in positive attitudes toward Jews compared to being a non-Muslim. With all variables held at their means, Muslims score 6.45 on the 10-point antisemitism index compared to 6.93 for non-Muslims. Although this is a noticeable difference, perhaps as important is that Muslims, on average, are more likely to view Jews positively than negatively.
+
+Model 2 on Table 1 presents results of the interaction effects. As it is difficult to interpret regression coefficients in interaction models, I turn to marginal effects graphs, which are presented on Figure 2.
+
+Panel 2A graphs the impact of being foreign born on Muslims and non-Muslims. The horizontal axis on the graph is for foreign born versus non-foreign-born. The vertical axis, with numbers running from 5 through 8, is the level of antisemitism on the index, which can range from 1 to 10. There are two lines, one with circles for non-Muslims and the other with diamonds for Muslims. The other graphs can be read similarly, except that the horizontal variable changes.
+
+The plot shows that both foreign-born respondents’ attitudes toward Jews are less positive than non-foreign born (native-born) respondents, with similar slopes (the angle of the lines) for Muslims and non-Muslims. For non-Muslims, the predicted antisemitism scale score is 7.0 for non-foreign born and 6.8 for foreign born, with all other variables held at their means, a difference of 0.2. Non-foreign-born Muslims have a 6.5 scale score compared to 6.0 for foreign-born Muslims, which is substantively significant, indicating that Muslims who immigrated to the U. S. may be importing their home-nation antisemitism with them. Since Nationscape did not ask about the length of residence in the U. S., we cannot estimate whether longer residence changes attitudes toward Jews and, if so, how fast such changes may occur. Yet for both foreign and native-born respondents, Muslim scores are lower than that of non-Muslims, but these differences are not great, and even foreign-born Muslims appear on average more positive than negative toward Jews.
+
+Panel 2B plots the effects of perceived discrimination against Muslims on attitudes toward Jews. For both Muslims and non-Muslims, individuals who perceive greater discrimination against Muslims hold more positive attitudes toward Jews. The slope is especially pronounced for non-Muslims. However, it is also steep for Muslims, suggestive of the out-group solidarity effect (Abdelhadi and O’brien 2020). Non-Muslims who perceive a great deal of discrimination against Muslims score 7.8 on the antisemitism scale compared to 5.4 for those who see no discrimination against Muslims. Muslims who perceive a great deal of discrimination against themselves score 6.9 on the antisemitism scale, whereas those perceiving no such discrimination score 5.4. Muslims who perceive discrimination against Muslims are more positive toward Jews by quite a lot compared to Muslims who do not see much discrimination against Muslims.
+
+Panel 2C shops the plot of the impact of economic retrospections for Muslims and non-Muslims. There is essentially no effect of economic retrospective for non-Muslims. Those who perceive the economy as worse than the prior year score 6.9 on the antisemitism scale compared to 7.0, who see the economy as better than a year ago. However, for Muslims, those who see the economy as having worsened score 6.2 compared to 6.8 for those who see the economy as having improved. For Muslims, there is an economic perceptions effect consistent with the scapegoating hypothesis, but no economic scapegoating effect for non-Muslims.
+
+Panel 2D plots the impact of education on attitudes toward Jews for Muslims and non-Muslims. There is a weak to modest educational effect for non-Muslims, with the least educated scoring 6.7 and the most educated 7.1. The score for the least educated Muslims is 6.0 and 6.8 for the most highly educated Muslims, a substantively meaningful effect. Education has a pronounced effect on attitudes toward Jews for Muslims and a weaker but still noticeable effect for non-Muslims.
+
+Panel 2E plots the effects of age on antisemitism, revealing among the most dramatic differences between Muslims and non-Muslims yet reported. As found so often, older Americans, who are not Muslim, are more positive toward Jews than young adults. A ninety-year-old scores 7.3 on the antisemitism scale while a 20-year-old scores 6.6, a substantively consequential effect, although both young and old non-Muslims have positive attitudes toward Jews. However, the relationship reverses for Muslims, with older Muslims more negative toward Jews than younger Muslims. A ninety-year-old Muslim scores 6.0 compared to 6.7 for a 20-year-old Muslim, again a relatively strong effect. One explanation for this Muslim-age effect is that younger Muslims, controlling for other factors, are more socially integrated into U. S. society than older Muslims.
+
+Finally, panel 2F plots the effects of gender. No gender effect is observed for non-Muslims. Both men and women score 6.9 on the antisemitism index. A slight effect is found for Muslims, with women slightly more philosemitic than men, 6.5 versus 6.3.
+
+The “importance of religion” question is only asked of a subset of the Nationscape respondents. Results of that estimation, which still has a large n of over 29,000, are reported on the rightmost columns in Table 1. The direct effect of religion’s importance is slightly positive, with a regression coefficient of 0.12. A respondent for whom religion is most important will be nearly 0.5 steps on the 10-point scale more philosemitic than an individual for whom religion is not important. However, it is the interaction with being Muslim that most concerns us here.
+
+Figure 3 plots the impact of religion’s importance on Muslims and non-Muslims. The slopes for Muslims and non-Muslims trend in different directions, with more religious non-Muslims being less antisemitic than less religious non-Muslims, but the reverse is the case for Muslims. Holding all variables at their means, the most religious non-Muslim scores 7.1 on the antisemitism scale compared to 6.7 for the least religious non-Muslim, a modest effect. For Muslims, in contrast, the most religious score was 6.7 while the least religious was 7.0, a mild effect. Although the signs for religion’s importance for Muslims and non-Muslims point in the expected directions, the overall effect of religiosity for both is slight.
+
+Muslims are often charged with being a major source of the increase in violence against Jews and for the rise of the new antisemitism, which conflates antagonism to Israel and its policies with Jews no matter where they live. Such a portrait implies homogeneity in behaviors and attitudes of Muslims toward Jews. This paper argues that Muslims are more diverse and heterogeneous than this portrait. Muslims live throughout the world, not only in the Middle East and North Africa (MENA). There are differences in the cultures and historical experiences of southeastern European and central and southern African Muslims from those who live in the MENA region.
+
+This paper inspected the attitudes of Muslims toward Jews in one western nation, the United States. The small population percentage of Muslims living in the west has hampered studying them with traditional survey methods, but advances in survey methodology and data collection have allowed building large n nationally representative datasets with enough Muslim respondents for statistical analysis. Having Muslims and non-Muslims in the same survey facilitates direct comparison, especially among subgroups of Muslims and non-Muslims, as performed with the interactive analysis employed here. This paper utilizes the massive Nationscape poll of voters in 2020 and early 2021, which includes several thousand Muslim respondents.
+
+Findings are instructive. In contrast to the portrait of Muslims as overwhelmingly antisemitic, in the U. S., while Muslims are less positive toward Jews than non-Muslims, on average, they lean positive. There is also variation in U. S. Muslim attitudes toward Jews ranging from highly antisemitic to philosemitic. Analysis of this variation in Muslim attitudes toward Jews finds some similarities and differences with non-Muslims’ attitudes. Education, being foreign born, and perceiving discrimination toward Muslims similarly affects Muslim and non-Muslim attitudes toward Jews. Similarly, gender hardly affects Muslim and non-Muslim attitudes toward Jews. Results also indicate that while there is no economic scapegoating among non-Muslims, Muslims who perceive economic problems for the nation are more negative toward Jews than those with a more positive economic outlook.
+
+For two factors, however, results reveal divergence in effects on Muslims and non-Muslims. Where older age is associated with greater positivity among non-Muslims toward Jews, older Muslim hold more negative attitudes toward Jews than young Muslims. Plus, where the importance of religion leads to a positive disposition toward Jews among non-Muslims, it leads to negative attitudes among Muslims.
+
+Results here, while illuminating, leave some questions unanswered. First, only the crude distinction between foreign and native-born was possible due to the Nationscape survey protocol. It would be useful to have data on the length of residence for foreign-born Muslims to assess the speed of acculturation in a nation, the U. S., with a democratic heritage and norm of religious tolerance. Furthermore, it would be useful to have data on the nation of origin. Research indicates that the civic culture and other attitudes persist for a long time among immigrants to the U. S. (Rice and Feldman 1997). Second, there are blacks Muslims who are not recent immigrants from Africa but are native-born in the U. S. (Lincoln 1994). They have distinct political orientations from other Muslims in the U. S., often associated with the Black Power movement that began in the 1960s. Finally, there are differences within the Muslim religion, most notably the Shiite and Sunni sects. The Nationscape protocol did not probe whether U. S. Muslims belonged to one or the other.
+
+Also, with regard to the Muslim-Jews relations, such as for Muslims, there are a large number of Jewish respondents in the Nationscape study, which opens the possibility of comparing Muslim and Jewish perceptions and attitudes toward the other group, something rarely performed (Bergmann 2017).
+
+Finally, with data such as these used here, Muslims and non-Muslims can be compared on attitudes and behaviors apart from orientations toward Jews, such as political leanings and issue preferences. The large n of the Nationscape study offers the potential for making more refined group distinctions than just Muslim and non-Muslim. Similar large-scale surveys, which can now be conducted at a reasonable cost, open the possibility of investigating a host of questions not possible with traditional polls of 1500–2000 respondents.
+
+There are larger implications of this study and its results. Some fear that the influx of Muslim immigrants to the U. S. and other nations also imports their home-nation antisemitism (Feldman 2018). This may not be as big of fear as some express. There are other forces at work that may moderate, perhaps even change, the anti-Jewish attitudes of Muslim immigrants. First, the Muslim community in the U. S. by and large, is not antisemitic. Interaction of recent immigrants with the larger Muslim community, as well as the larger society and polity, may socialize them into greater tolerance of others, including Jews. Further, as recent immigrants become more economically secure and educated, the data here suggest that their antisemitism should moderate as well. This is not to argue that we should not be vigilant about addressing issues such as antisemitism and the like, but we should recognize both that American Muslims are not decidedly antisemitic and there is a great degree of heterogeneity in American Muslim attitudes toward Jews.
+
+I received no external funding in performing this research. Nationscape was funded by Democracy Fund, The Klarman Family Foundation, and UCLA with additional support from the Marvin Hoffenberg Chair in American Politics and Public Policy at UCLA through a partnership agreement between these parties.
+
+Institutional Review Board Statement
+
+Informed Consent Statement
+
+Data Availability Statement
+
+Complete data can be accessed at https://www.voterstudygroup.org/data/nationscape; (accessed on 1 March 2022). Upon publication, I will post the subset of that date used here along with STATA code to replicate the analysis on the Dataverse page, https://dataverse.harvard.edu/; (accessed on1 March 2022), under my name.
+
+Conflicts of Interest
+
+The author declares no conflict of interest.
+
+Democracy Fund + UCLA Nationscape, https://www.voterstudygroup.org/nationscape; (accessed on12 February 2022).
+
+This is with the application of sampling weights. The raw number of Muslims is 6200.
+
+These questions are also used on a host of other groups and political personalities, so Jews are not singled out.
+
+Approximately 21% of respondents answered, “haven’t heard enough”.
+
+https://www.pewforum.org/2017/07/26/demographic-portrait-of-muslim-americans/; (accessed on 8 February 2022)
+
+Other related hypotheses, such as contact with Jews, length of residence in the U. S. of foreign born Muslims, cannot be tested because Nationscape did not ask relevant questions.
+
+Mathematically interaction adds a multiplicative composed of the two variables. For instance, we add Education x Muslim to the equation for estimation.
+
+Abdelhadi, Eman, and John O’brien. 2020. Perceived Group Deprivation and Intergroup Solidarity: Muslims’ Attitudes towards Other Minorities in the United States. Religions 11: 604. [Google Scholar] [CrossRef]
+
+Bartels, Larry M., and Simon Jackman. 2014. A generational model of political learning. Electoral Studies 33: 7–18. [Google Scholar] [CrossRef]
+
+Berggren, Niclas, and Therese Nilsson. 2021. Economic freedom and antisemitism. Journal of Institutional Economics 17: 289–304. [Google Scholar] [CrossRef]
+
+Bergmann, Werner. 1992. Psychological and sociological theories of antisemitism. Patterns of Prejudice 26: 37–47. [Google Scholar] [CrossRef]
+
+Bergmann, Werner. 2017. How Do Jews and Muslims in Nothank you.rway Perceive Eacsh Other? In The Shifting Boundaries of Prejudice: Antisemitism and Islamophobia in Contemporary Norway. Edited by Christhard Hoffmann and Vibeke Moe. Oslo: Scandinavian University Press, pp. 211–53. [Google Scholar]
+
+Beyer, Heiko. 2019. The Globalization of Resentment: Antisemitism in an Inter-and Transnational Context. Social Science Quarterly 100: 1503–22. [Google Scholar] [CrossRef]
+
+Bilewicz, Michal, and Ireneusz Krzeminski. 2010. Anti-Semitism in Poland and Ukraine: The belief in Jewish control as a mechanism of scapegoating. International Journal of Conflict and Violence 4: 235–43. [Google Scholar]
+
+Bilewicz, Michal, Mikołaj Winiewski, and Zuzanna Radzik. 2012. Antisemitism in Poland: Economic, Religious, and Historical Aspects. Journal for the Study of Antisemitism 4: 2801–20. [Google Scholar]
+
+Bostom, Andrew G. 2011. Legacy of Islamic Antisemitism: From Sacred Texts to Solemn History. Buffalo: Prometheus Books. [Google Scholar]
+
+Bramoullé, Yann, and Pauline Morault. 2021. Violence against Rich Ethnic Minorities: A Theory of Instrumental Scapegoating. Economica 88: 724–54. [Google Scholar] [CrossRef]
+
+Calfano, Brian Robert, Nazita Lajevardi, and Melissa R. Michelson. 2019. Trumped up challenges: Limitations, opportunities, and the future of political research on Muslim Americans. Politics, Groups, and Identities 7: 477–87. [Google Scholar] [CrossRef]
+
+Campbell, David E. 2019. What social scientists have learned about civic education: A review of the literature. Peabody Journal of Education 94: 32–47. [Google Scholar] [CrossRef]
+
+Cohen, Florette, Lee Jussim, Kent D. Harber, and Gautam Bhasin. 2009. Modern anti-Semitism and anti-Israeli attitudes. Journal of Personality and Social Psychology 97: 290–306. [Google Scholar] [CrossRef] [PubMed]
+
+Cohen, Florette, Jussim Lee, Gautam Bhasin, and Elizabeth Salib. 2011. The modern antisemitism israel model an empirical relationship between modern antisemitism and opposition to israel. Conflict Communication 10: 1–16. [Google Scholar]
+
+Cohen, Jeffrey E. 2018a. From Antisemitism to Philosemitism? Trends in American Attitudes toward Jews from 1964 to 2016. Religions 9: 107. [Google Scholar] [CrossRef] [Green Version]
+
+Cohen, Jeffrey E. 2018b. Left, Right, and Antisemitism in European Public Opinion. Politics and Religion Journal 12: 341–71. [Google Scholar] [CrossRef]
+
+D’Alessio, Stewart J., and Lisa Stolzenberg. 1991. Anti-Semitism in America: The Dynamics of Prejudice. Sociological Inquiry 61: 359–66. [Google Scholar] [CrossRef]
+
+Dawson, Michael C. 2020. Behind the Mule. Princeton: Princeton University Press. [Google Scholar]
+
+Ehsan, Rakib. 2020. Muslim Anti-Semitism in Contemporary Great-Britain. London: The Henry Jackson Society. [Google Scholar]
+
+Ekehammar, Bo, Nazar Akrami, and Tadesse Araya. 2003. Gender differences in implicit prejudice. Personality and Individual Differences 34: 1509–23. [Google Scholar] [CrossRef]
+
+Enstad, Johannes D. 2021. Contemporary Antisemitism in Three Dimensions: A New Framework for Analysis. SocArXiv, April 28. [Google Scholar]
+
+Feldman, David. 2018. Antisemitism and Immigration in Western Europe Today. Is there a CONNECTION? Findings and Recommendations from a Five-Nation Study. Berlin: Stiftung EVZ. [Google Scholar]
+
+Gibson, James L., and Marc Morjé Howard. 2007. Russian anti-Semitism and the scapegoating of Jews. British Journal of Political Science 37: 193–223. [Google Scholar] [CrossRef]
+
+Glick, Peter. 2005. Choice of scapegoats. In On the Nature of Prejudice: Fifty Years after Allport. Edited by Peter Glick, John F. Dovidio and Laurie A. Rudman. Oxford: Blackwell, pp. 244–61. [Google Scholar]
+
+Gonsalkorale, Karen, Jeffrey W. Sherman, and Karl Christoph Klauer. 2009. Aging and prejudice: Diminished regulation of automatic race bias among older adults. Journal of Experimental Social Psychology 45: 410–14. [Google Scholar] [CrossRef]
+
+Greene, Jay P., and Ian Kingsbury. 2017. The relationship between public and private schooling and antisemitism. Journal of School Choice 11: 111–30. [Google Scholar] [CrossRef]
+
+Harris, Allison P., and Maya Sen. 2019. Bias and judging. Annual Review of Political Science 22: 241–59. [Google Scholar] [CrossRef] [Green Version]
+
+Herek, Gregory M. 2002. Gender gaps in public opinion about lesbians and gay men. Public Opinion Quarterly 66: 40–66. [Google Scholar] [CrossRef]
+
+Howell, Susan E., and Christine L. Day. 2000. Complexities of the gender gap. Journal of Politics 62: 858–74. [Google Scholar] [CrossRef]
+
+Jikeli, Günther. 2015a. Antisemitic Attitudes among Muslims in Europe: A Survey Review. New York: Institute for the Study of Global Antisemitism and Policy. [Google Scholar]
+
+Jikeli, Günther. 2015b. European Muslim Antisemitism: Why Young Urban Males Say They Don’t Like Jews. Bloomington: Indiana University Press. [Google Scholar]
+
+King, Ryan D., and Melissa F. Weiner. 2007. Group Position, Collective Threat, and American Anti-Semitism. Social Problems 54: 47–77. [Google Scholar] [CrossRef] [Green Version]
+
+Kressel, Neil J. 2012. “The Sons of Pigs and Apes”: Muslim Antisemitism and the Conspiracy of Silence. Washington, DC: Potomac Books, Inc. [Google Scholar]
+
+Kressel, Neil J., and Samuel W. Kressel. 2016. Trends in the Psychological Study of Contemporary Antisemitism: Conceptual Issues and Empirical Evidence. Basic and Applied Social Psychology 38: 111–26. [Google Scholar] [CrossRef]
+
+Leighley, Jan E. 1990. Social interaction and contextual influences on political participation. American Politics Quarterly 18: 459–75. [Google Scholar] [CrossRef]
+
+Lewis, Bernard. 2006. The new anti-semitism. The American Scholar 75: 25–36. [Google Scholar]
+
+Lincoln, Charles Eric. 1994. The Black Muslims in America. Grand Rapids: Wm. B. Eerdmans Publishing. [Google Scholar]
+
+Lipstadt, Deborah E. 2019. Antisemitism: Here and Now. New York: Schocken. [Google Scholar]
+
+Martire, Gregory, and Ruth V. Clark. 1982. Anti-Semitism in the United States: A Study of Prejudice in the 1980s. New York: Praeger Publishers. [Google Scholar]
+
+Nesdale, Drew, and Anita S. Mak. 2000. Immigrant acculturation attitudes and host country identification. Journal of Community & Applied Social Psychology 10: 483–95. [Google Scholar]
+
+Nie, Norman H., Jane Junn, and Kenneth Stehlik-Barry. 1996. Education and Democratic Citizenship in America. Chicago: University of Chicago Press. [Google Scholar]
+
+Niemi, Richard G., and Jane Junn. 2005. Civic Education: What Makes Students Learn. New Haven: Yale University Press. [Google Scholar]
+
+Pargament, Kenneth I., Kelly Trevino, Annette Mahoney, and Israela Silberman. 2007. They Killed Our Lord: The Perception of Jews as Desecrators of Christianity as a Predictor of Anti-Semitism. Journal for the Scientific Study of Religion 46: 143–58. [Google Scholar] [CrossRef]
+
+Quinley, Harold Earl, and Charles Young Glock. 1979. Anti-Semitism in America. New Brunswick: Transaction Publishers. [Google Scholar]
+
+Rice, Tom W., and Jan L. Feldman. 1997. Civic culture and democracy from Europe to America. The Journal of Politics 59: 1143–72. [Google Scholar] [CrossRef]
+
+Rosenfeld, Alvin H., ed. 2015. Deciphering the New Antisemitism. Bloomington: Indiana University Press. [Google Scholar]
+
+Rubinstein, William D. 2015. The Left, the Right and the Jews. New York: Routledge. [Google Scholar]
+
+Selznick, Gertrude J., and Stephen Steinberg. 1969. The Tenacity of Prejudice: Anti-Semitism in Contemporary America. New York: Harper and Row. [Google Scholar]
+
+Sidanius, Jim, and Felicia Pratto. 2001. Social Dominance: An Intergroup Theory of Social Hierarchy and Oppression. New York: Cambridge University Press. [Google Scholar]
+
+Silva, Mario. 2017. Antisemitism and the Global Jihad. In Terrorism Revisited: Islamism, Political Violence and State-Sponsorship. Edited by Paulo Casaca and Siegfried O. Wolf. Cham: Springer, pp. 157–79. [Google Scholar]
+
+Smith, Tom W., and Benjamin Schapiro. 2019. Antisemitism in contemporary America. In American Jewish Year Book 2018. Edited by Arnold Dashefsky and Ira M. Sheskin. New York: Springer, pp. 113–61. [Google Scholar]
+
+Solomon, Hussein, and Arno Tausch. 2020. Islamism, Crisis and Democratization: Implications of the World Values Survey for the Muslim World. New York: Springer. [Google Scholar]
+
+Staetsky, L. Daniel. 2017. Antisemitism in Contemporary Great Britain: A Study of Attitudes towards Jews and Israel. London: Institute for Jewish Policy Research. [Google Scholar]
+
+Staetsky, L. Daniel. 2020. The Left, the Right, Christians, Muslims and Detractors of Israel: Who is Antisemitic in Great Britain in the Early 21st Century? Contemporary Jewry 40: 259–92. [Google Scholar] [CrossRef]
+
+Stegmueller, Daniel. 2011. Apples and oranges? The problem of equivalence in comparative research. Political Analysis 19: 471–87. [Google Scholar] [CrossRef] [Green Version]
+
+Stember, Charles Herbert, Marshall Sklare, and George Salomon. 1966. Jews in the Mind of America. New York: Basic Books. [Google Scholar]
+
+Tausch, Arno. 2014. The New Global Antisemitism: Implications from the 100 Data. Middle East Review of International Affairs 18: 46–72. [Google Scholar]
+
+Tausch, Arno. 2016. Islamism and Antisemitism. Preliminary evidence on their relationship from cross-national opinion data. Journal of Globalization Studies 7: 137–70. [Google Scholar]
+
+Tausch, Arno. 2018. The Effects of ‘Nostra Aetate:’Comparative Analyses of Catholic Antisemitism More Than Five Decades after the Second Vatican Council. Jewish Political Studies Review 28: 7–17. [Google Scholar] [CrossRef]
+
+Weil, Frederick D. 1985. The variable effects of education on liberal attitudes: A comparative-historical analysis of anti-semitism using public opinion survey data. American Sociological Review 50: 458–74. [Google Scholar] [CrossRef]
+
+Weinschenk, Aaron C., and Christopher T. Dawes. 2021. Civic Education in High School and Voter Turnout in Adulthood. British Journal of Political Science 52: 934–48. [Google Scholar] [CrossRef]
+
+Winiewski, Mikołaj, and Michał Bilewicz. 2008–2009. Are surveys and opinion polls always a valid tool to assess antisemitism? Methodological considerations. In CEU Jewish Studies Yearbook. Edited by András Kovács and Michael L. Miller. Budapest: Central European University, pp. 83–99. [Google Scholar]
+
+Wodak, Ruth. 2018. The Radical Right and Antisemitism. In The Oxford Handbook of the Radical Right. Edited by Jens Rydgren. New York: Oxford University Press, pp. 61–85. [Google Scholar]
+
+Figure 1. Antisemitism Index by Muslim vs. Non-Muslim. Source: Nationscape, as calculated by the author. See text for details.
+
+Figure 1. Antisemitism Index by Muslim vs. Non-Muslim. Source: Nationscape, as calculated by the author. See text for details.
+
+Figure 2. Factors Affecting Variation in Muslim Attitudes toward Jews. Source: Nationscape, based on results from Table 1, Model 2. Each cell represents the impact of a specific variable on the Antisemitism Index. The left axis indicates the predicted Antisemitism Index score based on each variable’s values, with all other variables held at their means. The lines (slopes) with the black circles are the regression lines for non-Muslims, and the lines with the black diamonds are for Muslims.
+
+Figure 2. Factors Affecting Variation in Muslim Attitudes toward Jews. Source: Nationscape, based on results from Table 1, Model 2. Each cell represents the impact of a specific variable on the Antisemitism Index. The left axis indicates the predicted Antisemitism Index score based on each variable’s values, with all other variables held at their means. The lines (slopes) with the black circles are the regression lines for non-Muslims, and the lines with the black diamonds are for Muslims.
+
+Figure 3. Importance of Religion and Attitudes toward Jews for Muslims and Non-Muslims. Source: Nationscape, based on results from Table 1, Model 4. The line with the circle represents the predicted regression effects for non-Muslims and the line with the black triangle is for Muslims. The right vertical axis is the predicted Antisemitism Index score.
+
+Figure 3. Importance of Religion and Attitudes toward Jews for Muslims and Non-Muslims. Source: Nationscape, based on results from Table 1, Model 4. The line with the circle represents the predicted regression effects for non-Muslims and the line with the black triangle is for Muslims. The right vertical axis is the predicted Antisemitism Index score.
+
+Table 1. Sources of Variation in American Muslim Attitudes toward Jews.
+
+Table 1. Sources of Variation in American Muslim Attitudes toward Jews.
+
+Discrimination Against Muslims
+
+Economic Retrospections
+
+Importance of Religion
+
+Importance of Religion
+
+Discrimination Against Muslims
+
+Economic Retrospections
+
+Party Identification
+
+Ideological Identification
+
+Robust standard errors in parentheses, * p < 0.05, one-tailed test.
+
+Publisher’s Note: MDPI stays neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+© 2022 by the author. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https://creativecommons.org/licenses/by/4.0/).
+
+Cohen, J.E. American Muslim Attitudes toward Jews. Religions 2022, 13, 441. https://doi.org/10.3390/rel13050441
+
+Cohen JE. American Muslim Attitudes toward Jews. Religions. 2022; 13(5):441. https://doi.org/10.3390/rel13050441 Chicago/Turabian Style
+
+Cohen, Jeffrey E. 2022. "American Muslim Attitudes toward Jews" Religions 13, no. 5: 441. https://doi.org/10.3390/rel13050441
+
+Note that from the first issue of 2016, this journal uses article numbers instead of page numbers. See further details here.
+
+Article Access Statistics
+
+For more information on the journal statistics, click here.
+
+Multiple requests from the same IP address are counted as one view.
+
+Zoom | Orient | As Lines | As Sticks | As Cartoon | As Surface | Previous Scene | Next Scene
+
+Export citation file: BibTeX | EndNote | RIS
+
+Cohen, J.E. American Muslim Attitudes toward Jews. Religions 2022, 13, 441. https://doi.org/10.3390/rel13050441
+
+Cohen JE. American Muslim Attitudes toward Jews. Religions. 2022; 13(5):441. https://doi.org/10.3390/rel13050441 Chicago/Turabian Style
+
+Cohen, Jeffrey E. 2022. "American Muslim Attitudes toward Jews" Religions 13, no. 5: 441. https://doi.org/10.3390/rel13050441
+
+Note that from the first issue of 2016, this journal uses article numbers instead of page numbers. See further details here. clear
+
+Religions, EISSN 2077-1444, Published by MDPI
+
+RSS Content Alert Logo copyright Steve Bridenbaugh/UUA
+
+Further Information Article Processing Charges Pay an Invoice Open Access Policy Contact MDPI Jobs at MDPI
+
+Guidelines For Authors For Reviewers For Editors For Librarians For Publishers For Societies For Conference Organizers
+
+MDPI Initiatives Sciforum MDPI Books Preprints.org Scilit SciProfiles Encyclopedia JAMS Proceedings Series
+
+Follow MDPI LinkedIn Facebook Twitter
+
+© 1996-2024 MDPI (Basel, Switzerland) unless otherwise stated
+
+Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to people or property resulting from any ideas, methods, instructions or products referred to in the content. Terms and Conditions Privacy Policy
+
+We use cookies on our website to ensure you get the best experience. Read more about our cookies here.
+
+clear Back to TopTop

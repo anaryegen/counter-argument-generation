@@ -1,0 +1,501 @@
+Life Span Extension Research and Public Debate: Societal Considerations
+
+Studies in Ethics, Law, and Technology 1(1)
+
+DOI:10.2202/1941-6008.1011
+
+Request full-text PDF
+
+To read the full-text of this research, you can request a copy directly from the author.
+
+Copy link Link copied
+
+Copy link Link copied
+
+To read the full-text of this research, you can request a copy directly from the author.
+
+The pace of a given strand of scientific research, whether purely curiosity-driven or motivated by a particular technological goal, is strongly influenced by public attitudes towards its value. In the case of research directed to the radical postponement of aging and the consequent extension of healthy and total lifespans, public opinion is entrenched in a "pro-aging trance" - a state of resolute irrationality. This arises from the entirely rational attitude to a grisly, inevitable and relatively far-off fate: putting it out of one's mind allows one to make the most of what time one has, free of preoccupation with one's demise, and it is immaterial how irrational the arguments that one uses to achieve this are, e.g. by persuading oneself that aging is not such a bad thing after all. As biotechnology increasingly nears the point where aging will no longer be inevitable, however, this studied fatalism has become a core part of the problem, making people reluctant to join the crusade to hasten that technology's arrival. An effective way to address this hesitation is to promote debate about the reasons people give for fearing the defeat of aging, most of which are sociological. Such debate exposes people to the glaring flaws in their own logic. Thus, the more the debate is sustained and promoted, the harder it is for those flaws to be ignored.
+
+Discover the world's research
+
+160+ million publication pages
+
+2.3+ billion citationsJoin for free
+
+No full-text available
+
+To read the full-text of this research, you can request a copy directly from the author.
+
+Request full-text PDF
+
+... At the same time, it has become painfully evident that not all of the gained extra years are healthy: estimates have shown that the proportion of life characterised by good health has remained rather constant between 1990 and 2019 [17], implying that most of the life years gained is lived largely in poor health [12]. As pointed by Olshansky [18], this leads to a situation where a significant portion of lifespan is lived during a window of exponentially increasing risk of frailty and chronic disability, with the simultaneous manifestation of many chronic conditions as late life comorbidities [16,19,
+
+20]. Therefore, there is an increasing understanding of the importance of so called "healthy ageing" 3 [21,25] and an unprecedented advance in the research that focuses on the biology of ageing [9,11,26,27]. ...
+
+... Currently there are several biological -epigenetic -"clocks" available that are based on DNA-methylation (DNAm) profiles 19 ; these are (i) DNAm age clock [185], (ii) DNAm age H [186], (iii) DNAm PhenoAge [102], and (iv) GimAge or DNAm age G [187]. Although it is well known that the ageing process exhibits a tissuespecific signature [188,189], and DNA methylation patterns are distinct between tissue and cell types [190], epigenetic clocks encompass pan-tissue ageing changes and all of them do not perform optimally in human brain tissue
+
+20 [190] (see also [195]) and also brain ageing does not correlate with epigenetic ageing ( [196] and references within). Furthermore, almost all DNAm clock measures are invasive,they require either blood samples or samples derived from certain tissues of the organism, that impose multiple limitations for their usage in the experimental settings and real-life applications [29]. ...
+
+... Additionally, recent advances in artificial intelligence have allowed the development of other age biomarker measures, based on (i) blood biochemistry[44,182], (ii) transcriptomics and proteomics[183], (iii) the microbiome[184].
+
+20 This does not mean that the meaningful association between systemic DNAm age and neuropathology was not found. ...
+
+Turning Back the Clock: A Retrospective Single-Blind Study on Brain Age Change in Response to Nutraceuticals Supplementation vs Lifestyle Modifications
+
+Andrew A Fingelkurts
+
+Alexander & Andrew Fingelkurts
+
+BACKGROUND: There is a growing consensus that chronological age (CA) is not an accurate indicator of the ageing progress and that biological age (BA) instead is a better measure of an individual's risk of age-related outcomes and a more accurate predictor of mortality than actual CA. In this context BA measures the "true" age that is an integrated result of an individual's level of damage accumulation across all levels of biological organization, along with preserved resources. The BA is plastic and depends upon epigenetics. Brain state is an important factor contributing to health-and lifespan. METHODS AND OBJECTIVE: Quantitative electroencephalography (qEEG) derived brain BA (BBA) is a suitable and promising measure of brain ageing. In the present study we aimed to show that BBA can be decelerated or even reversed in humans (N = 89) by using customized programs of nutraceutical compounds or lifestyle changes (Mean duration = 13 months). RESULTS: We observed that the BBA was younger than CA in both groups at the end of the intervention. Further, the BBA of participants in the nutraceuticals group was 2.83 years younger at the endpoint of the intervention compared with BBA score at the beginning of the intervention, while the participants' BBA of the lifestyle group scored only 0.02 years younger at the end of the intervention. These results were accompanied by improvement in mental-physical health comorbidities in both groups. Pre-intervention BBA score, as well as sex of participants were considered as confounding factors and analyzed separately. CONCLUSIONS: Overall, the obtained results support the feasibility of the goal of this study and also provide the first robust evidence that halting and reversal of brain ageing is possible in humans within a reasonable (practical) timeframe of around one year.
+
+... The physical process of smoking Today, the smoking of a cigarette/cigar becomes a prevalent fashion worldwide.
+
+1 When any person drives the car, the act of taking a cigar/cigarette out of the pocket, finding match box/lighter and coordinating your hands to light the cigarette means you are likely to divert your attention away from the road. Once you have lit it, you then require putting lighter and packet of cigarettes anywhere. ...
+
+... In the U K 3lakh children are admitted to doctors' surgeries each year through exposure to passive smoke.
+
+1,8 Other than U K, smoking has been against the law in cars in New South Wales with children aged fewer than 16, with some financial fine; Queensland has a similar law with a fine. 9 ...
+
+A study on effects of smoking on society: a case study
+
+Smoking is a very hazardous problem in the whole world. The smoking of a cigarette/ cigar is not only harmful to the lungs of that person who is smoking but also harmful to the people surrounding him.
+
+... With ageing comes an increased risk of developing chronic diseases and disability [cancers, arthritis, heart diseases, stroke, osteoporosis, dementia, depression]
+
+[11]. Of the roughly 150,000 people who die each day across the globe, about two thirds (100,000 per day) die of age-related causes [11]. ...
+
+... With ageing comes an increased risk of developing chronic diseases and disability [cancers, arthritis, heart diseases, stroke, osteoporosis, dementia, depression] [11]. Of the roughly 150,000 people who die each day across the globe, about two thirds (100,000 per day) die of age-related causes
+
+[11]. The medical care needs of older adults are often considerable. ...
+
+Determinants of the Accessibility of Elderly Adults to Primary Health Care Services in Cameroon
+
+Jackson Jr Nforbewing Ndenkeh
+
+Habakkuk Azinyui Yumo
+
+Introduction: The size of the elderly population continues to increase rapidly in developing countries. Unfortunately, these countries are often least prepared to meet the health challenges of rapidly ageing population. The old are characterized by chronic non-communicable disease burden and disability, thus requiring opportunities for regular health care. Yet these older persons are believed to lack access to even basic healthcare services. The objective of this study was to identify the determinants of access of the elderly to healthcare services in Cameroon. Methods: We carried out a cross sectional study on 316 elderly persons using a cluster sampling method in two Health Districts chosen conveniently to represent the rural and urban contexts of Cameroon. Factors associated with access to primary health care services were evaluated using Chi squared test and logistic regression. Significance level was set at 5%. Results: Amongst the participants, 45.9%, reported to have gone for medical care within the past year. Almost half of the study population could not remember when they had their last blood sugar test (54.4%) and blood pressure test (43.0%). As concerns HIV testing, 67.5% had ever done an HIV test in their entire life. Furthermore, 26.1% of women and 20.0% of men have at least once done a breast cancer and prostate cancer screening respectively, with the rates being significantly higher for the urban setting (42.3% vs 32.9%, p<0.001). Lastly, accessibility to primary health care services was significantly associated with employment category and availability of a person to accompany the elderly to the hospital. Conclusion: This study showed that more than half of elderly lacked access to basic primary healthcare services. Employment category and availability of person to accompany elderly to the hospital were associated with access to healthcare services, while the setting (urban/rural) was associated with access to prostate and breast cancer screening. There is thus a need to improve access to primary healthcare services for elderly in Cameroon and the aforementioned factors should be considered when designing strategies to improve their accessibility. Larger scaled studies are needed to underscore other factors associated with access that could not be identified by this study.
+
+... Google announced recently that they were setting up a research company, Calico, with the explicit goal of producing a medicine or treatment for ageing [11]. In the UK, Aubrey de Grey and his research foundation for engineered negligible senescence (SENS) recently received generous donations from a number of internet entrepreneurs
+
+[12]. Many experts believe that a pharmacological intervention is inevitable, according to a review published in Nature last year [13]. ...
+
+... Surely, these people matter no less than the people who die from HIV/ AIDS or malaria? Any risk, in comparison to 'the ongoing slaughter', cannot be taken seriously, de Grey argues
+
+Of Malthus and Methuselah: does longevity treatment aggravate global catastrophic risks?
+
+Global catastrophic risk is a term that refers to the risk of the occurrence of an event that kills at least millions of people across several continents. While it has been argued by a number of scholars that one major potential risk comes from technology, the obscure nature of future technologies makes it difficult to utilize traditional probabilistic risk for the meaningful study of these risks. This article describes an alternative approach and applies it to a research program that has attracted a considerable amount of resources recently: namely longevity research. The aim of this research is to delay or reverse the ageing process. This article argues that this research program is much more risky or less beneficial than its proponents argue. In particular, they tend to underestimate the concerns associated with the potentially drastic population growth that longevity treatment could cause. The ethical benefit often ascribed to longevity treatment is that such treatment would add more subjective life-years that are worth living. However, in light of contemporary environmental problems, such an increase of the human population might be reckless. Drastically reducing fertility to reduce risks associated with environmental stress would make the benefits of such technology much less compelling.
+
+... Some of the practices reveal in this study are nurses like taking care of older people, they attach titles to the names of the elderly while taking care of them to create relationship, they encourage the elderly to eat adequately and at times assists in feeding them, they give prompt attention to elderly patients even when is not emergency, they assess and evaluate nutrition of elderly patients, they encourage the elderly to eat adequately and at times assists in feeding them. [5]
+
+[6][7] identifies geriatric as a career choice among the health and social care workers appear to be a unit that is not attractive. ...
+
+Knowledge, Attitude and Practice of Care of the Elderly Patients Among Nurses in General Hospital, Ondo State, Nigeria
+
+... 138-186). Algunos transhumanistas argumentan que ciertas condiciones «normales» del organismo humano, tales como el proceso de envejecimiento y el consiguiente debilitamiento, deben ser consideradas como enfermedades y, por lo tanto, el proyecto de reingeniería de la humanidad ha de considerarse como una extensión de la misión de la medicina
+
+(De Grey, 2007). En este contexto, es de especial relevancia la Declaración de la Organización Internacional Transhumanista de marzo de 2009 que manifiesta una inminente realidad: hace tiempo que el hombre ha estado traspasando muchos de los límites que su precariedad le había impuesto. ...
+
+Cap a una valoració metafísica del transhumanisme des de la perspectiva de sant Tomàs d’Aquino
+
+... At the same time, it has become painfully evident that not all of the gained extra years are healthy: estimates have shown that the proportion of life characterized by good health has remained rather constant between 1990 and 2019 [17], implying that most of the life years gained are lived largely in poor health [12]. As pointed out by Olshansky [18], this leads to a situation where a significant portion of the lifespan is lived during a window of exponentially increasing risk of frailty and chronic disability (Figure 1), with the simultaneous manifestation of many chronic conditions as late life comorbidities [16,19,
+
+20]. Therefore, there is an increasing understanding of the importance of so-called "healthy aging" (healthy aging refers to the "healthspan", which is a period of life free from serious chronic diseases and disability [21]. ...
+
+Turning Back the Clock: A Retrospective Single-Blind Study on Brain Age Change in Response to Nutraceuticals Supplementation vs. Lifestyle Modifications
+
+Andrew A Fingelkurts
+
+Alexander & Andrew Fingelkurts
+
+Background: There is a growing consensus that chronological age (CA) is not an accurate indicator of the aging process and that biological age (BA) instead is a better measure of an individual's risk of age-related outcomes and a more accurate predictor of mortality than actual CA. In this context, BA measures the "true" age, which is an integrated result of an individual's level of damage accumulation across all levels of biological organization, along with preserved resources. The BA is plastic and depends upon epigenetics. Brain state is an important factor contributing to health- and lifespan. Methods and objective: Quantitative electroencephalography (qEEG)-derived brain BA (BBA) is a suitable and promising measure of brain aging. In the present study, we aimed to show that BBA can be decelerated or even reversed in humans (N = 89) by using customized programs of nutraceutical compounds or lifestyle changes (mean duration = 13 months). Results: We observed that BBA was younger than CA in both groups at the end of the intervention. Furthermore, the BBA of the participants in the nutraceuticals group was 2.83 years younger at the endpoint of the intervention compared with their BBA score at the beginning of the intervention, while the BBA of the participants in the lifestyle group was only 0.02 years younger at the end of the intervention. These results were accompanied by improvements in mental-physical health comorbidities in both groups. The pre-intervention BBA score and the sex of the participants were considered confounding factors and analyzed separately. Conclusions: Overall, the obtained results support the feasibility of the goal of this study and also provide the first robust evidence that halting and reversal of brain aging are possible in humans within a reasonable (practical) timeframe of approximately one year.
+
+... Aging is among the largest known risk factors for most human diseases [3]. Roughly 100.000 people worldwide die each day of age-related causes
+
+A Preliminary Study on Aging Examining Online Handwriting
+
+Marcos Faundez-Zanuy
+
+Karmele Lopez-de-Ipiña
+
+In order to develop infocommunications devices so that the capabilities of the human brain may interact with the capabilities of any artificially cognitive system a deeper knowledge of aging is necessary. Especially if society does not want to exclude elder people and wants to develop automatic systems able to help and improve the quality of life of this group of population, healthy individuals as well as those with cognitive decline or other pathologies. This paper tries to establish the variations in handwriting tasks with the goal to obtain a better knowledge about aging. We present the correlation results between several parameters extracted from online handwriting and the age of the writers. It is based on BIOSECURID database, which consists of 400 people that provided several biometric traits, including online handwriting. The main idea is to identify those parameters that are more stable and those more age dependent. One challenging topic for disease diagnose is the differentiation between healthy and pathological aging. For this purpose, it is necessary to be aware of handwriting parameters that are, in general, not affected by aging and those who experiment changes, increase or decrease their values, because of it. This paper contributes to this research line analyzing a selected set of online handwriting parameters provided by a healthy group of population aged from 18 to 70 years. Preliminary results show that these parameters are not affected by aging and therefore, changes in their values can only be attributed to motor or cognitive disorders.
+
+... M ost older middle-aged men after 50 years of age suffer from various age-related diseases including physical and mental losses.
+
+1 Benign prostatic hyperplasia (BPH) is a disease wherein the prostate tissue is enlarged proportionally with age owing to excessive proliferation of epithelial and stromal cells. 2 When the prostate gland that surrounds the bladder outlet is enlarged, the pressure on the urethra causes lower urinary tract symptoms (LUTS), such as urination, nocturia, urinary hesitancy, and a sensation of incomplete emptying. 3 BPH is one of the common causes of LUTS in aged men, and can have a major effect on the quality of life. ...
+
+Cranberry Powder Attenuates Benign Prostatic Hyperplasia in Rats
+
+Cranberry powder (CR) is reported to be effective against lower urinary tract symptoms (LUTS) and recurrent urinary tract infections. Benign prostatic hyperplasia (BPH) in men older than 50 years is a common cause of LUTS. Here, we attempted to evaluate if CR is also effective for treating BPH using a BPH-induced rat model, which was orally administered CR. Male Sprague-Dawley rats weighing 200-250 g were randomly divided into the following six groups (n = 9): noncastration group; castration group; BPH group; BPH and cranberry for 8-week (CR8W) group; BPH and cranberry for 4-week (CR4W) group; and BPH and saw palmetto group (saw palmetto). Compared with the BPH group, the CR8W group showed a significant decrease in prostate weight (by 33%), dihydrotestosterone (DHT) levels (by 18% in serum and 28% in prostate), 5-alpha reductase levels (18% reduction of type 1 and 35% of type 2), and histological changes. These results indicate that CR could attenuate BPH by inhibiting 5-alpha reductase and by reducing other biomarkers such as prostate weight and DHT levels. Thus, CR may be an effective candidate for the development of a functional food for BPH treatment. IACUC (USW-IACUC-R-2015-004).
+
+... Elderly people (aged ≥ 60 years) are exposed to diseases more than younger adults are (2). About 100 000 deaths occur annually due to ageing-related diseases worldwide
+
+(3). According to the United Nations, if the proportion of elderly people (aged ≥ 60 years) in a country is ≥ 7%, that country is considered to have an elderly population (4). ...
+
+Quality of life in Iranian elderly population using the SF-36 questionnaire: systematic review and meta-analysis
+
+Background: Ageing is a major known risk factor that is a threat to human health. To date, many studies have investigated quality of life (QOL) among the elderly population in the Islamic Republic of Iran. However, their results were inconsistent. Aims: We designed this systematic review and meta-analysis to estimate the overall mean score of QOL based on the Short Form 36 Health Survey Questionnaire (SF-36) among the Iranian elderly population. Methods: We searched international databases (Medline, Scopus and Science Direct) and national databases (Science In-formation Database, MagIran, IranMedex and Irandoc) up to February 2015. We included all cross-sectional studies that evaluated QOL among the Iranian elderly population using SF-36. Results: Of 2150 studies identified, 15 were included in the meta-analysis. The mean scores for QOL in the 8 scales were: 47.58, 51.75, 55.42, 55.78, 59.55, 51.54, 47.85 and 51.31 for physical-role, physical function, mental health, bodily pain, social functioning, emotional-role, general health, and vitality, respectively. Conclusions: Our results indicated that health-related QOL decreased with increasing age. QOL was worse in women than in men, especially in physical-role and general health scales. Elderly people who lived in a nursing home had lower QOL than those who lived in their own home. So, health policy-makers should design comprehensive programmes to improve health-related QOL for the Iranian elderly population.
+
+... In old age, death is accelerated by organ (tissue) dysfunction through ARDs (Fig. 1). Almost all present human mortality (∼90%) can be related to the so-defined aging
+
+Aging is an adaptation that selects in animals against disruption of homeostasis
+
+Anthonie Wilhelmus Muller
+
+During evolution, Muller's ratchet permanently generates deleterious germline mutations that eventually must be defused by selection. It seems widely held that cancer and aging-related diseases (ARDs) cannot contribute to this germline gene selection because they tail reproduction and thus occur too late, at the end of the life cycle. Here we posit however that by lessening the offspring's survival by proxy through diminishing parental care, they can still contribute to the selection. The hypothesis in detail: The widespread occurrence of aging in animals suggests that it is an adaptation. But to what benefit? Aging seems to have only drawbacks. In humans, ARDs cause today almost all mortality; they include heart disease, cerebrovascular disease, Alzheimer's disease, kidney disease and cancer. Compensation seems unthinkable. For cancer, the author proposed in a previous study a benefit to the species: purifying selection against deleterious germline genes that when expressed enhance intracellular energy dissipation. This multicausal energy dissipation, posited as the universal origin of cancer initiation, relates to cellular heat generation, disrupted metabolism, and inflammation. The organism reproduces during cancer's dormancy, and when approaching its end of life, the onset of cancer is accelerated in proportion to the cancer-initiating signal. Through cancer, the organism, now a parent, implements the self-actuated programmed death of Skulachev's phenoptosis. This “first death” enhances by proxy the offspring's chance of “second death” (or “double death”) through diminished parental care. Repetition over generations realizes a purifying selection against genes causing energy dissipation. The removal of the deleterious germline gene mutations permanently generated by Muller's ratchet gives a benefit. We generalize, motivated by the parallels between cancer and aging, the purifying selection posited for cancer to aging. An ARD would be initiated in the organ by multicausal disruption of homeostasis, and be followed by dormancy and senescence until its onset near the end of the life cycle. Just as for cancer, the ARD eventually enhances double death, and the realized permanent selection gives a benefit to the species through the selection against germ line genes that disrupt homeostasis. Given their similarities, cancer and aging are combined in the posited Unified Cancer-Aging Adaptation (UCAA) model, which may be confirmed by next-generation sequencing data. Also because of the emerging important role of cellular senescence, the hypothesis may guide the development of therapies against both cancer and aging.
+
+... Aging is among the largest known risk factor for most human diseases. Roughly, 100 000 individuals worldwide die each day of age-related causes
+
+[5]. Therefore, developing geroprotective protocols, with demonstrated metabolic goals and biomarkers of effectiveness and safety, is a primary duty of preventive medicine to fight against the highly prevalent clinical conditions of adults: the aging-associated diseases. ...
+
+Geroprotection in cancer prevention
+
+Eduardo Lasalvia-Prisco
+
+Clinical records from individuals followed for 5 years, 2000 to 2005, were reviewed. They were distributed in 3 cohorts of ages ranging from 51 to 60, 61 to 70, and 71 to 80 years, respectively. Each cohort included 2 groups of patients with diabetes type 2, one group treated with Metformin 850 mg/day, and the other one without pharmacological treatment. In all groups, for each individual, the mean variation of glycosylated hemoglobin, ferritin, lymphocyte count, total and subpopulations, was determined in blood using the measurement at the beginning and at the end of the 5-year follow-up. The number of all living individuals and cancer cases were also recorded in all groups at the end of the 5-year period. The results were consistent with the reported significance as biomarkers of aging of: the increase of glycosylated hemoglobin and ferritin, the decrease of the number of total lymphocytes and CD8+T, and the increase of T-Regulators. In this preliminary observation, the protection of Metformin on the variations of aging biomarkers was associated with survival and decline of malignancy incidence.
+
+... Diseases of aging, such as cancer and Alzheimer, represent a major health burden and are collectively responsible for nearly 90% of deaths nationwide
+
+(de Grey, 2007). With longer expected life spans, this burden is increasing. ...
+
+Fast-Evolving Human-Specific Neural Enhancers Are Associated with Aging-Related Diseases
+
+The antagonistic pleiotropy theory hypothesizes that evolutionary adaptations maximizing the fitness in early age increase disease burden after reproduction. This theory remains largely untested at the molecular level. Here, we analyzed enhancer evolution in primates to investigate the relationships between aging-related diseases and enhancers acquired after the human-chimpanzee divergence. We report a 5-fold increased evolutionary rate of enhancers that are activated in neural tissues, leading to fixation of ∼100 human-specific enhancers potentially under adaptation. These enhancers show prognostic expression levels and correlations with driver genes in cancer, and their nearby genes are enriched in known loci associated with aging-related diseases. Using CRISPR/Cas9, we further functionally validated an enhancer on chr8p23.1 as activator counteracting REST, a master regulator known to be a transcriptional suppressor of Alzheimer disease. Our results suggest an evolutionary origin of aging-related diseases: the side effects of human-specific, neural-tissue expressed enhancers. Thus, adaptive molecular changes in human macroevolution may introduce vulnerabilities to disease development in modern populations.
+
+... En todo caso, hay diferentes visiones dentro de estas corrientes, desde los grupos que enfocan la muerte como una enfermedad tratable (De
+
+Grey, 2007) a otros que no se preocupan por la perspectiva metafísica de la inmortalidad, sino de mejorar la vida humana en términos de salud, y también los que consideran (Kurzweil, 2005) que la inmortalidad se puede propiciar a través del mundo digital, como en la película Transcendence (2014). ...
+
+Imaginarios y ficciones de la muerte en la posmodernidad
+
+Aitana Martos García
+
+Alberto Martos García
+
+This essay analyses the exchange and lability between the fictional representations of death in the context of a postmodern culture, where an artificial intelligence and other cultural and scientific currents have remodelled basic notions such as ideas of spirit or death. Post-humanism assumes a new horizon by emphasising the new relationships between people, animals and machines and is preceded by the visions of trans-humanism, which implies an inversion of traditional world views about the body and death. The hypothesis of the present work is the techno-scientific imaginaries, through futurist fiction in particular, have remodelled the idea of death that goes from being a fatum to an anomaly or mechanism that can be corrected with science. We can conclude that many of the utopias recreated in the imaginaries are techno-utopias typical of post-modernity, and in that aspect, these post-modern representations of death continue to have meaning as an expression of a millenarianism and a collective catharsis that reconcile the rational and irrational dimension
+
+... Aging is among the largest known risk factor for most human diseases. Roughly, 100 000 individuals worldwide die each day of age-related causes
+
+[5]. Therefore, developing geroprotective protocols, with demonstrated metabolic goals and biomarkers of effectiveness and safety, is a primary duty of preventive medicine to fight against the highly prevalent clinical conditions of adults: the aging-associated diseases. ...
+
+Associating Geroprotectors: Anti-aging and Prevention of Aging-associated Diseases
+
+Eduardo Lasalvia-Prisco
+
+... Ageing is accretion of changes in a person over the time [1]. Approximately worldwide 1 lakh people die each day of age related causes
+
+[2]. The time-dependent accretion of cellular damage is widely considered the reason of ageing [3][4]. ...
+
+R E V I E W A R T I C L E Molecular and cellular parameters of ageing: an overview
+
+Ageing is characterized by a progressive loss of physiological integrity, leading to impaired function and increased propensity to death. Ageing is an actively regulated metabolic process. This wear and tear is the primary risk factor for major human pathologies including diabetes, cancer, cardiovascular disorders, and neurodegenerative diseases. Approximately worldwide 1 lakh people die each day of age related causes. Ageing, which we define as the time-dependent functional decline that affects most living organisms, has attracted inquisitiveness and excited imagination throughout the history of mankind. Nowadays, ageing is subjected to scientific analysis based on the ever-expanding familiarity of the molecular and cellular basis of life and disease as specific genes have been recognized that regulate ageing. The time-dependent accretion of cellular damage is widely considered the general cause of ageing. In this study we tried to exemplify few parameters which regulates ageing and some pathways to increase life span or protecting mutation of cells into cancerous growth.
+
+... [1] Each year about 100,000 deaths occurred due to aging-related diseases globally.
+
+[2] According to the World Health Organization (WHO), the world population is getting old rapidly, and it is expected to double from 840 million in 2013 to 2 billion elderly people in 2050. [3] The United Nation, categorized the countries with 7% or more population that is elderly as countries that involved elderly population. ...
+
+Quality of Life in Elderly Iranian Population Using Leiden-Padua Questionnaire: A Systematic Review and Meta-Analysis
+
+The world population is getting old rapidly; the aging population is the new phenomenon in Iran too. The aim of this meta-analysis was to estimate the overall and subscales mean score of quality of life (QOL) based on the Leiden-Padua (LEIPAD) questionnaire among the elderly population of Iran. The major international and national databases including; Medlin, Scopus, Science Direct, SID, MagIran, IranMedex, and Irandoc was searched. All cross-sectional studies, which measured the QOL among the elderly population in Iran using the LEIPAD questionnaire, were included. Furthermore, we used the following key words, “Quality of life,” “aging,” “aged,” “elderly,” and “Iran.” Of 2155 records, four articles reminded for the meta-analysis, which involved 628 participants with a mean age of 71.73 ± 4.28 years. The mean scores of QOL in each scale were as follows: 10.80 (9.30–12.31) for physical health, 13.51 (6.81–20.21) for self-care scale, 8.60 (5.07–12.14) for depression and anxiety, 12.48 (10.39–14.58) for cognitive functioning scale, 2.19 (0.67–3.72) for sexual functioning scale, 10.98 (5.87–16.09) for life satisfaction scale, and 5.90 (3.64–8.16) for social desirability scale. This study revealed that the total QOL for the elderly population is relatively low in Iranian society. It is appeared to provide social support, and upgrade their QOL seems to be essential for the elderly population.
+
+... In the industrialized countries, life expectancy and, thus, the old age De
+
+Grey (2007) stated that of the roughly 150,000 people who die each day across the globe, about two thirds-100,000 per day-die of agerelated causes. In industrialized nations, the proportion is much higher, reaching 90%. ...
+
+The Lived Experiences of Filipino Elderly in Metro Manila: A Case Study
+
+Jordan Tovera Salvador
+
+... Of the roughly 150,000 people who die daily in the world, about two thirds die of age-related causes [1]. In industrialized nations, the proportion is much higher, reaching 90%
+
+[2]. There are three main general theories of aging: genetic mutation, wear and tear (both proposed in the 1950s by Denham Harman [3]), and accumulated functional impairments in multiple tissues in the body [4,5]. ...
+
+A decline in female baboon hypothalamo-pituitary-adrenal axis activity anticipates aging
+
+Stressors that disrupt homeostasis advance aging. Glucocorticoids regulate multiple processes that determine the aging trajectory. Debate exists regarding life-course circulating glucocorticoid concentrations. Rodent and nonhuman primate studies indicate circulating glucocorticoids fall from early life. We measured fasting morning cortisol in 24 female baboons (6-21 years, human equivalent ~18-70). We also quantified hypothalamic paraventricular nuclear (PVN) arginine vasopressin (AVP), corticotropin-releasing hormone, steroid receptors, and pituitary proopiomelanocortin immunohistochemically in 14 of these females at 6-13 years. We identified significant age-related 1) linear fall in cortisol and PVN AVP from as early as 6 years; 2) increased PVN glucocorticoid and mineralocorticoid receptors; 3) increased PVN 11β-hydroxysteroid dehydrogenase 1 and 2, regulators of local cortisol production, and 4) decreased pituitary proopiomelanocortin. Our data identify increased age-related negative feedback and local PVN cortisol production as potential mechanisms decreasing PVN drive to hypothalamo-pituitary-adrenal axis activity that result in the age-related circulating cortisol fall. Further studies are needed to determine whether the cortisol fall 1) causes aging, 2) protects by slowing aging, or 3) is an epiphenomenon unrelated to aging processes. We conclude that aging processes are best studied by linear life-course analysis beginning early in life.
+
+... Aging is one of the most critical known risk factors for many human diseases [3]. Roughly 0.1 million people worldwide die each day of age-related complications
+
+... Mammalian aging is mediated by the complex cellular and organismal processes, driven by diverse acquired and genetic factors [1] . Aging is among the greatest known risk factors for most human diseases [2][3][4][5] , and of roughly 150000 people who die each day across the globe, about two thirds die from agerelated causes
+
+Effect of aging on stem cells
+
+Pluripotent stem cells have the remarkable self-renewal ability and are capable of differentiating into multiple diverse cells. There is increasing evidence that the aging process can have adverse effects on stem cells. As stem cells age, their renewal ability deteriorates and their ability to differentiate into the various cell types is altered. Accordingly, it is suggested aging-induced deterioration of stem cell functions may play a key role in the pathophysiology of the various aging-associated disorders. Understanding the role of the aging process in deterioration of stem cell function is crucial, not only in understanding the pathophysiology of aging-associated disorders, but also in future development of novel effective stem cell-based therapies to treat aging-associated diseases. This review article first focuses on the basis of the various aging disease-related stem cell dysfunction. It then addresses the several concepts on the potential mechanism that causes aging-related stem cell dysfunction. It also briefly discusses the current potential therapies under development for aging-associated stem cell defects.
+
+... "In humans and animalsd eath is manifested by the permanent cessation of vital organic functions, includingt he absence of heartbeat, spontaneous breathing, and brain activity" (Klemedler,;| 2005, p. 163). However, with constant advances in medical technology, death liagj shifted from an event to ^process: conditions once considered indicative ofdea:|| are now reversible
+
+(de Grey, 2007). Furthermore, definitions of death are no ger solely predicated on biological and physiological parameters; they now incite legal parameters. ...
+
+End-of-Life Interactions
+
+... Moreover, a regular physical activity produces a reduction in inflammation and chronic diseases [22]. According to physical fitness in elderly, strength and aerobic capacity, the second shows a decrease of VO2 over the age of 60 which is due to a reduction in maximum cardiac output and arterial-venous oxygen difference reduction
+
+[23]. Furthermore, the aerobic capacity starts to decrease after the age of 40 with a loss of 30% after the age of 65 [24]. ...
+
+Effects of Ageing in Physical Fitness
+
+Pedro Jesus Ruiz Montero
+
+Ageing is a natural and inevitable process with degenerative changes in most of the physical, physiological and psychological functions. Furthermore, the ageing process has an impact on the physical of elderly people. Thus, the aim of this study is to provide to readers of information about effects of ageing and changes in physical fitness as one of the major causes of chronic diseases of ageing people. In addition, the association between physical fitness and physical activity in elderly shows health benefits in this population. In conclusion, the evolution of aging is essentially understood as a gradual accumulation of damage which produces the functional declination of any organism.
+
+... Ageing is accretion of changes in a person over the time [1]. Approximately worldwide 1 lakh people die each day of age related causes
+
+[2]. The time-dependent accretion of cellular damage is widely considered the reason of ageing [3][4]. ...
+
+Molecular and cellular parameters of ageing: an overview Himanshu Thukral*, Sumeet Soin, Ritu Rani and Aparna Sarkar.Al Ameen J Med Sc i 2016; 9(1) :4-14 � US National Library of Medicine enlisted journal � ISSN 0974-1143
+
+Ageing is characterized by a progressive loss of physiological integrity, leading to impaired function and increased propensity to death. Ageing is an actively regulated metabolic process. This wear and tear is the primary risk factor for major human pathologies including diabetes, cancer, cardiovascular disorders, and neurodegenerative diseases. Approximately worldwide 1 lakh people die each day of age related causes. Ageing, which we define as the time-dependent functional decline that affects most living organisms, has attracted inquisitiveness and excited imagination throughout the history of mankind. Nowadays, ageing is subjected to scientific analysis based on the ever-expanding familiarity of the molecular and cellular basis of life and disease as specific genes have been recognized that regulate ageing. The time-dependent accretion of cellular damage is widely considered the general cause of ageing. In this study we tried to exemplify few parameters which regulates ageing and some pathways to increase life span or protecting mutation of cells into cancerous growth.
+
+... This shift in the distribution of population towards older ages has profound medical implications. Aging is accompanied with a major incidence of many diseases, and roughly two thirds of people who die each day in the world die of age-related causes (this percentage reaches 90% in industrialized countries)
+
+[145]. Remarkably, cancer ranks at the top of the list of age-related deaths and its incidence increases exponentially with age [33]. ...
+
+The Role of Mammalian Sirtuins in Cancer Metabolism
+
+Metabolic reprogramming has recently emerged as a key feature of cancer cells, which need to rewire their cellular metabolism in order to sustain their faster proliferation and growth. New insight into the molecular mechanisms governing this metabolic reprogramming has implicated mammalian sirtuins as important regulators of cancer metabolism. Sirtuins are NAD(+)-dependent protein deacylases involved in a variety of biological functions, including life span and health span regulation, genomic stability, tumorigenesis, inflammation, and metabolism. Due to the requirement of NAD(+) for their function, sirtuins can act as sensors of the metabolic state of the cell and regulate core metabolic pathways in response to cellular stresses, thus being good candidates to control the reprogramming of cellular metabolism that occurs during tumorigenesis. Here, we summarize our current knowledge of the roles of mammalian sirtuins in cancer metabolism, and discuss their implication in controlling this metabolic shift during aging and aging-associated cancers. Copyright © 2015. Published by Elsevier Ltd.
+
+... Every day, around 110,000 people die of diseases related to old age
+
+318 . Communicable diseases, hunger, wars, crimes, accidents, natural disasters, and suicides are, all combined, two times less deadly than the consequences of time on our bodies. ...
+
+Zoltan Istvan's "Teleological Egocentric Functionalism": A libertarian basis for "Transhumanist" politics
+
+Is Zoltan Istvan's fictional philosophy "Teleological Egocentric Functionalism" a viable basis for Transhumanist politics?
+
+... Roughly, 100.000 people word wide die each day of age -related causes
+
+(38) . Numerous studies have suggested that age -associated deterioration in body function can be related to oxidative damage by reactive oxygen species (ROS) and reactive nitrogen species (RNS) produced during mitochondrial oxidative phosphorylation. ...
+
+Physiological alteration of mitochondrial genome in relation to aging on male albino rats
+
+There is no doubt that there is a great interest on aging and its causes from human especially women, this increase scientific researches on aging including this increase research, which detect mitochondrial DNA in relation to aging, where mitochondria is the house of energy in the living cell. Sixty male albino rats were divided into three equal groups 1st group, young rats (6 months age) as control, 2nd group, adult rats (12 months age) and 3rd group, aged rats (21, months age). Rats were sacrificed and the brain and liver tissues were preserved in liquid nitrogen immediately for molecular biological analysis to see the different gene expression in the respiratory chain at different ages. Other samples were taken from the liver, brain and serum for the biochemical and physiological analysis to find out the effect of aging on glutathione peroxidase activity and concentration of reduced glutathione, total antioxidant capacity, nitric oxide and finally malondialdhyde. NADH dehydrogenase and cytochrome oxidase gene expression, showed a decreased activity in both liver and brain with aging. Glutathione peroxidase showed non-significant decrease in its activity in liver, but a significant decrease in brain in adult rats, and a significant decrease in both liver & brain in aged rats. Reduced glutathione showed non-significant decrease in its concentration in both liver & brain in adult rats but showed a significant decrease in aged rats. Serum total antioxidant capacity showed non-significant decrease in its concentration in adult rats but significantly decreased in aged rats. Liver and brain nitric oxide showed a significant increase in its concentration in both adult and aged rats. Liver malondialdhyde showed a significant increase in its concentration in both adult and aged rats, but in brain, showed non-significant increase in adult rats while, significantly increased in aged rats. All previous results in compared with young rats (control group).
+
+... Aging is a chronological process characterized by functional, structural and biochemical changes throughout the human body (Bowen and Atwood, 2004;
+
+De Grey, 2007). Skin aging, like human aging, consists of two processes, intrinsic aging and exogenous aging. ...
+
+Cell penetrating peptide conjugated liposomes as transdermal delivery system of Polygonum aviculare L. extract
+
+In this study, Polygonum aviculare L. extract, which has superior antioxidative and cellular membrane protective activity, was loaded onto cell-penetrating peptide (CPP)-conjugated liposomes to enhance transdermal delivery. The physical characteristics of typical liposomes and CPP-conjugated liposomes containing P. aviculare extract were evaluated. The particle sizes of both liposomes were approximately 150nm. Whereas the zeta potential of typical liposomes was -45mV, that of CPP-conjugated liposomes was +42mV. The loading efficiency of P. aviculare extract in both liposomes was calculated to be about 83%. Fluorescent-labeled liposomes were prepared to evaluate cellular uptake and skin permeation efficiency. Using flow cytometry, we found that CPP-conjugated liposomes improved cellular uptake of the fluorescent dye as compared with the typical liposomes. In addition, the skin permeation of CPP-conjugated liposomes was proved higher than that of typical liposomes by confocal laser scanning microscopy studies and Franz diffusion cell experiments. The improved cellular uptake and skin permeation of the CPP-conjugated liposomes were due to the cationic arginine-rich peptide. In vivo studies also determined that the CPP-conjugated liposomes were more effective in depigmentation and anti-wrinkle studies than typical liposomes. These results indicate that the CPP-conjugated liposomes could be effective for transdermal drug delivery of antioxidant and anti-aging therapeutics. Copyright © 2015 Elsevier B.V. All rights reserved.
+
+... Aging is among the largest known risk factors for most human diseases [3]. Roughly 100.000 people worldwide die each day of age-related causes
+
+A preliminary study on aging examining online handwriting
+
+Marcos Faundez-Zanuy
+
+Karmele Lopez-de-Ipiña
+
+In order to develop infocommunications devices so that the capabilities of the human brain may interact with the capabilities of any artificially cognitive system a deeper knowledge of aging is necessary. Especially if society does not want to exclude elder people and wants to develop automatic systems able to help and improve the quality of life of this group of population (healthy individuals as well as those with cognitive decline or other pathologies). This paper tries to establish the variations in handwriting tasks with the goal to obtain a better knowledge about aging. We present the correlation results between several parameters extracted from online handwriting and the age of the writers. It is based on BIOSECURID database, which consists of 400 people that provided several biometric traits, including online handwriting. The main idea is to identify those parameters that are more stable and those more age dependent. One challenging topic for disease diagnose is the differentiation between healthy and pathological aging. For this purpose, it is necessary to be aware of handwriting parameters that are, in general, not affected by aging and those who experiment changes (increase or decrease their values) because of it. This paper contributes to this research line analyzing a selected set of online handwriting parameters provided by a healthy group of population aged from 18 - 70 years. Preliminary results show that these parameters are not affected by aging and therefore, changes in their values can only be attributed to motor or cognitive disorders.
+
+Is Ageing Undesirable? An Ethical Analysis
+
+Pablo García-Barranquero
+
+Joan Llorca Albareda
+
+Gonzalo Díaz-Cobacho
+
+The technical possibilities of biomedicine open up the opportunity to intervene in ageing itself with the aim of mitigating, reducing, or eliminating it. However, before undertaking these changes or rejecting them outright, it is necessary to ask ourselves if what would be lost by doing so really has much value. This article will analyse the desirability of ageing from an individual point of view, without circumscribing this question to the desirability or undesirability of death. First, we will present the three most widely used arguments to reject biomedical interventions against ageing. We will argue that only the last of these arguments provides a consistent answer to the question of the desirability of ageing. Second, we will show that the third argument falls prey to a conceptual confusion that we will call the paradox of ageing: although ageing entails negative health effects, it leads to a life stage with valuable goods. Both valuations, one positive and the other negative, refer to two different dimensions of ageing: the chronological and the biological. We will defend that, by not adequately distinguishing these two types of ageing, it does not become apparent that all the valuable goods exclusive to ageing derive only from its chronological dimension. Third, we will argue that, if we just conceive ageing biologically, it is undesirable. We will elaborate on the two kinds of undesirable effects biological ageing has: direct and indirect. Finally, we will respond to potential objections by adducing that these are insufficient to weaken our argument.
+
+Aging of mesenchymal stem cell: machinery, markers, and strategies of fighting
+
+Human mesenchymal stem cells (MSCs) are primary multipotent cells capable of differentiating into osteocytes, chondrocytes, and adipocytes when stimulated under appropriate conditions. The role of MSCs in tissue homeostasis, aging-related diseases, and cellular therapy is clinically suggested. As aging is a universal problem that has large socioeconomic effects, an improved understanding of the concepts of aging can direct public policies that reduce its adverse impacts on the healthcare system and humanity. Several studies of aging have been carried out over several years to understand the phenomenon and different factors affecting human aging. A reduced ability of adult stem cell populations to reproduce and regenerate is one of the main contributors to the human aging process. In this context, MSCs senescence is a major challenge in front of cellular therapy advancement. Many factors, ranging from genetic and metabolic pathways to extrinsic factors through various cellular signaling pathways, are involved in regulating the mechanism of MSC senescence. To better understand and reverse cellular senescence, this review highlights the underlying mechanisms and signs of MSC cellular senescence, and discusses the strategies to combat aging and cellular senescence. Graphical Abstract
+
+Classification of the risk factors of coronary heart disease and their evolutionary origins
+
+Risk factors of coronary heart diseases have long been known and new risk factors are still being discovered. The control of these numerous risk factors necessitates, first of all, a classification of these factors in terms of public health; in such a way that the factors of each class would be the consequence of the previous class and trigger the following one. Thus, the priorities can be designated and the disease control activities can be carried in an organized manner. Furthermore, evaluating these factors individually with an evolutionary point of view could help all the parties concerned to better understand and manage the disease. This will allow the health profession to re-define coronary heart diseases risk factors through a two-dimensional approach.
+
+Artificial intelligence in longevity medicine
+
+Alexander Zhavoronkov
+
+Recent advances in deep learning enabled the development of AI systems that outperform humans in many tasks and have started to empower scientists and physicians with new tools. In this Comment, we discuss how recent applications of AI to aging research are leading to the emergence of the field of longevity medicine.
+
+Comparison of life quality in older adults living in traditional family versus nursing home: a systematic review and meta-analysis
+
+To assess and compare the QoL of the older people dwelling in traditional family versus nursing home/institution. A comprehensive literature search was performed on 10 January 2018 to identify studies that investigated the QoL of older adults dwelling in family versus nursing home settings. Analyses were run using random-effects meta-analyses. A total of six cross-sectional studies with 1623 people were included. The quality of included studies was moderate. Meta-analysis showed that compared with nursing home support, the family support could significantly improve the physical health (6 studies, SMD = 0.50, 95%CI: 0.32–0.68, p < 0.05), mental status (6 studies, SMD = 0.45, 95%CI: 0.26–0.65, p < 0.05), and social relationship (5 studies, SMD = 0.51, 95%CI: 0.19–0.83, p < 0.05). Traditional family support model demonstrated a significant improvement in the physical health, psychological status and social relationships among older adults. The conclusions were driven by cross-sectional studies, Larger, adequately powered RCTs are required to confirm our finding.
+
+ANVESHANA THE AVANT-GRADE STEP: TOWARDS ANTI AGEING DRUGS OF VAYASTHAPANA MAHAKASAYA OF CHARAK SAMHITA
+
+THE AVANT-GRADE STEP: TOWARDS ANTI AGEING DRUGS OF VAYASTHAPANA MAHAKASAYA OF CHARAK SAMHITA
+
+Nurses’ Perception about Establishing Nursing Homes in Ghana: A Study at University of Ghana Nursing School
+
+Richard Osei Albertz
+
+This quantitative research explored the perception of nurses on the prospect of setting up nursing homes in Ghana for the care of aged patients. It was based on the anticipation that there might soon arise the need for special healthcare facilities such as nursing homes for chronically ill geriatrics as an alternative to the current approach of admitting them into general hospital wards or keeping them at homes under the care of family members. The survey approach was used, involving direct administration of questionnaires to 50 nurses selected by simple random technique from a population of 273 practicing nurses who were undergraduate students of the University Of Ghana School Of Nursing. Data was analyzed using SPSS.16 to generate tables of frequencies and percentages, histograms and pie charts to interpret responses. Findings indicated that, nurses have observed that, differences exist between nursing of the aged and other age-groups and that the aged require care settings that are different from those used for other age groups such as the general hospital wards which is not suitable for their conditions. They feel nursing homes could be successful in Ghana and are happy about the prospect of having them in Ghana and don’t have negative feelings about working there or even admitting their aged patients into nursing homes. They actually thought that nursing homes could make aged care in Ghana better, hence were in favor of it. It was therefore recommended that, a comprehensive policy on aged care should be developed by government to pave way for establishment of nursing homes in Ghana and that geriatric wards should be created in hospitals and augmented by operation of nursing homes by nurse entrepreneurs.
+
+Acceptance of seniors towards automatic in home fall detection devices
+
+Elisabeth Steinhagen-Thiessen
+
+Purpose Senior citizen falls are one of the highest-cost factors of healthcare within this population group. Various approaches for automatic fall detection exist. However, little is known about the seniors’ acceptance of these systems. The purpose of this paper is to investigate the acceptance of automatic fall detection devices as well as the technological commitment and the health status in community-dwelling adults with a predefined risk of falling. Design/methodology/approach Seniors with a risk of falling were equipped with either an accelerometer or an accelerometer with an additional visual and optical fall detection system in a sub-group of the study population for a period of eight weeks. Pre- and post-study questionnaires were used to assess attitudes and acceptance toward technology. Findings In total, 14 subjects with a mean age of 75.1 years completed the study. Acceptance toward all sensors was high and subjects were confident in their ability to handle technology. Medical assessments showed only very mild physical and no mental impairments. Measures that assured subjects privacy protection were welcomed. Sensor technology should be as unobtrusive as possible. Originality/value Privacy protection and uncomplicated use of the fall detection equipment led to high acceptance in seniors with high-technical commitment and good health status. Issues to further improve acceptance could be identified. Future research on different populations is necessary.
+
+Relation between Nursing Students' Knowledge of Aging and Attitude towards Elderly People and Their Will and Intent to Work with the Elderly
+
+Soad Hassan Abd Elhameed
+
+Abstract The changing population structure has many implications for the elderly and nurses must be prepared to meet the challenges of caring for this rapidly increasing segment of population. Aim: Assess nursing students’ knowledge of aging, attitude towards elderly people, will and intent to work with the elderly and determine the relation between nursing students’ knowledge of aging, attitude towards elderly and their will and intent to work with the elderly. Method: A descriptive co-relational study was used via self reported questionnaire, completed by 596 students from the faculty of nursing-Mansoura University. Students’ responses were analyzed using factor analysis, correlation coefficients, T-test, and Anova test. Results: Mansoura nursing students have a lack of knowledge of aging and held a positive attitude toward the elderly. As well they showed a high score of intent and will to work and care for the elderly people. A statistically significant correlation was found between knowledge of aging, attitude toward elderly, intent and will to work and care for the elderly. Conclusion: knowledge of aging of the nursing student should be increased in order to improve quality of care and to provide effective care services to the elderly people using new teaching and educational strategies. Key Words: Knowledge of aging, Attitude, Elderly people, Nursing students, Will, Intent.
+
+Why Do We Wish to be Enhanced?
+
+Recent progress in the fields of nanotechnology, biotechnology, information technology and cognitive science1 has led to a growing debate concerning the use of these technologies to increase, among other things, individuals’ cognitive and physical capacities, as well as their longevity. In Western countries, new philosophical movements, such as the transhumanists,2 speculate on the possibilities of using these technologies to dramatically ‘enhance’ human beings (Bostrom, 2005). For such thinkers, humanity is moving towards a post-human condition where biotechnologically enhanced humans will bypass the standard Darwinian concept of evolution (Harris, 2007). They argue that ultimately, technological progress will lead these post-humans to reverse the ageing process and to experience extreme longevity, if not immortality (de Grey, 2005; Kurzweil and Grossman, 2009). The idea of such a radical transformation of human beings is not just a curious idea shared by a small group of eccentric thinkers. Nowadays, many widely circulated magazines are voicing transhumanist ideas,3 while institutes specifically dedicated to the development of technologies to modify human beings are opening their doors.4
+
+Therapeutic garden design for patients with neurodegenerative diseases.
+
+Agnieszka A Olszewska
+
+Therapeutic garden design for patients with neurodegenerative diseases.
+
+Agnieszka Olszewska-Guizzo
+
+This paper explores the concept of therapeutic gardens surrounding healthcare institu- tions treating neurodegenerative diseases, such as Alzheimer’s and Dementias. It fo- cuses on how the design of such spaces can address the specific needs of residents, and describes the recent studies concerning the most relevant guidelines for therapeutic gar- den design near hospitals, medical centers, and retirement homes. The literature study is compared with results of our recent study on the brain response to different landscape- design features. According to which an outdoor space with a high level of design com- patibility, inward space composition, a clear communication and signage system, while introducing archetypal elements and factoring several visual nuances, can be especially beneficial for patients with neurodegenerative diseases.
+
+Physical resilience and aging: Correcting the tithonus error and the crème brûlée error
+
+Abstract One of the most persistent misconceptions surrounding the prospect of combating aging – so persistent, in fact, that it has acquired a name, “the Tithonus error” – is that successful anti-aging interventions would postpone death but would not postpone the decline in health and vigor that characterizes later life. The psychological reasons for why so many people have for so long remained deaf to gerontologists' incessant and vocal correction of this error are complex and have been addressed in my previous work. Here I discuss the physiological basis for the confidence, shared by all biologists of aging, that the only way we will ever substantially extend the human lifespan is by extending people's healthy lifespan, rather than by keeping people alive in a frail state. I then discuss what these physiological realities tell us about which approaches to combating aging are the most promising, and why they are likely to lead to the substantial (and, eventually, dramatic) postponement of what is now humanity's number one killer. Introduction: the Tithonus error and the pro-aging trance Ill health is risky That is really the beginning and end of what I need to communicate in this section. It certainly does not seem particularly controversial. But, in practice, a phenomenal amount of effort has been expended in both asserting and resisting this simple truth.
+
+Eunice López-Muñoz
+
+There is evidence that aging is the biggest risk factor for developing chronic diseases that can lead to death. Globally multiple investigations in the biomedical area are trying to identify the molecular, genetic, genomic, transcriptomic and proteomic factors (among others) involved in the aging process, in order to betranslated into an adequate health status for an aging population.However, most studies have low power to detect small changes in relation to age in animal modelsorin humans.This raises the emerging need forstudies to increase the power and contemplate theeffect of the interaction of multiple factors intheaging process.Theaim of this chapter is to pesenta review of some transcendental methodologcalaspects to be taken into account in the development of biomedical research protocols,without forgetting that there is no approach that is unanimously consideredas the best.
+
+Determination of manners of death: an analysis of 3012 postmortem cases
+
+Md Abdus Samad Al-Azad
+
+Introduction: Forensic Pathologists are often performing autopsies in death investigation. There are five legally-defined manners of death namely natural deaths, accidental deaths, homicidal deaths, suicidal deaths and undetermined deaths. Natural deaths are those that occur from natural causes such as disease or old age rather than from violence or an accident. Objectives: To determine the socio-demographic profile of postmortem cases and to evaluate information regarding manners of deaths as determined by those cases. Methods: This record based cross-sectional study of postmortems performed at the mortuary of the Department of Forensic Medicine; Dhaka Medical College (DMC) was conducted during the period of January 2006 to December 2006. Most of the victims were brought to DMC morgue from south-eastern part of Dhaka district. A total of 3012 autopsies were analyzed during the period. Morgue caters 18 police stations under Dhaka city. Data were collected using a pre-designed schedule from Post mortem registers and reports. All the data were collected in a predefined data collection sheet and necessary statistical analyses were performed by using the computer software SPSS (Statistical Package for Social Science) for window 17.0 and were expressed in frequency and percentage. 19 JAFMC Bangladesh. Vol 9, No 2 (December) 2013 Results: A total of 3012 postmortems were studied. Of them 1640 (54.45%) cases were of accidents, 722 (23.97%) cases were of suicide, 542 (17.99%) cases were of homicide, 84 (2.79%) cases were of undetermined and 24 (0.80%) cases were of natural deaths. Most of the postmortem cases were in the age group of 20-40 (54.71%) years, which is the most productive period in life cycle followed by 24.90%, 15.50% and 4.89% in the age group of 0-20 years, 41-60 years and 60 years respectively. Of them 2258 (74.97%) were male and rest 754 (25.03%) cases were female. Conclusion: Accidents, mainly Road Traffic Accident (RTA) and railway accidents, comprise a major manner of death which reduces the most productive period in the life cycle causing serious effects in socio-economic development of the country. RTA can be prevented by specific preventive measures and also by taking personal precautions. Suicide is the second commonest manner of unnatural death flanked by accident and homicide. It is not feasible to draw a concrete conclusion. Homicide is a relatively rare offence than accidents or suicides but it is one of the most notifiable crimes in the country as they are widely publicised by the media due to their severity and visibility. DOI: http://dx.doi.org/10.3329/jafmc.v9i2.21820 Journal of Armed Forces Medical College Bangladesh Vol.9(2) 2013
+
+Auto-Catastrophic Theory: the necessity of self-destruction for the formation, survival, and termination of systems
+
+Systems evolve in order to adjust and survive. The paper’s contribution is that this evolvement is inadequate without an evolutionary telos. It is argued that without the presence of self-destruction in multiple levels of our existence and surroundings, our survival would have been impossible. This paper recognises an appreciation of auto-catastrophe at the cell level, in human attitudes (both as an individual and in societies), and extended to Earth and out to galaxies. Auto-Catastrophic Theory combines evolution with auto-catastrophic behaviours and innovative machinery by offering new themes of understanding their merging such as (a) protogenic and deuterogenic auto-catastrophic processes, (b) protogenic and deuterogenic survival processes, and (c) ‘alive’, partially ‘alive’, and non-‘alive’ systems. The value of self-destruction relies on a numerical stability within a system and correlational relationships between systems. Auto-Catastrophic Theory provides novel justifications why artificial intelligence: (a) is crucial to overcome the extinction of humanity (via H+), (b) is crucial to offer indirect survival of humanity (by saving its history), and (c) is at the same time a threat for humanity. These novel justifications and themes, developed by combining evolution with catastrophe as well as innovative machinery, expand our knowledge of how best to handle fresh challenges ahead.
+
+Influences du concept de mort dans les efforts visant à ralentir le vieillissement et augmenter la longévité
+
+A Systematic Review of the Efficacy and Safety of Anti-aging Herbs in Animals and Human
+
+Asian J Anim Vet Adv
+
+This review focuses on the efficacy and safety of medicinal plants which have been utilized in traditional medicine for anti-aging purpose. All relevant databases were searched for the terms "anti-aging" and "herbs" or "medicinal plant" without limitation up to 30th January 2011. All the clinical and non-clinical studies with the outcome of change in aging process were included. Search in databases resulted in 1733 articles that on the basis of inclusion/exclusion criteria, 67 studies were finally included. Six human and 61 animal studies were reviewed for the effect of anti-aging herbs on aging process. Most of the studies showed significant improvement in brain function (memory, cognitive, anxiety), sexual disorder and skin wrinkle. From the performed studies, the exact mechanism of anti-aging action and side effect cannot be concluded and thus further studies would be helpful.
+
+Ageing and the border between health and disease
+
+Roberto A. Rabinovich
+
+Ageing is associated with a progressive degeneration of the tissues, which has a negative impact on the structure and function of vital organs and is among the most important known risk factors for most chronic diseases. Since the proportion of the world’s population aged >60 years will double in the next four decades, this will be accompanied by an increased incidence of chronic age-related diseases that will place a huge burden on healthcare resources. There is increasing evidence that many chronic inflammatory diseases represent an acceleration of the ageing process. Chronic pulmonary diseases represents an important component of the increasingly prevalent multiple chronic debilitating diseases, which are a major cause of morbidity and mortality, particularly in the elderly. The lungs age and it has been suggested that chronic obstructive pulmonary disease (COPD) is a condition of accelerated lung ageing and that ageing may provide a mechanistic link between COPD and many of its extrapulmonary effects and comorbidities. In this article we will describe the physiological changes and mechanisms of ageing, with particular focus on the pulmonary effects of ageing and how these may be relevant to the development of COPD and its major extrapulmonary manifestations.
+
+Cellular senescence in the Penna model of aging
+
+Cellular senescence is thought to play a major role in age-related diseases, which cause nearly 67% of all human deaths worldwide. Recent research in mice showed that exercising mice had higher levels of telomerase, an enzyme that helps maintain telomere length, than nonexercising mice. A commonly used model for biological aging was proposed by Penna. I propose a modification of the Penna model that incorporates cellular senescence and find an analytical steady-state solution following Coe, Mao, and Cates [Phys. Rev. Lett. 89, 288103 (2002)]. I find that models corresponding to delayed cellular senescence have younger populations that live longer. I fit the model to the United Kingdom's death distribution, which the original Penna model cannot do.
+
+A simple solution to the puzzles of end of life? Voluntary palliated starvation
+
+Escape Velocity: Why the Prospect of Extreme Human Life Extension Matters Now
+
+Should we be considering the social and economic ramifications of a society where life-span could be limitless?
+
+Leon Kass: Quite Substantially Right
+
+Aging, Childlessness, or Overpopulation: The Future's Right to Choose
+
+The Ethical Status of Efforts to Postpone Aging: A Reply to Hurlbut
+
+Like it or not, lifeextension research extends beyond biogerontology
+
+A strategy for postponing aging indefinitely
+
+Stud Health Tech Informat
+
+It may seem premature to be discussing approaches to the effective elimination of human aging as a cause of death at a time when essentially no progress has yet been made in even postponing it. However, two aspects of human aging combine to undermine this assessment. The first is that aging is happening to us throughout our lives but only results in appreciable functional decline after four or more decades of life: this shows that we can postpone aging arbitrarily well without knowing how to prevent it completely. The second is that the typical rate of refinement of dramatic technological breakthroughs is rather reliable (so long as public enthusiasm for them is abundant) and is fast enough to change such technologies (be they in medicine, transport, or computing) almost beyond recognition within a natural human lifespan. Here I explain, first, why it is reasonable to expect that (presuming adequate funding for the initial preclinical work) therapies that can add 30 healthy years to the remaining lifespan of healthy 55-year-olds will arrive within the next few decades, and, second, why those who benefit from those therapies will very probably continue to benefit from progressively improved therapies indefinitely and thus avoid debilitation or death from age-related causes at any age.
+
+Pursuing the Longevity Dividend: Scientific Goals for an Aging World
+
+The aging of humanity is about to experience a radical change as the demographic transformation to an older world is approaching its final stage. In recent decades, scientists have learned enough about the biological aging processes that many believe it will become possible to slow aging in humans. We contend that the social, economic, and health benefits that would result from such advances may be thought of as "longevity dividends," and that they should be aggressively pursued as the new approach to health promotion and disease prevention in the 21st century. The time has arrived for governments and national and international healthcare organizations to make research into healthy aging a major research priority.
+
+An Unsolved Problem of Biology
+
+Aging, natural death, and the compression of morbidity
+
+Global and regional burden of disease and risk factors, systematic analysis of population health data
+
+Mohamadhossein Ezzati
+
+Essays Upon Heredity and Kindred Biological Problems
+
+Time to Talk SENS: Critiquing the Immutability of Human Aging
+
+Aging is a three-stage process: metabolism, damage, and pathology. The biochemical processes that sustain life generate toxins as an intrinsic side effect. These toxins cause damage, of which a small proportion cannot be removed by any endogenous repair process and thus accumulates. This accumulating damage ultimately drives age-related degeneration. Interventions can be designed at all three stages. However, intervention in metabolism can only modestly postpone pathology, because production of toxins is so intrinsic a property of metabolic processes that greatly reducing that production would entail fundamental redesign of those processes. Similarly, intervention in pathology is a "losing battle" if the damage that drives it is accumulating unabated. By contrast, intervention to remove the accumulating damage would sever the link between metabolism and pathology, and so has the potential to postpone aging indefinitely. We survey the major categories of such damage and the ways in which, with current or foreseeable biotechnology, they could be reversed. Such ways exist in all cases, implying that indefinite postponement of aging--which we term "engineered negligible senescence"--may be within sight. Given the major demographic consequences if it came about, this possibility merits urgent debate.
+
+The Foreseeability of Real Anti-Aging Medicine: Focusing the Debate
+
+There has recently been a sharp and very welcome increase in the rate of appearance of articles discussing the concept of medical interventions that would greatly increase the maximum healthy human lifespan. Much of this literature has emphasised the current non-existence of any such therapies, and has done so with laudable accuracy and authority. Regrettably, however, such articles have frequently extended their ambit to include the issues of how soon such interventions could be developed and of how advisable such an effort would be anyway, and have addressed these much more weakly, thereby diminishing the force of their main message. Here a survey is made of the more conspicuously flawed arguments suggesting tremendous difficulties or dangers in developing such interventions, with the aim thereby to tow those arguments firmly out into the ocean and give them the decent but unambiguous public burial that they so richly deserve. It is hoped that, by clearing the debate on future anti-aging advances of these obfuscations, the many aspects of this topic that have hitherto received much less attention than they warrant will be brought to the fore.
+
+Biogerontologists' Duty to Discuss Timescales Publicly
+
+Aging is unpopular with the general public-but, it would seem, only up to a point. Treatments that claim (sometimes justifiably) to extend the total and/or healthy life span of elderly people, or even just make them look younger, are welcomed with open wallets throughout the world. If, however, one suggests to the typical nonbiologist-or even to the typical nongerontologist biologist-that we should therefore aim, in due course, to take this desire to its logical conclusion and bring aging under the same degree of control that we currently have over most infectious diseases, one is nearly always met with strong and sometimes strident opposition. I argue here that the prevalence of this outright irrationality is largely the fault of gerontologists themselves. Most people harbor a deep-seated fear of profound change in their lives and embrace it only after extensive soul-searching to convince themselves of its benefit. It cannot and should not be denied that a postaging world would be as profoundly different from today's as we can imagine. Hence, when given the opportunity to postpone sober consideration of its pros and cons, most people leap at that opportunity. It is provided to them by the nearly universal refusal of gerontologists to speculate about the timescales within which truly effective rejuvenation therapies may be developed. I suggest that this reticence, while appropriate in purely scientific fields, is hugely irresponsible in a biomedical discipline, because of its potential to delay the development of such therapies by denying them the funding that would be forthcoming if society had greater optimism concerning their foreseeability. Arguments that such funding, and/or the public's trust in scientists, would be short-lived if timescale predictions were not borne out are too flimsy to outweigh this. A further danger is the avoidable loss of life following the development of rejuvenation therapies that would result from inadequate ability to provide them universally; here again, scientists today can minimize this loss of life by agitating for forward planning by government, which will only occur when policymakers' minds are concentrating on timescale predictions.
+
+Three Self-Evident Life-Extension Truths
+
+An interview with William B. Hurlbut. Interview by Vicki Glaser.
+
+Life extension, human rights, and the rational refinement of repugnance
+
+On the ethics of extending human life: healthy people have a right to carry on living Humanity has long demonstrated a paradoxical ambivalence concerning the extension of a healthy human lifespan. Modest health extension has been universally sought, whereas extreme (even indefinite) health extension has been regarded as a snare and delusion—a dream beyond all others at first blush, but actually something we are better off without. The prevailing pace of biotechnological progress is bringing ever closer the day when humanity will be able to act on the latter view by rejecting a clear and present opportunity for much longer healthy lives. Indeed, some biogerontologists (including myself) contend that that day has already arrived, to the extent that our hesitation in embarking on a vigorous “war on ageing” is already delaying the point at which a cure for ageing will be developed. Here I consider whether our present caution concerning the wisdom of truly curing ageing is likely to survive the increased scrutiny that it will receive in coming years as a result of these technical advances. I conclude that it will not, because of its irreconcilability with values that are more deeply held by the large majority of humanity than any values that argue against the quest for a cure. I further conclude that all the major current reasons given for not curing ageing are mere crutches to help us cope with the immutability of ageing that we have been brought up to accept. Our failure to set aside such irrationality (as it has become with recent advances in biomedical gerontology, even if it was justifiable on psychological grounds hitherto) is already shortening potential longevity—quite probably of those already alive today—to a staggering degree. Once we realise this, our determination to consign human ageing to history will be second …
+
+Has Hippocrates Had His Day?
+
+Calorie Restriction, Post-reproductive Life Span, and Programmed Aging: A Plea for Rigor
+
+All scientists are acutely aware of the profound challenge that they face when communicating scientific findings to nonscientists, especially when great uncertainty is involved and when the topic is of personal interest to the general public. Simplification of the issues--sometimes extending to a degree of oversimplification--is a sad but generally recognized necessity. It is not, however, a necessity when scientists communicate with each other, and when that happens, the explanation may lie elsewhere: either in the speaker's vested interests or in overconfidence on the speaker's part in the extent to which he or she has grasped the topic under discussion. Both these explanations are serious allegations and must not be made without good reason, not least because an alternative explanation is often the entirely legitimate preference for scientific "shorthand." However, when a general tendency toward oversimplification emerges within an expert community, not only in informal interactions but in learned publications, the field in question can suffer a loss of reputation for rigor, which may especially infect younger scientists joining that field (or contemplating joining it). I feel that this has occurred to a dangerous degree within biogerontology in respect of the way in which the effect of the environment on the rate of aging-whether that of an individual organism or of a lineage-is described. There are still important controversies in that area, but I refer here strictly to issues concerning which a thorough consensus exists. In this essay I highlight some fundamental tenets of biogerontology that are frequently, and to my mind problematically, mis-stated by many in this field in their printed pronouncements. Greater precision on these points will, I believe, benefit biogerontology at many levels, avoiding confusion among biogerontologists, among other biologists, and among the general public.
+
+Science fact and the SENS agenda. What can we reasonably expect from ageing research?
+
+Warner H, Anderson J, Austad S, Bergamini E, Bredesen D, Butler R, Carnes BA, Clark BF, Cristofalo V, Faulkner J, Guarente L, Harrison DE, Kirkwood T, Lithgow G, Martin G, Masoro E, Melov S, Miller RA, Olshansky SJ, Partridge L, Pereira-Smith O, Perls T, Richardson A, Smith J, von Zglinicki T, Wang E, Wei JY, Williams TF. Science fact and the SENS agenda. What can we reasonably expect from ageing research? EMBO Rep 2005; 6(11):1006-1008.
+
+In pursuit of the longevity dividend: what should we be doing to prepare for the unprecedented aging of humanity?
+
+Olshansky SJ, Perry D, Miller RA, Butler RN. In pursuit of the longevity dividend: what should we be doing to prepare for the unprecedented aging of humanity? Scientist 2006; 20(3):28-36.
+
+The Epic of Gilgamesh
+
+Foster BR. The Epic of Gilgamesh. New York: W.W. Norton & Company, 2001. ISBN 0-393-97516-9.
+
+Recommended publications
+
+Book Review- The Biotech Century
+
+May 1999 · Journal of Technology Education
+
+The Biotech Century leaves the reader with two rather bipolar possibilities for the future. One is the possibility of large scale genetic engineering. The second is the use of more conservative ecological and preventative health practices. Rifkin selected the second option as the obvious path for biotech-nology in the future and turns again to history for support. By comparing the fear of nuclear ... [Show full abstract] abuse to the fear of biological abuse, Rifkin concluded that the development of biotechnology will be swift but its implementation will be closely monitored. Emerging international regulations for both of these technologies clearly support Rifkin's theory.View full-text
+
+The dominance of finance in contemporary Brazil
+
+June 2013 · Tempo Social
+
+The 'markets' comprise one of the largest 'black boxes' of the present era, attributed with god-like powers that mysteriously determine the fates of contemporary societies. In this article I make use of some of the peculiarities of this situation in Brazil, especially the forms in which the financial crisis has been confronted, to suggest an analytic path capable of objectifying the zone of ... [Show full abstract] social space that we call the market and to show some of its recent developments, thereby rendering this reality sociologically comprehensible. In this sense the exploration of the 'Brazilian case' is exceptionally elucidative in terms of revealing a chronology that provides a much more nuanced view of the taken for granted autonomy of the financial world.View full-text
+
+IRAN NUCLEAR NEGOTIATIONS AND TURKEY
+
+The fate of the nuclear negotiations between Iran and P5+1 and the future of the Iranian-Western relations are hot topics for academics and researchers working on the Middle East. If the ongoing negotiations give 􀀃􀂃􀂐􀀃􀂃􀂉􀂔􀂇􀂇􀂏􀂇􀂐􀂖􀇡􀀃􀂕􀂋􀂉􀂐􀂋􀏐􀂋􀂅􀂃􀂐developments may occur both at the regional and global level. In order to fully understand this critical process and its possible consequences, theömotivations ... [Show full abstract] and objectives of the parties involved should be carefully analysed.View full-text
+
+Jesse Lawson And The National Sociological Society Of 1903
+
+The National Sociological Society, rather than the American Sociological Society (now Association), was apparently the first American organization with national aspirations to place, in 1903, the fateful word "Sociological" in its corporate name. Unfortunately, the recent centennial of the National Sociological Society (NSS) passed unnoticed and uncelebrated. The NSS, convened in 1903, was a ... [Show full abstract] shortlived organization of African Americans and whites, Northerners and Southerners, academic men, politicians, clergymen, and others, who vigorously confronted the most pressing conundrum in Jim Crow America: how to solve the race problem. The NSS was championed by Jesse Lawson -- an African-American attorney, educator, and sociologist in Washington, D.C. -- who became the organization's first and only president. The remarkable interracial NSS meeting in November, 1903, was a tribute to Lawson's energy, cooperative vision, and organizational skills. The NSS, with its sharply-focused emphasis on addressing a deeply difficult and divisive social problem, its inclusive embrace of African American and white members, its national reach, and its decidedly political agenda, was born full-grown and died as quickly, but serves us still as a concrete historical instance of a crucial element too often lacking in professional sociological organizations today: corporate mobilization for responsible social change (cf., Feagin 2001; Feagin and Vera 2001; Gilman 2004; Hill 2001).Read more
+
+Looking for the full-text?
+
+You can request the full-text of this article directly from the authors on ResearchGate.Request full-text
+
+Already a member? Log in
+
+ResearchGate iOS App
+
+Get it from the App Store now.
+
+Keep up with your stats and more
+
+Access scientific knowledge from anywhere
+
+Discover by subject area
+
+Welcome back! Please log in.

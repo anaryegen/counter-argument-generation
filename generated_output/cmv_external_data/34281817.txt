@@ -1,0 +1,127 @@
+Global AI Risks Initiative
+
+Supporting a Safer Internet
+
+Global Economic Scenarios
+
+Waterloo Security Dialogue
+
+Strategy and Evaluation
+
+Transformative Technologies
+
+If Humanity Is to Succeed in Space, Our Ethics Must Evolve
+
+Space ethics is a new field of inquiry, but one growing in importance as exploration accelerates and private interests become more involved.
+
+Illustration by Andrius Banelis.
+
+On July 16, 1969, the day the Apollo 11 mission launched the four-day flight that would land three American astronauts on the moon, one million people made their way to Cape Canaveral, Florida, to watch liftoff. Among them was aerospace engineer Wernher von Braun, a director at the National Aeronautics and Space Administration (NASA), whose leadership and Saturn V rocket were central to the Apollo program’s success. The moment marked the pinnacle of von Braun’s career and the realization of his childhood dream of sending a manned rocket to the moon. A few days after the moon landing, von Braun was lifted onto shoulders in his hometown of Huntsville, Alabama, and paraded around as a “ conquering hero.”
+
+Twenty-five years earlier, von Braun was a rocket engineer for the German army and a member of both the Nazi party and the SS. His infamous V-2 rocket, produced with slave labour from concentration camps, had killed thousands throughout Europe during the Second World War. Numerous historians and journalists have argued that von Braun was more opportunist than villain — motivated less by Nazi ideology or a desire for Germans to win the war than by his dream to launch rockets into space. Toward the end of the war, von Braun surrendered to American forces and was brought to the United States as part of Operation Paperclip — the top-secret program that brought dozens of Nazi scientists to work in America’s science and technology industries.
+
+It is no great mystery why American officials went to extraordinary lengths to obscure von Braun’s past from the American public in the 1950s and 1960s, albeit with varying success. His engineering and management talent were unparalleled and would help the United States compete with the Soviets. Yet, the decision to employ von Braun and hide his past set a dangerous precedent: It signalled that deliberation about space exploration could be framed in strategic rather than ethical terms, conducted in opaque ways, and reserved for only a handful of officials already committed to the core aims of the program.
+
+This approach to the ethics of space exploration is no longer sufficient, if it ever was. As exploration accelerates and private commercial activities are added to ongoing scientific and security initiatives, we need an accompanying acceleration and expansion of space ethics. We need to think clearly about what activities should be permitted and prohibited, as well as how, where and by whom such decisions should be made. We need to think about the ethics of space exploration, and the political economy of space ethics.
+
+Key Issues in Space Ethics
+
+Space exploration is motivated by scientific curiosity and discovery, interests in weather and climate observation, improved communication, tourism, resource extraction, and geopolitical and strategic considerations, among others. At the same time, spacefaring involves risks — including risks to astronauts; physical and economic threats posed by space debris; and the potential to contaminate the ecosystems we visit (forward-contamination) or our own planet following space missions (backward-contamination). We also confront trade-offs — such as spending scarce public dollars on space rather than on improving the health and well-being of people on Earth. Space ethics prompts us to ask whether certain motives are defensible, what risks and trade-offs they entail, which activities should be permitted, and what limits should be placed on space activities in light of important values and principles.
+
+The proliferation of low Earth orbit (LEO) satellites, for example, raises ethical questions. LEO satellites can improve communications and internet access, especially in remote areas, and enhance weather- and climate-tracking capabilities. At the same time, LEO satellites are rapidly cluttering the skies, making professional and amateur stargazing more challenging and intensifying the economic and safety risks associated with space debris. How should LEO space be regulated, recognizing different actors, interests and concerns for fairness?
+
+Ideally, ethical reflection should be insulated from ideology, interests and bias. But space ethics is an earthbound, human endeavour, with all the good and bad that entails.
+
+Similarly, there are questions about how we should sequence scientific, strategic and commercial interests when there is the potential for conflict among them. If commercial activities, such as mining, risk contaminating other worlds, perhaps we should prioritize scientific over strategic and commercial missions — or prohibit mining altogether. But if strategic and commercial missions provide the motivation and funding without which scientific missions would not occur, then perhaps a different balance is warranted.
+
+Where these and other issues are addressed is just as important as how they are resolved. Ideally, ethical reflection should be insulated from ideology, interests and bias. But space ethics is an earthbound, human endeavour, with all the good and bad that entails. For much of the history of space exploration, ethical deliberation and decision making have been restricted to a handful of institutions and people. How have they fared?
+
+A Community of Scholars: Space Ethics in Theory
+
+As a field of inquiry, space ethics is relatively new. Following the 1957 launch of the Soviet satellite Sputnik, and the widespread publication of pictures of Earth as seen from space throughout the 1960s, a handful of philosophers and scientists began to ask what it means for humanity to “escape from…imprisonment to the earth.” An early intervention was Hannah Arendt’s 1963 essay, “The Conquest of Space and the Stature of Man,” in which she asked how our being in, and seeing ourselves from, space would affect our sense of our place in the universe and our earthly conceptions of value and obligation. This was space ethics more as geocentric reflection on how space exploration would change humanity’s self-conceptions, and less about whether we should go and what we should and should not do in space.
+
+Leading space ethicists James S. J. Schwartz and Tony Milligan note that a more outward-looking space ethics largely emerged only in the 1980s when, as scientists were considering the feasibility of terraforming Mars, many began to ask whether that was “the kind of thing we ought to do.” Those involved published their thoughts in a 1986 volume, Beyond Spaceship Earth: Environmental Ethics and the Solar System. Since then, the academic space ethics community has flourished, although Schwartz and Milligan note that only in the past 10 or 20 years have professional ethicists — rather than interested scientists and space practitioners — taken the lead. The field now boasts hundreds of articles and books on space ethics issues, some university-level courses dedicated to space ethics, and a well-connected community of scholars. Our understanding of the ethical implications of space exploration is enriched by their efforts.
+
+Yet, space ethicists’ influence on decision making has been limited. Although some contribute to discussions and working papers at NASA, the European Space Agency and other space agencies, and occasionally write for policy-oriented publications or conventional media, their insights and knowledge far outpace their opportunities for impact. Institutional realities limit what can be achieved.
+
+The Operational Frontier: Space Ethics in Practice
+
+Engineers, flight directors and managers at the operational frontier of space exploration are better placed than academics to apply ethical considerations to decision making and behaviour, but less equipped and motivated to do so. The operational frontier is concerned with mission success — whatever mission they have been given — but not so concerned about whether a mission ought to proceed at all. Indeed, the ethical considerations that have been embraced at the operational frontier have tended to emerge through reaction to catastrophic events rather than through proactive reflection.
+
+Only after a fire in the cabin of the Apollo 1 command module, and the deaths of astronauts Gus Grissom, Ed White and Roger Chaffee in 1967, did NASA’s Mission Control Center begin to take space exploration’s risks to human life more seriously. In a speech following the tragedy, flight director Gene Kranz committed Mission Control to a new “tough and competent” ethos where “tough means we are forever accountable for what we do or fail to do” and “competent means we will never take anything for granted.” Less than 20 years later, it took the Challenger space shuttle disaster, which killed all seven crew members — including schoolteacher Christa McAuliffe, the first civilian astronaut — for NASA to recommit to risk-based decision making that prioritizes human life over “impossible schedules” and cost savings and to establish the Office of Safety and Mission Assurance. As the American physicist Richard P. Feynman noted in his report following the disaster, “for a successful technology, reality must take precedence over public relations, for nature cannot be fooled.”
+
+The operational frontier is concerned with mission success — whatever mission they have been given — but not so concerned about whether a mission ought to proceed at all.
+
+While most NASA officials are decent people who would never intentionally behave unethically, all organizations — including NASA — tend to have structural logics that establish implicit boundaries around questions that can and cannot be raised, and incentive structures that impair ethical deliberation when it does occur. NASA does not really question whether space exploration is worth pursuing, and it faces cost, timeline and political considerations that can cloud proper ethical reflection. As more private sector firms launch space activities, the risk of cost constraints and profit incentives impairing ethical judgment is likely to increase.
+
+The Politics of Space Ethics
+
+Academic space ethicists have the independence and insight to ask the big questions, but they lack institutional influence. Practitioners at the operational frontier have the necessary proximity and resources to act, but face institutional constraints on the kinds of ethical questions and concerns that can be addressed. Does democratic politics offer a better path? Elected decision makers are well positioned to set, and consider the ethical implications of, broad goals and plans for space exploration. Their track records on space ethics, however, have been underwhelming.
+
+When President John F. Kennedy announced in 1961 that America would put astronauts on the moon by the end of the decade, he said that “we choose to go the moon,” implying that the American people had collectively decided to do so. Yet, no such collective decision was made. In fact, polls at the time showed that only a little more than one-third of Americans supported a moon mission, while more than half were opposed. Moreover, although Kennedy appealed to ideals of “knowledge and progress” and inspired the audience with visions of a “great adventure” and “exploration” in his speech, in reality, the moon shot was motivated by concerns about the security implications of recent Soviet successes in space. The decision to go to the moon may have been ethically permissible, perhaps even imperative, but the actual decision was neither collective nor informed by careful ethical deliberation.
+
+That broader ethical deliberation had been discounted in decision making about the moon shot was made strikingly clear in Gil Scott-Heron’s 1970 poem “Whitey on the Moon.” Scott-Heron offered a biting critique of the Apollo program’s enormous costs while Black Americans faced racial, political and economic injustice.
+
+What else could we be doing with the resources dedicated to space exploration, Scott-Heron prompted us to ask. Are promises of progress and trickle-down benefits accurate and substantial enough to justify massive public spending on space-related activities? Given the current state of democratic politics — a system in which monied interests get hearings with decision makers that ordinary citizens do not, and where regulators are often “captured” by private interests, due to knowledge asymmetries — the rise of privately funded space activity could further undermine the state as a mechanism to consider the ethical implications of space exploration.
+
+Multilateral institutions offer hope, especially the United Nations Office for Outer Space Affairs (UNOOSA). UNOOSA regularly convenes space experts and decision makers to discuss issues of mutual concern, such as how to coordinate LEO satellites to avoid collisions, how to regulate space mining, and how to facilitate international cooperation on shared assets such as the International Space Station. UNOOSA’s greatest achievement is the 1966 Outer Space Treaty — an agreement signed by all major spacefaring nations that sets out principles for a peaceful and well-coordinated exploration and use of space, accessible to all, and with explicit prohibition on certain military activities.
+
+Yet, like all multilateral institutions, while UNOOSA has been able to articulate and facilitate international agreement on noteworthy ethical principles, its enforcement capacity is limited. That some countries continue to use space for military purposes reveals the challenge.
+
+A More Democratic Space Ethics
+
+Is there a way to conduct ethical deliberation about space activities with the independence it requires while ensuring that its conclusions and insights have practical force? An ideal institution free from the pathologies that confront existing institutions likely does not exist. But there are ways to improve how we do space ethics and enhance their relevance at both the goal-setting and operational frontiers.
+
+At a minimum, we should ensure that academic space ethics is well funded and that its experts are regularly invited to contribute their insights to political and operational decision making through briefings, panels, conferences and committees. Moreover, we should strive for more public discussion and engagement on the ethical implications of emerging space issues and activities. This could include more frequent and informed discussion in the media, occasional citizens’ juries and deliberative panels, and even the creation of a non-profit institution (perhaps modelled on the Danish Board of Technology) to facilitate regular research, foresight and public engagement on space-related ethical issues. Expanding the activities of the Outer Space Institute — a Canadian-based space policy think tank — to include more comprehensive and systematic discussion of ethical issues prompted by space exploration, is another option. And, despite its limitations, further support and engagement with UNOOSA is also critical, given its potential as a forum to discuss and coordinate international and interplanetary activities.
+
+As we muddle through ideas and institutional possibilities, our minimum aim should be to avoid the kind of thinking — or lack of thinking — that characterized von Braun’s participation in the American space program. Again, von Braun was likely more opportunist than villain, and space program officials are surely decent people who intend no harm. But as the philosopher Hannah Fenichel Pitkin has argued, many of our moral failings are a result not of malevolent intent, but of simply not thinking about what we are doing. If space exploration is to be conducted in ways consistent with core values and interests, we need to engage in more ethical thinking and create better spaces for space ethics.
+
+The opinions expressed in this article/multimedia are those of the author(s) and do not necessarily reflect the views of CIGI or its Board of Directors.
+
+Daniel Munro is a Senior Fellow in the Innovation Policy Lab at the Munk School of Global Affairs and Public Policy at the University of Toronto, and Co-Director of Shift Insights.
+
+Transformative Technologies
+
+Innovative Instruments for Space Governance
+
+Transformative Technologies
+
+As Geopolitical Blocs Vie for Primacy in Space, the History of Colonization Looms Large
+
+Artificial Intelligence
+
+Transformative Technologies
+
+“Trust, but Verify”: How Reagan’s Maxim Can Inform International AI Governance
+
+As Diplomacy Falters, Banning Weapons in Space Is More Crucial than Ever
+
+Artificial Intelligence
+
+Transformative Technologies
+
+The Accountability Surface of Militaries Using Automated Technologies
+
+Arthur Holland Michel
+
+Transformative Technologies
+
+What Comes After the Family Group Chat Moves to WhatsApp?
+
+Multi-stakeholder Data Access in Space-Based Climate Monitoring
+
+Transformative Technologies
+
+Google’s Move to Retain Cookies Puts the Onus on Regulators
+
+Closing the Global North-South Gap in the Second Space Age
+
+Transformative Technologies
+
+The CrowdStrike Outage Shows How Vulnerable We Have Become
+
+Financial Governance
+
+Transformative Technologies
+
+Beyond the Dollar: Can Digital Assets Empower Emerging Economies?

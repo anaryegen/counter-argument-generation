@@ -1,0 +1,187 @@
+Aug 06, 2021, 10:01am
+
+7 Examples of Data Misuse in the Modern World
+
+Every time we use social media, sign up for a mailing list, or download a free app onto our phones, we agree to the provider’s terms of use.
+
+While many of these agreements are unnecessarily dense and challenging to process, they do serve one very specific role for everyday people like you and me—they set the terms for how a company can use the personal data they collect from us. Typically, that data gets used in one of three ways:
+
+Personal data is aggregated and analyzed to provide us with more personalized advertisements.
+
+Personal data is logged and assessed for research and development.
+
+Personal data is sold to a data brokerage.
+
+See your data work for you.
+
+In all three of these scenarios, there are privacy policies that outline how companies handle, store, and distribute your personal data. Yet, in a work-from-home world, it’s becoming more and more difficult for companies to enforce corporate policies that prevent both internal and external data breaches.
+
+What is Data Misuse?
+
+Data misuse occurs when individuals or organizations use personal data beyond those stated intentions. Often, data misuse isn’t the result of direct company action but rather the missteps of an individual or even a third-party partner. For example, a bank employee might access private accounts to view a friend’s current balance, or an advertising agency using one client’s data to inform another customer’s campaign.
+
+What Are The Types of Misuse of Personal Information?
+
+In broad strokes, there are 3 different types of data misuse:
+
+Commingling happens when an organization captures data from a specific audience for a specific stated purpose and then reuses that same personal data for a separate task in the future. 
+
+Reusing data submitted for academic research for marketing purposes or sharing client data between sister organizations without consent are some of the most common commingling scenarios. Commingling often occurs out of ease of user access—marketers and business owners already have the data and assume that, since they collected it, they are entitled to use it at their own discretion.
+
+Data misuse for personal benefit occurs when someone with access to personal data abuses that power for their own gain. Whether simply curiosity or as a competitive advantage, this type of misuse is rarely done with malicious intent. Personal gain cases regularly involve company employees moving data to personal devices for easy access, often with disastrous results.
+
+Ambiguity occurs when organizations fail to explicitly disclose how user data is collected and what that data will be used for in a concise and accessible manner. Traditionally, organizations use this strategy because they are unsure how they want to use customer data but still want to collect it. However, ambiguity leaves the terms of use wide open to vague interpretation, giving the organization a blank check to use customer personal data as they wish.
+
+To be clear, data misuse isn’t necessarily theft—theft occurs when a bad actor takes personal data without permission—data misuse is when legitimately collected information is applied in a way beyond its original purpose. Typically, these instances are less malicious than an insider threat selling company data to a third party and instead take a more negligent approach.
+
+However, there are instances when data misuse violates privacy laws and can result in legal actions against a company or individual(s). There are 3 main privacy laws that protect users from personal information misuse.
+
+General Data Protection Regulation (GDPR)
+
+GDPR protects the privacy rights of online users within the European Union and penalties can be applied to any company in the world that conducts data collection in the EU. The GDPR contains 7 principles that guide companies on how to gather, store, and protect user data.
+
+1. Lawfulness, fairness, and transparency
+
+Brands must articulate why they want your personal data and how they intend to use it. To take it a step further, data collectors cannot use your data against you. Companies shouldn’t, for example, track your web habits without your permission, then leverage that knowledge to compel you to purchase their service.
+
+2. Purpose limitation
+
+Companies have to use your data in the way that they promised to apply it. While there is an exception here regarding archiving, scientific, historical, or statistical purposes, The purpose of any data collection must be specific, clear, and limited to a relevant scope. For example, private data can’t be collected for research purposes and then turned to the marketing team for outreach.
+
+3. Data minimization
+
+Brands only collect data relevant to the task at hand. For example, a company might request your name, email address, and industry to help qualify you as a potential lead for their project, but asking for a home address, your mother’s maiden name and the name of your favorite pet growing up can be a clear violation of privacy.
+
+4. Accuracy (holding)
+
+Companies must maintain their data and take reasonable action to erase or rectify inaccurate or incomplete information. Every reasonable step must be taken to ensure that inaccurate personal data, having regard to the purposes for which they are processed, are erased or rectified without delay.
+
+5. Storage limitation
+
+Companies shouldn’t just keep your data for as long as they want. Instead, personal data should only be stored as long as needed and then either deleted or anonymized once it has served its purpose. With that said, “as long as needed” tends to be a bit ambiguous between industries and could just as easily be defined as after the transaction ends as it could be the entire lifetime value of the customer.
+
+6. Integrity and confidentiality (security)
+
+Companies need systems in place to ensure the cybersecurity of their data—bad actors shouldn’t be able to access trusted personal data. Likewise, organizations ought to have backups in place if one storage system is compromised.
+
+Companies must show that they are taking reasonable action to meet the six previous principles.
+
+California Consumer Privacy Act (CCPA)
+
+CCPA protects the privacy rights of California residents. CCPA is applicable to for-profit businesses that collect personal data from California residents, regardless of business location. The CCPA consists of 6 consumer rights.
+
+You have the right to know what information a company has collected about you, the types of sources, the purpose of collection, and third-party user access. 
+
+You have the right to request the deletion of your personal data and companies must comply.
+
+You have the right to deny the sale of your personal data.
+
+4. Right to non-discrimination
+
+You are protected against discrimination for exercising your CCPA rights.
+
+You have the right to request a correction of your inaccurate personal information. 
+
+6. Right to limit use
+
+You have the right to specify how your data is used.
+
+The Gramm-Leach-Bliley Act (GLBA)
+
+The GLBA applies to financial institutions within the United States and is designed to provide strict controls on how they handle consumer data. There are 3 rules to the GLBA.
+
+1. Financial Privacy Rule
+
+Regulates the collection and disclosure of private financial data.
+
+Financial institutions must establish security systems to protect financial data.
+
+3. Pretexting Provisions
+
+Prohibits accessing private data using false pretenses. 
+
+The cost of data misuse can range from thousands to billions of dollars in fines, not including ransomware or settlements resulting from the misuse. We’ve seen data misuse cases take center stage multiple times in recent years, and in every instance, there have been significant ramifications for the company and its customers.
+
+6 Examples of Corporate Data Misuse
+
+Facebook and Cambridge Analytica Election Influencing
+
+Twitter Targeted Advertising
+
+Google Location Tracking for Advertisers
+
+Uber “God View” Rider Tracking
+
+Morgan Stanley Data Breach
+
+Leave.EU and Eldon Insurance Data Commingling
+
+1. Facebook and Cambridge Analytica Election Influencing
+
+Perhaps the most infamous example of data misuse, in 2018, news outlets revealed that the UK political consulting firm acquired and used personal data from Facebook users that was initially collected from a third party for academic research. In total, Cambridge Analytica had unauthorized access to the data of nearly 87 million Facebook users—many of whom had not given any explicit permission for the company to use or even access their information. Within two months of the scandal, Cambridge Analytica was bankrupt and defunct, while Facebook was left with a $5 billion fine by the Federal Trade Commission.
+
+2. Twitter Targeted Advertising
+
+In September 2019, Twitter admitted to letting advertisers access its users’; personal data to improve the targeting of marketing campaigns. Cited by the company as an internal error, the bug allowed Twitter’s Tailored Audiences advertisers access to user email addresses and phone numbers. Twitter’s ad buyers could then cross-reference their marketing database with Twitters to identify shared customers and serve them targeted ads—all without our permission.
+
+Not to be outdone, preliminary investigations in a European Union competition watchdog effort found the online retailer “appears to use competitively sensitive information – about marketplace sellers, their products and transactions on the marketplace.” The EU went on to open a second investigation in 2020 concerning the retailer’s use of non-public independent seller data. The outcomes of both are still pending.
+
+3. Google Location Tracking for Advertisers
+
+Google was fined nearly $57 million in 2020 by the French data protection authority for failing to acknowledge how it used users’ personal data. During that same time, Ireland’s Data Protection Commission notified the global juggernaut of their intentions to investigate the company’s use of and transparency around user location data—its second notification since the GDPR was made policy in 2018.
+
+4. Uber “God View” Rider Tracking
+
+Getting in on data misuse before it was cool, Uber was fined $20,000 by the Federal Trade Commission (FTC) for its “God View” tool in 2014. “God View” let Uber employees access and track the location and movements of Uber riders without their permission. As a result of their settlement with the FTC, Uber paid their fine and agreed to hire an outside firm to audit their privacy practices every two years from 2014 through 2034.
+
+5. Morgan Stanley Data Breach
+
+And it’s not just tech firms! In 2015, a Morgan Stanley financial advisor pleaded guilty to taking the data for roughly 730,000 accounts—roughly 10% of the wealth management firm’s user base—and attempting to take that information with him to a competitor. In the security breach, the personal data of nearly 900 users was accessed and posted online by hackers that accessed the former employee’s home computer.
+
+6. Leave.EU and Eldon Insurance Data Commingling
+
+While the pro-Brexit group Leave.EU and UK insurance provider Eldon Insurance have very little in common on the surface, both organizations were co-founded by businessman Aaron Banks. In 2019, the UK’s Information Commissioner’s Office fined both organizations roughly $83,000 apiece for commingling customer data—political data for insurance and insurance data for politics.
+
+1 Example of Personal Data Misuse
+
+According to the Bureau of Justice, in 2021, about 23.9 million people (9% of U.S. residents age 16 or older) had been victims of identity theft during the prior 12 months. Identity theft is when someone steals personal information like your social security number, banking information, name, ID, etc. to pose as you rather than themselves, in any capacity. Identity theft can happen firsthand through having your wallet stolen or by someone finding your information on the dark web.
+
+What Are The Risks of Data Misuse?
+
+While the financial impact of data misuse shouldn’t be understated, perhaps the greatest business impact comes in the loss of trust between the company and its audience. 
+
+It is entirely reasonable to expect the companies that handle our data to do so securely and under the agreed terms. Anything sort of that agreement is a massive violation of trust between the people and the service provider—trust that is not easily rebuilt. Cambridge Analytica folded in less than three months, Google is still facing constant criticism, and Uber will be audited for the better part of the next two decades.
+
+While these actions may lack the malice of a traditional black hat cyberattack, data misuse increases the opportunities for these criminals to access private data. Many instances of data misuse start with employees or third-party vendors with legitimate access transferring company data from a secure server onto a personal device with less stringent data security features. Even the most robust network security provisions are irrelevant once data leaves the secure perimeter. Once that personal data—or access to it—is controlled by a more susceptible device, cybercriminals have a much easier path to accessing the personal data they desire.
+
+In 2020, hackers accessed 5.2 million Marriott guest records, including customer contact information, personal preferences, birthdays, and more. This attack succeeded because the attackers compromised employee credentials to access a third-party application. It was two months before anyone realized something was wrong.
+
+How Can Misuse of Data Be Prevented?
+
+Often, data misuse boils down to ignorance and negligence. However, as our digital footprints continue to grow and evolve, the necessity for responsible digital hygiene extends to every citizen of the internet—not just IT professionals. 
+
+That starts with improving our general online practices so that we as users are more selective about the companies we trust with our data and that we, as professionals, are treating our customers’ data with the same care we would our own.
+
+1. Leave work at work
+
+Don’t mix professional and personal devices. Never download workplace data to your personal laptop, smartphone, desktop, home server, or whatever device you choose, no matter how fancy your home firewall, encryption, or VPN may be. This mixture of circumstances only invites further scrutiny and additional opportunities for cyber-attacks.
+
+2. Practice conscious digital hygiene
+
+Phishing instances have skyrocketed in recent years, and while many users are more and more confident in their ability to sniff out bad actors, there’s always one person on our social media feeds trying to sell knock-off Ray-Bans. Don’t fall for the cheap tactics of bad actors. Confirm URLs before submitting personal data, don’t click links from email addresses you don’t recognize, and use complex passwords.
+
+For organizations and individuals alike, putting your faith in the wrong partner can have disastrous results. As we saw on Facebook and Marriott, poor practices by a third-party vendor can not only compromise entire organizational networks but can sully the trust between brands and their customers in an instant. Likewise, we ought to carefully measure the quality of the places where we share our personal data.
+
+While we can refine and perfect our online habits to prevent our own potential misuse, we rarely get to set data policies for the companies we frequent. We as users and customers and contributors must hold the brands we trust accountable for maintaining those expectations. Change never happens out of complacency; whether it’s Big Tech or Wall Street, the only way organizations create serious policy around data misuse is when their customers demand it. Organizations should have basic security structures like behavior alerts and access management tools complemented by need-to-know access and zero-trust architectures. Likewise, we as consumers have a right to clear data collection policies and transparent use cases.
+
+As governing policies like the EU’s GDPR or California’s CCPA continue to shape the future of data regulation, it is only a matter of time before global expectations around data ownership and data misuse become more explicit expectations in every region.
+
+How is Invisibly Combatting Data Misuse?
+
+If you bank online, use social media, or send emails through any large tech platform, then your data is already being shared and sold for profit. It’s time to reclaim its worth and use it to unlock premium rewards instead of giving it away for free.
+
+Invisibly is a platform that allows you to maximize the value of your data and earn brand rewards for it. The data collected is the data you decide to share – putting you in direct control, always. Connect your bank or credit card account(s), take surveys, and earn points to unlock your rewards from brand partners including Target, Ulta Beauty, Best Buy, and many more.
+
+See your data work for you.
+
+See your data work for you.

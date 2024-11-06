@@ -1,0 +1,1445 @@
+MuslimArticlePDF Available
+
+A New Islamic Rating Index of Well-Being for Muslim Countries
+
+DOI:10.12816/0009740
+
+International Institute of Advanced Islamic Studies (IAIS) Malaysia
+
+Download full-text PDFRead full-text
+
+Download full-text PDF
+
+Copy link Link copied
+
+Copy link Link copied
+
+The differing views that various parties and states hold regarding the efficacy of their lslamisation approach and its impact nationally remain unresolved until today. This paper is an attempt to assess the well-being of countries in an objective and scientific manner. It introduces a new Islamic Index of Well-being (IIW) for Muslim Majority Countries (NMCs), which is based on principles derived from the Qur'an and Sunnah to comprise the key fields of Personal Religiosity and Social Interactions. These two elements are given equal weighting. The Religiosity element is obtained from published data of the Pew Research Center for indicators of the percentage of Muslim citizens who perform obligatory practices of praying five times daily, men attending the mosque at least once weekly, and Muslims fasting in Ramadan (or paying zakah). Research has shown a direct, positive relationship between Religiosity levels and psychological well-being. Five parameters are assessed for the Social Interactions performance of MMCs: secondary education, good status of women, care of children, limited income inequality and elimination of corruption. From an Islamic perspective, governments are required to assist weaker members of society, which is reflected in indicators used to determine the status of women, children and the poor. The resultant IIWs calculated for the 27 (Arab Gulf countries were not surveyed) out of a total 50 MMCs plus Nigeria show that the highest IIW levels are in Southeast Asia (Malaysia and Indonesia take the top positions), followed by Senegal and the Palestinian Territories. Middle Eastern countries follow, then sub-Saharan African countries with overlap, while former Communist bloc countries generally have the lowest indices. 2012 IIWs represent a base level for the measurement of country improvements in years to come.
+
+Discover the world's research
+
+135+ million publications
+
+700k+ research projectsJoin for free
+
+Content uploaded by Daud Batchelor
+
+All content in this area was uploaded by Daud Batchelor on Feb 28, 2018
+
+Content may be subject to copyright.
+
+ICR 4.2 Produced and distributed by IAIS Malaysia ISLAM AND CIVILISATIONAL RENEWAL
+
+To determine the condition and progress of MMCs in terms of the attainment
+
+of well-being by their citizenry there is a need to identify suitable indicators for an
+
+objective assessment that would allow one to rate the countries accordingly. This
+
+would provide numerous benets; not the least, to enable the Ummah to identify
+
+countries that successfully demonstrate a high level of well-being, which could
+
+possibly represent models for the leaders of other countries who are striving to
+
+realise the virtues of Islam.
+
+Table 1 Features of Muslim Majority Countries
+
+Independence Colonial
+
+1 Afghanistan 99.8 29.05 29.11 1747 Persia
+
+2 Albania 82.1 2.60 3.17 1912 Ottoman
+
+3 Algeria 98.2 34.78 35.42 1962 French
+
+4 Azerbaijan 98.4 8.80 8.94 1991 USSR
+
+5 Bahrain 81.2 0.66 0.81 1971 British
+
+6 Bangladesh 90.4 148.61 164.39 1971 British
+
+7 Brunei 51.9 0.21 0.41 1984 British
+
+8 Burkina Faso 58.9 9.60 16.30 1960 French
+
+9 Chad 55.7 6.40 11.50 1960 French
+
+10 Comoros 98.3 0.68 0.69 1975 British
+
+11 Djibouti 97.0 0.85 0.88 1977 French
+
+12 Egypt 94.7 80.02 84.50 1922 British
+
+13 Gambia 95.3 1.67 1.75 1965 British
+
+14 Guinea 84.2 8.69 10.32 1958 French
+
+15 Guinea-Bissau 50.0 0.82 1.65 1974 Portuguese
+
+16 Indonesia 88.1 204.85 232.52 1949 Dutch
+
+17 Iran 99.7 74.82 75.04 N/A N/A
+
+18 Iraq 98.9 31.11 31.45 1932 British
+
+19 Jordan 98.8 6.40 6.47 1946 British
+
+20 Kazakhstan 56.4 8.89 15.76 1991 USSR
+
+21 Kosovo 91.7 2.10 2.29 2008 Serbia
+
+22 Kuwait 86.4 2.64 3.05 1961 British
+
+23 Kyrgyzstan 88.8 4.93 5.55 1991 USSR
+
+24 Lebanon 59.7 2.54 4.26 1943 French
+
+25 Libya 96.6 6.32 6.55 1951 British
+
+A NEW ISLAMIC RATING INDEX OF WELL-BEING
+
+FOR MUSLIM COUNTRIES
+
+Daud Abdul-Fattah Batchelor*
+
+Abstract: The differing views that various parties and states hold regarding
+
+the efcacy of their Islamisation approach and its impact nationally remain
+
+unresolved until today. This paper is an attempt to assess the well-being of
+
+countries in an objective and scientic manner. It introduces a new Islamic
+
+Index of Well-being (IIW) for Muslim Majority Countries (MMCs), which is based
+
+on principles derived from the Qur’an and Sunnah to comprise the key elds
+
+of Personal Religiosity and Social Interactions. These two elements are given
+
+equal weighting. The Religiosity element is obtained from published data of
+
+the Pew Research Center for indicators of the percentage of Muslim citizens
+
+who perform obligatory practices of praying ve times daily, men attending
+
+the mosque at least once weekly, and Muslims fasting in Ramadan (or paying
+
+zakah). Research has shown a direct, positive relationship between Religiosity
+
+levels and psychological well-being. Five parameters are assessed for the
+
+Social Interactions performance of MMCs: secondary education, good status
+
+of women, care of children, limited income inequality and elimination of
+
+corruption. From an Islamic perspective, governments are required to assist
+
+weaker members of society, which is reected in indicators used to determine
+
+the status of women, children and the poor. The resultant IIWs calculated
+
+for the 27 (Arab Gulf countries were not surveyed) out of a total 50 MMCs
+
+plus Nigeria show that the highest IIW levels are in Southeast Asia (Malaysia
+
+and Indonesia take the top positions), followed by Senegal and the Palestinian
+
+Territories. Middle Eastern countries follow, then sub-Saharan African
+
+countries with overlap, while former Communist bloc countries generally have
+
+the lowest indices. 2012 IIWs represent a base level for the measurement of
+
+country improvements in years to come.
+
+The fty Muslim Majority Countries (MMCs) in 2010 had 1.2 billion of the total
+
+Muslim population of 1.6 billion - 23 percent of the world population (Table 1).
+
+The Muslims comprise the Muslim Ummah or world community of believers in
+
+Islam. The MMCs are located in specic regions: the Middle East, West Africa,
+
+East Africa, South Asia, Central Asia, Southern Europe and Southeast Asia.
+
+Guinea-Bissau is included as an MMC on the basis that a reputable source cites
+
+Muslims as being 50% of its population.1 Nigeria with a Muslim population of
+
+75 million, though included in this assessment, may not yet be an MMC but is
+
+expected to become one by 2030.
+
+A NEW ISLAMIC RATING INDEX OF WELL-BEING FOR MUSLIM COUNTRIES
+
+ISLAM AND CIVILISATIONAL RENEWAL ICR 4.2 Produced and distributed by IAIS Malaysia
+
+What might “well-being” from an Islamic perspective be, and how could it be
+
+measured? One approach is provided here for assessing the overall condition of
+
+a population and the general state of its citizens. God, The Most High, states in
+
+Verily the most honoured of you in the Sight of Allah is (he who is) the most
+
+righteous. (Al-Hujurat, 49:13)
+
+This could be understood to mean that the “best” country in terms of Islamic
+
+well-being is the one that can be shown to possess the greatest proportion of
+
+righteous individuals in the Muslim population who display God-consciousness.
+
+In the Qur’an these are the muttaqun and are described as follows:
+
+True piety [is] to believe in Allah and the Last Day, and the Angels, and the Book,
+
+and the Messengers; to spend of your substance, out of love for Him, for your kin,
+
+for orphans, for the needy, for the wayfarer, for those who ask … to be steadfast
+
+in Prayer, and practice regular Charity … Such are the people of truth, the God-
+
+conscious (al-muttaqun). (Al-Baqarah, 2:177)
+
+The combination of belief (Iman) and righteous practices (‘amal Salihah) leads
+
+to an internal satisfaction of the heart, which could be understood as indicating
+
+Islamic well-being, as suggested by the following verse:
+
+Those who believe and whose hearts nd satisfaction in the remembrance of Allah;
+
+for without doubt in the remembrance of Allah do hearts nd satisfaction. For those
+
+who believe and work righteousness is (every) blessedness. (Al-Ra‘d, 13: 28-29)
+
+If the performance of righteous deeds is the ultimate proof of correct belief
+
+and God-consciousness, then when assessing what we term Personal “Islamicity”
+
+(Islamic Religiosity or Acts of Worship) in each Muslim country, emphasis ought
+
+to be placed upon the key practices of Islam, rather than the sole act of declaring
+
+the Faith (shahadah). Whereas the declaration of Faith is the bedrock requirement
+
+for all who claim to be Muslim, the number of such Muslims includes a portion
+
+of nominal Muslims who do not carry out all of the obligatory prayers, fast or pay
+
+zakah. Emphasis has been given in the current assessment to identify practicing
+
+Muslims since these are the ones who will most likely experience the benets
+
+of well-being from performing their acts of worship. For example, performing
+
+regular prayers prevents one from immoral actions:
+
+Establish regular prayer, for Prayer restrains from shameful and unjust deeds. (Al-
+
+DAUD ABDUL-FATTAH BATCHELOR A NEW ISLAMIC RATING INDEX OF WELL-BEING FOR MUSLIM COUNTRIES
+
+Independence Colonial
+
+26 Malaysia 61.4 17.14 27.91 1963 British
+
+27 Maldives 98.4 0.31 0.31 1965 British
+
+28 Mali 92.4 12.32 13.33 1960 French
+
+29 Mauritania 99.2 3.34 3.36 1960 French
+
+30 Mayotte 98.8 0.20 0.20 N/A French
+
+31 Morocco 99.9 32.38 32.41 1955 French
+
+32 Niger 98.3 15.63 16.55 1960 French
+
+33 Oman 87.7 2.55 2.90 1650 Portuguese
+
+34 Pakistan 96.4 178.10 184.75 1947 British
+
+Territories 97.5 4.30 4.41 N/A Israeli
+
+36 Qatar 77.5 1.17 1.51 1971 British
+
+37 Saudi Arabia 97.1 25.49 26.25 N/A N/A
+
+38 Senegal 95.9 12.33 12.86 1960 French
+
+39 Sierra Leone 71.5 4.17 5.83 1961 British
+
+40 Somalia 98.6 9.23 9.36 1960 British
+
+41 Sudan 71.4 30.86 43.21 1956 British
+
+42 Syria 92.8 20.90 22.52 1946 British
+
+43 Tajikistan 99.0 7.01 7.08 1991 USSR
+
+44 Tunisia 99.8 10.35 10.37 1956 French
+
+45 Turkey 98.6 74.66 75.72 N/A N/A
+
+46 Turkmenistan 93.3 4.83 5.18 1991 USSR
+
+Emirates 76.0 3.58 4.71 1971 British
+
+48 Uzbekistan 96.5 26.83 27.81 1991 USSR
+
+Sahara 99.6 0.53 0.53 N/A Spain
+
+50 Yemen 99.0 24.02 24.27 1962 British
+
+51 Nigeria 47.9 75.73 158.10 1960 British
+
+World 23.4 1619.31 6920.13
+
+Notes: N/A = not applicable. Population gures are from the Pew Research Center report (2012) except for
+
+Guinea-Bissau. Data on colonisation and independence dates are largely from Samiul Hassan (2007). Self-
+
+declared independence by Kosovo is recognised by 94 from 193 UN member states. Mayotte is governed
+
+by France. Western Sahara is jointly controlled or claimed by Morocco and the Polisario Front. Figures
+
+apply to Sudan in 2010 prior to the separation of South Sudan in 2011.
+
+ISLAM AND CIVILISATIONAL RENEWAL ICR 4.2 Produced and distributed by IAIS Malaysia
+
+recognised that researchers did not cover some countries with signicant Muslim
+
+populations, such as the Gulf Arab countries. The Pew Forum’s survey included
+
+every nation with a Muslim population of more than 10 million, except Algeria,
+
+China, India, Iran, Saudi Arabia, Sudan, Syria and Yemen, “where political
+
+sensitivities or security concerns prevented opinion research among Muslims”.
+
+These are important Muslim communities that, it is hoped, will be covered in
+
+future surveys. The minimum number of Muslims interviewed in the MMCs in
+
+the 2008-09 survey was 373 in Guinea-Bissau, and in the 2011-12 survey, 551 in
+
+Lebanon. Otherwise, the range in Muslims interviewed in MMCs in 2008-09 was
+
+811 (Chad) to 1452 (Djibouti), and 788 (Albania) to 1918 (Bangladesh) in 2011-12.
+
+Similar to the approach taken by the Organisation for Economic Co-operation
+
+and Development (OECD) in developing their well-being indicators,4 the
+
+indicators to assess Islamic well-being have been selected for two quality criteria:
+
+rst, conceptual soundness and relevance, and secondly, for their reliance on data
+
+of high quality based on established standards from reputable sources such as the
+
+United Nations, the World Bank, and Transparency International. The Islamic
+
+well-being indicators used in the current assessment are considered to be in a state
+
+of development; if better indicators can be found, these could be incorporated in
+
+The key parameters from the Pew Center report that are available for the
+
+current study to assess Personal Islamicity (Acts of Worship or Ibadat) include
+
+the profession of faith, that is, the percentage of the Muslim population who
+
+say they believe in one God and the Prophet Muhammad (PBUH), and then
+
+the practices or pillars of Islam, which comprise the obligatory ve times daily
+
+prayer (salah) and attendance at congregational prayers at a mosque (masjid)
+
+on Fridays,5 fasting (Siyam) during Ramadan, and giving alms (Zakah). For the
+
+latter two criteria the writer proposes to use a single indicator, the percentage
+
+of the Muslim population fasting, unless the percentage paying zakah is higher,
+
+in which case it would be the one used. In a Muslim community, only those
+
+whose incomes exceed a minimum threshold are required to pay zakah and so
+
+the percentage of people fasting would normally at least equal the percentage
+
+Not all Muslims are required to perform the pilgrimage to Mecca, the haj,
+
+which is limited to those who can afford it and are well enough to sustain the
+
+hardships involved. Performance of the haj is therefore dependent on factors
+
+such as wealth and health status as well as proximity to Saudi Arabia. Due to
+
+the various factors constraining one’s ability to perform haj and the complexity
+
+involved in assessing comparative religiosity levels from a nation’s collective
+
+haj performance, we have not included assessment of this element in a country’s
+
+Research since the mid-2000s indicates strongly and consistently that Muslims
+
+displaying higher religiosity in the main enjoy a greater sense of subjective or
+
+psychological well-being than those less religious.2 The benets of Personal
+
+Religiosity are in line with the character of the practicing Muslim as described
+
+Verily, man was created very impatient; irritable when evil touches him; and niggardly
+
+when good reaches him. Except those who are devoted to Salah [prayers] - those
+
+who remain constant in their Salah - and those in whose wealth is a recognized
+
+right for the (needy) who asks, and him who is prevented (for some reason from
+
+asking). (Al-Ma‘arij 70: 19-25)
+
+Key parameters will be identied for Personal Religiosity as well as state societal
+
+responsibilities (Social Interactions) that are believed to be both an objective and
+
+reliable representation of well-being from an Islamic perspective. The benets of
+
+determining the ensuing well-being rating are believed to be the following:
+
+1. Identifying role model countries that demonstrate a high level of well-
+
+being for other less-well placed countries.
+
+2. Providing a tool using the identied parameters and assessment criteria
+
+or indicators for state planning efforts to help identify development
+
+targets for improvements to enhance well-being.
+
+3. Identifying countries that although performing well in terms of Personal
+
+Religiosity, have limited material resources for development and are
+
+worthy of nancial support to enable them to advance towards a condition
+
+of more holistic well-being.
+
+This assessment and rating of the well-being status of Muslim-majority
+
+countries represents the rst of its kind, to the knowledge of the author. It provides
+
+comparative information on key indicators selected based on Islamic and ethical
+
+considerations. May Allah enlighten us further on this subject for the benet of
+
+Methodology, Parameters and Data Acquisition
+
+The August 2012 report of the Pew Research Center, based in the United States,
+
+entitled “The World’s Muslims: Unity and Diversity”,3 is of clear relevance
+
+to our current assessment. This report from The Pew Forum on Religion and
+
+Public Life provides statistical data that allows a semi-quantitative evaluation of
+
+the Personal Islamicity (or Religiosity) of Muslims interviewed in 15 countries
+
+during 2008-2009 and 24 other countries in 2011-2012. The report was based
+
+on a large number (38,000) of face-to-face interviews, though it should be
+
+DAUD ABDUL-FATTAH BATCHELOR A NEW ISLAMIC RATING INDEX OF WELL-BEING FOR MUSLIM COUNTRIES
+
+ISLAM AND CIVILISATIONAL RENEWAL ICR 4.2 Produced and distributed by IAIS Malaysia
+
+Education to Secondary Level
+
+The Qur’an and the Sunnah are replete with appeals for Muslims to enhance their
+
+knowledge, and not only religious knowledge:
+
+Are those who know and those who do not know alike? (Al Zumar, 39:9)
+
+The superiority of the learned man over a [mere] worshipper is like my superiority
+
+over the least of you.8
+
+It is the duty of an Islamic government to ensure that all citizens, male and
+
+female, receive an education so as to understand the essentials of Islam, and
+
+to provide a means of livelihood for themselves and their families. Today a
+
+secondary education is really the minimum required for a person to achieve well-
+
+being. According to the author of “The Ideal Muslim Society”, education in
+
+Muslim Society is essential for both boys and girls and must be made available.
+
+Failure to provide education should be regarded as an illegal action on the basis
+
+of this legal responsibility.9
+
+An indicator to assess this is the adult literacy rate for both genders aged 15
+
+and over. The OECD uses a similar (though stricter) indicator for measuring this
+
+parameter (i.e., per cent of the adult population, 15 to 64 years of age, holding at
+
+least an upper secondary degree) and emphasises the major secondary benets
+
+deriving from education: “Using controls for income, race, social status and other
+
+variables, research has shown that education tends to be correlated with better
+
+health, lower crime, political and community participation and social cohesion.”
+
+It also has both immediate and long-term positive effects on self-reported
+
+From Islamic considerations, two indicators are chosen to assess this parameter.
+
+First, Islam in no way emphasises the education of men over women, and the
+
+Prophet stressed the obligatory duty of every Muslim woman (and man) to seek
+
+Search for knowledge is a sacred duty imposed on every Muslim man and woman.11
+
+Women have the same need as men to recognise the obligatory nature of the
+
+acts of worship they are required to perform according to Islam. They are also the
+
+main inuence in the upbringing of their children as good Muslims and so need to
+
+have correct knowledge to impart. Women, like men, are encouraged to read the
+
+Qur’an on a regular basis. All of this requires them not only to read and write, but
+
+to absorb and understand knowledge and act upon it. Men may be the protectors
+
+of women in the traditional Islamic world view with the responsibility to provide
+
+DAUD ABDUL-FATTAH BATCHELOR
+
+Emphasis in the rating of countries in the present study will be given rst and
+
+foremost to the criterion of performing the prescribed daily prayers that Allah
+
+Himself has prioritised:
+
+The Messenger of Allah said, “The rst deed that the servant will be held to account
+
+for on the Day of Judgement is the prayer. If it is good, he will be successful and
+
+safe, but if it is not good, he will be of the unfortunate and wretched.” (Tirmidhi)
+
+The beliefs and practices discussed above are related to the relationship of
+
+the worshipper with his Creator. However, an observant Muslim also has duties
+
+towards his fellow humans, which represent the eld of Social Interactions or
+
+Mu’amalat. These are related to the ve fundamental and essential objectives
+
+(maqasid) of the Shari‘ah, namely the protection of faith, life, lineage, intellect
+
+and property. Abu Hamid al-Ghazali was generally skeptical of using maslahah as
+
+a source of law but approved it if it is in harmony with the essential objectives of
+
+the Shari‘ah. This is in line with the basic denition of maslahah, which consists
+
+of considerations of well-being that secure benet or prevent harm (mafsadah) but
+
+which are simultaneously harmonious with the Shari‘ah objectives.6 Combating
+
+corruption, bribery and ofcial abuse would then also fall within the purview of
+
+A country’s leaders as servants of the community are responsible to Allah to
+
+improve the welfare of the population and guide them to do good as implied by
+
+the Prophet PBUH in the following hadith:
+
+A ruler who has been entrusted with the affairs of the Muslims, but makes no
+
+endeavour (for their material and moral uplift) and is not sincerely concerned (for
+
+their welfare) will not enter Paradise along with them. (Muslim 1:82)
+
+A major test for well-being is particularly how the Muslim country or
+
+community discharges its duties towards weaker and disadvantaged members
+
+of their society who could easily become neglected, especially, children, women
+
+and the poor. Their uplift reects positively on the overall health of a society.
+
+Since one important legal maxim of Shari’ah states, “The imam’s (head of state)
+
+performance is judged by reference to people’s welfare,” Mohammad Hashim
+
+Kamali pointed out that this becomes the single most important criterion by
+
+which to evaluate success or failure of a government in Islam.7 On this basis,
+
+the following parameters of Social Interaction are seen as being necessary for a
+
+community to display true well-being: (1) a secondary education for all, (2) good
+
+treatment of women, (3) care of children, (4) limited income inequality, and (5)
+
+elimination of corruption. These parameters are also chosen over others since
+
+relatively comprehensive annual data to assess them are easily available from
+
+reputable published sources.
+
+A NEW ISLAMIC RATING INDEX OF WELL-BEING FOR MUSLIM COUNTRIES
+
+ISLAM AND CIVILISATIONAL RENEWAL ICR 4.2 Produced and distributed by IAIS Malaysia
+
+Adolescents who live in broken families are more likely to engage in substance
+
+abuse, exhibit behavioural problems, have poor academic performance, and
+
+engage in risky behavior.15 The indicator proposed to reect the above criterion
+
+is the United Nations’ country “crude divorce rate”, based on the number of
+
+divorces per 1,000 mid-year total population.
+
+The second proposed indicator here is the UN country “under-ve mortality
+
+rate”, the probability per 1,000 that a newborn baby will die before reaching age
+
+ve. High rates indicate either negligence or the economic inability of states to
+
+properly care for their newly-born citizens, and researchers have argued that high
+
+infant mortality rates correlate very strongly with state failure.16
+
+Equitable Distribution of Wealth
+
+In the Islamic world-view, as expounded by Muhammad Asad, Muhammad
+
+Hashim Kamali17 and others, governments are obliged to protect the disadvantaged
+
+in accordance with the juristic principle that “averting of harm from the poor
+
+takes priority over the welfare of the wealthy”.18 Muhammad Asad has argued
+
+that the state is responsible to provide its citizens with basic economic facilities,
+
+citing the hadith which begins: “Behold, every one of you is a shepherd; and
+
+everyone is responsible for his ock. Thus the Imam [the government] that has
+
+been placed over the people is a shepherd, and is responsible for his ock.”19 Asad
+
+considered that Islam demands a society that provides not only for the spiritual
+
+needs of its members but for their bodily needs as well, and that a state “to be
+
+truly Islamic, must arrange the affairs of the community in such a way that every
+
+individual, man and woman, shall enjoy that minimum of material well-being
+
+without which there can be no human dignity, no real freedom and, in the last
+
+resort, no spiritual progress”. In an Islamic state “there shall be no soul-grinding
+
+poverty side by side with afuence”.20 This is the purport of Prophet Muhammad
+
+He is not a faithful who eats his ll while his neighbour remains hungry by his side.21
+
+Asad reiterated that poverty in the midst of plenty is a negation of the very
+
+principle of brotherhood for which Islam stands, since the Prophet had stated:
+
+By him in Whose hand I repose! No one has real faith unless he desires for his
+
+brother that which he desires for himself.22
+
+Consequently he believed, “The Islamic state must see to it that equity prevails
+
+within the community, and that every citizen – man, woman and child – shall
+
+have enough to eat and to wear, shall be succoured in case of illness, and have
+
+a decent home in which to live.” This view is buttressed by considering Caliph
+
+support, but women in the family could have greater intelligence and Islamic
+
+and temporal knowledge. Consequently, there are no grounds for discrimination
+
+against women in this criterion. Status of women is partially assessed using the
+
+United Nations’ published data on Female/Male Ratio in Secondary Education of
+
+the country’s population who are 25 years and older.
+
+A second indicator proposed to assess women’s status in a given country is the
+
+published country data on Maternal Mortality Rate per number of live births. This
+
+would be in accordance with the Qur’an’s specic call, in a passage highlighting
+
+the sacrices women make in giving birth, to:
+
+Reverence Allah through Whom you demand your mutual (rights), and (reverence)
+
+the wombs (that bore you). (al-Nisa’, 4:1)
+
+The Prophet (PBUH) has also stressed the great importance of respecting one’s
+
+A man came to the Prophet and said, “O Messenger of God! Who among the
+
+people is the most worthy of my good companionship?” The Prophet said: “Your
+
+mother.” The man said, “Then who?” The Prophet said, “Then your mother.” The
+
+man further asked, “Then who?” The Prophet said, “Then your mother.” The man
+
+asked again, “Then who?” The Prophet said, “Then your father.”12
+
+Logically then, in a truly Islamic society special care would be taken to minimise
+
+maternal mortality, which can be an indicator of how a country treats expectant
+
+Providing a healthy nurturing family environment for the upbringing of children
+
+is a key Islamic value, so two indicators are proposed to assess the care of children
+
+Prophet Muhammad (PBUH) has said:
+
+The most hated of permissible acts to Allah is divorce. (Abu Dawud, Hadith 1863)
+
+Children are generally the most severely impacted when parents divorce. Divorce
+
+increases the risk that children will suffer from psychological and behavioural
+
+problems, and since young children develop a bond with their primary caretaker,
+
+taking this person away too early disturbs the social and emotional development
+
+process, which might result in serious long-lasting problems.13 It is clearly in the
+
+interest of the community then to minimise the incidence of divorce. Divorce
+
+also has other serious side-effects, and research has shown an increase in violent
+
+crime resulting from the easing of divorce procedures in the United States.14
+
+DAUD ABDUL-FATTAH BATCHELOR A NEW ISLAMIC RATING INDEX OF WELL-BEING FOR MUSLIM COUNTRIES
+
+ISLAM AND CIVILISATIONAL RENEWAL ICR 4.2 Produced and distributed by IAIS Malaysia
+
+decrees and serious human rights abuses. Negative features such as these would
+
+obviously distance citizens from a state of well-being.28
+
+The indicator that is proposed to assess a country’s corruption level is the
+
+Corruption Perceptions Index (CPI) developed by Transparency International.29
+
+The 2012 CPI is a composite index based on multiple expert opinion surveys that
+
+poll perceptions of public sector corruption in 176 countries around the world.
+
+It scored countries on a scale from zero to one hundred, with a score of zero
+
+indicating extreme levels of perceived corruption.
+
+Rating the Comparative Well-Being of Muslim Majority Countries
+
+In light of the foregoing, the present writer proposes a semi-quantitative method
+
+for identifying the relative position of countries in terms of well-being. Each of
+
+the parameters previously discussed is identied in quantitative terms according
+
+to published statistics. All MMCs for which numerical data is available are
+
+then “banded” into ve 20-centile bands ranging from what is termed “very
+
+good”, to “good”, “average”, “fair” and “poor”. There is no attempt here to
+
+identify an absolute quantitative gure as ideal. The middle band represents
+
+average MMCs while the top band represents countries that reect a measure
+
+of relative excellence in a particular eld. This however should never encourage
+
+complacency since levels of achievement in seeking Allah’s good pleasure could
+
+be considered virtually innite.
+
+In the semi-quantitative assessment used for each parameter and indicator,
+
+countries are then awarded points of 5, 4, 3, 2, 1, in order from the top band to the
+
+bottom for each of the ve bands. The writer proposes for this exercise that each
+
+indicator and parameter has equal weighting. Also, the assessed outcome value
+
+out of ve for each of the Personal Religiosity and Social Interaction positions
+
+is given equal weighting and then combined to provide a total well-being index
+
+gure out of ten. A benet of giving equal weighting in all these cases is that
+
+although it is arbitrary, it is not subject to any personal bias. In those cases where
+
+two indicators are used to determine a value for a parameter (e.g. divorce rate
+
+and under age of 5 mortality rate as indicators for welfare of children), the value
+
+is also obtained by averaging the score of each indicator. The positions of the
+
+MMCs in terms of the Islamic Index of Well-being (IIW) are then determined.
+
+The resultant ranking of countries is approximate rather than rigorously exact.
+
+However, it should nonetheless be meaningful and unbiased.
+
+Well-being indices have been a topic of deep interest in the West, notably
+
+from the Organisation for Economic Co-operation and Development (OECD),
+
+which described the existence of various contentious views on the underlying
+
+philosophy and the selection and weighting of the various component indicators
+
+used.30 Examples of such well-being measures, which are generally of a composite
+
+Ali’s (RA) interpretation of Surah Baqarah, verse 177 and the verse below, that
+
+“God Most High has made it obligatory on the rich to provide the poor with what
+
+is adequate for them”:23
+
+As to the Righteous … in their wealth and possessions was a portion due to him
+
+who begs (the needy) and to him who was prevented (from asking). (al-Dhariyat
+
+Muhammad Ali Al-Hashimi also highlighted the importance of limiting
+
+income inequality: “This social balance that Islam seeks to achieve by narrowing
+
+the gap between rich and poor is in direct contrast to the society that has drifted
+
+away from divine guidance, in which you will nd an astoundingly huge gap
+
+between rich and poor.”24
+
+Both the Fordham Index of Social Health and the Osberg Index of Economic
+
+Well-being use the Gini index of inequality to formulate their indices. An ideal
+
+Islamic economic system does not require absolute equality, but one would
+
+not expect extreme distributions between the rich and poor. As highlighted by
+
+the OECD in considering economic well-being, “A certain degree of income
+
+inequality may be desirable for ensuring incentives for work and may also reect
+
+the preferences of individuals for a particular lifestyle, place of living, occupation
+
+and balance between leisure and work.”29 However, in developing countries, the
+
+inequality should not be a reection of the wealthy disregarding the needs of the
+
+poor, or even worse, the poor being unable to progress due to corruption at the top.
+
+The Income Gini coefcient is therefore the indicator proposed to be used here
+
+to reect social equity. It is a measure of the deviation from an equal distribution
+
+of the distribution of income among households within a country. A value of 0
+
+represents absolute equality where every household has the same income, while
+
+a value of 100 represents absolute inequality where one household receives all
+
+of the country’s income.26 While the main source of this data is the World Bank
+
+2011 gures, those not available here are additionally sourced from the Global
+
+Peace Index estimates.
+
+Elimination of Corruption
+
+Although many majority Muslim countries in fact exhibit high levels of corruption,
+
+the Islamic position against this is clear. The Prophet himself (PBUH) declared:
+
+Cursed is the one who bribes and the one who takes a bribe.27
+
+Corruption in one form or another is a primary cause in the collapse of
+
+civilisations and an anathema to Islamic values as it is also accompanied by
+
+large disparities in incomes and wealth, the harsh implementation of government
+
+DAUD ABDUL-FATTAH BATCHELOR A NEW ISLAMIC RATING INDEX OF WELL-BEING FOR MUSLIM COUNTRIES
+
+ISLAM AND CIVILISATIONAL RENEWAL ICR 4.2 Produced and distributed by IAIS Malaysia
+
+In the matter of responses to the highly personal questions on the Acts of
+
+Worship, key issues regarding data reliability would include, rst, whether
+
+the interviewee properly understood the question, and second, whether the
+
+interviewee would be embarrassed to admit that he or she does not pray ve
+
+times daily or complete other religious obligations, and consequently answers
+
+incorrectly in the afrmative to these questions. The participation rates could
+
+well be lower than indicated from the surveys.
+
+It should be acknowledged that in the Islamic faith it is believed God judges
+
+each act of worship on both the sincerity (ikhlas) and the quality (i.e., done
+
+correctly according to qhi rules) of the Acts of worship performed by the Muslim.
+
+The survey does not in any way address this quality, only the quantity of Acts
+
+of Worship practices. Societal ills would be expected to be lower in countries
+
+scoring higher in religiosity if the quality of the Acts of Worship is also high. This
+
+is because the true value of all deeds is dependent on the sincerity of the person
+
+doing them, which cannot be ascertained in such a survey. Yet acts normally do
+
+originate in intention, and one assumes the right intention lies behind the Acts of
+
+worship recorded in the surveys.
+
+Acts of Worship or Personal Religiosity (Islamicity)
+
+Table 2 shows that Afghanistan and the West African MMCs display the highest
+
+attachment to Acts of Worship or Personal Islamicity, followed by the Southeast
+
+Asian countries, South Asian countries, then the Middle Eastern countries and
+
+Turkey, and nally the former Communist bloc members in Central Asia and
+
+Southern Europe who display the lowest Islamicity levels. The low level of
+
+Personal Religiosity identied for Kazakhstan is in line with the similar nding
+
+of Riaz Hassan,33 who found among Muslims interviewed from seven Muslim-
+
+majority countries that Kazakhstan had the lowest level of Ummah-consciousness
+
+in terms of following standard Islamic beliefs and practices. Hassan believed this
+
+was due to the fact that the Kazak Muslim identity is based more on ethnicity and
+
+history rather than religiosity.
+
+Table 3 shows that most of the 47 Muslim majority countries surveyed in terms
+
+of indicators of Social Interactions congregate in specic zones of geographic,
+
+political, or cultural similarity, which display closely similar levels of well-being
+
+(best well-being on top, then reducing below):
+
+• Gulf Arab countries and Brunei (‘Oil Shaykhdoms’)
+
+• Malaysia, Indonesia; Kazakhstan and Tajikistan
+
+nature (as for the IIW), include the Genuine Progress Indicator (GPI), the United
+
+Nations’ Human Development Index, the Index of Social Health, the Index
+
+of Sustainable Economic Welfare (ISEW), and the Index of Economic Well-
+
+being. Most but not all emphasise human and social factors related to economic
+
+productivity. This writer looked at these indices to ascertain whether any of their
+
+components deserve inclusion within the IIW. Additional well-being parameters
+
+that may in future be assessed would be the status of the disabled as well as
+
+elderly citizens, though it is believed statistics on performance levels in these two
+
+sectors are not currently available across many MMCs.
+
+In preparing this assessment, consideration has been given rst to the validity
+
+of the statistical data used and secondly to the validity of the methodology
+
+used, including such matters as the selection of the parameters, selection of the
+
+indicator to represent each parameter, and then the weighting of the parameters.
+
+The approach taken here could be subject to review and improvement in future
+
+exercises of this nature. Data has been obtained from various sources including
+
+the United Nations, World Bank and the Pew Research Center on the basis that
+
+all data has been properly validated and is therefore reliable. Many of the well-
+
+being indicators used in the current assessment such as mortality rates, income
+
+disparity levels, and education indicators are also used by the United Nations and
+
+World Bank to evaluate the development needs of developing countries. There
+
+could be some concern regarding some of the data sources as to possible political
+
+bias against Muslim countries in their output.31
+
+Questions could be asked about the accuracy of the Pew Research Center
+
+data32 or how representative it is of the Muslim population as a whole. Although
+
+it is based on 38,000 face-to-face interviews in more than 80 languages, in some
+
+instances areas with high levels of insecurity or limited access were excluded
+
+from the national survey, which could have had some impact on the reliability of
+
+data, for example from Afghanistan. Pew Center reported “with 95% condence
+
+that the error attributable to collecting data from some, rather than all, members of
+
+the Muslim populations is plus or minus the margin of error”. The margin of error
+
+for the countries sampled was less than 5.6 points, except in Iraq (5.8 points),
+
+Lebanon (6.1 points), Palestinian Territories (6.3 points), and Turkey (5.8 points).
+
+In some countries the achieved sampling suffered some gender bias with more
+
+women being sampled in Azerbaijan and Uzbekistan and more men sampled in
+
+Afghanistan and Niger. Also there may have been some overrepresentation of
+
+highly educated respondents in Albania, the Palestinian Territories, Tajikistan
+
+DAUD ABDUL-FATTAH BATCHELOR A NEW ISLAMIC RATING INDEX OF WELL-BEING FOR MUSLIM COUNTRIES
+
+ISLAM AND CIVILISATIONAL RENEWAL ICR 4.2 Produced and distributed by IAIS Malaysia
+
+Gini income inequality indices of 27.8, 30.9 and 30.0, respectively, virtually the
+
+lowest among MMCs. To avoid giving an undeserved well-being “reward” for
+
+war-torn countries, these countries were marked down to an average Gini value
+
+when calculating the overall result for Social Interactions.
+
+Table 2 Parameters regarding Personal Religiosity for Wellbeing in Muslim
+
+Legend for Tables 2, 3 and 5
+
+• Other Central Asia, Turkey, the Middle East, Iran and Bangladesh
+
+• East Africa, Afghanistan and Pakistan
+
+This outcome suggests that governments of the so-called Oil Shaykhdoms
+
+have utilised their wealth from petroleum resources for the well-being of their
+
+For education to secondary level, best ranking countries are those among the
+
+former Soviet bloc, Qatar and Maldives, while the least are in West Africa.
+
+Regarding the rst indicator for women’s status, female to male secondary
+
+education, Qatar, Brunei, Kuwait, Syria and Libya have the highest rates of
+
+female secondary education attendance (female/male ratios above 1.00). This is
+
+somewhat skewed towards women’s education in some cases (especially Libya
+
+1.26 and Kuwait 1.19!), which may not necessarily be benecial for society.34
+
+However, the situation where a larger proportion of women is educated than
+
+men is similar to that found in most OECD countries.35 Very low ratios are
+
+exhibited by the West African countries (especially 0.29 for Burkina Faso) and
+
+Yemen (0.31), while Afghanistan unsurprisingly is the lowest (0.17). The Gulf
+
+Countries and Brunei exhibit the lowest maternal mortality rates while the worst
+
+rates are in West Africa and the Horn of Africa. From the criteria assessed, the
+
+condition of women would seem to be poorest in Afghanistan, Chad, Mali, Niger,
+
+Nigeria and Sierra Leone.
+
+Divorce rates are low in Yemen, Libya, Tajikistan, Uzbekistan and Indonesia.
+
+They are especially high in the Maldives, Kazakhstan and Jordan. The other
+
+indicator for care of children is infant mortality rates, which are low in the Gulf
+
+countries and Brunei but high in East and West Africa and Afghanistan.
+
+It is has been found consistently that in countries where adult literacy and
+
+female to male ratios for secondary education are high, infant and maternal
+
+mortality rates are low. Low adult literacy and female secondary education in
+
+countries are however directly correlated with high infant and maternal mortality
+
+rates. This would suggest the importance of education, especially for females,
+
+in obtaining good health outcomes for infants and women giving birth. Both
+
+under-5-year child and maternal mortality rates are extremely high in all sub-
+
+Saharan African countries. As an example, in Nigeria, it has been estimated
+
+that one million women and children die every year from largely preventable
+
+causes. Most of the childhood deaths are due to polio, malaria, measles, bacterial
+
+meningitis and malnutrition.36
+
+War seems to be a great leveller in terms of economic income since when
+
+an economy is devastated, wealth differentials reduce. This is one reading of
+
+the fact that war-torn countries, Afghanistan, Iraq, and Somalia, all show low
+
+DAUD ABDUL-FATTAH BATCHELOR A NEW ISLAMIC RATING INDEX OF WELL-BEING FOR MUSLIM COUNTRIES
+
+ISLAM AND CIVILISATIONAL RENEWAL ICR 4.2 Produced and distributed by IAIS Malaysia
+
+DAUD ABDUL-FATTAH BATCHELOR A NEW ISLAMIC RATING INDEX OF WELL-BEING FOR MUSLIM COUNTRIES
+
+Table 3 Parameters of Social Interaction for Wellbeing in Muslim Majority Countries
+
+Education Status of Women Care of Children Income Inequality Corruption
+
+Gini Income Equality,
+
+Emirates 2005 90.0 4 1.00 12 5 2004 0.9 7 4.5 2009b 31.0 5 68 5 23.5 4.7
+
+2 Brunei 2010 95.2 4 1.09 24 5 2004 1.1 7 4 N/A 55 5 18 4.5
+
+3 Kuwait 2008 93.9 4 1.19 14 5 2006 1.5 11 3 2009 b 30.0 5 44 5 22 4.4
+
+3 Oman 2008 86.6 3 0.89a 32 4 N/A 9 5 2009 b 32.0 5 47 5 22 4.4
+
+5 Bahrain 2010 91.9 4 0.93 20 4.5 2006 1.5 10 3 2009 b 36.0 5 51 5 21.5 4.3
+
+5 Saudi Arabia 2010 86.6 3 0.8 7 24 4.5 2005 1.1 9 4 2009 b 32.0 5 44 5 21.5 4.3
+
+7 Qatar 2010 96.3 5 1.14 7 5 2006 1.0 8 4.5 2007 41.1 1 68 5 20.5 4.1
+
+8 Kazakhstan 2010 99.7 5 0.97 51 4 2006 2.3 28 2.5 2007 30.9 5 28 3 19.5 3.9
+
+9 Albania 2008 95.9 5 0.93 27 4 2006 1.3 14 3 2008 34.5 4 33 3 19 3.8
+
+9 Malaysia 2010 93.1 4 0.91 29 4 N/A 7 5 2009 46.2 1 49 5 19 3.8
+
+11 Azerbaijan 2009 99.8 5 0.94a 43 4 2007 1.0 45 3.5 2008 33.7 4 27 2 18.5 3.7
+
+11 Tajikistan 2010 99.7 5 1.09 65 4 2006 0.4 63 3.5 2007 29.4 5 22 1 18.5 3.7
+
+Territories 2010 94.9 4 0.8 1a 64 3 2006 1.0 22 4 N/A N/A 11 3.7
+
+14 Maldives 2006 98.4 5 0.84 60 3.5 2005 5.9 11 3 2004 37.4 3 25c 3 17.5 3.5
+
+15 Jordan 2010 92.6 4 0.7 7 63 3 2006 2.0 21 2.5 2002 37.7 3 48 5 17.5 3.5
+
+15 Kyrgyzstan 2009 99.2 5 1.00 71 4 2006 1.3 31 2.5 2007 33.4 4 24 2 17.5 3.5
+
+15 Turkey 2009 90.8 4 0.5 8 20 3.5 2006 1.3 15 3 2008 39.7 2 49 5 17.5 3.5
+
+18 Uzbekistan 2010 99.4 5 0.99 28 4 2001 0.6 49 4 2003 36.7 3 17 1 17 3.4
+
+19 Indonesia 2009 92.6 4 0.78 220 2.5 2002 0.7 32 4 2009 36.8 3 32 3 16.5 3.3
+
+19 Tunisia 2008 77.6 3 0.70 56 3.5 1999 0.9 16 4 2000 40.8 2 41 4 16.5 3.3
+
+21 Algeria 2006 72.6 2 0.74 97 3 N/A 30 3 1995 35.3 4 34 4 16 3.2
+
+21 Egypt 2010 72.0 2 0.73 66 3 2006 0.9 21 4 2001 32.1 4 32 3 16 3.2
+
+21 Syria 2010 83.4 3 1.02 70 4 2006 1 .0 15 4 2004 35.8 3 26 2 16 3.2
+
+21 Libya 2010 89.2 3 1.26 58 4.5 2002 0.3 16 4.5 2009 b 36.0 3 21 1 16 3.2
+
+25 Iran 2008 85.0 3 0.68 21 3.5 2006 1.3 25 3 2005 38.3 3 28 3 15.5 3.1
+
+Notes: N/A = Not available. (a) Latest data from years 2000 to 2009. (b) Income Gini index gures taken from Global Peace Index reports. (c) 2011 gure.
+
+Sources: (1) http://stats.uis.unesco.org/unesco/TableViewer/tableView.aspx?ReportId=210 (2) World Bank, Ratio of female to male secondary enrolment (%) at
+
+http://data.worldbank.org/indicator/SE.ENR.SECO.FM.ZS (3) World Health Organisation, 2012, Trends in maternal mortality: 1990 to 2010 at http://whqlibdoc.
+
+who.int/publications/2012/9789241503631_eng.pdf (4) United Nations Population Division / DESA, World Marriage Data 2008, at http://www.un.org/esa/
+
+population/publications/WMD2008/WP_WMD_2008/Documentation.html (5) List of Countries by Infant Mortality Rate, at http://en.wikipedia.org/wiki/List_
+
+of_countries_by_infant_mortality_rate (6) United Nations Development Program, International Human Development Indicators, Income Gini coefcient, World
+
+Bank 2011 gures at http://hdrstats.undp.org/en/indicators/67106.html; others from Global Peace Index at http://en.wikipedia.org/wiki/List_of_countries_by_
+
+income_equality#Gini_coefcient.2C_before_taxes_and_transfers (7) Corruption Perceptions Index, 2012, at http://cpi.transparency.org/cpi2012
+
+ISLAM AND CIVILISATIONAL RENEWAL ICR 4.2 Produced and distributed by IAIS Malaysia
+
+DAUD ABDUL-FATTAH BATCHELOR A NEW ISLAMIC RATING INDEX OF WELL-BEING FOR MUSLIM COUNTRIES
+
+that display the highest levels of Personal Religiosity at the same time demonstrate
+
+the lowest levels of Social Interactions, as reected in the chosen parameters
+
+of this study. This nding indicates that countries with Muslim citizens who
+
+perform well in terms of Islamicity do not necessarily display good levels of
+
+Social Interaction practices. This is an important nding that deserves follow-up
+
+research to elucidate the reasons for this dissonance.
+
+World averages for each Social Interaction criterion were determined to show
+
+how MMCs stand through a global comparison (refer to Table 4). Since each
+
+parameter is an index of well-being, it might be expected that Muslim countries
+
+should lead worldwide in each of these elds. If they do not, then this would be
+
+a clear indicator of how much improvement is required for the MMCs to attain
+
+levels of excellence that could be recognised as truly Islamic.
+
+Other factors of Social Interaction could be taken into account: for example,
+
+rates of homicide, rape, and theft, which are all an anathema to societal well-
+
+being. However, one could argue that these are secondary effects that are derived
+
+from the primary causes of well-being which have already been incorporated
+
+in the assessment. For example, social scientists have identied a common link
+
+between a country’s high divorce rate and incidences of homicides and rape.
+
+Table 4 C o m p a r i s o n f o r S o c i a l I n t e r a c t i o n I n d i c a t o r s o f Av e r a g e V a l u e s
+
+for Muslim Majority Countries and the World Parameters of Social Interaction
+
+for Wellbeing in Muslim Majority
+
+Social Interaction Indicators World MMCs MMC Comparative Status
+
+Adult Literacy, age ≥15 yrs, %, latest
+
+year 84.1a75.6 signicantly worse
+
+Secondary education, Female/Male,
+
+age ≥25 yrs, 2010 0.90 0.74 signicantly worse
+
+Maternal Mortality rate / 100,000 live
+
+births, 2010 210 241 worse
+
+Crude Divorce rate / 1000, latest year 1.83 1.28 signicantly better
+
+Mortality rate / 100,000 live births,
+
+Under 5 yrs, 2011 51 59.9 signicantly worse
+
+Gini Income Equality, latest year 39b37.4 better
+
+Corruption Perceptions Index, 2012 37c32 signicantly worse
+
+Notes: (a) 2010 gure (b) from the Central Intelligence Agency’s The Factbook (c) 2012 median point for
+
+all countries surveyed by Transparency International.
+
+Apart from these countries, the lowest income inequality exists in some
+
+of the Gulf countries, while the highest Gini inequality occurs in Comoros,
+
+Malaysia, Qatar, Lebanon, Gambia, Sierra Leone and Nigeria. Signicant gender
+
+differences in secondary education often correspond to countries with large
+
+income inequalities. For example, low female/male ratios of secondary education
+
+occur with high Gini income inequalities (respectively) in Burkina Faso (0.29,
+
+39.8), Yemen (0.31, 37.7), Chad (0.34, 39.8) and Nigeria (0.35, 48.8).
+
+Corruption is a major problem in Afghanistan, Iraq, Yemen, Libya, Uzbekistan,
+
+Turkmenistan and the Horn of Africa. The Gulf countries, Brunei, Malaysia and
+
+Jordan are perceived as having relatively low corruption levels. It is an anomaly
+
+that Afghanistan with the highest rating for Personal Religiosity has one of the
+
+worst levels of corruption. This is probably a consequence there of the precarious
+
+living conditions and lack of political stability over the past 30 years of continuous
+
+Discussion and Conclusions
+
+Acts of Worship or Personal Religiosity (Islamicity)
+
+The results show that Communism with its overt atheism and extreme
+
+materialism has had the most severe negative impact on Islamicity as evidenced
+
+from its effect on Muslim peoples who have in the past come under the Soviet
+
+(and Chinese Communist) yoke. Harsh Kemalist secularism in Turkey was also
+
+highly detrimental but is being gradually reversed. In both cases, governments
+
+had discouraged and even penalised public worship, and the experience is so
+
+recent that this discouragement has not been overcome. The negative impact of
+
+Arab secular nationalistic regimes allied with the Soviet bloc in the cold-war era
+
+can be seen in the relatively reduced Personal Religiosity levels evidenced in the
+
+Middle Eastern countries (the “heart” of Islam) surveyed. One researcher blamed
+
+that group who became rich under a non-Islamic economic system “because of
+
+their greed, exploitation and stinginess” in not considering their duties to help the
+
+poor and in their estrangement from Allah’s guidance and saw this as a factor that
+
+enabled leftist regimes to spread their ideology in Muslim lands.37 By comparison,
+
+it could be stated that some other parts of the Muslim world formerly colonised
+
+by European countries seem to have withstood western secularist ideology and
+
+cultural globalisation better in maintaining and now rejuvenating their Islamic
+
+The most surprising and signicant nding of the present study is that the West
+
+African bloc of countries (Nigeria, Chad, Senegal, Niger, Mali) and Afghanistan
+
+ISLAM AND CIVILISATIONAL RENEWAL ICR 4.2 Produced and distributed by IAIS Malaysia
+
+National independence is one additional Social Interaction parameter that
+
+deserves to be incorporated within the well-being assessment but has not been,
+
+due to a lack of information and a reliable means of assessing its status. If the
+
+well-being of a Muslim country is dependent on external players, then there is
+
+certainly concern about the sustainability of a state’s long-term well-being when
+
+it is dependent on the whims of outsiders. Afghanistan as an example has suffered
+
+for centuries due to the interference in its affairs from outside powers. In this
+
+respect, one indicator that could be considered in future assessments to represent
+
+part of the well-being parameter “National Independence” is “net foreign debt per
+
+capita”. This is on the basis that if the country is indebted to bodies such as the
+
+International Monetary Fund or The World Bank, the control these institutions
+
+exercise over a country’s economy can severely reduce a nation’s freedom of
+
+action, which in turn has an impact on the living conditions of its citizens.
+
+Islamic Index of Well-being (IIW)
+
+Table 5 shows that many countries in zones of geographic, political, or cultural
+
+similarity are closely placed in the same band of well-being condition (best well-
+
+being on top, then reducing below):
+
+• Southeast Asian countries (Malaysia, Indonesia)
+
+• Occupied countries (Afghanistan, Palestine)
+
+• Middle Eastern countries
+
+• West African countries and Frontline states (Pakistan, Lebanon)
+
+• Former communist bloc countries in Central Asia and Southern Europe.
+
+Of the 27 countries for which largely complete sets of both Personal Islamicity
+
+and Social Interaction data are available, Malaysia and Indonesia hold the top
+
+two places and clearly lead all others in having much higher overall well-
+
+being scores (7.5 and 7.3, respectively, compared to next highest of 6.9). This
+
+result was observed only after all the data had been calculated on an objective
+
+and dispassionate basis, and no parameters were chosen to try to steer a result
+
+favourable to these countries (in the region where this writer is based). It is a
+
+positive outcome that Indonesia, the most populous Muslim country (2010
+
+population: 233 million), is second while another populous country, Bangladesh
+
+(2010 population: 164 million), is fth. These are both countries that have
+
+experienced major and frequent natural disasters—the 2004 tsunami resulted
+
+in the largest number of fatalities worldwide—which could represent divine
+
+messages that the respective countries’ populations have responded to positively.
+
+In regard to the impressive achievement of Malaysia, this was acknowledged
+
+recently in published extracts from a letter to the Malaysian Prime Minister Najib
+
+Tun Razak by the highly regarded scholar Shaykh Yusuf Al-Qaradawi, who
+
+opined that “Malaysia has been distinguished among Muslim countries with its
+
+impressive development strategy and openness, evolving as a referential centre
+
+and model for the Muslim world.”38 A number of possible reasons for the positive
+
+well-being condition of Southeast Asian Muslim countries could be suggested:
+
+the relatively soft approach towards Islamisation used historically39; the
+
+substantial role of Muslim women in these societies; the lack of destructive wars
+
+in the region; the benet provided from the Asian economic “miracle” in building
+
+strong economies accompanied by the appropriate allocation of public funds to
+
+enhance education, health and welfare; and the transformation in Indonesia from
+
+military rule to a functioning system of representative governance.
+
+Table 5 Islamic Indices of Well-being and Rating of Muslim Majority
+
+Palestinian Territories

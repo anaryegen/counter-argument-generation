@@ -1,0 +1,487 @@
+We use some essential cookies to make this website work.
+
+We’d like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services.
+
+We also use cookies set by other sites to help us deliver content from their services.
+
+You have accepted additional cookies. You can change your cookie settings at any time.
+
+You have rejected additional cookies. You can change your cookie settings at any time.
+
+Accept additional cookies Reject additional cookies View cookies
+
+Hide this message Skip to main content
+
+Department for Work & Pensions
+
+Fighting Fraud in the Welfare System: Going Further
+
+This was published under the 2019 to 2022 Johnson Conservative government
+
+© Crown copyright 2024
+
+This publication is licensed under the terms of the Open Government Licence v3.0 except where otherwise stated. To view this licence, visit nationalarchives.gov.uk/doc/open-government-licence/version/3 or write to the Information Policy Team, The National Archives, Kew, London TW9 4DU, or email: psi@nationalarchives.gov.uk.
+
+Where we have identified any third party copyright information you will need to obtain permission from the copyright holders concerned.
+
+This publication is available at https://www.gov.uk/government/publications/fighting-fraud-in-the-welfare-system/fighting-fraud-in-the-welfare-system-going-further
+
+Presented to Parliament by the Secretary of State for Department for Work and Pensions by Command of His Majesty
+
+Crown copyright 2024
+
+This publication is licensed under the terms of the Open Government Licence v3.0 except where otherwise stated.
+
+Where we have identified any third party copyright information you will need to obtain permission from the copyright holders concerned.
+
+This publication is available at: www.gov.uk/official-documents
+
+Any enquiries regarding this publication should be sent to us at: fed.policyandlegislation@dwp.gov.uk
+
+ISBN 978-1-5286-4892-9
+
+Ministerial Foreword
+
+Public support for our welfare system is contingent on there being confidence that taxpayers’ money goes to those who need it, rather than into the hands of criminals.
+
+That is why we cannot allow fraudsters to take advantage of the system or the compassion of the British people.
+
+Since we set out our Fraud Plan in 2022, we have saved the taxpayer over £1 billion and in the same year we cut fraud and error in the welfare system by 10%.
+
+We have cracked down on thousands of people fraudulently claiming Universal Credit. We are legislating to give us better access to vital data held by third parties, like banks, so we can more proactively detect fraud and save the taxpayer £600 million. And we are taking down the organised criminal gangs targeting the welfare system. Thanks to the work of DWP investigators and the Crown Prosecution Service, we smashed Britain’s biggest benefit fraud gang, securing convictions for a £50 million Universal Credit scam.
+
+This represents significant progress and sends a clear message: if you’re thinking about defrauding DWP, then don’t, because we will find you and take action against you.
+
+Given fraud remains a growing threat and we know there remain people out there who are determined to abuse the system, we are continuing to step up our fight against the fraudsters and do whatever it takes to track them down.
+
+Following the Prime Minister’s announcement in April this year, we will bring forward further legal powers in the next parliament to treat benefit fraud like tax fraud. We are tripling the size of our teams reviewing millions of Universal Credit claims for possible fraud, or error and we estimate this will save £6.6 billion alone by 2027/28. And we are preventing welfare fraud at source with advanced data analytics, using machine learning, and making continuous improvements to the benefits system.
+
+With the action we have already taken, and our plan to go further still, we are clamping down on fraud and putting fairness at the heart of our welfare system.
+
+The Rt. Hon. Mel Stride MP Secretary of State for Work and Pensions
+
+This paper sets out the progress we have made in tackling the high levels of fraud and error in the welfare system and outlines where we are going further. It reports against the commitments we made in our ‘Fraud Plan’ – Fighting Fraud in the Welfare System and outlines what more we are already doing to ensure we continue to protect taxpayers’ money from fraudsters.
+
+Since the pandemic, over £8 billion a year has been overpaid in the welfare system because of fraud and error. But our focus on delivering our Fraud Plan has seen DWP: invest in our counter-fraud professionals and our data analytics meeting our objective to recruit 2,000 Targeted Case Review agents and 1,400 counter fraud professionals; introduce new legislation that if passed will provide DWP with new legal powers to fight fraud and error; and harness the joint power of the public and private sector.
+
+This has contributed to a 10% reduction in fraud and error in the welfare system in 2022/23, and we also saved the taxpayer £1 billion from our dedicated counter-fraud activities. When combined with our controls we estimate that our controls and activities have prevented nearly £18 billion of losses in 2022/23. In 2023/24, based on our initial savings estimates, we have saved £1.35 billion from counter- fraud activities exceeding the £1.3 billion target we set.
+
+We have been delivering this plan against a challenging backdrop. Evidence across the economy indicates that there is a long-term average rise in fraudulent behaviour and a softening of attitudes towards fraud, which we believe is affecting the welfare system too.
+
+We are not complacent. We are focused on delivering on our Fraud Plan and we are already taking further action to fight fraud and error in the welfare system. We are making further investments in our counter-fraud front line, and we are shifting our focus to preventing fraud at its source using developments in modern technology, including Artificial Intelligence. On top of this, as announced by the Prime Minister in April 2024, we are going to introduce a Fraud Bill in the next parliament to further modernise our legal framework so that we treat benefit fraud like tax fraud and give those fighting fraud the tools they need to crack down on those exploiting the welfare system and taking advantage of the hardworking taxpayers who fund it.
+
+The government has invested significantly to balance accessible welfare support while combatting fraud. If the government continues to do so our Fraud Plan will save £9 billion by 2027/28 and on top of this our third-party data gathering measure will save an additional £600 million by 2028/29.
+
+1. Fraud remains a significant challenge for the public and private sectors. In the public sector the size of the welfare system – with spending totalling £261.5 billion in 2022/23 – makes it a deliberate target for both organised crime groups and opportunistic individual criminals.
+
+2. In DWP, we are making progress in our fight against fraud. In 2022/23, we cut fraud and error in the welfare system by 10%[footnote 1] – reducing the rate of fraud and error as a proportion of benefit expenditure from 4% to 3.6% – and we also saved the taxpayer £1.1 billion from our dedicated counter-fraud activities[footnote 2]. When combined with our controls, we estimate that our controls and activities have prevented nearly £18 billion of losses in 2022/23[footnote 3].
+
+3. The Department went on to set a target to save £1.3 billion in 2023/24 and initial savings estimates for 2023/24 indicate we have exceeded that target, saving £1.35 billion thanks to our counter fraud activities.
+
+4. However, since the pandemic, over £8 billion a year has been overpaid because of fraud and error. This is money that could have been used for other public services such as schools or hospitals or reducing the national debt.
+
+5. At the height of the pandemic, DWP responded quickly and effectively to put in place necessary easements to support the most vulnerable and ensure people had the financial support they needed. This was the right thing to do and ensured that claimants adhered to government messaging and allowed the Department to implement alternative ways of working to pay millions more claims, many to people who were facing unemployment for the first time because of the pandemic. Unfortunately, these easements were exploited by criminals who look for opportunities to attack and deliberately steal from the taxpayer. DWP has now reintroduced controls that were eased during the pandemic, but once fraud and error has entered the system, detecting and removing it is difficult and can take time. This in part explains the high levels of fraud and error we have seen since the pandemic.
+
+6. In 2022, DWP responded to the growth of fraud across the welfare system by publishing its Fraud Plan, Fighting Fraud in the Welfare System[footnote 4]. This Command Paper outlined a three-pronged approach for preventing fraud from entering the welfare system and for detecting and stopping fraud when it does, by:
+
+a. Investing in DWP’s frontline counter-fraud professionals and data analytics
+
+b. Creating new legal powers to investigate potential fraud and punish fraudsters, subject to parliamentary time,
+
+c. Bringing together the full force of the public and private sectors to keep one step ahead.
+
+7. We are delivering this plan against a challenging backdrop. Evidence across the economy indicates that there is a long-term average rise in fraudulent behaviour and a softening of public attitudes towards fraud, which we believe is affecting the welfare system too.
+
+8. Against a rising tide of fraud the government published its cross-cutting Fraud Strategy in May 2023 which set out how government, law enforcement, regulators and industry will work together to reduce fraud by 10%[footnote 5].
+
+9. The government is committed to delivering this strategy and DWP and other large organisations impacted by the rising tide of fraud cannot be complacent. As set out by the Prime Minister in his recent speech[footnote 6], the welfare system provides a safety net for those that need genuine support. We cannot allow fraudsters to exploit it and risk undermining trust in the welfare state. Therefore, to protect the welfare system, we must build on what we have delivered so far and go further.
+
+10. This paper outlines the progress we have made in tackling the high levels of fraud and error since the publication of our Fraud Plan and demonstrates where we are going further. It reports against the commitments we made in our Fraud Plan and outlines what more we are already doing to ensure we continue to protect taxpayers’ money from fraudsters, by:
+
+a. Scaling up delivery through our front-line counter fraud professionals
+
+b. Introducing new legal powers in the next parliament, and
+
+c. Preventing fraud and error from entering the welfare system.
+
+11. Delivering our Fraud Plan took place against a rising tide of fraud across the economy. A range of evidence indicates that there is a long-term rising trend in fraudulent behaviour and a softening of attitudes towards fraud. While there may be fluctuations in data over time, the overall trends appear to continue upwards. Although direct comparisons to trends outside of the welfare system are difficult and need to be treated with caution, we believe that the evidence outlined here is sufficiently comparable to assume that these trends are likely to be mirrored in the benefit system[footnote 7]. We have made a central assumption that this long-term behavioural trend will continue to grow at an average of 5% per year. We have presented this evidence to the OBR, who have incorporated this within the overall forecast for fraud and error prevalence in the welfare system. This creates a challenging environment for the Department to prevent, detect and stop fraud and error going forward.
+
+12. In 2023, fraud was responsible for 37% of all crime against households. Additionally, evidence indicates that there has been a trend of rising levels of fraud against organisations[footnote 8]. Data for fraud offences against businesses referred to the National Fraud Intelligence Bureau by Cifas, who facilitate fraud data sharing for over 600 large public and private UK organisations, shows a rise in fraud cases over the past decade. In particular, the two most recent available financial years (2021/22 and 2022/23) each show an 11% annual increase, compared to a 5% average annual increase pre-pandemic[footnote 9].
+
+13. There is also a notable uptick in other forms of criminal activity and economic crime. For example, there has been a prominent increase in shoplifting, which may suggest an increasing need to ease financial pressures through criminal activity. According to Police recorded crime data for England and Wales, reported levels of shoplifting have steadily increased since retail reopened after the Covid pandemic. Annual levels of shoplifting have increased by an average of 27% since 2021, and the 2023 level is 11% higher than the pre-pandemic level in 2019; shoplifting reached a record high in July 2023[footnote 10]. The government recognises the significant impact crime has on businesses, communities and consumers and in response, in October 2023 the government announced the Retail Crime Action Plan[footnote 11]. Since this publication the government has outlined the further action it will take, set out in an update published in April 2024[footnote 12].
+
+14. Evidence also indicates that attitudes toward fraud may be softening. Results from the British Social Attitudes Survey show a growing tolerance for benefit fraud, with the proportion of respondents who said it was either ‘Not Wrong’ or only ‘A Bit Wrong’ for an unemployed claimant not to report £3,000 cash from a casual job increasing from 16% to 27% between 2016 and 2022[footnote 13]. Meanwhile, data commissioned by Cifas shows a growth in the number of people admitting to committing fraudulent conduct in the last 24 months, rising from 8% of respondents in 2021 to 12% in 2023[footnote 14].
+
+15. We see further evidence for changing social attitudes towards fraud in the insurance industry. In research conducted for Aviva UK, 27% of motorists say they would consider lying on an insurance application to save money[footnote 15]. Similarly, a YouGov survey conducted for the Insurance Fraud Bureau found that 27% of 18-24 year olds would “likely” provide false or misleading information on an insurance claim to save money, if struggling financially. This is an increase from 21% the previous year[footnote 16].
+
+16. Like many other organisations in the public and private sectors, DWP is impacted by changes in behavioural trends in fraud and related criminality in the wider economy. More work still needs to be done to find out the direct impact of these trends, but we believe they are, at least in part, driving up the incidents of fraud and error in the welfare system.
+
+Delivering the Fraud Plan
+
+Headline Commitments
+
+17. We have taken bold steps to deliver our Fraud Plan: investing in our counter-fraud professionals and our data analytics, introducing new legislation that if passed will provide DWP with new legal powers to fight fraud and error, and harnessing the joint power of the public and private sector.
+
+18. In doing so we have met commitments in the Fraud Plan to:
+
+Invest in and recruit 2,000 Targeted Case Review Agents to review Universal Credit Claims
+
+Invest in and recruit 1,400 new Counter-fraud professionals to bolster our compliance, investigations and enhanced checking teams to disrupt and drive out criminal activity
+
+Bolster our use of data to detect, correct and root out fraud
+
+Introduce new legal powers to support our fight against fraud in the parliamentary time available
+
+Harness the power of the public sector, working in tandem with the Public Sector Fraud Authority
+
+Establish the Fraud Prevention Advisory Group to share expertise across the public and private sector
+
+Establish the Fraud Prevention Fund to invest in, test and trial creative and innovative solutions, making £10 million available in 2024/25
+
+19. By meeting these commitments and tackling fraud and error DWP are delivering on the government’s shared objective of delivering efficiency for the public[footnote 17].
+
+The savings target (2023-24)
+
+20. In 2022/23 the Department saved over £1.1 billion from its counter-fraud activity.
+
+21. The Department went on to set a target to save £1.3 billion from its counter fraud activity in 2023/24. This target covered the key activities that the Department has been funded for through the £900 million investment that has been received to deliver the Fraud Plan.
+
+22. The initial savings estimates for 2023/24 indicate we have saved £1.35 billion[footnote 18], meaning we have exceeded our fraud and error savings target this year.
+
+23. The technical annex in this document sets out how we have measured and calculated this target and the 2023/24 savings figure will be finalised and set out in more detail in the 2023/24 Annual Report and Accounts (ARA) which will also include details of our fraud and error target for 2024/25.
+
+Delivering the Fraud Plan
+
+24. In the Fraud Plan we committed to a three-pronged approach for combatting fraud in the welfare system. Below we provide a detailed assessment of how we have delivered on each of these areas, demonstrating how we have prevented fraud and error from entering the welfare system and detected and stopped it when it does.
+
+Investing in DWP’s frontline counter-fraud professionals and data analytics
+
+25. In response to the challenges and threats we face, DWP has grown its counter-fraud function over the last two years; investing in our frontline counter-fraud professionals and enhancing our data, analytics and investigative techniques.
+
+26. This means we have thousands of new staff solely devoted to rooting out and preventing fraud, error and debt in the welfare system, saving taxpayers’ money.
+
+Targeted Case Review
+
+27. In our Fraud Plan we said we would create a new, dedicated 2,000 strong team to deliver Targeted Case reviews of existing Universal Credit claims to tackle fraud and error.
+
+28. Since then, we have intensified our efforts to reduce the levels of fraud and error in Universal Credit more quickly. We have already gone further, recruiting more than 3,000 staff across Great Britain who are already identifying incorrect claims and ensuring the right people are receiving the right support. This means within two years, we have recruited and trained 1,000 more staff than we originally intended, introduced a brand-new service in Universal Credit, and started to make an impact.
+
+29. This year we have reviewed over 200,000 claims, finding and putting right incorrect declarations on almost 50,000 claims, and stopping individuals from building up debts. This has included finding unreported capital of over £16,000, wrongly declared self-employment expenses, and undisclosed second homes. This demonstrates the vital role Targeted Case Reviews are playing in addressing unreported changes in circumstances, reminding customers of their commitment to keep us updated on changes to their circumstances to help them avoid unnecessary debt, and catching those trying to take advantage of the welfare system.
+
+30. We have robust measures and safeguards in place to support customers through a review of their claim. All our staff undergo training to ensure they can recognise signs of risk or complex needs that can impact the claimant’s ability to manage their claim or take part in a review. For example, we offer a call at the start of each review to explain the process, answer any questions and help identify those that may need additional support. Where necessary, staff can tailor their approach on a case-by-case basis and decide the correct course of action, in some circumstances this includes pausing the review and referring for additional support.
+
+Case Study: Stopping duplicate child claims
+
+The Targeted Case Review is already yielding early insights that we are using to improve our services and protect taxpayers’ money.
+
+For example, the Targeted Case Review found evidence of benefit being claimed for the same child across multiple Universal Credit claims. DWP agents were able to identify the problem and review the existing stock of cases to spot fraud and correct any errors. DWP has used this insight to make improvements to support the identification and prevention of the same child being claimed for across multiple Universal Credit claims. As a result, DWP and will prevent incorrect payments like this occurring in the future.
+
+DWP uses all learning like this to support our activities to drive out fraud and error, respond to emerging threats, and protect the welfare system both now and in the future.
+
+Counter Fraud Compliance and Debt (CFCD)
+
+31. DWP’s Counter Fraud function involves a number of teams that seek to prevent, disrupt, and detect fraud and error. DWP use its expert counter fraud agents, technology, and intelligence to tackle all types of fraud, from individual cases through to sophisticated criminal attacks on the welfare system.
+
+32. In response to new and emerging challenges and threats, we have invested in and grown our own counter-fraud function to conduct more compliance interviews, more investigations, undertake the enhanced checking of high-risk cases before they enter payment, and drive out more criminal activity from serious and organised fraud.
+
+33. Our Fraud Plan said we would put in place an additional 1,400 staff across our counter-fraud teams, and we successfully recruited all these new counter-fraud and compliance professionals by March 2023.
+
+34. With these new counter fraud agents we will continue to take the necessary investigative action and help bring fraudsters to justice by supporting prosecutions brought forward by prosecuting bodies. We will also be able to take rapid interventions that can lead to the closure of fraudulent claims quickly and limit losses to the taxpayer.
+
+35. DWP are serious about tackling criminality and we have a robust deterrent to fraud through the proportionate recovery of funds that is possible under the Proceeds of Crime Act (PoCA). This includes some appropriate limitations including that DWP cannot force the sale of property if it is the individual’s sole property and home.
+
+Case Study: Economic, Serious and Organised Crime - Operation Volcanic
+
+Five members of an organised gang pleaded guilty in court in April 2024 after Economic, Serious & Organised Crime investigators identified an organised attack on our benefits system involving fabricated claims resulting in more than £50 million being overpaid. This is DWP’s largest benefit fraud case to date and involved conspiracy and money laundering crimes.
+
+The investigation uncovered:
+
+Production and supply of fake tenancy agreements and employment claims, counterfeit payslips, and GP notes
+
+Creation of shell companies for false employment
+
+‘Benefit factories’ which appeared to be legitimate businesses
+
+Money laundering from the false benefit claims
+
+Sharing of forged documents via WhatsApp
+
+‘Claim packs’ at the benefit factories and suspects’ houses.
+
+All five defendants pleaded guilty before the trial was due to commence and they will be sentenced in May 2024. Specialist Financial investigators will continue their work to identify assets and recover stolen monies.
+
+Case Study: Enhanced Review Team - Personal Independence Payment (PIP) trial
+
+Building upon DWP’s Enhanced Review Team’s success in 2023/24 in tackling fraud and error across Universal Credit, the Enhanced Review Team has expanded its work across other benefit lines. This is starting with a trial within Personal Independence Payment (PIP) with a focus on both preventing and disrupting fraud and error.
+
+To date, the Enhanced Review Team have completed reviews on 1,600 high-risk cases taking the appropriate action by referring cases to relevant decision-making teams where inaccurate information or inconsistencies were found, and ensuring any potential criminal activity is escalated for investigation.
+
+The success of the trial led to millions being saved for the exchequer and the PIP trial being rolled out across DWP’s service centres. In the coming year the Enhanced Review Team will extend the pilots across other DWP benefit lines.
+
+As this is rolled out the Enhanced Review Team will continue to ensure the protection of vulnerable customers during their review process. The team can tailor a review to accommodate customer needs and they have the necessary tools to signpost customers to other organisations and engage with Advanced Customer Support as required. The team have also received specific training to identify signs of modern slavery and human trafficking and safely refer cases.
+
+Case Study: Investigations – Secret ‘spouse’ of more than 5 years results in substantial overpayment
+
+In 2022 Claimant A was claiming Employment Support Allowance and Housing Benefit as a single person. Following an allegation that they were married and living with their employed spouse, DWP launched an investigation.
+
+With the assistance of the Department’s Operational Intelligence Unit, a DWP investigator uncovered information linking the spouse to Claimant A’s address from the Local Authority, the spouse’s employer, and financial institutions.
+
+At interview under caution, Claimant A denied that they were married. However, they admitted to being in a relationship with their partner since 2011 but not living together with them until 2020. They also admitted to changing their surname by deed poll. The claimant denied that their partner had given them money, despite evidence to the contrary showing that during a period of just under a year, the spouse had transferred over £3,000 to them.
+
+Based on the evidence, a DWP decision maker concluded that claimant A was not entitled to benefit as a single person as they were living together with their partner as husband and wife for a period of five years and two months. This led to an overpayment of benefit amounting to over £60,000.
+
+Following referrals to the Crown Prosecution Service and criminal proceedings, Claimant A pleaded guilty to two charges of dishonestly failing to promptly notify a change in their circumstances and following a successful prosecution by the Crown Prosecution Service Claimant A was sentenced to 6 months imprisonment, suspended for 18 months, placed under supervision for 18 months and ordered to carry out 10 days rehabilitation activities.
+
+36. In our Fraud Plan we said we were investing to further enhance data, analytics and investigative techniques to boost our capabilities to prevent and detect fraudulent attacks.
+
+37. DWP continues to invest and use data analytics to identify potentially incorrect or fraudulent claims that may require intervention and to detect errors in benefits. We use several different data sources to help determine whether benefits are being paid correctly.
+
+38. For example, we use incomes data from HMRC on individuals who pay tax through the PAYE system, to get a Real Time Information (RTI) feed to assess their earnings, rather than relying on self-reporting. This has enabled us to tackle fraud related to false declarations about earnings in Universal Credit.
+
+39. Our Integrated Risk and Intelligence Service (IRIS) continues to bring together expertise from Data Science, Digital and Technology, Analysis, Intelligence, Security and other subject matter experts to provide advice on fraud, error and debt risks. IRIS’s work helps to identify the appropriate course of action and support the Department in prioritising its response to different threats and risks.
+
+40. DWP always handles personal data in line with its Personal Information Charter[footnote 19] and data protection law. DWP also always ensures there is meaningful human input and suitable safeguards to protect personal data. This can give the public and supervisory bodies the confidence that we are operating in an ethical, legal, proportionate and responsible way.
+
+41. Further detail on where we are going further with data analytics is provided in the next chapter.
+
+Creating new legal powers
+
+42. Parts of our fraud legislative framework are over 20 years old. In this time, fraud has evolved and become increasingly sophisticated. Although fraud and error was down by 10% in 2022/23, £8.3 billion was overpaid last year in the benefit system and it is right we do all we can to reduce this.
+
+43. In our Fraud Plan we said that, when Parliamentary time allowed, we would introduce new legislation to modernise and strengthen our legislative framework to ensure it gives those fighting fraud the tools they need to stand up to future fraud challenges and minimise the impact of genuine mistakes that can lead to debt.
+
+44. In the Parliamentary time available DWP prioritised the third party data gathering measure. This measure will help DWP tackle different types of fraud and error, including one of the largest causes of fraud and error in the welfare system, capital fraud. In 2022/23, overpayments because of capital fraud and error in Universal Credit alone were worth almost £900 million.
+
+45. All benefits and payments have rules that determine eligibility and improving our access to data is a powerful tool to understand whether someone is adhering to the eligibility rules for the benefit they are receiving. We already use several data streams to help verify a person’s claim or entitlement to benefit which has helped significantly reduce other types of fraud and error. For example, we use data from HMRC’s PAYE systems to verify earnings, which has virtually eradicated earnings related fraud for persons on PAYE in Universal Credit.
+
+46. The Data Protection and Digital Information Bill[footnote 20] includes a third party data gathering measure. This will require third parties[footnote 21] to look within their own data and provide relevant information to DWP to help identify cases which merit further consideration to establish whether benefits are being, or have been, properly paid in accordance with the rules relating to those benefits. In doing so, it will end our sole reliance on a claimant’s self-certification of these details.
+
+47. The third party data gathering measure will provide us with better access to data held by third parties to help us identify whether someone is adhering to the eligibility rules for the benefit they receive, making it harder for fraudsters to steal from the taxpayer. The measure will also help address errors by helping establish claimants are in receipt of the correct amount of benefit to which they are entitled, and reducing the risk of people from inadvertently getting into debt.
+
+48. There are a number of safeguards and limitations on the power. Specifically, when we issue a request for data to a third party, we can only ask them to provide data where it may help DWP identify cases which may merit further consideration to establish whether benefits are being, or have been, properly paid in accordance with the rules relating to those benefits. Furthermore, we can only make these requests for information where there is a link between DWP, the third party and the benefit claimant or recipient of payment. DWP will only receive data on accounts matching criteria DWP prescribe; these criteria will be linked to eligibility rules for benefits which, if met, may signal potential fraud or error. It is only if these criteria are met that DWP will receive data from third parties. DWP may then consider further intervention to ensure a claim is correct, this will be done through our business-as-usual processes and using existing powers.
+
+49. For example, where we are looking for those with capital above £16,000 – the capital limit for Universal Credit – we will only receive limited information that confirms the account holder has more than £16,000 in their account. This then enables DWP to look at our own records and establish whether there is a legitimate reason for exceeding the capital limit, such as a relevant disregard for a compensation payment, and if so the information is therefore ignored. Alternatively, further inquiry may be necessary in line with our business-as-usual processes.
+
+50. To protect personal information and claimant privacy, this approach avoids DWP having to share any personal data with third parties in order to obtain the information it needs. Furthermore, only the minimum amount of information will be requested on accounts that match the criteria provided so that DWP can identify the claimant in our own database.
+
+Figure 1: Details of the TPD measure
+
+51. This measure is expected to generate up to £600 million in savings by 2028/29 and to bring an estimated net benefit of £1.9 billion by 2035. It is a necessary first step to modernising and strengthening our powers.
+
+52. We are going further to modernise our legislative framework to give those fighting fraud the tools they need. In April 2024 the Prime Minister’s announced[footnote 22] we are preparing a new Fraud Bill for the next Parliament to legislate for the measures outlined in the Fraud Plan. More information on this is provided in the next chapter.
+
+Bringing together the full force of public and private sectors to keep one step ahead
+
+53. In the Fraud Plan we outlined our intention to adopt a joined-up strategy in combatting fraud, working collaboratively with other government Departments, law enforcement bodies, and other external partners to share best practices.
+
+54. To deliver this, DWP is working with the Public Sector Fraud Authority (PSFA), the government’s Centre of Expertise for the management of fraud against the public sector. The nature of public sector fraud means tackling it is beyond the capacity and capability of any one body, but the DWP and PSFA share a common purpose to drive down the level of public sector fraud within the welfare system. DWP and the PSFA are drafting a Memorandum of Understanding (MoU) for how our organisations will work together to maximise our joint value in the fight against public sector fraud.
+
+55. We have also created a Joint Counter Fraud Partnership with HMRC to collaborate on shared risks and to take steps to protect the exchequer from both welfare and tax frauds. For example, through this partnership we will explore how DWP and HMRC can mitigate fraud risks through our shared self-employed customer base.
+
+56. Our Fraud Plan also committed to setting up the Fraud Prevention Advisory Group (FPAG). In April 2023 FPAG was launched bringing together expertise from across public and private sectors and academia. The expert opinion shared by the group has helped shape our thinking on how we respond to evolving fraud risks and will continue to do so.
+
+57. Finally, in our Fraud Plan we indicated our intention to establish a Fraud Prevention Fund (FPF) of £30 million to invest in and test creative, innovative and evidenced based solutions to DWP’s fraud and error problems. Since being established the fund is supporting 15 different projects to help us make better use of data and data related capabilities, to utilise external expertise to gain a deeper understanding of our key areas of loss, and to pilot different external campaigns. £10 million is available for 2024/25 for use on other social research projects and proof of concepts.
+
+Case Study: Accelerated Capability Environment Fraud and Error Data Innovation Project
+
+The Accelerated Capability Environment (ACE) is a partnership between HM Government and the private sector that provides government Departments with access to a pool of external expertise to explore new practices and technologies to address front-line challenges.
+
+This 12-week project with external partners will deliver an in-depth discovery of DWP’s use of data to tackle fraud and error. Activities will include a review of the ‘gold standard’ of fraud detection and prevention in the private sector to understand potential applications in the DWP context and an evaluation of the data sources that could enhance DWPs fraud fighting capabilities.
+
+The project will help us better harness third party data to prevent fraud and error and provide an evidence base for future projects.
+
+Case Study: Fraud Pilot Campaign
+
+Communication campaigns can raise awareness and motivate audiences to change their behaviour. DWP is bringing forward a pilot that will aim to encourage claimants to notify the DWP about their change of circumstances, with the objective of increasing understanding that reporting a change to DWP is a legal requirement.
+
+The pilot campaign will focus on geographical areas where fraud is high and will test tailored messaging to understand the effectiveness of raising awareness and driving behavioural change to ultimately overcome the barriers to reporting a change in circumstances. An evaluation on the effectiveness of the pilot campaign will inform the approach the DWP could take for a national campaign.
+
+Continuing our fight against fraud
+
+58. Like other large organisations we are impacted by increasing trends in fraudulent behaviour and we cannot be complacent. With welfare spending forecast to rise, DWP may become a more appealing target for criminals who seek to exploit the system for their own gain at the expense of the taxpayer. Acknowledging this, we are going further to stop fraud and error.
+
+59. Our plan here is the right one and we have exceeded this year’s target and saved £1.35 billion in 2023/24. However, we will not stop there. We will continue to deliver our Fraud Plan and we will build on the progress we have made by scaling up delivery and placing an increased focus on preventing fraud and error from entering the welfare system in the first place.
+
+Scaling up through our front-line counter fraud professionals
+
+60. Through an additional £280 million investment announced at the Autumn Statement 2022, we are increasing the size of our Targeted Case Reviews team from that outlined in our Fraud Plan to reach almost 6,000 staff. This is three times larger than originally proposed. From Autumn 2024, we will be joined by a commercial provider on a temporary basis to help us reach this target number of staff by March 2025.
+
+61. In the coming year we will maintain our focus on increasing the number of agents and making improvements to the review service so we can continue reducing the levels of fraud and error in Universal Credit.
+
+62. This will take the Targeted Case Review further, make it larger and realise even greater savings. By investing more now, we expect to review millions of Universal Credit claims to save £6.6 billion by the end of 2027/28.
+
+Introducing new legal powers in the next parliament
+
+63. In April 2024 the Prime Minister announced[footnote 23] we are preparing a new Fraud Bill for the next Parliament which will align DWP with HMRC so that we treat benefit fraud like tax fraud. The Prime Minister announced we would do so by legislating for the measures outlined in the Fraud Plan. This will include new powers to:
+
+a. Modernise our information gathering powers by taking steps to give our fraud investigators access to the information they need to prove – or disprove – fraud more quickly when someone is under suspicion of fraud. The new power will provide the ability to compel information from a wider range of information holders, unless exempted, and allow for the powers to be used in relation to all DWP led investigations which includes payments, such as grant payments, from the point a suspicion of fraud arises.
+
+b. Give DWP investigating officers new powers to make arrests and conduct search and seizures, bringing DWP in line with the approach taken to serious and organised crime across government such as at HMRC and the Gangmasters and Labour Abuse Authority. This will allow DWP to investigate and stop these appalling crimes against the welfare system and the taxpayer itself. It would allow DWP to control the end-to-end investigation in the most serious criminal cases, applying for the warrants, leading the operation and searching and seizing evidence.
+
+c. Introduce a new civil penalty to punish fraudsters. This will ensure that where fraud has taken place, there is always an appropriate consequence so that offenders cannot gain from the system. The penalty reforms include lowering the burden of proof and broadening the scope of cases the penalty can be applied to. It will ensure that this applies across all types of payments, with those exploiting access to vital grant payments for no good reason being punished in cases where criminal proceedings are not taken forward.
+
+64. These powers are in addition to those we are currently legislating for to improve our access to vital third party data.
+
+Preventing welfare fraud at source
+
+65. Our programme of work to detect and stop fraud where we find it is considerable, but we must do more to prevent fraud entering the welfare system in the first place. We have been using the Fraud Prevention Fund to test and trial different opportunities as well as taking the expertise and insight of the FPAG to help inform our approach. Therefore, to do more to prevent fraud entering the welfare system we are:
+
+a. Investing £70 million by 2024/25 in advanced data analytics and new data sources to prevent fraud.
+
+b. Continuously improving the UC system, designing fraud and error out and responding to changing risks.
+
+c. Systematically reviewing and enhancing our benefit controls framework to ensure the Department is delivering our existing controls as effectively and efficiently as possible.
+
+d. Using external communications to challenge the assumption that there are no consequences in committing benefit fraud
+
+Using Data and Advanced Analytics
+
+66. DWP will continue to explore the opportunities offered by new technologies, new data sources and advanced analytical techniques to support the reduction and prevention of fraud within the Welfare System. New tools and approaches will be tested in safe and controlled environments to understand their effectiveness and suitability to tackle the problems DWP face.
+
+67. Building on our Fraud Plan, DWP is investing £70 million between 2022/23 and 2024/25 in advanced analytics to tackle fraud and error, which it expects will help it to generate savings of around £1.6 billion by 2030/31[footnote 24].
+
+68. Investing in advanced analytics, such as machine learning, is essential to enable the public sector to keep up with offenders. Sophisticated crimminals already utilise such tools to analyse large amounts of data to exploit existing weaknesses and vulnerabilities in public sector systems. In DWP these tools can play a crucial role in detecting and preventing fraudulent activities in DWPs benefit systems. Going forward we want to maximise the benefits that advanced analytics and machine learning can offer.
+
+69. Where these tools are used to assist in the prevention and detection of fraud, DWP always ensures appropriate safeguards are in place to ensure the proportionate, ethical, and lawful use of data with human input. In decision making, any final decision will always be made by a member of DWP staff and DWP seeks to ensure compliance using internal monitoring protocols. DWPs Personal Information Charter sets out in more detail how the Department uses these tools, as well as Artificial Intelligence and automated decision making.
+
+Continuous improvement to Universal Credit (UC)
+
+70. As we complete the Move to UC, the Department’s spending on UC alone is forecast to double (relative to 2022/23 in nominal terms) to reach over £85 billion by 2028/29[footnote 25].
+
+71. We are constantly improving UC to reduce fraud and error and to ensure the right support reaches the right people.
+
+72. Building on our previous Fraud Plan our UC Continuous Improvement plan brings together multi-disciplinary teams to look at the largest areas of loss within UC and considers how we can improve our processes to reduce these.
+
+73. These teams focus on understanding the root-causes and scale of the losses, design and test solutions with a view to implementing them more widely if the tests are successful. The implementation of these solutions may involve changes to policy, improvements to the operation of UC service or greater use of data and automation to prevent the fraud.
+
+74. Fraud occurs where a claimant knowingly or deliberately mis-represents their circumstances to DWP or intentionally fails to notify DWP of a change in their circumstances that may affect their benefit entitlement. For example, we are aware that some claimants do not inform us when their children have left full-time education, which is a change of circumstances that could possibly affect the claimant’s entitlement and lead to a potential overpayment of benefit if not notified on time.
+
+75. Through the UC Continuous Improvement plan we have been able to make changes and introduce an annual check that encourages claimants to tell us where there has been a change in line with their statutory duty to do so.
+
+76. There are several initiatives underway and some of the examples for tackling the key loss areas include:
+
+a. Introducing changes to tackle capital fraud. We are changing the claimant verification journey to check capital declarations for all claimants and improving the UC service to ensure claimants more accurately declare their capital. This includes planning on trialling the use of open banking to help prevent capital fraud which would complement the third party data gathering measure currently being considered by Parliament.
+
+b. Introducing further checks on the incomes and expenses of our self-employed claimants to ensure they declare the correct amount in each assessment period. This includes a trial of automation to support DWP agents to accurately check this information.
+
+c. Introducing new prompts for claimants to redeclare their circumstances where data indicates they have not declared to DWP they are living with a partner.
+
+d. Reviewing the Department’s verification approaches across UC and trialling options for periodically reviewing a claimant’s declarations and asking them to reverify their circumstances.
+
+77. Building on the gains from the continuous improvement plan in Universal Credit, we aim to embed our learning from this into other benefits, such as Pension Credit and Carer’s Allowance, to reduce overpayments in these benefits too.
+
+78. For example, in Carer’s Allowance we are progressing an enhanced notification strategy as part of our existing commitment to improve customer engagement, building on our existing communications with customers. As part of this notification strategy we are considering all forms of targeted contact to find the most effective and efficient solution, such as exploring the use of targeted text messages or emails to alert claimants and encourage them to contact the Department when the DWP is made aware of a potential overpayment. The new strategy will help claimants understand when they may have received an earnings-related overpayment or are at risk of doing so, and will encourage claimants to contact the DWP to meet their obligation to inform the Department of changes in their income and other relevant circumstances. This will reduce the risk of those customers being overpaid.
+
+Reviewing our controls framework
+
+79. DWP controls are the core measures, processes and checks that we use every day to stop criminals making false or inaccurate claims and stop claimants making genuine mistakes. These are one of our key front-line defences against fraudulent attempts.
+
+80. Some critical front-line controls include Identity Verification, which helps ensure benefits are provided to genuine customers; and the Gainfully Self-Employed Test, which determines whether a claimant is genuinely self-employed and therefore entitled to UC as a self-employed person.
+
+81. In 2022/23, our controls and counter fraud activities were estimated to have prevented nearly £18 billion of losses[footnote 26]. Whilst these controls provide huge protection for the taxpayer, we saw during the pandemic that when the right controls are not in place criminals will exploit vulnerabilities and steal from the taxpayer.
+
+82. Learning from the actions taken over the pandemic, building on our Fraud Plan, and in response to the rising propensity of fraudulent activity we have commenced a thorough review of the fraud and error controls in DWP so that we maintain the best controls possible. This review will look at the control measures currently in place and test whether they are performing to the highest standards that we expect. We will use this information to ensure the Department is delivering our existing controls as effectively and efficiently as possible; and to identify if the Department could further improve or increase the already high level of controls to respond to the higher risk of fraud.
+
+External communications
+
+83. Fraud against the State is not a victimless crime, it is theft from the taxpayer. The Department is committed to raising public awareness on the impacts and consequences of fraud. The current levels of fraud and error in the welfare system are unacceptable, this is public money that could be targeted and focused on supporting the most vulnerable. Across all welfare benefits last year DWP overpaid £8.3 billion and 75% (£6.4 billion) of this was estimated to be due to fraud. This is money that could have been used for other public services such as schools or hospitals or reducing the national debt.
+
+84. We want to ensure that the public understand the damage caused by fraud so that we can all understand that fraud is unacceptable. This is why we are commissioning initial research later this year to inform future communications approaches and counter the assumption that there are no consequences of benefit fraud. This campaign will challenge trends in social attitudes that are conducive to a rising propensity to fraud against the welfare system, and raise awareness amongst our customers on the importance of providing accurate and timely information.
+
+85. This paper demonstrates how we have delivered on the commitments in our Fraud Plan and where we are going further in our fight against fraud.
+
+86. Delivering on our Fraud Plan contributed to a 10% reduction in the percentage of expenditure overpaid due to fraud and error in 2022/23 and savings of £1.1 billion in the same year. When combined with our controls, we estimate that our controls and activities have prevented nearly £18 billion of losses in 2022/23. Delivering our Fraud Plan has also contributed to exceeding our savings target for 2023/24, saving £1.35 billion.
+
+87. We are protecting taxpayers’ money by investing in our counter fraud professionals and initiatives such as the Targeted Case Review, by bringing forward new powers to improve our access to vital third party data and by bringing together the public and private sectors to share expertise through Fraud Prevention Advisory Group.
+
+88. We have shown that in the context of the rising propensity to commit fraud against the welfare system, we are not complacent. We are continuing to deliver on our Fraud Plan, scaling up our delivery and already taking further action to fight fraud and error. We are making further investments in our counter-fraud front line, and we will bring forward a Fraud Bill in the next parliament to modernise our legal framework. And crucially, we are shifting our focus to preventing fraud from entering the welfare system, using developments in modern technology, including Artificial Intelligence to crack down on those who exploit the welfare system and take advantage of the hardworking taxpayers who fund it.
+
+89. The government has invested significantly to balance accessible welfare support while combatting fraud. If the government continues to do so our Fraud Plan will save £9 billion by 2027/28 and on top of this our third-party data measure will save an additional £600 million by 2028/29.
+
+90. By continuing to deliver our Fraud Plan and by building on it through further action, we will continue our fight fraud against in the welfare system, protecting the taxpayer and upholding the principle of fairness that sits at the heart of the welfare state.
+
+The AME savings target was comprised of activities carried out by Counter Fraud, Compliance and Debt, the Verify Earnings and Pensions Service and Targeted Case Reviews in Universal Credit. The Department set a target to save £1.3 billion in 2023/24 and initial savings estimates for 2023/24 indicate we have now exceeded that target, saving £1.35 billion.
+
+AME Savings Methodology
+
+DWP has a well-established method for estimating the impact on AME expenditure of our fraud and error activities. This includes the detection and recovery of all historic overpayments[footnote 27], and savings associated with the prevention of the future duration of that overpayment.
+
+As part of any fraud and error decision-making activity, we may identify an overpayment to be recovered. We refer these overpayments to our debt recovery function where the ambition is to recover as much of the overpayment as quickly as appropriate. In reality, this process can take several years and in some cases we may not recover the entirety of the debt. Therefore, we apply a ‘recovery rate’ to all overpayments to reflect that some may not be fully recovered over the lifetime the department holds that debt.
+
+We also make an assumption about how long that overpayment would have continued had DWP not identified and intervened. To do this we calculate the weekly or monthly value of the change to entitlement, or ‘Monetary Value of Adjustment’ (MVA) and apply an assumed duration depending on the benefit in error. We call this the Future Overpayment Prevented (FOP) methodology.
+
+Figure 2 illustrates the two components of our AME saving calculation.
+
+Figure 2: Illustration of AME savings calculation
+
+In practice an intervention can have just one of these components. For example, an overpayment had already ended at the point of being identified, such as when a claimant’s circumstances change. In which case we calculate the overpayment and refer to debt management for recovery but do not apply the FOP. An example of where there might be a FOP element without the Historic Overpayment would be where we prevent error entering the system in the first place, e.g. preventing the first payment associated with an illegitimate attempt to claim benefit.
+
+Both the recovery rates, and the FOP assumptions are based on established modelling that has been independently assured.
+
+Fraud and error in the benefit system Financial Year Ending (FYE) 2023 – GOV.UK (www.gov.uk) ↩
+
+DWP annual report and accounts 2022 to 2023 – GOV.UK (www.gov.uk) ↩
+
+DWP annual report and accounts 2022 to 2023 – GOV.UK (www.gov.uk) ↩
+
+Fighting Fraud in the Welfare System – GOV.UK (www.gov.uk) ↩
+
+Tackling fraud and rebuilding trust – (publishing.service.gov.uk) ↩
+
+Prime Minister’s speech on welfare: 19 April 2024 – GOV.UK (www.gov.uk) ↩
+
+Comparisons are made difficult due to influences such as changes in recording practices which means these should be treated with some caution ↩
+
+Crime in England and Wales, Appendix tables - year ending December 2023 ↩
+
+Data for each year held in separate tables Crime in England and Wales: Appendix tables - Office for National Statistics (ons.gov.uk) ↩
+
+Crime in England and Wales – Office for National Statistics (ons.gov.uk) ↩
+
+Action plan to tackle shoplifting launched – GOV.UK (www.gov.uk) ↩
+
+Fighting retail crime: more action – GOV.UK (www.gov.uk) ↩
+
+Fraud and Error in Welfare Benefits, 2016 to 2022: British Social Attitudes survey – GOV.UK (www.gov.uk) ↩
+
+Reports and Trends – Growing Threat of Fraud & Financial Crime – Cifas ↩
+
+Aviva reports 16% rise in application fraud over same period in 2021– Aviva plc ↩
+
+New YouGov findings show growing number of young adults tempted by insurance fraud – (insurancefraudbureau.org) ↩
+
+Seizing the Opportunity: Delivering Efficiency for the Public – (publishing.service.gov.uk) ↩
+
+Rounded to the nearest £10 million. ↩
+
+Personal information charter – Department for Work and Pensions – GOV.UK (www.gov.uk) ↩
+
+Data Protection and Digital Information Bill – Parliamentary Bills – UK Parliament ↩
+
+The third parties in scope are to be prescribed in regulations, and in the first instance we will prescribe banks and financial institutions. ↩
+
+Prime Minister’s speech on welfare: 19 April 2024 – GOV.UK (www.gov.uk) ↩
+
+Prime Minister’s speech on welfare: 19 April 2024 – GOV.UK (www.gov.uk) ↩
+
+DWP annual report and accounts 2022 to 2023 – GOV.UK (www.gov.uk) ↩
+
+Benefit expenditure and caseload tables 2024 – GOV.UK (www.gov.uk) ↩
+
+DWP annual report and accounts 2022 to 2023 – GOV.UK (www.gov.uk) ↩
+
+The department also identifies and corrects underpayments therefore our achievement against the target represents a net position taking into account where entitlement has been increased. Where we refer to ‘overpayments’ read ‘overpayment and underpayment’ which we treat in the same way. ↩
+
+Is this page useful?
+
+Yes this page is useful
+
+No this page is not useful
+
+Thank you for your feedback
+
+Report a problem with this page
+
+Help us improve GOV.UK
+
+To help us improve GOV.UK, we’d like to know more about your visit today. Please fill in this survey (opens in a new tab). Cancel

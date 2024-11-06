@@ -1,0 +1,219 @@
+Please fill out this field.
+
+What Is Economic Growth?
+
+Understanding Economic Growth
+
+Phases of Economic Growth
+
+Measuring Economic Growth
+
+Generating Economic Growth
+
+Economic Growth: What It Is and How It Is Measured
+
+The Investopedia Team
+
+Investopedia contributors come from a range of backgrounds, and over 25 years there have been thousands of expert writers and editors who have contributed.
+
+Learn about our editorial policies
+
+Updated June 05, 2024
+
+Reviewed by Charles Potters
+
+Reviewed by Charles Potters Full Bio
+
+Learn about our Financial Review Board
+
+Fact checked by Katrina Munichiello Full Bio
+
+Katrina Ávila Munichiello is an experienced editor, writer, fact-checker, and proofreader with more than fourteen years of experience working with print and online publications.
+
+Learn about our editorial policies
+
+What Is Economic Growth?
+
+Economic growth is an increase in the production of economic goods and services in one period of time compared with a previous period. It can be measured in nominal or real terms. Traditionally, aggregate economic growth is measured in terms of gross national product (GNP) or gross domestic product (GDP), although alternative metrics are sometimes used.
+
+Economic growth is an increase in the production of goods and services in an economy.
+
+Increases in capital goods, labor force, technology, and human capital can all contribute to economic growth.
+
+Tax cuts are generally less effective in spurring economic growth than are increases in government spending.
+
+Economic growth is commonly measured in terms of the increase in aggregate market value of additional goods and services produced, using estimates such as GDP.
+
+Jiaqi Zhou / Investopedia
+
+Understanding Economic Growth
+
+In simplest terms, economic growth refers to an increase in aggregate production in an economy, which generally manifests as a rise in national income.
+
+Often, but not necessarily, aggregate gains in production correlate with increased average marginal productivity. That leads to an increase in incomes, inspiring consumers to open up their wallets and buy more and driving a higher material quality of life and standard of living.
+
+In economics, growth is commonly modeled as a function of physical capital, human capital, labor force, and technology. Increasing the quantity or quality of the working-age population, the tools that they have to work with, and the recipes that they have available to combine labor, capital, and raw materials will lead to increased economic output.
+
+Image by Sabrina Jiang © Investopedia 2020
+
+Phases of Economic Growth
+
+The economy moves through different periods of activity. This movement is called the business cycle. It consists of four phases:
+
+Expansion: During this phase, employment, income, industrial production, and sales all increase, and there is a rising real GDP.
+
+Peak: This is when an economic expansion hits its ceiling. It is, in effect, a turning point.
+
+Contraction: During this phase, the elements of an expansion all begin to decrease. It becomes a recession when a significant decline in economic activity spreads across the economy.
+
+Trough: This is when an economic contraction hits its nadir.
+
+A single business cycle is dated from peak to peak or trough to trough. Such cycles generally are not regular in length, and there can be a period of contraction during an expansion and vice versa.
+
+Since World War II, the U.S. economy has experienced more expansions than contractions. From 1945 to 2019, the average expansion lasted about 65 months, while the average contraction was only 11 months. However, the Great Recession, from December 2007 to June 2009, lasted for 18 months. This was followed by the longest expansion on record, 128 months, lasting until 2020 with the advent of the COVID-19 pandemic.
+
+Governments often try to stimulate economic growth by lowering interest rates, which makes money cheaper to borrow. However, that can only last for so long. Eventually, as happened in 2022 and 2023, rates need to be hiked to combat price inflation and keep the economy from boiling over.
+
+How to Measure Economic Growth
+
+The most common measure of economic growth is real GDP. This is the total value of all goods and services produced in an economy, with that value adjusted to remove the effects of inflation. There are three different methods for looking at real GDP.
+
+Quarterly growth at an annual rate: This looks at the change in the GDP from quarter to quarter, which is then compounded into an annual rate. For example, if one quarter’s change is 0.3%, then the annual rate would be extrapolated to be 1.2%.
+
+Four-quarter or year-over-year growth rate: This compares a single quarter’s GDP from two successive years as a percentage. It is often used by businesses to offset the effects of seasonal variations.
+
+Annual average growth rate: This is the average of changes in each of the four quarters. For example, if in one year there were four-quarter rates of 2%, 3%, 1.5%, and 1%, the annual average growth rate for the year would be 7.5% ÷ 4 = 1.875%.
+
+GDP, the most popular way to measure economic growth, is calculated by adding up all of the money spent by consumers, businesses, and the government in a given period. The formula is: GDP = consumer spending + business investment + government spending + net exports.
+
+Of course, measuring the value of a commodity is tricky. Some goods and services are considered to be worth more than others. For example, a smartphone is more valuable than a pair of socks. Growth has to be measured in the value of goods and services, not just the quantity.
+
+Another problem is that not all individuals place the same value on the same goods and services. A heater is more valuable to a resident of Alaska, while an air conditioner is more valuable to a resident of Florida. Some people value steak more than fish and vice versa.
+
+A common approximation is the current market value. In the United States, this is measured in terms of U.S. dollars and added together to produce aggregate measures of output, including GDP.
+
+There are alternatives to GDP. For example, The World Bank uses gross national income per capita, which includes income sent back by citizens working overseas, to measure economic growth, classify countries for analytical purposes, and determine borrowing eligibility.
+
+How to Generate Economic Growth
+
+Economic growth is dependent on the following four contributory areas:
+
+Increase in Physical Capital Goods
+
+The first is an increase in the amount of physical capital goods in the economy. Adding capital to the economy tends to increase the productivity of labor. Newer, better, and more tools mean that workers can produce more output per time period.
+
+For a simple example, a fisherman with a net will catch more fish per hour than a fisherman with a rod. However, two things are critical to this process.
+
+Someone in the economy must first engage in some form of saving in order to free up the resources to create the new capital. In addition, the new capital must be of the right type, in the right place, and activated at the right time for workers to actually use it productively.
+
+Improvements in Technology
+
+A second method of producing economic growth is through technological improvements. An example of this is the invention of gasoline fuel. Prior to the discovery of its energy-generating power, the economic value of petroleum was relatively low. This changed when the use of gasoline proved a more productive method of transporting goods.
+
+Improved technology allows workers to produce more output with the same stock of capital goods by combining them in novel ways that are more productive. Like capital growth, the rate of technical growth is highly dependent on the rate of savings and investment, as they are necessary to engage in research and development.
+
+The four factors of production are land and natural resources, labor, capital equipment, and entrepreneurship.
+
+Growth of the Labor Force
+
+Another way to generate economic growth is to grow the labor force. All else being equal, more workers generate more economic goods and services.
+
+During the 19th century, a portion of the robust U.S. economic growth was due to a high influx of cheap, productive immigrant labor. However, as with capital-driven growth, there are some key conditions to this process.
+
+Increasing the labor force necessarily increases the amount of output that must be consumed in order to provide for the basic subsistence of the new workers, so the new workers need to be at least productive enough to offset this and not be net consumers.
+
+Also, just like additions to capital, it is important for the right type of workers to flow to the right jobs in the right places, in combination with the right types of complementary capital goods, in order to realize their productive potential.
+
+Increase Human Capital
+
+The last method is to increase human capital. This means laborers become more accomplished at their crafts, raising their productivity through skills training, trial and error, or simply more practice. Savings, investment, and specialization are the most consistent and easily controlled methods.
+
+Human capital in this context can also refer to social and institutional capital. Behavioral tendencies toward higher social trust and reciprocity, along with political or economic innovations such as improved protections for property rights, are types of human capital that can increase the productivity of the economy.
+
+Why Does Economic Growth Matter?
+
+In the simplest terms, economic growth means that more will be available to more people, which is why governments try to generate it. However, it’s not just about money, goods, and services. Politics also enter into the equation. How economic growth is used to fuel social progress matters.
+
+According to research conducted by the United Nations University World Institute for Development Economics Research, “most countries that have shown success in reducing poverty and increasing access to public goods have based that progress on strong economic growth.” However, the institute noted, if the benefits flow only to an elite group, the growth will not be sustained.
+
+How Do Taxes Affect Economic Growth?
+
+Taxes affect economic growth, at least in the short term, through their impact on demand. A tax cut increases demand by raising personal disposable income and encouraging businesses to hire and invest. However, the size of the effect is dependent on the strength of the economy. If it is operating close to capacity, the effect is likely to be small. If it is operating significantly below its potential, the impact will be more pronounced. The Congressional Budget Office (CBO) estimates that the effect is three times larger in the latter case than in the former.
+
+The CBO also found that tax cuts are generally not as effective in stimulating economic growth as government spending increases. That is because most of the spending boosts demand, while tax cuts boost savings as well as demand. One way to mitigate this effect is to target tax cuts to lower- and middle-income households, which are less likely to put the money into savings.
+
+What Is Another Word or Term for Economic Growth?
+
+Other words and terms for economic growth include “boom,” “prosperity,” “economic development,” “economic upswing,” “economic upsurge,” “industrial development,” and “buoyancy of the economy.”
+
+Economic growth occurs when there is a rise in the production of goods and services for a certain period as compared with a previous one. It is generally measured in terms of GDP and is an indicator of the economic health of a country. However, how widely the fruits of the growth are shared is an important factor in its sustenance, not to mention societal health and progress.
+
+Investopedia requires writers to use primary sources to support their work. These include white papers, government data, original reporting, and interviews with industry experts. We also reference original research from other reputable publishers where appropriate. You can learn more about the standards we follow in producing accurate, unbiased content in our editorial policy.
+
+Congressional Research Service, via Federation of American Scientists, Project on Government Secrecy. “Introduction to U.S. Economy: The Business Cycle and Growth,” Page 2.
+
+Board of Governors of the Federal Reserve System. “Open Market Operations.”
+
+The World Bank, Data Help Desk. “Methodologies.”
+
+U.S. Library of Congress. “U.S. History Primary Source Timeline.”
+
+United Nations University World Institute for Development Economics Research. “Why Should I Care About Economic Growth?”
+
+Tax Policy Center. “How Do Taxes Affect the Economy in the Short Run?”
+
+Open a New Bank Account
+
+Advertiser Disclosure
+
+The offers that appear in this table are from partnerships from which Investopedia receives compensation. This compensation may impact how and where listings appear. Investopedia does not include all offers available in the marketplace.
+
+Open a New Bank Account
+
+Advertiser Disclosure
+
+The offers that appear in this table are from partnerships from which Investopedia receives compensation. This compensation may impact how and where listings appear. Investopedia does not include all offers available in the marketplace.
+
+Price Inflation: What It Is and How to Measure
+
+Price inflation is an increase in the price of a collection of goods and services over a certain time period caused by strong demand and supply shortages. more
+
+Producer Price Index (PPI): What It Is and How It's Calculated
+
+The producer price index is a monthly measure of change in the prices received by domestic producers. more
+
+Retail Sales: Definition, Measurement, and Use As an Economic Indicator
+
+Retail sales tracks consumer demand for finished goods by measuring the purchases of durable and non-durable goods over a defined period of time. more
+
+What Are Structural Adjustment Programs (SAPs)?
+
+A structural adjustment is a set of economic policy reforms that a country must adopt in order to receive a loan from the International Monetary Fund, the World Bank, or both. more
+
+Continuing Claims: What They Are and How They Work
+
+Continuing claims are the number of people who have already filed an initial claim and are still filing for unemployment benefits. more
+
+Liquidity Crisis: A Lack of Short Term Cash Flow
+
+A liquidity crisis refers to a widespread increase in demand for and decrease in supply of liquidity in an economy. more
+
+Price Inflation: What It Is and How to Measure
+
+Producer Price Index (PPI): What It Is and How It's Calculated
+
+Understand the Different Types of Inflation
+
+Retail Sales: Definition, Measurement, and Use As an Economic Indicator
+
+Consumer Price Index (CPI) vs. Producer Price Index (PPI): What’s the Difference?
+
+How the Unemployment Rate Affects Everybody
+
+Your Privacy Choices
+
+Investopedia is part of the Dotdash Meredith publishing family.
+
+By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.
+
+Cookies Settings Accept All Cookies

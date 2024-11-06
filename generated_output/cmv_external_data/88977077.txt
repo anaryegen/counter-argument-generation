@@ -1,0 +1,165 @@
+Skip to primary navigation
+
+Skip to main content
+
+Skip to primary sidebar
+
+UC MUSEUM OF PALEONTOLOGY
+
+Understanding Science
+
+How science REALLY works...
+
+Understanding Science
+
+Understanding Science 101
+
+→ Understanding Science 101
+
+→ What has science done for you lately?
+
+→ Science and technology on fast forward
+
+Advances in science often drive technological innovations, which may, in turn, contribute to new scientific discoveries.
+
+Science and technology on fast forward
+
+Science and technology feed off of one another, propelling both forward. Scientific knowledge allows us to build new technologies, which often allow us to make new observations about the world, which, in turn, allow us to build even more scientific knowledge, which then inspires another technology … and so on. As an example, we’ll start with a single scientific idea and trace its applications and impact through several different fields of science and technology, from the discovery of electrons in the 1800s to modern forensics and DNA fingerprinting…
+
+From cathodes to crystallography
+
+A cathode ray tube from the early 1900s. Photo credit: The Cathode Ray Tube site.
+
+We pick up our story in the late 1800s with a bit of technology that no one much understood at the time, but which was poised to change the face of science: the cathode ray tube (node A in the diagram below and pictured above). This was a sealed glass tube emptied of almost all air — but when an electric current was passed through the tube, it no longer seemed empty. Rays of eerie light shot across the tube. In 1897, physicists would discover that these cathode rays were actually streams of electrons (B). The discovery of the electron would, in turn, lead to the discovery of the atomic nucleus in 1910 (C). On the technological front, the cathode ray tube would slowly evolve into the television (which is constructed from a cathode ray tube with the electron beam deflected in ways that produce an image on a screen) and, eventually, into many sorts of image monitors (D and E). But that’s not all…
+
+In 1895, the German physicist Wilhem Roentgen noticed that his cathode ray tube seemed to be producing some other sort of ray in addition to the lights inside the tube. These new rays were invisible but caused a screen in his laboratory to light up. He tried to block the rays, but they passed right through paper, copper, and aluminum, but not lead. And not bone. Roentgen noticed that the rays revealed the faint shadow of the bones in his hand! Roentgen had discovered X-rays, a form of electromagnetic radiation (F). This discovery would, of course, shortly lead to the invention of the X-ray machine (G), which would in turn, evolve into the CT scan machine (H) — both of which would become essential to non-invasive medical diagnoses. And the CT scanner itself would soon be adopted by other branches of science — for neurological research, archaeology, and paleontology, in which CT scans are used to study the interiors of fossils (I). Additionally, the discovery of X-rays would eventually lead to the development of X-ray telescopes to detect radiation emitted by objects in deep space (J). And these telescopes would, in turn, shed light on black holes, supernovas, and the origins of the universe (K). But that’s not all…
+
+The discovery of X-rays also pointed William and William Bragg (a father-son team) in 1913 and 1914 to the idea that X-rays could be used to figure out the arrangements of atoms in a crystal (L). This works a bit like trying to figure out the size and shape of a building based on the shadow it casts: you can work backwards from the shape of the shadow to make a guess at the building’s dimensions. When X-rays are passed through a crystal, some of the X-rays are bent or spread out (i.e., diffracted) by the atoms in the crystal. You can then extrapolate backwards from the locations of the deflected X-rays to figure out the relative locations of the crystal atoms. This technique is known as X-ray crystallography, and it has profoundly influenced the course of science by providing snapshots of molecular structures.
+
+Perhaps most notably, Rosalind Franklin used X-ray crystallography to help uncover the structure of the key molecule of life: DNA. In 1952, Franklin, like James Watson and Francis Crick, was working on the structure of DNA — but from a different angle. Franklin was painstakingly producing diffracted images of DNA, while Watson and Crick were trying out different structures using tinker-toy models of the component molecules. In fact, Franklin had already proposed a double helical form for the molecule when, in 1953, a colleague showed Franklin’s most telling image to Watson. That picture convinced Watson and Crick that the molecule was a double helix and pointed to the arrangement of atoms within that helix. Over the next few weeks, the famous pair would use their models to correctly work out the chemical details of DNA (M).
+
+The impact of the discovery of DNA’s structure on scientific research, medicine, agriculture, conservation, and other social issues has been wide-ranging — so much so, that it is difficult to pick out which threads of influence to follow. To choose just one, understanding the structure of DNA (along with many other inputs) eventually allowed biologists to develop a quick and easy method for copying very small amounts of DNA, known as PCR — the polymerase chain reaction (N). This technique (developed in the 1980s), in turn, allowed the development of DNA fingerprinting technologies, which have become an important part of modern criminal investigations (O).
+
+As shown by the flowchart above, scientific knowledge (like the discovery of X-rays) and technologies (like the invention of PCR) are deeply interwoven and feed off one another. In this case, tracing the influence of a single technology, the cathode ray tube, over the course of a century has taken us on a journey spanning ancient fossils, supernovas, the invention of television, the atomic nucleus, and DNA fingerprinting. And even this complex network is incomplete. Understanding DNA’s structure, for example, led to many more advances besides just the development of PCR. And similarly, the invention of the CT scanner relied on much more scientific knowledge than just an understanding of how X-ray machines work. Scientific knowledge and technology form a maze of connections in which every idea is connected to every other idea through a winding path.
+
+Through many intervening steps, the cathode ray tube is connected to modern advances in DNA. For a focus on the steps leading up to the discovery of the arrangement of atoms in DNA, visit The Structure of DNA: Cooperation and competition.
+
+Making strides in medicine
+
+Understanding Science 101
+
+Discovery: The spark for science
+
+Science aims to explain and understand
+
+Science works with testable ideas
+
+Science relies on evidence
+
+Science is embedded in the scientific community
+
+Scientific ideas lead to ongoing research
+
+Participants in science behave scientifically
+
+Beyond physics, chemistry, and biology
+
+Science has limits: A few things that science does not do
+
+The real process of science
+
+A blueprint for scientific investigations
+
+Exploration and discovery
+
+Observation beyond our eyes
+
+Testing scientific ideas
+
+The logic of scientific arguments
+
+Tactics for testing ideas
+
+Reviewing test results
+
+Competing ideas: A perfect fit for the evidence
+
+Competing ideas: Other considerations
+
+Analysis within the scientific community
+
+Scrutinizing science: Peer review
+
+Copycats in science: The role of replication
+
+Science at multiple levels
+
+Even theories change
+
+Summing up the process
+
+The core of science: Relating evidence and ideas
+
+Putting the pieces together: The hard work of building arguments
+
+Arguments with legs to stand on
+
+Summing up scientific arguments
+
+The social side of science: A human and community endeavor
+
+The scientific community: Diversity makes the difference
+
+Science: A community enterprise
+
+Scientific culture: Great expectations
+
+The scientific community and misconduct
+
+Not getting away with it
+
+Human endeavor, human biases
+
+Summing up the social side of science
+
+Meeting society’s needs
+
+Summing up science and society
+
+What has science done for you lately?
+
+Science and technology on fast forward
+
+Making strides in medicine
+
+What science has done for you lately
+
+A scientific approach to life: A science toolkit
+
+Untangling media messages and public policies
+
+Who dunnit: Where does the information come from?
+
+Beware of false balance: Are the views of the scientific community accurately portrayed?
+
+Too tentative: Is the scientific community’s confidence in the ideas accurately portrayed?
+
+What controversy: Is a controversy misrepresented or blown out of proportion?
+
+Getting to the source: Where can I get more information?
+
+Convince me: How strong is the evidence?
+
+Summing up the science toolkit
+
+Subscribe to our newsletter
+
+Understanding Science 101
+
+The science flowchart
+
+Grade-level teaching guides
+
+Teaching resource database
+
+We use cookies to see how our website is performing. We do not collect or store your personal information, and we do not track your preferences or activity on this site. Learn more about our Privacy PolicyOk

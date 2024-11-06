@@ -1,0 +1,297 @@
+Skip to main content
+
+An official website of the United States government
+
+Here’s how you know Here's how you know
+
+The .gov means it’s official. Federal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you’re on a federal government site.
+
+The site is secure. The https:// ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely.
+
+Vea esta página en español
+
+Protecting Personal Information: A Guide for Business
+
+Real Estate and Mortgages
+
+Privacy and Security
+
+pdf-0136_proteting-personal-information.pdf (1.24 MB)
+
+https://www.bulkorder.ftc.gov/publications/protecting-personal-information-guid…
+
+Most companies keep sensitive personal information in their files—names, Social Security numbers, credit card, or other account data—that identifies customers or employees.
+
+This information often is necessary to fill orders, meet payroll, or perform other necessary business functions. However, if sensitive data falls into the wrong hands, it can lead to fraud, identity theft, or similar harms. Given the cost of a security breach—losing your customers’ trust and perhaps even defending yourself against a lawsuit—safeguarding personal information is just plain good business.
+
+Some businesses may have the expertise in-house to implement an appropriate plan. Others may find it helpful to hire a contractor. Regardless of the size—or nature—of your business, the principles in this brochure will go a long way toward helping you keep data secure.
+
+ A sound data security plan is built on 5 key principles:
+
+TAKE STOCK. Know what personal information you have in your files and on your computers.
+
+SCALE DOWN. Keep only what you need for your business.
+
+LOCK IT. Protect the information that you keep.
+
+PITCH IT. Properly dispose of what you no longer need.
+
+PLAN AHEAD. Create a plan to respond to security incidents.
+
+1. TAKE STOCK. Know what personal information you have in your files and on your computers.
+
+Inventory all computers, laptops, mobile devices, flash drives, disks, home computers, digital copiers, and other equipment to find out where your company stores sensitive data. Also, inventory the information you have by type and location. Your file cabinets and computer systems are a start, but remember: your business receives personal information in a number of ways—through websites, from contractors, from call centers, and the like. What about information saved on laptops, employees’ home computers, flash drives, digital copiers, and mobile devices? No inventory is complete until you check everywhere sensitive data might be stored.
+
+Track personal information through your business by talking with your sales department, information technology staff, human resources office, accounting personnel, and outside service providers. Get a complete picture of:
+
+Who sends sensitive personal information to your business. Do you get it from customers? Credit card companies? Banks or other financial institutions? Credit bureaus? Job applicants? Other businesses?
+
+How your business receives personal information. Does it come to your business through a website? By email? Through the mail? Is it transmitted through cash registers in stores?
+
+What kind of information you collect at each entry point. Do you get credit card information online? Does your accounting department keep information about customers’ checking accounts?
+
+Where you keep the information you collect at each entry point. Is it in a central computer database? On individual laptops? On a cloud computing service? On employees’ smartphones, tablets, or other mobile devices? On disks or tapes? In file cabinets? In branch offices? Do employees have files at home?
+
+Who has—or could have—access to the information. Which of your employees has permission to access the information? Do they need access? Could anyone else get a hold of it? What about vendors who supply and update software you use to process credit card transactions? Contractors operating your call center?
+
+Different types of information present varying risks. Pay particular attention to how you keep personally identifying information: Social Security numbers, credit card or financial information, and other sensitive data. That’s what thieves use most often to commit fraud or identity theft.
+
+Question: Are there laws that require my company to keep sensitive data secure? Answer: Yes. While you’re taking stock of the data in your files, take stock of the law, too. Statutes like the Gramm-Leach-Bliley Act, the Fair Credit Reporting Act, and the Federal Trade Commission Act may require you to provide reasonable security for sensitive information.
+
+Effective data security starts with assessing what information you have and identifying who has access to it. Understanding how personal information moves into, through, and out of your business and who has—or could have—access to it is essential to assessing security vulnerabilities. You can determine the best ways to secure the information only after you’ve traced how it flows.
+
+To find out more, visit business.ftc.gov/privacy-and-security.
+
+2. SCALE DOWN. Keep only what you need for your business.
+
+If you don’t have a legitimate business need for sensitive personally identifying information, don’t keep it. In fact, don’t even collect it. If you have a legitimate business need for the information, keep it only as long as it’s necessary.
+
+Use Social Security numbers only for required and lawful purposes— like reporting employee taxes. Don’t use Social Security numbers unnecessarily—for example, as an employee or customer identification number, or because you’ve always done it.
+
+If your company develops a mobile app, make sure the app accesses only data and functionality that it needs. And don’t collect and retain personal information unless it’s integral to your product or service. Remember, if you collect and retain data, you must protect it.
+
+Don’t keep customer credit card information unless you have a business need for it. For example, don’t retain the account number and expiration date unless you have an essential business need to do so. Keeping this information—or keeping it longer than necessary—raises the risk that the information could be used to commit fraud or identity theft.
+
+Scale down access to data. Follow the “principle of least privilege.” That means each employee should have access only to those resources needed to do their particular job.
+
+Question: We like to have accurate information about our customers, so we usually create a permanent file about all aspects of their transactions, including the information we collect from the magnetic stripe on their credit cards. Could this put their information at risk?
+
+Answer: Yes. Keep sensitive data in your system only as long as you have a business reason to have it. Once that business need is over, properly dispose of it. If it’s not in your system, it can’t be stolen by hackers.
+
+If you must keep information for business reasons or to comply with the law, develop a written records retention policy to identify what information must be kept, how to secure it, how long to keep it, and how to dispose of it securely when you no longer need it.
+
+3. LOCK IT. Protect the information that you keep.
+
+What’s the best way to protect the sensitive personally identifying information you need to keep? It depends on the kind of information and how it’s stored. The most effective data security plans deal with four key elements: physical security, electronic security, employee training, and the security practices of contractors and service providers.
+
+Many data compromises happen the old-fashioned way—through lost or stolen paper documents. Often, the best defense is a locked door or an alert employee.
+
+Store paper documents or files, as well as thumb drives and backups containing personally identifiable information in a locked room or in a locked file cabinet. Limit access to employees with a legitimate business need. Control who has a key, and the number of keys.
+
+Require that files containing personally identifiable information be kept in locked file cabinets except when an employee is working on the file. Remind employees not to leave sensitive papers out on their desks when they are away from their workstations.
+
+Require employees to put files away, log off their computers, and lock their file cabinets and office doors at the end of the day.
+
+Implement appropriate access controls for your building. Tell employees what to do and whom to call if they see an unfamiliar person on the premises.
+
+If you maintain offsite storage facilities, limit employee access to those with a legitimate business need. Know if and when someone accesses the storage site.
+
+If you ship sensitive information using outside carriers or contractors, encrypt the information and keep an inventory of the information being shipped. Also use an overnight shipping service that will allow you to track the delivery of your information.
+
+If you have devices that collect sensitive information, like PIN pads, secure them so that identity thieves can’t tamper with them. Also, inventory those items to ensure that they have not been switched.
+
+Computer security isn’t just the realm of your IT staff. Make it your business to understand the vulnerabilities of your computer system, and follow the advice of experts in the field.
+
+General Network Security
+
+Identify the computers or servers where sensitive personal information is stored.
+
+Identify all connections to the computers where you store sensitive information. These may include the internet, electronic cash registers, computers at your branch offices, computers used by service providers to support your network, digital copiers, and wireless devices like smartphones, tablets, or inventory scanners.
+
+Assess the vulnerability of each connection to commonly known or reasonably foreseeable attacks. Depending on your circumstances, appropriate assessments may range from having a knowledgeable employee run off-the-shelf security software to having an independent professional conduct a full-scale security audit.
+
+Don’t store sensitive consumer data on any computer with an internet connection unless it’s essential for conducting your business.
+
+Encrypt sensitive information that you send to third parties over public networks (like the internet), and encrypt sensitive information that is stored on your computer network, laptops, or portable storage devices used by your employees. Consider also encrypting email transmissions within your business.
+
+Regularly run up-to-date anti-malware programs on individual computers and on servers on your network.
+
+Check expert websites (such as www.us-cert.gov) and your software vendors’ websites regularly for alerts about new vulnerabilities, and implement policies for installing vendor-approved patches to correct problems.
+
+Restrict employees’ ability to download unauthorized software. Software downloaded to devices that connect to your network (computers, smartphones, and tablets) could be used to distribute malware.
+
+Scan computers on your network to identify and profile the operating system and open network services. If you find services that you don’t need, disable them to prevent hacks or other potential security problems. For example, if email service or an internet connection is not necessary on a certain computer, consider closing the ports to those services on that computer to prevent unauthorized access to that machine.
+
+When you receive or transmit credit card information or other sensitive financial data, use Transport Layer Security (TLS) encryption or another secure connection that protects the information in transit.
+
+Pay particular attention to the security of your web applications—the software used to give information to visitors to your website and to retrieve information from them. Web applications may be particularly vulnerable to a variety of hack attacks. In one variation called an “injection attack,” a hacker inserts malicious commands into what looks like a legitimate request for information. Once in your system, hackers transfer sensitive information from your network to their computers. Relatively simple defenses against these attacks are available from a variety of sources.
+
+Question: We encrypt financial data customers submit on our website. But once we receive it, we decrypt it and email it over the internet to our branch offices in regular text. Is there a safer practice?
+
+Answer: Yes. Regular email is not a secure method for sending sensitive data. The better practice is to encrypt any transmission that contains information that could be used by fraudsters or identity thieves.
+
+Control access to sensitive information by requiring that employees use “strong” passwords. Tech security experts say the longer the password, the better. Because simple passwords—like common dictionary words—can be guessed easily, insist that employees choose passwords with a mix of letters, numbers, and characters. Require an employee’s user name and password to be different. Require password changes when appropriate, for example following a breach.
+
+Consider using multi-factor authentication, such as requiring the use of a password and a code sent by different methods.
+
+Explain to employees why it’s against company policy to share their passwords or post them near their workstations.
+
+Use password-activated screen savers to lock employee computers after a period of inactivity.
+
+Lock out users who don’t enter the correct password within a designated number of log-on attempts.
+
+Warn employees about possible calls from identity thieves attempting to deceive them into giving out their passwords by impersonating members of your IT staff. Let employees know that calls like this are always fraudulent, and that no one should be asking them to reveal their passwords.
+
+When installing new software, immediately change vendor-supplied default passwords to a more secure strong password.
+
+Caution employees against transmitting sensitive personally identifying data—Social Security numbers, passwords, account information—via email. Unencrypted email is not a secure way to transmit information.
+
+Restrict the use of laptops to those employees who need them to perform their jobs.
+
+Assess whether sensitive information really needs to be stored on a laptop. If not, delete it with a “wiping” program that overwrites data on the laptop. Deleting files using standard keyboard commands isn’t sufficient because data may remain on the laptop’s hard drive. Wiping programs are available at most office supply stores.
+
+Require employees to store laptops in a secure place. Even when laptops are in use, consider using cords and locks to secure laptops to employees’ desks.
+
+Consider allowing laptop users only to access sensitive information, but not to store the information on their laptops. Under this approach, the information is stored on a secure central computer and the laptops function as terminals that display information from the central computer, but do not store it. The information could be further protected by requiring the use of a token, “smart card,” thumb print, or other biometric—as well as a password—to access the central computer.
+
+If a laptop contains sensitive data, encrypt it and configure it so users can’t download any software or change the security settings without approval from your IT specialists. Consider adding an “auto-destroy” function so that data on a computer that is reported stolen will be destroyed when the thief uses it to try to get on the internet.
+
+Train employees to be mindful of security when they’re on the road. They should never leave a laptop visible in a car, at a hotel luggage stand, or packed in checked luggage unless directed to by airport security. If someone must leave a laptop in a car, it should be locked in a trunk. Everyone who goes through airport security should keep an eye on their laptop as it goes on the belt.
+
+Question: Our account staff needs access to our database of customer financial information. To make it easier to remember, we just use our company name as the password. Could that create a security problem?
+
+Answer: Yes. Hackers will first try words like “password,” your company name, the software’s default password, and other easy-to-guess choices. They’ll also use programs that run through common English words and dates. To make it harder for them to crack your system, select strong passwords—the longer, the better—that use a combination of letters, symbols, and numbers. Don’t store passwords in clear text. Use a password management system that adds salt – random data – to hashed passwords and consider using slow hash functions.
+
+Use a firewall to protect your computer from hacker attacks while it is connected to a network, especially the internet. A firewall is software or hardware designed to block hackers from accessing your computer. A properly configured firewall makes it tougher for hackers to locate your computer and get into your programs and files.
+
+Determine whether you should install a “border” firewall where your network connects to the internet. A border firewall separates your network from the internet and may prevent an attacker from gaining access to a computer on the network where you store sensitive information. Set “access controls”—settings that determine which devices and traffic get through the firewall—to allow only trusted devices with a legitimate business need to access the network. Since the protection a firewall provides is only as effective as its access controls, review them periodically.
+
+If some computers on your network store sensitive information while others do not, consider using additional firewalls to protect the computers with sensitive information.
+
+Wireless and Remote Access
+
+Determine if you use wireless devices like smartphones, tablets, or inventory scanners or cell phones to connect to your computer network or to transmit sensitive information.
+
+If you do, consider limiting who can use a wireless connection to access your computer network. You can make it harder for an intruder to access the network by limiting the wireless devices that can connect to your network. Encrypt the information you send over your wireless network, so that nearby attackers can’t eavesdrop on these communications. Look for a wireless router that has Wi-Fi Protected Access 2 (WPA2) capability and devices that support WPA2.
+
+Use encryption if you allow remote access to your computer network by employees or by service providers, such as companies that troubleshoot and update software you use to process credit card purchases. Consider implementing multi-factor authentication for access to your network.
+
+Your information security plan should cover the digital copiers your company uses. The hard drive in a digital copier stores data about the documents it copies, prints, scans, faxes, or emails. If you don’t take steps to protect that data, it can be stolen from the hard drive, either by remote access or by extraction once the drive has been removed.
+
+Here are some tips about safeguards for sensitive data stored on the hard drives of digital copiers:
+
+Get your IT staff involved when you’re thinking about getting a copier. Employees responsible for securing your computers also should be responsible for securing data on digital copiers.
+
+When you’re buying or leasing a copier, consider data security features offered, either as standard equipment or as optional add-on kits. Typically, these features involve encryption and overwriting. Encryption scrambles the data on the hard drive so it can be read only by particular software. Overwriting—also known as file wiping or shredding—replaces the existing data with random characters, making it harder for someone to reconstruct a file. Once you choose a copier, take advantage of all its security features. You may be able to set the number of times data is overwritten—generally, the more times the data is overwritten, the safer it is from being retrieved. In addition, make it an office practice to securely overwrite the entire hard drive at least once a month.
+
+When you return or dispose of a copier, find out whether you can have the hard drive removed and destroyed, or overwrite the data on the hard drive. Have a skilled technician remove the hard drive to avoid the risk of breaking the machine.
+
+To find out more, read Copier Data Security: A Guide for Businesses.
+
+To detect network breaches when they occur, consider using an intrusion detection system. To be effective, it must be updated frequently to address new types of hacking.
+
+Maintain central log files of security-related information to monitor activity on your network so that you can spot and respond to attacks. If there is an attack on your network, the log will provide information that can identify the computers that have been compromised.
+
+Monitor incoming traffic for signs that someone is trying to hack in. Keep an eye out for activity from new users, multiple log-in attempts from unknown users or computers, and higher-than-average traffic at unusual times of the day.
+
+Monitor outgoing traffic for signs of a data breach. Watch for unexpectedly large amounts of data being transmitted from your system to an unknown user. If large amounts of information are being transmitted from your network, investigate to make sure the transmission is authorized.
+
+Have in place and implement a breach response plan.
+
+Question: I’m not really a “tech” type. Are there steps our computer people can take to protect our system from common hack attacks? Answer: Yes. There are simple fixes to protect your computers from some of the most common vulnerabilities. For example, a threat called an “SQL injection attack” can give fraudsters access to sensitive data on your system.
+
+Protect your systems by keeping software updated and conducting periodic security reviews for your network. Bookmark the websites of groups like the Open Web Application Security Project, www.owasp.org, or SANS (SysAdmin, Audit, Network, Security) Institute’s The Top Cyber Security Risks, www.sans.org/top20, for up-to-date information on the latest threats—and fixes. And check with your software vendors for patches that address new vulnerabilities. For more tips on keeping sensitive data secure, read Start with Security: A Guide for Business.
+
+Your data security plan may look great on paper, but it’s only as strong as the employees who implement it. Take time to explain the rules to your staff, and train them to spot security vulnerabilities. Periodic training emphasizes the importance you place on meaningful data security practices. A well-trained workforce is the best defense against identity theft and data breaches.
+
+Check references or do background checks before hiring employees who will have access to sensitive data.
+
+Ask every new employee to sign an agreement to follow your company’s confidentiality and security standards for handling sensitive data. Make sure they understand that abiding by your company’s data security plan is an essential part of their duties. Regularly remind employees of your company’s policy—and any legal requirement—to keep customer information secure and confidential.
+
+Know which employees have access to consumers’ sensitive personally identifying information. Pay particular attention to data like Social Security numbers and account numbers. Limit access to personal information to employees with a “need to know.”
+
+Have a procedure in place for making sure that workers who leave your employ or transfer to another part of the company no longer have access to sensitive information. Terminate their passwords, and collect keys and identification cards as part of the check-out routine.
+
+Create a “culture of security” by implementing a regular schedule of employee training. Update employees as you find out about new risks and vulnerabilities. Make sure training includes employees at satellite offices, temporary help, and seasonal workers. If employees don’t attend, consider blocking their access to the network.
+
+Train employees to recognize security threats. Tell them how to report suspicious activity and publicly reward employees who alert you to vulnerabilities. Visit ftc.gov/startwithsecurity to show them videos on vulnerabilities that could affect your company, along with practical guidance on how to reduce data security risks.
+
+Tell employees about your company policies regarding keeping information secure and confidential. Post reminders in areas where sensitive information is used or stored, as well as where employees congregate. Make sure your policies cover employees who telecommute or access sensitive data from home or an offsite location.
+
+Teach employees about the dangers of spear phishing—emails containing information that makes the emails look legitimate. These emails may appear to come from someone within your company, generally someone in a position of authority. Make it office policy to independently verify any emails requesting sensitive information. When verifying, do not reply to the email and do not use links, phone numbers, or websites contained in the email.
+
+Warn employees about phone phishing. Train them to be suspicious of unknown callers claiming to need account numbers to process an order or asking for customer or employee contact information. Make it office policy to double-check by contacting the company using a phone number you know is genuine.
+
+Require employees to notify you immediately if there is a potential security breach, such as a lost or stolen laptop.
+
+Impose disciplinary measures for security policy violations.
+
+For computer security tips, tutorials, and quizzes for everyone on your staff, visit www.ftc.gov/OnGuardOnline.
+
+ Security Practices of Contractors and Service Providers
+
+Your company’s security practices depend on the people who implement them, including contractors and service providers.
+
+Before you outsource any of your business functions— payroll, web hosting, customer call center operations, data processing, or the like—investigate the company’s data security practices and compare their standards to yours. If possible, visit their facilities.
+
+Put your security expectations in writing in contracts with service providers. Then, don’t just take their word for it — verify compliance.
+
+Insist that your service providers notify you of any security incidents they experience, even if the incidents may not have led to an actual compromise of your data.
+
+4. PITCH IT. Properly dispose of what you no longer need.
+
+What looks like a sack of trash to you can be a gold mine for an identity thief. Leaving credit card receipts or papers or CDs with personally identifying information in a dumpster facilitates fraud and exposes consumers to the risk of identity theft. By properly disposing of sensitive information, you ensure that it cannot be read or reconstructed.
+
+Implement information disposal practices that are reasonable and appropriate to prevent unauthorized access to—or use of—personally identifying information. Reasonable measures for your operation are based on the sensitivity of the information, the costs and benefits of different disposal methods, and changes in technology.
+
+Effectively dispose of paper records by shredding, burning, or pulverizing them before discarding. Make shredders available throughout the workplace, including next to the photocopier.
+
+When disposing of old computers and portable storage devices, use software for securely erasing data, usually called wipe utility programs. They’re inexpensive and can provide better results by overwriting the entire hard drive so that the files are no longer recoverable. Deleting files using the keyboard or mouse commands usually isn’t sufficient because the files may continue to exist on the computer’s hard drive and could be retrieved easily.
+
+Make sure employees who work from home follow the same procedures for disposing of sensitive documents and old computers and portable storage devices.
+
+If you use consumer credit reports for a business purpose, you may be subject to the FTC’s Disposal Rule. For more information, see Disposing of Consumer Report Information? Rule Tells How.
+
+Question: My company collects credit applications from customers. The form requires them to give us lots of financial information. Once we’re finished with the applications, we’re careful to throw them away. Is that sufficient? Answer: No. Have a policy in place to ensure that sensitive paperwork is unreadable before you throw it away. Burn it, shred it, or pulverize it to make sure identity thieves can’t steal it from your trash.
+
+5. PLAN AHEAD. Create a plan for responding to security incidents.
+
+Taking steps to protect data in your possession can go a long way toward preventing a security breach. Nevertheless, breaches can happen. Here’s how you can reduce the impact on your business, your employees, and your customers:
+
+Have a plan in place to respond to security incidents. Designate a senior member of your staff to coordinate and implement the response plan.
+
+If a computer is compromised, disconnect it immediately from your network.
+
+Investigate security incidents immediately and take steps to close off existing vulnerabilities or threats to personal information.
+
+Consider whom to notify in the event of an incident, both inside and outside your organization. You may need to notify consumers, law enforcement, customers, credit bureaus, and other businesses that may be affected by the breach. In addition, many states and the federal bank regulatory agencies have laws or guidelines addressing data breaches. Consult your attorney.
+
+Question: I own a small business. Aren’t these precautions going to cost me a mint to implement? Answer: No. There’s no one-size-fits-all approach to data security, and what’s right for you depends on the nature of your business and the kind of information you collect from your customers. Some of the most effective security measures—using strong passwords, locking up sensitive paperwork, training your staff, etc.—will cost you next to nothing and you’ll find free or low-cost security tools at non-profit websites dedicated to data security. Furthermore, it’s cheaper in the long run to invest in better data security than to lose the goodwill of your customers, defend yourself in legal actions, and face other possible consequences of a data breach.
+
+Additional Resources
+
+These websites and publications have more information on securing sensitive data:
+
+Start with Security www.ftc.gov/startwithsecurity
+
+National Institute of Standards and Technology (NIST) Computer Security Resource Center https://csrc.nist.gov/
+
+SANS (SysAdmin, Audit, Network, Security) Institute Critical Security Controls www.sans.org/top20
+
+United States Computer Emergency Readiness Team (US-CERT) www.us-cert.gov
+
+OnGuard Online www.ftc.gov/OnGuardOnline
+
+Small Business Administration www.sba.gov/cybersecurity
+
+Better Business Bureau www.bbb.org/cybersecurity
+
+The FTC works to prevent fraudulent, deceptive and unfair business practices in the marketplace and to provide information to help consumers spot, stop and avoid them. To file a complaint or get free information on consumer issues, visit ftc.gov or call toll-free, 1-877-FTC-HELP (1-877-382-4357); TTY: 1-866-653-4261.
+
+Watch a video, How to File a Complaint, at ftc.gov/video to learn more. The FTC enters consumer complaints into the Consumer Sentinel Network, a secure online database and investigative tool used by hundreds of civil and criminal law enforcement agencies in the U.S. and abroad.
+
+Opportunity to Comment
+
+The National Small Business Ombudsman and 10 Regional Fairness Boards collect comments from small businesses about federal compliance and enforcement activities. Each year, the Ombudsman evaluates the conduct of these activities and rates each agency’s responsiveness to small businesses. Small businesses can comment to the Ombudsman without fear of reprisal. To comment, call toll-free 1-888-REGFAIR (1-888-734-3247) or go to www.sba.gov/ombudsman.
+
+FEDERAL TRADE COMMISSION 600 Pennsylvania Avenue, NW Washington, DC 20580 1–877–FTC–HELP (1–877–382–4357) business.ftc.gov/privacy-and-security

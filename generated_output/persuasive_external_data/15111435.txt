@@ -1,0 +1,97 @@
+Skip to main content
+
+Biochemistry and Molecular Biology
+
+Environmental Health and Engineering
+
+Health Policy and Management
+
+Health, Behavior and Society
+
+International Health
+
+Molecular Microbiology and Immunology
+
+Population, Family and Reproductive Health
+
+Strategy and Development
+
+Implementation and Impact
+
+Integrity and Oversight
+
+Resources for Practitioners
+
+Articles & News Releases
+
+Statements & Announcements
+
+Strategic Priorities
+
+Inclusion, Diversity, Anti-Racism, and Equity (IDARE)
+
+What is Public Health?
+
+Biochemistry and Molecular Biology
+
+Environmental Health and Engineering
+
+Health Policy and Management
+
+Health, Behavior and Society
+
+International Health
+
+Molecular Microbiology and Immunology
+
+Population, Family and Reproductive Health
+
+Spending on Consumer Advertising for Top-Selling Prescription Drugs in U.S. Favors Those With Low Added Benefit
+
+Analysis also revealed that majority of top-selling prescription drugs in the U.S.—more than two-thirds—are rated as having low added benefit compared to other drugs
+
+A new study led by researchers at the Johns Hopkins Bloomberg School of Public Health found that the share of promotional spending allocated to consumer advertising was on average 14.3 percentage points higher for drugs with low added benefit compared to drugs with high added benefit.
+
+The analysis also revealed that the majority—68 percent or 92 of the 135 drugs included in the analysis—of the top-selling prescription drugs sold in 2020 were rated as offering low added benefit. The U.S. does not currently assess prescription drugs for comparative effectiveness. The researchers based their rating categories on France and Canada’s ratings of the same prescription drugs sold in the U.S., some under different brand names. 
+
+The findings, published online in JAMA on February 7, highlight the complex dynamic between consumer advertising for prescription drugs and patients and clinicians. The U.S. is the only country besides New Zealand that allows direct advertising of prescription drugs to consumers. In the U.S., this includes digital, magazine, newspaper, billboard, radio, and television promotion.
+
+Previous research suggests that direct to consumer advertising (DTCA) is associated with increased patient requests for advertised drugs and the increased chance that clinicians will prescribe them. Patient requests for advertised products may present an opportunity for discussing treatment options. At the same time, this may create a burden for clinicians and potentially lead to tension or distrust if the patient requests are not met. 
+
+“The findings suggest that shifting promotional dollars to direct-to-consumer advertising potentially reflects a strategy to drive patient demand for drugs that clinicians would be less likely to prescribe,” says Michael DiStefano, PhD, assistant scientist in the Bloomberg School’s Department of Health Policy and Management and lead author of the study. “When a consumer sees these advertisements on TV or social media, they should really question if it’s the best drug for them and have a conversation with their provider.”
+
+Since 1996, annual direct-to-consumer advertising budgets for prescription drugs have increased from $1.3 billion to, in 2016, $6 billion. 
+
+The study drew from IQVIA databases that report national sales estimates and promotional spending for pharmaceutical drugs. The analysis focused on 134 of the 150 top-selling branded prescription drugs in 2020. These 150 drugs represented 60 percent of all U.S. drug sales in 2020. Sixteen drugs were excluded from the primary analysis due to missing data. The percent of total promotional spending allocated to DTCA for each product was computed.
+
+France uses five possible ratings for added benefit—major, important, moderate, minor, and none. Canada uses four categories—breakthrough, substantial, moderate, slight/none. The ratings are based on clinical research. For their rating categories, the researchers aggregated the top three ratings into “high added benefit” and the remaining ratings into “low added benefit” from France and Canada’s ratings. Both countries use their ratings to inform pricing.
+
+The analysis used France’s ratings for 108 drugs and, when there were no French ratings, Canada’s ratings for 26 drugs. 
+
+In addition to promotional spending and added clinical benefit, the researchers analyzed data on the health condition being treated, how the medication is administered, availability of a generic option, year of FDA approval, Medicare spending per beneficiary, and other drug characteristics. 
+
+The study found that the median promotional spending per drug in the study sample, including to patients and clinicians, was $20.9 million in 2020. The median spending per drug on direct-to-consumer advertising was 13.5 percent of promotional budgets.
+
+The researchers also found a large variation of spending on direct-to-consumer advertising among the prescription drugs analyzed in the study. Manufacturers of six of the best-selling drugs spent more than 90 percent of their promotional budget targeting consumers versus clinicians. These drugs include treatment options for motor neuropathy, various cancers, including breast cancers, multiple sclerosis, and HIV. Drugs treating metabolism and the digestive tract had a significantly lower share of total promotional spending on direct-to-consumer advertising. 
+
+The authors note that the study has several limitations. It only looked at one year. The data did not capture certain promotional elements, including patient coupons and other promotions. France’s and Canada’s ratings systems may reflect different value judgements.
+
+“This comes down to a consumer issue, not necessarily a policy issue,” says Gerard Anderson, PhD, professor in the Department of Health Policy and Management and senior author of the study. “Another consideration is the U.S. doesn’t currently rate prescription drugs. Imagine if the drug ads you saw on TV were required to tell you how well the drug performed against alternative drugs for the same disease. That might change how interested you would be in the drug.” 
+
+“Association Between Pharmaceutical Product Characteristics and Manufacturer Spending on Direct-to-Consumer Advertising” was written by Michael DiStefano, Jenny Markell, Caroline Doherty, G. Caleb Alexander, and Gerard Anderson. 
+
+The study was supported by Arnold Ventures and the Agency for Healthcare Research and Quality (Grant #T32HS000029).
+
+Authors’ Disclosure: Co-author Caleb Alexander, MD, MS, is past chair and a current member of the Food and Drug Administration’s Peripheral and Central Nervous System Advisory Committee; is a co-founding principal and equity holder in Monument Analytics, a health care consultancy whose clients include the life sciences industry as well as plaintiffs in opioid litigation, for whom he has served as a paid expert witness; and is a past member of OptumRx’s National P&T Committee. 
+
+Media contacts: Caitlin Hoffman at choffman@jhu.edu and Kristine Henry at khenry39@jhu.edu. 
+
+Xylazine: The Emerging Threat in the U.S. Drug Supply and Policy Responses
+
+New Research Sheds Light on Treatment and Harm Reduction Gaps Among Drug Users
+
+Why India Has So Many Drugs With Dangerously Similar Names
+
+Why Do Prescription Drugs Have Such Crazy Names?
+
+Nearly One-Third of U.S. Adults Know Someone Who’s Died of Drug Overdose

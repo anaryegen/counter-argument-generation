@@ -1,0 +1,219 @@
+Scientists screen a five-day-old blastocyst embryo for the cystic fibrosis gene in this miscroscope image. Researchers are using a variety of techniques, including gene editing, to address the genetic roots of disease. But as recent work shows, making heritable changes to the human genome may carry unexpected risks.
+
+Photograph by David Liittshwager, Nat Geo Image Collection
+
+Error undermines finding of health risks in first gene-edited babies
+
+The 2018 birth of two gene-edited babies shocked the world. However, a study suggesting they have a risk of early death has now been retracted.
+
+June 3, 2019•8 min read
+
+Editor’s Note: On October 8, 2019, at the request of study coauthors Xinzhu Wei and Rasmus Nielsen, Nature Medicine retracted the study on which this story is based. After the study’s publication, scientists identified a systematic error in the dataset Wei and Nielsen used from the U.K. Biobank. After accounting for this error, Wei and Nielsen found that the data no longer bore out their study’s central finding.
+
+Chinese researcher Jiankui He shocked the global medical community in November 2018 when he announced the birth of two babies whose DNA he had edited—the first ever humans born with heritable changes to their genomes, made using a technique called Crispr-Cas9. He says he made the changes to lower the babies' risk of contracting HIV, but the news instantly sparked ethical and medical controversy about his work, and about the use of gene editing in humans.
+
+Now, a study finds that the edits may have actually hurt the babies' lifespans.
+
+As they report today in the journal Nature Medicine, researchers analyzed a U.K. genetic database and found that when people naturally have a trait similar to the one that He engineered into the babies' DNA, they have about a 21 percent greater risk of dying before the age of 76 than people who don't have this trait.
+
+“There might be a perception that when you have one mutation, you have one effect. But in fact, one mutation might have many different effects,” says study coauthor Rasmus Nielsen, a biologist at the University of California, Berkeley.
+
+“When we think about genetic engineering in humans, one of the many things we should consider is that the consequences can be hard to predict—that a mutation that's beneficial in one context is very detrimental in other contexts,” he says. (Find out about the first human embryos that were edited in the U.S.)
+
+In his public 2018 announcement, He said that his goal was to confer resistance to HIV, or human immunodeficiency virus. He did this by editing mutations into the CCR5 gene, which encodes a receptor on the outside of immune cells, making it an important player in how the immune system behaves. One of the most widely studied variants of this gene is the ∆32 variant, which is shorter than normal and is essentially broken. This breakage provides protection from HIV, since the virus infects immune cells by latching onto the protein that the functional CCR5 gene encodes.
+
+Become a subscriber and support our award-winning editorial features, videos, photography, and much more.
+
+For as little as $2/mo.
+
+But treatments for HIV have come a long way, and many experts argued at the time that this procedure was medically unnecessary. What's more, other pathogens thrive when CCR5 is broken, creating other risk factors. For instance, one 2015 study showed that having one or two copies of CCR5-∆32 nearly quadrupled a person's odds of dying from influenza.
+
+While the mutations He created aren't perfectly identical to the ∆32 variant, it seems that the babies' CCR5 genes are broken in a similar way. To find out more about what that might mean for them, Nielsen and Berkeley postdoctoral researcher Xinzhu Wei combed through nearly 410,000 genomes in the UK Biobank, a volunteer DNA archive, looking for the fates of people who naturally have two copies of CCR5-∆32.
+
+To account for sampling biases, Wei and Nielsen compared a thousand randomly generated subsets of the data against each other. When they did, they found that overall, having two copies of CCR5-∆32 increased a person's risk of dying before the age of 76 by three to 46 percent, with an average risk increase of 21 percent.
+
+Wei and Nielsen caution that their work shouldn't be over-interpreted, in part because today's DNA databases are geographically biased. The pair's research is based on the genomes of U.K., not Chinese, volunteers. Similar biases plague the research that He used to try and justify editing the babies' DNA in the first place: Prior studies found signs of CCR5-∆32's protective effects against HIV in European, not East Asian, populations.
+
+7 medical breakthroughs that gave us hope in 2023
+
+Not spayed. Not neutered. This birth control for cats doesn’t require surgery
+
+A decade later: How the ALS Ice Bucket Challenge made a lasting impact
+
+“I would like to make the message clear that the effect of the mutation depends on the genetic background and the environments, and that we don't have information to speculate about its effect in East Asians,” Wei, the study's lead author, says in an email.
+
+The new findings are bound to refocus attention on the ethical quandaries raised by He's research. Before and since He's announcement, researchers around the world have been calling for a moratorium on heritable edits to the human genome. In an essay published in Nature in May, a group of prominent Chinese bioethicists denounced He and called for a total revamp of China's governance of research ethics. In January, He was fired from the Southern University of Science and Technology in Shenzhen, China.
+
+The difference is as big as modifying the entire operating system of a computer, as opposed to modifying one single [piece of] software installed for a particular task.
+
+Xinzhu Wei, University of California, Berkeley
+
+Researchers are careful to point out that debate over He's work shouldn't discount Crispr's transformative medical potential, since the gene-editing technique doesn't make heritable changes in many therapeutic applications. For example, to treat a genetic disease, scientists can harvest cells from a person's organ, repair those cells' genes with Crispr, and reintroduce the modified cells to that organ to repopulate it. Similarly, researchers could use CCR5-∆32 to help treat HIV by modifying the immune cells of someone who already has HIV to make them more resistant to the virus. (Work with Crispr in mice is also advancing the ability of same sex couples to have biological children.)
+
+When He edited the baby girls' genomes, however, he did so when they were just fertilized eggs—which meant that his edits are present in nearly every cell in their bodies, including their eggs. If these babies, nicknamed Lulu and Nana, decide to have children later in life with their unaltered eggs, their offspring are guaranteed to have at least one broken copy of CCR5.
+
+“The difference is as big as modifying the entire operating system of a computer, as opposed to modifying one single [piece of] software installed for a particular task,” Wei says in an email. “Most of the time, I think, people who encounter a computer problem would not choose to fix a problem by renovating the operating system when it could be resolved in alternative ways.”
+
+Crispr also isn't 100-percent accurate, so it's possible that other genes in the babies have been altered, with unclear and unintended consequences down the line. It may well take decades to see how Lulu and Nana fare. In Nature, the Chinese bioethicist group argued that procedures must be in place to monitor and care for the duo for the rest of their lives.
+
+But even now, the babies provide a profound reminder for global caution, as Crispr co-discoverer Jennifer Doudna, a geneticist at the University of California, Berkeley, wrote in April for TIME Magazine.
+
+“As the scientific community now works to establish stronger safeguards,” Doudna wrote, “He’s fateful decision to ignore the basic medical mantra of 'do no harm' and risk the unintended consequences will likely be remembered as one of the most shocking misapplications of any scientific tool in our history.”
+
+Heard of Zoroastrianism? The ancient religion still has fervent followers
+
+Ready to give up fast fashion? Give 'slow fashion' a try.
+
+When does old age begin? Science says later than you might think
+
+Our bodies are unique. Our cancers are too.
+
+Is Ehlers-Danlos Syndrome really so rare—or is it misdiagnosed?
+
+Do birds have migration buddies?
+
+Do birds have migration buddies?
+
+We now know why Florida fish spin in circles until they die
+
+We now know why Florida fish spin in circles until they die
+
+5 clever animals that treat and prevent their own illnesses
+
+5 clever animals that treat and prevent their own illnesses
+
+What would the world look like without mosquitoes?
+
+What would the world look like without mosquitoes?
+
+Social media loves to villainize dolphins. Here's why it's wrong.
+
+Social media loves to villainize dolphins. Here's why it's wrong.
+
+How humpback whales use bubbles as a tool
+
+How humpback whales use bubbles as a tool
+
+Storm categories don’t tell the whole story
+
+Storm categories don’t tell the whole story
+
+What happens when an oil rig shuts down?
+
+What happens when an oil rig shuts down?
+
+This little bird tells the story of the East Coast’s disappearing marshes
+
+This little bird tells the story of the East Coast’s disappearing marshes
+
+Empowering the educators of Ngamiland, Video Story
+
+Empowering the educators of Ngamiland
+
+This brain-eating amoeba is on the rise—why?
+
+This brain-eating amoeba is on the rise—why?
+
+‘Corn sweat’—and other weird weather phenomena—explained
+
+‘Corn sweat’—and other weird weather phenomena—explained
+
+Your favorite foods have surprising global origins
+
+Your favorite foods have surprising global origins
+
+How did ancient Egyptian obelisks end up all over the world?
+
+How did ancient Egyptian obelisks end up all over the world?
+
+What we’ve learned—and lost—since the Titanic wreck was found
+
+What we’ve learned—and lost—since the Titanic wreck was found
+
+A brief history of the Paralympics
+
+A brief history of the Paralympics
+
+Did Babe Ruth really ‘call’ this legendary home run?
+
+Did Babe Ruth really ‘call’ this legendary home run?
+
+The real history behind the legend of China's Monkey King
+
+The real history behind the legend of China's Monkey King
+
+How much fiber do you need to reduce your cancer risk?
+
+How much fiber do you need to reduce your cancer risk?
+
+Experts explain what drives hair loss and how to fix it
+
+Experts explain what drives hair loss and how to fix it
+
+Do birds have migration buddies?
+
+Do birds have migration buddies?
+
+What is 'preventative chemotherapy'?
+
+What is 'preventative chemotherapy'?
+
+8 things we’ve learned about how alcohol harms the body
+
+8 things we’ve learned about how alcohol harms the body
+
+Is mouth taping the secret to a better night's sleep?
+
+Is mouth taping the secret to a better night's sleep?
+
+Summer doesn’t have to end yet with these fall getaways
+
+Adventures Everywhere
+
+Summer doesn’t have to end yet with these fall getaways
+
+Fall is the best time to visit these 10 national parks
+
+Adventures Everywhere
+
+Fall is the best time to visit these 10 national parks
+
+How to plan the ultimate trip to Japan
+
+How to plan the ultimate trip to Japan
+
+An inside guide to Dubai, where the city meets the desert
+
+An inside guide to Dubai, where the city meets the desert
+
+How geotagging can help—and hurt—your travels
+
+How geotagging can help—and hurt—your travels
+
+Should you worry about mpox when traveling?
+
+Should you worry about mpox when traveling?
+
+Your US State Privacy Rights
+
+Children's Online Privacy Policy
+
+About Nielsen Measurement
+
+Do Not Sell or Share My Personal Information
+
+Visit the D.C. Museum
+
+Learn About Our Impact
+
+Manage Your Subscription
+
+Sign Up for Our Newsletters
+
+Contribute to Protect the Planet
+
+National Geographic InstagramNational Geographic FacebookNational Geographic TwitterNational Geographic YoutubeNational Geographic LinkedinNational Geographic TiktokNational Geographic Reddit
+
+United States (Change)
+
+Copyright © 1996-2015 National Geographic SocietyCopyright © 2015-2024 National Geographic Partners, LLC. All rights reserved

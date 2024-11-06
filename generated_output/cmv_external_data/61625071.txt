@@ -1,0 +1,377 @@
+Back to Top Skip to main content
+
+An official website of the United States government Here's how you know
+
+The .gov means it’s official. Federal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you’re on a federal government site.
+
+The site is secure. The https:// ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely.
+
+Log in Show account info
+
+Logged in as: username
+
+Access keys NCBI Homepage MyNCBI Homepage Main Content Main Navigation
+
+Preview improvements coming to the PMC website in October 2024. Learn More or Try it out now.
+
+Public Health Ethics
+
+As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with, the contents by NLM or the National Institutes of Health. Learn more: PMC Disclaimer | PMC Copyright Notice
+
+Public Health Ethics. 2022 Jul; 15(2): 160–174.
+
+Published online 2022 Jul 25. doi: 10.1093/phe/phac009
+
+Personal Responsibility for Health: Exploring Together with Lay Persons
+
+Yukiko Asada, Marion Brown, Mary McNally, Andrea Murphy, Robin Urquhart, and Grace Warner
+
+Dalhousie University, Canada
+
+Find articles by Yukiko Asada
+
+Dalhousie University, Canada
+
+Find articles by Marion Brown
+
+Dalhousie University, Canada
+
+Find articles by Mary McNally
+
+Dalhousie University, Canada
+
+Find articles by Andrea Murphy
+
+Dalhousie University, Canada
+
+Find articles by Robin Urquhart
+
+Dalhousie University, Canada
+
+Find articles by Grace Warner
+
+Yukiko Asada, Dalhousie University, Canada;
+
+Contributor Information.
+
+Corresponding author.
+
+Corresponding author: Yukiko Asada, Department of Community Health and Epidemiology, Dalhousie University, 5790 University Avenue, Halifax, Nova Scotia, Canada B3H1V7. E-mail: ac.lad@adasa.okikuy
+
+This article is published and distributed under the terms of the Oxford University Press, Standard Journals Publication Model (https://academic.oup.com/pages/standard-publication-reuse-rights)
+
+Supplementary Materials
+
+phac009_Supplementary_Data.
+
+phac009_supplementary_data.zip (7.1M)
+
+GUID: EF2EE337-8109-418B-A832-2FB3BA5F1728
+
+Emerging parallel to long-standing, academic and policy inquiries on personal responsibility for health is the empirical assessment of lay persons’ views. Yet, previous studies rarely explored personal responsibility for health among lay persons as dynamic societal values. We sought to explore lay persons’ views on personal responsibility for health using the Fairness Dialogues, a method for lay persons to deliberate equity issues in health and health care through a small group dialogue using a hypothetical scenario. We conducted two 2-h Fairness Dialogues sessions (n = 15 in total) in Nova Scotia, Canada. We analyzed data using thematic analysis. Our analysis showed that personal choice played an important role in participants’ thinking about health. Underlying the concept of personal choice was considerations of freedom and societal debt. In participants’ minds, personal and social responsibilities co-existed and they were unwilling to determine health care priority based on personal responsibility. The Fairness Dialogues is a promising deliberative method to explore lay persons’ views as dynamic values to be developed through group dialogues as opposed to static, already-formed values waiting to be elicited.
+
+Personal responsibility for health is a concept that has attracted long-standing, lively inquiries in academic and policy discussions. It is a concept often considered when attempting to differentiate health inequity (i.e., an unfair difference in health) from health inequality (i.e., a difference in health) (Kawachi et al., 2002) and to ascertain what obligations society has to alleviate health inequity. For example, an extensively discussed egalitarian theory of luck egalitarianism demands a ‘responsibility-cut’. In the context of health, the ‘responsibility-cut’ divides determinants of health outcomes deemed within and outside of personal responsibility; health outcomes due to factors outside of personal responsibility are unfair whereas those within are not (Fleurbaey and Schokkaert, 2009; Segall, 2009). Such pursuit of a ‘responsibility-cut’ is widely criticized as discouraging a democratic society of equal citizens (Anderson, 1999; Voigt, 2007) and some views on health equity deliberately forgo it. Extending John Rawls’s theory of justice as fairness (1971) from among persons with equal good health to among persons with varying health status, Daniels (1985, 2008) argues that society should help each person to satisfy species-typical normal functioning without questioning the prudence of individuals. Recent discussion in the bioethics literature seeks pragmatic accounts by acknowledging the pervasiveness of the concept of responsibility in our everyday conduct and the improbability of ignoring personal responsibility altogether. Brown and Savulescu (2019), for example, argue for considering responsibility across time (i.e., repeated health-damaging behaviours over time as opposed to a one-time behaviour) and across agents (i.e., family as opposed to individual). Schmidt (2009a,b) considers collective responsibility more broadly and argues for ‘health responsibility as co-responsibility’ between individuals and society, urging forward-looking responsibility to promote better outcomes in future through empowerment rather than backward-looking responsibility to blame and shame past actions. Despite personal responsibility for health remaining a challenging concept, policy applications are numerous (Schmidt, 2009b; Schmidt et al., 2010; Voigt, 2013).
+
+Emerging parallel to the ongoing conceptual inquiries and policy considerations is the empirical assessment of lay persons’ views on personal responsibility for health. This growing literature consists of three lines of inquiry. First, an increasing number of studies investigate lay persons’ causal beliefs and responsibility attributions—what factors cause health outcomes and whether these factors are within or outside of personal responsibility—and whether these beliefs and attributions are associated with personal characteristics and support for government policy. These studies show that personal responsibility is a pivotal concept when lay persons think about health (Crossley, 2003; Lundell et al., 2013) though personal and social responsibilities can co-exist in their views (Traina et al., 2019). In addition, certain personal characteristics, such as being male, being on the political right (in the USA and Alberta in Canada, but not in Norway), and having lower education, are shown to be associated with less belief in social responsibility, hence, less support for government interventions for health-damaging behaviours (Booske et al., 2011; Lundell et al., 2013; Traina et al., 2019; Curtin et al., 2021). Second, a small but growing number of studies examine narrative persuasion, that is, whether personal stories increase lay persons’ support for government interventions and if so, what personal stories or languages speak most to persons holding particular causal beliefs and responsibility attributions. These studies corroborate the key finding of a meta-analysis in the field of communication research by Braddock and Dillard (2016) that narratives are more effective than the presentation of scientific evidence alone and that lay persons with different political orientations are affected differently by narratives emphasizing personal and social responsibilities (Niederdeppe et al., 2011, 2014, 2015; Skurka, 2020) and racial, class and gender cues of the presentation of the narratives (Gollust et al., 2010; Gollust and Lynch, 2011). Finally, a relatively established subgroup of the literature examines lay persons’ support for incorporating personal responsibility for health as a criterion for priority setting. A classic study by Cookson and Dolan (1999) and two recent systematic reviews of stated preference studies (Whitty et al., 2014; Gu et al., 2015) indicate that lay persons consider personal responsibility for health as a priority setting criterion, though it is unclear how important this criterion is relative to other criteria regarding medical needs.
+
+These existing, pioneering explorations of lay persons’ views on responsibility for health are crucial for understanding the views of the public. Distinguishing careful thoughts from ‘gut feelings’ of lay persons and explaining how certain thoughts and feelings form among them may enrich conceptual and policy discussions. The exploration of lay persons’ views on responsibility for health is also important for developing together with lay persons what we agree upon as societal values. The longstanding, vibrant, academic and policy inquiries on this concept suggest that the ‘correct’ view may not be ‘out there’ to be discovered. Instead, there may be many reasonable views on the concept and balancing them may require considerations for the specific context to which this concept applies and thoughtful discussions among those who would be affected by such a balancing act (Daniels and Sabin, 2002; Daniels, 2008). In other words, reflective equilibrium (Daniels, 2020) among lay persons may help us decide how best to incorporate or avoid the concept of personal responsibility for health in policy decision-making. With this premise, we sought to explore lay persons’ views on responsibility for health as dynamic values to be developed through group dialogues, as opposed to static, already-formed values to be elicited. To do so, we used the Fairness Dialogues, a method for lay persons to deliberate equity issues in health and health care (Asada et al., 2020).
+
+The Fairness Dialogues
+
+The Fairness Dialogues is a theoretically grounded method for deliberating equity issues among lay persons (Asada et al., 2020). In a 2-h, facilitated Fairness Dialogues session, six to eight participants communicate and are encouraged to provide reasons for their views in an inclusive manner. As a deliberative method, the Fairness Dialogues emphasizes reason-giving and inclusive dialogue, but its uniqueness lies in cases that are hypothetical yet close enough to reality to evoke realistic imagination informed by the scientific literature. Through the use of carefully designed hypothetical cases and open-ended questions that are intended to encourage reason-giving and inclusive dialogue, the Fairness Dialogues emphasizes both how people think and what people think. This emphasis on the process is distinct from focus groups widely used in health services research and allows the Fairness Dialogues to develop citizens’ capacity to explore value-related questions. The group dialogue evolves around a fictional town, Troutville, a typical mid-sized town in Nova Scotia, Canada. Nova Scotia is where the Fairness Dialogues was developed and is taking place.
+
+For context, Canada is a country with 10 provinces and 3 territories with health care systems generally referred to as universal and publicly funded (Martin et al., 2018; Marchildon et al., 2020). Each province and territory is responsible for the delivery of health care, and the federal government sets a standard by financial transfers to provinces and territories that meet the five criteria of public administration, comprehensiveness, universality, portability and accessibility under the Canada Health Act. Approximately 70 per cent of total health expenditure is publicly financed and pays for procedures by health professionals and in hospitals deemed medically necessary with no cost to patients at the point of service. The remaining 30 per cent of total health expenditure is privately financed through private insurance and/or out-of-pocket for expenses such as medications and dental and vision care. Nova Scotia is the largest of the four Atlantic provinces with over 1 million inhabitants (Government of Nova Scotia, 2021). According to the most recent 2016 census, compared with Canada as a whole, Nova Scotia is older (those 65 years and over: 16.9 per cent and 19.9 per cent, respectively) and poorer (the total median household income: $70,336 and $60,764, respectively). In addition, Nova Scotia is largely homogeneous (e.g., 2.4 per cent Black population, 5.7 per cent Indigenous identity and 1.6 per cent French as the language spoken most often at home) (Statistics Canada, n.d.). Politically, between 1970 and 2022, Nova Scotians elected all three major parties of Canada, the Progressive Conservative party (right-leaning) for a total of 26 years, the Liberal party (centre) for a total of 22 years, and the New Democratic Party (left-leaning) for a total of 4 years (Nova Scotia Legislature, n.d.).
+
+Participants in the Fairness Dialogues are asked to imagine that they and their family live in Troutville. The Troutville scenario presents cases focusing on a chosen equity issue. These cases verbally and graphically present carefully designed, simple situations and ask open-ended questions. Cases for the present study focused on responsibility for health, in part inspired by the local health authority’s strategic plan, specifically its emphasis on ‘accountability of citizens and the health system for health and health status’ (Nova Scotia Health Authority, n.d.), which expressed the concept of personal responsibility in the form of fair reciprocity (Voigt, 2013).
+
+The Choice Grid and the Troutville Scenario
+
+The conceptual foundation for the Troutville scenario in the present study is the ‘choice grid’, a schematic way to understand the concept of responsibility for health. The choice grid does not directly connect to the philosophical and bioethics literature on the concept of responsibility for health; rather, it operationalizes the concept for empirical exploration. The choice grid consists of two axes that represent two considerations typically weighed when attempting to judge consequences of a choice as fair or unfair (R. Cookson, personal communication, January 2016). One consideration is whether the choice is made free and voluntary or not. Another consideration is whether the choice is ‘noble’ or ‘selfish’. These two considerations create the ‘choice grid’ as shown in Figure 1a with four panels: not quite freely made ‘selfish’ choice (southwest); freely made ‘selfish’ choice (northwest); freely made ‘noble’ choice (northeast); and not quite freely made ‘noble’ choice (southeast). We then selected four attributes—professions and/or activities that persons do or have done—that are often considered, appropriately or inappropriately, to represent each of these four panels as shown in Figure 1b: criminals (southwest); extreme sport lovers (northwest); firefighters (northeast); and veterans (southeast).
+
+Open in a separate window
+
+Choice grid (a) and attributes (b). The conceptual foundation for the Troutville scenario in the present study is the ‘choice grid’, a schematic way to understand the concept of responsibility for health. The choice grid does not directly connect to the philosophical and bioethics literature on the concept of responsibility for health; rather, it operationalizes the concept for empirical exploration. The choice grid consists of two axes that represent two considerations typically weighed when attempting to judge consequences of a choice as fair or unfair. One consideration is whether the choice is made free and voluntary or not. Another consideration is whether the choice is ‘noble’ or ‘selfish’. These two considerations create the ‘choice grid’ as shown in panel (a) with four panels: not quite freely made ‘selfish’ choice (southwest); freely made ‘selfish’ choice (northwest); freely made ‘noble’ choice (northeast) and not quite freely made ‘noble’ choice (southeast). We then selected four attributes—professions and/or activities that persons do or have done—that are often considered, appropriately or inappropriately, to represent each of these four panels as shown in panel (b): criminals (southwest); extreme sport lovers (northwest); firefighters (northeast) and veterans (southeast).
+
+We did not show the choice grid to our study participants and did not prompt them to consider whether the choice is free or not free or the choice is ‘noble’ or ‘selfish’. Instead, the Troutville scenario simply presented four hypothetical inequality cases in Troutville: inequality in healthy life expectancy between those who engage in criminal activity and those who do not; between those who engage in an extreme sport and not; between firefighters and non-firefighters; and between veterans and non-veterans (Table 1 and Figure 2). These inequalities were exactly the same, with 60 years of healthy life expectancy for the former of the pairing and 70 years for the latter of the pairing. The data were hypothetical but designed to be similar to what participants might observe in their real lives.
+
+Open in a separate window
+
+An example of the Troutville scenario, presenting inequality in healthy life expectancy between those who engage in criminal activity and those who do not. The data were hypothetical but designed to be similar to what participants might observe in their real lives.
+
+Questions in the Troutville scenario
+
+In Troutville, [one group of the pair] are expected to live for 60 healthy years and [another group of the pair] are expected to live for 70 healthy years.a
+
+Is this difference or inequality in healthy life expectancy between criminals and non-criminals unfair? Why and why not?
+
+Is this difference or inequality in healthy life expectancy between extreme sport lovers and non-extreme sport lovers unfair? Why and why not?
+
+Is this difference or inequality in healthy life expectancy between firefighters and non-firefighters unfair? Why and why not?
+
+Is this difference or inequality in healthy life expectancy between veterans and non-veterans unfair? Why and why not?
+
+Personal and social responsibility
+
+Are they [criminals, extreme sport lovers, firefighters and veterans] responsible for their shorter healthy life expectancy? Why and why not?
+
+Is Troutville responsible for their shorter healthy life expectancy? Why and why not?
+
+Health care priority
+
+Imagine a criminal, an extreme sport lover, a firefighter and a veteran all have serious mental health problems. They need regular visits to a primary care doctor. But, unfortunately, there is currently only one spot available in Troutville.
+
+Who should get the spot? Why? Who should not get the spot? Why?
+
+Did you think about criminals, extreme sport lovers, firefighters and veterans as male or female?
+
+Do you think about inequality, responsibility and the treatment of health care system differently if they were male or female? Why and why not?
+
+Open in a separate window
+
+aFor each of the four inequality cases, participants also received verbal and graphic explanations of the inequality (see Figure 2 and Supplementary Appendix 1 for the exact explanation of the inequality).
+
+The Troutville scenario opened with the following explanation about life expectancy and healthy life expectancy. ‘Life expectancy is the number of years a group of people are expected to live. Life expectancy can be different across different groups of people. People often do not just wish for a long life. What they really wish for is a long healthy life. Healthy life expectancy is the number of years a group of people are expected to live with good health. We are going to show you differences or inequalities in healthy life expectancy in different groups in a fictional town, Troutville. Troutville is a typical mid-sized town in Nova Scotia. Imagine you and your family live in Troutville’. For each of the four hypothetical inequality cases in Troutville one by one, after the graphical and verbal presentation of the inequality case, participants were asked, ‘Is this difference or inequality in healthy life expectancy between [the former of the pair] and [the latter of the pair] unfair? Why and why not?’ The group dialogue proceeded with no other guiding questions.
+
+We acknowledge that the two considerations of the choice grid (i.e., free and voluntary versus not free and voluntary and ‘noble’ versus ‘selfish’) and the four selected attributes were simplified. We also acknowledge that our placement of these attributes in the choice grid can present tension. Indeed, we presented these attributes because we considered these two considerations of the choice grid and the four selected attributes were provocative without being offensive. They were designed to be a springboard for what is hoped to be engaging and thoughtful group dialogue.
+
+After the discussion on fairness judgements regarding inequalities pertaining to these four attributes, we asked participants directly about their views on the personal responsibility of those who engage in criminal activity, those who engage in an extreme sport, firefighters, and veterans. We also asked about the social responsibility of Troutville for their shorter healthy life expectancy. We then asked about the allocation of a limited health care resource (i.e., one spot available for a primary care doctor) to meet their health care needs. The Troutville scenario further included brief questions regarding sex to examine participants’ assumptions on sex and gender in the Troutville scenario and their potential influence on their views. See Supplementary Appendix 1 for the full Troutville scenario.
+
+We conducted two 2-h Fairness Dialogues sessions in community facilities in the winter of 2018, one in an urban setting (n = 7) and another in a rural setting (n = 8) in Nova Scotia, Canada. About 1 week after each group dialogue, we conducted half-hour individual telephone interviews with the participants (n = 15) to assess the process and content of the Fairness Dialogues from participants’ perspectives. We recruited from the general public using purposive and snowball sampling recruitment strategies. We placed posters in key popular public places, such as libraries, grocery stores, bus terminals, and university campuses in and around the two study areas and distributed the recruitment posting electronically and using local social media platforms. We defined the general public as persons without training and/or expertise in health and excluded persons who were currently or formerly health care professionals; academics and/or government employees whose primary focus area is/was health or students whose primary focus area is/was health. For logistical reasons, we also excluded persons who were not residents of Nova Scotia; were younger than 19 years old; or could not read and converse in English. A research assistant screened interested participants with three brief questions regarding their education, home ownership, and recreational activities in order to recruit diverse participants for each group. We used the education and home ownership information to assess participants’ socioeconomic status and their recreational activities to gauge their general risk aversion, given the study’s focus on personal responsibility for health. This study was approved by the Dalhousie Research Ethics Board. Each participant gave written informed consent, including permission for audio-recording and use of anonymized quotes for reporting. Participants received a modest stipend.
+
+A research team member (G.W. or R.U.) facilitated each group dialogue. The facilitator’s role included an implicit emphasis on inclusivity, by paying attention to the speaking time used by individuals, and on reason-giving dialogue, through using language that encouraged dialogue and probed for meaning. Two additional research team members (A.M., M.M., or Y.A.) were present at each group dialogue to take notes of their observations, and the research assistant assisted logistical matters for each group dialogue. Before the start of the group dialogue, participants answered a brief sociodemographic survey. The group dialogues followed the Troutville scenario as described in the previous section. This scenario was provided to each participant in the form of a booklet (Supplementary Appendix 1) and projected on a screen. Both group dialogues lasted for approximately 100 min. All participants from each group took part in follow-up individual 20- to 30-min telephone interviews with a research assistant about 1 week after the group dialogue the participant attended. The interviewer followed an interview guide, consisting of questions regarding the participant’s reflections on the content and process of the group dialogue (Supplementary Appendix 2). The group dialogues and interviews were audio recorded and later transcribed. The transcripts were not returned to the participants for comments.
+
+We analysed data from the group dialogues and interviews using thematic analysis (Aronson, 1995; Boyatzis, 1998; Braun and Clarke, 2006). One research team member (Y.A.) initially coded the transcripts. The development of these codes was primarily inductive but also informed by the literature on responsibility for health. In an iterative process through discussion, all team members (A.M., G.W., M.B., M.M., R.U., and Y.A.) revised the codes and reached consensus on coding decisions. In a similar iterative manner, the research team collectively identified the most prominent themes based on the coded data. Whenever possible, we relied on field notes and documented reflections from the group dialogues. We managed data and coding with word-processing software and NVivo.
+
+The participants were socio-demographically diverse (Table 2). Most had post-secondary or university education (n = 13), but household income varied greatly (less than $20,000 for a family of two persons to more than $100,000 for a family of three persons). Of the 15 participants, 8 identified as female. Most participants never smoked (n = 10) and rated their physical and mental health as good, very good or excellent (n = 13). The participants in the urban setting were diverse in terms of age, self-reported physical and mental health, and education level, more so than the participants in the rural setting, who reported being older, healthier, and more educated.
+
+Participant characteristics
+
+Most frequent category (n)
+
+Single, married or common-law, divorced, or widowed
+
+Single (6) and married or common-low (6)
+
+Self-reported physical health
+
+Self-reported mental health
+
+No or yes, currently
+
+Less than high school to university graduate
+
+University graduate (7)
+
+<$20,000 for family of 2 to $100,000+ for family of 3
+
+$20,000 to $49,999 for family of 1 (3)
+
+Not employed to full time
+
+Open in a separate window
+
+Both groups spent a considerable time on the first inequality case and went on to examine and re-examine their views in each subsequent case. Below, we first describe five arguments that emerged from the group dialogues regarding fairness and unfairness of the four inequality cases in the Troutville scenario. Second, we explain the layers of examination in which participants were engaged and from which we inferred a nuanced choice grid reflecting their views. Third, we report participants’ views on health care priority. Below, quotations from the urban session are denoted by U and those from the rural session are denoted by R.
+
+Five Arguments Regarding Fairness and Unfairness of the Four Inequality Cases
+
+When considering the four inequality cases, the participants thought that personal choice was the central concept. Despite this same starting point, this key concept led to five different arguments regarding fairness and unfairness in the four cases: personal responsibility (i.e., the person made the choice and is responsible for the consequence, hence, these inequalities are fair); social responsibility (i.e., society has an obligation to individuals but failed to fulfill it, hence, these inequalities are unfair); fulfillment (i.e., people had their own aspirations and pursued them, hence, these inequalities are fair); agency (i.e., people should have the choice to live their lives how they want to live them, hence, these inequalities are fair); and irrelevance (i.e., the person made the choice and only that person can make the judgement of fairness) (Figure 3). The first two (personal responsibility and social responsibility) and last (irrelevance) arguments arose in both urban and rural dialogues.
+
+Open in a separate window
+
+Key arguments emerged from the four inequality cases in the group dialogues. When considering the four inequality cases, the participants thought personal choice was the central concept. Despite this same starting point this key concept led to five different arguments regarding fairness and unfairness in the four cases: personal responsibility (i.e., the person made the choice and is responsible for the consequence, hence, these inequalities are fair); social responsibility (i.e., society has an obligation to individuals but failed to fulfill it, hence, these inequalities are unfair); fulfillment (i.e., people had their own aspirations and pursued them, hence, these inequalities are fair); agency (i.e., people should have the choice to live their lives how they want to live them, hence, these inequalities are fair); and irrelevance (i.e., the person made the choice and only that person can make the judgement of fairness).
+
+For some, the examination of personal choice directly corresponded to the view of personal responsibility for health: the person made the choice and is responsible for the consequence, hence, these inequalities are fair. For example, a participant stated:
+
+They choose to live the lifestyle they live. And I know in some cases it’s just that it’s perpetuated because of, you know, the way they’re brought up or their environment. But you know, people break the cycle too, right. You break through. You make your own choices. You’ve got to stand up and be responsible. (Participant U1)
+
+For others, the examination of personal choice questioned personal responsibility for health and resulted in the belief in social responsibility for health: society has an obligation to individuals but failed to fulfill it, hence, these inequalities are unfair. For example, a participant stated:
+
+And if everybody doesn’t start at the same spot then everybody can’t be expected to have the same opportunities. So I can’t hold my hand over my heart and say, well, you made the choice to be a criminal because he may not have…that individual may not have any other choice. (Participant R1)
+
+For a small number of the participants in the urban setting, the acknowledgement of personal choice was connected to the fulfillment argument: people had their own aspirations and pursued them, hence, these inequalities are fair. For example, a participant stated:
+
+They’re all things that take a lot of lust for something that a person really wants to do […] But these people all probably grew up with a dream and they want to do something. And they go ahead and do it… Even some of the criminals, a lot of them wanted to be a successful criminal. (Participant U2)
+
+For a small number of the participants in the rural setting, the appreciation of personal choice directly led to the agency argument: people should have the choice to live their lives how they want to live them, hence, these inequalities are fair. A participant stated:
+
+If you take away their ability to choose how they want to live their life, then you’re unfair. (Participant R2)
+
+Finally, a small number of the participants in both group dialogues thought it was irrelevant to ask whether these inequalities are fair or unfair: the person made the choice and only that person can make the judgement of fairness. Unlike the other four arguments, which made a judgement of fairness or unfairness of these inequalities, the irrelevance argument refused to make such a judgement. For example, a participant stated
+
+We’re talking about two different groups of people and different healthy lifespans. Is that fair? It’s a fact. It is because they’re fire fighters? Yeah. So? Is that fair? What would be unfair about it? They don’t live as long healthfully. They’ve chosen to be fire fighters. That’s great that they’re helping the community. But they’re enjoying it too. (Participant R5).
+
+The two groups developed the five arguments discussed above differently. The urban group expressed four arguments (personal responsibility, social responsibility, fulfillment, and irrelevance) for the initial case and largely maintained these arguments for all succeeding cases. On the other hand, for the rural group, the central argument throughout the four inequality cases was personal responsibility. The agency argument was introduced during the extreme sport lover case, and the social responsibility argument was introduced during the veteran case. The irrelevance argument was expressed in the first three cases of those who engage in criminal activity, those who engage in an extreme sport and firefighters, but not the last veteran case.
+
+The Nuanced Choice Grid
+
+For each inequality case, participants added layers of examination, as detailed in this subsection and in Figure 4. The analysis of these layers suggested that something similar to the choice grid already existed in participants’ minds or was formed during group dialogues; however, it was more nuanced than the choice grid presented in Figure 1a. Participants showed a subtle understanding of whether a choice was free or not quite free. Their subtle understanding appeared to stem from a clear distinction between the choice to engage in criminal activity, engage in an extreme sport, or become firefighter and veteran; the choice to engage in risky activities heavily influenced by the prior choice above; and the consequence of these choices (i.e., shorter healthy life). Participants discussed societal influences on: making these different choices; preventing negative health consequences because of these choices; and alleviating the severity of adverse health consequences if they occurred.
+
+Open in a separate window
+
+Layers of discussion points emerged in the four inequality cases in the group dialogues.
+
+Another axis in the choice grid in Figure 1a is whether the choice is ‘selfish’ or ‘noble’. In both group dialogues, participants framed this axis as whether the choice was related to societal debt. Society does not owe people who make the choice to engage in criminal activity or an extreme sport because the choice here does not respond to a societal need. On the other hand, society owes people who make the choice to become a firefighter or veteran because they are responding to a societal need. For example, a participant stated:
+
+And I think we have responsibility for those who serve for the greater good, to stand behind them when they need us. I say that’s a moral choice. (Participant R3)
+
+Participants made two further types of distinctions regarding the nature of the societal debt. One distinction was based on the degree of risk involved in the sacrifice that society asks people to make. Participants thought veterans have greater risk of death, injury, illness and/or disability than firefighters, thus societal debt is greater for veterans than for firefighters. Another distinction made in the urban setting focused on the nature of events to which the firefighter or veteran was asked to respond. Firefighters respond to fire, which the participants considered an ‘accidental’ (Participant U6) event. On the other hand, veterans respond to war or peacekeeping missions, which participants considered an ‘intentional’ (Participant U6) or ‘purposeful’ (Participant U7) event. Participants viewed the intentional or purposeful event as human-made, unlike the accidental event, which is caused by nature. Participants thought that societal debt is greater when the society asks a profession to respond to events caused by human conduct rather than nature. Hence, they reasoned society owes veterans more than firefighters.
+
+Clear Division between Fairness Judgements on Health Inequality, Social Responsibility, and Health Care Priority
+
+In participants’ minds, fairness judgements on health inequality, social responsibility and health care priority were distinct. Even when participants argued for personal responsibility for health, they thought that Troutville is responsible for everybody’s health and should not punish anyone for their choices with health care. For example, a participant stated:
+
+Of course we have a responsibility to act compassionately in all cases. (Participant U1)
+
+Equal care for equal need regardless of the choices made was a principle about which participants felt strongly. When considering the question of health care priority, the concern for societal debt was pronounced (specifically, society owes veterans and firefighters). One of the principles of health care priority that both groups discussed was the priority for the least negative impact on society. That is, participants thought that by addressing the need for health care, particularly mental health care, among those who engage in criminal activity, society could prevent the greatest amount of societal harm. In this view, giving priority to those who engage in criminal activity rather than those who engage in an extreme sport, firefighters, or veterans would lead to the least negative impact on society. Other criteria discussed by the group to determine health care priority include: lottery, first-come first-serve, dependents, age, need, and benefits to the individual and/or society.
+
+Underlying the discussion regarding potential priority criteria was a commitment to community solidarity, expressed by the principle of equal care for equal need. For example, participants stated:
+
+I don’t think our responsibility ever ends at not providing healthcare for someone who has made a poor choice. (Participant R4)
+
+Such is the nature of community, truly, that you caretake each other. And so by that statement, the community of Troutville is responsible for the lower healthy life expectancy of its citizens regardless of their path in life—whether they are criminals, whether they are firefighters, whether they are veterans. That we are, believe it or not, directly connected with each other in every way, shape, or form. (Participant U5)
+
+This study augments the growing literature on the empirical exploration of lay persons’ views on responsibility for health. Our analysis of group deliberations of lay persons shows that personal choice played an important role in their thinking about which health inequalities were unfair. Underlying the concept of personal choice were considerations for freedom and societal debt. Furthermore, in participants’ minds, individual and social responsibilities co-existed and they refused to determine health care priority based on personal responsibility. The Fairness Dialogues, particularly the use of a hypothetical Troutville scenario, is a promising deliberative method to explore lay persons’ views as dynamic values to be developed through group dialogues, as opposed to static, already-formed values waiting to be elicited.
+
+Views expressed and examined in the group dialogues were consistent with many of the lay persons’ views shown in previous studies and, at the same time, revealed nuanced views rarely captured in the previous literature. As in Lundell et al. (2013) and Crossley (2003), we found personal responsibility as a key concept when our participants thought about health inequality. Our results also suggested that the concept of personal responsibility was closely tied with the concept of personal choice, yet the connection was not absolute and exclusive; along with personal choice, societal debt was another important criterion participants considered when thinking about personal responsibility for health. Participants’ views on societal debt are nuanced. Their view of greater societal debt to a profession responding to events caused by human conducts (e.g., war) than to events caused by nature (e.g., fire) aligns with a view in the philosophical literature that natural lottery is beyond the scope of justice (e.g., Hausman, 2007).
+
+Participants’ discussion regarding the extent to which the choice was freely made to engage in criminal activity or an extreme sport or become a firefighter or a veteran showed their understanding of the complexity of multiple determinants of health. The five arguments participants articulated regarding fairness and unfairness of the four inequality cases—personal responsibility, social responsibility, fulfillment, agency, and irrelevance—share similar insights to the academic discussions (e.g., Wikler, 2002) but also prompt us to look beyond these familiar views. For example, the arguments for fulfillment (i.e., people had their own aspirations and pursued them, hence, these inequalities are fair) and agency (i.e., people should have the choice to live their lives how they want to live them, hence, these inequalities are fair) might relate to the concept of solidarity, in the sense that individuals’ causal roles in bad outcomes do not reduce their claims on the solidaristic community, as described by Schmidt (2009b). Our results, thus, may even be suggestive of a need to expand the inquiry into personal responsibility for health in a broader societal context rather than limiting the focus on health. Our participants’ opposition to using personal responsibility as a defining health care priority criterion subtly but importantly diverges from prior study findings. Previous studies found that lay persons supported personal responsibility as a criterion to lower health care priority although there was ambiguity regarding the relative importance of this criterion in relation to other criteria related to medical needs, such as illness severity (Cookson and Dolan, 1999; Whitty et al., 2014; Gu et al., 2015). In contrast, participants in this study acknowledged personal responsibility for health but were unwilling to consider it as a health care priority criterion.
+
+Clear co-existence of personal and social responsibilities for health in our participants’ minds corroborates the finding of Traina et al. (2019) and aligns well with the pragmatic direction taken by the recent bioethics literature: the abandonment of the concept of personal responsibility for health is highly unlikely and even unhelpful (Brown and Savulescu, 2019). Our participants could move freely between discussing responsibilities of individuals and society, indicating that their views go beyond responsibility for health within members of small groups, as discussed by Brown and Savulescu (2019), and that their views were closer to co-responsibility between individuals and society, as discussed by Schmidt (2009a,b). Our participants acknowledged causal attributions to individuals yet refused to punish them by deprioritizing health care, indicating support emphasizing a prospective (i.e., forward-looking) responsibility rather than a retrospective (i.e., backward-looking) responsibility argued for by Schmidt (2009a,b). Using Schmidt’s words, our participants expressed their reluctance to understand responsibility retrospectively because of the consideration for community solidarity and their willingness to understand responsibility prospectively for the consideration for justice (Schmidt, 2009b).
+
+To develop the concept of co-responsibility for health, Schmidt (2009a) highlights a communicative process of an accountability for reasonableness approach proposed by Daniels (2008). This study suggests the Fairness Dialogues may be another communicative process well suited to develop the concept of co-responsibility further. It also confirms an earlier study that Fairness Dialogues is a promising method to engage the public in easy-to-understand but difficult-to-answer questions (Asada et al., 2020). The design of the Fairness Dialogues is unusual among studies that aim to elicit lay persons’ views on value-related questions in the following three ways. First, it uses a hypothetical scenario in a small group deliberation. The use of a hypothetical scenario is common among value elicitation studies in economics (Hurley et al., 2011; Gaertner and Schokkaert, 2012), but these studies are typically designed for individual responses, deliberating alone. Second, the Troutville scenario asks participants to be themselves in a hypothetical town (Troutville) where they can have a say to develop the place they wish to live. This is in contrast to social scientists’ empirical operationalization of Rawls’ (1971) philosophical thought experiment behind the veil of ignorance. For example, social scientists ask participants of group dialogues of real-world issues to ignore (or ‘bracket’) their identities (Schneiderhan and Khan, 2008; Schneiderhan et al., 2014). Finally, the Fairness Dialogues does not prepare participants in advance with well-rounded information for the topic to be discussed. This is contrary to typical deliberation, which offers educational materials a deliberative dialogue to explore how a dialogue of ideal citizens would look (Blacksher et al., 2012). How each of these design features of the Fairness Dialogues encourages group dialogue awaits future investigation.
+
+Further development and application of the Fairness Dialogues beg additional challenging questions. For example, how exactly do societal values derived from the Fairness Dialogues sessions inform policy decision-making? The Fairness Dialogues is not designed to respond to a specific policy decision (e.g., whether or not to deny liver transplantation among those who continue to drink excessively); rather, it is designed to explore a broader issue (e.g., personal responsibility for health), from which to derive societal values that can inform a number of policy decisions (e.g., health promotion initiatives and health care resource allocation). The Citizens’ Council of the National Institute for Health and Clinical Excellence in the UK (National Institute for Health and Clinical Excellence, 2008; Shah et al., 2013) offers an example of the connection between societal values and health policy decision-making. Further work is needed to articulate how exactly such a connection looks like for the Fairness Dialogues. Another challenging question is: What is an ideal mix of participants for the Fairness Dialogues? Each Fairness Dialogues session attempts to recruit lay persons with diverse background for rich discussion. For the present study, our participants were socioeconomically diverse but not diverse in terms of their physical and mental health status as indicated by the sociodemographic survey. At first glance, this appears to be a shortcoming of this study, yet it is unclear in what way and to what extent participants should be diverse. Representativeness among Fairness Dialogues participants needs to be more fully considered in the future with methodological and practical considerations.
+
+In conclusion, results of this study encourage the continuing growth of the empirical exploration of lay persons’ views on responsibility for health. Rich, nuanced perspectives that emerged during the study’s group dialogues show promise of the Fairness Dialogues method. Further robust empirical studies are needed to explore the challenging concept of personal and social responsibilities for health together with lay persons as academics and policy-makers examine it further and apply it in real world.
+
+Supplementary Material
+
+phac009_Supplementary_Data
+
+Click here for additional data file.(7.1M, zip)
+
+We would like to acknowledge participants in the deliberative group dialogues presented in this article and participants of the previous Fairness Dialogues sessions, who acted as advisors. They provided invaluable insights for this study. We wish to thank comments and assistance provided by Emily Gard Marshall as well as staff of the Maritime Strategy for Patient-Oriented Research Support for People and Patient-Oriented Research and Trials Unit (MSSU, Brian Condran, Nicole Doria, Elizabeth Jeffers, Kelly MacDonald, Adrian MacKenzie and Robyn Traynor. Finally, we would also like to thank Marika Warren and Janet Lee for their valuable comments to an earlier version of this article.
+
+Contributor Information
+
+Yukiko Asada, Dalhousie University, Canada.
+
+Marion Brown, Dalhousie University, Canada.
+
+Mary McNally, Dalhousie University, Canada.
+
+Andrea Murphy, Dalhousie University, Canada.
+
+Robin Urquhart, Dalhousie University, Canada.
+
+Grace Warner, Dalhousie University, Canada.
+
+This work was supported by the Dalhousie Faculty of Medicine Bridge Funding and the Maritime Strategy for Patient-Oriented Research Support for People and Patient-Oriented Research and Trials Unit (MSSU). The MSSU receives financial support from the Canadian Institutes of Health Research (CIHR), the Nova Scotia Department of Health and Wellness, the New Brunswick Department of Health, the Nova Scotia Health Research Foundation (NSHRF) and the New Brunswick Health Research Foundation (NBHRF). The opinions, results and conclusions reported in this article are those of the authors and are independent from the funding sources. No endorsement by the MSSU or the named funding partners is intended or should be inferred.
+
+Conflict of Interest
+
+Anderson E. (1999). What is the Point of Equality? Ethics, 109, 287–337. [Google Scholar]
+
+Aronson J. (1995). A Pragmatic View of Thematic Analysis. The Qualitative Report, 2, 1–3. [Google Scholar]
+
+Asada Y., Urquhart R., Brown M., Warner G., McNally M., Murphy A. (2020). Troutville: Where People Discuss Fairness Issues. Canadian Journal of Bioethics, 3, 70–82. [Google Scholar]
+
+Blacksher E. A., Diebel A., Forest P. G., Goold S. D., Abelson J. (2012). What Is Public Deliberation? Hastings Center Report, 42, 14–16. 10.1002/hast.26 [PubMed] [CrossRef] [Google Scholar]
+
+Booske B. C., Robert S. A., Rohan A. M. (2011). Awareness of Racial and Socioeconomic Health Disparities in the United States: The National Opinion Survey on Health and Health Disparities, 2008–2009. Preventing Chronic Disease, 8, 1–9. [PMC free article] [PubMed] [Google Scholar]
+
+Boyatzis R. E. (1998). Transforming Qualitative Information: Thematic Analysis and Code Development. SAGE Publications Inc. [Google Scholar]
+
+Braddock K., Dillard J. P. (2016). Meta-Analytic Evidence for the Persuasive Effect of Narratives on Beliefs, Attitudes, Intentions, and Behaviors. Communication Monographs, 83, 446–467. 10.1080/03637751.2015.1128555 [CrossRef] [Google Scholar]
+
+Braun V., Clarke V. (2006). Using Thematic Analysis in Psychology. Qualitative Research in Psychology, 3, 77–101. 10.1111/j.1460-2466.1978.tb01621.x [CrossRef] [Google Scholar]
+
+Brown R. C. H., Savulescu J. (2019). Responsibility in Healthcare across Time and Agents. Journal of Medical Ethics, 45, 636–644. 10.1136/medethics-2019-105382 [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+
+Cookson R., Dolan P. (1999). Public Views on Health Care Rationing: A Group Discussion Study. Health Policy, 49, 63–74. [PubMed] [Google Scholar]
+
+Crossley M. L. (2003). “Would You Consider Yourself a Healthy Person?”: Using Focus Groups to Explore Health as a Moral Phenomenon. Journal of Health Psychology, 8, 501–514. 10.1177/13591053030085003 [PubMed] [CrossRef] [Google Scholar]
+
+Curtin K. D., Thomson M., Nykiforuk C. I. J. (2021). Who or What Is to Blame? Examining Sociodemographic Relationships to Beliefs about Causes, Control, and Responsibility for Cancer and Chronic Disease Prevention in Alberta, Canada. BMC Public Health, 21, 1047. 10.1186/s12889-021-11065-4 [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+
+Daniels N. (1985). Just Health Care. Cambridge University Press. [Google Scholar]
+
+Daniels N. (2008). Just Health: Meeting Health Needs Fairly. Cambridge University Press. [Google Scholar]
+
+Daniels N., Sabin J. E. (2002). Setting Limits Fairly: Can We Learn to Share Medical Resources?, 1st edn. Oxford University Press. [Google Scholar]
+
+Daniels N. (2020). Reflective Equilibrium. In Zalta, E. N. (ed.), The Stanford Encyclopedia of Philosophy (Summer 2020 Edition). https://plato.stanford.edu/archives/sum2020/entries/reflective-equilibrium/ [accessed 30 June 2022].
+
+Fleurbaey M., Schokkaert E. (2009). Unfair Inequalities in Health and Health Care. Journal of Health Economics, 28, 73–90. 10.1016/j.jhealeco.2008.07.016 [PubMed] [CrossRef] [Google Scholar]
+
+Gaertner W., Schokkaert E. (2012). Empirical Social Choice: Questionnaire-Experimental Studies on Distributive Justice, 1st edn. Cambridge University Press. [Google Scholar]
+
+Gollust S. E., Lantz P. M., Ubel P. A. (2010). Images of Illness: How Causal Claims and Racial Associations Influence Public Preferences toward Diabetes Research Spending. Journal of Health Politics, Policy and Law, 35, 921–959. 10.1215/03616878-2010-034 [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+
+Gollust S. E., Lynch J. (2011). Who Deserves Health Care? The Effects of Causal Attributions and Group Cues on Public Attitudes about Responsibility for Health Care Costs. Journal of Health Politics, Policy and Law, 36, 1061–1095. 10.1215/03616878-1460578 [PubMed] [CrossRef] [Google Scholar]
+
+Government of Nova Scotia. (2021, December 16). Nova Scotia Reaches One Million Population Milestone. https://novascotia.ca/news/release/?id=20211216003 [accessed 24 January 2022].
+
+Gu Y., Lancsar E., Ghijben P., Butler J. R., Donaldson C. (2015). Attributes and Weights in Health Care Priority Setting: A Systematic Review of What Counts and to What Extent. Social Science & Medicine, 146, 41–52. 10.1016/j.socscimed.2015.10.005 [PubMed] [CrossRef] [Google Scholar]
+
+Hausman D. M. (2007). What’s Wrong with Health Inequalities? Journal of Political Philosophy, 15, 46–66. 10.1111/j.1467-9760.2007.00270.x [CrossRef] [Google Scholar]
+
+Hurley J., Buckley N. J., Cuff K., Giacomini M., Cameron D. (2011). Judgments Regarding the Fair Division of Goods: The Impact of Verbal versus Quantitative Descriptions of Alternative Divisions. Social Choice and Welfare, 37, 341–372. 10.1007/s00355-010-0487-0 [CrossRef] [Google Scholar]
+
+Kawachi I., Subramanian S. V., Almeida-Filho N. (2002). A Glossary for Health Inequalities. Journal of Epidemiology & Community Health, 56, 647–652. 10.1136/jech.56.9.647 [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+
+Lundell H., Niederdeppe J., Clarke C. (2013). Public Views about Health Causation, Attributions of Responsibility, and Inequality. Journal of Health Communication, 18, 1116–1130. 10.1080/10810730.2013.768724 [PubMed] [CrossRef] [Google Scholar]
+
+Marchildon G., Allin S., Merkur S. (2020). Canada: Health System Review. Health Systems in Transition, 22, 1.https://eurohealthobservatory.who.int/publications/i/canada-health-system-review-2020 [accessed 24 January 2022]. [PubMed] [Google Scholar]
+
+Martin D., Miller A. P., Quesnel-Vallée A., Caron N. R., Vissandjée B., Marchildon G. P. (2018). Canada’s Universal Health-Care System: Achieving Its Potential. The Lancet, 391, 1718–1735. 10.1016/S0140-6736(18)30181-8 [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+
+National Institute for Health and Clinical Excellence. (2008). Social Value Judgements—Principles for the Development of NICE Guidance. 2nd edn. London: National Institute for Health and Care Excellence (NICE). 10.1080/01900690600770538 [accessed 30 June 2022]. [PubMed] [CrossRef]
+
+Niederdeppe J., Roh S., Shapiro M. A. (2015). Acknowledging Individual Responsibility While Emphasizing Social Determinants in Narratives to Promote Obesity-Reducing Public Policy: A Randomized Experiment. PLoS ONE, 10, e0117565. 10.1371/journal.pone.0117565 [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+
+Niederdeppe J., Shapiro M. A., Kim H. K., Bartolo D., Porticella N. (2014). Narrative Persuasion, Causality, Complex Integration, and Support for Obesity Policy. Health Communication, 29, 431–444. 10.1080/10410236.2012.761805 [PubMed] [CrossRef] [Google Scholar]
+
+Niederdeppe J., Shapiro M. A., Porticella N. (2011). Attributions of Responsibility for Obesity: Narrative Communication Reduces Reactive Counterarguing among Liberals. Human Communication Research, 37, 295–323. 10.1111/j.1468-2958.2011.01409.x [CrossRef] [Google Scholar]
+
+Nova Scotia Health Authority. (n.d.). Healthier Together: 2016–19 Measuring Our Progress. https://www.nshealth.ca/sites/nshealth.ca/files/nsha-measuring_our_progress.pdf [accessed 30 June 2022].
+
+Nova Scotia Legislature. (n.d.). Premiers. https://nslegislature.ca/about/history/past-premiers [accessed 24 January 2022].
+
+Rawls J. (1971). A Theory of Justice. Belknap Press. [Google Scholar]
+
+Schmidt H. (2009a). Just Health Responsibility. Journal of Medical Ethics, 35, 21–26. 10.1136/jme.2008.024315 [PubMed] [CrossRef] [Google Scholar]
+
+Schmidt H. (2009b). Personal Responsibility in the NHS Constitution and the Social Determinants of Health Approach: Competitive or Complementary? Health Economics, Policy and Law, 4, 129–138. 10.1017/S1744133109004976 [PubMed] [CrossRef] [Google Scholar]
+
+Schmidt H., Voigt K., Wikler D. (2010). Carrots, Sticks, and Health Care Reform—Problems with Wellness Incentives. New England Journal of Medicine, 362, e3. 10.1056/NEJMp0911552 [PubMed] [CrossRef] [Google Scholar]
+
+Schneiderhan E., Khan S. (2008). Reasons and Inclusion: The Foundation of Deliberation. Sociological Theory, 26, 1–24. [Google Scholar]
+
+Schneiderhan E., Khan S., Elrick J. (2014). Deliberation and Ethnicity. Sociological Forum, 29, 791–807. https://doi.org/0.1111/socf.12120 [Google Scholar]
+
+Segall S. (2009). Health, Luck, and Justice. Princeton University Press. [Google Scholar]
+
+Shah K. K., Cookson R., Culyer A. J., Littlejohns P. (2013). NICE’s Social Value Judgements about Equity in Health and Health Care. Health Economics, Policy and Law, 8, 145–165. 10.1017/S1744133112000096 [PubMed] [CrossRef] [Google Scholar]
+
+Skurka C. (2020). There’s More to the Story: Both Individual and Collective Policy Narratives Can Increase Support for Community-Level Action. International Journal of Communication, 14, 4160–4179. [Google Scholar]
+
+Statistics Canada. (n.d.). Census Profile, 2016 Census, Nova Scotia and Canada. https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/prof/details/Page.cfm?Lang=E&Geo1=PR&Code1=12&Geo2=&Code2=&SearchText=Nova Scotia&SearchType=Begins&SearchPR=01&B1=All&GeoLevel=PR&GeoCode=12&type=0 [accessed 30 June 2022].
+
+Traina G., Martinussen P. E., Feiring E. (2019). Being Healthy, Being Sick, Being Responsible: Attitudes towards Responsibility for Health in a Public Healthcare System. Public Health Ethics, 12, 145–157. 10.1093/phe/phz009 [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+
+Voigt K. (2007). The Harshness Objection: Is Luck Egalitarianism Too Harsh on the Victims of Option Luck? Ethical Theory and Moral Practice, 10, 389–407. 10.1007/s10677-006-9060-4 [CrossRef] [Google Scholar]
+
+Voigt K. (2013). Appeals to Individual Responsibility for Health: Reconsidering the Luck Egalitarian Perspective. Cambridge Quarterly of Healthcare Ethics, 22, 146–158. 10.1017/S0963180112000527 [PubMed] [CrossRef] [Google Scholar]
+
+Whitty J. A., Lancsar E., Rixon K., Golenko X., Ratcliffe J. (2014). A Systematic Review of Stated Preference Studies Reporting Public Preferences for Healthcare Priority Setting. The Patient: Patient-Centered Outcomes Research, 7, 365–386. 10.1007/s40271-014-0063-2 [PubMed] [CrossRef] [Google Scholar]
+
+Wikler D. (2002). Personal and Social Responsibility for Health. Ethics & International Affairs, 16, 47–55. [PubMed] [Google Scholar]
+
+Articles from Public Health Ethics are provided here courtesy of Oxford University Press
+
+Cited by other articles
+
+Links to NCBI Databases
+
+Copy Download .nbib .nbib

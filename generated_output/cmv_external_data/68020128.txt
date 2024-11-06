@@ -1,0 +1,109 @@
+The complicated truth about testosterone’s effect on athletic performance
+
+It’s hard to know exactly how much the hormone affects any given body, but what we do know suggests it’s not the end-all be-all.
+
+Posted on Nov 20, 2019 7:30 PM EST
+
+Caster Semenya, champion South African sprinter, who's still fighting for her right to compete as a woman Jon Connell/Flickr
+
+If you give a person testosterone, society considers it a performance enhancer. If you naturally have lots of the hormone, though, it’s a competitive advantage—if you’re a man. But if you’re a woman, at least according to some of the biggest sports associations in the world, it’s just plain unfair.
+
+Female athletes like champion sprinters Caster Semenya and Dutee Chand have had to fight in recent years for their right to compete as women because their natural testosterone levels are far higher than the average woman’s. Organizations like the International Association of Athletics Federations and the International Olympic Committee have put hard limits on the amount these women are allowed to have in their bloodstream on the grounds that it enhances their performance in a way that’s unfair to their fellow competitors. But every time a new ruling comes up, a debate flares in its wake.
+
+Many researchers agree with the IAAF and IOC, but many also think separating men and women by their testosterone levels alone flies in the face of scientific evidence. Despite all the debate, though, there hasn’t been much of any conclusion about what the science actually says about testosterone’s effect on women’s athletic performance. And that’s for a good reason: there isn’t much conclusive evidence at all.
+
+When it comes to nailing down a link between testosterone and athletic performance, part of the problem is that, to put it simply, human bodies are complicated. We know that among elite athletes, men seem to have a consistent 10 to 12 percent athletic advantage over women. Lots of people chalk that up to testosterone alone, but the truth is there are many other factors, from other hormones to societal conditioning, might boost athletic performance, making it difficult to pinpoint exactly what testosterone does for athletes. But one option to try to isolate testosterone’s effect is to give people extra hormones and look to see what impact that has on the person’s performance.
+
+Dutee Chand, an Indian sprinter with an androgen receptor mutation who won her case against the IAAF Wikimedia Commons
+
+One recent study showed that female runners given topical testosterone cream increased their time to exhaustion, one measure of athletic ability. The study got a lot of traction for supposedly showing how high testosterone would give women a competitive advantage. But studies like these aren’t really that relevant to a discussion of hormones naturally produced by the body. Adding extra testosterone, called exogenous testosterone, is essentially just doping. “In the broadest sense, we’ve always known that doping increases athleticism,” says Katrina Karkazis, a senior research fellow with the Global Health Justice Partnership at Yale University and co-author of Testosterone: An Unauthorized Biography. “While the molecule is the same, it’s not the same to put T in the body as it is to have exogenous T. When you add it, you get more bang for the buck, because the body isn’t used to it.”
+
+So if you can’t study testosterone by giving it to people, you have to look at natural hormone levels and whether those correlate with performance. Men have it in far higher quantities than do most women, and conventional thinking has long held that this is the primary reason that men tend to outperform women athletically. “There are certainly a number of factors that affect athletic performance and testosterone is certainly only one of those factors,” says Joanna Harper, a medical physicist at Loughborough University who focuses on trans athletes. “However, if you’re looking for factors that differentiate male performance from female performance, the majority of biologists feel that testosterone is the primary factor that distinguishes that.”
+
+That idea, Harper explains, is based on the theory that testosterone increases two key attributes: strength and aerobic capacity (i.e. your body’s ability to get oxygen to your muscles). Testosterone is a powerful anabolic hormone—it helps you build lean muscle mass significantly—so it tends to boost your generalized strength, especially in areas like the upper body where your muscles have more receptors for it. It’s also a driver of red blood cell count, and the more red blood cells you have the more oxygen you can carry to your muscles, increasing your aerobic capacity.
+
+It seems to follow logically, then, that testosterone would boost your athletic ability generally. But if that were true, we’d expect to find a strong correlation with performance and testosterone. And we don’t.
+
+“If you start to look at men who are competing across a professional level, you can’t predict their performance based on their testosterone levels,” says Richard Holt, a professor of endocrinology at the University of Southampton. “The male range goes from 10 to 25 nanomoles per liter, and you can’t say that a person with a level of 25 is necessarily going to outperform a man with a level of 10.” The same goes for women, he explains, which suggests that it’s not testosterone alone that’s contributing to men’s athletic advantage.
+
+Michael Phelps, the American swimmer, was lauded for his abnormal physical attributes that helped him become a champion Wikimedia Commons
+
+It’s not clear yet exactly what other factors might be contributing, but Holt notes we can get some clues by looking at women with androgen receptor mutations. Androgens are a group of hormones including testosterone and estrogen that influence sex traits. It’s testosterone that determines whether a developing baby will have male or female genitalia—its presence helps prompt the embryo to go down the male route. But some people are born with mutations in their androgen receptors that makes them non-functional, so even though they’re producing testosterone it can’t actually affect anything. These people mostly develop and live life as women, often not even realizing they have the male XY chromosome pattern. In severe cases they have female external genitalia, though also internal testes, though in more mild cases the genitalia can be mixed.
+
+What’s strange is that women with androgen receptor mutations are extremely overrepresented among elite athletes, even though those with severe cases can’t possibly be getting the benefit of their natural testosterone without receptors to carry out those effects. Holt points out some of these women have even had their testes removed, bringing their testosterone levels to below female levels, and yet they’re still able to compete internationally.
+
+Many researchers now think it’s factors on the Y chromosome that account for some of those differences. Holt’s own research suggests part of it might be growth hormone, which varies between men and women and plays important roles in muscle gain and repair, among other things.
+
+That could help explain why the research on natural testosterone levels has been so erratic.
+
+One study of professional male triathletes found no relationship between testosterone levels and performance. Another, looking at professional cyclists, found the same lack of correlation. Yet another, comparing cyclists, weightlifters, and controls to each other on a cycling test, found a negative correlation between testosterone levels and performance. A study of teenage weightlifters found no relationship between boys’ testosterone levels and their performance, and a negative correlation among the girls—meaning they performed better when their testosterone was lower.
+
+Some studies have even found mixed or opposing results within their own findings. One found that sprinters seem to get an advantage from testosterone, while other runners didn’t. Another came to the conclusion that it helped female track athletes, but not male ones. There’s also differences in results depending on what type of strength you look at—endurance strength seems to decrease with higher testosterone levels, while maximum strength generally only increases.
+
+Complicating all of this is the fact that elite athletes’ testosterone levels vary quite a lot. One analysis found that 25 percent of elite male athletes have testosterone levels below what the International Association of Athletics Federations consider the lower limit for men. What’s more, it wasn’t the athletes in less strength- or speed-oriented sports. Some of the events with the most men below the limit were powerlifting, rowing, track and field, ice hockey, and rowing. Basketball players and alpine skiers had some of the highest levels. That all seems to imply, at least to some researchers, that high testosterone isn’t a universal performance booster.
+
+Eero Mäntyranta, the Finnish skiier with an erythropoietin receptor mutation that increases his red blood cell count
+
+This is all in line with what Karkazis notes is a pattern of studies which claim to find broad links between testosterone and athletic performance, but have really only found minor correlations with very specific measures of athleticism.
+
+The mixed results might explain why even broad review articles find opposing results. Reviews have suggested both that there’s not enough evidence to enforce any upper testosterone limit in women, and that there’s reason to apply a very specific one.
+
+There’s simply not a lot of great research out there. As a result, Karkazis explains, researchers are forced to cobble together a picture of testosterone’s role based on studies in men, women with differences of sexual development (called DSDs, which includes androgen receptor mutations), and anyone given exogenous testosterone. Peter Sonksen, a now-retired professor of endocrinology at St. Thomas’ Hospital and King’s College, London, has written extensively about testosterone’s relative unimportance with regard to athletic performance in women without androgen receptor mutations. But he says when it comes to how the hormone might play a role in women with DSDs, “the answer is that there is little or no credible science to answer the question.”
+
+But none of this really addresses the issue at the heart of all of this: when it comes to formulating rules for who can and can’t compete, what’s fair?
+
+Some researchers, like Harper, argue that there needs to be a specific limit on women’s testosterone. Above that, and you’d need to go compete with the men. But many others say this idea of fairness is fundamentally flawed. Eric Vilain, director of the Center for Genetic Medicine Research at Children’s National Hospital, says that even if testosterone does give certain women a performance boost, they can and should still compete with their fellow women. “Sports relies on abilities that are fundamentally unfair,” Vilain says. Just as tiny gymnasts do better than tall ones, he explains, there are myriad factors that give some athletes advantages over others. For that reason, he says, “within the female category, testosterone should be ‘de-gendered.’ It is a hormone present in both genders, which is why continuity of gender should trump levels of testosterone.”
+
+Holt agrees. “It strikes me as far too simplistic to say that the only difference between men and women is their testosterone levels.” If you’re going to look at performance differences, he says, you also have to look at sociological ones. There are almost certainly biological differences that mean men will always outperform women to some degree, but he points out that teenage girls are much less likely to compete in sports at school than boys and are given generally worse facilities. Male athletes are paid much better than female ones on the whole. Holt says these and other factors mean “there are a whole load of sociological reasons that may also drive men to coach and be driven to achieve at a high level beyond testosterone.”
+
+Besides, the idea that a naturally occurring variation in some women’s bodies is somehow unfair doesn’t mesh with how much we exalt male athletes with unusual abilities. Michael Phelps’ muscles produce half the lactic acid of a normal person, enabling him to push himself for much longer without fatigue. Finnish cross-country skier Eero Mäntyranta has an inherited mutation that increases his red blood cells’ oxygen-carrying capacity by 25 to 50 percent, which is the genetic equivalent of doping. Those men were celebrated, not pillaried.
+
+Sports are inherently unfair, and while there have to be some regulations to account for true cheating, it seems like a double standard to demonize women for the same kind of natural advantages that we appreciate in men. And to simplify the entire debate down to a single (albeit important) hormone ignores a great deal of biology and sociology, says Holt. “We should celebrate those biological differences.”
+
+Sara Chodosh was an editor at Popular Science for more than 5 years, where she worked her way up from editorial assistant to associate science editor. In that time she slowly took over running the Charted section of the now-defunct print magazine. Her love of graphics eventually led to her current job as a graphics editor at the New York Times.
+
+Mathematicians define a new shape—and you’ve probably seen it Mathematicians define a new shape—and you’ve probably seen it
+
+Why do we have fevers? It’s more complicated than ‘heat kills bugs.’ Why do we have fevers? It’s more complicated than ‘heat kills bugs.’
+
+More in Fitness & Exercise
+
+How does menstruation affect my muscle performance? How does menstruation affect my muscle performance?
+
+By Claire Maldarelli
+
+That beer after your workout probably isn’t helping you That beer after your workout probably isn’t helping you
+
+Science helped me run my first marathon in 3 hours and 21 minutes Science helped me run my first marathon in 3 hours and 21 minutes
+
+By Claire Maldarelli
+
+The weirdest things we learned this week: Cruise ships full of poop, deadly wallpaper, and the sport where women beat men The weirdest things we learned this week: Cruise ships full of poop, deadly wallpaper, and the sport where women beat men
+
+What actually works for muscle recovery—and what doesn’t What actually works for muscle recovery—and what doesn’t
+
+By Claire Maldarelli
+
+A few simple habits can tack some extra years onto your lifespan A few simple habits can tack some extra years onto your lifespan
+
+By Claire Maldarelli
+
+The best back massagers of 2024 The best back massagers of 2024
+
+Testosterone might make you run faster, but that’s kind of beside the point Testosterone might make you run faster, but that’s kind of beside the point
+
+Most people who dope aren’t Russian Olympic athletes. Here’s how the drugs work. Most people who dope aren’t Russian Olympic athletes. Here’s how the drugs work.
+
+Women soccer players usually peak in their 20s—here’s why some excel into their 40s Women soccer players usually peak in their 20s—here’s why some excel into their 40s
+
+Everything you need to know about male hormonal birth control Everything you need to know about male hormonal birth control
+
+The sexy secrets of body fat storage The sexy secrets of body fat storage
+
+Cold take: Ice baths don’t help sore muscles heal Cold take: Ice baths don’t help sore muscles heal
+
+By Claire Maldarelli
+
+Exploring the common misconceptions regarding trans and non-binary identities Exploring the common misconceptions regarding trans and non-binary identities
+
+Unhealthy sperm can play a role in lost pregnancies Unhealthy sperm can play a role in lost pregnancies

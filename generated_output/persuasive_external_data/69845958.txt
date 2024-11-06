@@ -1,0 +1,43 @@
+Skip to main content
+
+Your Credit Score Isn't a Reflection of Your Moral Character
+
+Teerasak Ladnongkhun / Shutterstock.com
+
+What kind of person racks up debts and doesn’t pay them? Your credit score is an attempt to answer this question. These important three-digit numbers summarize our statistical risk for lenders. The allure of the credit score is its clarity: It cuts through appearances and converts our messy lives into an easily readable metric. The difference between a score of 750 and 600 is obvious. One is an excellent bet for a lender to make; the other is not. On balance, credit scores have made borrowing more convenient, and fairer, for consumers.
+
+But the U.S. Department of Homeland Security wants to use credit scores for an entirely different purpose, one they were never built for and are not suited for. The agency charged with safeguarding the nation would like to make immigrants submit their credit scores when applying for legal resident status.
+
+The new rule, contained in a proposal signed by DHS Secretary Kirstjen Nielsen, is designed to help immigration officers identify applicants likely to become a “public charge”—that is, a person primarily dependent on government assistance for food, housing, or medical care. According to the proposal, credit scores and other financial records (including credit reports, the comprehensive individual files from which credit scores are generated) would be reviewed to predict an applicant’s chances of “self-sufficiency.” The proposal is open for public comment until Dec. 10.
+
+As black-boxed algorithms mediate more of our relationships—with government, businesses, and one another—we must resist the impulse to treat people as the sum of their numbers.
+
+Setting aside the proposal’s moral abdication when it comes to the needy, we should be troubled by another injustice: its abuse of personal metrics.
+
+The proposal’s “totality of circumstances” framework offers few specifics as to exactly how credit scores would figure into immigration decisions. Tables in the document suggest that an applicant’s credit score would be one of many factors viewed holistically and in relation to other heavily weighed pieces of information, such as whether the individual is employed, has received public benefits, or has an expensive medical condition. A “good” credit score—one at or above the national average, according to the proposal—would be considered a positive factor in the application. (The current average FICO score is just over 700.) A low credit score would be treated as a “negative finding.”
+
+Makes sense, right? People with low credit scores are loafers and can’t be trusted to take care of themselves. Unfortunately, this is not what traditional credit scores measure. They are specialized algorithmsdesigned for one purpose: to predict future bill-paying delinquencies, for any reason. This includes late payments or defaults caused by insurmountable medical debts, job loss, and divorce—three leading causes of personal bankruptcy—as well as overspending and poor money management.
+
+Credit scores do not distinguish between these various causes. A person whose score plunges because of sudden unemployment is the same as a person sunk by foolish spending sprees. Credit scores can also be wrong if the underlying data in credit files is flawed. A Federal Trade Commission study found “potentially material errors” in 1 in 5 credit reports.
+
+DHS’s proposed use of credit scores points to a much larger problem involving metrics. As more of our everyday interactions produce data, more of our lives can be quantified and turned into scalable measures. Our productivity, health and fitness, internet searches, and consumer behavior are all converted into behind-the-scenes metrics. Our social connections—numbers of friends, followers, likes, and retweets—are displayed as public tallies. We even score each other, Black Mirror–style, on ride-sharing apps.
+
+Metrics save time and effort by reducing complexity to something simple and comparable. Why read through dozens of contradictory reviews when you can look at an overall star rating? The problem is that these metrics, though useful in one context, are easily transposed to others. At worst, they can become proxies for judging a person’s overall trustworthiness and value.
+
+Credit scores are a classic example of this kind of metric creep. Developed in the late 1950s, statistical scoring systems were designed to replace the subjective decision-making of credit managers. Prior to credit scoring, borrowers were interviewed in person by credit managers, who took their applications and assessed their moral character. Credit scores not only sped up the evaluation process but also eliminated the bias—notably, the sexism and racism—that plagued credit decisions.
+
+Though credit scores would turn creditworthiness into an objective financial metric, the scores themselves remained deeply connected to assumptions about moral character. This view is pervasive in ads for credit monitoring services. Their caricatures of clueless twentysomethings repeatedly make this point: People with low scores are immature and irresponsible.
+
+This view is also reflected in the insurance industry’s use of credit scores to set premiums. What, you ask, is the logical relationship between credit scores and car wrecks? According to insurers, the kind of people that submit accident claims are the same kind of people that don’t pay their bills. Here the common moral denominator is cloaked in statistics: guilt by correlation. (Several states have banned this use of credit scores.)
+
+DHS’s proposed use of credit scores involves a similar moral syllogism, and it illustrates the problem of metric creep. Credit scores do not predict whether an individual will become a public charge. And they do not predict financial self-sufficiency. They are only useful in this context if one believes credit scores reveal something about a person’s character. In other words, if one believes that people with low credit scores are moochers and malingerers. Given the Trump administration’s hostility toward (brown-skinned) immigrants, this conflation of credit scores and morality is not surprising.
+
+In a world awash with data, it will become increasingly tempting to make sweeping judgments about others—especially strangers—with these kinds of metrics. They might include generalized consumer scores, fitness scores, or social media scores. Credit scores already serve as implicit measures of our personalities, whether used by insurance companies to identify reckless drivers, landlords to screen tenants, or dating sites to pair couples. (Yes, this is a thing.)
+
+The current apotheosis of quantified reputation, however, is China’s social credit system. Described in the Western press as an Orwellian national credit score, the program ranks Chinese citizens according to their performance as borrowers, consumers, and fellow citizens. Those with poor rankings—public smokers, slow taxpayers, people who spend too much on video games, among other red-flagged behaviors—are deprived of access to jobs, travel, discounts, and other social perks. You can’t ride a train without being reminded of the system’s perpetual judgment.
+
+The totalizing ambition of the Chinese system is startling, but we should be just as concerned with the slippery slope toward our own metrified society. In the United States, our dystopia will not consist of a centralized government system but of private platforms, perhaps several of them, whose gamified metrics become de facto summations of our reputations.
+
+Barring a sudden backlash, the DHS proposal will skate into practice next month. This is a mistake, and it sets a terrible precedent. As black-boxed algorithms mediate more of our relationships—with government, businesses, and one another—we must resist the impulse to treat people as the sum of their numbers. Metrics, when well-conceived and applied as designed, can offer useful predictive power. When abused, they are nothing more than cheap moral litmus tests.
+
+This article originally appeared in Future Tense, a collaboration among Arizona State University, New America, and Slate.

@@ -1,0 +1,79 @@
+Skip to main content
+
+To Limit Solar Geoengineering’s Side Effects, the Right “Dose” Is Needed
+
+Deploying sunlight-blocking aerosols to counteract only some global warming could avoid changes to precipitation
+
+By Chelsea Harvey & E&E News
+
+Of the long list of strategies scientists have suggested to combat global warming, solar geoengineering may be among the most controversial.
+
+The idea is relatively simple: spraying reflective aerosols into the atmosphere to beam sunlight away from the planet and cool the climate. But some modeling studies suggest the strategy could cause unintended consequences, including effects on precipitation, hydrology, storms and other weather events.
+
+On supporting science journalism
+
+If you're enjoying this article, consider supporting our award-winning journalism by subscribing. By purchasing a subscription you are helping to ensure the future of impactful stories about the discoveries and ideas shaping our world today.
+
+The concept is strictly a hypothetical suggestion for now. But it’s gaining attention as a possible supplement to other forms of climate action. Global efforts to reduce greenhouse gas emissions are increasingly lagging behind the action scientists say is needed to prevent catastrophic levels of future warming.
+
+Now, new research may allay some of the fears about the side effects of solar geoengineering—or at least it could encourage more research into the subject.
+
+A study published in Nature Climate Change this week suggests that keeping geoengineering within certain limits should prevent unwanted consequences on factors like water availability, storms and extreme precipitation. The research relies on a scenario in which the amount of solar geoengineering deployed could offset only half—not all—of the warming that would occur if atmospheric carbon dioxide levels were to double.
+
+“A lot of previous studies have gone after this question of could you offset everything,” said lead study author Peter Irvine, a climate and geoengineering researcher at Harvard University. “And some of the results they got were results of doing too much in a sense—taking it a little too far.”
+
+Studies that have assumed more intense levels of solar geoengineering tended to find that unwanted side effects could emerge. Some concerns include the risk that extreme precipitation and flooding might increase in some places, while other areas might suffer an increase in droughts—and that these effects might be even worse than the changes expected if nothing were done about climate change at all.
+
+In the “half-warming” scenario employed in the new study, on the other hand, the research suggests that solar geoengineering should not cause any water-related changes to be worse than they would be without it.
+
+It’s a case of “the dose makes the poison,” according to co-author David Keith, a Harvard engineer and geoengineering expert.
+
+The study relies on a high-resolution model that’s particularly adept at simulating hurricanes and extreme rainfall. The authors investigated a handful of different potential climate outcomes, including average and maximum temperatures, maximum annual precipitation, and total water availability for a given region, defined as the amount of precipitation that falls versus the amount of water that evaporates from the area.
+
+They evaluated the results region by region around the world, breaking up the globe into the same segments used by the Intergovernmental Panel on Climate Change in its analyses of regional climate effects. In each case, they evaluated whether the climate effect was exacerbated by solar geoengineering—that is, made worse than it would have been with unmitigated climate change and no geoengineering.
+
+They found that no region saw any of these variables worsened by solar geoengineering.
+
+The researchers also took a global look at the intensity of hurricanes and typhoons. They found that on a worldwide scale, storm intensity would not be worsened—in fact, geoengineering would actually offset much of the effect of climate change on hurricane intensity.
+
+These findings aren’t completely new, according to Keith. Previous studies suggest similar outcomes if the right level of geoengineering is applied. It’s when higher levels of deployment are assumed that the negative consequences really begin to appear, he says.
+
+“It’s not like our study is reversing what previous studies have found—in fact, it’s doing a better job of reinforcing what previous studies have found,” he told E&E News. “But hopefully it will help to wake people up to the fact that there’s a big disconnect between what’s in the studies and what people talk about.”
+
+The new research “effectively confirms that a moderate solar geoengineering scenario would ameliorate temperature and precipitation changes in most regions,” said Anthony Jones, a postdoctoral researcher on aerosols and climate at Exeter University, in an email. And it strengthens the case for continued research on the matter, he added.
+
+Still, the study isn’t a completely realistic depiction of potential solar geoengineering scenarios—a point that the researchers acknowledge.
+
+For one thing, the study simulates the effects of solar geoengineering by simply adjusting the amount of solar radiation that gets through to the Earth’s surface. It doesn’t exactly mimic the effects of aerosols in the air, which may have additional side effects, such as warming certain parts of the atmosphere, changing atmospheric circulation or affecting the ozone layer, according to Alan Robock, a climate and aerosols expert at Rutgers University.
+
+It would be “premature” to conclude that no region on Earth would experience any climate effects made worse by geoengineering, even under a half-warming scenario, the researchers conclude in the study. But it does challenge the idea that such outcomes are inevitable, or that they’d always outweigh the benefits.
+
+Some experts remain cautious.
+
+“I do not agree that ’no area will be significantly worse off under a solar geo-engineering scenario,’” Robock said in an email. “Worse as compared to what? If we rapidly begin mitigation now, that is rapidly reduce our CO2 emissions to zero by switching our power to wind and solar, we will be much better off than a business-as-usual future, or one with geoengineering.”
+
+The authors of the new study are careful to note that geoengineering isn’t meant to be considered a substitute for reducing greenhouse gas emissions. Rather, it could be a supplement to more standard forms of climate action if it starts to look like those efforts aren’t happening fast enough.
+
+It’s valid to be concerned that the technology might be used in the wrong ways, Keith said—for instance, as a political justification for delaying other forms of climate action.
+
+“But I don’t think it’s a justification for not knowing more about something that could potentially greatly reduce risks, particularly to the most vulnerable people in the world,” he added.
+
+Questions about the future of geoengineering research may indeed be reaching a pivotal moment. Scientists and policymakers around the world are beginning to discuss the ways that future geoengineering experiments—including potential field experiments—should be governed and regulated to ensure they’re conducted safely and ethically.
+
+Keith himself is helping to organize what may become the first field test related to geoengineering. The project, known as SCoPEx, aims to investigate the effects of aerosols in the stratosphere with the help of a high-altitude balloon. It will likely start with water, but potentially graduate to other kinds of materials proposed for use in geoengineering.
+
+The experiments, still in the planning stages, would happen on such a small scale that they’d pose no foreseeable risks, the organizers emphasize. But the idea has helped spark discussions about what might happen down the line if researchers become interested in bigger, more ambitious geoengineering experiments—or if the technology ever reaches the point where governments might actually consider deploying it.
+
+In October, the National Academy of Sciences announced that it would form a committee to study solar geoengineering and to develop a set of recommendations on how to manage any future field experiments (Climatewire, Oct. 26, 2018). Last month, the NAS announced that it had appointed the committee, co-chaired by Susan Biniaz of the United Nations Foundation and the Center for Climate and Energy Solutions and Christopher Field of the Stanford Woods Institute for the Environment.
+
+Meanwhile, the Swiss government and 10 other nations have developed a resolution that would call for the United Nations Environment Programme to prepare an assessment on the status of various forms of geoengineering, including solar geoengineering. The resolution is set to be presented at the U.N. Environment Assembly session in Nairobi this week.
+
+Other organizations have also encouraged the United Nations to begin considering recommendations for the management of geoengineering. Last May, the Carnegie Climate Geoengineering Governance Initiative presented a briefing to a U.N. Environment Programme committee emphasizing the need for an international agreement on the regulation of geoengineering technology (Climatewire, May 23, 2018).
+
+Such initiatives are a testament to growing international interest, among both scientists and policymakers, in the technology’s future, however uncertain it remains. For the time being, Keith says, “I don’t think you can justify suppressing research and knowledge about solar geoengineering” based on fears about political misuses alone.
+
+And even if the technology does become viable on a large scale in the future, humanity will still have to commit to eliminating greenhouse gas emissions entirely, according to Keith.
+
+“No matter how good solar geoengineering is, you can’t keep putting CO2 into the atmosphere forever and expect the climate to remain stable,” he said.
+
+Reprinted from Climatewire with permission from E&E News. E&E provides daily coverage of essential energy and environmental news at www.eenews.net.

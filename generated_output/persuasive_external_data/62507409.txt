@@ -1,0 +1,101 @@
+Interfolio Review Promotion & Tenure | Topics in Higher Education
+
+What Is Academic Tenure?
+
+March 7, 2024March 7, 2024
+
+Interfolio Interfolio Team
+
+Academic tenure refers to a faculty member’s employment status within a higher education institution. When a professor has gained tenure, they can only be terminated for a justifiable cause or under extreme circumstances, such as program discontinuation or severe financial restraints.
+
+Earning tenure is a great honor; many academics have “tenure parties” to celebrate this achievement. And although it’s a privilege that professors can strive for years to earn, recent research has shown that many higher education institutions are not rewarding academic labor with tenure.
+
+Deciding who receives tenure is a complex process involving large amounts of professional data—and many stakeholders. And while most universities recognize the importance of tenure for attracting top research talent, there are certainly logistical and organizational complexities of tracking, reviewing, and awarding it.
+
+The History of Tenure
+
+While higher education in the U.S. dates back to the founding of the nation’s first university—Harvard—in 1636, tenure was not a mainstream right offered to faculty members until the twentieth century.
+
+The American Association of University Professors (AAUP) is responsible for creating standards that ensure higher education institutions are serving faculty members who have earned tenure status. Though the AAUP has worked toward securing rights for academics since its founding in 1915, it wasn’t until 1940, when it collaborated with the Association of American Colleges and Universities, that it cemented the standards of tenure in the 1940 Statement of Principles on Academic Freedom and Tenure.
+
+The purpose of the 1940 Statement was to improve the level of support offered to high-quality faculty members. For a university to fulfill its “obligations to its students and to society,” as the AAUP states, it must ensure academics are free to teach with the guarantee of economic security. Over the years, this statement has been endorsed by hundreds of higher education institutions and has made its way into many collective bargaining agreements and faculty handbooks.
+
+The Benefits of Tenure
+
+As the AAUP and Association of American Colleges and Universities assert, tenure improves society as a whole. By ensuring academics are receiving comprehensive rights, colleges and universities attract the most qualified, talented faculty to work at their institutions and, therefore, offer the highest quality education.
+
+The AAUP attributes two specific rights to tenure: academic freedom and economic security.
+
+Pursuit of Academic Freedom
+
+Before tenure protected academic freedom, academics felt restricted in what they could cover in class. They typically avoided discussing controversial topics out of fear it could be negatively received. After the 1940 Statement of Principles on Academic Freedom and Tenure passed, however, tenured professors were empowered to cover broader academic topics. This benefits not only individual teachers but also society by providing students with a more holistic, multi-dimensional education.
+
+When institutions grant tenure, instructors gain a level of freedom in both research and publication as long as they meet the core academic duties of their roles.
+
+Adequate Economic Security
+
+The other major benefit of achieving tenure is job security. While many staff and faculty members are hired and employed on an annual basis, tenured faculty maintain employment for an extended period of time, potentially until they retire. Once an academic earns tenure—generally after a probationary period that can last up to seven years—they do not have to worry about being asked to return the following year, except under two possible circumstances.
+
+One such situation is “termination for cause,” or the dismissal of a tenured faculty member for a specific reason. Although this is rare, tenured professors have been asked to forfeit employment for the following reasons:
+
+Violation of school policies
+
+Tenured academics can also be dismissed from their position if the institution experiences significant financial hardship that would make it difficult or impossible to pay their salary. Additionally, if a university decides to cut a program, any associated tenured staff may lose their jobs unless they can transfer their skills to another program within the institution.
+
+With the exception of these two uncommon circumstances, those with academic tenure cannot be dismissed from their role for the remainder of their career.
+
+Trends in Academic Tenure
+
+According to an AAUP survey report from 2022, 53.5% of institutions have replaced some tenure-eligible positions with contingent faculty positions—meaning there are now more part-time and full-time roles that don’t include any tenure-track commitments.
+
+The report found that in 2019, only 10.5% of faculty positions were tenure-track, and nearly 63% were full-time or part-time contingent roles. AAUP expressed concern about this decline in tenure, which it asserts “continues to serve as the bulwark in the defense of academic freedom.”
+
+Although the 2022 study showed tenured and tenure-track positions were declining, the AAUP also found that more institutions than ever before are focusing on equitable tenure opportunities. For example, 82% of institutions currently allow tenure-track faculty to pause their probation period for childcare responsibilities. And while certain groups continue to be underrepresented in tenured positions, nearly 60% of institutions either have DEI criteria in place for tenure standards or are actively considering them, and 39.4% of institutions have had their tenure criteria evaluated for implicit biases.
+
+Qualifying for Tenure
+
+Faculty who are hired on a tenure track first undergo a probationary period, working full time before being granted tenure. The AAUP recommends this period not surpass seven years, though ad hoc extensions may occur—especially in cases where faculty request time off for parental leave or elder care.
+
+During the probationary period, faculty members should have the same academic freedom as tenured professors. And an institution must provide at least one year’s notice before the probationary period expires if it chooses not to extend an individual’s employment through tenure.
+
+But even if full-time faculty have worked with an institution for many years, they do not automatically earn tenure—and the review process can be extensive.
+
+Common Issues With the Tenure Process
+
+There are a number of hidden costs of faculty promotion and tenure review. When institutions rely on a paper-based method of gathering information, they need to print several copies of files containing hundreds of pages. They then need to store and archive these materials, often filling rooms that could have been used as office space with filing cabinets. Not only does a paper-based system cost time and resources, but it also isn’t the most eco-friendly way of compiling data; no one wants to clear a forest with each review cycle.
+
+Additionally, candidates and reviewers are busy people—the longer they endure inefficient tenure and review processes, the less time they have to dedicate to their teaching or research.
+
+Institutions implementing simple digital systems might believe they’re being more productive by moving their paper materials onto their desktops. Though this approach can be more effective than printouts, it may cause as many problems as it solves. For instance, administrators may keep candidates’ information in different places, so when someone needs to review a tenure candidate’s file, they need to search for it or ask other department heads and administrators to share the information. It works, but it is not as effective as keeping all the information in a single interface.
+
+Where paper-based and basic digital processes fall particularly short is in securing confidential tenure materials. When paper files are kept in an area with poor security, they are at risk of being stolen or compromised. Even storing information as digital files in shared drives can pose problems such as file corruption, misplacement, difficulty with permission settings, and files ending up in the wrong hands.
+
+Transitioning to a Digital Interface
+
+To keep up with the increasing demands of the tenure review process, institutions need to ditch the binders and switch to a comprehensive digital system.
+
+The Interfolio Faculty Information System allows universities to move past paper-based processes or patchwork digital solutions and manage all documentation in a single web-based interface. Users cut down on paper waste, get rid of the clunky filing cabinets, and move to a digital system that makes it easier than ever for multiple people to compile, organize, share, and access important files.
+
+Interfolio’s system streamlines the tenure process from start to finish:
+
+Faculty can review their peers more efficiently with user-friendly tools created specifically for the tenure review process. The interface allows reviewers to make notes, receive external evaluations, send messages, and send a candidate’s entire digital packet across committees.
+
+Administrators can track upcoming events—including when it’s time to initiate a tenure review—and select the applicable faculty, automatically create a review case, and pull in a candidate’s vita for a seamless experience in one platform.
+
+Administrators can also monitor the institution’s progress toward diversity, equity, and inclusion commitments by tracking promotion and tenure results over time.
+
+Candidates gain peace of mind with a streamlined process and accessible tools that help them build organized, high-quality digital packets with all the information they need to achieve tenure, regardless of their discipline.
+
+To find out what Interfolio can do for your institution, please schedule a demo today.
+
+We use cookies to enhance your experience when visiting our website. To find out more about cookies and how they are used, please review our Privacy Policy. X
+
+Privacy & Cookies Policy
+
+This website uses cookies to improve your experience while you navigate through the website. Out of these cookies, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may have an effect on your browsing experience.
+
+Necessary Always Enabled
+
+Necessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information.
+
+Any cookies that may not be particularly necessary for the website to function and is used specifically to collect user personal data via analytics, ads, other embedded contents are termed as non-necessary cookies. It is mandatory to procure user consent prior to running these cookies on your website.

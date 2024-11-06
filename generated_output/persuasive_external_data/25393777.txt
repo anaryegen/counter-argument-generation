@@ -1,0 +1,273 @@
+Back to Top Skip to main content
+
+An official website of the United States government Here's how you know
+
+The .gov means it’s official. Federal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you’re on a federal government site.
+
+The site is secure. The https:// ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely.
+
+Log in Show account info
+
+Logged in as: username
+
+Access keys NCBI Homepage MyNCBI Homepage Main Content Main Navigation
+
+The PMC website is updating on October 15, 2024. Learn More or Try it out now.
+
+v.192(6); 2020 Feb 10
+
+As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with, the contents by NLM or the National Institutes of Health. Learn more: PMC Disclaimer | PMC Copyright Notice
+
+CMAJ. 2020 Feb 10; 192(6): E136–E141.
+
+doi: 10.1503/cmaj.190434
+
+Smartphones, social media use and youth mental health
+
+Elia Abi-Jaoude, MSc MD, Karline Treurnicht Naylor, MPH MD, and Antonio Pignatiello, MD
+
+Department of Psychiatry (Abi-Jaoude, Pignatiello), The Hospital for Sick Children; Department of Psychiatry (Abi-Jaoude), Toronto Western Hospital, University Health Network; Department of Psychiatry (Treurnicht Naylor), University of Toronto; Faculty of Medicine (Pignatiello), University of Toronto, Toronto, Ont.
+
+Corresponding author.
+
+Correspondence to: Elia Abi-Jaoude, ac.otnorotu@eduoaj.iba.aile
+
+Evidence from a variety of cross-sectional, longitudinal and empirical studies implicate smartphone and social media use in the increase in mental distress, self-injurious behaviour and suicidality among youth; there is a dose–response relationship, and the effects appear to be greatest among girls.
+
+Social media can affect adolescents’ self-view and interpersonal relationships through social comparison and negative interactions, including cyberbullying; moreover, social media content often involves normalization and even promotion of self-harm and suicidality among youth.
+
+High proportions of youth engage in heavy smartphone use and media multitasking, with resultant chronic sleep deprivation, and negative effects on cognitive control, academic performance and socioemotional functioning.
+
+Clinicians can work collaboratively with youth and their families, using open, nonjudgmental and developmentally appropriate approaches to reduce potential harms from social media and smartphone use, including education and practical problem-solving.
+
+There is a need for public awareness campaigns and social policy initiatives that promote nurturing home and school environments that foster resilience as youth navigate the challenges of adolescence in today’s world.
+
+In the last decade, increasing mental distress and treatment for mental health conditions among youth in North America has paralleled a steep rise in the use of smartphones and social media by children and adolescents.
+
+In Ontario, the proportion of teenagers reporting moderate to serious mental distress increased from 24% in 2013, to 34% in 2015 and to 39% in 2017,1 with parallel increases in health service utilization. Inpatient hospital admissions of children and adolescents for mental health reasons increased substantially across Canada between 2007 and 2014, while admissions for other medical conditions in this age group decreased by 14%.2 Between 2009 and 2014, admissions to hospital for intentional self-harm increased by 110% in Canadian girls.3 Suicide is now the second leading cause of death for Canadian youth.4 A recent analysis of survey data found the 12-month prevalence of suicidal ideation, attempts and nonsuicidal self-injury to be 8.1%, 4.3% and 8.8%, respectively, among adolescents aged 14 to 17 years, with all rates being higher in girls.5 Similarly, administrative data in the United States show that presentations to hospital for suicidal ideation or attempts among children and adolescents almost doubled between 2008 and 2015, with the highest increase for adolescent girls.6 Self-poisoning rates among 10- to 18-year-olds, which had declined in the US since the turn of the century, increased substantially from 2011 to 2018, primarily among girls.7 Surveys of high school students in the US have shown a similar pattern for self-reported symptoms of depression, major depressive episodes and suicidality over the last 2 decades.8,9
+
+At the same time, social media use has increased markedly. In the US, the proportion of young people between the ages of 13 and 17 years who have a smartphone has reached 89%, more than doubling over a 6-year period; moreover, 70% of teenagers use social media multiple times per day, up from a third of teens in 2012.10 The percentage of Ontario’s teenagers who reported spending 5 or more hours a day on social media increased from 11% in 2013, to 16% in 2015 and to 20% in 2017.1 An analysis of Australian longitudinal data found that 86% of students owned smartphones in grade 8, increasing to 93% by grade 11, with increased use of social media communication with age.11
+
+We review the evidence that links smartphone and social media use with mental distress and suicidality among adolescents. We do not review evidence for online gaming. Although most existing data are observational, making causality difficult to establish, findings from a few longitudinal, randomized and controlled studies suggest that social media and smartphone use may be contributing to the rising burden of mental distress among youth. We consider the clinical implications of existing evidence, to help practising clinicians to work collaboratively with youth and families to mitigate potential negative effects of social media and smartphone use on mental health.
+
+How has use of social media been shown to affect adolescents’ sense of self?
+
+Two cross-sectional surveys of American and German university students, respectively,12,13 found that students who spent more time on the social media platform Facebook were more likely to endorse feeling envy or sensing that others in their social network were better off than they were. The term “FOMO” — fear of missing out — has been defined as “a pervasive apprehension that others might be having rewarding experiences from which one is absent,”14 and has been associated with increased stress related to Facebook use.15
+
+A systematic review of 20 studies found that use of social media was associated with body image concerns and disordered eating.16 In a randomized study, female participants reported more negative mood after just 10 minutes of browsing their Facebook account compared with those who browsed an appearance-neutral control website.17 Moreover, participants who were high in appearance comparison tendency reported an increased desire to change the appearance of their face, hair or skin after spending time on Facebook, in comparison with those who browsed the control website.17
+
+The nature of social media interactions, which are arm’s length, makes negative commenting both easy and more frequent than in-person interactions with peers. An Ontario survey of middle- and high school students showed that the odds of suicidal ideation, plans and attempts were all significantly higher among those who had experienced cyberbullying, even after controlling for a range of potential confounders.18
+
+Does social media addiction exist and can it affect mental health?
+
+One study of repeat survey data from 2013, 2014 and 2015 associated the extent of self-reported use of Facebook with subsequent poor self-reported mental health and life satisfaction.19 Concerns have been raised about social media platforms having been deliberately designed — in highly sophisticated ways that use behavioural psychology, neuroscience and artificial intelligence — to promote behavioural reinforcement and behavioural addiction.20,21 Several cross-sectional studies have shown that high proportions of youth appear to be addicted to their smartphones,22,23 but there is no standard or agreed-upon definition of smartphone or Internet addiction; studies have used different definitions and scales, varying from those that rely on behavioural addiction criteria, to measurement of the extent of functional impairment and level of device use.24,25 As such, reported prevalence rates are highly variable.25
+
+A systematic review identified Internet addiction as being particularly associated with self-harm or suicidal behaviour based on 7 included studies, all of which were cross-sectional school-based surveys that used validated outcome measures and were rated as high or medium to high quality.24 A recent large prospective study of senior high school adolescent students in Taiwan found that youth classified as experiencing Internet addiction had a significantly increased risk of having newly emerged self-harm or suicidal behaviour or both when re-evaluated 1 year later.26
+
+Two systematic reviews have shown that media multitasking is associated with negative effects on cognitive control, academic performance and socioemotional functioning in youth.27,28 Most existing studies, however, are cross-sectional, and measures are heterogenous across studies with limited attempts to consider individual and contextual differences, making it impossible to establish causality. Youth with lower impulse control may be more susceptible to deleterious effects of media multitasking. A large longitudinal study of adolescents who did not have significant symptoms of attention-deficit/hyperactivity disorder (ADHD) at baseline found that high-frequency digital media use was positively associated with emergence of symptoms meeting Diagnostic and Statistical Manual of Mental Disorders–4th Edition (DSM-IV) criteria for ADHD over a 2-year follow-up period, even after adjusting for known confounders.29
+
+Can social media promote self-harm?
+
+Youth communicate thoughts of suicidality and self-harm behaviours online, including sharing images of self-inflicted injuries. Explicit depiction of self-injury — particularly cutting — on social media is common, as shown by site content studies30,31 that found photographs or live videos of self-injurious behaviour, many of which had no warnings about graphic content. Of particular concern were viewers’ comments, which typically contained positive feedback or personal disclosures about self-injury experiences, and rarely offered encouragement or discussion of recovery. Such findings show the potential for mental illness romanticizing and messaging that normalizes self-harm among youth. Indeed, a systematic review that included 26 studies (using qualitative, descriptive or cross-sectional methodology) found that social media platforms included normalization of self-harm behaviour, discussions about practical issues regarding suicidality and live depictions of self-harm acts.32 At the same time, there were also positive elements, including providing a sense of community, suggestions for seeking treatment and advice on stopping self-harm behaviour.
+
+Do the effects of smartphones on social skills affect mental health?
+
+An observational study showed that spending more than a few hours per week using electronic media correlated negatively with self-reported happiness, life satisfaction and self-esteem, whereas time spent on nonscreen activities (in-person social interactions, sports or exercise, print media, homework, religious services, working at a paid job) correlated positively with psychological well-being, among adolescents.33 Other observational studies have linked spending more than 2 hours a day on social networking sites and personal electronic devices with high rates of suicidality and depressive symptoms among adolescent girls, although youth who sustained high levels of face-to-face socializing were relatively protected against the negative consequences of too much time online.13,34
+
+Youth do increasingly interact online rather than in person, and smartphones can interfere even with face-to-face interactions via what has been termed “phubbing”: attending to one’s phone when in the presence of others.35 A recent empirical field study using experience sampling in 304 participants showed that even the mere presence of phones on a table caused participants who were randomly assigned to that condition to feel more distracted and have lower enjoyment during social interactions compared with those who were randomized to putting their phone away.36 Phone use was also found to predict distraction, which in turn predicted greater boredom and worse overall mood.36
+
+Does sleep-loss associated with use of social media affect mental health?
+
+An analysis of US annual survey data found an abrupt increase in the proportion of adolescents getting insufficient sleep after 2011–2013, with more than 40% sleeping less than 7 hours most nights in 2015.37 The study also showed an exposure–response relationship between daily electronic media use beyond 2 or more hours per day, and insufficient sleep.37 An analysis of survey data from Ontario found that 63.6% of 5242 students aged 11–20 years slept less than recommended,38 also showing a significant relationship between use of social media beyond 1 hour a day and odds of insufficient duration of sleep.38
+
+In a 14-day, randomized, crossover experimental study under well-controlled conditions, use of electronic screens before bedtime was shown to disrupt sleep in multiple ways: longer time to fall asleep and decreased evening sleepiness, reduced melatonin secretion, circadian clock delay, reduced amount and delay in rapid eye movement sleep, and reduced next-morning alertness.39 A systematic review and meta-analysis that included 20 studies on the association between portable screen-based media devices and sleep outcomes found that use of media at bedtime was associated with decreased duration and quality of sleep and excessive daytime sleepiness.40 Of note, the mere presence of portable screen-based media devices in the bedroom was shown to disrupt sleep,40 possibly related to the temptation to check media devices when they are present or owing to a conditioned response involving increased arousal.
+
+Data from a longitudinal study of 1101 adolescents in Australia showed that poor sleep mediated the relationship between nighttime mobile phone use and subsequent depressed mood, externalizing behaviours and decline in self-esteem and coping based on various validated scales.11 In another longitudinal study involving 2286 adolescents in Europe, magnitude of Internet use in general had a negative impact on mental health, but the most robust effects came from the consequences — in particular, lack of sleep from Internet use had a notable adverse effect on mental health on 4-month follow-up based on measures from a validated depression, anxiety and stress scale.41
+
+Are some individuals more susceptible to mental health effects than others?
+
+Although population-based studies suggest a link between social media use and mental distress among youth, the impact of these technologies may vary among individuals — and some may be less susceptible to harm, as indicated by an emerging literature of experimental studies. Girls and young women tend to spend more time on social media than boys do, have more exposure to cyberbullying and show tendency to experience more mental health effects,10,34 which is consistent with recent epidemiologic trends indicating that depressive symptoms, self-harm and suicidality have increased among young females in particular.5–9
+
+The context of social media use may mediate its effects. A structural equation modelling analysis of a cross-sectional survey of 910 high school students in Belgium found that, among girls, passive use of Facebook had a negative impact on mood but active use had a positive impact on perceived online social support, which in turn had a positive impact on mood.42 However, for boys active site use had a negative effect. A systematic review of 70 studies found that while social media use was correlated with depression, anxiety and measures of well-being, effects could be both detrimental (such as from negative interactions and social comparison) and beneficial (such as through social connectedness and support) depending on the quality of interactions and individual factors.43 Certain cognitive styles, such as those that involve rumination and brooding, appeared to exacerbate negative effects of social media.43 Moreover, the negative impact of social media on depressive symptoms appears to be much greater for adolescents with low levels of in-person interaction; in contrast, youth with high levels of face-to-face socializing appear to be relatively protected against the negative consequences of too much time online.34 A recent survey of 1124 college students found that while social media contact in the absence of a face-to-face relationship was associated with depressive symptoms, the proportion of social media contacts with whom participants had a close face-to-face relationship was negatively associated with depressive symptoms.44 In addition, the challenges associated with social media may be especially risky for young people who are already experiencing mental health difficulties, as suggested by the bidirectional relationship between use of electronic media and decrease in psychological well-being.33 Of particular concern for such vulnerable individuals is that educational or even promotional content about suicide and self-harm is readily available and widely accessed online.30,31
+
+The role of individual differences in terms of the effects of social media is a topic of active investigation. Recent experimental studies have shown relationships between individual characteristics and social media experiences. In a randomized study of 120 college students, those who scored highly on the tendency to engage in social comparison based on measures from a validated scale had poorer self-perceptions, lower self-esteem and more negative affect after browsing the Facebook profile of an acquaintance, relative to those randomized to the control conditions, an effect not seen among students who scored low on social comparison traits.45 In another empirical study, 102 college students who were asked to take a selfie were randomized to either of 3 conditions with different numbers of “likes” (average, above average and below average); those rated as having a greater sense of purpose in life based on measures from a validated scale had lower sensitivity to feedback (based on number of “likes”) on their self-photograph posts.46 A study that categorized participants by social comparison orientations (“ability-based” versus “opinion-based”) found that different orientations showed different emotional responses to being compared with others, which in turn was related to life satisfaction.47 These early findings offer some insights for the individualized care of youth presenting with emotional and mental distress.
+
+How might physicians use this evidence to inform their practice?
+
+Despite the limitations of the evidence base at this time, clinicians may be able to use currently available knowledge in their practice, combined with evidence on effecting behavioural change in youth.
+
+Clinicians treating youth with mental illness and those at risk of mental distress can discuss with adolescents and their families the known risks of social media and smartphone use to mental health. Clinicians may choose to advocate for a harm reduction approach, suggesting reduced use of social media and the Internet rather than abstinence for youth, given evidence that suggests prolonged use is associated with poorer mental health. A recent large systematic review found that communication with adolescents is most effective in the context of a therapeutic alliance that is open and nonjudgmental, elicits trust and emotional safety, and offers a sense of inclusion and autonomy.48
+
+Encouraging parents to be proactively involved in limiting children’s and teens’ use of smartphones and social media may be helpful, given that social media use appears to become problematic when it surpasses 1 to 2 hours daily.34,38 Results from a recent meta-analysis suggest that while parental limits may be effective at reducing the amount of media use by younger children, open discussion focused on positive engagement and guidance might be best for reducing media-related risks for adolescents; however, only 5 of the 52 included studies pertained to social media, all of which were based on cross-sectional surveys.49 It is also worth reminding parents that they model smartphone use with their own behaviour; a randomized study showed that heavy parental smartphone use was associated with poorer quality of interactions with their children.50 Youth and their families can be encouraged to set boundaries for smartphone and social media use. These could include such measures as using social media only for set times, and preferably only in common living areas in the home. A further motivator may be to discuss evidence showing an adverse impact of smartphones on learning,51 and the benefit on academic outcomes when phones are put away when studying, preferably in another room.52
+
+A qualitative study that collected data via focus groups with adolescent girls found that high levels of confidence, high media literacy and sound appreciation of individual differences appeared to mitigate negative effects of social media on body image.53 The participants reported that “these characteristics were nurtured by positive parental influence and a supportive school environment.”53 These findings underscore the importance of a nurturing home and school environment in fostering resilience as youth navigate the challenges of adolescence. An empirical study of the effect of Instagram browsing on affect in just more than 500 adolescents found that randomization to conditions that provided greater contextual awareness regarding posts by others mitigated against postbrowsing negative affect in teens who reported higher levels of negative social comparison.54
+
+Sleep hygiene measures specific to social media and smartphone usage are crucial, as several studies have shown that increased smartphone use can disrupt sleep and shorten sleep duration. These would include avoiding use of electronic screens within 1 to 2 hours before bedtime, and not having portable, screen-based media devices in bedrooms overnight.
+
+The American Academy of Pediatrics provides a number of useful health and safety tips to support youth regarding the use of social media,55 as well as a Family Media Use Plan that offers structure to the recommendations related to limiting use and having discussions regarding appropriate use.56 Further, the American Academy of Pediatrics has partnered with Common Sense Media to produce a Family Media Toolkit that has useful information for parents.57 Other practical strategies to mitigate negative effects from using smartphones and related media are offered by the Center for Humane Technology (http://humanetech.com/), an organization developed by former technology industry members out of concern for the potential deleterious effects of new media on psychological states.
+
+A motivational interviewing approach may be useful to help young people start to make changes in their pattern of online behaviour. Motivational interviewing is an intervention with established effectiveness for adolescents with substance use, which could be useful for youth who appear to have poor self-control in their use of social media or smartphone.58 This approach should involve open, nonjudgmental exploration of all aspects of a youth’s digital life, including positive and negative. Some youth might benefit from habit reversal training to address compulsive use, including having daily “nonscreen time” that can be progressively increased. Sharing evidence that a randomized controlled trial found that participants assigned to not using Facebook reported significantly greater “life satisfaction” and positive emotions after 1 week, compared with controls who were told to continue using the site as usual,59 may be helpful in effecting change. Youth might be encouraged to inform their friends that they are taking a break from, or otherwise limiting, their social media use. Talking with youth about alternative ways to connect, including meeting in person or even talking directly by phone, could help with strategies to fill the social media gap, reinforced by discussion of evidence that in-person interaction may protect mental health.
+
+At the system level, school and community-based programs can institute limits on social media and smartphone use, along the lines of those that have recently been shown to have a positive effect on healthy behaviours.60 However, such interventions should be developmentally appropriate and aim to respectfully ensure adolescents’ autonomy.61 Mobile-phone policies at the school and classroom level have been implemented in several jurisdictions, with mixed results.62 Enforcement of blanket bans is often a challenge; rather, a more productive approach involves negotiation between teacher and students, as developmentally appropriate, in the context of a relationship built on mutual trust and respect for autonomy.63,64
+
+More broadly, public awareness campaigns can provide education on the impact of problematic use of digital media and promote healthy behaviours in this regard. Various social media platforms have placed bans and restrictions on content related to self-harm.24 A qualitative study of focus groups involving a total of 66 adolescents found that while adolescents valued freedom and privacy, they recognized a need for protection and most were in favour of automatic monitoring in situations that were beyond their control.65 Finally, there should be public discussion about the extent to which social media companies can use features that are deliberately designed to promote behavioural reinforcement and addiction,20,21 particularly on platforms used primarily by youth.
+
+Encouragingly, youth are increasingly recognizing the negative impact of social media on their lives and starting to take steps to mitigate this.66 According to a recent poll, 54% of teens felt they spend too much time on their cell phone, and about half reported cutting back on the time they spend on it.67
+
+Given the importance of engaging youth in mitigating potential harms from social media, a prohibitionist approach would be counterproductive. The American Academy of Pediatrics suggests that online relationships are part of typical adolescent development.55 Indeed, for adolescents today, who have not known a world without social media, digital interactions are the norm, and the potential benefits of online access to productive mental health information — including media literacy, creativity, self-expression, sense of belonging and civic engagement — as well as low barriers to resources such as crisis lines and Internet-based talking therapies cannot be discounted.
+
+However, today’s youth could benefit from proven individual and systemic interventions to help them navigate the challenges brought about by use of smartphones and social media, protect themselves from harm and use social media in a manner that safeguards their mental health, against a background of policy initiatives aimed at addressing the social, environmental and economic factors that underpin family well-being and nurture youth resilience.68
+
+The authors acknowledge the valuable contributions of the anonymous reviewers and journal editors.
+
+CMAJ Podcasts: author interview at https://soundcloud.com/cmajpodcasts/190434-ana
+
+Competing interests: None declared.
+
+This article has been peer reviewed.
+
+Contributors: All of the authors contributed to the conception and design of the work. Elia Abi-Jaoude and Karline Treurnicht Naylor drafted the manuscript. All authors revised the manuscript critically for important intellectual content, gave final approval of the version to be published and agreed to be accountable for all aspects of the work.
+
+1. Boak A, Hamilton HA, Adlaf EM, et al. The mental health and well-being of Ontario students, 1991–2017: detailed findings from the Ontario Student Drug Use and Health Survey (OSDUHS). CAMH Research Document Series No. 47 Toronto: Centre for Addiction and Mental Health; 2018. [Google Scholar]
+
+2. Care for children and youth with mental disorders [report]. Ottawa: Canadian Institute for Health Information; 2015. [Google Scholar]
+
+3. Intentional self-harm among youth in Canada [information sheet]. Ottawa: Canadian Institute for Health Information; 2014. [Google Scholar]
+
+4. Leading causes of death in Canada. Ottawa: Statistics Canada; modified 2015 Nov. 30. [Google Scholar]
+
+5. Georgiades K, Boylan K, Duncan L, et al. Prevalence and correlates of youth suicidal ideation and attempts: evidence from the 2014 Ontario Child Health Study. Can J Psychiatry 2019;64:265–74. [PMC free article] [PubMed] [Google Scholar]
+
+6. Plemmons G, Hall M, Doupnik S, et al. Hospitalization for suicide ideation or attempt: 2008–2015. Pediatrics 2018;141:e20172426. [PubMed] [Google Scholar]
+
+7. Spiller HA, Ackerman JP, Spiller NE, et al. Sex- and age-specific increases in suicide attempts by self-poisoning in the United States among youth and young adults from 2000 to 2018. J Pediatr 2019;210:201–8. [PubMed] [Google Scholar]
+
+8. Keyes KM, Gary D, O’Malley PM, et al. Recent increases in depressive symptoms among US adolescents: trends from 1991 to 2018. Soc Psychiatry Psychiatr Epidemiol 2019;54:987–96. [PMC free article] [PubMed] [Google Scholar]
+
+9. Twenge JM, Cooper AB, Joiner TE, et al. Age, period, and cohort trends in mood disorder indicators and suicide-related outcomes in a nationally representative dataset, 2005–2017. J Abnorm Psychol 2019;128:185–99. [PubMed] [Google Scholar]
+
+10. Rideout V, Robb MB. Social media, social life: teens reveal their experiences. San Francisco: Common Sense Media; 2018. [Google Scholar]
+
+11. Vernon L, Modecki KL, Barber BL. Mobile phones in the bedroom: trajectories of sleep habits and subsequent adolescent psychosocial development. Child Dev 2018;89:66–77. [PubMed] [Google Scholar]
+
+12. Chou H-TG, Edge N. “They are happier and having better lives than I am”: the impact of using Facebook on perceptions of others’ lives. Cyberpsychol Behav Soc Netw 2012;15:117–21. [PubMed] [Google Scholar]
+
+13. Krasnova H, Widjaja T, Buxmann P, et al. Why following friends can hurt you: An exploratory investigation of the effects of envy on social networking sites among college-age users. Inf Syst Res 2015;26:585–605. 10.1287/isre.2015.0588. [CrossRef] [Google Scholar]
+
+14. Przybylski AK, Murayama K, DeHaan CR, et al. Motivational, emotional, and behavioral correlates of fear of missing out. Comput Human Behav 2013;29:1841–8. 10.1016/j.chb.2013.02.014. [CrossRef] [Google Scholar]
+
+15. Beyens I, Frison E, Eggermont S. “I don’t want to miss a thing”: Adolescents’ fear of missing out and its relationship to adolescents’ social needs, Facebook use, and Facebook related stress. Comput Human Behav 2016;64:1–8. [Google Scholar]
+
+16. Holland G, Tiggemann M. A systematic review of the impact of the use of social networking sites on body image and disordered eating outcomes. Body Image 2016;17:100–10. [PubMed] [Google Scholar]
+
+17. Fardouly J, Diedrichs PC, Vartanian LR, et al. Social comparisons on social media: the impact of Facebook on young women’s body image concerns and mood. Body Image 2015;13:38–45. [PubMed] [Google Scholar]
+
+18. Sampasa-Kanyinga H, Roumeliotis P, Xu H. Associations between cyberbullying and school bullying victimization and suicidal ideation, plans and attempts among Canadian schoolchildren. PLoS One 2014;9:e102145. [PMC free article] [PubMed] [Google Scholar]
+
+19. Shakya HB, Christakis NA. Association of Facebook use with compromised well-being: a longitudinal study. Am J Epidemiol 2017;185:203–11. [PubMed] [Google Scholar]
+
+20. Basen I. You can’t stop checking your phone because Silicon Valley designed it that way. CBC Radio 2018. Sept. 14 Available: www.cbc.ca/radio/thesundayedition/the-sunday-edition-september-16-2018-1.4822353/you-can-t-stop-checking-your-phone-because-silicon-valley-designed-it-that-way-1.4822360 (accessed 2019 Apr. 10).
+
+21. Smart V, Grundig T. “We’re designing minds”: Industry insider reveals secrets of addictive app trade. CBC Marketplace 2017. November 3 Available: www.cbc.ca/news/technology/marketplace-phones-1.4384876 (accessed 2019 Apr. 10).
+
+22. Matar Boumosleh JM, Jaalouk D. Depression, anxiety, and smartphone addiction in university students — A cross sectional study. PLoS One 2017;12:e0182239. [PMC free article] [PubMed] [Google Scholar]
+
+23. Cha S-S, Seo B-K. Smartphone use and smartphone addiction in middle school students in Korea: prevalence, social networking service, and game use. Health Psychol Open 2018;5:2055102918755046. [PMC free article] [PubMed] [Google Scholar]
+
+24. Marchant A, Hawton K, Stewart A, et al. A systematic review of the relationship between internet use, self-harm and suicidal behaviour in young people: the good, the bad and the unknown [published erratum in PLoS One 2018; 13:e0193937]. PLoS One 2017;12:e0181722. [PMC free article] [PubMed] [Google Scholar]
+
+25. Aboujaoude E. Problematic Internet use: an overview. World Psychiatry 2010;9:85–90. [PMC free article] [PubMed] [Google Scholar]
+
+26. Pan P-Y, Yeh C-B. Internet addiction among adolescents may predict self-harm/suicidal behavior: a prospective study. J Pediatr 2018;197:262–7. [PubMed] [Google Scholar]
+
+27. Chen Q, Yan Z. Corrigendum to “Does multitasking with mobile phones affect learning? A review.”. Comput Human Behav 2016;64:938. 10.1016/j.chb.2016.07.023. [CrossRef] [Google Scholar]
+
+28. van der Schuur WA, Baumgartner SE, Sumter SR, et al. The consequences of media multitasking for youth: a review. Comput Human Behav 2015;53:204–15. 10.1016/j.chb.2015.06.035. [CrossRef] [Google Scholar]
+
+29. Ra CK, Cho J, Stone MD, et al. Association of digital media use with subsequent symptoms of attention-deficit/hyperactivity disorder among adolescents. JAMA 2018;320:255–63. [PMC free article] [PubMed] [Google Scholar]
+
+30. Lewis SP, Heath NL, Sornberger MJ, et al. Helpful or harmful? An examination of viewers’ responses to nonsuicidal self-injury videos on YouTube. J Adolesc Health 2012;51:380–5. [PubMed] [Google Scholar]
+
+31. Lewis SP, Heath NL, St Denis JM, et al. The scope of nonsuicidal self-injury on YouTube. Pediatrics 2011;127:e552–7. [PubMed] [Google Scholar]
+
+32. Dyson MP, Hartling L, Shulhan J, et al. A systematic review of social media use to discuss and view deliberate self-harm acts. PLoS One 2016;11:e0155813. [PMC free article] [PubMed] [Google Scholar]
+
+33. Twenge JM, Martin GN, Campbell WK. Decreases in psychological well-being among American adolescents after 2012 and links to screen time during the rise of smartphone technology. Emotion 2018;18:765–80. [PubMed] [Google Scholar]
+
+34. Twenge JM, Joiner TE, Rogers ML, et al. Increases in depressive symptoms, suicide-related outcomes, and suicide rates among U.S. adolescents after 2010 and links to increased new media screen time. Clin Psychol Sci 2018;6:3–17. 10.1177/2167702617723376. [CrossRef] [Google Scholar]
+
+35. Chotpitayasunondh V, Douglas KM. How “phubbing” becomes the norm: The antecedents and consequences of snubbing via smartphone. Comput Human Behav 2016;63:9–18. 10.1016/j.chb.2016.05.018. [CrossRef] [Google Scholar]
+
+36. Dwyer RJ, Kushlev K, Dunn EW. Smartphone use undermines enjoyment of face-to-face social interactions. J Exp Soc Psychol 2018;78:233–9. 10.1016/j.jesp.2017.10.007. [CrossRef] [Google Scholar]
+
+37. Twenge JM, Krizan Z, Hisler G. Decreases in self-reported sleep duration among U.S. adolescents 2009–2015 and association with new media screen time. Sleep Med 2017;39:47–53. [PubMed] [Google Scholar]
+
+38. Sampasa-Kanyinga H, Hamilton HA, Chaput J-P. Use of social media is associated with short sleep duration in a dose-response manner in students aged 11 to 20 years. Acta Paediatr 2018;107:694–700. [PubMed] [Google Scholar]
+
+39. Chang A-M, Aeschbach D, Duffy JF, et al. Evening use of light-emitting eReaders negatively affects sleep, circadian timing, and next-morning alertness. Proc Natl Acad Sci U S A 2015;112:1232–7. [PMC free article] [PubMed] [Google Scholar]
+
+40. Carter B, Rees P, Hale L, et al. Association between portable screen-based media device access or use and sleep outcomes: a systematic review and meta-analysis. JAMA Pediatr 2016;170:1202–8. [PMC free article] [PubMed] [Google Scholar]
+
+41. Hökby S, Hadlaczky G, Westerlund J, et al. Are mental health effects of Internet use attributable to the Web-based content or perceived consequences of usage? A longitudinal study of European adolescents. JMIR Ment Health 2016;3:e31. [PMC free article] [PubMed] [Google Scholar]
+
+42. Frison E, Eggermont S. Exploring the relationships between different types of Facebook use, perceived online social support, and adolescents’ depressed mood. Soc Sci Comput Rev 2016;34:153–71. 10.1177/0894439314567449. [CrossRef] [Google Scholar]
+
+43. Seabrook EM, Kern ML, Rickard NS. Social networking sites, depression, and anxiety: a systematic review. JMIR Ment Health 2016;3:e50. [PMC free article] [PubMed] [Google Scholar]
+
+44. Shensa A, Sidani JE, Escobar-Viera CG, et al. Real-life closeness of social media contacts and depressive symptoms among university students. J Am Coll Health 2018;66:747–53. [PubMed] [Google Scholar]
+
+45. Vogel EA, Rose JP, Okdie BM, et al. Who compares and despairs? The effect of social comparison orientation on social media use and its outcomes. Pers Individ Dif 2015;86:249–56. 10.1016/j.paid.2015.06.026. [CrossRef] [Google Scholar]
+
+46. Burrow AL, Rainone N. How many likes did I get?: Purpose moderates links between positive social media feedback and self-esteem. J Exp Soc Psychol 2017;69:232–6. 10.1016/j.jesp.2016.09.005. [CrossRef] [Google Scholar]
+
+47. Park SY, Baek YM. Two faces of social comparison on Facebook: the interplay between social comparison orientation, emotions, and psychological well-being. Comput Human Behav 2018;79:83–93. 10.1016/j.chb.2017.10.028. [CrossRef] [Google Scholar]
+
+48. Kim B, White K. How can health professionals enhance interpersonal communication with adolescents and young adults to improve health care outcomes?: systematic literature review. Int J Adolesc Youth 2018;23:198–218. 10.1080/02673843.2017.1330696. [CrossRef] [Google Scholar]
+
+49. Chen L, Shi J. Reducing harm from media: a meta-analysis of parental mediation. Journalism Mass Commun Q 2019;96:173–93. 10.1177/1077699018754908. [CrossRef] [Google Scholar]
+
+50. Kushlev K, Dunn EW. Smartphones distract parents from cultivating feelings of connection when spending time with their children. J Soc Pers Relat 2019;36:1619–39. 10.1177/0265407518769387. [CrossRef] [Google Scholar]
+
+51. Mendoza JS, Pody BC, Lee S, et al. The effect of cellphones on attention and learning: the influences of time, distraction, and nomophobia. Comput Human Behav 2018;86:52–60. 10.1016/j.chb.2018.04.027. [CrossRef] [Google Scholar]
+
+52. Ward AF, Duke K, Gneezy A, et al. Brain drain: the mere presence of one’s own smartphone reduces available Ccognitive capacity. J Assoc Consum Res 2017;2:140–54. 10.1086/691462. [CrossRef] [Google Scholar]
+
+53. Burnette CB, Kwitowski MA, Mazzeo SE. “I don’t need people to tell me I’m pretty on social media:” A qualitative study of social media and body image in early adolescent girls. Body Image 2017;23:114–25. [PubMed] [Google Scholar]
+
+54. Weinstein E. Adolescents’ differential responses to social media browsing: Exploring causes and consequences for intervention. Comput Human Behav 2017;76:396–405. 10.1016/j.chb.2017.07.038. [CrossRef] [Google Scholar]
+
+55. Children and media tips from the American Academy of Pediatrics. Itasca (IL): American Academy of Pediatrics; 2018. Available: www.aap.org/en-us/about-the-aap/aap-press-room/news-features-and-safety-tips/Pages/Children-and-Media-Tips.aspx (accessed 2019 Oct. 15). [Google Scholar]
+
+56. Family media use plan. Itasca (IL): American Academy of Pediatrics; Available: www.healthychildren.org/English/media/Pages/default.aspx (accessed 2019 Oct. 19). [Google Scholar]
+
+57. Family Media Toolkit: age-based guidelines for children’s media and device use. San Francisco: Common Sense; Available: www.commonsensemedia.org/AAPtoolkit (accessed 2019 Oct. 19). [Google Scholar]
+
+58. Cushing CC, Jensen CD, Miller MB, et al. Meta-analysis of motivational interviewing for adolescent health behavior: efficacy beyond substance use. J Consult Clin Psychol 2014;82:1212–8. [PubMed] [Google Scholar]
+
+59. Tromholt M. The Facebook experiment: quitting Facebook leads to higher levels of well-being. Cyberpsychol Behav Soc Netw 2016;19:661–6. [PubMed] [Google Scholar]
+
+60. Strieter L, Laddu DR, Sainsbury J, et al. The importance of school-based healthy living initiatives: introducing the Health and Wellness Academy concept. Prog Cardiovasc Dis 2019;62:68–73. [PubMed] [Google Scholar]
+
+61. Yeager DS, Dahl RE, Dweck CS. Why interventions to influence adolescent behavior often fail but could succeed. Perspect Psychol Sci 2018;13:101–22. [PMC free article] [PubMed] [Google Scholar]
+
+62. Beland L-P, Murphy R. Ill Communication: technology, distraction & student performance. Labour Econ 2016;41:61–76. 10.1016/j.labeco.2016.04.004. [CrossRef] [Google Scholar]
+
+63. Charles AS. Chapter eleven: “There’s a relationship”: Negotiating cell phone use in the high school classroom. In Researching New Literacies: Design, Theory, and Data in Sociocultural Investigation. Bern (Switzerland): Peter Lang, International Academic Publishers; 2017. Available: www.peterlang.com/view/9781433138331/xhtml/chapter11.xhtml (accessed 2019 Oct. 14). [Google Scholar]
+
+64. Tatum NT, Olson MK, Frey TK. Noncompliance and dissent with cell phone policies: a psychological reactance theoretical perspective. Commun Educ 2018;67:226–44. 10.1080/03634523.2017.1417615. [CrossRef] [Google Scholar]
+
+65. Van Royen K, Poels K, Vandebosch H. Harmonizing freedom and protection: Adolescents’ voices on automatic monitoring of social networking sites. Child Youth Serv Rev 2016;64:35–41. 10.1016/j.childyouth.2016.02.024. [CrossRef] [Google Scholar]
+
+66. Kale S. Logged off: meet the teens who refuse to use social media. The Guardian 2018. August 29 Available: www.theguardian.com/society/2018/aug/29/teens-desert-social-media (accessed 2019 Oct. 12).
+
+67. Jiang J. How teens and parents navigate screen time and device distractions. Washington (DC): Pew Research Center; 2018. Available: www.pewinternet.org/2018/08/22/how-teens-and-parents-navigate-screen-time-and-device-distractions/ (accessed 2019 Oct. 12). [Google Scholar]
+
+68. World Mental Health Day: 10 October 2019. Geneva: Office of the United Nations High Commissioner for Human Rights (OHCHR) Available: www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=25117&LangID=E (accessed 2019 Oct. 14). [Google Scholar]
+
+Articles from CMAJ : Canadian Medical Association Journal are provided here courtesy of Canadian Medical Association
+
+Cited by other articles
+
+Links to NCBI Databases
+
+Copy Download .nbib .nbib

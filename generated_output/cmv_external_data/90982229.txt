@@ -1,0 +1,131 @@
+Skip to main content
+
+Virtual consultation
+
+Videos and online training
+
+See all member programs
+
+Business insurance solutions
+
+Product and service discounts
+
+Sign in Search Register
+
+Loss Control Learning Center
+
+Distracted and inattentive driving
+
+Inattentive driving is a primary factor in a high number of automotive accidents. Fully attentive drivers typically do not rear-end the vehicle in front of them, drive through a stop sign or drift into another lane of traffic. Driver inattention generally falls into four major categories:
+
+Daydreaming: Vision is a critical factor in safe driving. Without the driver’s mind focused on processing the information collected by the eyes, a driver is not truly comprehending. Inattentional Blindness (IB) is a term coined to describe this phenomenon. IB occurs when a driver is cognitively distracted such as daydreaming or thinking about something other than the road ahead.
+
+Taking eyes off the road. It makes sense that if you are not looking in the direction you are headed bad things can happen. While drivers should routinely check their mirrors, speedometer, etc., best practice is to limit glances away from the forward roadway to less than 1.5 seconds.1
+
+Performing secondary tasks. When driving, the primary task is the safe operation of the vehicle. This includes scanning traffic, maintaining a safe speed and space around the vehicle, and driving defensively by adjusting to unsafe driving of others. Any other activity is considered secondary and distracts a driver from their primary task. Secondary tasks include phone use, eating, reading, reaching for an object, interacting with an infotainment system, etc.
+
+Drowsiness: When someone is tired, their mind is not as attentive and does a poor job of identifying and processing hazards in traffic. Their reaction times are also diminished. A lack of sleep, illness and medication use are primary causes of drowsiness.
+
+To help reduce auto accidents, organizations should have policies and programs in place to limit inattentive driving. Core components include:
+
+Written policies prohibiting or limiting distracting secondary tasks or driving while drowsy. Policies prohibiting cell phone use are not enough. See our Sample Attentive Driving Policy for policy wording examples.
+
+Clear guidance limiting staff from calling drivers when they know employees are driving, or expecting drivers to respond to calls, texts or emails while driving.
+
+Allowing drivers to refuse to answer a call when conditions are not safe to do so.
+
+Regular education and awareness on the hazards of inattentive and distracted driving.
+
+Monitoring drivers' compliance with policy through observations and ride-alongs.
+
+Utilization of technology to prevent use or monitor compliance: phone apps, telematics, dashcams, etc.
+
+Leadership leading by example. Nothing sends the wrong message more than a manager calling an employee while the manager themself is driving.
+
+The following information can assist in the development of your program:
+
+The National Highway Traffic Safety Administration (NHTSA) reports that 15% of all police-reported crashes in 2019 were distraction related, up nearly 10% over 2018. This trend is expected to continue.2
+
+The National Safety Council and other organizations feel the NHTSA data is underreported and that the actual number is more than 25% based on other studies. Often drivers do not admit to police that they were distracted at the time of an accident.
+
+A detailed NHTSA study of severe accidents found driver error is the primary causal factor in 94% of severe accidents.3 Of this, 41% were due to recognition error which includes inattention, distractions, or inadequate surveillance. Inattentiveness violates the first step of good defensive driving – seeing the hazards through proper scanning
+
+Driving while moderately or severely drowsy increases a driver’s crash risk by nearly six times.4
+
+Types of distraction
+
+There are three primary forms of distraction while driving: visual, manual, and cognitive. Activities with multiple forms can significantly increase crash risk.
+
+Multiple forms = increased crash risk!
+
+Visual distraction: Tasks that require the driver to look away from the road to see information.
+
+Manual distraction: Tasks that require the driver to take a hand off the steering wheel to manipulate a device or object.
+
+Cognitive distraction: Tasks that require the driver to avert their mental attention away from driving.
+
+? – Depends on situation. Handsfree may involve visual and manual distractions while dialing, etc. in addition to the cognitive distraction. Studies have found that voice-recognition systems, such as voice to text, may actually increase distraction due to the increased cognitive workload required.5
+
+The Multi-tasking Fallacy and Inattention Blindness
+
+Many individuals pride themselves in their ability to multi-task. In reality, only about 2% of the population is actually good at multi-tasking. A study by the University of Utah found that people who think they are great at multitasking are the least likely to be good at it and persons who talk on the cell phone the most while driving are the least capable of multi-tasking.6
+
+Multi-tasking leads to inattention blindness. Estimates indicate drivers using cell phones look at but fail to see up to 50% of the information in their driving environment.7 Cognitive distraction contributes to less attention to the environment, where all the information the driver sees is not processed.8 This may be due to how our brains compensate for receiving too much information by not sending some visual information to the working memory. When this happens, drivers are not aware of the filtered information and cannot act on it.9
+
+The Federal Motor Carrier Safety Regulations (FMCSR), which regulate commercial vehicles operating in interstate travel prohibit handheld phones, texting, or other manual phone interaction (§392.80 and §392.802). The regulations allow for “one-touch” initiating or ending of a call and the phone must be within easy arms reach of the driver. Most state DOTs have incorporated this rule for intrastate driving as well. The FMCSR define a commercial vehicle as:
+
+Having a gross vehicle weight rating or gross combination weight rating (including trailer) of more than 10,000 pounds or more.
+
+Designed to transport more than eight passengers (including the driver) for compensation
+
+Designed to transport more than 15 passengers (including the driver) not for compensation
+
+Used in transporting hazardous materials under 49 U.S.C. 5103 and transported in quantities requiring placarding.
+
+Your Position on Cell Phone Use
+
+While driving hands-free, a cognitive distraction still exists. A NHTSA study also found that drivers using “hands-free” systems regularly handle the phone anyway, minimizing the benefit.10 Some drivers feel it is OK to make handsfree calls because it is not against the law and therefore may talk for longer periods of time, increasing the cognitive distraction duration.
+
+Organization policies should prohibit any cell phone use while driving, except in the event of emergencies. An exception could also be made for calls that impact a driver’s trip. For example, it might be acceptable to contact a driver on a multi-hour trip to let them know their appointment is cancelled. Drivers should still pull off to a safe place to take the call or to return the call, if missed.
+
+A clear no-phone use policy, including no hands-free use, is a best practice. However, if you have no intent of enforcing a no-phone use policy you should not make it a rule as it could be used against you in an accident (failure to follow your own policy). As an alternative to a no-phone policy, something similar to the following can be considered.
+
+Hands-free business calls may be made or accepted on a limited basis and of a limited duration if they are of an urgent nature and pulling over to a safe parking area is not practical.
+
+Drivers are encouraged to refuse calls if driving conditions involve hazards like heavy traffic, construction zones, and inclement weather.
+
+Initiation or acceptance of hands-free calls should be limited to one touch.
+
+If choosing to allow limited hands-free calling it should be actively managed. Managers need to lead by example and encourage drivers to hang up and call when safely parked if the call topic does not meet the urgent nature of the organization’s policy.
+
+Distracted Driving Prevention and Monitoring Technology
+
+Many organizations are taking a proactive approach and utilize technological measures to control and monitor cell phone use. These solutions range from simple do-not-disturb-while-driving settings on a phone, to full software or telematics solutions that can lock down all phones or monitor phone use. Click here for a more detailed overview of how this technology can benefit your organization.
+
+Our Distracted and Inattentive Driving Infographic addresses many of these key topics and can assist with driver education and training. Use it:
+
+As an awareness piece for poster boards or driver mailings.
+
+As a training topic in driver safety meetings or toolbox talks.
+
+As a guide for managers when conducting safety ride-alongs with drivers.
+
+Nationwide Sample Attentive Driving Policy
+
+Nationwide Distracted and Inattentive Driving Infographic
+
+FMCSR (DOT) – Regulations on Distracted Driving
+
+NHTSA - Distracted Driving
+
+Centers for Disease Control - Distracted Driving
+
+Insurance Institute for Highway Safety – Distracted Driving (includes state by state laws)
+
+[1] Driver Behavior During Visual-Manual Secondary Task Performance: Occlusion Method Versus Simulated Driving, National Highway Traffic Safety Administration, DOT HS 811 726, March 2013 [2] Distracted Driving 2019, Traffic Safety Facts, National Highway Traffic Safety Administration, DOT HS 813 111, April 2021 [3] Critical Reasons for Crashes Investigated in the National Motor Vehicle Crash Causation Survey, Traffic Safety Facts, National Highway Traffic Safety Administration, DOT HS 812 115, February 2015 [4] The 100-Car Naturalistic Driving Study, Phase II - Results of the 100-Car Field Experiment. DOT HS 810 593. National Highway Traffic Safety Administration. (2006). [5] A meta-analysis of in-vehicle and nomadic voice-recognition system interaction and driving performance. Accident Analysis and Prevention, Sept 2017 [6] Who Multi-Tasks and Why? Multi-Tasking Ability, Perceived Multi-Tasking Ability, Impulsivity, and Sensation Seeking, David M. Sanbonmatsu, David L. Strayer ,Nathan Medeiros-Ward, Jason M. Watson University of Utah, January 23, 2013 [7] Strayer, D. L. (2007, February 28). Presentation at Cell Phones and Driver Distraction. Traffic Safety Coalition, Washington DC [8] Strayer, D. L., Drews, F. A., & Johnston, W. A. (2003). Cell phone induced failures of visual attention during simulated driving. Journal of Experimental Psychology: Applied, 9(1), 23-32. [9] Understanding the Distracted Brain - Why Driving While Using Hands-free Cell Phones is Risky Behavior, National Safety Council, White Paper, April 2012 [10] The Impact of Hand-Held And Hands-Free Cell Phone Use on Driving Performance and Safety-Critical Event Risk, NHTSA DOTHS 811 757 April 2013
+
+More industry resources
+
+Construction | Human services | Manufacturing | Real estate | Food Service | Retail | Senior living | Warehousing
+
+Subscribe to our newsletter for timely content in your inbox

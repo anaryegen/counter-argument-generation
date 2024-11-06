@@ -1,0 +1,451 @@
+Back to Top Skip to main content
+
+An official website of the United States government Here's how you know
+
+The .gov means it’s official. Federal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you’re on a federal government site.
+
+The site is secure. The https:// ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely.
+
+Log in Show account info
+
+Logged in as: username
+
+Access keys NCBI Homepage MyNCBI Homepage Main Content Main Navigation
+
+Preview improvements coming to the PMC website in October 2024. Learn More or Try it out now.
+
+As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with, the contents by NLM or the National Institutes of Health. Learn more: PMC Disclaimer | PMC Copyright Notice
+
+Ann Fam Med. 2007 Jan; 5(1): 6–13.
+
+doi: 10.1370/afm.611
+
+Creating Demand for Prescription Drugs: A Content Analysis of Television Direct-to-Consumer Advertising
+
+Dominick L. Frosch, PhD,1,2 Patrick M. Krueger, PhD,3,4 Robert C. Hornik, PhD,2,5 Peter F. Cronholm, MD, MSCE,6 and Frances K. Barg, PhD6
+
+1Department of Medicine, University of California, Los Angeles, Los Angeles, Calif
+
+2Leonard Davis Institute of Health Economics, University of Pennsylvania, Philadelphia, Pa
+
+Find articles by Dominick L. Frosch
+
+3School of Public Health, University of Texas Health Science Center at Houston, Houston, Tex
+
+4Population Research Center, University of Texas at Austin, Austin, Tex
+
+Find articles by Patrick M. Krueger
+
+2Leonard Davis Institute of Health Economics, University of Pennsylvania, Philadelphia, Pa
+
+5Department of Medicine, University of Pennsylvania, Philadelphia, Pa
+
+Find articles by Robert C. Hornik
+
+6Annenberg School for Communication, University of Pennsylvania, Philadelphia, Pa
+
+Find articles by Peter F. Cronholm
+
+6Annenberg School for Communication, University of Pennsylvania, Philadelphia, Pa
+
+Find articles by Frances K. Barg
+
+1Department of Medicine, University of California, Los Angeles, Los Angeles, Calif
+
+2Leonard Davis Institute of Health Economics, University of Pennsylvania, Philadelphia, Pa
+
+3School of Public Health, University of Texas Health Science Center at Houston, Houston, Tex
+
+4Population Research Center, University of Texas at Austin, Austin, Tex
+
+5Department of Medicine, University of Pennsylvania, Philadelphia, Pa
+
+6Annenberg School for Communication, University of Pennsylvania, Philadelphia, Pa
+
+7Department of Family Medicine & Community Health, University of Pennsylvania, Philadelphia, Pa
+
+CORRESPONDING AUTHOR: Dominick L. Frosch, PhD, Department of Medicine, University of California, Los Angeles, 911 Broxton Plaza, Los Angeles, CA 90095-1736, ude.alcu.tendem@hcsorfd
+
+A version of this report was presented at the 27th annual meeting of the Society for Medical Decision Making, San Francisco, Calif, 22 October 2005.
+
+Received 2005 Dec 21; Revised 2006 Jun 7; Accepted 2006 Jun 26.
+
+This article has been corrected. See Ann Fam Med. 2007 March; 5(2): 179.
+
+PURPOSE American television viewers see as many as 16 hours of prescription drug advertisements (ads) each year, yet no research has examined how television ads attempt to influence consumers. This information is important, because ads may not meet their educational potential, possibly prompting consumers to request prescriptions that are clinically inappropriate or more expensive than equally effective alternatives.
+
+METHODS We coded ads shown during evening news and prime time hours for factual claims they make about the target condition, how they attempt to appeal to consumers, and how they portray the medication and lifestyle behaviors in the lives of ad characters.
+
+RESULTS Most ads (82%) made some factual claims and made rational arguments (86%) for product use, but few described condition causes (26%), risk factors (26%), or prevalence (25%). Emotional appeals were almost universal (95%). No ads mentioned lifestyle change as an alternative to products, though some (19%) portrayed it as an adjunct to medication. Some ads (18%) portrayed lifestyle changes as insufficient for controlling a condition. The ads often framed medication use in terms of losing (58%) and regaining control (85%) over some aspect of life and as engendering social approval (78%). Products were frequently (58%) portrayed as a medical breakthrough.
+
+CONCLUSIONS Despite claims that ads serve an educational purpose, they provide limited information about the causes of a disease or who may be at risk; they show characters that have lost control over their social, emotional, or physical lives without the medication; and they minimize the value of health promotion through lifestyle changes. The ads have limited educational value and may oversell the benefits of drugs in ways that might conflict with promoting population health.
+
+Keywords: Pharmaceutical marketing, consumers, content analysis, qualitative research, advertising
+
+The United States and New Zealand are the only developed countries that permit direct-to-consumer advertising (DTCA) of prescription drugs. Average American television viewers see as many as 16 hours of prescription drug advertisements (ads) per year, far exceeding the average time spent with a primary care physician.1 Since the Food and Drug Administration (FDA) relaxed DTCA regulations in 1997, a polarized debate around the practice has ensued.
+
+Opponents argue that ads mislead consumers and prompt requests for products that are unneeded or more expensive than other equally effective drugs or nonpharmacologic treatment options.2–4 Proponents counter that DTCA educates people about health conditions and available treatments and empowers them to become more active participants in their own care, thereby strengthening the health care system.5–7
+
+Television advertising now comprises most of the consumer-directed prescription pharmaceutical marketing expenditures.8 Previous research has examined print ads,9–13 but unlike print ads, television ads combine visual imagery, music, and spoken words to create complex stories that may provide more information and appeal to a wider range of consumer emotions. To date, no one has analyzed systematically what television ads claim about health conditions, how they attempt to appeal to consumers, or how they portray the role of lifestyle behaviors and medication in achieving good health. These questions are critically important given evidence that DTCA prompts consumers to request prescriptions for advertised products from their physicians,14,15 and that many of those requests are fulfilled despite being judged clinically inappropriate.16
+
+The goal of our study was to analyze the content of television DTCA messages to lay the foundation for future studies that examine the consequences of DTCA exposure. Little is known about how DTCA affects people’s health-related beliefs and behaviors beyond prescription requests, even though television pharmaceutical ads are among the most common forms of mediated health communication in the United States. Content analysis is a well-established method of inquiry for generating research questions and hypotheses for future experimental and observational studies that examine the effects of advertising on consumers’ beliefs and behaviors.17,18
+
+We focused on ads that have the largest audiences, drawing a sample from peak television viewing times (prime time, 8:00–11:00 PM) and the evening news on channels with the most viewers (ABC, CBS, NBC, and Fox).1,19 We recorded programming for 4 consecutive weeks (June 30, 2004, to July 27, 2004), randomly selecting a different channel each day but never recording the same channel on 2 consecutive days. Each day of the week was represented for each network.
+
+The FDA regulations distinguish between product claim ads and reminder ads. Product claim ads must include the name and indication of the drug, as well as a major statement of product risks, and they must direct consumers to a detailed summary of product risks and benefits accessible through a toll-free telephone number, an Internet site, or a concurrent print ad. We limited our analysis to television ads, rather than Internet, print, or telephone sources, because television ads reach a wider audience, and people might seek further information only if the ads are sufficiently compelling. Reminder ads are shorter and can mention the product name, but may not discuss indications, efficacy, or dosage recommendations.9–13,20 Our programming sample captured a total 103 ads comprising 31 unique product claim ads and 7 unique reminder ads, which provided the basis for our analysis (Table 1 ▶).
+
+Drug Advertisements Captured in Sample
+
+Generic Product Name
+
+Advertised Indication
+
+Procter & Gamble, Cincinnati, Ohio
+
+Aventis, Bridgewater, NJ
+
+Sanofi-Synthelabo, New York, NY
+
+Pfizer, New York, NY
+
+Osteoarthritis, rheumatoid arthritis
+
+Lilly ICOS, Indianapolis, Ind
+
+Erectile dysfunction
+
+AstraZeneca, Wilmington, Del
+
+Hypercholesterolemia
+
+Pfizer, New York, NY
+
+Immunex, Thousand Oaks, Calif
+
+Rheumatoid arthritis
+
+Merck, Whitehouse Station, NJ
+
+Novartis, East Hanover, NJ
+
+Bayer, West Haven, Conn
+
+Erectile dysfunction
+
+Pfizer, New York, NY
+
+Hypercholesterolemia
+
+AstraZeneca, Wilmington, Del
+
+Gastroesophageal reflux disease
+
+Novartis, East Hanover, NJ
+
+Novartis, East Hanover, NJ
+
+Amlodipine & Benazepril
+
+Novartis, East Hanover, NJ
+
+Bristol-Myers Squibb, Princeton, NJ
+
+Acute coronary syndrome
+
+TAP, Lake Forest, Ill
+
+Gastroesophageal reflux disease
+
+Amgen, Thousand Oaks, Calif
+
+Chemotherapy-related anemia
+
+Merck, Whitehouse Station, NJ
+
+GlaxoSmithKline, Middlesex, UK
+
+Novartis, East Hanover, NJ
+
+Irritable bowel syndrome with constipation
+
+Merck, Whitehouse Station, NJ
+
+Hypercholesterolemia
+
+Pfizer, New York, NY
+
+Depression, social anxiety disorder
+
+Open in a separate window
+
+* Product claim advertisement only.
+
+† Product claim and reminder advertisement.
+
+‡ Advertisement promoted unnamed products that were identified on corresponding Web site.
+
+For each reminder ad we also had a corresponding product claim ad. We included reminder ads in our sample to describe how the messages and themes being communicated were affected by the shorter length of these ads. Our sample captured ads for 7 of the 10 top-selling prescription drugs in 2004.21
+
+We used 2 strategies to code the ads. First, to code the ads for the types of factual claims about the target condition (excluding product risk information) and the types of appeals to viewers, we drew on categories previously developed for print ads.9,11 The specific factual claim categories we coded are shown in Table 2 ▶. Proponents of DTCA have argued that ads serve in part to educate the public about diseases. Hence, our goal was to enumerate the frequency with which television ads made factual claims, regardless of the accuracy of this information. We drew on categories previously applied to print ads to code how the ads attempted to appeal to viewers with (1) rational appeals—providing information about product use, features, or comparison with similar products; (2) positive emotional appeals—evoking favorable affect, for example, by showing happiness; (3) negative emotional appeals—evoking negative affect by portraying fear, regret, or other negative emotions; (4) humor appeals—using puns, jokes, or satire; (5) fantasy appeals—depicting an unrealistic or surreal scene; (6) sex appeals—showing characters in an intimate encounter, scantily clad, or using provocative gestures; and (7) nostalgic appeals—using images from an earlier time, or black-and-white or sepia tone visuals.11
+
+Proportion of Advertisements That Present Factual Claims, Appeals, Lifestyle, and Medication Themes
+
+Weighted Percentages
+
+Categories of Content
+
+Any factual information (eg, symptoms)
+
+Biological nature or mechanism of disease
+
+Risk factors or cause of condition
+
+Prevalence of condition
+
+Subpopulation at risk of the condition
+
+Lifestyle portrayals
+
+Condition interferes with healthy or recreational activities
+
+Product enables healthy or recreational activities
+
+Lifestyle change is alternative to product use
+
+Lifestyle change is insufficient
+
+Lifestyle change is adjunct to product
+
+Medication portrayals
+
+Loss of control caused by condition
+
+Regaining control as result of product use
+
+Social approval as a result of product use
+
+Distress caused by condition
+
+Endurance increased as a result of product use
+
+Protection as a result of product use
+
+Open in a separate window
+
+Note: Total unweighted N = 38, product claim ads n = 31, reminder ads n = 7.
+
+* The Food and Drug Administration does not permit the presentation of factual information in reminder ads.
+
+Second, we developed inductive codes by approaching our sample with 2 research questions: (1) How do the ads portray the role of medication in the lives of characters? and (2) How do the ads portray the role of healthy lifestyle behavior in the lives of characters? We used grounded theory coding procedures to inductively develop common thematic categories and refine their definitions and properties.22,23 Because our study was descriptive and did not aim to produce a theory, we limited our use of grounded theory procedures to open and axial coding. Open coding refers to the analytical process of examining, comparing, and categorizing qualitative data to develop thematic concepts. Axial coding involves coding similar data sequences to foster connections between emerging thematic concepts. Both coding procedures permit a thematic analysis of content data in mixed methods research projects.22–24 The first author (DLF) led the analytical process in frequent consultation with the coauthors, a team whose disciplinary backgrounds included clinical psychology (DLF), sociology (PMK), communication (RCH), medicine (PFC) and anthropology (FKB). The authors discussed the thematic concepts that emerged when viewing a sample of the ads. The defining properties of the concepts were gradually refined to create specific coding categories, whereupon 2 bachelor’s level research assistants were trained to code all of the ads independently.
+
+Coding Reliability and Frequency Presentation
+
+We had good aggregate interrater reliability for our coding categories, as indicated by κ values ranging from .76 to .88.25 Coding disagreements between the research assistants were resolved through consensus. We report weighted frequencies that reflect the overall prevalence of the codes among the ads captured in the programming we recorded. The weights equal the total number of times each of the 38 ads was captured in our sample (mean = 2.7, SD = 2.3, range 1–12). Thus, ads that were captured more often in our sample had a proportionately greater impact on the prevalence of different coding categories. The unweighted data (not shown) reflected similar frequencies and patterns of the codes.
+
+Ad Length and Story Structure
+
+The average ad length was 44.9 seconds (SD 18.6 seconds, range 14–62 seconds); product claim ads (mean = 51.8, SD 12.7) were significantly longer than reminder ads (mean = 14.4, SD 0.5; Mann–Whitney U = 5.0; P <.001). We identified 3 story structures for the ads. Almost one half (44.7%) of the ads showed characters before and after taking the product. A smaller proportion (39.5%) showed characters only after taking the product, and a minority showed characters only before taking the product (7.9%). Three ads (7.9%) did not use any characters or did not clearly depict whether characters had taken the product.
+
+Factual Claims About the Target Condition
+
+Because reminder ads cannot legally present factual information, we focused on product claim ads. Most of the ads made some factual claims about the target condition of the product, typically by mentioning condition symptoms (Table 2 ▶). More than one half the ads made a claim about the biological nature or mechanism of the disease, but only 26% made claims about risk factors or causes of the condition. Almost 25% made claims about the population prevalence of the condition, but among these ads, only 25% gave specific information (eg, 1 in 9). The remaining ads used vague terms, such as “millions.” Only 8% of the ads identified specific subpopulations at increased risk of having the condition. Consistent with FDA regulations, all product claim ads, but none of the reminder ads, included information about major risks and side-effects. This information was always provided in the latter part of the ad, but never at the end, always leaving the final frames for a promotional message.
+
+Table 2 ▶ shows that all product claim ads used rational appeals, such as describing the product indication. Consistent with FDA regulations, reminder ads never used rational appeals. Almost 95% of product claim ads and 100% of the reminder ads used positive emotional appeals, often by depicting a happy character after taking a product. Sixty-nine percent of the ads used negative emotional appeals, such as showing a character in a fearful state before using the product. Almost one third of the ads used humor to appeal to viewers, sometimes by making fun of the character before taking the product.
+
+Lifestyle Portrayals
+
+Our inductive coding procedures identified 5 themes related to lifestyle portrayals of the ad characters (Table 2 ▶). Twenty-six percent of the ads suggested that the target condition may interfere with healthy or recreational activities, and 56% of the ads suggested that the product enables healthy or recreational activities. We coded the physical activities portrayed in the ads, distinguishing among mild, moderate, and vigorous physical activity (results not tabled). More than one half of the ads (52.7%) showed the primary character engaging in some physical activity. Eighty percent of these ads showed characters engaging in moderate or vigorous physical activity.
+
+Several of the products advertised for our sample of ads target conditions (eg, hypercholesterolemia, insomnia, hypertension) that have nonpharmacological treatment alternatives which involve behavior change. None of these ads explicitly mentioned behavior changes as an alternative to the product. More than 18% of the ads suggested that lifestyle change is insufficient to manage the condition, implying that using the product was a superior alternative. Nineteen percent of the ads suggested that lifestyle change may be an adjunct to using the product.
+
+Medication Portrayals
+
+We inductively identified 7 themes related to medication portrayals in the ads: (1) loss of control—the characters have lost control of some biological process, function, or ability as a result of their condition; (2) regaining control—the characters have resumed control of some biological process, function, or ability by using the advertised product; (3) social approval—the characters are viewed favorably by others because they used the product, or that people frequently use the product; (4) distress—the ad shows a character in physical, emotional, or social distress; (5) breakthrough—the ad suggests the product represents a breakthrough in medical science or progress in treating or curing a disease; (6) endurance—the ad suggests the product could increase endurance for some activity; and (7) protection—the ad suggests the product could protect individuals from some health risk.
+
+As shown in Table 2 ▶, many ads framed their products around loss of control, which often had a profound detrimental effect on the character’s life. Further, most ads suggested that characters can regain control of lost functions or abilities by using the product. All ads that showed a loss of control subsequently showed regaining control through product use. Nearly 78% of the ads showed characters who received social approval for using and benefiting from the product. Given the complexity of these themes, Table 3 ▶ displays selected examples of how the ads depicted loss of control, regaining control, and subsequent social approval.
+
+Typical Examples of How Loss of Control, Regaining Control, and Social Approval Were Depicted in Selected Advertisements (Ads)
+
+Central Character(s)
+
+Photographer, female, middle-aged, white
+
+Amount of sleep each night; ability to engage in and enjoy work and leisure activities during the day
+
+Ad states, “A funny thing happens when your body doesn’t sleep at night. Your mind zones out during the day. It’s likegoing through life on autopilot. Out of synch with the world around you.”
+
+Ad shows a new character going to bed and waking up refreshed next morning, as narration continues, “To help you sleep there’s Ambien, the number 1 prescribed sleep aid in America. Ambien helps you fall asleep fast and stay asleep longer. So you wake up refreshed, not groggy.” Ad shows the photographer at work in the studio, smiling at her coworker, followed by a stern focus on her professional task
+
+Coworkers are interested in the photographer’s activities
+
+Basketball referee, male, middle-aged, white
+
+Guests are enjoying them-selves at the hands of their host, and offer a toast with beverages
+
+Vacationing male, middle-aged, white
+
+The ad shows each character engaging in professional and recreational activities, whereupon a ghostlike figure steps out of their body and makes sleeplike gestures
+
+The children are laughing with their father and photographing their enjoyable vacation activities
+
+Ad shows the basketball referee entertaining guests in a backyard barbecue, simultaneously serving food and socializing
+
+Ad shows the vacationing man with his children in a boat, visiting waterfalls, being cheerful
+
+Wife/mother, middle- aged, white (Ad 1)
+
+Health of esophagus, enjoyment of specific foods, and participation in family dinner
+
+Both ads show characters at the dinner table with a large family, as food is served. Other family members are engaged in animated conversation. Orange juice transforms into bubbling and steaming green acid as the husband pours it into the woman’s glass. She briefly raises the glass, and her eyes grow wide with distress (Ad 1)
+
+The narrator states, “Next time, Nexium, the healing purple pill. For many, one prescription Nexium not only gets rid of heartburn, more importantly, it also heals acid reflux erosions. And healing is such a great feeling.”
+
+As the wife/mother takes the orange juice, she begins talking with her family for the first time in the ad (Ad 1)
+
+Husband/father, middle-aged, African American (Ad 2)
+
+As the husband/father takes the serving dish, he smiles at his wife and begins participating in the family meal (Ad 2)
+
+The mother raises her glass for more orange juice and says, “I’ll take that.” (Ad 1)
+
+Gravy transforms into thumbtacks as the wife pours it onto a slice of meat on the man’s plate. His face turns from smile to frown (Ad 2)
+
+The father happily receives a serving dish from his wife and says, “I’ll take that.” (Ad 2)
+
+Young adult, female, white
+
+Ability to enjoy romantic encounters, and vacation
+
+The character sits in a hammock and states, “Living with genital herpes can be a hassle.” The next scene shows her sitting on the beach with a male romantic partner, as her voice narrates, “Each outbreak felt like it took days out of my life.” The days of the week scroll across the bottom of the screen and disappear
+
+The camera returns to her sitting in the hammock saying, “So I talked to my doctor and found out about Valtrex. Just 1 pill a day helps reduce the number of outbreaks. In fact, I’ve been outbreak-free for almost a year.” She concludes, “My days are mine, and that’s the way it should be.”
+
+The male romantic partner smiles and laughs with the primary character. They dance, sail, bike, and finally kiss and hug in the surf with Rio de Janeiro in the background
+
+Red egglike cartoon character
+
+Ability to feel comfortable in social settings
+
+The main character enters a party and appears unhappy, uncomfortable, and isolated. Other characters, depicted in white, are dancing and talking. Narration states “You know that feeling of suddenly being very nervous? Maybe you’re scared of being criticized, or imagine that others are judging you. You’re embarrassed and don’t know why. Your heart thumps and races. So you stay back. You worry that you’re the only one whoever feels this way.”
+
+Narration states, “Zoloft prescription medicine can help. It works to correct a chemical imbalance in the brain which may be related to symptoms of social anxiety disorder.” Animation shows neurotransmitter levels increasing across a synapse. The red character gradually fades to white and begins to smile, giggle, and jump up and down with the other characters as narration continues, “In time you could overcome those nervous anxious moments…. Zoloft, when you know more about what’s wrong, you can help make it right.”
+
+After taking Zoloft, the primary character interacts with the other characters, smiles, giggles, and bounces up and down. The other characters smile approvingly and bounce as well
+
+Open in a separate window
+
+More than 58% of the ads claimed that the advertised products represented a medical or scientific breakthrough, often in such statements as “[the product] goes beyond what you were previously taking,” “now you can…,” “… only [the product] can….” Smaller percentages of ads indicated that the product enhances endurance in some activity, such as being able to work, or protects against some health risk, such as blood clots or herpes outbreaks.
+
+Sample Television Ad
+
+The Supplemental Figure (which can be found online at http://www.annfammed.org/cgi/content/full/5/1/6/DC1) illustrates the application of the codes to an ad for rosuvastatin. The ad narrative provides a complete transcript of the spoken content, except for the statement of risks. For each frame, we note the codes we applied. Using black humor, the first 2 frames show “Joe” running through the “Land of No,” a grim and deserted urban setting. Joe has lost control over his cholesterol, and the narrator suggests that lifestyle changes alone are not enough to keep him healthy. In the next 2 frames, Joe visits his doctor, who welcomes him approvingly and encourages him to take rosuvastatin. In the final 2 frames, Joe leaves the doctor’s office and enters into sunny suburbia, or the “Land of Success,” where his smiling neighbor waves as he walks home to enjoy a picnic with his smiling family.
+
+We found that most product claim ads made some factual claims about the target conditions, and more than one half made claims about the disease mechanisms. Even so, similar to print ads, television ads were often ambiguous about whether viewers might legitimately need the product.9 They offered limited information about risk factors, prevalence of the condition, or the subpopulations at greatest risk. By ambiguously defining who might need or benefit from the products, DTCA implicitly focuses on convincing people that they may be at risk for a wide array of health conditions that product consumption might ameliorate, rather than providing education about who may truly benefit from treatment. It has been suggested that DTCA contributes to the medicalization of what was previously considered part of the normal range of human experience.4
+
+All the product claim ads provided important information to viewers through rational arguments that detail either product use or the potential risks and benefits of the product use. The FDA limits the educational value of reminder ads, however, by prohibiting them from using rational appeals. Almost all ads used positive emotional appeals, and more than two thirds used negative emotional appeals. Emotional appeals may prompt viewers to discount information about risks and benefits that is important when considering medication use, while they sway consumers in favor of a product.26 This approach may encourage viewers, some of whom may not be at risk of the condition, to seek treatment for clinically inappropriate reasons, such as fear, anticipated regret from not using the product, or expectations of happiness if they do use the product.
+
+We identified several themes about the role of lifestyle in achieving and maintaining health. One quarter of the ads suggested that the target condition interferes with healthy or recreational activities. Although 19% of ads mentioned that healthy behaviors could be useful in combination with the product, they never described behaviors as a reasonable alternative. Several ads for cholesterol-lowering drugs appeared to suggest that nonpharmacological approaches were almost futile. One ad for atorvastatin showed an athletic middle-aged woman coaching basketball while images and text noted that she had been coaching for 25 years, ran 3 miles every day, and ate 50-calorie salads for lunch. Then we learn that her total cholesterol level is 277 mg/dL. Viewers may interpret the ad to mean that the product can improve health if lifestyle change is unsuccessful, or possibly that healthy behaviors are largely ineffective. In contrast, more than 56% of the ads showed the product enabling healthy or recreational activities. Thus, DTCA suggests that health improvement comes from taking the medication alone or in combination with healthy activities, never from behavior modification alone.
+
+Portrayal of healthy lifestyles in the ads, however, may offer some public health benefits. The frequent exposure to DTCA in the United States could promote health because the ads often model people engaging in physical activity, and public health campaigns are most effective when they repeatedly expose people to a healthful message.27
+
+We also examined how the ads portrayed the role of medication in achieving health. Most ads showed characters who lost control of their lives as a result of their conditions and used medication to regain control. This loss of control extended beyond specific medical problems and often included an inability to participate in social, leisure, or work activities. Characters typically regained complete control over their lives after using the product, whereupon they also received social approval from friends or family. The target conditions for many of these products can impair function, but the ads may not portray the average benefit of product use. Some individuals might experience considerable relief, but others will likely achieve more modest benefits from product use. Most ads also suggest that their products reflect scientific or medical breakthroughs, a claim that others dispute.28 DTCA often presents best-case scenarios that can distort and inflate consumers’ expectations about what prescription drugs can accomplish.
+
+Our study has several limitations. First, television viewers might not interpret these ads in the same way we did. We watched each ad closely and repeatedly, whereas viewers in their homes might have numerous distractions. Viewers are also likely to interpret DTCA based on their own beliefs about the power of medication and the role of lifestyle change. Future work could examine how viewers interpret the ads in the context of their own homes, as well as the relationships among exposure to these ads, health beliefs and behaviors, and over- and underprescribing of the advertised drugs. Second, even though most ads run for several months, our sample came from 1 month of programming, and these findings might not reflect ad content throughout the year. Finally, we focused on the content of ads shown during times with the largest audiences. Future studies could examine the relationship between ad content and the demographics of the audience during different periods of programming throughout the day.
+
+Senator William Frist recently called on the pharmaceutical industry to voluntarily refrain from advertising new products for 2 years after market introduction to permit a better assessment of a product’s risks and benefits than can be obtained from the trials required for initial FDA approval.29 Previously, Bristol-Myers Squibb announced it would refrain from advertising new products for their first year on the market.30 These proposed reforms, however, deal with the issue of advertising products whose effects are uncertain; they do not address the concerns raised here about the content of the ads. Instead of (or in addition to) delays in advertising, the ads could more effectively convey the risks of taking new drugs for which we have limited knowledge about their long-term health consequences.
+
+The Pharmaceutical Research and Manufacturers of America recently issued guidelines on DTCA for its members.31 Although the guidelines may address some of the concerns raised by our analysis (eg, “DTC advertising should reflect the seriousness of health conditions and the medicine being advertised”), they are, perhaps purposefully, vague. Furthermore, compliance with the guidelines is voluntary. Critics responded that the guidelines do not go far enough.32,33 Congress could pass legislation that requires specific content in pharmaceutical ads, including clearly specifying who may be at risk of the disease, detailing nonpharmacological treatment options, and describing the likely efficacy of alternative treatments based on current scientific evidence.
+
+The enforcement of current and future laws rests with the FDA, which may require more staff to fulfill this mandate.34 At present, FDA regulatory action typically occurs long after an ad has begun airing on television.35 Alternatively, the New Zealand government is considering an outright ban of DTCA.36–38
+
+We found that DTCA often attempts to persuade viewers on grounds other than rational consideration of medical costs and benefits. Our findings suggest the need to reconsider the distinction between selling soap or other consumer products and selling prescription drugs. Poor judgment among soap brands may have few health consequences; DTCA influence on drug preferences and the resultant importuning of physicians to prescribe cost-ineffective (or even inappropriate) drugs are a much more substantial concern for health care expenditures and population health.
+
+We thank Stefan Timmermans, PhD, for helpful comments and Paul Mello and Natalia Gomez for assistance in coding ads.
+
+Conflicts of interest: none reported
+
+Funding support: This study was supported by the Robert Wood Johnson Health & Society Scholars Program and a grant from the NCI Center of Excellence in Cancer Communication Research (P50 CA101404).
+
+1. Brownfield ED, Bernhardt JM, Phan JL, Williams MV, Parker RM. Direct-to-consumer drug advertisements on network television: an exploration of quantity, frequency, and placement. J Health Commun. 2004;9(6):491–497. [PubMed] [Google Scholar]
+
+2. Bodenheimer T. Two advertisements for TV drug ads. Health Aff (Millwood). 2003;Suppl Web Exclusives:W3-112–115. [PubMed]
+
+3. Hollon MF. Direct-to-consumer marketing of prescription drugs: creating consumer demand. JAMA. 1999;281(4):382–384. [PubMed] [Google Scholar]
+
+4. Mintzes B. For and against: Direct to consumer advertising is medicalising normal human experience: BMJ. 2002;324(7342):908–909. [PMC free article] [PubMed] [Google Scholar]
+
+5. Holmer AF. Direct-to-consumer prescription drug advertising builds bridges between patients and physicians. JAMA. 1999;281(4):380–382. [PubMed] [Google Scholar]
+
+6. Holmer AF. Direct-to-consumer advertising--strengthening our health care system. N Engl J Med. 2002;346(7):526–528. [PubMed] [Google Scholar]
+
+7. Kelly P. DTC advertising’s benefits far outweigh its imperfections. Health Aff (Millwood). 2004;Suppl Web Exclusives:W4-246–248. [PubMed]
+
+8. Rosenthal MB, Berndt ER, Donohue JM, Frank RG, Epstein AM. Promotion of prescription drugs to consumers. N Engl J Med. 2002;346(7):498–505. [PubMed] [Google Scholar]
+
+9. Bell RA, Wilkes MS, Kravitz RL. The educational value of consumer-targeted prescription drug print advertising. J Fam Pract. 2000;49(12):1092–1098. [PubMed] [Google Scholar]
+
+10. Bell RA, Kravitz RL, Wilkes MS. Direct-to-consumer prescription drug advertising, 1989–1998. A content analysis of conditions, targets, inducements, and appeals. J Fam Pract. 2000;49(4):329–335. [PubMed] [Google Scholar]
+
+11. Main K, Argo J, Huhmann B. Pharmaceutical advertising in the USA: information or influence? Int J Advertising. 2004;23:119–142. [Google Scholar]
+
+12. Welch Cline RJ, Young HN. Marketing drugs, marketing health care relationships: a content analysis of visual cues in direct-to-consumer prescription drug advertising. Health Commun. 2004;16(2):131–157. [PubMed] [Google Scholar]
+
+13. Woloshin S, Schwartz LM, Tremmel J, Welch HG. Direct-to-consumer advertisements for prescription drugs: what are Americans being sold? Lancet. 2001;358(9288):1141–1146. [PubMed] [Google Scholar]
+
+14. Mintzes B, Barer ML, Kravitz RL, et al. Influence of direct to consumer pharmaceutical advertising and patients’ requests on prescribing decisions: two site cross sectional survey. BMJ. 2002;324 (7322):278–279. [PMC free article] [PubMed] [Google Scholar]
+
+15. Murray E, Lo B, Pollack L, Donelan K, Lee K. Direct-to-consumer advertising: public perceptions of its effects on health behaviors, health care, and the doctor-patient relationship. J Am Board Fam Pract. 2004;17(1):6–18. [PubMed] [Google Scholar]
+
+16. Murray E, Lo B, Pollack L, Donelan K, Lee K. Direct-to-consumer advertising: physicians’ views of its effects on quality of care and the doctor-patient relationship. J Am Board Fam Pract. 2003;16(6): 513–524. [PubMed] [Google Scholar]
+
+17. Abernethy A, Franke G. The information content of advertising: a meta-analysis. J Advertising. 1996;25(2):1–17. [Google Scholar]
+
+18. Kolbe R, Burnett M. Content-analysis research: an examination of applications with directives for improving research reliability and objectivity. J Consumer Res. 1991;18(2):243–250. [Google Scholar]
+
+19. 1998 Report on Television. New York, NY: Nielsen Media Research; 1998.
+
+20. Prescription drug advertisements. Code of Federal Regulations Title 21: 202.1: 4–1-2004.
+
+21. 2004 Year-End U.S. Prescription and Sales Information and Commentary. Fairfield, Conn: IMS Health; 2005.
+
+22. Charmaz K. The grounded theory method: an explication and interpretation. In: Emerson R, ed. Contemporary Field Research: A Collection of Readings. Boston, Mass: Little Brown and Company; 1983:109–126.
+
+23. Glaser B, Strauss A. The Discovery of Grounded Theory: Strategies for Qualitative Research. Chicago, Ill: Aldine Publishing Company; 1967.
+
+24. Boeije H. A purposeful approach to the constant comparative method in the analysis of qualitative interviews. Qual Quant. 2002;36:391–409. [Google Scholar]
+
+25. Landis JR, Koch GG. The measurement of observer agreement for categorical data. Biometrics. 1977;33(1):159–174. [PubMed] [Google Scholar]
+
+26. Loewenstein GF, Weber EU, Hsee CK, Welch N. Risk as feelings. Psychol Bull. 2001;127(2):267–286. [PubMed] [Google Scholar]
+
+27. Hornik R. Public health communication: making sense of contradictory evidence. In: Hornik R, ed. Public Health Communication: Evidence for Behavior Change. Manwah, NJ: Lawrence Erlbaum Associated; 2002:1–19.
+
+28. Angell M. The Truth About the Drug Companies: How They Deceive Us and What to Do About It. New York, NY: Random House; 2004.
+
+29. Frist calls for two year ban on direct-to-consumer drug advertising for new drugs [press release]. Washington, DC: Office of Senator Bill Frist; July 1, 2005. Available at: http://frist.senate.gov.
+
+30. Saul S. A self-imposed ban on drug ads. New York Times. June 15, 2005:C7.
+
+31. Pharmaceutical Research and Manufacturers of America. PhRMA Guiding Principles Direct to Consumer Advertising About Prescription Medicines. August 2, 2005. Available at: http://www.phrma.org/files/2005-11-29.1194.pdf; rev. November 2005.
+
+32. Frist welcomes long-overdue scrutiny of direct-to-consumer-advertising [press release]. Washington, DC: Office of Senator Bill Frist. August 2, 2005. Available at: http://frist.senate.gov.
+
+33. Moran M. Complaints lead drug firms to modify ad guidelines. Psychiatr News. Sep 2005: 40:1–38. [Google Scholar]
+
+34. Wolfe SM. Direct-to-consumer advertising—education or emotion promotion? N Engl J Med. 2002;346(7):524–526. [PubMed] [Google Scholar]
+
+35. Gahart MT, Duhamel LM, Dievler A, Price R. Examining the FDA’s oversight of direct-to-consumer advertising. Health Aff (Millwood). 2003;Suppl Web Exclusives:W3-120–123. [PubMed]
+
+36. Burton B. Drug industry to fight New Zealand’s move to ban direct to consumer advertising. BMJ. 2004;328(7447):1036. [PMC free article] [PubMed] [Google Scholar]
+
+37. Burton B. New Zealand moves to ban direct advertising of drugs. BMJ. 2004;328(7431):68. [PMC free article] [PubMed] [Google Scholar]
+
+38. Mansfield PR, Mintzes B, Richards D, Toop L. Direct to consumer advertising. BMJ. 2005;330(7481):5–6. [PMC free article] [PubMed] [Google Scholar]
+
+Articles from Annals of Family Medicine are provided here courtesy of Annals of Family Medicine, Inc.
+
+Cited by other articles
+
+Links to NCBI Databases
+
+Copy Download .nbib .nbib

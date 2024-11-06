@@ -1,0 +1,109 @@
+MENU ABOUT US MAKE A DONATION
+
+Help Center subscribe newsletter Newsstands Epoch Shop Gift
+
+Thinking About China
+
+Unbridled Evil: The Corrupt Reign of Jiang Zemin in China
+
+Organ Harvesting in China
+
+Gold and Commodities
+
+Fine Arts & Craftsmanship
+
+Shen Yun Special Coverage
+
+Tech Products & Reviews
+
+American Thought Leaders
+
+Microsoft Retiring Emotion-Reading Technology, Limiting Access to Facial Recognition Amid Concerns Over Privacy
+
+Silhouettes of laptop and mobile device users next to a screen projection of Microsoft logo on March 28, 2018. (Dado Ruvic/Illustration/Reuters)
+
+By Katabella Roberts
+
+Katabella Roberts is a news writer for The Epoch Times, focusing primarily on the United States, world, and business news.
+
+June 22, 2022Updated: June 22, 2022
+
+Microsoft on Tuesday announced it would stop selling technology that predicts a person’s emotional state and gender amid concerns over its privacy and a lack of consensus on a definition of “emotions.”
+
+Sarah Bird, principal group product manager at Microsoft’s Azure AI unit, announced the decision—part of Microsoft’s efforts to ensure its AI technology is used more responsibly—in a blog post.
+
+It comes after an extensive review resulting in a team at Microsoft developing a “Responsible AI Standard” that guides the company’s AI product development and deployment.
+
+The tech giant will also limit “unrestricted” access to facial recognition technology.
+
+“We will retire facial analysis capabilities that purport to infer emotional states and identity attributes such as gender, age, smile, facial hair, hair, and makeup,” Bird wrote.
+
+“We collaborated with internal and external researchers to understand the limitations and potential benefits of this technology and navigate the tradeoffs. In the case of emotion classification specifically, these efforts raised important questions about privacy, the lack of consensus on a definition of ’emotions,’ and the inability to generalize the linkage between facial expression and emotional state across use cases, regions, and demographics,” Bird continued.
+
+The product manager also noted that application programming interface access to “capabilities that predict sensitive attributes also opens up a wide range of ways they can be misused—including subjecting people to stereotyping, discrimination, or unfair denial of services.”
+
+Such artificial intelligence tools will no longer be available to new customers beginning June 21, 2022. Existing customers will have one year before losing access to them.
+
+“While API access to these attributes will no longer be available to customers for general-purpose use, Microsoft recognizes these capabilities can be valuable when used for a set of controlled accessibility scenarios,” Bird noted.
+
+The group product manager said Microsoft “remains committed to supporting technology for people with disabilities” and will continue to use these capabilities through integration into other applications, such as Seeing AI, a free app that narrates the world for individuals who are blind or who have low vision.
+
+Microsoft will also introduce limited access to its facial recognition technology, and new customers using those technologies must obtain prior approval.
+
+Existing customers of Azure Face API, Computer Vision, and Video Indexer, on the other hand, have one year to apply and get approval for continued access based on their provided use cases.
+
+Beginning June 30, 2023, existing customers will no longer have access to those facial recognition capabilities if their applications are not approved by Microsoft.
+
+In the meantime, the company has asked clients to avoid situations that infringe on privacy or infer intimate personal information such as a person’s sexual orientation.
+
+“Facial detection capabilities (including detecting blur, exposure, glasses, head pose, landmarks, noise, occlusion, and facial bounding box) will remain generally available and do not require an application,” the tech giant said.
+
+Microsoft’s decision comes shortly after an engineer at Google was reportedly placed on paid administrative leave after raising concerns about the “human-like” behavior of one of the company’s artificial-intelligence language models which he described as a “coworker” and a “child.”
+
+Friends Read Free Copy Facebook Tweet Comments
+
+Microsoft Retiring Emotion-Reading Technology, Limiting Access to Facial Recognition Amid Concerns Over Privacy
+
+IN-DEPTH: The 11 Senate Seats Most Likely to Flip in 2024
+
+IN-DEPTH: Supreme Court Made Major Conservative Rulings This Term
+
+US Supreme Court Goes 9–0 in Surprise Ruling | Facts Matter
+
+Ohio Gov. Mike DeWine Asks Biden to Declare Major Disaster After Toxic Train Derailment
+
+NRA Sues Biden Admin Over ‘Unlawful’ ATF Final Rule on Pistol Stabilizing Brace
+
+A Root Cause of Mental Illness: Harvard Professor
+
+CDC OKs New Pfizer, GSK Vaccines Against RSV in Older Adults
+
+9 Science-Backed Benefits of Creatine Beyond the Gym
+
+BMI ‘Is Not a Measurement of Health’: Here Are Better Alternatives, Say Experts
+
+The Essential Guide to Breast Cancer: Symptoms, Causes, Treatments, and Natural Approaches
+
+Elton John Quits America, 250 Hollywood Celebs Issue Threat｜Facts Matter
+
+New Green Scheme: Block Sunlight to Save the Planet From Global Warming
+
+White House Shows Support to Block Out the Sun; France Burns Amid Migrant Riots | Live With Josh
+
+US Supreme Court Goes 9–0 in Surprise Ruling | Facts Matter
+
+Dr. Flavio Cadegiani: From ‘Sciencesplaining’ to Collective Gaslighting, the COVID Pandemic Resulted In a Loss of Compassion
+
+RECOMMENDATIONS FOR YOU
+
+Elton John Quits America, 250 Hollywood Celebs Issue Threat｜Facts Matter
+
+Massive Crowd Comes to Small Town to Support Trump Despite Indictment
+
+IN-DEPTH: The 11 Senate Seats Most Likely to Flip in 2024
+
+French Mayor Alleges Rioters Tried to Assassinate Him in 5th Night of Violence
+
+A Root Cause of Mental Illness: Harvard Professor
+
+Share this with everyone!

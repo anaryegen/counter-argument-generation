@@ -1,0 +1,111 @@
+This article was published on June 7, 2024
+
+Mandatory ID for social media would solve some problems — but create a lot more
+
+Could an EU identification requirement help make online platforms safer and more trustworthy?
+
+June 7, 2024 - 1:04 pm
+
+Social media is central in many of our lives, but few would say that’s a good thing.
+
+Despite its initial promise, swathes of Europeans feel the technology has had a negative impact on society. While it promised to bring us together, the opposite has happened.
+
+Just look at any event from the past few years; whether it’s the war in Ukraine, countries swinging towards populism, or digital election manipulation, it appears social media has taken bad situations and made them worse.
+
+The strange thing is that even though we’ve coexisted with the technology for decades now, we’re no closer to solving these issues — and with the European Parliament elections taking place this week, it’s as good a time as ever to ponder how we might fix this disinformation and toxicity online.
+
+And one idea that won’t go away? Requiring people inside the EU to use identification before they can post on social media. But is this a good idea? Could it help make online platforms safer and more trustworthy?
+
+The latest rumblings from the EU tech scene, a story from our wise ol' founder Boris, and some questionable AI art. It's free, every week, in your inbox. Sign up now!
+
+The societal and political impact of social media
+
+Ben Dubow, a Senior Fellow at The Center for European Policy Analysis (CEPA), says that social media is accused of “promoting a wide variety of ills relating to society and elections.” This includes disinformation, the degradation of teen mental health, extreme polarisation, and foreign interference in state matters.
+
+This viewpoint is supported by Andrew Bud from iProov, a London-based identity verification and authentication service. “Public authorities have gone on record to show that tens of thousands of social media accounts with bogus identities … are being used by foreign adversaries to subvert public confidence and sow confusion about many issues,” he says.
+
+On the surface, things seem clear: social media is being weaponised against both democracy and individuals. Yet it’s not quite as simple as that.
+
+Dubow from CEPA cautions against viewing social media’s negative impact on elections as pure fact. He says that while foreign influence and nefarious bot use is prevalent, “the research establishing their connection to voting patterns or belief formation is still ongoing.”
+
+On this topic, Matthew Lesh — the director of public policy and communications at the UK’s Institute of Economic Affairs (IEA) — tells TNW that “the idea that social media can swing election outcomes, let alone change results, is substantially unproven.”
+
+He believes that most people still get their information from more traditional sources and “the impact of a relatively small amount of false, foreign-generated information is limited.”
+
+In summation, although there is clear evidence that bots and foreign governments are trying to influence elections, there’s little firm proof it’s actually working, even if it might feel as if it is on a personal or societal level.
+
+The upside of identification on social media
+
+Although the political impact of social media is still fiercely debated, both Dubow and Bud emphasised the negative mental health impact it has on people — something with far more science behind it.
+
+As Bud says, “unconstrained bullying and attacks on individuals can have a devastating effect on their mental health, and have been implicated in numerous cases of suicide or depression in victims.”
+
+With all this in mind, could requiring ID to use social media positively impact people both politically and socially?
+
+CEPA’s Dubow believes so. “By massively raising the cost of creating fake personas … online discourse could become more driven by individuals,” rather than the technologically competent or wealthy who can “devote significant time and money to creating bot armies.”
+
+Bud from iProov concurs, saying that tying social media to ID will lead to an increase in personal accountability. It’s this lack of accountability, he believes, which is “at the root of much of the bullying and toxic behaviour found on social media.”
+
+In regards to foreign actors using bots and digital manipulation techniques to try and influence politics, Bud is unequivocal in its effectiveness: “Only ID verification of account holders can solve this — there is no other way.”
+
+The downsides of linking
+
+All this sounds incredibly positive, so should we steam ahead and encourage governments to instil identity verification for social media? That’s probably not the best idea.
+
+Rashik Parmar is the chief executive of BCS, The Chartered Institute for IT in the UK. He says that while the group’s members see benefits in social media verification, “they also recognise that there are serious challenges” to it.
+
+For example, public anonymity is important to large groups of people, especially those in dangerous or vulnerable situations, a long list that includes individuals like whistleblowers.
+
+Lesh from the IEA is even franker. “The linking of identity to social media accounts would be a serious violation of user privacy and freedom of expression,” he says.
+
+He splits the problems into two main points. The first being societal, where he believes requiring ID for posting online would “have a chilling effect on people speaking their minds on social media for fear of repercussions.”
+
+The second point is security. Because digital organisations would actually have to hold this identity data, he believes it would raise all sorts of “hacking and infiltration” risks. Currently, when you have to verify your identity online (think of betting sites) there’s little set protocol for how to handle it. Sometimes it’s held, sometimes it’s deleted. The issue is that by spreading it far and wide, you’re open to more potential for abuse.
+
+All four experts we spoke with were united in the belief that requiring ID for social media has a wealth of potential downsides, with security concerns topping the list of worries.
+
+Finding ways to make it work
+
+Bud from iProov believes that there is a way security concerns can be mitigated: “The user’s identity must be protected and firewalled, for example by holding it in a secure safe harbour, and only connected following a legally sound due process.”
+
+Digital identity in this form is something we’ve spoken about before, specifically the idea of government bodies like the EU holding the data with its Digital Identity Wallet scheme and only allowing verification to third parties, rather than Meta, X, or Snapchat all separately storing your details.
+
+Using this method, those platforms would send a request to an external system about, say, whether the person is over 21, and it receives a yes or no response — not any personal information. These can work using the aforementioned Digital Identity Wallet project, or, indeed, blockchain schemes that aim to put users in control of their own information.
+
+Much of the technology to make this happen already exists, but there isn’t enough interoperability between, say, different governments to make it successful world-wide. Which is a problem on the incredibly global scale of the internet.
+
+The issue, though, is far more societally complex. When it comes to free speech and expression, do we fully trust governments to decide who can and can’t comment? To hold the power over vetting someone to use social media? That sounds like the slipperiest slope around.
+
+Plus, as Lesh says, “it would also remove from public debate many people who do not have identity documents” — which is about 3.5 million adults in the UK alone.
+
+Not rocking the boat
+
+What’s the answer? Should the EU require ID to use social media? There’s no simple response to that. While this policy would have some positive impact on both the political climate and society at large, there will be a swing in the opposite direction too.
+
+By making it harder to use social media, you not only limit who can post, but also restrict the number of ideas circulating. To put it another way, you’re jumping from the frying pan into the fire.
+
+This makes it highly unlikely that the EU will ever require ID for social media. There’s simply too much uncertainty around the move and no clear way to see whether it’d be a net positive or negative.
+
+There would need to be a clearer benefit to making a change this big, something that would deliver a sea change that would outweigh all the potential risks. And requiring ID to use social media isn’t that.
+
+Things, for the moment, will stay as they are online. Sometimes, it’s better the devil you know than the devil you don’t.
+
+Story by Callum Booth
+
+Callum Booth is a freelance journalist with over a decade of experience. Previously, he was the Managing Editor of TNW, where his reporting (show all) Callum Booth is a freelance journalist with over a decade of experience. Previously, he was the Managing Editor of TNW, where his reporting was cited widely, including in VICE, the FT, and the BBC. Callum’s writing has appeared in The Verge, The Daily Telegraph, Time Out, and many more. He covers the full spectrum of technology, with a particular focus on how it shapes our daily lives. And a lot of regulation stuff too. Outside of work, Callum’s an avid bookworm, a Fisherman’s Friends addict, and resolutely unshaven. Follow him on Twitter @CallumBooth or visit www.callumbooth.net.
+
+Get the TNW newsletter
+
+Get the most important tech news in your inbox each week.
+
+Story by Callum Booth
+
+The EU’s DMA is a new take on tech regulation — but that doesn’t mean it’ll work
+
+Social media has new moderation problems. This AI startup has a solution
+
+Join TNW All Access Watch videos of our inspiring talks for free → Sign up now
+
+UK’s controversial Online Safety Bill to become law
+
+EU blocks Booking’s €1.6B takeover of online travel agency Etraveli

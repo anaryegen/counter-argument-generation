@@ -1,0 +1,99 @@
+Want to create or adapt books like this? Learn more about how Pressbooks supports open publishing practices.
+
+9 Rights and Privileges
+
+Unlike some of the moral theories discussed so far, everyone who is reading this primer is likely familiar with the term “rights.” For example, you might have heard of human rights, property rights, or even used phrases like “It’s my right!” in arguments of your own. In its most general sense, a right is simply a claim made against another, thus, insofar as most moral theories imply various claims we have against each other they involve rights in this thin sense. In this section, we focus on the narrower, more substantive sense of rights. It is important to be aware of the two uses of the term, however, as some disputes may rest on equivocations between these two senses.
+
+While the term “right” is often deployed in legal contexts, as with documents like the Canadian Charter of Rights and Freedoms, our focus is on moral rights. Legal rights are articulated by legal codes and enforced by various legal institutions, whereas moral rights are rights that are justified or motivated by moral arguments. In some cases, these rights overlap. After all, one would hope that some legal rights became enforceable by law because there are powerful moral reasons to protect them. Through studying ethics, one may come to realize that a particular moral right should be protected by law or that some laws should be scrapped or changed because they are unfair or otherwise unethical. While arguments at the intersection of ethics and law are beyond the scope of this primer, we do note the tendency for discussions of ethical, political, and legal rights to blur into each other.
+
+So, what are rights? Rights are entitlements or enforceable claims that we make in relation to others. If one is entitled to a certain right, then other individuals or groups are obligated to protect, fulfill, enforce, or at least not violate that right. Suppose you claim that all people have a right to potable drinking water. Such a right brings with it the responsibility for someone to ensure that any given person has access potable drinking water. In this way, rights generate strong duties that we have to each other. If we fail to respect someone’s right to something, then we commit a serious injustice to them. Some philosophers hold that rights override all other moral claims, though this is contentious. As we will see, we often face the challenge of adjudicating among competing rights claims.
+
+9.1 Categorization of Rights
+
+There are several key distinctions that specify different types of rights: negative versus positive rights; active versus passive rights; in rem versus in personam rights; and the distinction between rights and privileges. Identifying these different types of rights and understanding how they relate to each other helps one assess the character of any given rights claim. Moreover, exploring these distinctions elucidates what rights are and how they relate to the actions of rightsholders and those who ought to respect, protect, and uphold rights.
+
+Negative rights are freedoms that obligate others to not interfere with a rightsholder’s actions. For example, you have a right to not be assaulted. This right obligates the rest of us to not physically strike or harm (that is, assault) you. A positive right, in contrast, is a right that entitles one to a specific good or service, obligating at least one other person to ensure one’s access to that good or service. Consider the right to clean drinking water. This right might obligate a parent to ensure that their child has water to drink or obligate a government to ensure that its citizens have access to safe drinking water. In brief, a positive right requires others to do something and a negative right requires that others not do (or forebear from doing) something.
+
+Negative rights can be further subdivided into active and passive rights. Active rights are the rights one has to act in a way that is free from the interference of others. Conversely, passive rights are the rights one holds to not be treated in certain ways. An example of the former is the right to freedom of speech, where one has the right to voice their opinions and say what they believe without someone else silencing them. An example of a passive right is the right to not be discriminated against because of one’s cultural, racial, sexual, political, etc. identities.
+
+Notice that active and passive rights can be in tension with each other. One’s freedom to act without interference (active) is limited by the freedom of others to not have certain things done to them (passive). So, in the above examples, one’s right to freedom of speech is limited by their duty to uphold the right of others to not be discriminated against through actions like hate speech. It is difficult to balance active negative rights with passive negative rights. Different moral theories place different emphases on which rights should override others.
+
+Can you think of other cases where rights claims might compete?
+
+Another key distinction concerns the identification of who bears the obligations to respect, fulfill, or protect a given right, which is captured by the distinction between in personam versus in rem rights. In personam rights hold against one or more specifiable persons. For example, every person has the right to a safe working environment. Because of the relationship between employer and employee, this means employees hold this right against their employers. Thus, employers have an obligation to their employees to make sure their workplace is safe. On the other hand, in rem rights hold against people in general. Recall the right to not be assaulted. This right is not held against specific persons but against anyone and everyone.
+
+Rights—claims that generate correlative duties in other persons or institutions—are contrasted with privileges (also called liberties or freedoms). To have a privilege means that one is free to act (or not act) as they wish, but this freedom is unprotected. This means that it doesn’t entail corresponding duties. For example, if you have a driver’s license, you have the privilege of being allowed to drive. There is no corresponding duty to ensure that you have the means to drive. No one has a responsibility to provide you with a vehicle and the opportunity to drive it. You are simply free to drive if you have the means. Moreover, you do not have a duty to drive. A privilege is is not something you are obligated to do.
+
+Is education a right or a privilege?
+
+Likely, your answer to this question will depend on the kind or level of education you consider.
+
+If education is a right, what kind of right is it?
+
+But, who has rights? In most philosophical and political discourses, the existence of a right means that every individual of equal moral status deserves that right. So, for instance, many philosophers would hold that, in virtue of our dignity as human beings, every non-fetal human has a claim to certain rights. (Note, many rights theorists take “dignity” to mean something like Kantian idea of being an end in itself,[1] discussed above in section 4.3). However, there are others who hold that various nonhuman entities have rights. Most commonly, some have suggested that those nonhuman animals who have capacities and interests that are much the same as the morally relevant capacities and interests found in humans should share some of the same rights as humans. Here again, we see the issue of moral status. The question of who should have rights and which rights they should have is, in effect, the question of who counts morally and how we should count them. Grappling with such questions requires ethicists to go back to moral theories (such as those discussed in Part II) to tease out the underlying justification for the rights in question.
+
+9.4 The Function of Rights
+
+Debates about the character and function of rights address questions regarding what rights do for rightsholders.[2] There are two dominant approaches to the function of rights: the will theory and the interest theory. The will theory holds that rights pertain to dignified moral agents whose status demands that their agency and autonomy be protected by rights. Thus, the main role of rights according to the will theory is to ensure that autonomous individuals have freedom over their actions and, importantly, that others have a duty to respect and not violate that freedom. We can see here the Kantian influence on rights discourse as, in effect, rights are thought to protect the autonomy (or ‘sovereignty’) of those individuals deemed ends in themselves. Conversely, the interest theory highlights the importance of protecting interests that are critical to one’s well-being. Here, we might think that consequentialist theories (like utilitarianism) are likely to be the most effective grounds for justifying and elucidating such claims.
+
+While these theories overlap in some of the rights they advocate, the different approaches may interpret these rights in importantly different ways. For instance, both will theorists and interest theorists may think that people have a right to health care. However, the will theorist would likely emphasize the importance of health care for protecting our autonomy and dignity, which may be threatened by illness or injury. In contrast, the interest theorist would view health as one of a set of important interests that are constitutive of one’s well-being and flourishing as a person.[3] These different theoretical perspectives will tend to produce very different views of the goals of health care, and on how access to health care should be provided. For example, will and interest theorists may disagree on how much should one be taxed to subsidize the healthcare system or which areas of the healthcare system deserve more resources. Both theories are subject to various difficulties and criticisms and recourse to more basic ethical theory is often required to resolve disputes.
+
+9.5 Objections to a Rights Approach
+
+Despite its ubiquity in moral and especially political discourse, there are a number of difficulties with a rights approach. As noted, rightsholders make claims against others who have corresponding duties. However, it is often difficult to know who is obligated to ensure and protect a given right. Consider the claim that all humans have a right to clean drinking water. Whose duty is it to ensure that people in our own community or elsewhere have access to water? Do we have an obligation to our neighbours to ensure that they have potable water? Is the local or national government responsible? Or, does the international community have a responsibility to ensure that all people have access to clean water? If so, does that mean that those of us who are university students and professors have a moral obligation to provide clean water to others across the world? Setting aside the practical problems of motivating people to protect the rights of strangers on the other side of the globe and the political dangers of interfering in another nation’s internal politics, the theoretical problem remains of how to determine who is obligated to protect this right.
+
+Another difficulty of a rights approach is determining which rights are the most deserving of protection when rights conflict. As mentioned above (section 9.1), it is common for certain active rights to be limited by passive rights. However, this becomes more complicated when interest theorists and will theorists debate the various kinds of rights that ought to be respected, protected, upheld, or prioritized. Both approaches have their weaknesses. Neither has decisive replies to the problems of the other. Typically, intractable debates about competing rights require us to return to the ethical theories that ground them, reserving rights language for political discourses and legal contexts.
+
+Can you think of a case where an individual or group incorrectly made a rights claim?
+
+Why were they wrong?
+
+Because of the complexity of rights, their limits, and their entailments, many people use rights language incorrectly. Now you have some tools to analyse rights claims in everyday discourse you should be able to think more critically about what people mean when they say they have a right!
+
+In addition to the sources in the footnotes, the following may be helpful:
+
+Metz, Thaddeus. “Ubuntu as a Moral Theory and Human Rights in South Africa.” African Human Rights Law Journal 11, no. 2 (2011): 532-59. https://www.ahrlj.up.ac.za/metz-t.
+
+O’Neill, Onora. “The Dark Side of Human Rights.” International Affairs 81, no. 2 (March 2005): 427-39. https://www.jstor.org/stable/3568897.
+
+Rainbolt, Georege. “Rights.” In Ethics in Practice: An Anthology (5th edition), edited by Hugh LaFollette, 53-61. Oxford: Wiley Blackewell, 2020.
+
+Sreenivasan, Gopal. “A Hybrid Theory of Claim-Rights.” Oxford Journal of Legal Studies 25, no. 2 (July 2005): 257–74. https://doi.org/10.1093/OJLS/GQI013.
+
+Wenar, Leif. “The Nature of Rights.” Philosophy and Public Affairs 33, no. 3 (July 2005): 223-52. https://doi.org/10.1111/j.1088-4963.2005.00032.x.
+
+Wenar, Leif. “Rights and What We Owe to Each Other.” Journal of Moral Philosophy 10, no. 4 (January 2013): 375-99. https://doi.org/10.1163/174552412X628968.
+
+Leif Wenar, "Rights", in The Stanford Encyclopedia of Philosophy, ed. Edward N. Zalta (Spring 2021 Edition), §6.1. https://plato.stanford.edu/archives/spr2021/entries/rights. ↵
+
+Wenar, "Rights," §2.2. ↵
+
+John D. Arras, "The Right to Health Care," in Routledge Philosophy Companions: Routledge Companion to Bioethics, ed. John D. Arras, Rebecca Kukla, and Elizabeth Fenton (Florence, KY, USA: Taylor and Francis, 2014), 7. ↵
+
+Rights that are articulated and upheld by legal codes and practices ×Close definition
+
+Rights that are justified by moral arguments ×Close definition
+
+Entitlements or enforceable claims we make in relation to others; one individual's rights confer duties on others ×Close definition
+
+Rights that one holds against the interference of others ×Close definition
+
+Rights that entitle one to a good or service ×Close definition
+
+The rights one has to act in ways that are free from the interference of others ×Close definition
+
+The rights one holds to not be treated in certain ways ×Close definition
+
+Rights that hold against one or more specifiable people or groups ×Close definition
+
+Rights that hold against all people and groups in general ×Close definition
+
+Unprotected freedoms that do not entail corresponding duties in others; also referred to as "liberties" ×Close definition
+
+The view that rights function to protect the autonomy of all persons; rights define individuals as moral agents whose status demands that their agency and autonomy be protected ×Close definition
+
+Capacity for self-governance; the ability to act in accordance with one's preferences, beliefs, and desires ×Close definition
+
+The view that rights claims are justified when they would protect interests that are essential for the flourishing of the individual in quesiton ×Close definition
+
+Applied Ethics Primer Copyright © 2021 by Letitia Meynell and Clarisse Paron is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License, except where otherwise noted.

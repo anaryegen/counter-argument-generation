@@ -1,0 +1,101 @@
+Academic rigor, journalistic flair
+
+The rich are pouring millions into life extension research – but does it have any ethical value?
+
+Published: April 10, 2023 4:02pm EDT
+
+Julian Koplin, Monash University, Christopher Gyngell, The University of Melbourne
+
+Lecturer in Bioethics, Monash University & Honorary fellow, Melbourne Law School, Monash University
+
+Research Fellow in Biomedical Ethics, The University of Melbourne
+
+Disclosure statement
+
+Julian Koplin receives funding from Ferring Pharmaceuticals.
+
+Christopher Gyngell via his affiliation with the Murdoch Children's Research Institute received funding from the Victorian State Government via the Operational Infrastructure Support Program. He also receives funding from the Medical Research Future Fund.
+
+Monash University and University of Melbourne provide funding as founding partners of The Conversation AU.
+
+Sam Altman, the chief executive of OpenAI, recently invested US$180 million into Retro Biosciences – a company seeking to extend human lifespans by ten healthy years.
+
+One way it plans to achieve this is by “rejuvenating” blood. This idea is based on studies that found old mice showed signs of reversed ageing when given the blood of young mice.
+
+Altman isn’t the only Silicon Valley entrepreneur supporting life extension efforts. PayPal cofounder Peter Thiel, Amazon founder Jeff Bezos and Google cofounder Larry Page have poured millions into projects that could profoundly affect how we live our lives.
+
+The first question raised is scientific: could these technologies work? On this front the jury is still out, and there are grounds for both optimism and scepticism.
+
+Read more: Can ageing really be 'treated' or 'cured'? An evolutionary biologist explains
+
+The second question is just as important: even if lifespan extension is feasible, would it be ethical?
+
+We explain why some common ethical arguments against lifespan extension aren’t as solid as they might seem – and put forth another, somewhat overlooked explanation for why trying to live forever might not be worth it.
+
+Is it worth it if you still die anyway?
+
+One might argue lifespan extension merely pushes back the inevitable: that we will die. However, the problem with this view is that any life saved will only be saved temporarily.
+
+A lifespan extension of ten years is akin to saving a drowning swimmer, only for them to die in a traffic accident ten years later. Although we might be sad about their eventual death, we’d still be glad we saved them.
+
+The same is true of conventional medicine. If a doctor cures my pneumonia, I will eventually die of something else, but that doesn’t mean the doctor or I will regret my being saved.
+
+It’s also worth taking a longer view of where lifespan extension research could lead us. In the most optimistic scenarios put forth by experts, even modest short-term gains could help people add centuries to their life, since the benefits of each intervention could cascade. For example, each extra year of life would increase the likelihood of surviving until the next big breakthrough.
+
+Some philosophers have pointed out that immortality, while it may initially be desirable, would eventually lose its sheen. Shutterstock
+
+Is it worth it if immortality could get boring?
+
+Many have argued against lifespan extension on ethical grounds, saying they wouldn’t use these technologies. Why might somebody be opposed?
+
+One worry is that a very long life might be undesirable. Philosopher Bernard Williams said life is made valuable through the satisfaction of what he calls “categorical desires”: desires that give us reason to want to live.
+
+Williams expects these desires relate to major life projects, such as raising a child, or writing a novel. He worries that, given a long enough life, we will run out of such projects. If so, immortality would become tedious.
+
+It’s unclear whether Williams is right. Some philosophers point out human memories are fallible, and certain desires could resurface as we forget earlier experiences.
+
+Others emphasise that our categorical desires evolve as our life experiences reshape our interests – and might continue to do so over the course of a very long life.
+
+In either case, our categorical desires, and hence our reason for living, would not be exhausted over a very long life.
+
+Even if immortality did get tedious, this wouldn’t count against modest lifespan extensions. Many would argue 80-something years isn’t enough time to explore one’s potential. Personally, we’d welcome another 20 or even 50 years to write a novel, or start a career as a DJ.
+
+Is it worth it if poor people miss out?
+
+Another worry regarding lifespan extension technologies is egalitarian.
+
+These technologies will be expensive; it seems unjust for Silicon Valley billionaires to celebrate their 150th birthdays while the rest of us mostly die in our 70s and 80s.
+
+This objection seems convincing. Most people welcome interventions that promote health equality, which is reflected in broader societal demands for universal healthcare.
+
+But there’s important nuance to consider here. Consider that universal healthcare systems promote equality by improving the situation of those who aren’t well off. On the other hand, preventing the development of lifespan extension technologies will worsen the situation of those who are well off.
+
+The ethical desirability of equality based on “levelling down” is unclear. The poorest Australians are twice as likely to die before age 75 than the richest. Yet few people would argue we should stop developing technologies to improve the health of those aged over 75.
+
+Moreover, the price of lifespan extension technologies would eventually likely come down.
+
+However, we think there’s one serious ethical objection that applies to extreme cases of life extension. If humans routinely lived very long lives, this could reduce how adaptable our populations are, and lead to social stagnation.
+
+Even modest increases in life expectancy would radically increase population size. To avoid overpopulation, we’d need to reduce birth rates, which would drastically slow generational turnover.
+
+As one of us (Chris) has explored in previous research, this could be incredibly harmful to societal progress, because it may:
+
+increase our vulnerability to extinction threats
+
+jeopardise individual wellbeing, and
+
+impede moral advancement.
+
+Many fields benefit from a regular influx of young minds coming in and building on the work of predecessors.
+
+Even if the brains of older scientists remained sharp, their “confirmation bias” – a tendency to seek and interpret information in ways that confirm one’s prior beliefs – could slow the uptake of new scientific theories.
+
+Moral beliefs are also prone to confirmation bias. In a world of extended lifespans, individuals whose moral views were set in their youth (perhaps more than 100 years ago) will remain in positions of power.
+
+It seems likely our society’s moral code is badly mistaken in at least some respects. After all, we think past societies were catastrophically mistaken in theirs, such as when they endorsed slavery, or rendered homosexuality illegal.
+
+Slowing generational turnover could delay the point at which we recognise and fix our own moral catastrophes, especially those we can’t yet see.
+
+Read more: Life extension: the five most promising methods – so far
+
+Write an article and join a growing community of more than 190,100 academics and researchers from 5,047 institutions.

@@ -1,0 +1,43 @@
+Skip to main content
+
+3893515846be674a0211a368ce789704
+
+Geoengineering refers to a set of emerging technologies that could manipulate the environment and partially offset some of the impacts of climate change. Solar geoengineering in particular could not be a replacement for reducing emissions (mitigation) or coping with a changing climate (adaptation); yet, it could supplement these efforts.
+
+Geoengineering is conventionally split into two broad categories:
+
+The first is carbon geoengineering, often also called carbon dioxide removal (CDR). The other is solar geoengineering, often also called solar radiation management (SRM), albedo modification, or sunlight reflection. There are large differences.
+
+Carbon geoengineering seeks to remove carbon dioxide from the atmosphere, which would address the root cause of climate change — the accumulation of carbon dioxide in the atmosphere. In the chain from emissions to concentrations to temperatures to impacts, it breaks the link from emissions to concentrations.
+
+Solar geoengineering seeks to reflect a small fraction of sunlight back into space or increase the amount of solar radiation that escapes back into space to cool the planet. In contrast to carbon geoengineering, solar geoengineering does not address the root cause of climate change. It instead aims to break the link from concentrations to temperatures, thereby reducing some climate damages.
+
+Solar geoengineering
+
+There are several proposed solar geoengineering technologies. These include marine cloud brightening, cirrus cloud thinning, space-based techniques, and stratospheric aerosol scattering, amongst others.
+
+Marine cloud brightening would attempt to brighten marine clouds to reflect more sunlight back into space.
+
+Cirrus cloud thinning would attempt to reduce the thin, high-altitude cirrus clouds to emit more long-wave radiation from the earth to space.
+
+Space-based technologies would attempt to reflect a small fraction of sunlight away from the earth by positioning sun shields in space.
+
+Lastly, stratospheric aerosol scattering would introduce tiny reflective particles, such as sulfate aerosols or perhaps calcium carbonate, into the upper atmosphere, where they could scatter a small fraction of sunlight back into space.
+
+More information can be found on the Technology Factsheet: Solar Geoengineering from the Harvard Belfer Center and Center for Research on Computation and Society (CRCS).
+
+Solar Geoengineering Benefits and Risks
+
+Climate models have consistently shown that solar geoengineering, when used in moderation and combined with emissions cuts, has the potential to reduce climate changes around the globe. For example, it could reduce climate impacts such as extreme temperatures, changes in water availability, and intensity of tropical storms.
+
+However, any benefits come with novel risks and significant uncertainty. For example, while the latest science might show some benefits globally, local impacts could vary more widely. There are a lot of other scientific uncertainties that are not yet well understood, not least the enormous governance challenges.
+
+Also, solar geoengineering (largely) does not address ocean acidification. Every year, the ocean absorbs about one-quarter of the carbon dioxide we emit into the atmosphere, changing the chemistry of the oceans and harming marine ecosystems. Given that solar geoengineering would not remove carbon dioxide from the atmosphere directly, but rather reflect sunlight back to space, it could do little to address this serious problem except via carbon cycle feedbacks, the process through which additional carbon is emitted into the atmosphere upon additional warming.
+
+That said, solar geoengineering could reduce rising temperatures, offsetting many impacts on the oceans. For example, by reducing sea surface temperatures, it could reduce the risk of coral bleaching events and help to maintain conditions favorable for coral reefs (as the damage to coral reefs is largely caused by rising sea surface temperatures, followed by intensifying ocean acidification). Solar geoengineering could also reduce poleward shifts in species ranges, which has been posing serious risks to tropical fisheries. And it could lessen the amount of sea-ice loss, which could reduce the impacts on high-latitude ecosystems and climate, and help to limit changes in ocean circulation and glacier melt.
+
+In any case, solar geoengineering could not be a substitute for cutting carbon dioxide pollution. It could only be a potential supplement.
+
+Solar Geoengineering Research
+
+Research could reduce uncertainty about the technology’s potential benefits and risks, but, for decades, research in solar geoengineering has been limited. This has been in part because of a fear that it could lesson efforts to cut emissions. There have also been concerns pertaining to its ethics, governance, and potential impacts to the climate system. Recently the U.S. National Academy of Sciences and major environmental groups such as the Environmental Defense Fund and the Natural Resources Defense Council have begun to support careful research. The U.S. also published the Climate Science Special Report, which discussed geoengineering and called for further research. The report was a key part of the Fourth National Climate Assessment, which the U.S. Global Change Research Program (USGCRP) oversaw.

@@ -1,0 +1,295 @@
+Back to Top Skip to main content
+
+An official website of the United States government Here's how you know
+
+The .gov means it’s official. Federal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you’re on a federal government site.
+
+The site is secure. The https:// ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely.
+
+Log in Show account info
+
+Logged in as: username
+
+Access keys NCBI Homepage MyNCBI Homepage Main Content Main Navigation
+
+The PMC website is updating on October 15, 2024. Learn More or Try it out now.
+
+As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with, the contents by NLM or the National Institutes of Health. Learn more: PMC Disclaimer | PMC Copyright Notice
+
+Can J Psychiatry. 2014 Mar; 59(3): 141–147.
+
+doi: 10.1177/070674371405900305
+
+Language: English | French
+
+Suicide: Rationality and Responsibility for Life
+
+Angela Onkay Ho, HBSc, MD1
+
+1Psychiatry Resident, Department of Psychiatry, University of Toronto, Toronto, Ontario;
+
+Find articles by Angela Onkay Ho
+
+1Psychiatry Resident, Department of Psychiatry, University of Toronto, Toronto, Ontario;
+
+Correspondence: Department of Psychiatry, University of Toronto, 250 College Street, 8th Floor, Toronto, ON M5T 1R8; ac.otnorot.inmula@oh.jna.
+
+Received 2013 Jun; Revised 2013 Aug; Accepted 2013 Aug.
+
+Death by suicide is widely held as an undesirable outcome. Most Western countries place emphasis on patient autonomy, a concept of controversy in relation to suicide. This paper explores the tensions between patients’ rights and many societies’ overarching desire to prevent suicide, while clarifying the relations between mental disorders, mental capacity, and rational suicide.
+
+A literature search was conducted using search terms of suicide and ethics in the PubMed and LexisNexis Academic databases. Article titles and abstracts were reviewed and deemed relevant if the paper addressed topics of rational suicide, patient autonomy or rights, or responsibility for life. Further articles were found from reference lists and by suggestion from preliminary reviewers of this paper.
+
+Suicidal behaviour in a person cannot be reliably predicted, yet various associations and organizations have developed standards of care for managing patients exhibiting suicidal behaviour. The responsibility for preventing suicide tends to be placed on the treating clinician. In cases where a person is capable of making treatment decisions—uninfluenced by any mental disorder—there is growing interest in the concept of rational suicide.
+
+There is much debate about whether suicide can ever be rational. Designating suicide as an undesirable event that should never occur raises the debate of who is responsible for one’s life and runs the risk of erroneously attributing blame for suicide. While upholding patient rights of autonomy in psychiatric care is laudable, cases of suicidality warrant a delicate consideration of clinical judgment, duty of care, and legal obligations.
+
+Keywords: suicide, ethics, rational suicide, legal, responsibility for life, standards of care, guidelines, capacity, body ownership
+
+La mort par suicide est généralement vue comme un résultat indésirable. La plupart des pays occidentaux mettent l’emphase sur l’autonomie du patient, un concept controversé relativement au suicide. Cet article explore les tensions entre les droits des patients et le désir ardent de nombreuses sociétés de prévenir le suicide, tout en clarifiant les relations entre les troubles mentaux, la capacité mentale, et le suicide rationnel.
+
+Une recherche de la littérature a été menée à l’aide des mots clés suicide et éthique, dans les bases de données PubMed et LexisNexis Academic. Les titres et résumés d’articles ont été étudiés et jugés pertinents si l’article abordait les sujets du suicide rationnel, de l’autonomie ou des droits des patients, ou de la responsabilité de la vie. D’autres articles ont été repérés dans des bibliographies et par des suggestions des réviseurs préliminaires du présent article.
+
+Le comportement suicidaire d’une personne ne peut pas être assurément prédit et pourtant, diverses associations et organisations ont mis au point des normes de soins pour prendre en charge les patients présentant un comportement suicidaire. La responsabilité de prévenir le suicide tend à être imposée au clinicien traitant. Dans les cas où une personne est capable de prendre des décisions de traitement—qui ne sont pas influencées par un trouble mental quelconque—il y a un intérêt croissant pour le concept du suicide rationnel.
+
+Il y a un débat nourri sur la question de savoir si le suicide peut jamais être rationnel. Classer le suicide comme geste indésirable qui ne devrait jamais se produire soulève la question de savoir qui est responsable de la vie de quelqu’un et court le risque d’attribuer à tort le blâme du suicide. Bien que le respect des droits des patients à l’autonomie dans les soins psychiatriques soit louable, les cas de suicidabilité demandent un examen minutieux du jugement clinique, du devoir de diligence, et des obligations juridiques.
+
+Among mental health care providers, there is a 20% to 50% chance of patient death by suicide during one’s professional career and training.1–3 Institutions, professional associations, and government bodies have outlined policies and strategies for managing suicidal patients, with goals of reducing suicide risk and minimizing or eliminating the occurrence of suicides. In addition, case law has evolved in the past few decades, allowing malpractice suits to be filed against hospitals or clinicians treating patients who die by self-injury deemed due to professional negligence.4 According to the American Psychological Association Insurance Trust, suicide was the sixth most common claim, with money paid on such claims being the second highest.5 It is clear that there is high value placed on patients’ lives, and death by suicide is widely held as an undesirable outcome.
+
+This paper will explore the tensions between patients’ rights and most societies’ overarching desire to prevent suicide, with considerations of patient autonomy,6 a concept of controversy in relation to suicide. After highlighting historical perspectives of suicide and outlining the current legal climate relating to responsibility for patients’ lives, the case for rational suicide will be explored. The relations between mental disorders, capacity, rationality, and suicidality will be clarified. Lastly, this paper will examine the implications of assigning responsibility for individual patients’ lives to mental health practitioners or institutions—including potentially detrimental effects on both practitioners and patients themselves.
+
+Historical Perspectives
+
+Suicide has been examined from various perspectives, most broadly categorized as moralist, libertarian, and relativist views.7,8 For moralists, protecting life and preventing suicide is a moral obligation. Philosophers, such as Kant, maintain that humanity is an end in itself, meaning that the individual should be considered an end, rather than a means to an end.9 Thus a person contemplating suicide is seen as using the self as a means to an end (that is, with an expected consequence), rather than as an end itself, which is unacceptable to Kantians. Plato emphasized peoples’ obligations to society, with suicide being inconsistent with the greater good.10 The moral perspective is evident in countries such as Singapore and India, where attempted suicide is a punishable offence.11,12
+
+From the libertarian perspective, suicide can be a carefully contemplated decision, often rationalized as a reasonable response to avoid pain or suffering. Libertarians value freedom of choice, and the decision to die by suicide is a right. This attitude is reflected in countries where suicidal behaviour has been decriminalized or euthanasia has been legalized. Further to this philosophy, the right to suicide includes the right of noninterference from others, although this is not necessarily enforced in legal statutes. In Canada, for example, where suicide and attempted suicide were abolished as offences in 1972,13 a health care provider has not been successfully sued or convicted for assault after trying to prevent a patient from attempting suicide.
+
+Clinical Implications
+
+Clinicians should recognize that suicidality may not necessarily be driven by mental illness, lack of rationality, or lack of mental capacity.
+
+Policies and guidelines for managing suicidality should consider cases of rational suicide and provide a unique approach to exploring such suicidality with patients.
+
+Mental health care providers are encouraged to explore suicidal ideation with patients and seek further consultations as needed.
+
+Attributing responsibility for a patient’s life is a complex undertaking, with consequences for people and institutions, influenced by the legal, ethical, and professional obligations of health care providers.
+
+This paper is not a systematic review of the literature.
+
+Further, suicidality is a complex topic with varying philosophical, ethical, and legal perspectives.
+
+This paper does not fully explore related issues such as assisted suicide or euthanasia, do not resuscitate orders, advanced directives, or particular cases where terminally ill patients have comorbid psychiatric illness.
+
+From the relativist perspective, the obligation to protect life varies, and the acceptability of suicide depends on a cost-benefit analysis of variables, including situational, cultural, and contemporary factors.14 The acceptability of suicide will depend on the needs of the individual, the family, and society in that moment,8 meaning that the cost-benefit analysis is influenced by a desire to maximize the social utility of a suicide or nonsuicide.
+
+Currently, the libertarian stance is most widely held in Western countries, with an emphasis on patient autonomy among bioethicists.15 As such, patients are viewed as having ownership of their bodies and can choose to die by suicide. The late Dr Thomas Szasz criticized psychiatry for medicalizing suicide to be a mental illness or disease, describing psychiatrists as coercively gaining control over suicidal patients by becoming responsible for their lives and using suicidality to justify involuntary hospitalization and treatment. Moreover, he disapproved of the language used to describe self-killing because committing suicide suggests an act of badness or madness, akin to a crime.16 The Liberterian viewpoint corresponds with that of many contemporary suicidology academes, leaving mental health clinicians in a bind when considering competing clinical and legal pressures.
+
+Most data in the literature relate to the legal climate in the United States. Although current law typically does not hold one person responsible for the acts of another, suicidal acts and self-destructive acts appear to be an exception.17 Claims arising from patient suicide are the most frequent type of malpractice lawsuits filed against psychiatrists, typically arising regarding inpatients and recently discharged inpatients, although there is increasing risk of lawsuits against clinicians treating outpatients.5,18,19
+
+Many malpractice claims focus on issues relating to negligence, such as foreseeability and causality,20 based on a premise that most suicides are preventable if foreseeable and if appropriate steps are taken to prevent suicide.
+
+Current standards of care for managing inpatients exhibiting suicidal behaviour have developed in response to input from professional organizations, clinical practice experience, case law, legal commentary on case law, and suicidologists’ commentary on cases settled outside of court.21 Guidelines from the Canadian Psychiatric Association recommend aggressive treatment of people with depression who are suicidal.22 However, it should be noted that practice guidelines do not conclusively or exclusively represent the standard of care,18 defined as the “degree of care which a reasonably prudent person should exercise under same or similar circumstances”23, p 1404—and which is not equivalent to ideal or optimal care either. The duty of care required is proportionate to a patient’s needs, based on history and mental status.21
+
+For inpatients who have been identified as being suicidal, the hospital is responsible for safe-guarding the person from self-inflicted injury or death.24 Following a patient’s suicide, psychiatrists and health care facilities may be targets of lawsuits, with allegations of failure to take an adequate history, failure to foresee the potential for suicidal behaviour, failure to supervise a suicidal patient adequately, or failure of the duty to protect from self-harm.19,24–29 A hospital may be found liable when adequate standards for protection are not followed; however, if reasonable steps were taken to assess and supervise a suicidal patient, a hospital will typically not be found liable.29 For outpatients who have been identified as suicidal, treating psychiatrists have a duty to take protective measures,30 but may be subject to allegations of failure to properly assess the need for psychopharmacological intervention, use of unsuitable pharmacotherapy, failure to safeguard the outpatient environment, or failure to specify criteria for and to implement hospitalization.19
+
+The Canadian medical liability model strives to balance patient safety and prevention, care provider or institutional accountability, and liability and compensation.31 Physicians are not expected to be infallible in predicting suicide, but to demonstrate a reasonable degree of skill, knowledge, and care that would reasonably be expected of a practitioner of the same experience.32 Although suicide is a multi-faceted, multi-causal product that cannot be predicted reliably,19,28,33,34–37 the law focuses on proximate cause.38 Mental health professionals are held responsible for identifying potential risks for suicide and preventing suicide, with the rationale that failing to assess for suicidality leads to a failure to implement management plans that could have reduced the risk.20 However, it is recognized that hospitalization itself does not necessarily prevent suicide.5 Clinicians face clinical pressures to avoid hospitalizing patients unnecessarily, yet can be threatened by legal liability if they do not hospitalize people who are suicidal,39 leading to criticisms that psychiatric practice is becoming influenced by political, legal, and regulatory factors, rather than scientific evidence.40
+
+Differentiating Mental Illness From Incapacity and Irrationality
+
+Clinically, suicidal behaviour has mostly been viewed as a manifestation of distress or disorder in one’s mental state.34,35 Most guidelines for managing people with suicidal ideation and suicidal behaviour are written based on the perspective that suicidality is driven by a mental disorder, with a lack of capacity for informed and rational decision-making processes regarding suicide. It is argued that the transforming effects of an illness, such as depression, for example—with constricted cognitive and psychological perspectives—compromise patient autonomy rights, therefore justifying a mental health clinician or hospital to assume ownership of the patient’s body to prevent suicide15; however, even in cases where one has received psychiatric treatment for mental illness and is no longer suffering from disordered affect or thinking process and is therefore capable of making informed decisions, a person’s symptomatic recovery may still be accompanied by a view of the future being hopeless and therefore unworthy of continuing.36 Thus the focus shifts to whether suicide driven by psychological pain—but not a diagnosable mental disorder—is a voluntary decision made with full appreciation of the possible benefits, risks, and consequences.
+
+Mental illness is often equated to irrationality, most often in cases of schizophrenia, but it has been argued that more attention should be paid to isolated irrationality rather than assuming global irrationality.37 Specifically, a diagnosis of schizophrenia does not necessarily constitute global irrationality because one may still have a connection with reality, despite disorganized speech and behaviour. Likewise, a person with delusions may misinterpret or misattribute the importance of stimuli or events, yet maintain a rational response that demonstrates coherence between beliefs and actions.41 For example, in response to persecutory delusions, desire to die by suicide could be argued to be a logical means of self-protection to escape persecution. Thus reasoning processes can remain intact despite anomalous perceptual disturbances or specific delusions isolated to one theme42: the decision to die by suicide may indeed be internally consistent with the original persecutory delusion, making the decision to die by suicide acceptable owing to coherence rationality. However, most would agree that the irrationality of the delusional foundational belief supersedes the rationality of the subsequent beliefs and actions.
+
+While legal statutes facilitate involuntary hospitalization for those who are at serious risk of harm to self due to a mental illness, little is said about managing cases of suicidality in people without mental illness and with intact mental capacity, and who should therefore be able to make rational decisions.
+
+As a human virtue, rationality is typically upheld as a positive attribute, and in some instances, it may also be superseded by moral considerations.43 For example, a proposal to die by suicide as a means of protecting or saving others’ lives could likely be viewed as altruistic, rather than irrational. Rationality also requires logical consistency between one’s behaviours and first-order desires or goals.44 Following this, death by suicide may arguably be justified to achieve a higher-order goal of reducing suffering.43
+
+A discussion on rational suicide is warranted after recognizing that mental illness does not automatically lend itself to irrationality: people without psychiatric illness can freely desire suicide or a hastened death based on carefully contemplated, logical decision-making processes. This concept is most commonly described in cases of people with terminal illness and no comorbid psychiatric disorder who wish to speed up the dying process by receiving aid in dying or by having life support withheld or withdrawn. Assuming that the decision is uninfluenced by the coercion of others, the desire for hastened death is considered a rational decision to avoid the unbearable suffering associated with terminal illness.45 To acknowledge this perspective, organizations such as the Oregon Department of Human Services have modified terminology to no longer refer to cases of hastened death by terminally ill patients as suicide.46
+
+Among clinicians serving patients with chronic, treatment-resistant mental illness, there is increasing interest in recognizing that the suffering due to a mental disorder may be akin to suffering from a terminal illness.45 Desire to escape unendurable suffering, regardless of etiology, could then be seen as a rational response.
+
+An enlightening discussion on the topic of rational suicide and autonomy is further highlighted in the Canadian case of Amy,47 an elderly woman with lymphoma who declined treatment, and who was admitted to hospital after an extensively planned suicide attempt. She was noted to have paranoid and eccentric traits, and after multiple consultations and assessments, she was deemed to not be suffering from an identifiable psychiatric illness. Her case was discussed in rounds with ethics and psychiatric representatives, with her ongoing desire for suicide found to be rational. She was discharged from hospital after indicating that she would not take her life, but her body was found in the harbour soon afterwards. Subsequent discussions regarding this case have challenged the long-held belief that suicidality, in and of itself, is evidence of mental illness, citing the importance of respecting individual patient values, which may not be aligned with the cultural norm48; however, in one large-scaled study of suicides in Missouri,49 based on interviews with family members and other collaterals, the overwhelming majority of suicides were associated with affective or alcohol-related disorders, suggesting that rational suicide is rare at most.
+
+With the predominant attitude of suicide being irrational and due to mental illness, current practice guidelines for managing patients with suicidal behaviours do not address the concept of rational suicide.50 Recommended standards of care for psychiatric in- and outpatients recommend that clinicians form an understanding of legal perspectives of suicide, legal definitions of negligence, common causes of malpractice actions, and duty to prevent suicide through reasonable care and skills, in addition to understanding assessment, intervention, and postvention procedures.21,51,52 Unfortunately, psychiatrists and other mental health professionals may not have sufficient training to distinguish between people whose suicidal intent is freely chosen, compared with influenced by psychiatric illness.53,54 Proposed guidelines to assist mental health professionals in assessing people considering a hastened death or rational suicide have been drafted, but these pertain to assisted death, rather than individual suicide.55 These guidelines may ultimately influence national associations or organizations to develop codes of ethics in discussing rational suicide by the individual.
+
+Responsibility for Life and Suicide
+
+The Canadian government’s lack of support for suicide research has been criticized, with gaps in the literature in areas including policy research.56 In 2012, however, the Federal Framework for Suicide Prevention was enacted,57 indicating that suicide prevention is everyone’s responsibility and articulating the government’s responsibility in defining best practices for the prevention of suicide along with promoting information dissemination and research. The Joint Commission on Accreditation of Healthcare Organizations mandates that health care organizations identify patients at risk for suicide while they are inpatients or following discharge. It is expected that organizations perform a risk assessment, address immediate safety needs with the most appropriate treatment setting, and provide suicide prevention information on discharge. The rationale for this process is that suicide is one of the most frequently reported sentinel events—unexpected occurrences involving death or serious physical or psychological injury.58 Similarly, health care quality organizations consider inpatient suicides or attempted suicides resulting in serious disability to be preventable events.59 This perspective may influence the provision of care and practice of medicine to be more defensive on the part of clinicians, with sequelae that may be harmful to patients, including removing patient autonomy and impeding patient-centred care.
+
+In considering cases where people without identified mental disorders are suicidal, there is no current legal obligation to involuntarily hospitalize or intervene to prevent death; however, perspectives from case law and guidelines regarding managing suicidal patients all suggest that the mental health professional has a responsibility to intervene. This is where risk management protocols begin to encroach on the right to suicide and respect for autonomy, as it may not seem justified to remove a person’s autonomy.60
+
+Conversely, upholding patient autonomy with no limit can place unreasonable demands on health care providers.61 For example, a patient who attempts suicide but creates a living will to reject life-saving treatment leaves clinicians having to reject their human instincts to assist others and the principle of beneficence, begging the question of to what extent should a suicidal patient’s rights be protected? With libertarian views, patient autonomy has begun to trump clinical duties to protect life.6
+
+Further, by setting a standard of suicide being an event that should never occur, it raises the question of who is responsible for a person’s life, with a risk of erroneously attributing blame for suicides. This perspective presents death as the greatest of harms, possibly ignoring the legitimacy of unendurable psychological suffering as being equally harmful. Thus, for a suicide to qualify as rational, clinicians must recognize that the aim of ending psychological or physical suffering may be a worthy reason for suicide. Likewise, death would no longer be necessarily viewed as a harm or failure.62,63
+
+Given the spectrum of risk of harm to self, the threshold or the criteria for intervening are unclear. In considering broader societal examples, people may pose harm to themselves by participating in dangerous extreme sports, making poor health choices, or self-harming. Although the risk of death may be higher from dangerous sporting activities, there is no legal impetus to prevent one from participating. Clearly, the risk of harm from such different activities is variable, yet there is no clear correlation between the potential seriousness of harm and the degree of rights removed.14
+
+Over time, hospital policies have shifted to encourage patients’ own responsibility for their treatment, therefore no longer requiring strict observation and overly restrictive environments in all cases where the patient is suicidal.64 Patients admitted to hospital have responsibility for their lives returned if they are able to manage their emotions, impulses, and suicidal tendencies.51 Involuntary hospitalization as a reflexive response to any suicidal intent has been discouraged, in particular when considering that this action may restrict the autonomy of a person with a terminal illness who desires a dignified death.54,65
+
+The use of hospitalization and environmental restrictions, constant observation, and removal of access to a means of suicide can be helpful in some circumstances, but there is no guarantee that suicide can be prevented even with such extensive interventions.20,51,66 Routinely ordering excessive precautions or avoiding treatments as attempts to limit liability—rather than using rational decision-making processes—can be catastrophic without necessarily preventing allegations of negligence.20 Indeed, hospitalization itself can also present risks to the patient, including promoting regression and dependency.64,67 With increasing duration of hospitalization, some patients report suicidal preoccupation after they perceive no lasting improvements from therapy.51
+
+Discussing Suicidality
+
+Discussing suicide and end-of-life care (including assisted death) with patients is not necessarily illegal or unethical in Canada, but major national mental health organizations do not have a consistent position on how to approach these discussions to assess a patient’s personal beliefs and decision-making capacity. It has been argued that a responsible mental health professional should be willing to engage in an open discussion with a client about their desire to die even though the clinician may not condone it or be legally allowed to assist.65 Further, it is suggested that not discussing these options may be disrespectful of a patient’s needs and shirking professional responsibilities.55 From a holistic existential therapy perspective, exploration of existential coherence—how one coheres to the external world—is encouraged.68 The innermost layer of existential coherence deals with the core question of whether one wants to live or die, and it is believed that suicidal crises arise from people questioning whether they wish to accept responsibility for their lives. It is hoped that by providing support to a suicidal patient by exploring fundamental issues of existential coherence and emotional pain, he or she will ultimately choose to live, rather than use death to avoid confronting these issues.
+
+Principles of the recovery framework in mental health are increasingly used to focus on peoples’ journeys, without prescribing rigid instructions on how to support people with mental illness.69 The focus on increasing control, meaning, and purpose in one’s life is a perspective that may be helpful for difficult discussions regarding life and death.
+
+Overall, the therapeutic relationship between a suicidal patient and clinician has been emphasized as being critical to restoring a patient’s sense of well-being and self-worth to address suicidality.4,70 It is suggested that acting in the patient’s best interests—rather than following rigid rules or guidelines out of context—will almost always lead to the best course of management.71
+
+While upholding patient rights to autonomy in psychiatric care is laudable, cases of suicidality warrant a delicate consideration of clinical judgment, duty of care, and legal obligations. Current mental health treatment guidelines and legal statutes do not adequately consider the complexity of suicidality, including the potential for suicidality made under free will, uninfluenced by an identified psychiatric disorder. A further demand on mental health professionals to protect patients from or prevent rational suicide can have various sequelae by impinging on patient autonomy, promoting excessive use of health care resources, and increasing risk of legal liability. The impact on care provided to patients, patient rights and responsibilities, as well as care providers’ attitudes and approaches to managing suicidality comes with potential risks that cannot be taken lightly.
+
+No funding was provided for this research. A previous version of this paper received the 2013 Isaac Sakinofsky Essay Prize in Suicidology, presented to a resident, sponsored by the Centre for Addiction and Mental Health, Faculty of Medicine, University of Toronto.
+
+The views presented in this paper do not necessarily represent the views of the author, the Centre for Addiction and Mental Health, the Faculty of Medicine, University of Toronto, or the Department of Psychiatry, University of Toronto.
+
+The author thanks Dr Michael Gillette, Dr Isaac Sakinofsky, and Dr Ivan Silver for their advice and support.
+
+1. Prabhakar D, Anzia JM, Balon R, et al. “Collateral damages”: preparing residents for coping with patient suicide. Acad Psychiatry. 2013 May 7; doi: 10.1176/appi.ap.11060110. Epub ahead of print. [PubMed] [CrossRef] [Google Scholar]
+
+2. Chemtob CM, Hamada RS, Bauer GB, et al. Patient suicide: frequency and impact on psychiatrists. Am J Psychiatry. 1988;145:224–228. [PubMed] [Google Scholar]
+
+3. Ruskin R, Sakinofsky I, Bagby RM, et al. Impact of patient suicide on psychiatrists and psychiatric trainees. Acad Psychiatry. 2004;28(2):104–110. [PubMed] [Google Scholar]
+
+4. Wettstein RM. Psychiatric malpractice. Washington (DC): American Psychiatric Press; 1989. [Google Scholar]
+
+5. Bongar B, Maris RW, Berman AL, et al. Outpatient standards of care and the suicidal patient. Suicide Life Threat Behav. 1992;22(4):453–478. [PubMed] [Google Scholar]
+
+6. Doyal L, Sheather J. Mental health legislation should respect decision making capacity. BMJ. 2005;331:1467–1469. [PMC free article] [PubMed] [Google Scholar]
+
+7. Khan MM, Mian AI. The one truly serious philosophical problem: ethical aspects of suicide. Int Rev Psychiatry. 2010;22(3):288–293. [PubMed] [Google Scholar]
+
+8. Mishara BL, Weisstub DN. Ethical and legal issues in suicide research. Int J Law Psychiatry. 2005;28(1):23–41. [PubMed] [Google Scholar]
+
+9. Kant I. Second section: transition from popular moral philosophy to the metaphysics of morals. In: Abbott JK, editor. Fundamental principles of the metaphysics of morals. New York (NY): Liberal Art Press; 1949. [Google Scholar]
+
+10. Bluck RS, editor. Plato’s Phaedo. Indianapolis (IN): Bobbs-Merrill; 1955. [Google Scholar]
+
+11. Singapore Penal Code Chapter XVI: offences affecting the human body, s309, (1871, rev ed 2008)
+
+12. Indian Penal Code, Act 45 of 1860, Chapter XVI: of offenses affecting the human body, s309 (1860).
+
+13. Parliament of Canada . Of life and death—final report. Appendix D: chronology of major Canadian development and events [Internet] Ottawa (ON): Parliament of Canada; 1995. [cited 2013 Aug 16]. Available from: http://www.parl.gc.ca/content/sen/committee/351/euth/rep/lad-a2-e.htm. [Google Scholar]
+
+14. Cutcliffe JR, Links PS. Whose life is it anyway? An exploration of five contemporary ethical issues that pertain to the psychiatric nursing care of the person who is suicidal: part one. Int J Ment Health Nurs. 2008;17(4):236–245. [PubMed] [Google Scholar]
+
+15. Beauchamp T, Childress J. Principles of bio-medical ethics. 7th ed. Oxford (GB): Oxford University Press; 2012. [Google Scholar]
+
+16. Szasz T. Fatal freedom: the ethics and politics of suicide. Westport (CT): Praeger; 1999. [Google Scholar]
+
+17. Meyer RG, Landis ER, Hays JR. Law for the psychotherapist. New York (NY): Norton; 1988. [Google Scholar]
+
+18. Tsao CI, Layde JB. A basic review of psychiatric medical malpractice law in the United States. Compr Psychiatry. 2007;48(4):309–312. [PubMed] [Google Scholar]
+
+19. Packman W, Pennuto T, Bongar B, et al. Legal issues of professional negligence in suicide cases. Behav Sci Law. 2004;22(5):697–713. [PubMed] [Google Scholar]
+
+20. Simon RI. Concise guide to clinical psychiatry and the law. Washington (DC): American Psychiatric Press; 1988. [Google Scholar]
+
+21. Bongar B, Maris RW, Berman AL, et al. Inpatient standards of care and the suicidal patient. Part I: general clinical formulations and legal considerations. Suicide Life Threat Behav. 1993;23(3):245–256. [PubMed] [Google Scholar]
+
+22. Reesal R, Lam R, CANMAT Depression Working Group Clinical guidelines for the treatment of depressive disorders. II. Principles of managment. Can J Psychiatry. 2001;46(Suppl 1):21S–28S. [PubMed] [Google Scholar]
+
+23. Black HC. Abridged. 6th ed. St Paul (MN): West; 1979. Black’s law dictionary. Standard of care. [Google Scholar]
+
+24. Robertson JD. Psychiatric malpractice: liability of mental health professionals. New York (NY): Wiley; 1988. [Google Scholar]
+
+25. Schutz BM. Legal liability in psychotherapy. San Francisco (CA): Jossey-Bass; 1982. [Google Scholar]
+
+26. Litman RE. Hospital suicides: lawsuits and standards. Suicide Life Threat Behav. 1982;12(4):212–220. [PubMed] [Google Scholar]
+
+27. Maris RW. Forensic suicidology: litigation of suicide cases and equivocal deaths. In: Bongar B, editor. Suicide: guidelines for assessment, management and treatment. New York (NY): Oxford University Press; 1992. pp. 235–252. [Google Scholar]
+
+28. Winger v. 1998. Franciscan Medical Centre, 701N.E.2d 813. Ill. App. Ct. 3rd Dist;
+
+29. VandeCreek L, Knapp S, Herzog C. Malpractice risks in the treatment of dangerous patients. Psychotherapy. 1987;24:145–153. [Google Scholar]
+
+30. Bellah v. Greenson. 146 Cal Rptr: 81 Cal.App.3d 614; 1978. 535.
+
+31. Canadian Medical Protective Association . Medical liability: a physician primer [Internet] Ottawa (ON): Canadian Medical Protective Association; 2006. [cited 2013 Aug 15]. Available from: http://www.cmpa-acpm.ca/cmpapd04/docs/submissions_papers/com_medical_liability_a_physician_primer-e.cfm. [Google Scholar]
+
+32. Canadian Medical Protective Association . Forseeability: what is expected of a physician? Ottawa (ON): Canadian Medical Protective Association; 2009. [Google Scholar]
+
+33. Shneidman ES. Definition of suicide. New York (NY): Wiley-Interscience; 1985. [Google Scholar]
+
+34. Khuri R, Akiskal H. Suicide prevention: the necessity of treating contributory psychiatric disorders. Psychiatr Clin North Am. 1983;6(1):193–207. [PubMed] [Google Scholar]
+
+35. Shneidman ES. Psychotherapy with suicidal patients. Suicide Life Threat Behav. 1981;11(4):341–348. [PubMed] [Google Scholar]
+
+36. Blumenthal SJ, Kupfer DJ. Suicide over the life-cycle. Washington (DC): American Psychiatric Press; 1990. [Google Scholar]
+
+37. Cholbi M. Tonkens on the irrationality of the suicidally mentally ill. J Appl Philos. 2009;26(1):102–106. [Google Scholar]
+
+38. Thomson West Staff, editor. 57A Am Jur 2d. St Paul (MN): Thomson West; 2004. Proximate cause, sec 436–438. [Google Scholar]
+
+39. Perr IN. Legal aspects of suicide. In: Hankoff LD, Einsidler B, editors. Suicide: theory and clinical aspects. Littleton (MA): PSG Publishing; 1979. pp. 91–100. [Google Scholar]
+
+40. Linde P. Danger to self: on the front line with an ER psychiatrist. Berkeley (CA): University of California Press; 2010. [Google Scholar]
+
+41. Hewitt J. Schizophrenia, mental capacity, and rational suicide. Theor Med Bioeth. 2010;31(1):63–77. [PubMed] [Google Scholar]
+
+42. Mahler B. Delusions: contemporary etiological hypotheses. Psychiatr Ann. 1992;22:260–268. [Google Scholar]
+
+43. Culver CM, Gert B. Philosophy in medicine: conceptual and ethical issues in medicine and psychiatry. New York (NY): Oxford University Press; 1982. [Google Scholar]
+
+44. Frankfurt HG. Freedom of will and the concept of a person. J Philos. 1971;68(1):5–20. [Google Scholar]
+
+45. Werth J, Jr, Gordon J. Rational suicide? Implications for mental health professionals. Washington (DC): Taylor Francis; 1996. [Google Scholar]
+
+46. Dunn P, Reagan B. The Oregon death with dignity act: a guidebook for health care professionals [Internet] Portland (OR): Oregon Health and Science University; Centre for Ethics in Health Care; 2008 [cited 2013 Oct 28]. Available from: http://www.ohsu.edu/xd/education/continuing-education/center-for-ethics/ethics-outreach/upload/Oregon-Death-with-Dignity-Act-Guidebook.pdf. [Google Scholar]
+
+47. Cameron S. Learning from Amy: a remarkable patient provokes anquished debate about rationality, autonomy, and the right to die. CMAJ. 1997;156(2):229–231. [PMC free article] [PubMed] [Google Scholar]
+
+48. Cameron S, Watler CL, Gervais L. Lessons from Amy [letters and response] CMAJ. 1997;157(1):13. [PMC free article] [PubMed] [Google Scholar]
+
+49. Robins E. The final months: a study of the lives of 134 persons who committed suicide. New York (NY): Oxford University Press; 1980. [Google Scholar]
+
+50. American Psychiatric Association (APA) Treatment of patients with suicidal behaviours. Arlington (VA): APA; 2003. Practice guidelines for the treatment of psychiatric disorders: compendium. [Google Scholar]
+
+51. Silverman MM, Berman AL, Bongar B, et al. Inpatient standards of care and the suicidal patient. Part II: an integration with clinical risk management. Suicide Life Threat Behav. 1994;24(2):152–169. [PubMed] [Google Scholar]
+
+52. Bongar B, Greaney SA. Essential clinical and legal issues when working with the suicidal patient. Death Stud. 1994;18(5):529–548. [PubMed] [Google Scholar]
+
+53. Werth JL., Jr When is a mental health professional competent to assess a person’s decision to hasten death? Ethics Behav. 1999;9:141–157. [PubMed] [Google Scholar]
+
+54. Werth JL, Jr, Holdwick DJ. A primer on rational suicide and other forms of hastened death. Counsel Psychol. 2000;25(4):511–539. [Google Scholar]
+
+55. Werth JL., Jr Mental health professionals and assisted death: perceived ethical obligations and proposed guidelines for practice. Ethics Behav. 1999;9(2):159–183. [PubMed] [Google Scholar]
+
+56. White J. Suicide-related research in Canada: a descriptive overview. Montreal (QC): Public Health Agency of Canada; 2003. [Google Scholar]
+
+57. Government of Canada Federal Framework for Suicide Prevention Act, s.c. 2012, c. 30, (Dec 14, 2012).
+
+58. The Joint Commission . Hospital National Patient Safety Goals. Oakbrook Terrace (IL): The Joint Commission; 2013. [Google Scholar]
+
+59. National Quality Forum . Serious reportable events in healthcare: 2006 update. Washington (DC): National Quality Forum; 2007. [Google Scholar]
+
+60. Werth J, Jr, Gordon J. Helping at the end of life: mental health professionals and hastened death. Innovations clinical practice: a sourcebook. Sarasota (FL): Professional Resource Press; 1998. pp. 385–398. [Google Scholar]
+
+61. Shepherd L. Asking too much: autonomy and responsibility at the end of life. J Contemp Health Law Policy. 2009;26(1):72–81. [PubMed] [Google Scholar]
+
+62. Cameron S, Dunn R. Touched and troubled by Amy [letters and response] CMAJ. 1997;156(8):1116. [PMC free article] [PubMed] [Google Scholar]
+
+63. Nordenfelt L. Rationality and compulsion. Oxford (GB): Oxford University Press; 2007. [Google Scholar]
+
+64. VandeCreek L, Knapp S. Malpractice risks with suicidal patients. Psychotherapy. 1983;20:274–280. [Google Scholar]
+
+65. Leeman CP. Distinguishing among irrational suicide and other forms of hastened death: implications for clinical practice. Psychosomatics. 2009;50(3):185–191. [PubMed] [Google Scholar]
+
+66. Pokorny AD. Prediction of suicide in psychiatric patients: report of a prospective study. In: Man RW, Berman AL, Maltsberger JT, et al., editors. Assessment and prediction of suicide. New York (NY): Guilford Press; 1992. pp. 105–129. [Google Scholar]
+
+67. Gutheil TG. Argument for the defendant-expert opinion: death in hindsight. In: Simon RI, editor. Review of clinical psychiatry and the law. Washington (DC): American Psychiatric Association; 1990. pp. 335–339. [Google Scholar]
+
+68. Ventegodt S, Merrick J. Suicide from a holistic point of view. ScientificWorldJourna1. 2005;5:759–766. [PMC free article] [PubMed] [Google Scholar]
+
+69. Canadian Mental Health Association (CMHA) Ottawa (ON): CMHA; 2013. Recovery [Internet] [cited 2013 Aug 16]. Available from: http://www.ontario.cmha.ca/about_mental_health.asp?cID=7667. [Google Scholar]
+
+70. Maris R, Berman A, Maltsberger J. Summary and conclusions: what have we learned about suicide assessment and prediction? In: Maris RW, Berman AL, Maltsberger JT, et al., editors. Assessment and prediction of suicide. New York (NY): Guilford Press; 1992. pp. 640–672. [Google Scholar]
+
+71. Hoge S, Appelbaum P. Legal issues in outpatient psychiatry. In: Lazare A, editor. Outpatient psychiatry. Baltimore (MD): Williams & Wilkins; 1989. pp. 605–621. [Google Scholar]
+
+Articles from Canadian Journal of Psychiatry. Revue Canadienne de Psychiatrie are provided here courtesy of SAGE Publications
+
+Cited by other articles
+
+Links to NCBI Databases
+
+Copy Download .nbib .nbib

@@ -1,0 +1,159 @@
+Health and Healthcare Systems
+
+What is the biggest benefit technology will have on ageing and longevity?
+
+Published Mar 30, 2021 · Updated Sep 10, 2024
+
+Members of the World Economic Forum Global Future Council on Healthy Ageing and Longevity share ideas Image: REUTERS/Susana Vera
+
+Sofiat Makanjuola-AkinolaDirector, Health Policy and External Affairs, Roche Diagnostics Solutions, Roche
+
+This article is part of: Global Technology Governance Summit
+
+The global population is ageing. Life expectancy has increased to 70 years or more in many countries. In 2020, for the first time in history, individuals aged 60 or older outnumbered children under the age of five.
+
+These remarkable gains are due to improved public health, better nutrition, better healthcare and, most recently, employing technological innovations, big data and artificial intelligence to improve healthy life expectancy and meet the demands of an ageing population.
+
+The global population is growing – and ageing. Image: UN
+
+The rise in new technologies will benefit healthy ageing and longevity by enabling people to live healthier, more fulfilling lives at all ages. For example, technological innovations have been deployed to keep people physically active, enable independent living such as by detecting falls, smart home technology, early detection of diseases and management of disease conditions, maintenance of social connections by reducing social isolation and continued engagement in the workforce, to name a few.
+
+To ensure we reap the benefits of technology on ageing and longevity, we must design technologies that are inclusive and benefit all.
+
+“Ageing in the digital era poses challenges. Many older people have not enjoyed a digital education nor feel at ease with new technologies as younger people do,” says Dubravka Šuica, Vice President for Democracy and Demography at the European Commission.
+
+COVID-19 has worsened ageism. Here’s how to help older adults thrive.
+
+“However, innovation and technological progress inevitably require all of us to acquaint ourselves with new tools throughout life – no matter our age. These innovative solutions, assistive technologies or digital services tailor-made to the needs and preferences of older people harbor great potential to improve the quality of life and support independent living, also later in life,” Šuica continues.
+
+“To reap those benefits, it is essential to ensure that everyone has the required digital skills – and stays curious.”
+
+We invited members of the World Economic Forum Global Future Council on Healthy Ageing and Longevity to share ideas on how we can get there – here’s what they said.
+
+Technology can create opportunities for people to connect. Image: Unsplash/Georg Arthur Pflueger
+
+'Creating opportunities for people to connect'
+
+Alison Bryant, Senior Vice President, Research and Debra Whitman, EVP and Chief Public Policy Officer, AARP
+
+Strong social connections are fundamental to physical and mental well-being and the effects of prolonged isolation are equivalent to smoking 15 cigarettes a day. The biggest benefit technology can have on ageing and longevity is creating opportunities for people to connect.
+
+Technology adoption and use have increased tremendously, with 44% of those 50 and older more comfortable with technology now than before the pandemic. This desire to communicate digitally isn’t going away after COVID. We need to harness that potential, design experiences that allow for social connectivity and make universal, high-speed, low-cost internet a reality.
+
+COVID-19 has laid bare the cracks in long-term care. Here's how to fix them
+
+The chance to 'age in place'
+
+Victor Dzau, President, National Academy of Medicine, USA
+
+Digital technologies may be used to improve the quality of life for older adults, allowing them to age in place and remain connected to their loved ones. More broadly, it can help create an inclusive labor and living environment for older adults to lead healthy and productive lives.
+
+How to make later life happy, healthy and meaningful
+
+In the longer term, technological innovations, improved analytics and a growing understanding of both human behavior and the biology of ageing will move treatment upstream, shifting the focus from treating disease to prevention and health promotion.
+
+85% of adults 65 and older want to stay in their home and community as they age Image: UC-Davis
+
+'Use data for the public good' – without trampling on individual rights
+
+Image: Obi Onyeador on Unsplash
+
+Takanori Fujita, M.D. J.D., Project Lead for Healthcare Data Policy, World Economic Forum, C4IR Japan
+
+Thanks to smartphone applications, we have the technology to trace people's contacts with COVID-19 carriers, log their location and health information, and keep track of vaccination records and infection histories. This information can be presented to anyone who wants to see it.
+
+Yet these innovations carry risks as well as benefits.
+
+COVID-19 has hit the elderly and those with underlying medical conditions especially hard, and the economic and mental psychological consequences of lockdowns and other countermeasures have also been unevenly felt.
+
+Those who have suffered most from COVID-19 should not be burdened further by digital technology. Many elderly people with declining cognitive function need help making appropriate decisions regarding consent and other common technology issues. Even those without cognitive decline may not be up to speed with digital tech, including smartphones.
+
+Here, Japan’s experience can be useful. Japan is a “super-aging society,” and as a result, data on the elderly are being collected on a large scale. That could help address the problem of a lack of reliable information on the intersection between technology and older people.
+
+A new data governance model for contact tracing: Authorized Public Purpose Access
+
+The World Economic Forum Centre for the Fourth Industrial Revolution Japan advocates an approach called “Authorized Public Purpose Access.” APPA, as we call it, is about balancing the interests of individuals, holders of data like technology developers, and society at large. It seeks ways of using data for the public good – without letting that become an excuse to trample individual rights like privacy. Contact-tracing apps and a range of other technologies can be evaluated using detailed APPA-based checklists and other tools.
+
+Technology will facilitate ageing with happiness and good health Image: REUTERS/Nacho Doce
+
+'Multichannel health delivery...built around the individual'
+
+Maliha Hashmi, Executive Director, Health & Wellbeing & Biotech, NEOM
+
+The greatest leap for health and longevity will be humanizing technology to facilitate the ease of ageing with happiness and good health. This will come from the collective collaboration of humans and machines. Advanced sensors, health data and AI algorithms will empower healthcare professionals to develop precision diagnoses, personalized treatment, tailored health management and effective monitoring, all without a hospital visit. The hospital will come to you; care will be everywhere. Multichannel health delivery will be built around the individual, providing them with greater self-agency and self-awareness to control activities, choices, and lifestyles that lead to a state of holistic health.
+
+Allowing older persons to 'fully exercise their human rights'
+
+Peggy Hicks, Director, Thematic Engagement, Special Procedures, and Right to Development Division, Office of the High Commissioner for Human Rights (OHCHR)
+
+The use of technologies such as assistive technology and care robots has enormous potential to increase older persons’ ability to live independently and autonomously, and to fully exercise their human rights on an equal basis with others. Robots and monitoring technology could reduce abuse and maltreatment of older persons in care settings and provide better insights into older persons’ health.
+
+At the same time, overreliance or misuse of technology may lead to dehumanizing care practice or create new forms of segregation and neglect. We need to ensure that technologies are designed and deployed safely, which requires active participation of older persons in their development.
+
+The use of technologies such as assistive technology and care robots has enormous potential to increase older persons’ ability to live independently and autonomously. Image: REUTERS/Willy Kurniawan
+
+'Universality of access' to care
+
+Alexandre Kalache, President, International Longevity Centre, Brazil
+
+The most important lesson from COVID-19 pandemic is health for all—that is, universality of access, which implies full citizenship. Technology is neither politically neutral nor value-free. All too often, it divides rather than unites groups. We must actively seek out those who are not benefiting from innovations.
+
+The most important tool is already readily available. As early as 2017, there were 198 million smartphones in use in Brazil. App design that produces easily accessible and affordable health diagnosis at the primary healthcare-level and significantly advances health literacy will have the greatest impact on healthy ageing and longevity.
+
+Smartphone use is on the rise among seniors. Image: Pew
+
+'Enhanced precision care service'
+
+Tomoaki Nakanishi, Executive Director, JETRO San Francisco / Special Advisor to the Ministry of Economy, Trade and Industry of Japan
+
+The importance of elderly care service has grown, but the pool of skilled caretakers has not. Elder care service is highly dependent upon the experience and intuition of these skilled caretakers, so nursing homes struggle to collect and transfer that knowledge to new cohorts. Many nursing homes are not yet equipped to use data to enhance the quality of the elder care because they lack the proper incentive mechanisms and regulatory framework to make the investment.
+
+The technology exists for nursing homes to gather the elder-care data (e.g., treatment data, rehabilitation program results) through smart devices. Privacy-preserving data analytics support is also available to process the elder-care data to improve treatments, cognitive capacity and ultimately, quality of life. An approach that combines the skill of caretakers and the power of data will lead to enhanced “precision care service” for the well-being of all elderly citizens who need care.
+
+Shift to digital during the pandemic could enable universal health coverage
+
+'Supporting working for longer' and better preventative care
+
+Andrew Scott, Professor of Economics, London Business School
+
+With the global population ageing, much hope and hype focuses on Age Tech – technology aimed at providing services to an ever-growing number of older people, helping people keep connected, active and cared for. Tech also has great potential in supporting working for longer, with robots doing the heavy lifting and AI providing cognitive support.
+
+Its greatest potential, though, is around health. Longer lives make healthy ageing ever more important. That’s about preventative health, better monitoring and early interventions. Big data and tech together can play an enormous role in what will be one of the most valuable sectors of the economy.
+
+Image: REUTERS/Yves Herman - RC2DQJ9CNPLV
+
+'Evidence-based healthcare recommendations' and 'customized wellness programs'
+
+Nidhi Singhvi, Senior Director, Optum, United Health, Group, USA
+
+The biggest benefits technology will have on ageing and longevity is through advances in preventative care. Artificial Intelligence/machine learning will play a key role in running simulations on data, captured through wearables as well as patient EMR. The potential of advanced technology solutions to deliver evidence-based healthcare recommendations at the point of care and helping decide the optimal course of treatment is huge. Additionally, these can be used for creating customized wellness programs (such as by creating a treatment approach that addresses both medical and behavioral conditions) as well as for giving care reminders and alerts at the right time.
+
+'The freedom of choice'
+
+A. Vigneswari, Consultant, and Adrienne Mendenhall, Director, Business Development, ACCESS Health International
+
+The biggest benefit of technology to ageing is the freedom of choice, empowering older adults to maintain autonomy, choose the lifestyle they want and promote dignity. Technology such as the Internet of Things (IoT) allows older adults to continue managing their activities of daily living. While no technology can replace in-person human interaction, older adults can communicate and connect with their loved ones by leveraging video chat services and other internet-based communication, helping to prevent social isolation and loneliness which can affect health and wellbeing.
+
+Image: REUTERS/Edgard Garrido
+
+'Continued professional fulfilment with age'
+
+David Alexander Walcott, Founder & Managing Partner, Novamed; World Economic Forum Young Global Leader
+
+The pandemic has forced adoption of technology by older persons, who were historically on the fringes of the “digital divide.” With persistent lockdowns and distancing measures, older persons have engaged significantly with teleconferencing, telemedicine and telework. This creates opportunities for economic contribution through continued workforce engagement and consumption of technological products. Such shifts will drive increased capital allocation towards technology-driven solutions for older persons, such as a recent T-Mobile-driven initiative to provide computer-tablets to older persons in New-York.
+
+The expanded technological literacy in older persons will likely persist after lockdowns lift and is expected to unlock a wave of economic growth and allow continued professional fulfilment with age.
+
+What is the World Economic Forum doing to combat Alzheimer's? Show more
+
+Alzheimer’s Diesease, a result of rapid ageing that causes dementia, is a growing concern. Dementia, the seventh leading cause of death worldwide, cost the world $1.25 trillion in 2018, and affected about 50 million people in 2019. Without major breakthroughs, the number of people affected will triple by 2050, to 152 million.
+
+To catalyse the fight against Alzheimer's, the World Economic Forum is partnering with the Global CEO Initiative (CEOi) to form a coalition of public and private stakeholders – including pharmaceutical manufacturers, biotech companies, governments, international organizations, foundations and research agencies.
+
+The initiative aims to advance pre-clinical research to advance the understanding of the disease, attract more capital by lowering the risks to investment in biomarkers, develop standing clinical trial platforms, and advance healthcare system readiness in the fields of detection, diagnosis, infrastructure and access.
+
+Find out more about the World Economic Forum Global Future Council on Healthy Ageing Longevity.
+
+Health and Healthcare SystemsFourth Industrial RevolutionEmerging TechnologiesForum Institutional
+
+Contents'Creating opportunities for people to connect'The chance to 'age in place''Use data for the public good' – without trampling on individual rights'Multichannel health delivery...built around the individual'Allowing older persons to 'fully exercise their human rights''Universality of access' to care'Enhanced precision care service' 'Supporting working for longer' and better preventative care'Evidence-based healthcare recommendations' and 'customized wellness programs''The freedom of choice''Continued professional fulfilment with age'

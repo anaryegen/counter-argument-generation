@@ -1,0 +1,397 @@
+Skip to main content
+
+Citation numbers are available from Dimensions
+
+View altmetric score
+
+Western University, Canada
+
+University of Georgia, United States
+
+University of Lisbon, Portugal
+
+Political Tolerance and The Importance of Agency
+
+Political Tolerance and Democratic Threat
+
+Discussion and Conclusion
+
+Data Availability Statement
+
+Author Contributions
+
+Conflict of Interest
+
+Supplementary Material
+
+ORIGINAL RESEARCH article
+
+Front. Polit. Sci., 04 May 2021
+
+Sec. Elections and Representation
+
+Volume 3 - 2021 | https://doi.org/10.3389/fpos.2021.655204
+
+This article is part of the Research Topic Intergroup Dynamics and Electoral Politics View all 6 articles
+
+Political (In)tolerance of the Far-Right: The Importance of Agency
+
+Department of Comparative Politics, University of Bergen, Bergen, Norway
+
+This paper examines the impact of far-right agency on public political tolerance—what the parties on the far right do to disconnect themselves from accusations of extremism and thus increase their political tolerance by the public. Examining such patterns is challenging because of the multiple varieties of party attributes and strategies that are used by the far right. This paper uses a conjoint survey experiment conducted in the Norwegian Citizen Panel. Each respondent was presented with one vignette describing important attributes of a hypothetical far-right initiative and was then asked to evaluate whether this initiative should be allowed to hold an event. The conjoint design makes it possible to test the impact of the ideological and organizational varieties of the far right. The results demonstrate that what the parties on the far right do is crucial for public political tolerance. Denying extremism and excluding extreme members increase tolerance. However, the features that the far right is not in control of, such as its ideological legacy and the fact that some of its members have been convicted of racist speech negatively affect public political tolerance. The paper concludes that the agency of the far right is a necessary but not sufficient condition for public political tolerance of the far right.
+
+The far right has achieved substantial electoral success over the past few decades. With the rise of far-right political parties, several scholarly debates have followed. Much of the scholarly and media attention has centered around the ideology promoted by the far right, which can be interpreted as exclusionary toward immigrants and minorities, such as Muslims. Some far-right politicians have been convicted of racism, hate speech, and even Holocaust denial. For these reasons, other political parties have ostracized the far right and excluded such parties from cooperation. Nevertheless, many far-right parties have performed well in elections and become influential political players in many European democracies (Kitschelt and McGann, 1995; Kriesi et al., 2008). This raises the question: why do we observe such a pattern where some far-right initiatives are rejected while others are politically influential?
+
+This study seeks to explain the specific factors and attributes about the far right contributing to public political tolerance. The study adopts an agency perspective, focusing on what the parties themselves do to fend off accusations of racism and extremism. Previous research has identified some important factors that are thought to affect voters' perceptions of the far right. Some researchers have identified past ideological ties to historical fascism and the Nazi past as important explanations for rejecting the far right (Ignazi, 1992; Golder, 2003; Carter, 2005; Art, 2011). Others have argued that integration into the democratic system helps far-right political parties to fend off accusations of racism and extremism (van Heerden and van der Brug, 2017). Nevertheless, we still lack knowledge of the effects of such factors on public political tolerance of the far right.
+
+The 2017 presidential election in France is a suitable example to illustrate why it is necessary to take a closer look at public political tolerance. Despite a comprehensive internal process to transform the Rassemblement National (RN)1, Marine Le Pen lost the election. According to Mudde and Rovira Kaltwasser (2018), Macron did not win because it was a pro-Macron election but, rather, because it was an anti-Le Pen one. Despite attempts to transform the party, opinion polls showed that two-thirds of the electorate stated that they would never vote for Le Pen (Mudde and Rovira Kaltwasser, 2018, 1684). Why is it that a populist radical right party such as the RN can undergo comprehensive transformations yet still be rejected by a large share of the public? Examining voting patterns can only provide limited answers, emphasizing the need for a different strategy to look further into such questions. Gidron et al. (2019) showed that, despite having achieved substantial electoral success and becoming politically influential in many countries, the populist radical right party family is more disliked by voters compared to all other parties in the system. This paper seeks to dig deeper into this puzzle by identifying and exploring the individual factors contributing to public political tolerance of the far right.
+
+This study uses a conjoint survey experiment conducted in the Norwegian Citizen Panel to identify and explain the effects of specific attributes of the far right on public political tolerance. The setting chosen for the experimental design has been successfully used in classical studies on social and political tolerance (Stouffer, 1955; Sullivan et al., 1979, 1982). In these classical studies, the respondents were asked to extend (or reject) certain democratic privileges to political groups that they dislike. In the study at hand, a representative sample of voters was asked to provide their opinion on whether to allow a far-right political group to hold an event aimed at spreading its political message, and whether they believe that the far-right group constitues a threat to democracy. For this experiment, the attributes describing the far-right political group were randomly assigned. Using this strategy, this study is able to illustrate the specific factors that contribute to increased or decreased public political (in)tolerance of the far right.
+
+This study identifies and explores important, individual factors about the far right, and their effects on public political tolerance of far-right political initiatives. The factors and attributes of the far right that are examined in this study are analyzed from an agency perspective, separating between attributes that the far right can control and those over which it has no control. Using this lens, the study introduces four important factors about the far right: (1) party institutionalization, (2) the far-right's ideological legacy, (3) the explicit denial of extremism and exclusion of extremist candidates, and (4) the political message promoted by the far right. The conjoint experiment used in this study was specifically designed around these factors. This approach makes it possible to examine such multifaceted issues in the same study and to identify their effects on public political tolerance.
+
+Political Tolerance and The Importance of Agency
+
+An important strand of research on the far right has focused on what political parties, institutions, and elites can do to combat the far right. Three main strategies have been suggested from a governmental standpoint: influence public opinion, remedy attraction to racism (by removing the breeding ground), and implement repressive measures, such as bans and prosecution (van Donselaar, 2017). One of the most researched actions when it comes to combating the far right is exclusion and non-cooperation. An influential study by Art (2007) focused on responses from political elites, print media, and civil society. He argued that, when political parties refuse to cooperate with the far right, it weakens these parties in three main ways. First, it sends a signal to voters that any votes they cast for the far right might be wasted. Second, it sends a signal to voters that the far-right political parties are illegitimate. Third, it affects the parties' capability to recruit competent candidates (Art, 2007). Conversely, political parties can choose to cooperate with the far right and thus extend legitimacy to their proposed political platforms (Bale, 2003).
+
+An important perspective often missed in studies on the far-right is agency—that is, what the parties themselves do to strengthen and secure their electoral success and political influence. An important study by de Lange and Art (2011) linked the success of the far right and agency. They argued that populist radical right parties experience success only if they are built prior to their electoral breakthroughs and manage to institutionalize rapidly. In addition, having a strong leader is important for the institutionalization process and the recruitment of competent candidates.
+
+Currently, we know little about the link between the agency of the far right and public political tolerance. Thus, an important aspect to consider when studying the far right is what the far right does to increase political tolerance. This paper examines this question, exploring some important attributes of the far right based on accusations that are often made against it. The aim is to investigate the effects of these traits on ordinary citizens' political tolerance of the far right. The following sections will further explain these factors.
+
+Party Institutionalization
+
+One important characteristic that distinguishes far-right political initiatives from each other is whether they participate in the electoral arena. Becoming a political party and participating in elections can be a strategic decision by the far right to increase its political tolerance by the public (e.g., by recruiting competent candidates). Using examples from Geert Wilders in the Netherlands, van Heerden and van der Brug (2017) show that a far-right political party is better at fending off accusations of racism and extremism2 once it has made a successful entry into the party system. Their results indicate that established far-right political parties that are represented in parliament stand a better chance of fending off such accusations from other political parties and the media.
+
+Having institutionalized as a political party in democratic institutions can thus serve as a strategy that enables the far right to be tolerated by a larger share of the public. Previous literature has shown that parties that reject the democratic system are less successful than those that work within it (Carter, 2005). Similarly, one can argue that party institutionalization should be associated with increased political tolerance because it sends a signal of working within, and respecting, the democratic system, and rules of democracy. This same respect for the rules of democracy could also make the far-right initiative perceived as less of a democratic threat. From this perspective, party institutionalization itself can contribute to political tolerance, distinguishing between far-right political initiatives advancing the same political agenda.
+
+An important point regarding how the dimension of party institutionalization relates to this study can be found in how the experiment was designed. The conjoint experiment was designed based on real-life examples from political parties on the far right, not on extra-parliamentary far-right organizations. However, the conjoint treatments in this study differ depending on whether the far right is presented as an organization or as a political party. This makes it possible to examine whether the same factors that these political parties possess make them less likely to be tolerated by the public if they were extra-parliamentary organizations rather than political parties. To date, little research has tested this mechanism in relation to the far right.
+
+The Far Right's Ideological Legacy
+
+Some researchers have asked why nativism, the core ideology promoted by the far right, can in some cases lead to electoral success, whereas in other cases it seem toxic. Ivarsflaten et al. (2019) emphasized that, after the Second World War, boundaries were drawn in Western European democracies to make racism and extremism illegitimate (see, e.g., Bleich, 2011; Givens and Case, 2014). This led some scholars to notice that far-right parties running on an anti-immigration platform tended to fail unless they had a reputational shield—that is, an ideological legacy that they could use to fend off accusations of racism or extremism. Such reputational shields are common among the electorally successful far-right parties in Western Europe today (Ivarsflaten, 2006). A case in point is the comparison between the British National Party (BNP) and the United Kingdom Independence Party (UKIP) in the United Kingdom (UK). While UKIP was founded in opposition to the EU, the BNP explicitly embraced a far-right extremist ideology. Experimental survey work found that in the UK, a policy position associated with UKIP received substantively larger support than one associated with the BNP, which had no reputational shield (Blinder et al., 2013; Goodwin, 2014).
+
+Thus, an important factor that the far right is not in control of is its ideological legacy—that is, how the far right was founded. Naturally, this ideological legacy has been given attention by many scholars. It is argued that this is one of the main factors affecting the electoral success or failure of the far right, which promotes a nativist ideology (Ignazi, 1992, 2003). Studies have found that the far-right parties that tended to be most electorally successful have been ideologically disconnected from Europe's Nazi past and historical fascism. They have managed to present themselves in a manner that separates them from such ideological ties (Golder, 2003; Carter, 2005; Art, 2011). According to Ignazi (2003, p. 32), these types of far-right parties—those that “deny any lineage with historic fascism,” not those that maintain such ties—are the ones that have become successful in elections.
+
+A key part of the reputational shield argument advanced by Ivarsflaten (2006) emphasizes the importance of the ideological legacy of the far right. There are a few examples of contemporary far-right parties whose ideological legacy is not so explicitly distanced from past ideological ties. This is true for the RN and the Sweden Democrats (SD). They represent some of the successful populist radical-right parties in Western Europe. Both have managed to achieve substantial electoral success despite originally growing out of more extreme organizations, thus having no clear reputational shields. This study agrees with the existing literature that having links to Europe's Nazi past and historical fascism should contribute to public rejection of the far right. Nevertheless, the two aforementioned parties have explicitly used their agency and taken actions organizationally as well as ideologically to distance themselves from any such connections (Rydgren, 2002; Ivaldi, 2016).
+
+The experiment used in this study tests whether such connections as well as explicit distancing from such connections to Europe's Nazi past contribute to public political tolerance of the far right, and whether such attributes make the voters perceive the far right as a threat to democracy. The experiment provides examples of different ideological legacies that are common among contemporary far-right political parties, connecting and disconnecting them from Europe's Nazi past and historical fascism. The expectation is that a far-right initiative that is disconnected from such past ideological ties will be tolerated by a larger share of the public compared to a far-right initiative with explicit ties. The ideological legacy of the far-right political initiative, which was varied in the experiment, is used as an example of something that the far right itself is not in control of.
+
+Explicit Distancing From Racism and Extremism
+
+Some factors are more explicitly related to agency than others. The third factor included in this study involves distancing from racism and extremism in more explicit terms. Many far-right political parties in Western Europe have made changes to their platforms, personnel, and appearance, making them more likely to be tolerated by a larger share of the public3. Several far-right parties—the SD and Danish People's Party, among others—have a paragraph in their statutes that explicitly states that they can dismiss members who harm the party. What is considered harmful to the party is typically decided by the party's core members. Nevertheless, having such a paragraph in the party statutes shows the importance of political culture among these parties and that they have the right and opportunity to dismiss members who can potentially make them look racist or extremist.
+
+An important example is the transformation of the RN. Jean-Marie Le Pen, the former leader of the party, has been convicted of racism several times. In addition, he has insisted on his right to claim that the Holocaust was merely a detail in history, thus establishing an explicit signal of connections to historical fascism. Part of the process of transforming the party was the announcement of Marine Le Pen, Jean-Marie Le Pen's daughter, as party leader in 2011. Four years later, Marine Le Pen kicked her father out of the party. This decision was made after a series of extreme statements that she believed weakened the party's legitimacy. However, the transformation of the party involved more than only the decision to remove Jean-Marie Le Pen. It also involved attracting competent candidates, broadening the political platform, distancing the party from extreme statements, and building a solid party organization (e.g., Mayer, 2013, 2018; Ivaldi, 2016). The purpose of the party transformation was not necessarily to change the party's politics but to make the party less disliked among voters (Ivaldi, 2016).
+
+Other important incidents exemplifying how the far right explicitly distances itself from racism and extremism include the internal investigation of 24 members of the SD, which took place in 2015. Eventually, seven of these members were excluded from the party, and others left voluntarily. In the most recent election in Norway, a Progress Party candidate for mayor in the small town of Nesodden had to withdraw his candidacy after it was discovered that he was a member of the anti-Islamic organization called Stop the Islamization of Norway (SIAN). Party leader Siv Jensen stated explicitly that SIAN membership was incompatible with Progress Party membership. In such situations, the far-right parties usually respond by downgrading, relocating, or excluding the member from the party. Another important example is the far-right party Vlaams Blok, which was convicted of racism and cut off from state funding. After the charges were made, the party reorganized itself into a new party, the Vlaams Belang. These are all examples of what parties on the far right have done and continue to do to explicitly fend off accusations of racism and extremism and maintain order in their political organizations. It is important for the parties to be able to attract skilled political candidates, maintain legitimacy, and attract voters (Art, 2007). These examples emphasize the importance of examining public political tolerance of the far right through the lens of agency.
+
+A final factor that can help explain public political (in)tolerance of the far right is the political message that it chooses to promote. The political message of the far right is a clear indicator of the current ideology that is promoted by the far right, and it is relevant from an agency perspective; after all, the far right is responsible for and in control of its political message. When political organizations and parties on the far right want to make use of their democratic rights to hold an event, make a speech, or even protest, does the political message that they want to promote contribute to political (in)tolerance? In a free-speech context, the political message of the far right should not matter. Provided that the far-right initiative is doing nothing illegal, it has the right to spread its message, even though one might disagree with it. Similar dilemmas concerning freedom vs. racism were raised during the Danish cartoon crisis (Sniderman et al., 2014). The pre-censorship of political messages is forbidden in Norway, where this experiment took place. This debate was recently ignited in Norway when SIAN organized several demonstrations4. At one of these demonstrations, young antiracism protesters attacked the leader of SIAN after he tore pages from the Koran. The protesters also attacked the police, and some were arrested. This facilitated an important debate about free speech and how the rhetoric of far-right organizations such as SIAN affect those groups targeted by the far-right's political message. Bleich (2011, p. 144) explained this as follows:
+
+Freedom of speech, association, and opinion-as-motive are core values that protect individual autonomy, foster pluralism, bolster a commitment to democracy, and lead us toward fundamental truths. Upholding these values helps explain why strong proponents of freedom are willing to tolerate some forms of racism.
+
+The quote above illustrates some of the tensions in the debate concerning freedom vs. racism and highlights some of the dilemmas that the respondents in this study have to take into account when deciding whether to allow a far-right political initiative to express its views. Where do people draw the line between the right to free speech and the right to be protected against racism? Some of these dilemmas were raised when Geert Wilders was accused of hate speech and Jean-Marie Le Pen was accused of racism (van Spanje and de Vreese, 2015). Using examples from Wilders, Verkuyten (2013) showed that anti-Islamic rhetoric can be used to justify discrimination against Muslims. He argued that “discrimination becomes a necessary self-defensive response when our virtuous nature is undermined. In this context, ingroup members who dare to discriminate have moral strength whereas those who do not are morally suspect” (Verkuyten, 2013, p. 347). Verkuyten (2013) further showed that Wilders uses his anti-Islamic rhetoric to fend off accusations of discrimination and prejudice by distinguishing between Muslims as a group and Islam as an ideology. Similarly, Pettersson (2020) explained that the far right can use its political message to distance itself from extremism—for example, by framing immigration politics in more fact-based terms.
+
+In the Dutch election of 2002, Pim Fortuyn, an openly homosexual sociologist, achieved considerable electoral success by combining anti-Islamic and liberal values (Bélanger and Arts, 2006; Lubbers and Güveli, 2007). He argued that Islam was a backward religion owing to its denial of equality for women and its intolerance of homosexuality (Sniderman and Hagendoorn, 2007, p. 19–20). In this way, Fortuyn used his critique against immigration and Islam as a way of promoting liberal values and defending liberal democracy (Akkerman, 2005). This has become a dominant message among political parties on the far right (Mudde and Rovira Kaltwasser, 2017) and anti-Islamic activist groups (Berntzen, 2019). Based on Fortuyn's electoral success and the popular use of this discourse among far-right political parties, it is reasonable to expect such a message to contribute to increased political tolerance, precisely because it involves an explicit focus on liberal democratic values. Such a message where liberal democratic values are promoted could also make the far-right initiative perceived as less of a threat to democracy. However, as of now, we have little knowledge of the effects of promoting such a discourse on public political tolerance.
+
+Taken together, this paper asks what factors contribute to increased or decreased public political (in)tolerance of the contemporary far right, and if these factors make the far right perceived as a threat to democracy. The literature review introduced four factors that arguably affect public political tolerance from an agency perspective, emphasizing the factors that the far right itself controls and those that it does not. How the far right has institutionalized, how it reacts toward extremist members, and the political message it chooses to promote are factors that it can control. Simultaneously, there are factors that the far right cannot control. The ideological legacy from when parties on the far right were founded and statements from extreme members are examples of such factors.
+
+Political Tolerance and Democratic Threat
+
+Sullivan et al. (1982, p. 2) conceptualized tolerance as “a willingness to ‘put up with’ those things one rejects or opposes.” Studies on political tolerance have successfully asked respondents to grant certain democratic privileges to political groups that they dislike or disagree with (Stouffer, 1955; Sullivan et al., 1979, 1982; Petersen et al., 2011). The logic of using such a setting is that a far-right party or organization can be controversial and disliked by the public but simultaneously be granted democratic privileges. The more likely a political group is to be granted democratic privileges by the public, the higher the degree of public political tolerance.
+
+Previous studies on political tolerance have shown that an individual's level of intolerance of a certain political group is equivalent to his or her perception of the threat posed by that group (Stouffer, 1955). This means that intolerance increases the more the individual perceives the group as threatening important values or constitutional order (Sullivan et al., 1982, p. 186). Sullivan et al. (1979, p. 788) found that, when it comes to tolerance, the least-liked groups were described as “uniformly bad, undemocratic, and dangerous” by the respondents. The study at hand includes two dependent variables. The first dependent variable focuses on political tolerance, the second on perceived democratic threat. The expectation is that traits that lead to more intolerance will also lead to perceptions of the far-right initiative as a larger threat toward democracy. The following section will elaborate on the experimental setting, study design, data, and analysis before moving on to the results.
+
+Petersen et al. (2011) used the concept of political tolerance in an experimental setting, randomly assigning a range of different target groups. Despite using a political tolerance setting in which respondents are asked to grant democratic privileges to a far-right political group, this study departs from the classical studies on tolerance by not assigning target groups. Instead, this study digs deeper into certain attributes of far-right political parties and organizations and examines how these attributes affect tolerance. The evidence presented is based on a conjoint survey experimental design, whereby the respondents were randomly assigned to evaluate one far-right political party or organization (N = 4,221). Conjoint design has become common in survey experimental research due to its advantage of being able to test multiple treatment variations in the same randomized experimental study (Hainmuller et al., 2014). The conjoint experiment in this study departs somewhat from what is normally seen in conjoint designs. Rather than a forced choice-based design, the respondents were presented with a vignette design describing a hypothetical far-right initiative. Similar conjoint designs have been successfully used in previous studies on terrorism (e.g., Huff and Kertzer, 2018). The respondents in this study were asked to evaluate one vignette only. As such, their evaluations of the far-right organization or political party were not biased by previous evaluations.
+
+The logic behind investigating the attributes of the far right rather than far-right target groups is that, when varying target groups, we cannot know exactly what features of a particular party contribute to public political tolerance. This experiment combines the findings from previous studies into an experimental design that is able to test multiple factors simultaneously. By using hypothetical cases, we gain control over exactly which factors contribute to (in)tolerance of the far right. The number of attributes varied in the conjoint experiment provide a total of 108 different versions of far-right political initiatives5.
+
+One of the goals of the experimental design was to capture the heterogeneity of the far right. The experiment included attributes concerning what type of organization the far-right is, what legacy it has, its stance toward its extremist members, and the message it seeks to promote. It was important to ensure that the various hypothetical cases in the experimental design were indeed far right. This meant, for example, that they all promoted an anti-immigrant political message, typical of far-right political parties. For variation purposes, the experiment also included the type of event that the far-right organization or political party wanted to hold, as well as where it would take place6.
+
+An important part of the design, as shown in Table 1, is that, although hypothetical, the factors are varied based on real-life cases. For example, some parties on the far right have grown out of organizations with ties to historical fascism (e.g., the BNP and SD), while others have grown out of rural or agrarian movements (e.g., the Swiss People's Party and the Finns Party). Opposing all aspects of right-wing extremism is common among populist radical right parties. However, many of these parties have members who have been accused of racism or hate speech. Some even have members who have been convicted of Holocaust denial (e.g., the RN). The promotion of a political message regarding the need for stricter asylum policies is common on the far right, as is the message that Islam is a threat to democratic and liberal values. The preservation of white cultural heritage is a message not common among populist radical right parties but it is included to send a signal about a more extreme version of the current ideology promoted by the far-right initiative. Importantly, similar statements have been promoted by political candidates of far-right parties. For example, Elisabeth Peterson, a top SD candidate in Växjö Municipality, stated, “one shall be born Swedish and have Swedish parents” as the definition of “Swedishness” after posting a song on Facebook with the lyrics “Swedes are white and the country is ours” (Bergløff, 2018). The party responded by dismissing the candidate and removing her opportunity to run for election.
+
+Table 1. Conjoint treatments.
+
+The data for this study were collected during the fall of 2018 using the Norwegian Citizen Panel (2018), a representative online panel whose participants were drawn directly from the Norwegian National Population Registry (Skjervheim et al., 2018)7. The NCP is a research-purpose panel with more than 6,000 active participants. The panel members participating in the survey complete an online questionnaire three times per year each lasting for about 15 minutes. The data collected for this study was fielded between October 17th and November 5th in 2018. The panel members were recruited by email8. Each respondent was presented with one vignette that included randomized attributes of the hypothetical far-right initiative. The respondents were then asked to answer two questions based on the far-right initiative. The first concerned whether they should be allowed to hold the public event, and the second related to whether they believed that the far-right initiative constituted a threat to democracy9.
+
+The analysis of the treatment effects in the conjoint design follows the advice of Leeper et al. (2020) presenting the results by their marginal means rather than AMCE (Hainmuller et al., 2014). The marginal means represent the mean outcome for each conjoint treatment factor, averaging across all other features (Leeper et al., 2020, p. 210). An advantage by reporting the marginal means is that none of the attributes are used as baselines. For example, Leeper et al. (2020, p. 211) argue that a positive AMCE is “only higher relative to whatever category that serves as the baseline.” In the study at hand, each of the experimental attributes should be compared against each other. This makes the marginal means ideally suited. Robust clustered standard errors at the respondent level are used in the analysis.
+
+The following sections will present the results of this study in a stepwise manner. First, because this experiment includes 108 different far-right political initiatives, it is important to consider the least and most tolerated ones. The results section therefore starts by establishing the baselines. It then moves on to consider the independent factors related to the far right, as these are used to measure the individual effects of these attributes. The third section of the results includes an in-depth exploration of the effects of explicitly denying extremism and excluding extreme members. Finally, the results of response heterogeneity are presented to show whether ordinary citizens respond differently based on their political background.
+
+Baselines of Political Tolerance and Democratic Threat
+
+One important aspect to consider when examining the results from the survey experiment is the mean political tolerance of the far-right initiatives. In this experiment, the mean response to the dependent variable of political tolerance was 47, meaning that about half of the respondents agreed that the hypothetical far-right initiative should be allowed to hold the event. This indicates that the experiment was designed in a balanced way: some factors increased and some decreased public political tolerance. The mean far-right initiative in this experiment was placed in the middle—that is, an indication that the political initiatives in the study are highly contested.
+
+Although the study includes political tolerance and perceived democratic threat of the best and worst cases, it is important to emphasize that the goal was not to show how variations of the far right are placed on a scale of tolerance but, rather, to show which factors contribute to the increased or decreased (in)tolerance of the far right. The goal was to gain more knowledge of the details that drive public political tolerance. The use of hypothetical cases made this possible.
+
+Table 2 shows the percentage of respondents agreeing that what would most likely be viewed as the “best” and “worst” far-right initiatives presented in the experimental vignettes should be allowed to hold the event. The experiment was created so that some combinations would include factors that the far right is not in control of, such as its ideological legacy and the fact that it has extreme members. The best case presented in Table 2 represents a political party that was founded through district protests; its members deny extremism. One member was convicted of racism but was excluded from the party. It asked to hold a public event concerning the Islamic threat to liberal democratic values. Meanwhile, the worst case in Table 2 represents an organization that was founded as a neo-Nazi organization. The respondents were not shown any information about extremism denial. The organization asked to hold an event in a public place to promote its message about preserving white culture. It also had a few members who were Holocaust deniers.
+
+Table 2. Best vs. worst far-right initiative.
+
+The results presented in Table 2 show that, regarding both political tolerance and democratic threat, substantial differences exist between the best and worst cases. For the “best case” 78% of the respondents agreed that the far-right political party should be allowed to hold the event. It is noticeable that the worst-case scenario was located at the other end of the scale, with a tolerance score of 31%, a difference of more than 40-percentage-points. Similarly, the best case was perceived as less of a threat to democracy—only 23% of the voters agreed that it constituted a threat to democracy. For the worst far-right case, 69% of the voters agreed that it constituted a threat to democracy. These striking differences in political tolerance and democratic threat demonstrate that while some far-right organizations are tolerated and granted democratic privileges, others are rejected. These results indicate that much of the variation found between the far-right initiatives can be explained by the attributes accounted for in the experiment.
+
+Considering the Individual Factors
+
+After establishing the baselines, the individual factors and main results can be examined more closely. Figure 1 shows the results of two outcome variables: political tolerance and perceived democratic threat. Higher values indicate increased political tolerance in the plot on the left side. In the plot on the right side, higher values indicate increased democratic threat. The plot shows 84% (thick line) and 95% (thin line) confidence intervals. The results from Figure 1 indicate that political tolerance and perceived democratic threat are very similar. In this experiment, people did not differentiate between these two questions—the lower the political tolerance, the higher the perceived democratic threat. This corresponds to what previous studies on political tolerance have found (e.g., Stouffer, 1955; Sullivan et al., 1979, 1982).
+
+Figure 1. Results: Factors contributing to the political (in)tolerance and perceived democratic threat.
+
+Based on the literature review, party institutionalization should contribute to public political tolerance of the far right. In this study, the experiment differentiated between a political party and an organization. The results show that there is a statistically significant difference in the dimension showing party institutionalization. A larger share of the public is willing to tolerate a far-right political party than they are to tolerate a far-right organization. However, whether the far right is presented as an organization or political party makes no difference with regard to whether voters perceive it as a threat to democracy. Nevertheless, as argued by van Heerden and van der Brug (2017), the results might indicate that it is easier for political parties to distance themselves from accusations of racism and extremism than for extra-parliamentary organizations.
+
+These results support the study of van Heerden and van der Brug (2017) and the expected logic explained in the literature review—more voters are willing to tolerate a far-right political party than an organization. However, the results provide no clear indication of what exactly causes the public to evaluate far-right organizations differently from political parties. This underscores the need for more tests and experimental evidence to examine the mechanisms of party institutionalization and political tolerance.
+
+The second factor included in the experiment is concerned with ideological legacy, emphasizing the far-right initiatives' relationship to Europe's Nazi past. This is particularly important in terms of agency, as the legacy of the far right is a factor that it cannot control. The results show clearly that an explicit indicator of a relationship with historical fascism results in lower public political tolerance. A larger share of the electorate disagrees that the far-right initiative should be allowed to hold the event that it has asked for if it is made clear that the initiative was founded as a neo-Nazi organization. In addition, 57% of the respondents agreed that the neo-Nazi organization constitutes a threat to democracy. This result is underscored by the gap in treatment effects between the far-right initiatives that were founded as neo-Nazi organizations and those founded through more ordinary asylum protests. This supports the work of Ignazi (1992, 2003) and Carter (2005), who maintain that having an explicit legacy attached to historical fascism and Europe's Nazi past is an unsuccessful strategy for the far right. In addition, a close examination of the two other treatment factors reveals that being founded through district protest is no different from being founded through asylum protest. Based on the literature on reputational shields we could expect differences between these two legacies. However, it seems clear that it is not necessarily the legacy of something different from immigration policies that matters for political tolerance but, rather, the importance of being disconnected from Europe's Nazi past. This supports the expectation based on the literature review—a larger share of the public will tolerate a far-right initiative if it is disconnected from historical fascism.
+
+The third factor included in the experiment concerned how the far right explicitly distances itself from accusations of racism and extremism. This was tested through two different sets of treatment factors in the conjoint experiment. The first conjoint treatment included in the experiment was the explicit denial of right-wing extremism, as exemplified by a number of far-right parties in Western Europe. The results show that there is a six-percentage-point difference between the far-right initiatives that explicitly deny extremism and those for which no such information was provided. The same difference is found for perceived democratic threat. The next experimental treatment for this third set of explanatory factors, also exemplified by a number of far-right parties in Western Europe, is labeled “counter-evidence” in Figure 1. The results show that each of these factors contribute to explaining public political tolerance of the far right. Having a member who has been convicted of racism places the far right below the 50% threshold of political tolerance. However, if the member is excluded from the party, indicating that the party has taken action and does not accept having such members in the organization, the far-right initiative is placed above the same threshold. Finally, as expected, having members who explicitly deny the Holocaust makes it more likely that a larger share of the public will reject the far-right initiative. These results clearly show that how the far right distances itself from racism and extremism contributes to public political tolerance. However, having extreme members that deny the Holocaust, for example, significantly decreases tolerance. These results support the expectations based on the literature review—a larger share of the public will tolerate a far-right political initiative that excludes extreme members and explicitly denies extremism.
+
+The political message promoted by the far right is the final factor included in the experiment. The results show the same large differences with regard to citizens' political tolerance of the far right. As previously explained, the background for including the political message was to send a signal of the political initiatives' current ideological standpoint. In addition, the message that the far-right initiative wants to promote could affect citizens' political tolerance based on previous debates concerning freedom vs. racism (e.g., Bleich, 2011); the results demonstrate that this is the case. For the far-right initiative that wants to spread a message concerning the preservation of white culture, we see more than 10-percentage-points difference in political tolerance compared to the far-right initiative that wants to spread a message concerning the Islamic threat to liberal values. These results do, to some extent, support the expected relationship—a larger share of the public will tolerate a far-right initiative that promotes liberal values in criticizing Islam. However, although it is located on the positive side of the 50% threshold, the difference between promoting liberal values and promoting stricter asylum policies is not statistically significant for political tolerance. However, the difference is statistically significant for perceived democratic threat. What is clear is that the ideology promoted by the contemporary far right matters with regard to political tolerance. Future studies should examine this pattern more closely.
+
+Digging Deeper Into Agency
+
+This section digs deeper into what the far right does to disconnect itself from racism and extremism. Figure 2 demonstrates the more explicit measures that the far right takes to increase public political tolerance. The figure on the left shows the main results for all the conjoint treatments based on whether the far-right initiatives either explicitly denied everything concerning right-wing extremism or whether no such information was given to the respondents. Overall, the results show a significant difference between explicitly denying extremism and not providing such information—a larger share of the public is willing to tolerate the far-right initiative that explicitly denies extremism. Interestingly, the distance is largest for some of the more severe attributes, namely, between the initiatives that have a neo-Nazi legacy and those that want to promote the preservation of white culture. For the far-right initiative with a neo-Nazi legacy, there is close to 10-percentage-points difference between denying extremism and not providing such information. The same result is found for the far-right organization that promotes the preservation of white culture. However, it is important to emphasize that the results do not indicate that denying extremism turns the far-right initiative into a fully tolerated political alternative. What the results do indicate is that distancing from extremism—for example, by explicitly denying it—is necessary for public political tolerance of the far right10. The same pattern is found for the figure on the right. It represents the results from two treatment factors of counter-evidence. The right side of Figure 2 demonstrates the results of citizens' political tolerance depending on whether the far-right initiative was presented as having a member who was convicted of racist speech but who was later excluded or whether the organization had a few members who denied the Holocaust. The results show that the public is more likely to reject the far-right initiative with Holocaust-denying members compared to the far-right initiative whose member was forced to leave the organization. Nevertheless, in this case, as in the previous one, we see most intolerance toward the more severe treatment factors, such as preserving white culture and being founded as a neo-Nazi organization, even if the far right takes action and excludes the more extreme members.
+
+Figure 2. Results: Denial of extremism and counter-evidence.
+
+The baselines of political tolerance presented earlier in this study showed that 31% of the respondents agreed that the “worst” far-right initiative should be allowed to hold the event in a public place. Regarding the most tolerated political initiative, 78% of the respondents agreed that the far right should be allowed to do the same. The analyses presented in this study show that, by adding a signal concerning direct ties to historical fascism and Europe's Nazi past with treatment conditions such as a neo-Nazi legacy, political tolerance decreases by about 10-percentage-points for each treatment factor until it hits 31% for the least tolerated far-right initiative in this experiment. This underscores what the literature on the far right has argued—that an ideological legacy tied to historical fascism and Europe's Nazi past is an unsuccessful strategy for the far right (Ignazi, 1992; Ivarsflaten, 2006; Art, 2011).
+
+Response Heterogeneity
+
+An important question to ask is whether voters who are sympathetic toward the far right themselves respond differently to questions about political tolerance. It could be the case that supporters of the far right perceive the far-right initiative presented in the conjoint vignettes differently from how the respondents of other parties would. Because the attributes in the conjoint experiment are based on real far-right political parties, it is interesting to examine if the supporters of such parties perceive these traits differently from non-supporters. The final part of the results in this study address whether political tolerance of the far right varies between voters with different political backgrounds.
+
+To test whether supporters of the far right responded differently to the question of political tolerance Figure 3 demonstrates the mean response separating between voters who like and dislike the Norwegian Progress Party—a populist radical right party that attracts voters with nativist attitudes (e.g., Jupskås, 2015). The results show that there are substantial differences in how people judge the far-right initiatives' democratic rights based on whether they like or dislike the Progress Party. The respondents who like the party are substantially more tolerant toward the far-right initiative compared to the respondents who dislike the party11.
+
+Figure 3. Results: Public political tolerance contingent on political background.
+
+The respondents who dislike the Progress Party consistently evaluate the hypothetical far-right initiative below the 50% threshold, while those who like the Progress Party consistently evaluate it above the 50% threshold. There is, for example, a difference of more than 15-percentage-points in political tolerance with regard to preserving white culture among the two groups. This indicates that the same far-right initiative would be allowed to hold the public event by the group of voters who like the Progress Party but would be rejected by the group of voters who dislike the Progress Party.
+
+However, it is important to emphasize that these differences are related to levels and not to the specific conjoint treatments. The respondents do make the same overall distinctions: voters who like the Progress Party make the same distinctions between preserving white culture and Islamic threat, between being founded as neo-Nazi and being founded through district protests, and between Holocaust denial and the exclusion of racist members. Thus, the overall patterns found in the main analysis also seem to hold for voters who themselves support the far right. The results of this study indicate that voters at both ends of the political spectrum perceive the message concerning the far-right initiative in the same way. Voters from both camps make the same distinctions on conjoint treatments, although they respond to differing degrees. Nevertheless, it is important to emphasize that this a descriptive comparison. Because the affinity for the Progress Party is not random, other confounding factors may also be causally responsible for these differences.
+
+This analysis demonstrates that voters who are sympathetic to the far right make the same overall distinctions with regard to the experimental treatments as other voters do. However, there are large differences in terms of the levels: voters who are sympathetic toward the far right are generally more likely to tolerate the far-right initiative, while other voters are more likely to reject it. This indicates that it is important for parties on the far right to distance themselves from extremism. This is not necessarily important for gaining more voters, as those sympathetic toward the far right support them nevertheless, but for becoming politically influential and tolerated by those who are not sympathetic toward them. Overall, the results demonstrate that what far-right parties do is crucial for public political tolerance.
+
+Discussion and Conclusion
+
+In this study, public political tolerance of the far right is examined through the lens of agency—what the parties on the far right do to disconnect themselves from accusations of extremism and thus increase their political tolerance on the part of the public. The results have shown that several important attributes of the far right take part in shaping public political tolerance and perceived democratic threat. This study tested four such factors for which the agency of the far right varies. The four factors are variations of what the far right is and is not in control of: (1) party institutionalization, (2) its ideological legacy, (3) its distancing from racism and extremism, and (4) the political message it promotes. The main findings revealed in this conjoint experiment clearly show that the agency of the far right matters for public political tolerance. What the parties do affects their likelihood of being granted democratic privileges by ordinary citizens. When a far-right initiative is a political party rather than an extra-parliamentary organization, it promotes a political message about the Islamic threat to Western values, denies any links to right-wing extremism, and dismisses extreme members and candidates; this increases public political tolerance of the far right. However, having explicit links to historical fascism, such as being founded as a neo-Nazi organization, or having political candidates who make extreme statements is something the far right cannot control, and this has negative consequences for public political tolerance of the far right.
+
+Although the far right has become successful in elections and managed to become politically influential, it is still identified as the party family that a large share of voters would never vote for (Mudde and Rovira Kaltwasser, 2018, 1684). The results of this study add to our knowledge of why we observe such a pattern. The SD and the RN are particularly interesting cases. Both parties have grown to a greater or lesser extent of more extreme organizations: while the SD grew explicitly from an extremist organization, the RN originated from an extreme-right milieu. In combination with political candidates occasionally giving extreme statements in the media, these signs can contribute to decreased public political tolerance and prevent these parties from becoming politically influential. However, as previously explained, both parties have taken advantage of their agency and made significant changes to their platforms and organizations, for example, by dismissing extreme members (Ivaldi, 2016; Rydgren and van der Meiden, 2018). The results presented in this paper demonstrate that voters respond to signs about right-wing extremism. At the same time, voters also respond to indications that the far right distances itself from right-wing extremism.
+
+Finally, it is important to emphasize that the experiment presented in this paper did not include all the relevant factors that are likely to have an effect on public political tolerance of the far right. For example, it does not include how other political parties or the news media have responded to the far right. As Art (2007) argued, ostracizing the far right sends a signal that voting for them is a wasted vote, while cooperating with the far right increases its legitimacy. Such elite cues are likely to affect the public's views of the far right as well (see, e.g., Zaller, 1992). However, like elite responses, public political tolerance of the far right is about something specific. It is not based on frivolous arguments to reject the far right; rather, it is based on arguments about substantive issues. These issues have also been included in this conjoint experiment and are demonstrated by the study results. Public political tolerance of the far right is related to substantives. Rejection of the far right is caused by clear signs of right-wing extremism and connections to the Nazi past: having a neo-Nazi legacy, having members who deny the Holocaust, and promoting the preservation of white culture. These results hold for all segments of voters and are no different for those voters who themselves support the far right.
+
+Data Availability Statement
+
+The data presented in this study can be found in online repositories. The data are provided by UiB, prepared and made available by Ideas2Evidence, and distributed by the Norwegian Centre for Research Data (NSD). Neither UiB nor NSD are responsible for the analyses/interpretation of the data presented here. Data from the Norwegian Citizen Panel are available upon request from the Norwegian Centre for Research Data: https://www.nsd.no/nsddata/serier/norsk_medborgerpanel.html. Data from the Norwegian Citizen Panel are available for non-commercial use. Please see conditions of use at: https://www.uib.no/en/digsscore/122158/data-and-conditions-use.
+
+The studies involving human participants were reviewed and approved by The Norwegian Citizen Panel scientific committee. The NCP data has also been subject to a Data Protection Impact Assessment (DPIA, number 118868). The patients/participants provided their written informed consent to participate in this study.
+
+Author Contributions
+
+LB is the sole author of this article. She had the original idea for the study, designed the experiment, analyzed the data, and wrote the manuscript.
+
+The data collection for this study was financed by the University of Bergen (UiB), and Trond Mohn Foundation.
+
+Conflict of Interest
+
+The author declares that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.
+
+The author would like to thank Elisabeth Ivarsflaten, Raimondas Ibenskas, Ragnhild Muriaas, Jonas Linde, and Cornelius Cappellen for helpful and insightful comments on this article. The author is grateful for the generous, detailed, and constructive feedback by the two reviewers.
+
+Supplementary Material
+
+The Supplementary Material for this article can be found online at: https://www.frontiersin.org/articles/10.3389/fpos.2021.655204/full#supplementary-material
+
+1. ^Previously the Front National.
+
+2. ^What van Heerden and van der Brug (2017) refer to as demonization.
+
+3. ^Pettersson (2020) for example, demonstrates how candidates of populist radical right parties use their rhetorical strategy to distance themselves from accusations of racism.
+
+4. ^The experiment in this paper was fielded before these events took place.
+
+5. ^The varied conjoint treatments are 2 × 3 × 2 × 3 × 3 = 108.
+
+6. ^These variations have some effect on political (in)tolerance. The results for all treatment variations can be found in the Supplementary Material.
+
+7. ^Although directly drawn from the Norwegian National Population Registry, there are some issues of representativeness. Younger people, as well as those with lower education are underrepresented (Skjervheim et al., 2018, p. 7–10).
+
+8. ^The respondents participating in the survey were recruited in four rounds—wave 1 (November 2013), wave 3 (October 2014), wave 8 (March 2017), and wave 11 (March 2018). The respondents were invited by post and thereafter registered their email address for further participation in the panel. More information on sampling and representativeness is available in the Norwegian Citizen Panel methodology reports (Skjervheim et al., 2018).
+
+9. ^An example of how the experiment looked to the respondents can be found in the Supplementary Material.
+
+10. ^It is worth mentioning that the treatment condition concerning the denial of extremism is rather generic. Future studies could examine more concrete aspects of extremism denial—such as opposition to particular extremist groups, symbols or ideas.
+
+11. ^Response heterogeneity was also analyzed for gender and education. The results show similar patterns and can be found in the Supplementary Material.
+
+Akkerman, T. (2005). Anti-immigrant parties and the defence of liberal values: the exceptional case of the List Pim Fortuyn. J. Polit. Ideol. 10, 337–354. doi: 10.1080/13569310500244354
+
+CrossRef Full Text | Google Scholar
+
+Art, D. (2007). Reacting to the radical right: lessons from Germany and Austria. Party Polit. 13, 331–349. doi: 10.1177/1354068807075939
+
+CrossRef Full Text | Google Scholar
+
+Art, D. (2011). Inside the Radical Right: The Development of Anti-Immigrant Parties in Western Europe. Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511976254
+
+CrossRef Full Text | Google Scholar
+
+Bale, T. (2003). Cinderella and her ugly sisters: the mainstream and extreme right in Europe's bipolarising party systems. West Eur. Polit. 26, 67–90. doi: 10.1080/01402380312331280598
+
+CrossRef Full Text | Google Scholar
+
+Bélanger, E., and Arts, K. (2006). Explaining the rise of the LPF: issues, discontent, and the 2002 Dutch election. Acta Polit. 41, 4–20. doi: 10.1057/palgrave.ap.5500135
+
+CrossRef Full Text | Google Scholar
+
+Bergløff, C. B. (2018). Sverigedemokrat: – Man Skal Være Født Svensk og ha Svenske Foreldre. Available online at: https://www.nrk.no/urix/sverigedemokrat_-_-man-skal-vaere-fodt-svensk-og-ha-svenske-foreldre-1.14172043 (accessed August 19, 2020).
+
+Berntzen, L. E. (2019). The Liberal Roots of Far Right Activism. The Anti-Islamic Movement in the 21st Century. London: Routledge. doi: 10.4324/9780429275012
+
+CrossRef Full Text | Google Scholar
+
+Bleich, E. (2011). The Freedom to Be Racist? How the United States and Europe Struggle to Preserve Freedom and Combat Racism. Oxford: Oxford University Press.
+
+Blinder, S., Ford, R., and Ivarsflaten, E. (2013). The better angels of our nature: how the antiprejudice norm affects policy and party preferences in Great Britain and Germany. Am. J. Pol. Sci. 57, 841–857. doi: 10.1111/ajps.12030
+
+CrossRef Full Text | Google Scholar
+
+Carter, E. (2005). The extreme right in Western Europe: Success or failure? Manchester: Manchester University Press.
+
+de Lange, S. L., and Art, D. (2011). Fortuyn versus Wilders: an agency-based approach to radical right party building. West. Eur. Polit. 34, 1229–1249. doi: 10.1080/01402382.2011.616662
+
+CrossRef Full Text | Google Scholar
+
+Gidron, N., Adams, J., and Horne, W. (2019). Toward a comparative research agenda on affective polarization in mass publics. APSA Compar. Polit. Newslett. 29, 30–36.
+
+Givens, T. E., and Case, R. E. (2014). Legislating Equality. The Politics of Antidiscrimination Policy in Europe. Oxford: Oxford University Press. doi: 10.1093/acprof:oso/9780198709015.001.0001
+
+CrossRef Full Text | Google Scholar
+
+Golder, M. (2003). Explaining variation in the success of extreme right parties in Western Europe. Comp. Polit. Stud. 36, 432–466. doi: 10.1177/0010414003251176
+
+CrossRef Full Text | Google Scholar
+
+Goodwin, M. (2014). Forever a false dawn? explaining the electoral collapse of the British National Party (BNP). Parliam. Aff. 67, 887–906. doi: 10.1093/pa/gss062
+
+CrossRef Full Text | Google Scholar
+
+Hainmuller, J., Hopkins, D. J., and Yamamoto, T. (2014). Causal inference in conjoint analysis: understanding multi-dimensional choices via stated preference experiments. Polit. Anal. 22, 1–30. doi: 10.1093/pan/mpt024
+
+CrossRef Full Text | Google Scholar
+
+Huff, C., and Kertzer, J. D. (2018). How the public defines terrorism. Am. J. Polit. Sci. 62, 55–71. doi: 10.1111/ajps.12329
+
+CrossRef Full Text | Google Scholar
+
+Ignazi, P. (1992). The silent counter-revolution: hypotheses on the emergence of the extreme right-wing parties in Europe. Eur. J. Polit. Res. 22, 3–34. doi: 10.1111/j.1475-6765.1992.tb00303.x
+
+CrossRef Full Text | Google Scholar
+
+Ignazi, P. (2003). Extreme Right Parties in Western Europe. Oxford: Oxford University Press. doi: 10.1093/0198293259.001.0001
+
+CrossRef Full Text | Google Scholar
+
+Ivaldi, G. (2016). A new course for the French radical right? The Front National and ‘de-demonisation’, in Radical Right-Wing Populist Parties in Western Europe. Into the Mainstream?, eds Akkerman, T., de Lange, S. L., and Rooduijn, M., (London: Routledge.), 225–246.
+
+Ivarsflaten, E. (2006). Reputational Shields: Why Most Anti-Immigrant Parties Failed in Western Europe, 1980–2005. Nuffield College Working Papers in Politics. 2006-W10.
+
+Ivarsflaten, E., Blinder, S., and Bjånesøy, L. (2019). How and why the populist radical right persuades citizens?, inThe Oxford Handbook of Electoral Persuasion, edsSuhay, E., Grofman, B., and Trechsel, A., (Oxford: Oxford University Press) 815–837. doi: 10.1093/oxfordhb/9780190860806.013.50
+
+CrossRef Full Text | Google Scholar
+
+Jupskås, A. R. (2015). Persistence of Populism. The Norwegian Progress Party, 1973–2009. Ph.D. thesis, University of Oslo.
+
+Kitschelt, H., and McGann, A. (1995). The Radical Right in Western Europe: A Comparative Analysis. Cambridge: Cambridge University Press. doi: 10.3998/mpub.14501
+
+CrossRef Full Text | Google Scholar
+
+Kriesi, H., Grande, E., Lachat, R., Dolezal, M., Bornschier, S., and Frey, T. (2008). West European Politics in the Age of Globalization. Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511790720
+
+CrossRef Full Text | Google Scholar
+
+Leeper, T. J., Hobolt, S. B., and Tilley, J. (2020). Measuring subgroup preferences in conjoint experiments. Polit. Anal. 28, 207–221. doi: 10.1017/pan.2019.30
+
+CrossRef Full Text | Google Scholar
+
+Lubbers, M., and Güveli, A. (2007). Voting LPF: stratification and the varying importance of attitudes. J. Elect. Publ. Opin. Parties 17, 21–47. doi: 10.1080/13689880601132505
+
+CrossRef Full Text | Google Scholar
+
+Mayer, N. (2013). From Jean-Marie to Marine Le Pen: electoral change on the far right. Parliam. Aff. 66, 160–178. doi: 10.1093/pa/gss071
+
+CrossRef Full Text | Google Scholar
+
+Mayer, N. (2018). The radical right in France, in The Oxford Handbook of The Radical Right, ed Rydgren, J., (Oxford: Oxford University Press), 433–451. doi: 10.1093/oxfordhb/9780190274559.013.22
+
+CrossRef Full Text | Google Scholar
+
+Mudde, C., and Rovira Kaltwasser, C. (2017). Populism: A Very Short Introduction. Oxford: Oxford University Press. doi: 10.1093/actrade/9780190234874.001.0001
+
+CrossRef Full Text | Google Scholar
+
+Mudde, C., and Rovira Kaltwasser, C. (2018). Studying populism in comparative perspective: reflections on the contemporary and future research agenda. Comp. Polit. Stud. 51, 1667–1693. doi: 10.1177/0010414018789490
+
+CrossRef Full Text | Google Scholar
+
+Norwegian Citizen Panel (2018). Wave 13. Data collected by Ideas2Evidence for the Norwegian Citizen Panel, University of Bergen. 1st NSD Edn. Bergen: Norwegian Citizen Panel.
+
+Petersen, M., Slothuus, R., Stubager, R., and Togeby, L. (2011). Freedom for all? The strength and limits of political tolerance. Bri. J. Polit. Sci. 41, 581–597. doi: 10.1017/S0007123410000451
+
+CrossRef Full Text | Google Scholar
+
+Pettersson, K. (2020). The discursive denial of racism by Finnish populist radical right politicians accused of anti-muslim hate-speech, in Nostalgia and Hope: Intersections Between Politics of Culture, Welfare, and Migration in Europe, eds Norocel, O. C., Hellström, A., and Jørgensen, M. B., (Cham: Springer International Publishing), 35–50. doi: 10.1007/978-3-030-41694-2_3
+
+CrossRef Full Text | Google Scholar
+
+Rydgren, J. (2002). Radical right populism in sweden: still a failure, but for how long?. Scan. Polit. Stud. 25, 27–56. doi: 10.1111/1467-9477.00062
+
+CrossRef Full Text | Google Scholar
+
+Rydgren, J., and van der Meiden, S. (2018). The radical right and the end of Swedish exceptionalism. Eur. Polit. Sci. 18, 439–455. doi: 10.1057/s41304-018-0159-6
+
+CrossRef Full Text | Google Scholar
+
+Skjervheim, O., Høgestøl, A., and Bjørnebekk, O. (2018). Norwegian Citizen Panel 2018, Thirteenth Wave. Methodology Report. Technical Report, Ideas2Evidence, Bergen.
+
+Sniderman, P. M., and Hagendoorn, L. (2007). When Ways of Life Collide. Princeton, NJ: Princeton University Press.
+
+Sniderman, P. M., Petersen, M. B., Slothuus, R., and Stubager, R. (2014). Paradoxes of Liberal Democracy. Islam, Western Europe, and the Danish Cartoon Crisis. Princeton, NJ: Princeton University Press. doi: 10.1515/9781400852673
+
+CrossRef Full Text | Google Scholar
+
+Stouffer, S. (1955). Communism, Conformity, and Civil Liberties. New York: Doubleday.
+
+Sullivan, J. L., Piereson, J., and Marcus, G. E.. (1979). An alternative conceptualization of political tolerance: illusory increases 1950s−1970s. Am. Polit. Sci. Rev. 73, 781–794. doi: 10.2307/1955404
+
+CrossRef Full Text | Google Scholar
+
+Sullivan, J. L., Piereson, J., and Marcus, G. E.. (1982). Political Tolerance and American Democracy. Chicago, IL: University of Chicago Press.
+
+van Donselaar, J. (2017). Patterns of response to the extreme right in Western Europe, in The Populist Radical Right: A Reader, ed Mudde, C., (New York: Routledge), 543–557.
+
+van Heerden, S. C., and van der Brug, W. (2017). Demonisation and electoral support for populist radical right parties: a temporary effect. Elect. Stud. 47, 36–45. doi: 10.1016/j.electstud.2017.04.002
+
+CrossRef Full Text | Google Scholar
+
+van Spanje, J., and de Vreese, C. (2015). The good, the bad and the voter: the impact of hate speech prosecution of a politician on electoral support for his party. Party Polit. 21, 115–130. doi: 10.1177/1354068812472553
+
+CrossRef Full Text | Google Scholar
+
+Verkuyten, M. (2013). Justifying discrimination against Muslim immigrants: outgroup ideology and the five-step social identity model. Br. J. Soc. Psychol. 52, 345–360. doi: 10.1111/j.2044-8309.2011.02081.x
+
+CrossRef Full Text | Google Scholar
+
+Zaller, J. R. (1992). The Nature and Origins of Mass Opinion. Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511818691
+
+CrossRef Full Text | Google Scholar
+
+Keywords: the far right, agency, ideology, citizens, political tolerance
+
+Citation: Bjånesøy L (2021) Political (In)tolerance of the Far-Right: The Importance of Agency. Front. Polit. Sci. 3:655204. doi: 10.3389/fpos.2021.655204
+
+Received: 18 January 2021; Accepted: 30 March 2021; Published: 04 May 2021.
+
+Edited by: Laura Stephenson, Western University (Canada), Canada
+
+Reviewed by: Shane P. Singh, University of Georgia, United States Pedro C. Magalhães, University of Lisbon, Portugal
+
+Copyright © 2021 Bjånesøy. This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.
+
+*Correspondence: Lise Bjånesøy, lise.bjanesoy@uib.no
+
+Disclaimer: All claims expressed in this article are solely those of the authors and do not necessarily represent those of their affiliated organizations, or those of the publisher, the editors and the reviewers. Any product that may be evaluated in this article or claim that may be made by its manufacturer is not guaranteed or endorsed by the publisher.

@@ -1,0 +1,97 @@
+Home > Blog > Employee Privacy Laws: What Employers Should Know in 2024
+
+Employee Privacy Laws: What Employers Should Know in 2024
+
+TechnologyAdvice is able to offer our services for free because some vendors may pay us for web traffic or other sales opportunities. Our mission is to help technology buyers make better purchasing decisions, so we provide you with information for all vendors — even those that don’t pay us.
+
+Last Updated: January 2, 2024
+
+Published Date: February 21, 2023
+
+Table of contents Toggle
+
+Employee privacy rights are governed by a combination of state and federal laws as well as commonly followed data protection best practices.
+
+Employers must consider privacy risks, such as opening themselves to a lawsuit and endangering employee safety and well-being.
+
+TechnologyAdvice is able to offer our services for free because some vendors may pay us for web traffic or other sales opportunities. Our mission is to help technology buyers make better purchasing decisions, so we provide you with information for all vendors — even those that don’t pay us.
+
+Featured partnersFeatured Partners
+
+Employees per Company Size
+
+Micro (0-49), Small (50-249), Medium (250-999), Large (1,000-4,999), Enterprise (5,000+) Micro, Small, Medium Sized Companies
+
+Core Features Lorem ipsum, dolor, sit amet, consectetur, adipiscing, and more
+
+Integrations Lorem ipsum, dolor, sit amet, consectetur, adipiscing, and more
+
+Businesses often monitor employee activity and collect employee data as a step in the risk management process. However, workers have a right to certain privacy protections, just as they have rights to fair wages and safe working conditions. Employee privacy laws are complex and nuanced, but a clear understanding of these rights helps businesses protect themselves without risking compliance violations.
+
+What privacy risks should employers consider?
+
+There are many different workplace privacy risks that employers must consider. Personal information disclosure is a universal concern that can occur in almost any business. Releasing this information, even accidentally, can endanger an employee’s physical and financial well-being. It can make them vulnerable to stalking, doxxing, hacking, financial fraud, and other serious situations.
+
+Excessive monitoring can also lead to discovering information employers legally cannot ask about, such as an employee’s religion or sexual orientation. These situations may lead to legal action if the employee belongs to a protected class.
+
+Attributing negative or untrue information to an employee, such as allegations of criminal activities, can lead to an invasion of privacy claim. Using an employee’s name or likeness without permission can also lead to a misappropriation claim. To avoid this, be sure to get written consent before using an employee’s name, image, or quote on promotional materials.
+
+What are employees’ privacy rights?
+
+Employees of private companies generally have rights to data privacy surrounding the following issues in the workplace: personal information, medical and genetic information, job references, background and credit checks, drug and alcohol testing, GPS monitoring, electronic monitoring, camera monitoring, postal mail, and personal searches.
+
+Personal information
+
+For federal agencies, The Privacy Act of 1974 prohibits sharing an employee’s information with other people or agencies except in rare circumstances. Generally speaking, private companies should take the same approach as The Privacy Act and refuse to disclose personal data about employees or their dependents to other parties. This is especially crucial for full names, birth dates, Social Security numbers, bank account numbers, and additional information that could compromise an individual’s physical safety or financial security.
+
+Medical and genetic information
+
+The Health Insurance Portability and Accountability Act of 1996, better known as HIPAA, is a national law that protects people’s personal health information, including their medical records. Additionally, the Genetic Information Nondiscrimination Act (GINA) prohibits employers with 15 or more employees from discriminating against workers based on their genetic backgrounds.
+
+No official employment laws prevent an employer from giving an employee’s personal data to people who inquire about a job reference. However, employers shouldn’t release employee information to a third party, even if the job reference contact seems legitimate.
+
+Background and credit checks
+
+Many businesses vet potential employees via background checks and credit checks as part of the hiring process. The Fair Credit Reporting Act (FCRA) requires a company to get a job applicant’s permission to run either of these checks. Employers should not release credit information to any third parties.
+
+Drug and alcohol testing
+
+Businesses in the United States are legally allowed to test employees and job candidates for drugs and alcohol. Some states have privacy laws prohibiting employers from forcing workers to get drug tested except in some instances, such as a workplace accident involving suspected drug use. Regardless of jurisdiction, companies should keep these test results confidential.
+
+Also read: Employer’s Guide to Drug Testing in the Workplace
+
+In most cases, GPS monitoring is legal if the vehicle or equipment is company-owned. However, employers must provide a legitimate justification for this tracking and notify employees that their location is being monitored. Some states, like Florida, require employers to obtain consent from employees before they may begin tracking their locations.
+
+Electronic monitoring
+
+Monitoring company-owned phones, computers, and email accounts is legal as long as the devices belong to the employer, not the employee. Employers cannot monitor personal devices because the Electronic Communications Privacy Act of 1986 (ECPA) prohibits anyone from unlawfully and intentionally intercepting oral, wire, or electronic communication. The Stored Communications Act (SCA) also restricts access to communication data.
+
+Video monitoring is legal in company buildings and attached structures like parking garages. Still, some states require businesses to give a privacy notice to employees. Other states only allow video surveillance in public places, but the definition of a “public place” can vary greatly. 
+
+For example, businesses cannot monitor employees in bathrooms, breakrooms, and other areas where they have a reasonable expectation of workplace privacy. Employers are also prohibited from videotaping employees while they engage in union activities under the National Labor Relations Act (NLRA).
+
+The U.S. Constitution’s Fourth Amendment protects citizens from unreasonable search and seizure, including at work. Employers need probable cause to conduct a personal search. For example, if an employee is caught stealing something on camera, the business would have a justifiable reason to search the employee’s belongings. However, employers should never conduct forceful or excessively invasive searches.
+
+Obstructing mail en route is illegal, but once it’s delivered, employers may legally open mail that was sent to a business address, even if it is addressed to an employee.
+
+Tips for complying with employee privacy laws
+
+Employers can take strategic steps to ensure they are collecting data that helps protect the business while also protecting employee privacy. 
+
+First, employers should inform employees of the business’s data collection and surveillance practices. Furthermore, workplace surveillance and security policies must outline what information may or may not be shared and the steps to take in case of a data breach or leak.
+
+To minimize the chance of HR data falling into the wrong hands, IT teams should enable automatic timeout features and consider implementing two-factor authentication to strengthen the software’s security further. Maintaining software updates for all devices also reduces the risk of being hacked.
+
+Perhaps most importantly, cybersecurity should be a high priority when choosing new business software, especially an HR information system (HRIS) that stores employee data. During implementation, it’s best to use the principle of least privilege to determine who should have access to the database. HR staff and anyone else who handles employee data should know the best practices for protecting workplace privacy.
+
+To compare the cybersecurity features of market-leading HRIS solutions, explore our HR Software Guide.
+
+Kara Sherrer is a writer and marketer who has worked with both B2C and B2B clients across many different industries, including technology. She is passionate about helping clients to create and promote informative content according to SEO best practices. Discover more of her work at karasherrer.com.
+
+Best Mobile Accounting Apps of 2024
+
+Gamification in the Workplace: Examples to Increase Engagement
+
+Top SurveyMonkey Alternatives & Competitors
+
+Sign up to our HR Digest newsletter and start getting weekly HR industry-leading news and top resources.

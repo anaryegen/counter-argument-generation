@@ -1,0 +1,251 @@
+Credit Report & Scores
+
+View All Credit Report & Scores
+
+View All Report Advice
+
+Negative Information
+
+Fraud & Identity Theft
+
+View All Fraud & Identity Theft
+
+View All Credit Cards
+
+Rewards Credit Cards
+
+Cash Back Credit Cards
+
+Secured Credit Cards
+
+Student Credit Cards
+
+View All Personal Finance
+
+Certificate of Deposit (CD)
+
+Latest News & Trends
+
+Advertiser Disclosure
+
+What Affects Your Credit Scores?
+
+July 29, 2023 • 7 min read
+
+Credit scoring systems comb and analyze credit reports to evaluate how you manage credit. They focus on factors such as your payment history, your total debt, usage of available credit, length of credit history, credit mix and new credit.
+
+Credit scoring systems such as the FICO® Score☉ and VantageScore® analyze credit report information to predict whether you'll pay your debts as agreed. The software essentially uses advanced algorithms to comb your credit history for signs of good (and bad) credit management habits.
+
+The calculations that produce credit scores are closely kept trade secrets, but the underlying factors they consider (as well as how they're weighted) are public knowledge. The following factors and percentage weightings apply to the FICO® Score, which is used by 90% of top lenders.
+
+VantageScore factors differ somewhat, but adopting the habits described below will promote improvement on any credit score derived from credit report data.
+
+Factors That Determine Credit Scores
+
+1. Payment History: 35%
+
+Making debt payments on time every month benefits your credit scores more than any other single factor—and just one payment made 30 days late can do significant harm to your scores. An account sent to collections, a foreclosure or a bankruptcy can have even deeper, longer-lasting consequences. Payment history accounts for about 35% of your FICO® Score.
+
+2. Amounts Owed: 30%
+
+The total amount you've borrowed affects your credit score, as does the portion of your available credit tied up in outstanding balances. Your credit utilization ratio, or rate—the percentage of your total borrowing limit you're using on your credit cards and other revolving-credit accounts—is a significant factor in determining credit scores. It is also one of the factors that's most responsive to your actions. For instance, paying off a high-balance credit card one month can help you see a credit score boost once the payment is reported to the credit bureaus and a new score is calculated.
+
+To calculate your utilization, divide your outstanding balance on each revolving account by its credit limit and multiply by 100 to express the answer as a percentage. Credit scoring systems consider the utilization rate on all accounts individually and on the total of all accounts, as in the following example:
+
+Credit Utilization Rate Example
+
+Utilization (Balance/Limit)
+
+Individuals with the highest credit scores tend to keep their utilization rates below about 10%, and utilization rates of roughly 30% or greater will more negatively impact credit scores. Paying down higher balances can bring relatively quick score improvement, so in this example, focusing on reducing the balance on card 2 could lead to a relatively quick increase in credit scores.
+
+Amounts owed are responsible for about 30% of your FICO® Score.
+
+3. Length of Credit History: 15%
+
+It makes intuitive sense that experience with credit accounts will tend to make you better at managing debt, and that's borne out by statistical analysis. For that reason, all else being equal, the longer your credit history, the higher your credit score will tend to be. The FICO® Score evaluates your experience with credit by measuring the age of your oldest credit account, the age of your newest credit account and the average age of all your accounts.
+
+Note that closing accounts and paying off loans in full caps the payment history for those accounts, but it doesn't immediately cancel out their ages for purposes of calculating length of credit history. Accounts you choose to close in good standing (meaning with no late payments) remain on your credit report for as long as 10 years.
+
+The length of your credit history accounts for about 15% of your FICO® Score.
+
+The ability to successfully manage multiple debts and different credit types tends to benefit your credit scores. Credit scoring systems favor a mixture of installment debt (such as student loans, mortgages, car loans and personal loans) and revolving accounts (credit cards and lines of credit). Credit mix comprises about 10% of your FICO® Score.
+
+It's a statistical fact that new debt raises the odds you'll fall behind on your old debts. Credit scoring systems, therefore, may ding your score a small amount in response to hard inquiries―entries that appear on your credit report when a lender processes a credit application from you. Your credit will usually decrease less than five points for an inquiry, and if you keep up with your bills, your score will typically rebound within a few months.
+
+Hard inquiries are not all treated the same, however. Credit scoring models see rate shopping for the best rates and terms on installment loans such as mortgages, car loans and student loans as positive behavior. In these cases, they lump together hard inquiries on the same type of loan made within a short period of time (two weeks to be safe) and consider them as one inquiry. Note that hard inquiries made in relation to credit card applications don't get this same treatment: Each inquiry is considered separately, and can have a bigger impact if you apply for several cards in a short time span.
+
+New credit is responsible for about 10% of your FICO® Score.
+
+Frequently Asked Questions
+
+How Do I Check My Credit Score?
+
+You can check your credit score in a variety of ways: through many financial institutions and credit card websites and apps, at websites that offer scores as part of free subscription services, or directly from the national credit bureaus. You can check your FICO® Score 8 based on Experian data for free as part of a free CreditWorks℠ Basic subscription from Experian.
+
+Can Service Accounts Impact My Credit Score?
+
+Recurring payments to utilities and other services such as cable or cellphone are not traditionally included in credit reports. But if you share your payment history through the Experian Boost®ø program, these payments can benefit FICO® Scores based on Experian credit data.
+
+What Can Hurt Your Credit Scores?
+
+The following actions can hurt your credit scores:
+
+Missing payments: Mentioned above, but well worth repeating: Even one payment made 30 days late or missed altogether can hurt credit scores significantly.
+
+Using too much of your available credit: Lenders may view high credit utilization as a sign of overdependence on credit. Utilization and overall debt account for 30% of your FICO® Score.
+
+Seeking a lot of credit in a short time: As noted above, each time a lender requests your credit reports for a lending decision, a hard inquiry is recorded in your credit file. With the important exception of rate shopping for installment loans, many credit inquiries around the same time can have a compounding effect on your credit score.
+
+Defaulting on accounts: Formally defined as going 90 days or longer without making a scheduled debt payment, a default is a major negative mark on your credit report and can lead to more severe consequences, such as foreclosure, repossession, charge-offs, settled accounts and even bankruptcy.
+
+How Can I Improve My Credit Score?
+
+Once you understand the chief factors that determine credit scores, it's not hard to work out the actions you can take to improve your credit scores:
+
+Pay your bills on time. Do it every month, without fail, using any strategy for avoiding late payments that works for you.
+
+Pay down high balances. Reducing balances on credit cards and other revolving accounts can be one of the quickest ways to improve your credit scores.
+
+Review your credit reports and correct any inaccuracies. You have the right to dispute entries on your credit reports, including some that could be hurting your credit scores.
+
+Limit new credit applications. Credit scoring systems recognize the wisdom of shopping for the best terms on a car loan, mortgage or other installment loan, but multiple credit card applications can rack up hard inquiries that hurt your credit scores. If you want to compare credit card offers, consider the prequalification process, which gives you a good idea of the terms you can get without generating hard inquiries. You can find out which cards you may qualify for based on your unique credit profile with Experian's card comparison tool.
+
+Make up for missing payments. If you have any past-due payments, bring your accounts up to date to prevent further damage to your credit scores.
+
+Be patient. As your credit history lengthens, your credit scores will tend to improve, and time will diminish the ill effects any missteps may have had on your scores. So, if you adopt good habits and stay the course, you can see steady improvement in your credit scores.
+
+What Can I Do if I Don't Have a Credit Score?
+
+If you're new to personal credit, your lack of credit history may mean you cannot get a credit score, which can make it hard to qualify for the credit you need to get started with a credit history, and so on. Fortunately, there are several proven approaches that can help you break the cycle and establish a credit score, including:
+
+Get a secured credit card. A secured credit card works like a conventional credit card, but requires a security deposit—typically a couple hundred dollars—which usually serves as your credit limit. Making purchases with the card and paying your bill on time helps establish a credit report and score, and a positive payment history.
+
+Become an authorized user. If you are close with someone with a credit card (and, ideally, a good credit history), becoming an authorized user on their account could jump-start your credit history. Authorized users get cards in their own name and spending privileges on the main cardholder's account. Confirm that the card issuer reports authorized-user activity to the credit bureaus; if they do, you'll be eligible for a credit score of your own after about six months of card usage.
+
+Get a credit-builder loan. A credit-builder loan is a small loan, typically for less than $1,000, available from many credit unions and some banks. They are designed to help you save money and establish a payment history at the same time: You take out the loan, and the money you borrow is placed in a special savings account that earns interest but is off-limits to you until you pay off the loan (typically over a term of 12 months or less). If you fail to make payments, the lender keeps the loan amount, but if you pay off the loan, you will have amassed a bit of savings and established a positive payment record.
+
+Try Experian Boost. This free feature lets you share payment information on recurring expenses such as utility and cellphone bills and rent you pay online and have it reflected in your Experian credit report. Experian Boost can help you establish a credit report if you don't have one and improve credit scores based on Experian credit data.
+
+Understanding the factors that go into credit scores can help you recognize the connections between your behaviors and your scores. While there are factors beyond your control (you can't instantly gain 10 more years of credit management experience, for instance), you can make choices today that affect your credit scores relatively quickly.
+
+Adopting good credit habits that align with credit scoring factors and sticking to them over the long haul is the key to steady credit score improvement. To monitor your progress, you can sign up for free credit monitoring from Experian.
+
+Learn More About What Affects Your Credit Score
+
+What’s the Most Important Factor of Your Credit Score? The most important factor of your FICO Score is your payment history, which makes up 35% of your score. Here’s what other factors matter.
+
+What Is a Credit Utilization Rate? Your credit utilization rate is the percentage of your revolving accounts’ balances that you’re using.
+
+How to Improve Your Payment History Maintaining a clean payment history—or refurbishing a spotty one—can help you improve your credit scores and save you money.
+
+How Does Length of Credit History Affect Your Credit? The length of your credit history can directly impact your credit scores, and this scoring factor is often misunderstood.
+
+What Makes a Good Credit Score?
+
+Learn what it takes to achieve a good credit score. Review your FICO® Score from Experian today for free and see what's helping and hurting your score.
+
+Get Your FICO® Score
+
+No credit card required
+
+How Good Is Your Credit Score?
+
+Examples: 600, 700, 780, 803
+
+300 credit score301 credit score302 credit score303 credit score304 credit score305 credit score306 credit score307 credit score308 credit score309 credit score310 credit score311 credit score312 credit score313 credit score314 credit score315 credit score316 credit score317 credit score318 credit score319 credit score320 credit score321 credit score322 credit score323 credit score324 credit score325 credit score326 credit score327 credit score328 credit score329 credit score330 credit score331 credit score332 credit score333 credit score334 credit score335 credit score336 credit score337 credit score338 credit score339 credit score340 credit score341 credit score342 credit score343 credit score344 credit score345 credit score346 credit score347 credit score348 credit score349 credit score350 credit score351 credit score352 credit score353 credit score354 credit score355 credit score356 credit score357 credit score358 credit score359 credit score360 credit score361 credit score362 credit score363 credit score364 credit score365 credit score366 credit score367 credit score368 credit score369 credit score370 credit score371 credit score372 credit score373 credit score374 credit score375 credit score376 credit score377 credit score378 credit score379 credit score380 credit score381 credit score382 credit score383 credit score384 credit score385 credit score386 credit score387 credit score388 credit score389 credit score390 credit score391 credit score392 credit score393 credit score394 credit score395 credit score396 credit score397 credit score398 credit score399 credit score400 credit score401 credit score402 credit score403 credit score404 credit score405 credit score406 credit score407 credit score408 credit score409 credit score410 credit score411 credit score412 credit score413 credit score414 credit score415 credit score416 credit score417 credit score418 credit score419 credit score420 credit score421 credit score422 credit score423 credit score424 credit score425 credit score426 credit score427 credit score428 credit score429 credit score430 credit score431 credit score432 credit score433 credit score434 credit score435 credit score436 credit score437 credit score438 credit score439 credit score440 credit score441 credit score442 credit score443 credit score444 credit score445 credit score446 credit score447 credit score448 credit score449 credit score450 credit score451 credit score452 credit score453 credit score454 credit score455 credit score456 credit score457 credit score458 credit score459 credit score460 credit score461 credit score462 credit score463 credit score464 credit score465 credit score466 credit score467 credit score468 credit score469 credit score470 credit score471 credit score472 credit score473 credit score474 credit score475 credit score476 credit score477 credit score478 credit score479 credit score480 credit score481 credit score482 credit score483 credit score484 credit score485 credit score486 credit score487 credit score488 credit score489 credit score490 credit score491 credit score492 credit score493 credit score494 credit score495 credit score496 credit score497 credit score498 credit score499 credit score500 credit score501 credit score502 credit score503 credit score504 credit score505 credit score506 credit score507 credit score508 credit score509 credit score510 credit score511 credit score512 credit score513 credit score514 credit score515 credit score516 credit score517 credit score518 credit score519 credit score520 credit score521 credit score522 credit score523 credit score524 credit score525 credit score526 credit score527 credit score528 credit score529 credit score530 credit score531 credit score532 credit score533 credit score534 credit score535 credit score536 credit score537 credit score538 credit score539 credit score540 credit score541 credit score542 credit score543 credit score544 credit score545 credit score546 credit score547 credit score548 credit score549 credit score550 credit score551 credit score552 credit score553 credit score554 credit score555 credit score556 credit score557 credit score558 credit score559 credit score560 credit score561 credit score562 credit score563 credit score564 credit score565 credit score566 credit score567 credit score568 credit score569 credit score570 credit score571 credit score572 credit score573 credit score574 credit score575 credit score576 credit score577 credit score578 credit score579 credit score
+
+580 credit score581 credit score582 credit score583 credit score584 credit score585 credit score586 credit score587 credit score588 credit score589 credit score590 credit score591 credit score592 credit score593 credit score594 credit score595 credit score596 credit score597 credit score598 credit score599 credit score600 credit score601 credit score602 credit score603 credit score604 credit score605 credit score606 credit score607 credit score608 credit score609 credit score610 credit score611 credit score612 credit score613 credit score614 credit score615 credit score616 credit score617 credit score618 credit score619 credit score620 credit score621 credit score622 credit score623 credit score624 credit score625 credit score626 credit score627 credit score628 credit score629 credit score630 credit score631 credit score632 credit score633 credit score634 credit score635 credit score636 credit score637 credit score638 credit score639 credit score640 credit score641 credit score642 credit score643 credit score644 credit score645 credit score646 credit score647 credit score648 credit score649 credit score650 credit score651 credit score652 credit score653 credit score654 credit score655 credit score656 credit score657 credit score658 credit score659 credit score660 credit score661 credit score662 credit score663 credit score664 credit score665 credit score666 credit score667 credit score668 credit score669 credit score
+
+670 credit score671 credit score672 credit score673 credit score674 credit score675 credit score676 credit score677 credit score678 credit score679 credit score680 credit score681 credit score682 credit score683 credit score684 credit score685 credit score686 credit score687 credit score688 credit score689 credit score690 credit score691 credit score692 credit score693 credit score694 credit score695 credit score696 credit score697 credit score698 credit score699 credit score700 credit score701 credit score702 credit score703 credit score704 credit score705 credit score706 credit score707 credit score708 credit score709 credit score710 credit score711 credit score712 credit score713 credit score714 credit score715 credit score716 credit score717 credit score718 credit score719 credit score720 credit score721 credit score722 credit score723 credit score724 credit score725 credit score726 credit score727 credit score728 credit score729 credit score730 credit score731 credit score732 credit score733 credit score734 credit score735 credit score736 credit score737 credit score738 credit score739 credit score
+
+740 credit score741 credit score742 credit score743 credit score744 credit score745 credit score746 credit score747 credit score748 credit score749 credit score750 credit score751 credit score752 credit score753 credit score754 credit score755 credit score756 credit score757 credit score758 credit score759 credit score760 credit score761 credit score762 credit score763 credit score764 credit score765 credit score766 credit score767 credit score768 credit score769 credit score770 credit score771 credit score772 credit score773 credit score774 credit score775 credit score776 credit score777 credit score778 credit score779 credit score780 credit score781 credit score782 credit score783 credit score784 credit score785 credit score786 credit score787 credit score788 credit score789 credit score790 credit score791 credit score792 credit score793 credit score794 credit score795 credit score796 credit score797 credit score798 credit score799 credit score
+
+800 credit score801 credit score802 credit score803 credit score804 credit score805 credit score806 credit score807 credit score808 credit score809 credit score810 credit score811 credit score812 credit score813 credit score814 credit score815 credit score816 credit score817 credit score818 credit score819 credit score820 credit score821 credit score822 credit score823 credit score824 credit score825 credit score826 credit score827 credit score828 credit score829 credit score830 credit score831 credit score832 credit score833 credit score834 credit score835 credit score836 credit score837 credit score838 credit score839 credit score840 credit score841 credit score842 credit score843 credit score844 credit score845 credit score846 credit score847 credit score848 credit score849 credit score850 credit score
+
+What Is a Good Credit Score?
+
+What Affects Your Credit Scores?
+
+What Are the Different Credit Score Ranges?
+
+Credit Report Basics
+
+Credit Repair: How to “Fix” Your Credit Yourself
+
+Understanding Your Experian Credit Report
+
+How to Dispute Credit Report Information
+
+Fraud & Identity Theft
+
+Identity Theft Victim Assistance
+
+What Is Identity Theft?
+
+What Is Credit Card Fraud?
+
+How to Freeze Your Credit at All 3 Credit Bureaus
+
+How to Improve Your Credit Score
+
+What Is a Credit Utilization Rate?
+
+How to Build Credit: A Comprehensive Guide
+
+Is a Debt Consolidation Loan Right For You?
+
+Is a Debt Management Plan Right for You?
+
+How to Pay Off Credit Card Debt
+
+How to Get Out of Debt
+
+Personal Loan Calculator
+
+Credit Card Payoff Calculator
+
+Car Payment Calculator
+
+Average Personal Loan Balance Grows 6.3% in 2023
+
+Average Mortgage Balances Exceed $1 Million in 47 Cities in 2024
+
+Fed Rate Cuts Will Take Time to Impact Consumers
+
+What Is the Best Age to Get a Credit Card?
+
+Is It Worth Paying an Annual Fee for a Credit Card?
+
+How to Pay Off Debt in Collections
+
+Should You Freeze Your Child’s Credit File?
+
+Why Is Saving Money Important?
+
+What Is Insurance Fraud?
+
+To view important disclosures about the Experian Smart Money™ Digital Checking Account & Debit Card, visit experian.com/legal.
+
+The Experian Smart Money™ Debit Card is issued by Community Federal Savings Bank (CFSB), pursuant to a license from Mastercard International. Banking services provided by CFSB, Member FDIC. Experian is a Program Manager, not a bank.
+
+øResults will vary. Not all payments are boost-eligible. Some users may not receive an improved score or approval odds. Not all lenders use Experian credit files, and not all lenders use scores impacted by Experian Boost®. Learn more.
+
+☉Credit score calculated based on FICO® Score 8 model. Your lender or insurer may use a different FICO® Score than FICO® Score 8, or another type of credit score altogether. Learn more.
+
+Editorial Policy: The information contained in Ask Experian is for educational purposes only and is not legal advice. You should consult your own attorney or seek specific advice from a legal professional regarding any legal issues. Please understand that Experian policies change over time. Posts reflect Experian policy at the time of writing. While maintained for your information, archived posts may not reflect current Experian policy.
+
+Opinions expressed here are author's alone, not those of any bank, credit card issuer or other company, and have not been reviewed, approved or otherwise endorsed by any of these entities, unless sponsorship is explicitly indicated. All information, including rates and fees, are accurate as of the date of publication and are updated as provided by our partners. Some of the offers on this page may not be available through our website.
+
+Offer pros and cons are determined by our editorial team, based on independent research. The banks, lenders, and credit card companies are not responsible for any content posted on this site and do not endorse or guarantee any reviews.
+
+Advertiser Disclosure: The offers that appear on this site are from third party companies ("our partners") from which Experian Consumer Services receives compensation. This compensation may impact how, where, and in what order the products appear on this site. The offers on the site do not represent all available financial services, companies, or products.
+
+*For complete information, see the offer terms and conditions on the issuer or partner's website. Once you click apply you will be directed to the issuer or partner's website where you may review the terms and conditions of the offer before applying. We show a summary, not the full legal terms – and before applying you should understand the full terms of the offer as stated by the issuer or partner itself. While Experian Consumer Services uses reasonable efforts to present the most accurate information, all offer information is presented without warranty.
+
+© 2024 All rights reserved. Experian. Experian and the Experian trademarks used herein are trademarks or registered trademarks of Experian and its affiliates. The use of any other trade name, copyright, or trademark is for identification and reference purposes only and does not imply any association with the copyright or trademark holder of their product or brand. Other product and company names mentioned herein are the property of their respective owners. Licenses and Disclosures.
+
+Check Your FICO® Score for Free
+
+Learn what it takes to achieve a good credit score.
+
+Start NowGet Your FICO® Score

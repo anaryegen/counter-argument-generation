@@ -1,0 +1,189 @@
+Skip to main content
+
+Academic Departments
+
+Centers, Institutes & Labs
+
+Can't find what you're looking for?
+
+Academic Departments
+
+Centers, Institutes & Labs
+
+This is a site-wide search. if you already know what you're looking for, try visiting a section of the site first to see A-Z listings.
+
+No Results View All Pages
+
+No Results View All Faculty
+
+Center for Health Ethics
+
+Gene Therapy and Genetic Engineering
+
+The cells of a human being or other organism have parts called “genes” that control the chemical reactions in the cell that make it grow and function and ultimately determine the growth and function of the organism. An organism inherits some genes from each parent and thus the parents pass on certain traits to their offspring.
+
+Gene therapy and genetic engineering are two closely related technologies that involve altering the genetic material of organisms. The distinction between the two is based on purpose. Gene therapy seeks to alter genes to correct genetic defects and thus prevent or cure genetic diseases. Genetic engineering aims to modify the genes to enhance the capabilities of the organism beyond what is normal.
+
+Ethical controversy surrounds possible use of the both of these technologies in plants, nonhuman animals, and humans. Particularly with genetic engineering, for instance, one wonders whether it would be proper to tinker with human genes to make people able to outperform the greatest Olympic athletes or much smarter than Einstein.
+
+Confusing Terminology
+
+If genetic engineering is meant in a very broad sense to include any intentional genetic alteration, then it includes gene therapy. Thus one hears of “therapeutic genetic engineering” (gene therapy) and “negative genetic engineering” (gene therapy), in contrast with “enhancement genetic engineering” and “positive genetic engineering” (what we call simply “genetic engineering”).
+
+We use the phrase “genetic engineering” more narrowly for the kind of alteration that aims at enhancement rather than therapy. We use the term “gene therapy” for efforts to bring people up to normalcy and “genetic engineering” or “enhancement genetic engineering” for efforts to enhancement people’s capabilities beyond normalcy.
+
+Somatic Cells and Reproductive Cells
+
+Two fundamental kinds of cell are somatic cells and reproductive cells. Most of the cells in our bodies are somatic – cells that make up organs like skin, liver, heart, lungs, etc., and these cells vary from one another. Changing the genetic material in these cells is not passed along to a person’s offspring. Reproductive cells are sperm cells, egg cells, and cells from very early embryos. Changes in the genetic make-up of reproductive cells would be passed along to the person’s offspring. Those reproductive cell changes could result in different genetics in the offspring’s somatic cells than otherwise would have occurred because the genetic makeup of somatic cells is directly linked to that of the germ cells from which they are derived.
+
+Techniques of Genetic Alteration
+
+Two problems must be confronted when changing genes. The first is what kind of change to make to the gene. The second is how to incorporate that change in all the other cells that are must be changed to achieve a desired effect.
+
+There are several options for what kind of change to make to the gene. DNA in the gene could be replaced by other DNA from outside (called “homologous replacement). Or the gene could be forced to mutate (change structure – “selective reverse mutation.”) Or a gene could just be added. Or one could use a chemical to simply turn off a gene and prevent it from acting.
+
+There are also several options for how to spread the genetic change to all the cells that need to be changed. If the altered cell is a reproductive cell, then a few such cells could be changed and the change would reach the other somatic cells as those somatic cells were created as the organism develops. But if the change were made to a somatic cell, changing all the other relevant somatic cells individually like the first would be impractical due to the sheer number of such cells. The cells of a major organ such as the heart or liver are too numerous to change one-by-one. Instead, to reach such somatic cells a common approach is to use a carrier, or vector, which is a molecule or organism. A virus, for example, could be used as a vector. The virus would be an innocuous one or changed so as not to cause disease. It would be injected with the genetic material and then as it reproduces and “infects” the target cells it would introduce the new genetic material. It would need to be a very specific virus that would infect heart cells, for instance, without infecting and changing all the other cells of the body. Fat particles and chemicals have also been used as vectors because they can penetrate the cell membrane and move into the cell nucleus with the new genetic material.
+
+Arguments in Favor of Gene Therapy and Genetic Engineering
+
+Gene therapy is often viewed as morally unobjectionable, though caution is urged. The main arguments in its favor are that it offers the potential to cure some diseases or disorders in those who have the problem and to prevent diseases in those whose genes predisposed them to those problems. If done on reproductive cells, gene therapy could keep children from carrying such genes (for unfavorable genetic diseases and disorders) that the children got from their patients.
+
+Genetic engineering to enhance organisms has already been used extensively in agriculture, primarily in genetically modified (GM) crops (also known as GMO --genetically modified organisms). For example, crops and stock animals have been engineered so they are resistant to herbicides and pesticides, which means farmers can then use those chemicals to control weeds and insects on those crops without risking harming those plants. In the future genetic enhancement could be used to create crops with greater yields of nutritional value and selective breeding of farm stock, race horses, and show animals.
+
+Genetically engineered bacteria and other microorganisms are currently used to produce human insulin, human growth hormone, a protein used in blood clotting, and other pharmaceuticals, and the number of such compounds could increase in the future.
+
+Enhancing humans is still in the future, but the basic argument in favor of doing so is that it could make life better in significant ways by enhancing certain characteristics of people. We value intelligence, beauty, strength, endurance, and certain personality characteristics and behavioral tendencies, and if these traits were found to be due to a genetic component we could enhance people by giving them such features. Advocates of genetic engineering point out that many people try to improve themselves in these ways already – by diet, exercise, education, cosmetics, and even plastic surgery. People try to do these things for themselves, and parents try to provide these things for their children. If exercising to improve strength, agility, and overall fitness is a worthwhile goal, and if someone is praised for pursuing education to increase their mental capabilities, then why would it not be worthwhile to accomplish this through genetics? 
+
+Advocates of genetic engineering also see enhancement as a matter of basic reproductive freedom. We already feel free to pick a mate partly on the basis of the possibility of providing desirable children. We think nothing is wrong with choosing a mate whom we hope might provide smart, attractive kids over some other mate who would provide less desirable children. Choosing a mate for the type of kids one might get is a matter of basic reproductive freedom and we have the freedom to pick the best genes we can for our children. Why, the argument goes, should we have less freedom to give our children the best genes we can through genetic enhancement?
+
+Those who advocate making significant modification of humans through technology such as genetic engineering are sometimes called “transhumanists.”
+
+Arguments Against Gene Therapy
+
+Three arguments sometimes raised against gene therapy are that it is technically too dangerous, that it discriminates or invites discrimination against persons with disabilities, and that it may be becoming increasingly irrelevant in some cases.
+
+The danger objection points out that a few recent attempts at gene therapy in clinical trials have made headlines because of the tragic deaths of some of the people participating in the trials. It is not fully known to what extent this was due to the gene therapy itself, as opposed to pre-existing conditions or improper research techniques, but in the light of such events some critics have called for a stop to gene therapy until more is known. We just do not know enough about how gene therapy works and what could go wrong. Specific worries are that
+
+the vectors may deliver the DNA to cells other than the target cells, with unforeseen results
+
+viruses as vectors may not be as innocuous as assumed and may cause disease
+
+adding new genes to a nucleus does not guarantee they will go where desired, with potentially disastrous results if they insert in the wrong place
+
+if the changes are not integrated with other DNA already in the nucleus, the changes may not carry over to new cells and the person may have to undergo more therapy later
+
+changing reproductive cells may cause events not seen until years later, and undesirable effects may have already been passed on to the patient’s children
+
+The discrimination objection is as follows. Some people who are physically, mentally, or emotionally impaired are so as the result of genetic factors they have inherited. Such impairment can result in disablement in our society. People with disabilities are often discriminated against by having fewer opportunities than other people. Be removing genetic disorders, and resulting impairment, it is true that gene therapy could contribute to removing one of the sources of discrimination and inequality in society. But the implicit assumption being made, the objection claims, is that people impaired through genetic factors need to be treated and made normal. The objection sees gene therapy as a form of discrimination against impaired people and persons with disabilities.
+
+The irrelevance objection is that gene therapy on reproductive cells may in some cases already be superseded by in-vitro fertilization and selection of embryos. If a genetic disorder is such that can be detected in an early embryo, and not all embryos from the parent couple would have it, then have parents produce multiple embryos through in-vitro fertilization and implant only those free from the disorder. In such a case gene therapy would be unnecessary and irrelevant.
+
+Arguments Against Genetic Engineering
+
+Ethicists have generally been even more concerned about possible problems with and implications of enhancement genetic engineering than they have been about gene therapy. First, there are worries similar to those about gene therapy that not enough is known and there may be unforeseen dangerous consequences. These worries may be even more serious given that the attempts are made not just toward normalcy but into strange new territory where humans have never gone before. We just do not know what freakish creatures might result from experiments gone awry.
+
+Following are some other important objections:
+
+Genetic engineering is against the natural or supernatural order. The thought here is that God, or evolution, has created a set of genes for human beings that are either what we should have or that offer us the best survival value. It is against what God or nature intended to tinker with this genetic code, not to bring it up to normal (as in gene therapy), but to create new kinds of beings. This type of objection is compatible both with “creationism,” the belief that God created humans just as they are, and also the belief in evolution. On the latter view, humans consciously enhancing their genes is considered different than allowing the natural process of evolution to “choose” the genes we have.
+
+Genetic engineering is dehumanizing because it will create nonhuman, alienated creatures. Genetically engineered people will be alienated from themselves, or feel a confused identify, or no longer feel human, or the human race will feel alienated from itself. Genetically engineered people won’t have a sense of being part of the human race but they will not have enough in common with other such creatures to feel like they belong with any of them either. People will be alienated even from their radically different genetically engineered children, who could very well be a separate species.
+
+Genetic engineered creatures will suffer from obsolescence. Computers become obsolete quickly as newer models are introduced. But this could happen to genetically engineered people. The hot gene enhancement of one year will be old news several years later. Parents will be obsolete by the standards of their children, and teenagers will be hopelessly outclassed by their younger siblings.
+
+Genetic engineering is a version of eugenics and evokes memories of the historical eugenics movement of the earlier part of the twentieth century in America and Nazi Germany. “Eugenics” is the view that we should improve the genetics of the human race; often advocated are such practices as selective breeding, forced sterilization of “defectives” and “undesirables” (people with genetic disorders or undesirable characteristics or traits, people with disabilities, people of other races, people of other ethnic groups, homosexuals), and euthanasia of such populations. It probably reached an extreme form in Nazi Germany, where mass exterminations took place, but eugenics sentiments existed prior to that in the U.S. These practices are now largely viewed as morally abhorrent. Critics of genetic engineering see it as an attempt at eugenics through technology.
+
+Gene therapy is becoming a reality as you read this. Genetic engineering for enhancement is still a ways off. Plenty of debate is sure to occur over both issues.
+
+More Centers, Institutes and Labs
+
+Center for Health Ethics
+
+Becevic Telehealth Lab
+
+Biomedical Informatics
+
+Cardiac Cell Physiology Lab
+
+Center for Education and Development
+
+Center for Health Ethics
+
+Center for Health Policy
+
+Center for Medical Epidemiology and Population Health (CMEPH)
+
+Center for Patient-Centered Outcomes Research
+
+Center for Precision Medicine
+
+Child Health Research Institute
+
+Christopher S. Bond Life Sciences Center
+
+Cognitive Neuroscience Laboratory
+
+Cosmopolitan International Diabetes Center
+
+Craniofacial Research Center
+
+Dalton Cardiovascular Research Center
+
+Electron Microscopy Core Facility
+
+Ellis Fischel Cancer Center
+
+Functional Assessment Screening Team
+
+Health Informatics in Diabetes Research (HIDR) Core
+
+Health Intervention and Treatment Research Lab
+
+Immunity & Autoimmunity Research Lab
+
+International Institute of Nano and Molecular Medicine
+
+Microcirculation Laboratory
+
+Missouri Orthopaedic Bioskills Laboratory
+
+Mizzou OneHealth Biorepository
+
+Mizzou Sleep Research Lab
+
+MU Center for Translational Neuroscience
+
+MU Student Health Center
+
+MU Surgical Center for Outcomes Research and Effectiveness (MUSCORE)
+
+Narrative Medicine and Health Innovation Lab
+
+Pulmonary Imaging Research Lab
+
+Rural Health Research Center
+
+Shelden Clinical Simulation Center
+
+Subramanian Research Lab
+
+Thompson Center for Autism and Neurodevelopment
+
+Thompson Laboratory for Regenerative Orthopaedics
+
+Happenings at MU School of Medicine
+
+Stories That Inspire
+
+Sleep Apnea May Increase Risk of Abdominal Aortic Aneurysms
+
+Immunologist Earns Global Transplantation Honor
+
+Wilhelm named to Missouri Board of Registration for the Healing Arts
+
+Alumni Spotlight: Robert “Jim” Douglas, MD ‘65
+
+Columbia, MO 65212 Contact
+
+Emergency Information
+
+Sign up for our monthly newsletter

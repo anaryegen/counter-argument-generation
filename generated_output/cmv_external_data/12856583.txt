@@ -1,0 +1,113 @@
+Website Security Platform
+
+Website Firewall (WAF)
+
+Custom & Enterprise Plans
+
+Detection Website Monitoring & Alerts
+
+Protection Future Website Hacks
+
+Performance Speed Up Your Website
+
+Response Help For Hacked Websites
+
+Backups Disaster Recovery Plan
+
+Understanding Opportunistic Attacks
+
+In many of the presentations we give each year we often talk about the concept of an opportunistic attack and for some it might be hard to grasp. With yesterday’s compromises at LinkedIn and eHarmony there is really no better time than now to take a minute an explain it.
+
+Here is a quick synopsis to catch you up if you’re not aware. Yesterday, June 6th, two major social networks – professional and romantic – both reported the likelihood of a compromise within their networks. Within a few hours those reports were confirmed by a number of InfoSec companies and professionals.
+
+LinkedIn – Compromised, 6.5 million passwords released into the wild
+
+eHarmony – Compormised, 1.5 million passwords released into the wild
+
+What’s important to note about these is that although its known that the passwords were compromised, little is known of the attack and how access was granted. Some are saying this is a very serious concern as the integrity of the networks come into play. Are users safe to resume using the networks? That’s the real question.
+
+Opportunistic Attack
+
+As the name implies, an opportunistic attack is one of opportunity. Whether we think back to last year’s TimThumb outbreak where a vulnerability was found and later exploited affecting 10’s of thousands of website owners, or you look at yesterday’s events.
+
+Opportunistic attacks are attacks in which an attacker has a general idea of what or whom he wants to attack. Source: Hacking: The Next Generation
+
+The idea is always simple, leverage mass hysteria in the hopes of capitalizing in some fashion – whether its monetary gain or increased cause awareness.
+
+For instance, lets look at at the LinkedIn breech. Within hours new attacks were being released into the wild:
+
+This is an example of a new spear-phishing attempt released within the past 24 hours in an effort to capitalize on unsuspecting users with LinkedIn. What’s good to note is that it’s not in anyway tied to the breach, instead it leverages the idea that the probability of the user receiving the email being 1 of the 150 + million users is high enough that an attack is warranted.
+
+It’s important to note that LinkedIn has confirmed that the emails they have released do not contain any links. Specifcis of their guidance can be found here: https://news.softpedia.com/news/Confirmed-Leaked-Passwords-Correspond-to-LinkedIn-Accounts-274126.shtml
+
+Unlike a Targeted attack, where an attack is perpetuated against a known, an Opportunistic attack looks to capitalize on the unknown. Other similar, large-scale, events that have resulted in opportunistic attacks include:
+
+Michael Jackson’s Death
+
+TimThumb Vulnerability
+
+This ofcourse a very short list, not because of lack of events, but rather its purpose is to show varying degrees of events from cultural, corporate and technical, each contributing to some large-scale opportunistic attack.
+
+For more information or if you have concerns please do not hesitate to contact us at info@sucuri.net or on twitter at Sucuri Security.
+
+Tony is the Head of Security Products at GoDaddy and Sucuri Co-Founder. His passion lies in educating and bringing awareness about online threats to business owners. His passions revolve around understanding the psychology of bad actors, the impacts and havoc hacks have on website owners, and thinking through the evolution of attacks. You can find his personal thoughts on security at perezbox.com and you can follow him on Twitter at @perezbox.
+
+Pingback: Automation is Key With Today’s Website Attacks | Sucuri Blog
+
+Pingback: Website Malware – Reality of Cross-Site Contaminations | Sucuri Blog
+
+Comments are closed.
+
+Website Malware Infections
+
+Examining Less-Common WordPress Credit Card Skimmers
+
+Since 2020 considerable attention has been spent analysing the emergence of MageCart malware within WordPress environments which most commonly affects sites using WooCommerce. As demonstrated…
+
+Fake Volkswagen Campaign Spreads Through Social Networks
+
+We recently investigated a suspicious link received by one of my colleagues on WhatsApp. The message (in Portuguese) states that Volkswagen is offering 20 free…
+
+Website Malware Infections
+
+Malware vs Virus: What’s the Difference?
+
+There appears to be a general misunderstanding among internet users about the difference between malware and viruses. The two terms are often used interchangeably —…
+
+Fixing Website Hosting Issues: “This Account Has Been Suspended”
+
+Experiencing a “This account has been suspended” warning on your website can be both confusing and alarming. This message means that your hosting provider has…
+
+Vulnerability Disclosure
+
+WordPress Vulnerability & Patch Roundup April 2024
+
+Sucuri Malware Research Team
+
+Vulnerability reports and responsible disclosures are essential for website security awareness and education. Automated attacks targeting known software vulnerabilities are one of the leading causes…
+
+Tips for New Remote Workers
+
+With the new pandemic hovering over our heads, the main piece of advice from most countries is stay home. Working remotely is a new reality…
+
+Website Malware Guide: How to Fix the WordPress Redirect Hack
+
+If you’ve recently discovered that your WordPress site is redirecting other sites or unwanted ads, then your website may have been hacked. The WordPress redirect…
+
+Fake Instagram Verification & Twitter Badge Phishing
+
+Social media platforms like Instagram and Twitter offer verification badges as a credibility indicator to help show authenticity and integrity to visitors. To obtain a…
+
+Googlebot or a DDoS Attack?
+
+A bot is a software application that uses automation to run scripts on the internet. Also called crawlers or spiders, these guys take on the…
+
+The Dangers of Using Abandoned Plugins & Themes
+
+It’s not very often that we see abandoned components being used on a website — but when we do, it’s most often because the website…
+
+Sucuri Cookie Policy See our policy>>
+
+Our website uses cookies, which help us to improve our site and enables us to deliver the best possible service and customer experience.
+
+Accept Decline Manage Options

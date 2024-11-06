@@ -1,0 +1,217 @@
+Back to Top Skip to main content
+
+An official website of the United States government Here's how you know
+
+The .gov means it’s official. Federal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you’re on a federal government site.
+
+The site is secure. The https:// ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely.
+
+Log in Show account info
+
+Logged in as: username
+
+Access keys NCBI Homepage MyNCBI Homepage Main Content Main Navigation
+
+Preview improvements coming to the PMC website in October 2024. Learn More or Try it out now.
+
+As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with, the contents by NLM or the National Institutes of Health. Learn more: PMC Disclaimer | PMC Copyright Notice
+
+Crit Care. 2002; 6(6): 473–478.
+
+Published online 2002 Aug 20. doi: 10.1186/cc1533
+
+Ethics roundtable: Using new, expensive drugs
+
+Richard Burrows,1 David Crippen,2 R Phillip Dellinger,3 David F Kelly,4 Stephen Streat,5 and Leslie M Whetstine6
+
+1Intensivist, Intensive Care Unit, Addington Hospital, Durban, South Africa
+
+Find articles by Richard Burrows
+
+2Intensivist, Department of Critical Care Medicine, St. Francis Medical Center, Pittsburgh, Pennsylvania, USA
+
+Find articles by David Crippen
+
+3Professor of Medicine, Robert Wood Johnson Medical School, Director Critical Care Section, Cooper Health System, Camden, New Jersey, USA
+
+Find articles by R Phillip Dellinger
+
+4Director, Health Care Ethics Center, Duquesne University, Pittsburgh, Pennsylvania, USA
+
+Find articles by David F Kelly
+
+5Intensivist, Department of Critical Care Medicine, Auckland Hospital, Auckland, New Zealand
+
+Find articles by Stephen Streat
+
+6PhD Candidate, Center for Healthcare Ethics, Duquesne University, Pittsburgh, Pennsylvania, USA
+
+Find articles by Leslie M Whetstine
+
+1Intensivist, Intensive Care Unit, Addington Hospital, Durban, South Africa
+
+2Intensivist, Department of Critical Care Medicine, St. Francis Medical Center, Pittsburgh, Pennsylvania, USA
+
+3Professor of Medicine, Robert Wood Johnson Medical School, Director Critical Care Section, Cooper Health System, Camden, New Jersey, USA
+
+4Director, Health Care Ethics Center, Duquesne University, Pittsburgh, Pennsylvania, USA
+
+5Intensivist, Department of Critical Care Medicine, Auckland Hospital, Auckland, New Zealand
+
+6PhD Candidate, Center for Healthcare Ethics, Duquesne University, Pittsburgh, Pennsylvania, USA
+
+Corresponding author.
+
+David Crippen: ude.ttip@+neppirc
+
+Costly genetically engineered therapies, which threaten to cripple the health care industry economy and undermine the common good if applied indiscriminately, loom on the horizon. The spectrum of applicable candidates include moribund nursing home patients at the end of life. They will be fair game for therapy that will ultimately send them back to nursing homes to return later with the same condition. 'Quality of life' assessments that limit patient autonomy may be forced as a result. Discussants from South Africa, New Zealand, and the USA suggest methods to deal with this issue in a just and ethical framework.
+
+Keywords: autonomy, cost benefit analysis, critical care, genetically engineered, sepsis
+
+We are entering the age of genetically engineered drugs designed to stop the progression of multiple organ system failure [1]. Research and development of these drugs will necessarily be expensive, and this cost will be passed on to consumers in one form or another. There is no clear reimbursement for patients getting these drugs, and so facilities with tight budgets will simply avoid giving them, 'referring' cases up the line to those facilities at which the buck stops. Much has been written about expense versus benefit for high-tech care plans, but in reality genetically engineered drugs may indeed be the first to 'break the bank' [2]. They may also be the first drugs with the capability of wiping other useful treatments off the slate in hospital pharmacies with limited resources. This eventually begs the question of public access expectations, and in what kinds of patients we will be using these resources.
+
+Nursing home patients with unrelenting dementia, musculoskeletal contractures, decubiti, and a history of multiple admissions for 'sepsis' will never 'improve' beyond their nonfunctional baseline no matter what treatment is afforded them. However, they can fall within inclusion criteria for otherwise effective drug therapies when quality of life (QoL) is not considered. If the available evidence shows that genetically engineered drugs are effective (all other factors being equal) in reversing organ system failure, then we must find a place for those agents no matter what the cost. Nevertheless, cost must be a factor in our usage. The issue of how much we are willing to spend to maintain 'nonfunctional' baselines will have to be addressed [3]. We once viewed QoL as a theoretical notion with no practical impact. Genetically engineered drugs have changed that. The following case forces us to debate the extent to which we must consider QoL issues in the new millennium.
+
+A patient from a skilled nursing home is admitted to a small, local hospital with pneumonia, respiratory failure, and hypotension. The patient is 86 years old, has severe dementia, diabetes, hypertension, and chronic congestive heart failure, and has had multiple episodes of pneumonia and several large decubiti on his backside. His family asks for 'everything to be done', and specifically mention a new drug for the treatment of severe sepsis. They ask the doctors at the local hospital for that drug but the pharmacy formulary does not include it. The hospital is therefore obliged to send the patient to the nearest facility that is able to administer the drug.
+
+You are the doctor at the regional, tertiary referral center that is obliged to accept patients from the small, local hospital. You get the call late on Friday night and the patient is duly transferred. On arrival, he is hypotensive, has a high white cell count, a raised temperature, bilateral infiltrates, and Gram-positive bacteria growing from two blood cultures; these are all inclusion criteria for administering the new drug.
+
+The patient has been on three antibiotics for 2 days and does not appear to be improving. He requires mechanical ventilation, continuous infusion of norepinepherine to maintain his blood pressure, and his creatinine is rising. He responds to external pain stimulus by groaning and does not follow commands.
+
+The new genetically engineered drug on the formulary costs US$8000 per treatment course. Would you give this treatment to this patient?
+
+The dilemma of intensive care
+
+We live in a society with shared benefits and with varying rights and obligations. The physician is under imperatives to use effective drugs to resolve disease, returning patients to an 'acceptable' life. However, the 'tragedy of the commons' [4] suggests that, without rules and regulations, individuals may take more than their fair share, destroying the common good. It is clear that the cost of treatment has increased to the point that society has begun to question the large amounts of funds that are expended in the last few days or weeks of life. Exclusionary triage decisions or 'do not resuscitate' in its broadest sense have become little more than arguments of rationing, no matter what the wealth of the society is. The Oath of Hippocrates and more modern declarations ill prepare the physician for a role in rationing; in fact, they do not even address the issue of how to choose between patients. The issue is confused further because the benefits of modern medicine are less clear than when therapies such as antibiotics and mechanical ventilation were initially introduced and gave clear advantage to treatment over disease. Benefits today are incrementally smaller, with debatable reductions in mortality from many diseases treated in intensive care and complicated by surrogate markers of improvement [5,6].
+
+It is clear that there are no fine dividing lines in severity of disease that effectively delineate which treatment may be expected to be successful or ineffective. There is no guaranteed point short of decomposition [7] at which death can be defined. Measured against this certainty of death is the probability, however small, that a specific treatment might work. The 'number needed to treat' in order to effect a survivor may be, for example, 16, but in the case presented above this also means that US$128,000 has been spent to effect one survivor. This is an expensive proposition.
+
+A 750-bed referral hospital in South Africa has a yearly budget of some US$25,000,000. The intensive care unit (ICU) admits approximately 500 patients a year on a budget of approximately US$1,500,000. Severe shortfalls in resources mean that the unit must refuse admission to a large number of potential cases. The crude mortality rate is 40%, or approximately 200 patients, most of whom die in multiple organ failure with some degree of sepsis. It is clear that the use of the therapy under discussion would quickly drain the budget, resulting in inability to admit other patients who potentially may survive if treated. In addition, if the patient has other chronic organ system failure, then it can reasonably be argued that he has entered a death spiral in which he may be expected to die with infection rather than because of it. The problem is simply where should one draw the line and decide to stop at some point short of a clear, irrefutable death.
+
+It should be clear that if a treatment is of proven efficacy then it should be offered as a right rather than in response to a demand. In the face of uncertainty, however, the real issue is who should make the decision? The present medical system has been described as an ethical mess [8] as a result of paternalistic practice, but dictates of autonomy have made any decision contrary to that of the patient or surrogate little more than an illegal act. The physician who falls between the stool of guarding of the coffers of society and that of advocating patient autonomy is in trouble because these two issues are irreconcilable, especially for those who insist that death must be avoided at all costs. If physicians are to be merely 'purveyors of vendibles' [9], however, then those in need must invariably suffer. Issues of cost effectiveness must necessarily force the pendulum to swing away from open-ended patient autonomy to a more rational decision-making process that takes into account the medical decision to stop questionable treatment.
+
+Under the circumstances, I would not administer this treatment to this patient.
+
+Are all God's creatures welcome in the fast lane?
+
+We are entering an age of expensive genetically engineered therapeutic agents that have some modest clinical utility but also the potential to break the pharmacy bank if used indiscriminately [10]. These therapies are different from expensive transplants, which have clear indications for isolated organ system failure. Genetically engineered therapeutic agents are marketed for multiple organ failure. These are the first really phenomenally expensive therapies that are applicable to a very large population desiring them.
+
+The new genetically engineered therapeutic agents are specifically targeted to treat advanced organ system dysfunction resulting from sepsis. Where is the largest population of patients that enter the hospital septic? Are they young, healthy, and vital people? Not in my experience. A high percentage of them are old, infirm, and facing the end of life [8]. A large number of this population reside in skilled nursing homes and suffer from the comorbidity of organic brain syndrome that is irreversible. If the pathophysiology of sepsis fits into the inclusion criteria, virtually any moribund nursing home patient will be fair game for expensive therapy that will simply bring them back to a nonfunctional baseline. Because of the expense, 'restrictions' will be placed at different levels on the use of these drugs, but I strongly suspect that those restrictions will be based on inclusion criteria, and not exclusions based on potential QoL [11].
+
+Accordingly, these new therapies put us in a huge ethical quandary. If we use this drug as a knee jerk reflex in every patient that meets rather liberal inclusion criteria then we have a real chance of breaking the bank, and thus crowding out other treatments that hospitals will no longer be able to afford. If we demand parameters of QoL as exclusion criteria, then we will necessarily be guilty of someone's estimation of discrimination. We will be discriminating on the basis of our personal biases as to what constitutes an acceptable post-treatment QoL.
+
+I believe we have to make some concrete decisions here. Do these therapeutic agents work or not? If we find evidence that they do, then we must find a place for them no matter what it costs, but cost must factor into our usage. I strongly believe and will try to defend the controversial proposition that QoL estimations are no longer ethereal pie daydreams of ethicists in ivory towers. Futility can now be measured in dollars and cents and pie charts. One estimation suggests that approximately 16 patients must be treated to save one life, at a cost of US$128,000. At those prices we need to look closely at that one life [12]. There is dubious utility in treating 16 patients at a cost of US$128,000 to save the life of a patient who will be sent back to a nursing home in their baseline nonfunctional condition only to return later with the same dilemma.
+
+In the past, we subscribed to the notion that the amount of money spent on patients with dubious potential benefit was relatively small and did not impact on the amount spent for 'appropriate care'. There was room for 'benefit of the doubt' in critical care. That age of open-ended altruism may well end with genetically engineered therapeutic agents. For perhaps the first time in our practice, futility has a new name and that name is 'expensive out of proportion to benefit'. Simply put, we may simply not be able to afford the benefit of the doubt; we will have to take steps to quantify it so that it can be avoided by formal protocol, and not bedside micromanagement.
+
+This patient should not get the drug.
+
+Money for technology and the saline's for free
+
+Bioethics are not globally consistent [13]. In the US health care system we tend to honor patient and family decisions for full support on request. Unless there is a resource shortage (blood, ICU beds, etc.), we do not overtly ration. With that perspective in mind, an US intensivist can make his or her life simpler by treating all patients who are of full resuscitation status alike, regardless of age, baseline status, or terminal illness.
+
+We would likely all agree that a nonresponsive 95-year-old with widely metastatic adenocarcinoma is not a good candidate for expensive life-prolonging treatment, but such treatment in a young, previously healthy individual with no contraindications would be strongly desirable. However, I believe that bedside physicians should not apply their own value judgments to the treatment of these two patients because the end does not justify the means. Somewhere between these two, health care providers have a potential to apply their own value system to QoL assessments, and this always gets in the way of patient autonomy, which should be kept sacrosanct [14]. In addition, micromanaging at the bedside and saving US$6000 in expensive technology leads to what? Where does one establish the cutoff for what is too expensive for someone who remains in full resuscitation status? Is it $7000, $5000, $3000, or $1000? Who is to say?
+
+I wish someone could show me that the saving led to 200 needy children in inner city Camden, New Jersey, receiving routine vaccinations, but I wonder whether such benefits manifest other than in mythology. I also believe that patients who are not likely to benefit from expensive technology for reasons other than clinical applicability should simply have their resuscitation status changed to 'no resuscitation'. Simply establishing that status would, by itself, resolve the expensive technology problem. The expense problem occurs when the preferred code status by the intensivist cannot be previously established, and the patient becomes incompetent to speak for themselves. In such a case there are two typical scenarios. One is that the next of kin cannot be reached or there are none. In that circumstance I would be inclined to use my own judgment and not use expensive new technology. In the second circumstance, the patient or next of kin disagrees with you about code status and desires that 'everything' be done. In that circumstance, it is risky in US society to go against the desires of health care consumers, and anyone choosing to do so has little if any protection from legal action. Suggesting to US patients that they should not be availed of the latest treatment because it is too expensive guarantees an ugly confrontation with overtones of discrimination. All of this can simply be avoided by not making QoL judgments in a society in which autonomy talks and paternalism walks, especially on the basis of cost.
+
+Alternatives to the approach I have outlined above inevitably mean some form of rationing, a concept that is virtually always rejected by health care consumers. However, as health care cost continues to skyrocket, and the potential to contain it decreases, some form of rationing may become our only alternative [15]. If rationing arrives, then it will most likely start with the most expensive drugs that benefit the smallest number [16,17]. Right or wrong, more blatant use of rationing will probably complicate our ICU existence considerably [18].
+
+I would try hard to establish a "do not resuscitate/do not intubate" status in this patient. If the surrogate decision maker could not be persuaded and insisted that the patient would have wanted "everything done", I would give the treatment.
+
+Why the family gets to make a bad choice
+
+Cases such as this are rightly designed to arouse our frustration and even anger at the widespread misuse of scarce medical resources. The substantive question asks whether there is an ethical obligation for this patient to receive this drug. In terminology long used by the Roman Catholic tradition, is the drug in this clinical situation 'morally ordinary', and hence obligatory, or is it 'morally extraordinary', and hence optional [19]? If the patient were competent to choose, would he have a moral obligation to take the drug? This question is not at all irrelevant despite what one might think. We do have responsibilities to take decent care of ourselves; we have duties to self, to others (family, coworkers, and society as a whole), and, yes, in a very different way to God. However, very few of us think that this requires us to do everything possible to preserve our lives.
+
+The benefits of the drug are limited to its effect on sepsis. It will not change the other organ system inadequacies, with their debilitating sequelae. This patient is unable to fulfill even the most basic purposes of human life [20]. The drug merely prolongs his long slow passage into death. He need not ask for it. His family may quite rightly reject it and allow him to die from the sepsis. Note that this decision is not as such dependent on the drug's cost; the family would also be right to reject the cheaper antibiotics.
+
+Cases like these incite us to switch decision-making authority from patients and their families to physicians, who (it is implied) will make 'better' decisions. Many of the early court cases that ultimately gave decision-making authority to patients and families were disputes in which families wanted to stop treating comatose patients. Doctors often insisted that it was in the patients' best interests to keep them alive by whatever means possible. Families fought to get their power back, and the courts finally agreed with them. Thus, families and patients now get to decide, and in this case the family has, unwisely we might think, decided to demand the expensive drug. Legally there seems to be no doubt; the drug must be given if it is the medical standard of care for this kind of sepsis. Doctors, relying on scientific studies, are allowed to choose which drug is proper for which illness, but doctors ought not make decisions based on the kind of patient who is asking for the drug.
+
+Why not? Because there are simply too many conflicts of interest. In today's financial climate, hospitals and doctors are directly or indirectly rewarded for spending less. Do we really think that physicians and hospital administrators should be given the authority to make this kind of decision on a case-by-case basis? The incentive may be to treat a wealthy entitled person rather than an indigent. Providers ought not make this kind of decision independently. This does not mean that it is wrong for our society to make such decisions on a policy basis. Also, in designing such policy, physician input and advocacy is critical. Medicare can rightly decide not to use the expensive drug for persons for whom it will do little or no human good. In addition, this policy can be made explicitly on the basis of cost. Societies have limited resources and may choose how to spend them. Most other nations in the global community have figured out how to do this effectively, and the final results seem no worse than ours.
+
+As it stands, however, in this case the family gets to decide because society has not figured out how to exclude them rightly on the basis of faulty logic. The patient should receive the drug.
+
+Is this a reasonable way to use expensive resources?
+
+From a New Zealand perspective, this scenario exhibits an 'Alice through the looking glass' like unreality. It is fundamentally rooted in US culture and medical politics, and has no direct resonance in most of the rest of the global village. In the USA, 'surrogate preferences' are given open-ended primacy in medical decision making. Those preferences often include intensive treatments in the presence of irreversible organic brain disease, independent of previously expressed wishes of the patient [21]. Although almost 20 years have passed since we compared New Zealand and US ICUs and their patients [22], the profound difference in cultural and personal attitudes between our countries alluded to in the discussion with respect to 'expectations of immortality' remain.
+
+If the patient were admitted to a small local hospital in New Zealand, the issue of intensive care admission (let alone transfer to another hospital for highly expensive therapy) would not arise because the treating physician would not refer the patient to the ICU. Intensive care medicine is recognized by patients, their families and treating physicians to be a scarce and valuable resource that is explicitly rationed. This belief is formally acknowledged in the organizational structure and admission practices of ICUs. Patients referred for admission are assessed by the intensivist who is responsible for the ICU, and may be refused admission on clinical grounds (including probability of reversibility and expected post-ICU QoL). These issues were previously discussed in detail [23].
+
+Intensive care in New Zealand, other than short-term postoperative ventilatory support after cardiothoracic surgery, takes place within a government-administered public hospital system, funded by general taxation. Groups of hospitals are administered by local area health boards, which receive capitated population-based funding, with some weighting to reflect important demographic and geographic differences. Such hospital groupings do include formal arrangements for transfer of patients who require services – including high-level intensive care [24] – that may not be locally available. However, the 'obligations' involved in such arrangements are determined again by clinical appropriateness, which is not driven by 'surrogate preferences' and would not lead to the transfer of a patient such as that described above for high-level intensive care.
+
+The recent study of drotrecogin-alfa recombinant in sepsis [1] has highlighted the need to re-examine the relationships between cost, ability to pay, and efficacy in intensive care medicine, and to place those relationships in a wider medical and social context. In a health care system that is publicly funded from taxation, the use of this or similar expensive novel therapies will inevitably lead to a politically untenable need for increased taxation or to reduction in expenditure in other areas of health care. In the absence of increased taxation, this tension will be administered at local (area health board) level and will therefore be subject to local political representation and hospital pharmaceutical regulatory committees. This process is likely to lead (as it has for other expensive agents, such as iloprost) to limited availability of the agent to patients judged clinically to be most likely to benefit and who meet very strict prescription guidelines. In this context, the putative patient would clearly not receive the expensive agent in question.
+
+Points well taken... but.
+
+All of the contributors agree that this therapy, if successful, will not improve this patient's baseline condition, but will only treat an isolated clinical pathology that happens to be life threatening. However, this reality is not sufficient in itself for Kelly or Dellinger to refuse to provide it if families desire it. Kelly concludes that this therapy can be considered morally extraordinary and forgone by the patient or surrogate, but it should not be a medical decision that is made unilaterally by physicians.
+
+Crippen argues for greater exclusion criteria for this therapy, without which it has the potential to be applied to a wide population of patients who are very sick, very old, and at the end of life. He predicts an issue that Dellinger laments we cannot or have not been able to prove, namely that expending money on this prohibitively expensive therapy carte blanche will impact on other therapies in a real and quantifiable way, for the first time. Burrows and Streat both work within health care delivery systems that overtly ration, and therefore the dilemma presented by this case is unlikely to be in issue in their communities. Their societies have come to a consensus that authorizes physicians to micromanage these clinical issues, often expressly based on QoL.
+
+The discussants agree that the current health care delivery system is flawed and they all endeavor make the best of its constraints. Kelly calls for social consensus to guide the appropriation of scarce resources, without which he is loathe to displace families with physicians as decision makers unless care is medically futile. Dellinger argues that we should apply pressure on surrogates to authorize the 'right' decision. Crippen argues that these new therapies have forced the QoL issue and lobbies in favour of strict inclusion criteria based openly on QoL determinations. Streat and Burrows sympathize with the plight of the Americans, but this really is not their problem.
+
+Kelly closes his analysis by suggesting that Medicare may rightly refuse to cover these types of expensive treatments on the basis of cost and their relatively thin therapeutic effectiveness. By this logic, it would then seem acceptable to base treatment decisions on cost and QoL so long as public policy supports it. However, what can we do in the interim, before these policies are in place, or if they are never passed?
+
+Practical experience suggests there are some things in life that ought to transcend consensus. Maintaining only vestiges of humanity at great expense on the basis of demand and societal ambivalence is not an inconsequential issue. It may be that society does not know the right thing to do, but the Americans' inability to arrive at an agreement is not a viable excuse to sit back and helplessly watch as Burrows' 'tragedy of the commons' threatens resource allocation. However, renegade physicians or ethicists are not the answer. If we want enduring change, then we will need to restructure the system at a fundamental level, not merely beat it into submission.
+
+Kelly's reliance on policy making is probably our only chance at bringing us closer to those countries that provide competent medical care for their entire population. After all, those countries are only in that position because they have prospectively agreed to such mandates. Until we similarly come to the same conclusion, physicians cannot operate unilaterally without undermining the values that the USA cherishes and without having to fight this issue at every turn. Unfortunately, if our recidivist societal behavior is any indication, then consensus will take a long time indeed. Thus, we must have some protective measures in place for damage control while the debate continues and while we work to effect a paradigmatic shift.
+
+The best answer to this specific problem is probably a hybrid approach of Kelly's and Crippen's standpoints in tandem. Individual hospitals would be wise to formulate policies that are tailored to address the contexts in which these types of therapies will be offered or not. The distributors of these therapeutic agents should assume responsibility for how they are marketed, and might consider labeling them as contraindicated for those who are at the end of life. Unfortunately, until society learns to balance individual autonomy with the common good effectively, short-term solutions may be our only recourse.
+
+ICU = intensive care unit; QoL = quality of life.
+
+LMW thanks her mother, Candace Whetstine, for her thoughtful insights.
+
+Bernard GR, Vincent JL, Laterre PF, LaRosa SP, Dhainaut JF, Lopez-Rodriguez A, Steingrub JS, Garber GE, Helterbrand JD, Ely EW, Fisher CJ, Jr, for the Recombinant human protein C Worldwide Evaluation in Severe Sepsis (PROWESS) study group Efficacy and safety of recombinant human activated protein C for severe sepsis. N Engl J Med. 2001;344:699–709. [PubMed] [Google Scholar]
+
+Seltzer JL, Wordell CJ, Nash D, Johnson NE, Gottlieb JE. P & T Committee response to evolving technologies: preparing for the launch of high-tech, high-cost products. Roundtable discussion. Hosp Formul. 1992;27:379–380. [PubMed] [Google Scholar]
+
+Anonymous Understanding costs and cost effectiveness in critical care: report from the second American Thoracic Society workshop on outcomes research. Am J Respir Crit Care Med. pp. 540–550. [PubMed]
+
+Hardin G. The tragedy of the commons. The population problem has no technical solution; it requires a fundamental extension in morality. Science. 1968;162:1243–1248. [PubMed] [Google Scholar]
+
+McIntyre RC, Jr, Pulido EJ, Bensard DD, Shames BD, Abraham E. Thirty years of clinical trials in acute respiratory distress syndrome. Crit Care Med. 2000;28:3314–3331. [PubMed] [Google Scholar]
+
+De Gruttola V, Fleming T, Lin DY, Coombs R. Perspective: validating surrogate markers–are we being misled. J Infect Dis. 1997;175:237–246. [PubMed] [Google Scholar]
+
+George Shaw Bernard. Prologue. The Doctor's Dilemma [play].
+
+Crippen D, Kilkullen J, Kelly D, editors Three Patients: End of Life Care in Intensive Care Medicine New York: Kluwer Publishers; 2002.
+
+Ingelfinger FJ. Arrogance. N Engl J Med. 1980;303:1507–1511. [PubMed] [Google Scholar]
+
+Shah ND, Vermeulen LC, Santell JP, Hunkler RJ, Hontz K. Projecting future drug expenditures: 2002. Am J Health Syst Pharm. 2002;59:131–142. [PubMed] [Google Scholar]
+
+Kanji S, Devlin JW, Piekos KA, Racine E. Recombinant human activated protein C, drotrecogin alfa (activated): a novel therapy for severe sepsis. Pharmacotherapy. 2001;21:1389–1402. [PubMed] [Google Scholar]
+
+Angus DC, Linde-Zwirble WT, Lidicker J, Clermont G, Carcillo J, Pinsky MR. Epidemiology of severe sepsis in the United States: analysis of incidence, outcome, and associated costs of care. Crit Care Med. 2001;29:1303–1310. [PubMed] [Google Scholar]
+
+Englehardt HT., Jr Critical care: why there is no global bioethics. J Med Philos. 1998;23:643–651. [PubMed] [Google Scholar]
+
+Savulescu J. Desire-based and value-based normative reasons. Bioethics. 1999;13:405–413. [PubMed] [Google Scholar]
+
+Gipe B. Financing critical care medicine in 2010. Cost Qual. 1999;5:14–26. [PubMed] [Google Scholar]
+
+Farnalls M. The use of limited critical care resources: an ethical dilemma. Off J Can Assoc Crit Care Nurs. 1997;8:23–26. [PubMed] [Google Scholar]
+
+Lantos JD, Mokalla M, Meadow W. Resource allocation in neonatal and medical ICUs. Epidemiology and rationing at the extremes of life. Am J Respir Crit Care Med. 1997;156:185–189. [PubMed] [Google Scholar]
+
+Henderson A. Adult intensive care in an environment of resource restriction: how should the unit director respond? Aust Health Rev. 1997;20:68–82. [PubMed] [Google Scholar]
+
+Kelly DF. Critical Care Ethics: Treatment Decisions in American Hospitals Kansas City, MO: Sheed & Ward; 1991.
+
+Shannon TA, Walter JJ. The PVS patient and the forgoing/withdrawing of medical nutrition and hydration. Theol Stud. 1988;49:623–647. [PubMed] [Google Scholar]
+
+Cogen R, Patterson B, Chavin S, Cogen J, Landsberg L, Posner J. Surrogate decision-maker preferences for medical care of severely demented nursing home patients. Arch Intern Med. 1992;152:1885–1888. [PubMed] [Google Scholar]
+
+Zimmerman JE, Knaus WA, Judson JA, Havill JH, Trubuhovich RV, Draper EA, Wagner DP. Patient selection for intensive care: a comparison of New Zealand and United States hospitals. Crit Care Med. 1988;16:318–326. [PubMed] [Google Scholar]
+
+Streat S, Judson JA. Cost containment: the Pacific. New Zealand. New Horiz. 1994;2:392–403. [PubMed] [Google Scholar]
+
+Joint Faculty of Intensive Care Medicine Minimum Standards for Intensive Care Units. http://www.jficm.anzca.edu.au/policy/ic1_1997.htm
+
+Articles from Critical Care are provided here courtesy of BMC
+
+Cited by other articles
+
+Links to NCBI Databases
+
+Copy Download .nbib .nbib

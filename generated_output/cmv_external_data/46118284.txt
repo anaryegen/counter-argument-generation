@@ -1,0 +1,65 @@
+Drones: breakthrough or threat?
+
+Implications of the use of drones in international law
+
+Jaume Saura Lecturer on International Public Law and member of the TransJus Research Institute (UB)
+
+Drones are unmanned aerial vehicles, controlled remotely and in real time by human operators. They are called drones because of the constant buzzing noise that some of these vehicles make in flight. There is a wide variety of models and types of drones with respect to size, weight, cost, range and capabilities: from the tiny vehicles of under two kilos, similar to model airplanes, to out-and-out fighter planes weighing several tons, capable of being equipped with heavy weaponry and with a flight range of thousands of kilometers. Around fifty countries have or are developing drones, though only the United States (and perhaps the United Kingdom and Israel) use them as armed vehicles.
+
+With this diversity in mind, drones can be used, strategically and militarily, in three different ways: first of all, when ground troops attack or are attacked, drones are called in to use bombs and missiles like any other military plane; secondly, there are drones that patrol the skies over certain countries observing living patterns 24 hours a day; and thirdly, drones are used on missions planned to kill terrorist suspects, in what have become known as “targeted killings” in the context of the “war on terror.”
+
+The first use raises few questions from the point of view of international law, beyond those raised by any other weapon, whether or not it is aerial or manned: vigilance is needed to ensure that the use of the weapon is in accordance with international humanitarian law. The use of drones for surveillance does not have much relevance either from the point of view of international humanitarian law though it can affect airspace sovereignty or the privacy of individuals, among other things. Finally, the third use mentioned seems to have become the raison d’être of this technology and, in any case, has been the focus of the debate on its legality. Obviously, killing someone is legal or not (usually it is not) regardless of the means used to do so; but the fact that armed drones make it so easy to kill individuals in remote areas has generated a very close link between drone technology and targeted killings, a link that has clearly affected both international humanitarian law and, in peacetime, international human rights law.
+
+We can therefore limit the controversy surrounding drones to the issue of airspace sovereignty, respect for the “right of war” and the compliance of international human rights law. In the first case, beyond national jurisdiction, remotely piloted aircraft, whether civilian or military, can only fly over sovereign airspace with the clear and explicit consent of the territory’s state. Now, if that consent exists, as seems to be the case in Afghanistan, but not in Pakistan, the national government could also be held responsible for the possible human rights or humanitarian law violations committed by the state that sends the vehicles. On the other hand, apart from consent, armed drones can be used in the context of the right to self-defense, like any other legal weapon, but only if the conditions of this right exist, that is, an immediate, proportioned and necessary response to a previous or imminent armed attack attributable to a state — requirements that the so-called “war on terror,” in theaters of operations such as Afghanistan, Pakistan, Somalia or Yemen, do not meet at all.
+
+The fact that armed drones make it so easy to kill individuals in remote areas has generated a very close link between drone technology and targeted killings
+
+If armed drones are used in the context of military conflict, it is obvious that their operators must respect the principle of distinction and other rules of ius in bello. Nothing more and nothing less: in this regard, the combat drone is not a weapon of “indiscriminate nature” or that necessarily causes “superfluous harm or unnecessary suffering” (Article 36 of Additional Protocol I to the Geneva Conventions) and therefore, it is difficult to argue that, apart from possible specific international regulations, it can be an intrinsically illegal weapon according to international humanitarian law.
+
+The problem arises when the targets of armed drones are civilians and we find ourselves in a situation that can be halfway between a non-international armed conflict and mere internal unrest, including terrorist situations. According to the International Committee of the Red Cross (ICRC), if a civilian is involved in “continuous combat functions” in a non-international armed conflict, he becomes a legitimate target at all times, even outside the theater of operations. These are the famous “personality strikes” that others prefer to call “targeted killings.” In any case, the argument is only applicable when the baseline scenario can be described as an armed conflict, as could be the case of Afghanistan; but not when there is a situation of misgovernment, civil unrest or terrorist attacks, which are more suited to police repression under the rule of law, and judicial and police cooperation, including extradition. This is the case of Pakistan, where there is no internal armed conflict, and where 80% of the drone attacks launched by the US have been occurring over the last ten years. In this context, it must be clearly stated that drones cannot, in a premeditated way, target and kill alleged terrorists because, according to international human rights law, it is always illegal to fire at individuals merely because they are suspected of having committed a crime in the past or susceptible to doing so in the future: it is a violation of the right to life and the right to a fair trial.
+
+Armed drones have become the current weapon of choice in the US fight against international jihadist terrorism basing on the false premise that there is a global war on terrorism
+
+Even more serious are two practices that have been denounced by NGOs and acknowledged by the US government: “signature strikes,” which involve CIA operatives following and firing at individuals who have a “pattern of life” that is considered typical of a terrorist profile; and “follow-up strikes,” in which armed drones bomb the people who assist the victim of a first attack or who attend his funeral, with the absurd idea that, if they offer assistance or they mourn, they must also be terrorists. We are undoubtedly referring to attacks that, during a period of armed conflict, constitute war crimes and, in peacetime, crimes against humanity.
+
+Armed drones have become the current weapon of choice in the US fight against international jihadist terrorism based on the false premise that there is a global war on terrorism, but without drawing all of the logical conclusions from this argument: if “legitimate defense” is admissible against transnational terrorist groups, then that would mean that these groups have launched an “armed attack” within the meaning of Article 51 of the UN Charter and therefore are groups susceptible to employing “armed force” legitimately. This would in turn imply that international humanitarian law would be applicable and that captured terrorists would have to be considered “prisoners of war,” and not criminals. And of course, if there is a “war” (in the legal sense) against terrorism, then the CIA drone operators, even if they are civilian personnel, are legitimate targets insofar as persons who directly participate in the hostilities; and they are considered legitimate targets at any time, not only during “office hours,” but also on their way home.
+
+It seems unlikely that any of the former implications of a coherent interpretation of the contemporary legal argumentation of the military use of drones would satisfy any of the powers that possess this technology. Therefore, it would be in their own interest to restrict the use of military combat drones to the factual framework of authentic armed conflicts and hostilities, against legitimate enemy combatants, and with full respect of the basic principles of international law.
+
+Alston, Philip. “Study on targeted killings” addendum dins Report of the Special Rapporteur on extrajudicial, summary or arbitrary executions, Philip Alston. United Nations. General Assembly. Doc. A/HRC/14/24/Add.6, 28 May 2010. Available here.
+
+Amnesty International. “Will I be next?”: US drone strikes in Pakistan. London: Amnesty International Publications, 2013. Available here.
+
+Bureau of Investigative Journalism. The covert drone war project. Available here.
+
+Dworkin, Antonhy. “Drones and targeted killings: defining an EU position” in Policy Brief. London: European Council on Foreign Relation, 2013. Available here.
+
+Escoda, Anna. “Los drones armados: una realidad en expansión” in Materiales de Trabajo n. 47. Barcelona: Centre Delàs d’Estudis per la Pau, 2013. p. 9-12. Available here.
+
+Melzer, Nils. Human Rights Implications of the usage of drones and unmanned robots in warfare. Brussels: European Parliament, 2013. Directorate-General for External Policies of the Union, EXPO/B/DROI/2012/12. Available here.
+
+Photo: Debra Sweet. Modified. Link to license.
+
+© Generalitat de Catalunya
+
+Other articles in this magazine
+
+The military use of drones and their use in acts of warRafael Grasa
+
+Drones: who wants what and why?Pere Vilanova
+
+Killer Robots: the threat we are creatingMiriam Struyk / Merel Ekelhof
+
+Losing control of our humanityNoel Sharkey / Maya Brehm
+
+The US drone strikes and on-the-ground consequences in PakistanWali Aslam
+
+Materials and resources recommended by the ICIP
+
+The truth of womenElena Grau
+
+Information and Communication Technologies for PeaceAna Barrero
+
+Interview with Christof Heyns, UN Special Rapporteur and Professor of Human Rights LawXavier Alcalde and Eugènia Riera
+
+News, upcoming activities and new publications about the ICIPICIP

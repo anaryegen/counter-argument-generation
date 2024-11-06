@@ -1,0 +1,99 @@
+clockThis article was published more than 2 years ago
+
+Democracy Dies in Darkness
+
+How should autonomous cars make life-or-death decisions? In the best of worlds, they won’t.
+
+The goal of machine learning, say advocates, should be getting to the point where we’re asking if it’s ethical to let people drive.
+
+August 6, 2021 at 12:41 p.m. EDT
+
+(Jean-Francois-Podevin/Jean-Francois Podevin for The Washington Post)
+
+Add to your saved storiesSave
+
+When serial entrepreneur Barry Lunn decided to start a driving software business, he attended several industry insider events where he says he learned “the truth” behind the hyped-up autonomous-driving landscape.
+
+Starting in 2015, he went to sensor and autonomy trade shows, from Detroit to Silicon Valley, and rubbed shoulders and grabbed drinks with notable people in artificial intelligence, he says. Lunn had a particular formula for gathering information at a conference: Build a reputation as the go-to after-party person, invite who’s who out with you and pick their brains about topics they wouldn’t discuss publicly.
+
+“You make sure everyone knows you’re the guy to go to the Irish bar with, and then you get the smartest people into the bar, and you find out the truth of their industry,” Lunn said.
+
+One “eye-opening” event from 2017 stands out in his mind and led him to start a new venture in automotive safety.
+
+It was a no-press-allowed gathering pegged to a conference called MobilityX in Los Angeles, where Lunn and other AI execs spent a weekend downing cocktails, eating fancy meals and test-driving luxury cars, he says. They talked openly about where autonomous driving was headed. Lunn left thinking that the industry was traveling in the wrong direction.
+
+Stories to keep you informed
+
+IRS reports collecting $1 billion from rich households’ back taxes
+
+SparkleSummary is AI-generated, newsroom-reviewed.
+
+Arkansas official rejects bid to put abortion rights measure on ballot
+
+SparkleSummary is AI-generated, newsroom-reviewed.
+
+How a Texas man turned Whataburger into the state’s power outage tracker
+
+SparkleSummary is AI-generated, newsroom-reviewed.
+
+Man caught trying to smuggle 104 live snakes — in his pants
+
+SparkleSummary is AI-generated, newsroom-reviewed.
+
+You’re holding your phone wrong
+
+SparkleSummary is AI-generated, newsroom-reviewed.
+
+“You need to solve safety to get to autonomy, not the other way around,” he said. But the wider industry’s approach was to begin with so-called Level 1 driver assistance features. Then, incrementally work up to a vision that has yet to be realized: Level 5 cars or vehicles advanced enough to make better decisions than humans in all driving conditions — including life-or-death scenarios.
+
+That’s where philosophers and ethicists have long brought up one of the foundational issues facing an autonomous-driving future. It’s known as the “trolley problem,” and it basically boils down to this: How do you teach a car to make complex, life-or-death decisions in seemingly lose-lose scenarios on the road? And if cars can’t do this, would you trust them to carry your child to school or your parent to a doctor’s appointment?
+
+The Army’s latest night-vision tech looks like something out of a video game
+
+Autonomous-driving researchers say the industry is far from deciding how AI chooses who receives the brunt of an oncoming accident.
+
+So now many, including Lunn, are approaching the issue from a different perspective: Why not stop cars from getting in life-or-death situations in the first place?
+
+It’s an idealistic view of autonomous driving. Still, it’s a starting place. After all, the whole point of automated cars is to create road conditions where vehicles are more aware than humans are, and thus better at predicting and preventing accidents. That might avoid some of the rare occurrences where human life hangs in the balance of a split-second decision.
+
+Artificial intelligence is good at a lot, such as knowing that an object of a specific size is on the road ahead. It can also infer what it might be and get smarter over time based on millions of images.
+
+AI might not be so helpful at solving ethical dilemmas that humans have yet to reach a consensus about, according to Dave Grannan, CEO of Light, which creates camera-based perception software for cars. “I don’t think anyone’s going to be comfortable handing over those high-stakes decisions to an AI. And I think, as an industry, that’s what we have to account for,” Grannan said.
+
+There have been attempts to quantify human perspectives on AI driving decisions. One method came from researchers at the Massachusetts Institute of Technology (MIT), who conducted a global study to find a consensus approach to the trolley problem.
+
+The trolley problem is a decades-old moral dilemma where someone must fictionally decide whether to steer a trolley toward one person to save a larger group of people. Generally, people think AI’s responsibility is to spare as many lives as possible, even if that means killing a few, according to the experiment published in 2018.
+
+The researchers also found that people favor younger lives over older ones, but some countries like China deviated from that.
+
+It’s clear that road accidents remain a major issue. Each year, more than 1 million people die on roadways around the world. In the United States, almost 40,000 people die each year because of crashes, and that trend is mirrored across the Washington, D.C., area, where traffic fatalities rose slightly last year despite the pandemic.
+
+However, the best way to kill or injure people probably isn’t a decision you’d like to leave up to your car, or the company manufacturing it, anytime soon. That’s the thinking now about advanced AI: It’s supposed to prevent the scenarios that lead to crashes, making the choice of who’s to die one that the AI should never have to face.
+
+Humans get distracted by texting, while cars don’t care what your friends have to say. Humans might miss objects obscured by their vehicle’s blind spot. Lidar can pick those things up, and 360 cameras should work even if your eyes get tired. Radar can bounce around from one vehicle to the next, and might spot a car decelerating up ahead faster than a human can. That’s all the sensory portion, which gets fed to a decision-making system for autonomy-enabled cars.
+
+Lunn is the founder and CEO of Provizio, an accident-prevention technology company. Provizio’s secret sauce is a “five-dimensional” vision system made up of high-end radar, lidar and camera imaging. The company builds an Intel vision processor and Nvidia graphics processor directly onto its in-house radar sensor, enabling cars to run machine-learning algorithms directly on the radar sensor.
+
+The result is a stack of perception technology that sees farther and wider, and processes road data faster than traditional autonomy tech, Lunn says. Swift predictive analytics give vehicles and drivers more time to react to other cars. The founder has worked in vision technology for nearly a decade and has previously worked with NASA, General Motors and Boeing under the radar company Arralis, which Lunn sold in 2017.
+
+The start-up is in talks with big automakers, and its vision has a strong team of trailblazers behind it, including Scott Thayer and Jeff Mishler, developers of early versions of autonomous tech for Google’s Waymo and Uber.
+
+Provizio’s early investors include Bobby Hambrick, founder of the automated driving company AutonomouStuff. It’s also backed by David Moloney, one of the founders of the computer vision start-up Movidius, which Intel snapped up in a $400 million deal in 2016. Moloney invested because Provizio’s product “is based on safety. Not autonomy.”
+
+“Time is safety, and the more decision-making time that (a car) has to detect and avoid something, the more lives that you can save,” Moloney said.
+
+Lunn thinks the auto industry prematurely pushed autonomy as a solution, long before it was safe or practical to remove human drivers from the equation. He says AI decision-making will play a pivotal role in the future of auto safety, but only after it has been shown to reduce the issues that lead to crashes. The goal is the get the tech inside passenger cars so that the system can learn from human drivers, and understand how they make decisions before allowing the AI to decide what happens in specified instances.
+
+“The real problem is going to be, at what point is it still ethical to let the human drive,” Lunn said. “But before that, AI has to continue to learn from human drivers. Autonomy will have to make sure that we never have a trolley problem.”
+
+Big Tech news and how to take control of your data and devices
+
+Tesla sells ‘Self-Driving’ cars. Is it fraud?
+
+You’re holding your phone wrong
+
+Health tracking rings are getting more popular. Samsung wants in.
+
+Try a different topic
+
+Sign in or create a free account to save your preferences

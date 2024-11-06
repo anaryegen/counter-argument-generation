@@ -1,0 +1,169 @@
+By Scientific Foresight (STOA) / February 18, 2019
+
+How the internet can harm us, and what can we do about it?
+
+The internet has received much negative news coverage in recent years.
+
+© AdobeStock/Pathdoc
+
+Written by Gianluca Quaglio,
+
+The internet has received much negative news coverage in recent years. Articles focus on major privacy scandals and security breaches, the proliferation of fake news, rampant harmful behaviours like cyber-bullying, cyber-theft, revenge porn, the exchange of child porn and internet predation, internet addiction, and the negative effects of the internet on social relations and social cohesion. Nevertheless, some 87 % of European households have internet access at home, and 65 % use mobile devices to access the internet. Europeans aged 16 to 24 years spend 168 minutes per day on mobile internet, dropping to 30 minutes for 55 to 64-year olds. Around 88 % of 15 to 24-year olds use social media, 80 % on a daily basis.
+
+While the social and economic benefits of the internet cannot be denied, some of these developments can severely affect such European values as equality, respect for human rights and democracy. Technology companies are under increasing pressure to mitigate these harmful effects, and politicians and opinion leaders are advocating drastic measures.
+
+The recently published STOA study on ‘Harmful internet use’ covers the damage associated with internet use on individuals’ health, wellbeing and functioning, and the impact on social structures and institutions. While the study does not attempt to cover all possible societal harm relating to the internet, Part I focuses on one specific cause of harm, internet addiction, and Part II covers a range of harmful effects on individuals and society that are associated with internet use. The report concludes with policy options for their prevention and mitigation.
+
+Other studies have already extensively discussed some harmful effects, and these are already subject to a history of policy actions. These include harm to privacy, harm related to cybersecurity and cybercrime, and damage resulting from digital divides. In contrast, this study covers the less-studied but equally important harmful effects that concern individuals’ health, wellbeing and functioning, the quality of social structures and institutions, and equality and social inclusion.
+
+Internet addiction and problematic internet use 
+
+Internet addiction and problematic internet use prevalence rates vary across studies and countries. The noteworthy discrepancy in prevalence estimates has a number of causes, including the different populations studied, as well as the various diagnostic tools and assessment criteria utilised. With this in mind, it appears that roughly 4 % of European adolescents demonstrate a pathological use of the internet that affects their life and health, while 13 % of adolescents engage in maladaptive behaviour when using the internet. Similar numbers are reported for adults.
+
+Part I of the study focuses on generalised internet addiction, online gaming addiction, and online gambling addiction. Clinical presentations, patient profiling, comorbidities, instruments, interventions, and prognoses are different across these three potential addiction disorders. The study states that the individual, cultural and media-use context significantly contributes to the experience and severity of internet addiction.
+
+The study proposes a set of preventive actions, and evidence to support future policies. It states that offering information, screening tools and campaigns to students in secondary schools and at universities regarding internet-use-related addiction problems can help, especially regarding gaming addiction in adolescent populations. This will require allocating research and resources for schools and their staff, and for families, as well as the establishment of working relationships with health professionals and services.
+
+Harmful social and cultural effects associated with internet use
+
+Part II of the study identifies a number of different harmful social and cultural effects associated with internet use. The evidence points to the occurrence of significant damage to both individuals and society. Some of these harmful effects are described briefly below:
+
+Information overload:Having too much information to be able to adequately understand an issue or make effective decisions. Information overload is associated with loss of control, feelings of being overwhelmed, reduced intellectual performance, and diminished job satisfaction. Studies show that information overload affects up to 20-30% of people.
+
+Damage to social relationships:Extensive internet use, of social media in particular, is correlated with loneliness and social isolation. Intimate relationships can be degraded by internet use, particularly due to viewing online pornography. Malicious online behaviour, particularly cyber-bullying, cyber-stalking and online predation, affects a significant percentage of internet users.
+
+Impaired public/private boundaries: The way in which the internet and smartphones blur the distinction between private and public, and between different spheres of life, including work, home life and leisure, harms the boundaries between people’s public and private lives. Harmful effects that can result from such permeations include loss of quality of life, lack of privacy, decreased safety and security, and harm to social relations – when friends and family members feel they are left behind by new technology.
+
+Harmful effects on cognitive development:Empirical evidence suggests that internet use can have both positive and negative impacts on cognitive development, depending on the person and the circumstances. There is evidence that children’s cognitive development can be damaged by prolonged internet use, including the development of memory skills, attention span, abilities for critical reasoning, language acquisition, reading, and learning abilities. More research is however needed to draw more reliable conclusions.
+
+Damage to communities: Many off-line communities suffer through the partial migration of human activities – shopping, commerce, socialising, leisure activities, professional interactions – to the internet. Online communities sometimes extend off-line communities and sometimes replace them. They are often inadequate replacements, however, as they do not possess some of the valuable or the strongest qualities of off-line communities, and communities may consequently suffer from impoverished communication, incivility, and a lack of trust and commitment.
+
+The study identifies a number of broad policy options for preventing and mitigating these harmful effects. They include, among other things:
+
+promoting technology that better protects social institutions, stimulating or requiring tech companies to introduce products and services that better protect social institutions and internet users;
+
+education about the internet and its consequences;
+
+stronger social services support for internet users: this policy option involves strengthening social services dedicated to internet users to prevent or mitigate harmful effects such as internet addition, antisocial online behaviour or information overload;
+
+incentivising or requiring employers to develop policies that protect workers against harmful effects of work-related internet use, such as information overload and the blurring of lines between public and private life;
+
+establishing governmental units and multi-stakeholder platforms at EU level,to address the problems of the internet’s harmful social and cultural effects.
+
+Problematic use of the internet (PUI) research network
+
+Finally, in relation to internet-caused damage, it is worth mentioning the recent article published by the European Science-Media Hub (ESMH) on the European Problematic Use of Internet (PUI) research network. The project, funded by the European Commission, gathers over 120 psychologists, psychiatrists and neuroscientists, with the objective of reaching a better definition of diagnostic criteria, the role of genetics and personality traits, and the brain-based mechanisms behind internet related disorders.
+
+Categories: BLOG Tags: Gianluca Quaglio, Information Technology, internet, internet use, STOA
+
+Scientific Foresight (STOA)
+
+The Scientific Foresight Unit (STOA) carries out interdisciplinary research and provides strategic advice in the field of science and technology options assessment and scientific foresight. It undertakes in-depth studies and organises workshops on developments in these fields, and it hosts the European Science-Media Hub (ESMH), a platform to promote networking, training and knowledge sharing between the EP, the scientific community and the media. All this work is carried out under the guidance of the Panel for the Future of Science and Technology (STOA), composed of 27 MEPs nominated by 11 EP Committees. The STOA Panel forms an integral part of the structure of the EP.
+
+European Parliament Plenary Session – September 2024
+
+Taxing the super-rich – answering citizens’ concerns
+
+How has Parliament supported the Green Deal ambition to cut transport emissions?
+
+How has Parliament kept human rights sanctions at the top of the EU agenda?
+
+How has Parliament responded to the rise of artificial intelligence?
+
+Arrest of Captain Paul Watson in Greenland – answering citizens’ concerns
+
+Identifying data gaps in the textile industry and assessing current initiatives to address them
+
+The role of research and innovation in ensuring a safe and sustainable supply of critical raw materials in the EU
+
+End the Cage Age – answering citizens’ concerns
+
+European Parliament Constitutive Session – July 2024
+
+How does Parliament support Ukraine?
+
+Comments are closed for this post.
+
+What Europe does for me
+
+EU legislation in progress
+
+Download the EPRS App
+
+Cost of Non-Europe reports
+
+Russia's war on Ukraine
+
+Replies to campaigns from citizens
+
+What Europe does for you
+
+Economic and Social Policies
+
+EU Financing / Budgetary Affairs
+
+Institutional and Legal Affairs
+
+International Relations
+
+Structural and Cohesion Policies
+
+RSS Link to Scientific Foresight (STOA)
+
+Write to the European Parliament
+
+EP Library catalogue
+
+What Europe does for me
+
+Disclaimer and Copyright statement
+
+The content of all documents (and articles) contained in this blog is the sole responsibility of the author and any opinions expressed therein do not necessarily represent the official position of the European Parliament. It is addressed to the Members and staff of the EP for their parliamentary work. Reproduction and translation for non-commercial purposes are authorised, provided the source is acknowledged and the European Parliament is given prior notice and sent a copy. For a comprehensive description of our cookie and data protection policies, please visit Terms and Conditions page. Copyright © European Union, 2014-2024. All rights reserved.
+
+We are using cookies to give you the best experience on our website.
+
+You can find out more about which cookies we are using in settings. Close GDPR Cookie Banner
+
+Accept Settings Close GDPR Cookie Banner
+
+Discover more from Epthinktank
+
+Subscribe now to keep reading and get access to the full archive.
+
+Change cookie settings
+
+Close GDPR Cookie Settings
+
+Strictly Necessary Cookies
+
+Powered by GDPR Cookie Compliance
+
+This website uses cookies so that we can provide you with the best user experience possible. Cookie information is stored in your browser and performs functions such as recognising you when you return to our website and helping our team to understand which sections of the website you find most interesting and useful.
+
+Strictly Necessary Cookies
+
+Strictly Necessary Cookie should be enabled at all times so that we can save your preferences for cookie settings.
+
+Enable or Disable Cookies
+
+If you disable this cookie, we will not be able to save your preferences. This means that every time you visit this website you will need to enable or disable cookies again.
+
+More information about our Cookie Policy.
+
+The present website is hosted by WordPress.com, a service by Automattic. Automattic is a global company with thousands of servers located in several separate data centres around the world. While Automattic takes care of the security of the platform, we, the European Parliamentary Research Service, own the content of the blog. For more detailed information about the compliance of Automattic products and services with the EU General Data Protection Regulation (GDPR), please see their dedicated page.
+
+We do not collect any personal data that could identify an individual user. The users that are registered in WordPress.com should consult wordpress.com terms of service. We do collect anonymised aggregate data for statistical purposes. The data collected for this purposes include: number of visits/visitors per page, the country of the user, and aggregate numbers of incoming and outgoing clicks.
+
+We determine unique page counts by using a “hashed” version of the visitor’s IP address. The visitor’s full IP address is deleted from our logs after a little over a month. That timeframe is how long the data is needed in order to allow us to calculate your stats on a monthly basis and no longer.
+
+We collect your email address only if you proactively requested to be notified about the updates on the blog. You can always contact us to remove your email address from our records or unsubscribe from the notification service.
+
+We can also see your name and email address if you made a comment to one of our posts. We do not make the email address visible on the comment. Nevertheless, on request, we can delete your comments.
+
+We collect cookies only to facilitate your browsing experience, such as enabling you to share our posts via social media or comment on the post. The majority of cookies will be used only if you are a registered WordPress.com user. In this case, you are bound to WordPress.com terms of service.
+
+Some pages embed content from third parties. In this case, you will need to actively consent to their terms in order to see the content.
+
+We do not collect cookies to show advertisement nor resell any information collected with cookies to third parties. Read more about the wordpress.com cookie policy and the way to control cookies on their dedicated page.
+
+Enable All Save Changes

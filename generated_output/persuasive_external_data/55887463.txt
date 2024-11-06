@@ -1,0 +1,451 @@
+Back to Top Skip to main content
+
+An official website of the United States government Here's how you know
+
+The .gov means it’s official. Federal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you’re on a federal government site.
+
+The site is secure. The https:// ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely.
+
+Log in Show account info
+
+Logged in as: username
+
+Access keys NCBI Homepage MyNCBI Homepage Main Content Main Navigation
+
+Preview improvements coming to the PMC website in October 2024. Learn More or Try it out now.
+
+As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with, the contents by NLM or the National Institutes of Health. Learn more: PMC Disclaimer | PMC Copyright Notice
+
+Animals (Basel). 2020 Apr; 10(4): 656.
+
+Published online 2020 Apr 10. doi: 10.3390/ani10040656
+
+To What Extent Are Consumers’ Perception and Acceptance of Alternative Meat Production Systems Affected by Information? The Case of Cultured Meat
+
+Maria Cecilia Mancini* and Federico Antonioli
+
+Dipartimento di Scienze Economiche e Aziendali, Università degli Studi di Parma, 43125 Parma, Italy; ti.rpinu@iloinotna.ociredef
+
+*Correspondence: ti.rpinu@inicnam.ailicecairam; Tel.: +39-0521-032383
+
+Received 2020 Feb 6; Accepted 2020 Apr 2.
+
+Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (http://creativecommons.org/licenses/by/4.0/).
+
+Supplementary Materials
+
+animals-10-00656-s001.pdf (609K)
+
+GUID: 5AE830FA-F1C1-4C3B-B600-8AE43EBE5AFA
+
+Meat grown in labs, also known as cultured meat, is currently under development and will likely soon be available on supermarket shelves. Such new meat-based products may tackle some of the most controversial societal concerns related to the industry, in particular animal wellbeing and environmental impacts, with further potential improvements concerning food security. However, due to its high degree of novelty, it remains unclear how consumers view this type of food product, particularly in terms of beliefs regarding its intrinsic attributes such as safety, nutrients and flavor characterization, and its positive externalities concerning the environment, animal welfare, and food security. The present study aims at unveiling the perception, acceptance, and willingness to try, buy, and pay a premium price for cultured meat in the Italian context, deconvoluting the effect of providing positive information to consumers. Such investigation offers new insights for the development of targeted marketing strategies by deepening the understanding of consumers’ perception of this lab-grown food product. Indeed, the study reveals that positive information affects the consumers’ perception towards safety and nutritional characteristics of cultured meat and the willingness to pay a premium price for this new food product accordingly.
+
+The global meat production system is currently under pressure, particularly for its environmental and animal wellbeing impacts, as well as for the increasing protein demand worldwide. In this regard, cultured meat is currently a hot topic in the industrial, political, and societal arenas, revealing itself as the potential relief for the issues above. However, its high degree of novelty may hamper the extent of consumers’ acceptance. This research assesses for which beliefs concerning intrinsic attributes and positive externalities, the provision of information is a sufficient tool for affecting the perception and acceptance of cultured meat on a panel of Italian consumers. Changes in perception and willingness to try, buy, and pay are assessed by measuring the variation before and after the provision of positive information related to the product. The results show that perception is affected by positive information concerning safety and nutritional characteristics, whereas the opposite occurs regarding the product flavor. Furthermore, findings reveal that, while the willingness to buy increases after providing positive information, the willingness to try does not. Finally, information on intrinsic attributes and positive externalities of the cultured meat would have to be combined with different approaches for further enhancement of consumers’ perception and acceptance.
+
+Keywords: cultured meat, willingness to pay, information, consumer perception, animal welfare, novel food
+
+At present, the meat production system is under pressure because of several concurrent factors. According to [1], 815 million hungry people require nourishment worldwide and an additional 2 billion people are expected to be added to this total by 2050. In addition, urbanization, population growth, and rising incomes in developing countries will increase the global demand for animal products by more than two-thirds by 2050 [1]. At the same time, Western consumers appear to be unwilling to substantially reduce meat consumption [2], suggesting one should expect a significant rise in livestock production [3], resulting in a significant negative impact on natural resources. Indeed, animal production generates approximately 14.5% of the total anthropogenic greenhouse-gas emissions [4], and, despite an increased efficiency regarding production processes, the expected growth in demand will probably enlarge this share in the coming decades. Thus, viable actions are needed for enabling the food system [5] to mitigate the increasing demand for protein sources and both social and environmental priorities, such as animal welfare [6,7,8,9,10,11], particularly in animal transportation [12], providing a potential solution to the so-called ‘meat paradox’ (this term relates to the current phenomenon where “one believes in the value of animal wellbeing and nonetheless consumes products which have caused animal suffering” [13]). One potential food scenario is represented by cultured meat, which is produced by using animal cells taken from a living animal and then grown in a laboratory environment, exercised, and nourished with a nutrient-rich serum [14,15,16].
+
+Cultured meat, also known as in vitro, synthetic meat, clean meat and by a number of more or less widespread terms [17], is currently a hot topic in both the policy and industrial agendas: the European Union legislator is working to provide a legislative framework to protect consumers (e.g., the Reg. (EU) 2015/2283 on novel foods) [18], whereas food industry players and investors are financing scientific research to accelerate the availability of the product to the consumer market.
+
+The recent literature focuses on the positive environmental effects of cultured meat production compared to conventional meat production. In an early publication, cultured meat was indicated to reduce energy consumption and land usage by 99%, water usage by 90%, and energy consumption by 40% [19]; however, a higher energy input and water footprint was reported in later research [20]. More recently, some authors have reported scaled-down performances of cultured meat, resulting from having a lower land footprint than beef and lower greenhouse gas emissions than poultry, pork, and beef, but a higher energy consumption than pork and poultry and comparable to beef [21]. The literature has identified other benefits related to cultured meat: it would largely circumvent the need for animals in the meat production system, thus alleviating ethical concerns of meat-eaters associated with industrial livestock operations [22,23] and address global hunger issues, avoiding meat becoming a luxury food for the majority of the consumers [15]. The controlled environment of the production process would also allow for a reduction in human–animal interactions, thereby reducing the risks of zoonosis and other diseases [15,24]. Nevertheless, some authors warn against both the cell culture, which is never entirely controlled, and some unexpected biological mechanisms that could occur [25,26].
+
+The commercial success of cultured meat, however, heavily depends on consumer perception. Bryant and Barnett [27] offer a thorough review article on consumers’ perception towards cultured meat, together with some other very recent studies on this topic [28,29,30,31]. Common objections to cultured meat relate to either personal or societal concerns. The former relates to safety issues [26,32,33,34,35], the nutritional value [32,33,36,37,38], and the taste/texture/appearance of cultured meat [32,33,37,38,39,40,41,42], and some others call for more in-depth investigations to gain a better understanding of consumer profiles [43]. The latter mainly pertains to the end of traditional animal agriculture, distrust in the companies producing cultured meat, and the energy required for production [32,33,37,38,40]. A positive consumers’ perception of cultured meat is mainly related to animal welfare and environmental sustainability [32,33,44,45]—less frequently to food security and safety [33,37,38,39,44].
+
+An essential element related to consumer acceptance is information provisioning, as shown by some empirical analyses [33,38,40,46] that prove that the higher the consumers’ familiarity with cultured meat, the higher their acceptance rate. Conversely, the higher the general aversion to a new taste and food experience, the lesser the willingness of the consumers’ to eat cultured meat, resulting in a lesser acknowledgement of its benefits [30]. Information, particularly regarding the environmental benefits, results in being an essential medium to address Belgians’ positive perception of cultured meat [37]. Not only did the themes and sources of information prove to be critical, but also the wording and metaphors represent a useful tool that influenced consumer opinion [47]. In this regard, Bryant and Barnett [27] identify a gap in the literature regarding the persuasiveness of emphasizing the different benefits of cultured meat. Nevertheless, Siegrist et al. [35] and Bryant and Dillard [48] reported a significantly higher rate of acceptance when participants are given a non-technical description of cultured meat compared to a technical description due to a difference in perceived naturalness. Information can change the explicit attitude, i.e., the evaluation constructed through the cognitive elaboration of available information [49] towards the unfamiliar object—cultured meat—in the direction of the valence of the information [38]. Nevertheless, solving the “information deficit” may result insufficient to overcome the aversion to novel technologies applied to food production [28,30]. Indeed, the current available literature fails to provide a comprehensive analysis about consumers’ perception towards intrinsic attributes and positive externalities the cultured meat embeds. In particular, as suggested by [28,30], further research is needed to understand whether the consumers’ perception and beliefs are effectively influenced by information related to both intrinsic attributes and positive externalities. This would unveil the attributes and externalities for which approaches other than positive information provision are needed to face psychological barriers, such as distrust and fear.
+
+To the best of authors’ knowledge, the literature lacks studies concerning the role and the limits of positive information on consumers’ perception and acceptance of cultured meat regarding the Mediterranean basin, particularly Italy.
+
+The present work aims to fill this gap by assessing to what extent Italian consumers’ perception and their willingness to try, buy, and pay a premium price for cultured meat are affected by positive information. Results offer some insights for both the private and public sectors concerning the potential future promotion of its consumption (some preliminary results of this research are available in [50], where a general discussion on consumers’ perception and acceptance towards cultured meat was provided, but the role of information was not analyzed).
+
+2. Materials and Methods
+
+Consumers’ perception is described by the score given to six statements concerning their beliefs related to intrinsic attributes and positive externalities of the production process for cultured meat, while indicators of consumers’ acceptance of cultured meat are assumed to represent their willingness to try, buy, and pay a premium.
+
+The first research question we aimed to answer is (i) whether consumers’ perception is positively affected by positive information provisioning. Indeed, some studies on novel foods [51,52,53,54,55] found that positive information affects consumers’ responses to novel food positively. Furthermore, the present research aimed at (ii) confirming the role of the positive information provision in increasing acceptance, defined by the three willingness-related items named above, as shown in [37] and other studies focusing on novel and reformulated foods [56,57]. Finally, the results allowed us to draw some qualitative conclusions on (iii) the effect of a change in perception on the level of acceptance towards a novel food such as cultured meat, i.e., whether the change in the former, prompted by information provision, is predictive of a change in the latter. This opens the door to further research on this topic, particularly related to the predictors of acceptance of the product at stake. Indeed, the market failure for many novel foods is still high, mainly due to unfamiliarity with the product and the high risk perceived by consumers [58,59,60,61]. This highlights the importance of understanding how to predict consumer acceptance and behavior towards novel food.
+
+An online survey was conducted, reaching 525 Italian consumers (N = 525) between September 2017 and March 2018. The questionnaire was made available on the website of an Italian consumer association (Confconsumatori), whose main aim is to assist citizens in dealing with public administration issues (in areas such as access to justice) but also with inefficiencies or injustices related to telephone services and tariffs, water, electricity, and gas contracts.
+
+Thus, as the association is not focused on food issues, the sample is not biased by any specific sensitivity to food-related issues. The members of the association (almost 30,000) were informed about the questionnaire through the Newsletter, which is e-mailed each month, and invited to fill it out.
+
+Respondents that completed the whole questionnaire were rewarded with a free copy of a monthly magazine aimed at informing citizens and consumers on their rights. Once data collection was completed, the e-mails of the respondents were checked to find potential duplicates. Six e-mails were found twice. In such cases, the first questionnaire only was included in the sample. The design of the questionnaire, in line with Verbeke et al. [33], is composed of four sections (Figure S1): the first section collected sociodemographic information, meanwhile, the second section explored meat consumption habits (i.e., whether participants were meat consumers or not, the frequency of meat consumption, intention to reduce meat, and reasons for meat consumption). The third section provided the participants with basic information (Level I) on cultured meat: “Cultured beef is created by harvesting muscle cells from a living cow. Researchers of the Maastricht University (culturedbeef.org) state that cells from a single cow would produce 175 million quarter-pounders. Conventional farming methods would need 440,000 cows. The product should not be confused with meat substitutes like tofu because it is real meat, the same as the one produced according to today’s intensive livestock production system. Cultured meat is not available on the market yet.” A graphic description of the production process was also provided.
+
+The participants were then asked to evaluate six statements on a five-point Likert scale, ranging from “I do not agree at all” (1) to “I completely agree” (5). The first three statements related to beliefs concerning the positive externalities of the cultured meat production process (i.e., the contribution to environmental sustainability, animal welfare, and food security), whereas the remaining three pointed to beliefs concerning intrinsic attributes (i.e., safety, taste, and nutritional content).
+
+Positive externalities exist if the production of a good or service benefits a third party not directly involved in the market transaction, whereas intrinsic attributes are physical attributes of the product that cannot be modified except by changing the physical characteristics of the product [62,63]. The six statements are phrased in Table 1. Further, three questions related to willingness to try (WTT), buy (WTB), and pay (WTP) for cultured meat, respectively, were then asked. Depending on whether the interviewee expressed a WTT the cultured meat, he/she was asked about his/her WTB and, if positive or uncertain, his/her WTP. Concerning the latter, the reference price for conventional burger meat (€7/kg) was calculated as the mean of burger meat prices surveyed in 24 large retailer outlets scattered throughout Italy. Nine different options were available: whether they were willing to pay a premium price compared to a conventional burger (+10%, +20%, +30%, or an unquantified premium price); if unwilling to pay a premium, the respondent was given the option to pay the same price as a conventional burger or “maybe the same price”; finally, the lower-price options (−10%, −20%, or −30%) were made available for those who expressed either no WTP a premium or the same price.
+
+Beliefs concerning positive externalities and intrinsic attributes a.
+
+Δμ (μ(II) − μ(I))
+
+Beliefs concerning positive externalities
+
+Cultured meat will contribute to preserve natural resources
+
+Cultured meat is animal welfare friendly
+
+Cultured meat will contribute to alleviate hunger in developing countries
+
+Beliefs concerning intrinsic attributes
+
+A cultured meat burger will be as tasty as a conventional burger
+
+A cultured meat burger will be more nutrient than a conventional burger
+
+Cultured meat is safe
+
+Open in a separate window
+
+a Evaluation based on five-point Likert scale: 1 = I do not agree at all; 5 = I definitely agree. b Whenever the actual p-value is smaller than the adjusted p, the H0 can be rejected.
+
+In the fourth section, the respondents were provided with more detailed information (Level II) about the positive externalities of cultured meat, namely the environmental, health and food safety benefits: “Two-thirds of agricultural land is used for livestock production, which is responsible for about 18% of the greenhouse gas (GHG) emissions [64,65]. The Food and Agriculture Organization of the United Nations (FAO) estimates that rising pro capita income in developing countries will increase by 70% in 40 years. It was shown [20,66] that cultured meat would lead to a 98.8% reduction of GHG emissions, 99.7% of land use and 94% of water use compared to traditional meat. Cultured meat would also prevent diseases such as mad cow disease and microbiological infections, such as Salmonella, due to less contacts between animals and humans. In addition, the fat composition of the meat can be improved, for example by enriching the meat with omega-3 fatty acids.” (Figure S2) Respondents were then asked again to evaluate the same six statements and their WTT, WTB, and WTP.
+
+Statistical Methodology
+
+The Statistical Package for Social Science (SPSS) version 25.0 was used to perform the statistical analysis of data (IBM Corp. Released 2017. IBM SPSS Statistics for Windows, Version 25.0, Armonk, NY: IBM Corp). The chi-squared (χ2) test was applied for testing independence between gender and meat-consumption habits, finding that non-meat consumers are mainly women (please, see the next section for more details). Both the Shapiro–Wilk and Kolmogorov–Smirnov tests for normality were applied, both rejecting the null of normal distribution of responses for each subgroup in which the sample was segmented. Therefore, due to the non-normal distribution of responses, the non-parametric Wilcoxon signed-rank test was used to obtain an understanding of whether and, if so, how the provision of positive information has an effect on consumer perceptions. Accordingly, the two sets of responses, belonging to the same interviewee, and describing his/her responses before and after the provision of information, were compared.
+
+The sample was segmented according to sociodemographic variables (sex, age, education, place of residence), consumption habits (meat/non-meat consumers, reasons for consuming/non-consuming meat, intention or not to reduce meat consumption, reasons for reducing meat consumption), and according to familiarity or non-familiarity with cultured meat. This latter category was defined according to the interviewee’s answer to the multiple-choice question ‘Have you ever heard about cultured meat before?’. The options were; (1) No (2) Yes, but I do not know what it is about, and (3) Yes, and I know its main characteristics. The respondent was considered familiar with the product when the third option was selected.
+
+Given the wide number of subgroups that were analyzed in the research, multiplicity issues may arise. The latter refers to the inflation of the type I error rate when multiple testing is performed, leading to a higher rate of rejection of the null hypothesis, increasing the risk of false-positive findings [67]. To control for multiplicity issues, we performed the Benjamini–Hochberg correction [68], with a false discovery rate (FDR) of 5%. The multiple comparison correction strongly confirms the previous results. However, given that many of the tested variables are not independent (the Spearman correlation matrix indicates high correlation rates, besides being dependent by construction), we failed to ensure the assumption of independence for correctly and wisely applying the Benjamini–Hochberg correction. Accordingly, a multiple-comparison correction that accounts for test non-independency was applied. Specifically, we followed the correction applied in Cheverud [69], and Nyholt [70], in which the correlation among tested variables is accounted for, and, through eigenvalues’ variance, the number of tests to be used to correct the alpha threshold is given (see Derringer [71] for further details on its implementation in R [72]). Specifically, we determined the precise number of tests (T) accounting for
+
+k correlated variables as
+
+ϑ is a vector of eigenvalues of
+
+k. length. Once the family-wise error rate
+
+α is identified, one can retrieve the adjusted and correct
+
+α for each test, i.e.,
+
+T. In our specific case, with
+
+T was 39.97, with a final
+
+T. of 1.25−03. Accordingly, one can robustly reject the null hypothesis whenever the raw test p <
+
+T. Correcting for multiplicity avoids the false rejection of 21 null hypotheses over a total of 122 tests.
+
+3.1. Sociodemographic Characteristics of the Sample
+
+The sample was similarly split into males (46%) and females (54%). Other sociodemographic data, including data regarding age ranges, education, and geographical area of residence, are detailed in Table 2. Participants were asked about their meat consumption habits and their intention to eat less meat. Eight percent of the sample declared that they do not eat meat, mainly women (i.e., 80%) (χ2 = 12.033; p < 0.01, that is to say, sex and non-meat consumption habits are associated. The chi-squared test is applied for testing independence between these two categorical variables). Ethics is the main reason for not consuming meat: 31% (of those respondents who stated that they do not eat meat) do not consume meat because intensive livestock production damages the environment, 38% because it is not animal welfare-friendly, 19% because of health-related reasons, and 12% because they do not like meat. Of those who eat meat, 37% stated their intention to reduce meat consumption, of which 56% were females (χ2 = 14.403; p < 0.01, therefore, sex and the intention to reduce meat consumption are associated). Reasons for decreasing meat consumption were equally shared between ethical and health issues: 25% intends to reduce meat consumption because intensive farming damages the environment, 26% because it is not animal welfare friendly, and 44% because meat has a negative impact on human health. Only a residual 4% cited the reason “meat is expensive”. No significant differences were found within age, sex, education, or place of residence.
+
+Sociodemographic characteristics of the sample.
+
+Total Place of residence
+
+Open in a separate window
+
+3.2. The Change of Consumers’ Perception after Positive Information Provisioning
+
+In this section, the change in agreement for each of the six statements after the level II of information is analyzed (Table 1). After the provisioning of the first level of information (Level I), scores were higher for statements related to beliefs concerning positive externalities rather than intrinsic attributes: means of the three former affirmations resulted above the midpoint (i.e., above 3 on the Likert scale), with the protection of natural resources as the most valued attribute, whereas the rating means concerning beliefs related to the intrinsic attributes were below the Likert scale’s median, with the statement regarding the nutritional content of the cultured meat having the lowest score.
+
+To assess whether additional information affected respondents’ perception, the difference in means between the two different levels of information was tested for each statement (Δμ = (μ(II) − μ(I)), where μ indicates the mean) with respect to the whole sample. Results from the Wilcoxon rank test clearly awarded significant differences to the mean scores of all six statements, between the two levels of information. The highest differences were recorded for two affirmations with regards to consumers’ beliefs concerning the intrinsic attributes, namely “safety” and “nutrients”, whose mean differences are 0.4 and 0.5, respectively. Within the intrinsic group, “flavor” featured the smaller mean difference, i.e., 0.3. Concerning the beliefs related to the positive externalities, “sustainability” demonstrated the most substantial difference—0.3—representing the third attribute in absolute mean-difference terms. “Animal welfare” and “food security” followed, with a delta of 0.2 each. However, when observing the score-means, beliefs related to the intrinsic attributes still demonstrated lower rankings than positive externalities, even after the provisioning of the second level of information (we indicate the median as the statistical tests refer to the rank. However, for the sake of readability, we consider the mean value when commenting on the results).
+
+For deepening the understanding, sociodemographic variables (i.e., sex, age, education, place of residence), consumption habits (meat/non-meat consumer, intention/no intention to reduce meat consumption), and familiarity with cultured meat were considered to deconvolute to what extent groups’ perception was affected by positive information. For the sake of simplicity, categories regarding age and education were gathered in more homogeneous groups—over 45 years old (n = 244) versus under 45 years old (n = 281)—and higher educated respondents, including university students and those who hold a university degree (n = 360) versus respondents who are not higher educated (n = 165). Table 3 shows that, after detailed and positive information provisioning, the agreement of almost all of the groups significantly increased to higher scores for all the statements. A notable exception when evaluating the beliefs concerning the positive externalities is represented by the “non-meat consumer” group: for them, the mean differences of “sustainability”, “animal welfare”, and “food security” are not statistically significant. The perception of those in the “18–44 years old”, “non-meat consumer”, “female”, and “academic degree and university students” groups was most affected by positive information concerning nutrition, with a delta generally above 0.6; perception of “non-meat consumer” and “female” groups changed most in terms of the intrinsic “safety” attribute (i.e., generally above 0.50); while “non-familiar with cultured meat” and “over 44 year’s old” groups’ perception was most greatly impacted in terms of the externality concerning “sustainability”, as differences resulted in around 0.5. Segmentation according to the place of residence was non-significant for all statements, hence the results are not reported in Table 3 (data are available upon request).
+
+Medians, average scores, and significance level of score differences between the level II and the level I of information for beliefs on positive externalities and intrinsic attributes per group
+
+Sustainability (II) - Sustainability (I)
+
+Animal Welfare (II) - Animal Welfare (I)
+
+Food Security (II) - Food Security (I)
+
+Intention to Reduce Meat Consumption
+
+No intention to Reduce Meat Consumption
+
+Academic Degree and Current University Student
+
+No Academic Degree and no University Student
+
+Non-Familiar with Cultured Meat
+
+Familiar with Cultured Meat
+
+Flavor (II) - Flavor (I)
+
+Nutrients (II) - Nutrients (I)
+
+Food Safety (II) - Food Safety (I)
+
+Intention to Reduce Meat Consumption
+
+No intention to Reduce Meat Consumption
+
+Academic Degree and Current University Student
+
+No Academic Degree and no University Student
+
+Non-Familiar with Cultured Meat
+
+Familiar with Cultured Meat
+
+Open in a separate window
+
+a Please note that the range for each statement and for each point in time is always equal to four given that at least one respondent always scored 1 and 5 on the provided Likert scale. b Whenever the actual p is smaller than the adjusted p, the H0 can be rejected.
+
+Briefly, while we can confirm that positive information on cultured meat affected respondents’ perception in the direction of the given information when the whole sample is considered, this is not always the case when subgroups were investigated. However, given the meagre number of subgroups showing non-significant differences, one could say that the provision of positive information certainly affected respondents’ perception towards a higher agreement with the six statements.
+
+3.3. The Change in Consumers’ WTT, WTB, and WTP after Positive Information Provisioning
+
+Sensitivity to information was also tested with reference to WTT, WTB, and WTP (Table 4). After the first level of information, 77% of the sample stated to be willing to try, 66% willing to buy, and 27% willing to pay a premium price (including WTP a +10%, +20%, and +30%) for cultured meat. After provisioning the level II of information, the change in WTT was not significant.
+
+Willingness to pay (WTP), try (WTT), and buy (WTB). Median, means, and significance of differences between the level II and the level I of information.
+
+Open in a separate window
+
+* Since all the listed variables are dicothomic, i.e., taking values of either 0 or 1, each variable’s range is always 1. a WTP_Premium includes WTP a +10%, +20%, and +30% premium price; WTP_Less includes a −10%, −20%, and −30% price compared to the conventional price. b Please see Tables S1 and S2 for the descriptive statistics of the listed variable. c When the actual p-value is smaller than the adjusted p-value, the H0 can be rejected.
+
+WTB and WTP a premium price for cultured meat significantly increased, with their frequencies increasing by 7% and 27%, respectively. As far as the three decomposed options for WTP a premium, the WTP a 20% premium price rose significantly—by 36%—whereas the WTP a 10% and a 30% premium price were not significantly affected by the level II of information (Table S1 and Table S2).
+
+Regarding the whole sample, given the significant increase in WTB and WTP a premium, one could say that some facets of acceptance have been positively affected by the information. The sample segmentation confirmed that none of the groups’ WTT was significantly affected by the provided information (Table 5). As far as WTB, information impacted meat consumers’ acceptance only, meanwhile information increased the WTP a premium price of the majority of the groups, namely “female”, “male”, “intend to reduce meat consumption”, “academic degree and current university student”, “meat consumer”, “18–44 years old”, and “familiar with cultured meat”.
+
+Medians, average scores, and significance level of score differences between the level II and the level I of information for WTT, WTB, and WTP a premium per group
+
+WTP_Premium (II) - WTP_Premium (I)
+
+Intention to Reduce Meat Consumption
+
+No intention to Reduce Meat Consumption
+
+Academic Degree and Current University Students
+
+No Academic Degree and no University Students
+
+Non-Familiar with Cultured Meat
+
+Familiar with Cultured Meat
+
+Open in a separate window
+
+a Whenever the actual p-value is smaller than the adjusted p, the H0 can be rejected.
+
+The preliminary evidence, as the object of the present study, is that respondents’ perceptions were particularly affected by additional information concerning two intrinsic attributes—nutritional aspects and safety of cultured meat. Respondents’ perception was less affected by additional information concerning externalities, probably because of the high level of agreement with the related statements even before the provision of positive information, while, with regards to the flavor attribute, it is likely that consumers need to be reassured in ways other than information provisioning. Indeed, sensory tests are crucial for acceptance of a novel food [73], in particular for meat substitutes such as cultured meat [39], since consumers are not willing to compromise a great deal on the taste of meat substitutes [37] and need the so-called “familiar flavor” to reduce food neophobia [74].
+
+Segmenting according to sociodemographics and meat consumption habits revealed that perception of almost all groups is affected by additional information. The main exception is represented by non-meat consumers and, to a lesser extent, by “over 44 years old” and “no academic degree and no university student” respondents. For all the remaining groups, the registered change in perception is consistent with the type of information provided. This finding is in line with those of previous studies, according to which acceptance is sensitive to information provision [37], and the direction of the information provided can address the explicit attitude towards the unfamiliar object accordingly [38].
+
+Vegetarians’ perception of cultured meat sustainability, animal welfare, and food security implications were unaffected by additional information. An explanation for this could be that vegetarian respondents were informed about the negative externalities of intensive livestock even before the provision of the positive information about cultured meat, as was shown by the introductory section of the questionnaire, where they declared that they do not consume meat mainly for ethical-related reasons. This is also consistent with the literature whereby non-meat consumers are well aware of the impact of intensive livestock farming on the environment and animal welfare [75].
+
+Likewise, “no academic degree and no university student” and “over 44 years old” respondents were indifferent to information with regard to food security and flavoring in the former, and to food security in the latter. Again, such results are consistent with previous research reporting that people holding a higher education degree are more likely to engage in analytical thinking [76] rather than emotional attitudes, possibly making them more available to new food scenarios than lower educated consumers; conversely, age is negatively correlated with new experiences, implying that older people prefer to maintain established habits [77], which can be translated into a cautious attitude towards cultured meat.
+
+Apart from the aforementioned exception, perceptions of nutritional, safety, and sustainability attributes of cultured meat were those most affected by additional information. Nevertheless, depending on consumers’ characteristics, the perception changed radically. In light of this, marketers and, possibly, policymakers would have to deliver a set of tailored messages to engage with different audiences. Indeed, the results suggest that the 18–44 years old age range, females, highly educated, and non-meat consumers’ perceptions were particularly affected by additional information on nutritional characteristics; meanwhile, non-familiar with cultured meat and, again, females and non-meat consumers’ perceptions showed the largest change after additional information related to safety aspects was provided. Finally, additional information about the sustainability of cultured meat exerted the most influential consequences on the perception of those not familiar with cultured meat and over 44 years old.
+
+A point to stress, which proved to be consistent with what was reported in [45], is the pivotal importance of information for those without previous knowledge of the product, i.e., “not familiar with cultured meat”. They were amongst those that were the most affected by information on two externalities and one intrinsic attribute. The former two, “sustainability” and “food security”, confirm the importance of supporting the information concerning these positive externalities, as they are not quickly and directly identified as being related to cultured meat. Referring to beliefs concerning the intrinsic attribute, i.e., safety, it seems that for those unfamiliar with this product, it is of crucial importance to explain how the product is not harmful to human health. In fact, previous research on the sense of unfamiliarity with novel technologies, such as genetically modified organisms (GMOs) [78] to which cultured meat is associated [33], showed that unfamiliarity leads to a lack of trust [34], uncertainty, and concerns over potential adverse long-term consequences [34,47].
+
+As far as the acceptance of cultured meat, none of the groups showed a significant variation in their willingness to try between the two levels of information. This is possibly related to the fact that respondents of this survey showed a high rate of willingness to try even before the provision of the second level of information, suggesting that consumers were already positive and interested in the product, and that the so-called yuck factor (i.e., the disgust that consumers might feel at the idea of consuming cultured meat) is not prominent. This result is consistent with Eurobarometers’ findings [79], according to which Italians were among the citizens in Europe who most favored cultured meat as an alternative to animal slaughtering. Another interpretation, in line with the results reported in [34,73], could be that willingness to try very much depends upon stimuli other than information. Indeed, as much as the perception was significantly affected by information, many groups did not show a significant variation regarding their willingness to try. If this is the case, new approaches are required to address “the underlying worldviews, fears, and conspirational mindsets that are associated with people resistance (p.144)” [30]. In this regard, the authors of [28] believe that the analysis of the attitude towards novel foods should start from the “understanding of the food identity profile of the members of the population of interest … to tap the psychological variables linked to the system of values that drive food choices” (p.10).
+
+The findings also show that, after the positive information provisioning, the willingness to buy of meat consumers, who represent the lion share of the total sample, increased; conversely, non-meat consumers, over 44 years old respondents, those not holding a higher education degree, those with no intention of reducing their meat consumption and are not familiar with cultured meat did not show any change in their willingness to buy.
+
+Regarding the last qualitative question posed in Section 2, i.e., (iii) whether the change in the perception, prompted by information provision, is predictive of a change in the acceptance, the results appeared mixed. On the one hand, despite the enhancement in perception between the two levels of information, the magnitude of such a change, or the change per se, seems not to be predictive of a positive shift in the intention to try the product. On the other hand, however, both the intention to purchase and to pay a premium price of the sample as a whole significantly rose, pointing to the existence of some predictive power of information on consumer attitudes over food choice. However, this represents a qualitative exercise, thus it presents an opportunity for future research on this topic.
+
+The present research conveys interesting insights with regard to non-meat consumers and females. The main share of non-meat consumers provided ethical-related reasons as to why they did not consume meat. While they were shown to be familiar with the positive externalities of cultured meat, the opposite is true regarding its intrinsic attributes, as shown by their high sensitivity to two out of three intrinsic attributes, namely those related to nutrients and safety. Nevertheless, they were not willing to try, buy, or pay a premium price for cultured meat in either of the two levels of information in the questionnaire. This confirms the findings of [40], in which it was argued that those who do not consume meat for ethical reasons may support the product in terms of its improvement to both animal and environmental conditions but they are not willing to participate in its consumption. This coincides with the debate surrounding cultured meat among vegetarians. Indeed, most of them point out that cells used for cultured meat production are derived from animals, hence qualifying cultured meat as real meat [80]. Therefore, vegetarians prefer meat substitutes, such as plant-based burgers, rather than cultured meat [41]. Another point is that those vegetarians who do not eat meat for health-related reasons can represent an interesting field for future research because cultured meat would represent an appealing opportunity for consuming meat free from negative, health-related side effects (e.g., high cholesterol) and would open a further niche of potential customers.
+
+With regards to the “females” group, this represents an interesting case of a changing perception after information provisioning. Indeed, women attributed lower scores to the six statements concerning both intrinsic attributes and externalities after receiving the first level of information, when compared to men. This was also the case for their willingness to pay a premium. The cautious perception shown by females towards novel food and genetically modified products is confirmed by several studies: [40] found that women display more negative attitudes than males towards cultured meat, and [81] confirmed that men are more willing to try cultured meat than women. Studies [82,83] showed how females are more reluctant to accept highly engineered food, particularly genetically modified products, whereas findings regarding insect-based food cemented the greater “food-neophobic attitude” of female subjects when compared to male [52]. Nevertheless, our survey showed that the delta resulting between the first and the second level of information provision is always higher for females than males, for the beliefs concerning both the externalities and intrinsic attributes, and for the willingness to pay a premium. Thus, enriching the informational background profoundly affected females’ perception and acceptance, entirely bridging the initial gap between the females and males.
+
+Briefly, respondents of this survey can be classified according to two typologies: (a) those whose perception and their acceptance (in terms of WTB and WTP) of cultured meat were both significantly affected by positive information and (b) those whose perception was affected but their acceptance of cultured meat is partially, or not at all, affected by information. Within the former typology, meat consumers are featured, whereas the latter typology is represented by several subgroups (i.e., “no intention to reduce meat consumption”, “no academic degree and no university students”, “non-meat consumer”, “over 44 years old”, and “not familiar with cultured meat”). This typology should be further investigated to understand what remains uncomfortable for these groups when it comes to cultured meat. It is likely that the cautious attitude of this consumer typology is related to the food culture of the country where the survey took place—Italy—in which food quality is mainly equated to the naturalness of the product [84]. If so, positive information alone will not be sufficient to overcome aversion to cultured meat and different approaches will be necessary to change the present consumers’ mindset and system of values that prevent them from accepting cultured meat.
+
+One main limitation of the presented study lies in the potential bias of the results, as consumers tend to overestimate their willingness to pay when in a hypothetical context [85]. To this extent, a lot of information on consumers’ acceptance towards cultured meat will be gained in the near future, when the US market will be (most likely) the first to make cultured meat available to consumers. A second limitation is that the sample, when compared to the census population, is younger (only 8% of the sample was in the >65 age category, compared to 22% in the census population) and better educated (95% of the sample reports holding a post-secondary diploma compared to 42% of the census population). This high level of education is likely due to the scarce representation of the elderly in the sample. Hence, the sample cannot be considered fully representative of the population, and the percentage of respondents willing to try cultured meat is biased by the share of young people in the sample; however, it includes consumers who are more likely to be involved in future novel food scenarios.
+
+Future research on the impact of information on consumers’ acceptance of cultured meat shall cover a wide range of issues. Hitherto, surveys tended to highlight the positive characteristics of cultured meat, disregarding critical aspects that could arise [86] (e.g., the massive use of energy in the case of large-scale production, the economic sustainability of livestock farmers, and the agricultural substitution of surfaces that were dedicated to meat-producing animals, among many others). Accordingly, evaluating consumers’ perceptions regarding the trade-off between positive and negative, such as price, or uncertain characteristics of cultured meat is of interest, particularly for policymakers. Moreover, assuming that meat consumers are those who are the most interested in cultured meat, an interesting perspective could be the analysis of the reasons why some consumers eat meat and are not interested in their reducing meat consumption. Indeed, some people eat meat for reasons other than taste, such as athletes who follow high-protein diets. For them, cultured meat would represent a compromise between their nutritional needs and ethical beliefs. This seems to alleviate the “meat paradox”: cultured meat could provide a new balance between ethics (e.g., animal wellbeing and environmental concerns) and actual consumption behaviors.
+
+The latest aspect concerns the sources providing the information and their diverse impact on consumers’ acceptance. Independent third-party bodies, including universities, may induce a more significant impact than private companies; in light of this, the communication of European Food Safety Authority approval of cultured meat, if any, would represent a strong guarantee to the consumers.
+
+This research assessed for which beliefs concerning intrinsic attributes and positive externalities, the provision of positive information represents a sufficient tool for affecting the perception and acceptance of cultured meat on a panel of Italian consumers. Changes in perception and willingness to try, buy, and pay were assessed by measuring the variation before and after the provision of positive information related to the product. The results showed that perception is significantly affected when the information concerns safety and nutritional characteristics, whereas the opposite occurs regarding the product flavour. Furthermore, findings revealed that, while the willingness to buy increases after providing positive information, the willingness to try does not. Indeed, willingness to try depends upon further stimuli other than information, suggesting a deeper analysis of the food profile, and the values underlying it, of the population of interest. Therefore, information on intrinsic attributes and positive externalities of the cultured meat would have to be combined with different approaches for further enhancement of consumers’ perception and acceptance.
+
+Supplementary Materials
+
+The following are available online at https://www.mdpi.com/2076-2615/10/4/656/s1; Figure S1. Graphical representation of the questionnaire structure; Figure S2. Graphical representation of the questionnaire content; Table S1. WTT, WTB and their variations between the level II and the level I of information; Table S2. WTP and variation between the level II and the level I of information.
+
+Click here for additional data file.(609K, pdf)
+
+Author Contributions
+
+Conceptualization, M.C.M.; Data curation, M.C.M. and F.A.; Formal Analysis, F.A.; Investigation: F.A.; Methodology, F.A.; Project management, M.C.M.; Supervision, M.C.M., Visualisation, F.A.; Writing—Original Draft, M.C.M.; Writing—review and editing, M.C.M. and F.A. All authors have read and agreed to the published version of the manuscript.
+
+This research received no external funding.
+
+Conflicts of Interest
+
+The authors declare no conflict of interest.
+
+1. FAO . World Livestock: Transforming the Livestock Sector through the Sustainable Development Goals. FAO; Rome, Italy: 2018. [Google Scholar]
+
+2. Tobler C., Visschers V.H.M., Siegrist M. Addressing climate change: Determinants of consumers’ willingness to act and to support policy measures. J. Environ. Psychol. 2012;32:197–207. doi: 10.1016/j.jenvp.2012.02.001. [CrossRef] [Google Scholar]
+
+3. Tilman D., Balzer C., Hill J., Befort B.L. Global food demand and the sustainable intensification of agriculture. Proc. Natl. Acad. Sci. USA. 2011;108:20260–20264. doi: 10.1073/pnas.1116437108. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+
+4. FAO . In: The Second Report on the State of the World’s Animal Genetic Resources for Food and Agriculture. Scherf B.D., Pilling D., editors. FAO Commission on Genetic Resources for Food and Agriculture Assessments; Rome, Italy: 2015. [Google Scholar]
+
+5. Mancini M.C., Arfini F. Consumer communication and organisational strategies for animal welfare by the food and retail industries in Italy. EuroChoices. 2013;12:50–56. doi: 10.1111/1746-692X.12000. [CrossRef] [Google Scholar]
+
+6. Saatkamp H.W., Vissers L.S.M., van Horne P.L.M., de Jong I.C. Transition from Conventional Broiler Meat to Meat from Production Concepts with Higher Animal Welfare: Experiences from The Netherlands. Animals. 2019;9:483. doi: 10.3390/ani9080483. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+
+7. Yang Y.-C., Hong C.-Y. Taiwanese Consumers’ Willingness to Pay for Broiler Welfare Improvement. Animals. 2019;9:231. doi: 10.3390/ani9050231. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+
+8. Pasquale D., Nannoni E., Sardi L., Rubini G., Salvatore R., Bartoli L., Adinolfi F., Martelli G., Di Pasquale J. Martelli Towards the Abandonment of Surgical Castration in Pigs: How is Immunocastration Perceived by Italian Consumers? Animals. 2019;9:198. doi: 10.3390/ani9050198. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+
+9. Spain C., Freund D., Mohan-Gibbons H., Meadow R., Beacham L. Are They Buying It? United States Consumers’ Changing Attitudes toward More Humanely Raised Meat, Eggs, and Dairy. Animals. 2018;8:128. doi: 10.3390/ani8080128. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+
+10. Ingenbleek P., Harvey D., Ilieski V., Immink V., de Roest K., Schmid O. The European Market for Animal-Friendly Products in a Societal Context. Animals. 2013;3:808–829. doi: 10.3390/ani3030808. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+
+11. Harvey D., Hubbard C. The Supply Chain’s Role in Improving Animal Welfare. Animals. 2013;3:767–785. doi: 10.3390/ani3030767. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+
+12. Buddle E., Bray H., Ankeny R. “I Feel Sorry for Them”: Australian Meat Consumers’ Perceptions about Sheep and Beef Cattle Transportation. Animals. 2018;8:171. doi: 10.3390/ani8100171. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+
+13. Aaltola E. The Meat Paradox, Omnivore’s Akrasia, and Animal Ethics. Animals. 2019;9:1125. doi: 10.3390/ani9121125. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+
+14. Bhat Z.F., Fayaz H. Prospectus of cultured meat—Advancing meat alternatives. J. Food Sci. Technol. 2011;48:125–140. doi: 10.1007/s13197-010-0198-7. [CrossRef] [Google Scholar]
+
+15. Post M.J. Cultured meat from stem cells: Challenges and prospects. Meat Sci. 2012;92:297–301. doi: 10.1016/j.meatsci.2012.04.008. [PubMed] [CrossRef] [Google Scholar]
+
+16. Moritz M.S.M., Verbruggen S.E.L., Post M.J. Alternatives for large-scale production of cultured beef: A review. J. Integr. Agric. 2015;14:208–216. doi: 10.1016/S2095-3119(14)60889-3. [CrossRef] [Google Scholar]
+
+17. Bryant C.J., Barnett J.C. What’s in a name? Consumer perceptions of in vitro meat under different names. Appetite. 2019;137:104–113. doi: 10.1016/j.appet.2019.02.021. [PubMed] [CrossRef] [Google Scholar]
+
+18. Seehafer A., Bartels M. Meat 2.0—The Regulatory Environment of Plant-Based and Cultured Meat. Eur. Food Feed Law Rev. 2019;14:323–331. [Google Scholar]
+
+19. Tuomisto H.L., Teixeira De Mattos M.J. Environmental impacts of cultured meat production. Environ. Sci. Technol. 2011;45:6117–6123. doi: 10.1021/es200130u. [PubMed] [CrossRef] [Google Scholar]
+
+20. Tuomisto H.L., Ellis M.J., Haastrup P. Environmental impacts of cultured meat: Alternative production scenarios; Proceedings of the 9th International Conference on Life Cycle Assessment in the Agri-Food Sector; San Francisco, CA, USA. 8–10 October 2014; pp. 8–10. [Google Scholar]
+
+21. Mattick C.S., Landis A.E., Allenby B.R. A case for systemic environmental analysis of cultured meat. J. Integr. Agric. 2015;14:249–254. doi: 10.1016/S2095-3119(14)60885-6. [CrossRef] [Google Scholar]
+
+22. Hopkins P.D., Dacey A. Vegetarian meat: Could technology save animals and satisfy meat eaters? J. Agric. Environ. Ethics. 2008;21:579–596. doi: 10.1007/s10806-008-9110-0. [CrossRef] [Google Scholar]
+
+23. Ruby M.B. Vegetarianism. A blossoming field of study. Appetite. 2012;58:141–150. doi: 10.1016/j.appet.2011.09.019. [PubMed] [CrossRef] [Google Scholar]
+
+24. Datar I., Betti M. Possibilities for an in vitro meat production system. Innov. Food Sci. Emerg. Technol. 2010;11:13–22. doi: 10.1016/j.ifset.2009.10.007. [CrossRef] [Google Scholar]
+
+25. Hocquette J.F., Mainsant P., Daudin J.D., Cassar-malek I., Rémond D., Doreau M., Sans P., Bauchart D., Agabriel J., Verbeke W., et al. La viande du futur sera-t-elle produite in vitro? Prod. Anim. 2013;26:363–374. doi: 10.20870/productions-animales.2013.26.4.3164. [CrossRef] [Google Scholar]
+
+26. Hocquette J.F. Is in vitro meat the solution for the future? Meat Sci. 2016;120:167–176. doi: 10.1016/j.meatsci.2016.04.036. [PubMed] [CrossRef] [Google Scholar]
+
+27. Bryant C., Barnett J. Consumer acceptance of cultured meat: A systematic review. Meat Sci. 2018;143:8–17. doi: 10.1016/j.meatsci.2018.04.008. [PubMed] [CrossRef] [Google Scholar]
+
+28. Faccio E., Fovino L.G.N. Food Neophobia or Distrust of Novelties? Exploring consumers’ attitudes toward GMOs, insects and cultured meat. Appl. Sci. 2019;9:4440. doi: 10.3390/app9204440. [CrossRef] [Google Scholar]
+
+29. Gómez-Luciano C.A., de Aguiar L.K., Vriesekoop F., Urbano B. Consumers’ willingness to purchase three alternatives to meat proteins in the United Kingdom, Spain, Brazil and the Dominican Republic. Food Qual. Prefer. 2019;78:103732. doi: 10.1016/j.foodqual.2019.103732. [CrossRef] [Google Scholar]
+
+30. Wilks M., Phillips C.J.C., Fielding K., Hornsey M.J. Testing potential psychological predictors of attitudes towards cultured meat. Appetite. 2019;136:137–145. doi: 10.1016/j.appet.2019.01.027. [PubMed] [CrossRef] [Google Scholar]
+
+31. Weinrich R., Strack M., Neugebauer F. Consumer acceptance of cultured meat in Germany. Meat Sci. 2020;162:107924. doi: 10.1016/j.meatsci.2019.107924. [PubMed] [CrossRef] [Google Scholar]
+
+32. Laestadius L.I., Caldwell M.A. Is the future of meat palatable? Perceptions of in vitro meat as evidenced by online news comments. Public Health Nutr. 2015;18:2457–2467. doi: 10.1017/S1368980015000622. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+
+33. Verbeke W., Marcu A., Rutsaert P., Gaspar R., Seibt B., Fletcher D., Barnett J. “Would you eat cultured meat?”: Consumers’ reactions and attitude formation in Belgium, Portugal and the United Kingdom. Meat Sci. 2015;102:49–58. doi: 10.1016/j.meatsci.2014.11.013. [PubMed] [CrossRef] [Google Scholar]
+
+34. Siegrist M., Sütterlin B. Importance of perceived naturalness for acceptance of food additives and cultured meat. Appetite. 2017;113:320–326. doi: 10.1016/j.appet.2017.03.019. [PubMed] [CrossRef] [Google Scholar]
+
+35. Siegrist M., Sütterlin B., Hartmann C. Perceived naturalness and evoked disgust influence acceptance of cultured meat. Meat Sci. 2018;139:213–219. doi: 10.1016/j.meatsci.2018.02.007. [PubMed] [CrossRef] [Google Scholar]
+
+36. Hocquette A., Lambert C., Sinquin C., Peterolff L., Wagner Z., Bonny S.P.F., Lebert A., Hocquette J.F. Educated consumers don’t believe artificial meat is the solution to the problems with the meat industry. J. Integr. Agric. 2015;14:273–284. doi: 10.1016/S2095-3119(14)60886-8. [CrossRef] [Google Scholar]
+
+37. Verbeke W., Sans P., Van Loo E.J. Challenges and prospects for consumer acceptance of cultured meat. J. Integr. Agric. 2015;14:285–294. doi: 10.1016/S2095-3119(14)60884-4. [CrossRef] [Google Scholar]
+
+38. Bekker G.A., Fischer A.R.H., Tobi H., van Trijp H.C.M. Explicit and implicit attitude toward an emerging food technology: The case of cultured meat. Appetite. 2017;108:245–254. doi: 10.1016/j.appet.2016.10.002. [PubMed] [CrossRef] [Google Scholar]
+
+39. Tucker C.A. The significance of sensory appeal for reduced meat consumption. Appetite. 2014;81:168–179. doi: 10.1016/j.appet.2014.06.022. [PubMed] [CrossRef] [Google Scholar]
+
+40. Wilks M., Phillips C.J.C. Attitudes to in vitro meat: A survey of potential consumers in the United States. PLoS ONE. 2017;12:e0171904. doi: 10.1371/journal.pone.0171904. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+
+41. Slade P. If you build it, will they eat it? Consumer preferences for plant-based and cultured meat burgers. Appetite. 2018;125:428–437. doi: 10.1016/j.appet.2018.02.030. [PubMed] [CrossRef] [Google Scholar]
+
+42. O’Keefe L., McLachlan C., Gough C., Mander S., Bows-Larkin A. Consumer responses to a future UK food system. Br. Food J. 2016;118:412–428. doi: 10.1108/BFJ-01-2015-0047. [CrossRef] [Google Scholar]
+
+43. van der Weele C., Driessen C. Emerging profiles for cultured meat; ethics through and as design. Animals. 2013;3:647–662. doi: 10.3390/ani3030647. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+
+44. Laestadius L.I. Public Perceptions of the Ethics of In-vitro Meat: Determining an Appropriate Course of Action. J. Agric. Environ. Ethics. 2015;28:991–1009. doi: 10.1007/s10806-015-9573-8. [CrossRef] [Google Scholar]
+
+45. Bekker G.A., Tobi H., Fischer A.R.H. Meet meat: An explorative study on meat and cultured meat as seen by Chinese, Ethiopians and Dutch. Appetite. 2017;114:82–92. doi: 10.1016/j.appet.2017.03.009. [PubMed] [CrossRef] [Google Scholar]
+
+46. Bryant C., Szejda K., Parekh N., Desphande V., Tse B. A Survey of Consumer Perceptions of Plant-Based and Clean Meat in the USA, India, and China. Front. Sustain. Food Syst. 2019;3:11. doi: 10.3389/fsufs.2019.00011. [CrossRef] [Google Scholar]
+
+47. Marcu A., Gaspar R., Rutsaert P., Seibt B., Fletcher D., Verbeke W., Barnett J. Analogies, metaphors, and wondering about the future: Lay sense-making around synthetic meat. Public Underst. Sci. 2015;24:547–562. doi: 10.1177/0963662514521106. [PubMed] [CrossRef] [Google Scholar]
+
+48. Bryant C., Dillard C. The impact of framing on acceptance of cultured meat. Front. Nutr. 2019;6:103. doi: 10.3389/fnut.2019.00103. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+
+49. Gawronski B., Bodenhausen G.V. Associative and propositional processes in evaluation: An integrative review of implicit and explicit attitude change. Psychol. Bull. 2006;132:692. doi: 10.1037/0033-2909.132.5.692. [PubMed] [CrossRef] [Google Scholar]
+
+50. Mancini M.C., Antonioli F. Exploring consumers’ attitude towards cultured meat in Italy. Meat Sci. 2019;150:101–110. doi: 10.1016/j.meatsci.2018.12.014. [PubMed] [CrossRef] [Google Scholar]
+
+51. Caparros Megido R., Gierts C., Blecker C., Brostaux Y., Haubruge É., Alabi T., Francis F. Consumer acceptance of insect-based alternative meat products in Western countries. Food Qual. Prefer. 2016;52:237–243. doi: 10.1016/j.foodqual.2016.05.004. [CrossRef] [Google Scholar]
+
+52. Pambo K.O., Okello J.J., Mbeche R.M., Kinyuru J.N., Alemu M.H. The role of product information on consumer sensory evaluation, expectations, experiences and emotions of cricket-flour-containing buns. Food Res. Int. 2018;106:532–541. doi: 10.1016/j.foodres.2018.01.011. [PubMed] [CrossRef] [Google Scholar]
+
+53. Schouteten J.J., De Steur H., De Pelsmaeker S., Lagast S., Juvinal J.G., De Bourdeaudhuij I., Verbeke W., Gellynck X. Emotional and sensory profiling of insect-, plant- and meat-based burgers under blind, expected and informed conditions. Food Qual. Prefer. 2016;52:27–31. doi: 10.1016/j.foodqual.2016.03.011. [CrossRef] [Google Scholar]
+
+54. Tuorila H., Meiselman H.L., Bell R., Cardello A.V., Johnson W. Role of Sensory and Cognitive Information in the Enhancement of Certainty and Linking for Novel and Familiar Foods. Appetite. 1994;23:231–246. doi: 10.1006/appe.1994.1056. [PubMed] [CrossRef] [Google Scholar]
+
+55. Verneau F., La Barbera F., Kolle S., Amato M., Del Giudice T., Grunert K. The effect of communication and implicit associations on consuming insects: An experiment in Denmark and Italy. Appetite. 2016;106:30–36. doi: 10.1016/j.appet.2016.02.006. [PubMed] [CrossRef] [Google Scholar]
+
+56. Lee P.Y., Lusk K., Mirosa M., Oey I. Effect of information on Chinese consumers’ perceptions and purchase intention for beverages processed by High Pressure Processing, Pulsed-Electric Field and Heat Treatment. Food Qual. Prefer. 2015;40:16–23. doi: 10.1016/j.foodqual.2014.08.006. [CrossRef] [Google Scholar]
+
+57. Lombardi A., Vecchio R., Borrello M., Caracciolo F., Cembalo L. Willingness to pay for insect-based food: The role of information and carrier. Food Qual. Prefer. 2019;72:177–187. doi: 10.1016/j.foodqual.2018.10.001. [CrossRef] [Google Scholar]
+
+58. Cardello A.V. Consumer concerns and expectations about novel food processing technologies: Effects on product liking. Appetite. 2003;40:217–233. doi: 10.1016/S0195-6663(03)00008-4. [PubMed] [CrossRef] [Google Scholar]
+
+59. Cox D.N., Evans G., Lease H.J. The influence of information and beliefs about technology on the acceptance of novel food technologies: A conjoint study of farmed prawn concepts. Food Qual. Prefer. 2007;18:813–823. doi: 10.1016/j.foodqual.2007.01.011. [CrossRef] [Google Scholar]
+
+60. Barrena R., Sánchez M. Neophobia, personal consumer values and novel food acceptance. Food Qual. Prefer. 2013;27:72–84. doi: 10.1016/j.foodqual.2012.06.007. [CrossRef] [Google Scholar]
+
+61. Santeramo F.G., Carlucci D., De Devitiis B., Seccia A., Stasi A., Viscecchia R., Nardone G. Emerging trends in European food, diets and food industry. Food Res. Int. 2018;104:39–47. doi: 10.1016/j.foodres.2017.10.039. [PubMed] [CrossRef] [Google Scholar]
+
+62. Issanchou S. Consumer expectations and perceptions of meat and meat product quality. Meat Sci. 1996;43:5–19. doi: 10.1016/0309-1740(96)00051-4. [PubMed] [CrossRef] [Google Scholar]
+
+63. Bredahl L., Grunert K.G., Fertin C. Relating consumer perceptions of pork quality to physical product characteristics. Food Qual. Prefer. 1998;9:273–281. doi: 10.1016/S0950-3293(98)00007-X. [CrossRef] [Google Scholar]
+
+64. FAO . Livestock and Landscapes. FAO; Rome, Italy: 2012. [(accessed on 5 February 2020)]. Available online: http://www.fao.org/3/ar591e/ar591e.pdf [Google Scholar]
+
+65. FAO . World Livestock 2011. FAO; Rome, Italy: 2011. [Google Scholar]
+
+66. Tuomisto H., Roy A. Could cultured meat reduce environmental impact of agriculture in Europe?; Proceedings of the 8th International Conference on LCA in the Agri-Food Sector; Rennes, France. 2–4 October 2012; pp. 615–619. [Google Scholar]
+
+67. Li G., Taljaard M., Van den Heuvel E.R., Levine M.A., Cook D.J., Wells G.A., Devereaux P.J., Thabane L. An introduction to multiplicity issues in clinical trials: The what, why, when and how. Int. J. Epidemiol. 2016;46:746–755. doi: 10.1093/ije/dyw320. [PubMed] [CrossRef] [Google Scholar]
+
+68. Benjamini Y., Hochberg Y. Controlling the False Discovery Rate: A pratical and Powerful Approach to Multiple Testing. J. R. Stat. Soc. 1995;57:289–300. doi: 10.1111/j.2517-6161.1995.tb02031.x. [CrossRef] [Google Scholar]
+
+69. Cheverud J.M. A simple correction for multiple comparisons in interval mapping genome scans. Heredity. 2001;87:52–58. doi: 10.1046/j.1365-2540.2001.00901.x. [PubMed] [CrossRef] [Google Scholar]
+
+70. Nyholt D.R. A simple correction for multiple testing for single-nucleotide polymorphisms in linkage disequilibrium with each other. Am. J. Hum. Genet. 2004;74:765–769. doi: 10.1086/383251. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+
+71. Derringer J. A Simple Correction for Non-independent Tests. PsyArXiv; Charlottesville, VA, Canada: 2018. [Google Scholar]
+
+72. R Core Team . R: A Language and Environment for Statistical Computing. R Foundation for Statistical Computing; Vienna, Austria: 2018. [Google Scholar]
+
+73. Hartmann C., Siegrist M. Consumer perception and behaviour regarding sustainable protein consumption: A systematic review. Trends Food Sci. Technol. 2017;61:11–25. doi: 10.1016/j.tifs.2016.12.006. [CrossRef] [Google Scholar]
+
+74. Stallberg-White C., Pliner P. The Effect of Flavor Principles on Willingness to Taste Novel Foods. Appetite. 1999;33:209–221. doi: 10.1006/appe.1999.0263. [PubMed] [CrossRef] [Google Scholar]
+
+75. The Humane League . Diet Change and Demographic Characteristics of Vegans, Vegetarians, Semi-Vegetarians, and Omnivores. Humane League Labs; Rockville, MD, USA: 2014. [Google Scholar]
+
+76. Sinclair M. Handbook of Research Methods on Intuition. Edward Elgar Publishing; Cheltenham, UK: Northampton, MA, USA: 2014. [Google Scholar]
+
+77. McCrae R.R., Costa P.T., de Lima M.P., Simões A., Ostendorf F., Angleitner A., Marušić I., Bratko D., Caprara G.V., Barbaranelli C. Age differences in personality across the adult life span: Parallels in five cultures. Dev. Psychol. 1999;35:466. doi: 10.1037/0012-1649.35.2.466. [PubMed] [CrossRef] [Google Scholar]
+
+78. Frewer L.J., Van der Lans I.A., Fischer A.R.H., Reinders M.J., Menozzi D., Zhang X., van den Berg I., Zimmermann K.L. Public perceptions of agri-food applications of genetic modification—A systematic review and meta-analysis. Trends Food Sci. Technol. 2013;30:142–152. doi: 10.1016/j.tifs.2013.01.003. [CrossRef] [Google Scholar]
+
+79. Eurobarometer . Social Values, Science & Technology. European Commission; Brussels, Belgium: 2005. Special Eurobarometer 225. [Google Scholar]
+
+80. Lin D. ‘ThoughtCo’. Why Laboratory-Grown Meat Is Not Vegan. Lab-Grown Meat Is Not a Panacea, nor Is It Cruelty-Free. [(accessed on 5 February 2020)];2019 Available online: https://www.thoughtco.com/laboratory-grown-meat-is-not-vegan-127673
+
+81. Shaw E., Mac Con Iomaire M. A comparative analysis of the attitudes of rural and urban consumers towards cultured meat. Br. Food J. 2019;121:1782–1800. doi: 10.1108/BFJ-07-2018-0433. [CrossRef] [Google Scholar]
+
+82. Moerbeek H., Casimir G. Gender differences in consumers’ acceptance of genetically modified foods. Int. J. Consum. Stud. 2005;29:308–318. doi: 10.1111/j.1470-6431.2005.00441.x. [CrossRef] [Google Scholar]
+
+83. Qin W., Brown J.L. Public reactions to information about genetically engineered foods: Effects of information formats and male/female differences. Public Underst. Sci. 2007;16:471–488. doi: 10.1177/0963662506065336. [CrossRef] [Google Scholar]
+
+84. Lazzaroni C., Iacurto M., Vincenti F., Biagini D. Consumer Attitudes to Food Quality Products. Springer; Berlin/Heidelberg, Germany: 2013. Consumer attitudes to food quality products of animal origin in Italy; pp. 83–96. [Google Scholar]
+
+85. Loomis J. What’s to know about hypothetical bias in stated preference valuation studies? J. Econ. Surv. 2011;25:363–370. doi: 10.1111/j.1467-6419.2010.00675.x. [CrossRef] [Google Scholar]
+
+86. Bhat Z.F., Kumar S., Bhat H.F. In vitro meat: A future animal-free harvest. Crit. Rev. Food Sci. Nutr. 2017;57:782–789. doi: 10.1080/10408398.2014.924899. [PubMed] [CrossRef] [Google Scholar]
+
+Articles from Animals : an Open Access Journal from MDPI are provided here courtesy of Multidisciplinary Digital Publishing Institute (MDPI)
+
+Cited by other articles
+
+Links to NCBI Databases
+
+Copy Download .nbib .nbib

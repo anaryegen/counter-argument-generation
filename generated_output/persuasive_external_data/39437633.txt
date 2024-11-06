@@ -1,0 +1,85 @@
+xtelligent Patient Engagement
+
+Patient satisfaction and experience
+
+Getty Images/iStockphoto
+
+Do Prescription Drug Ads Affect Patient-Provider Relationships?
+
+Understanding the modest impact direct-to-consumer drug advertisements have on patient-provider relationships can shape provider communication strategy.
+
+Share this item with your network:
+
+Sara Heath, Executive Editor
+
+Published: 30 Mar 2020
+
+Direct-to-consumer drug advertisements may have an impact on patient-provider relationships, albeit a modest one, and that can help providers understand how to navigate treatment decision-making with patients, according to a study published in the Journal of the American Board for Family Medicine.
+
+Direct-to-consumer drug advertising is not a new concept. Magazine, digital, and television ads featuring new drugs for nearly any ailment abound. But with that breadth of advertising come serious questions about how effective these advertisements are in boosting patient health.
+
+“Direct-to-consumer advertising of prescription drugs (DTCA) is prevalent in the United States, with the amount spent on this advertising rising into the billions of dollars per year,” the researchers explained. “This advertising is known to affect patient care.”
+
+And those affects are not always good. Studies have shown that direct-to-consumer drug advertising has led to increasing in prescriptions for several types of drugs, including antidepressants, cholesterol drugs or statins in low-risk patients, or prescriptions to smoking cessation drugs before potential safety issues had been identified.
+
+But although those potential negative affects are well-documented, less is known about how direct-to-consumer drug advertising can impact the patient-provider relationship. After all, providers want to do right by their patients, and that includes connecting patients with a medication that will make patients feel better and be healthier.
+
+What happens when a patient brings a drug they have discovered through an advertisement into the clinic encounter, especially when that provider doesn’t believe the drug useful for the patient case?
+
+Nothing particularly damaging, this latest study found, although there may still be room for healthcare to reconsider direct-to-consumer drug advertisements.
+
+In a qualitative survey of 1,744 patients, about three-quarters said they were likely to ask their clinicians about a drug they saw in a direct-to-consumer advertisement; 26 percent reported that they already had.
+
+Of those 26 percent, only 16 percent said they actually received a prescription to the drug they were asking for, opening up a new line of questioning about patient-provider relationships. Did the denial for the prescription affect how the patient and provider interacted or the quality of their rapport?
+
+Not quite, the survey revealed. Only 5 percent of respondents said a provider’s denial of a requested prescription drug had caused an actual conflict between the two, and fewer than half of patients said they doubted their providers’ decisions. Sixteen percent said the denial of a requested prescription caused them to question their provider’s expertise. Another 23 percent of respondents said they may look for another clinician if their current clinician denied them a prescription to a brand name medication.
+
+This could be the credit of an evolving healthcare industry, in which value-based care may help patients and providers understand the need for high-value but low-cost drugs.
+
+“A refusal to prescribe an advertised prescription drug did not seem to have overtly adverse effects on the patient-provider relationship, such as motivating respondents to look for a different health care provider,” the researchers said. “These findings may reflect a shift in the larger health care paradigm toward formularies and value-based medicine, in which HCPs are focused on improving patients’ health by providing cost-effective, quality care, while balancing patient satisfaction.”
+
+Although most patients may not know about value-based care, the culture of the healthcare landscape is trending toward high-value- low-cost care and patients may be cognizant of that.
+
+There were other positive outcomes of patients discussing the medications they see in direct-to-consumer advertisements. In some cases, patients and providers were able to have a larger conversation about symptoms and drug side effects, deepening a patient’s understanding of her own health.
+
+Knowing more about how patients — who are increasingly being viewed as healthcare consumers — engaged with direct-to-consumer drug advertisements will be important for providers, who serve as key intermediaries between patients and medications.
+
+“This unique circumstance provides opportunities and challenges for HCPs seeking to provide optimal care to their patients,” the researchers concluded. “Consideration of patient attitudes toward DTCA and its potential impact on the patient-provider relationship could help HCPs, pharmaceutical companies, patients, and other stakeholders to foster good health outcomes.”
+
+5 Principles to Build Positive Patient-Provider Relationships
+
+Dig Deeper on Patient satisfaction and experience
+
+DOJ arrests, charges telemental health company leaders
+
+Exploring Data Analytics in Pharmaceutical Marketing
+
+Exploring Prescription Discount Cards’ Role in Medication Adherence
+
+Dissecting Ethical Principles in the Pharmaceutical Industry
+
+Exploring Trends Shaping the Future of Specialty Pharmacy –Optum Specialty Fusion
+
+Formulating a specialty drug management playbook using expert insights –Optum Specialty Fusion
+
+Optimizing Specialty Drug Management: Early Case Study Findings –Optum Specialty Fusion
+
+Exploring Data Analytics in Pharmaceutical Marketing – Pharma Life Sciences
+
+Coalition Calls on FDA to Ban Music in Certain ... – Pharma Life Sciences
+
+How Medical Affairs Impact the Pharmaceutical Industry – Pharma Life Sciences
+
+xtelligent Health IT and EHR
+
+Team-based EHR documentation cuts physician EHR time
+
+A 'JAMA Internal Medicine' study found that team-based documentation increased visit volume and reduced physician EHR ...
+
+How ambient AI can improve the patient-provider relationship
+
+Ambient AI technology is helping Ochsner Health improve patient-provider relationships by allowing clinicians to spend ...
+
+Epic aims to bring all clients live on TEFCA by 2025
+
+Epic's goal to bring customers live on TEFCA by the end of 2025 complements Carequality's plan to align with TEFCA as the ...

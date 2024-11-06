@@ -1,0 +1,97 @@
+Skip to main content
+
+Research Policy Networks (RPNs)
+
+Research Projects and Networks
+
+Covid Economics Papers
+
+Economic Policy Journal
+
+Search All Publications
+
+Search all multimedia content
+
+VoxEU Column Labour Markets Productivity and Innovation
+
+The effect of new technologies on workers, jobs, and skills
+
+The decline in the employment share of routine jobs is typically attributed to technological and organisational change. This column uses firm-level data to understand the nature of these changes in Germany. The authors find that workers in routine jobs in fact move to more skilled jobs after technological and organisational change. This suggests that technological change need not result in a significant welfare loss, even for those workers whose jobs are directly affected.
+
+Technological and organisational change is seen as one of the most critical factors driving the decline in the employment share of routine jobs (i.e. jobs that are predominantly repetitive and prescriptive in the tasks required). This is illustrated in a strand of papers (e.g. Autor et al. 2003, Goos and Manning 2007, Acemoglu and Autor 2011, Wacker et al. 2020, Loebbing and Acemoğlu 2022). However, the disappearance of routine jobs does not necessarily imply that workers who worked in these jobs (routine jobholders) exit employment, although this scenario dominates the popular public debate. Even if their jobs disappear because of technological and organisational change, routine jobholders may move to other jobs with task content complementary to technological and organisational change, either in the same firm or in other firms.
+
+In a new paper (Battisti et al. 2022), we address this issue using a combination of various data sources. We match the IAB Establishment Panel (IABEP), a representative survey of up to 16,000 firms in Germany that provides detailed information on organisational change, innovation, and training activities, with registry data on the work histories of all workers (obtained from social security records) ever employed at any of the firms covered in the IABEP. To assess the task content of each occupation, we draw on data from the Qualification and Career Survey.
+
+Most of the decline in routine employment takes place within firms
+
+We find that the decline in the employment share of routine jobs in the aggregate economy previously documented in the literature primarily occurs within firms rather than through selective exit or lower employment growth of routine-intensive firms. Moreover, while past research has established that industries or regions with higher levels of experience of adopting technological and organisational change more pronounced declines in the routine employment share (e.g. Michaels et al. 2014, Autor and Dorn 2013, Akerman et al. 2015), We show that firms adopting technological and organisational change reduce their routine employment share relative to non-adopting firms, even in the same industry and local labour market.
+
+Technological and organisational change eliminates routine jobs, but routine jobholders upgrade their skills and stay in employment
+
+We further explore how workers adjust to firm-level technological and organisational change. While technological and organisational change reduces the proportion of the firm’s routine jobs, routine jobholders themselves are not more likely to move into non-employment following technological and organisational change, nor do they suffer reduced earnings growth, as illustrated in Panel A of Figure 1. Instead, they are significantly more likely to move to higher-skilled non-routine jobs in either the same or a different firm. Thus, even though technological and organisational change does eliminate some routine jobs, workers holding those jobs are not necessarily worse off afterward. There is one exception: for workers older than 55, technological and organisational change is associated with a permanent loss of employment (see Panel B of Figure 1) and no significant chance to move to abstract occupations. One explanation for this finding is that changing job as a response to technological and organisational change necessitates retraining and investing in new skills, which is only worthwhile for some older workers.
+
+Figure 1 Effects of technological and organisational change on individual labour market outcomes
+
+A) All routine workers
+
+B) Routine workers aged 55-59
+
+Note: Based on registry data and IAB Establishment Panel, 1993–2010. We calculate tasks based on a categorisation constructed using the 1991/1992 wave of the German BIBB/IAB Qualification and Career Survey.
+
+Firms that provide apprenticeship training and unionised firms are more likely to upskill their workers when introducing technological and organisational change
+
+Investigating differences across firms, we find that upgrading routine jobholders to abstract jobs following technological and organisational change is more common in firms that run apprenticeship training schemes. This finding may be because these firms already have experience in providing in-house training, making it easier for them to train workers whose skills need upgrading after the introduction of technological and organisational change.
+
+Moreover, we also identify more frequent upskilling of workers in response to technological and organisational change in firms that are part of the employer association and thus recognise unions (in Germany, only firms that are members of the employer association are required to implement union wages). One explanation is that unions are actively engaged in the provision of training opportunities for workers, which may, in turn, benefit firms.
+
+Implications and conclusions
+
+In line with the hypothesis that technological change is routine-biased, we show that firms that implement technological and organisational change reduce the share of their workers in routine jobs. However – and in contrast with the standard view, driven mainly through US-based research, that new technologies and accompanying organisational restructuring leads to non-employment or deterioration in job quality for a significant fraction of the workforce – our findings suggest that (at least in Germany and except for older workers) workers holding routine jobs prior to implementing technological and organisational change do not suffer employment losses or reduced earnings growth on average, but instead move up to more skilled jobs.
+
+One important implication is that changing skill requirements caused by the technological change need not result in a significant welfare loss, even for those workers whose jobs disappear and whose current skills become partially obsolete. While methodological and data differences could partly explain these opposing conclusions, the results may reflect fundamental distinctions between the German and the US labour markets, implying that the two labour markets respond differently to technological change. In line with the latter hypothesis, our results suggest that the overall apprenticeship system and unions' involvement in training activities in the German labour market may help lessen the potentially harmful career effects of technological and organisational change.
+
+These findings highlight potential policy instruments that could cushion the adverse effects of technological and organisational change on the workforce through in-firm training, likely without compromising competitiveness. They also have significant implications beyond the labour market. Suppose economic factors play an essential role in explaining the recent rise of populism. In that case, institutions that can shield vulnerable workers from the negative consequences of technological progress may also have far-reaching political consequences.
+
+Acemoğlu, D and D Autor (2011), “Skills, Tasks and Technologies: Implications for Employment and Earnings”, in Handbook of Labor Economics 4B:1043–1171.
+
+Akerman, A, I Gaarder and M Mogstad (2015), “The Skill Complementarity of Broadband Internet”, Quarterly Journal of Economics 130(4): 1781–1824.
+
+Autor, D H and D Dorn (2013), “The Growth of Low-Skill Service Jobs and the Polarisation of the US Labor Market”, American Economic Review 103(5): 1553–97.
+
+Autor, D H, F Levy and R J Murnane (2003), “The Skill Content Of Recent Technological Change: An Empirical Exploration”, Quarterly Journal of Economics 118(4): 1279–1333.
+
+Battisti, M, C Dustmann and U Schönberg (2022), “Technological and Organizational Change and the Careers of Workers”, Journal of the European Economic Association, forthcoming.
+
+Goos, M and A Manning (2007), “Lousy and Lovely Jobs: The Rising Polarisation of Work in Britain”, Review of Economics and Statistics 89(1): 118–33.
+
+Loebbing, J and D Acemoğlu (2022), “Automation and polarisation”, VoxEU.org, 23 November.
+
+Michaels, G, A Natraj and J Van Reenen (2014), “Has ICT Polarized Skill Demand? Evidence from Eleven Countries over Twenty-Five Years”, Review of Economics and Statistics 96(1): 60–77.
+
+Wacker K M, E Gentile, S Miroudot and G de Vries (2020), “Robots replace routine tasks performed by workers”, VoxEU.org, 8 October.
+
+Robots replace routine tasks performed by workers
+
+Konstantin M. Wacker
+
+![](../../../../../../../../../../var/folders/34/zq18d8kx7kbgby0j06p_j6t40000gn/T/TemporaryItems/NSIRD_screencaptureui_EM2XPo/Screenshot 2022-01-04 at 17.01.16.png)
+
+Labour Markets ![](../../../../../../../../../../var/folders/34/zq18d8kx7kbgby0j06p_j6t40000gn/T/TemporaryItems/NSIRD_screencaptureui_EM2XPo/Screenshot 2022-01-04 at 17.01.16.png)
+
+Productivity and Innovation
+
+Automation and polarisation
+
+![](../../../../../../../../../../var/folders/34/zq18d8kx7kbgby0j06p_j6t40000gn/T/TemporaryItems/NSIRD_screencaptureui_EM2XPo/Screenshot 2022-01-04 at 17.01.16.png)
+
+Labour Markets ![](../../../../../../../../../../var/folders/34/zq18d8kx7kbgby0j06p_j6t40000gn/T/TemporaryItems/NSIRD_screencaptureui_EM2XPo/Screenshot 2022-01-04 at 17.01.16.png)
+
+Productivity and Innovation
+
+Robot adoption, worker-firm sorting, and wage inequality: Evidence from administrative panel data
+
+![](../../../../../../../../../../var/folders/34/zq18d8kx7kbgby0j06p_j6t40000gn/T/TemporaryItems/NSIRD_screencaptureui_EM2XPo/Screenshot 2022-01-04 at 17.01.16.png)
+
+Labour Markets ![](../../../../../../../../../../var/folders/34/zq18d8kx7kbgby0j06p_j6t40000gn/T/TemporaryItems/NSIRD_screencaptureui_EM2XPo/Screenshot 2022-01-04 at 17.01.16.png)
+
+Productivity and Innovation

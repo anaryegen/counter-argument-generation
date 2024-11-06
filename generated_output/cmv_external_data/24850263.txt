@@ -1,0 +1,699 @@
+Skip to Article Content
+
+Skip to Article Information
+
+Working off-campus? Learn about our
+
+remote access options
+
+By continuing to browse this site, you agree to its use of cookies as described in our Cookie Policy.×
+
+Health EconomicsVolume 29, Issue 7
+
+The impact of sex education mandates on teenage pregnancy: International evidence
+
+Corresponding Author
+
+david.paton@nottingham.ac.uk
+
+orcid.org/https://orcid.org/0000-0002-7486-9353
+
+Nottingham University Business School, Jubilee Campus, Nottingham, UK
+
+David Paton, Nottingham University Business School, Jubilee Campus, Wollaton Road, Nottingham NG8 1BB, UK.
+
+Email: david.paton@nottingham.ac.ukSearch for more papers by this author
+
+orcid.org/https://orcid.org/0000-0001-5881-6131
+
+Theology, St Mary's University, Twickenham, UKSearch for more papers by this author
+
+orcid.org/https://orcid.org/0000-0002-1312-5107
+
+Theology, St Mary's University, Twickenham, UK
+
+Fundación Civismo, Madrid, SpainSearch for more papers by this author
+
+Corresponding Author
+
+david.paton@nottingham.ac.uk
+
+orcid.org/https://orcid.org/0000-0002-7486-9353
+
+Nottingham University Business School, Jubilee Campus, Nottingham, UK
+
+David Paton, Nottingham University Business School, Jubilee Campus, Wollaton Road, Nottingham NG8 1BB, UK.
+
+Email: david.paton@nottingham.ac.ukSearch for more papers by this author
+
+orcid.org/https://orcid.org/0000-0001-5881-6131
+
+Theology, St Mary's University, Twickenham, UKSearch for more papers by this author
+
+orcid.org/https://orcid.org/0000-0002-1312-5107
+
+Theology, St Mary's University, Twickenham, UK
+
+Fundación Civismo, Madrid, SpainSearch for more papers by this author
+
+First published: 24 April 2020
+
+https://doi.org/10.1002/hec.4021
+
+To date most studies of the impact of school‐based sex education have focused either on specific, local interventions or experiences at a national level. In this paper, we use a new cross‐country dataset to explore the extent to which laws on sex education affect teenage pregnancy rates in developed countries. We find some evidence that laws mandating sex education in schools are associated with higher rates of teenage fertility. Parental opt out laws may minimise adverse effects of sex education mandates for younger teens. The estimated effects of mandatory sex education are robust to some but not all of our specifications designed to tease out causality. Taken together, changes in national laws relating to sexual health are unable to explain the significant declines in teenage pregnancy rates, which have been observed in many developed countries in recent years.
+
+1 INTRODUCTION AND MOTIVATION
+
+Since about 2007, many developed countries have experienced striking falls in rates of teenage births and abortions. Why these falls should have been experienced in so many countries at the same time remains a puzzle. One potential explanation is that public policy interventions in the areas of sex education and related sexual health services have played a significant role. An alternative possibility is that reductions in teen pregnancy are the result of some other, more general, social phenomenon that has, perhaps indirectly, affected sexual behaviour amongst young people.
+
+Reducing rates of adolescent pregnancy is viewed as an important policy outcome in many countries partly because of the high economic cost that early childbearing can cause both for the teenagers and their offspring but also for wider society. Teen pregnancies that result in abortions create direct healthcare costs while there is evidence that teenage childbearing is associated with adverse health, educational and economic outcomes of both adolescent mothers (see, e.g., Social Exclusion Unit, 1999; Paronjothy, Broughton, Adappa, & Fone, 2009; Fletcher & Wolfe, 2009), fathers (Fletcher & Wolfe, 2012) and the offspring of adolescent parents (Hoffman & Maynard, 2008). It should be noted that whether or not adolescent childbearing is the causal factor in these costs remains controversial. Rather, it is possible that some of the adverse effects are caused by underlying social disadvantage which in turn raises the likelihood of early childbearing (Diaz & Fiel, 2016).
+
+An understanding of the roots of trends in teenage pregnancy can help policy makers to evaluate the success or otherwise of existing policy approaches as well as informing the direction of future policy.
+
+A number of authors have examined the impact of sex education on teenage pregnancy rates through testing the effect of an intervention or policy change either on a local community or at a national level. In contrast, very little research has examined the impact of policy across different countries. This gap severely limits our understanding of global trends in teenage pregnancy.
+
+In this paper, we exploit a new and unique dataset of teenage birth and abortion rates. Using panel data econometric techniques on annual data between 1990 and 2017 from 45 developed European and Commonwealth countries, we examine whether national policies relating to sex education and sexual health more broadly are associated with significant reductions in rates of teenage pregnancy, birth or abortion.
+
+In the next section of the paper, we discuss theoretical and empirical evidence on the impact of sexual health interventions on adolescent fertility, focusing in particular on the effect of school‐based sex education. In Section 3, we introduce our empirical methodology, whilst in Section 4, we discuss our data in more detail. We report the results of our econometric models in Section 5, and in the final section, we discuss some policy implications of our results and make some concluding remarks.
+
+2 EXISTING EVIDENCE ON SRE EFFECTIVENESS
+
+2.1 Theoretical effect of sex education
+
+There are a number of mechanisms by which sex and relationships education (SRE) may affect teenage pregnancy or abortion rates. Oettinger (1999) places SRE within a rational choice framework in which a teenager's expected utility from engaging in sexual activity is dependent on their beliefs and knowledge about the consequences of sex (e.g., enjoyment, pregnancy and so on) as well as their perception about the likelihood of those consequences occurring. 11 De La Croix and Perrin (2018) similarly use a rational choice model to explain historical trends in European childbearing. To the extent that SRE provides adolescents with improved information about sexual activity, contraception and pregnancy, it may have an effect on behaviour and, hence, outcomes such as teenage pregnancy.
+
+As Oettinger points out, the impact of SRE on adolescent sexual behaviour and fertility is difficult to predict a priori. If information received on SRE programmes successfully shifts preferences of young people away from early births, adolescent pregnancy should decrease. On the other hand, information on SRE programmes may lead to unintended consequences. For example, a programme that helps sexually active young people to avoid pregnancy may create incentives for other young people to become sexually active. Assuming that methods to avoid pregnancy are not 100% effective, then SRE can have an uncertain effect on adolescent pregnancy rates. Paton (2002) extends Oettinger's framework to demonstrate that policies aimed at providing easier access to birth control can also have ambiguous effects on teen pregnancy and abortion rates. Arcidiacono, Khwaja and Ouyang (2012) further demonstrate how the possibility of habit persistence may lead to access to family planning having greater adverse effects in the long rather than the short run.
+
+Indeed, as we will see, the empirical evidence on the impact of SRE on adolescent pregnancy is somewhat conflicting. We now go on to summarise some of these findings.
+
+2.2 Empirical evidence on sex education
+
+Given the huge diversity in the approach, nature and timing of sex education, it is unsurprising that summarising the various empirical studies that have been carried out is not a simple task. We consider here both evaluations of specific projects and schemes, often using a randomised controlled trial (RCT) framework as well as population level studies of interventions and policy changes at a regional or national level.
+
+2.2.1 RCTs of sex education interventions
+
+There is a large amount of evidence evaluating experimental or quasi‐experimental trials of particular sex education programmes. Much of the work assesses the effect of SRE on outcomes such as adolescent attitudes to sexuality, condom use or sexual initiation. Relatively, few RCTs have examined the impact of SRE on adolescent pregnancy. For example, a 2016 Cochrane systematic review of reviews concludes “it is not clear if the educational interventions had any effect on unintended pregnancy as this was not reported by any of the included studies.” (Oringanje et al., 2016, p. 2).
+
+A subsequent Cochrane systematic review does consider RCT evidence on the impact of “Sexual and reproductive health educational programmes” on adolescent pregnancy finding, “There was also no apparent effect on the number of young women who were pregnant” (Mason‐Jones et al., 2016, p. 2). 22 Kirby (2008), Shepherd et al. (2010) and Wight (2011) similarly find little or no evidence of any impact of SRE on pregnancy rates. The review by Salam et al. (2016) finds some evidence that some educational interventions reduce adolescent pregnancy but does not consider school‐based sex education.
+
+There are two important caveats to bear in mind in interpreting these results. First, pregnancy amongst adolescents is still a relatively rare event. As a result, RCTs of pregnancy rates may suffer from being under‐powered. Put another way, even if sex education has an effect on pregnancy rates (in either direction), studies may find it difficult to pick up the effect as being statistically significant. Second, sex education programmes vary enormously in their timing, intensity and approach. So meta‐analyses that find little or no impact of such programmes may be the result of averaging programmes, some of which reduce pregnancy rates and others which increase them. The lack of an average effect in a meta‐analysis does not necessarily mean that there are no programmes that have significant effects on adolescent pregnancy rates. That said, the RCTs provide little positive evidence that sex education programmes have significant effects on teenage fertility.
+
+2.2.2 Population‐level studies
+
+Population‐level studies provide a useful counterpart to RCT evidence and may be particularly useful for policymakers interested in the aggregate effects of legislative changes. The findings of such studies are harder to summarise as they have rarely been the subject of a systematic review or meta‐analysis. However, as with RCTs, there is little consistent evidence that sex education in itself has a significant effect in reducing adolescent pregnancy.
+
+Oettinger (1999) finds that, amongst some subgroups, teenagers who were exposed to school‐based SRE experienced slightly higher pregnancy rates than those who were not exposed. In contrast, Kohler, Manhart and Lafferty (2008) find that SRE is associated with lower self‐reported pregnancy rates amongst teenagers. Other work concludes that SRE has no significant effect on adolescent pregnancy (Sabia, 2006) or birth rates (Cavazos‐Rehg et al., 2012).
+
+2.2.3 Impact of other aspects of sexual health
+
+A number of studies have examined the impact on adolescent pregnancy of measures such as expanded access to birth control services, something that is frequently incorporated into sex education programmes.
+
+Wilkinson, French, Kane, et al. (2006) evaluate the impact of the English Teenage Pregnancy Strategy. Although local authorities that had been allocated more money experienced larger reductions in under‐18 conception rates, looking at specific factors within this overall finding, the authors find that those areas with higher quality contraceptive services and with better access to services experienced lower reductions in conception rates than others. Although such associations should not necessarily be interpreted as a causal effect, their findings are consistent with a range of population‐level studies and evaluations of RCTs from both the United States and the United Kingdom (e.g., Buckles & Hungerman, 2018; DiCenso, Guyatt, Willan, & Griffith, 2002; Imamura et al., 2007; Paton, 2002) and which provide little evidence that better access to family planning significantly reduces teenage pregnancy rates.
+
+The evidence base is perhaps strongest on the impact of increased access to emergency birth control (EBC). An exhaustive review of RCT evidence on this question concluded that “to date, no study has shown that increased access to [EBC] reduces unintended pregnancy or abortion rates on a population level” (Raymond, Trussell, & Polis, 2007, p. 184). This is complemented by population‐level studies from the United States and United Kingdom (Durrance, 2013; Girma & Paton, 2006, 2011) that also all find no evidence that access to EBC leads to reductions in teenage fertility.
+
+Some commentators have suggested that access to family planning may reduce underage pregnancy and abortion rates when combined with other measures as part of a multifaceted approach. To date, the peer‐reviewed evidence does not support such a conclusion. For example, Wiggins et al. (2009) report that a comprehensive intervention (including SRE and access to family planning services) led to a number of adverse outcomes amongst the intervention group including significantly higher rates of teenage pregnancy. Blackman (2013) also finds that dedicated planning and commissioning of services aimed at tackling high teenage conception services “appears to make things worse” (p. 69).
+
+2.2.4 Gaps in the literature
+
+There are two key gaps in the literature, which we attempt to tackle in this paper. The first is the scarcity of empirical studies examining the effect on adolescent fertility of policies mandating SRE in some form. To our knowledge, just two peer‐reviewed papers to date have examined this issue, both looking at state‐specific mandates in the United States. Kearney and Levine (2015) look at the effect of different types of sex education mandates, concluding that none of these policies made a significant contribution to declining teen births. Carr and Packham (2017) focus on mandates for abstinence‐based education, but also find no significant effect on either teen birth or abortion rates. 33 Atkins and Bradford (2013) analyse the impact of US state‐level sex education mandates on behaviours such as contraceptive use and sexual activity. They find that states mandating abstinence education experience lower rates of contraceptive use amongst sexually active teens. However, no type of sex education mandate is found significantly to reduce teen sexual activity. No study has yet examined the impact of mandatory SRE on adolescent pregnancies (i.e., births and abortions combined). Similarly, there has been no empirical evaluation of policies mandating SRE at particular ages. The lack of evidence on this point is striking given the intensive nature of public debate about whether governments should mandate SRE in schools from certain ages.
+
+The second gap in the literature is the complete lack of cross‐country evaluations of the impact of sex education on adolescent pregnancy. This is significant as examining several jurisdictions over time can allow researchers to control for country‐ and time‐specific effects in a way which can better identify causal effects on pregnancy rates. The number of US‐based studies exploiting differences in sex education at the state‐level is of course useful but, when organisations such as World Health Organisation (WHO) and United Nations Population Fund (UNFPA) look to make general policy recommendations, 44 See, for example, www.unfpa.org/comprehensive-sexuality-education it is important to be able to have access to evidence that goes beyond just one country. In part, the lack of cross‐country evidence is due to the difficulty in accessing comparable data on abortions and sex education policy. Our use of the new cross‐country dataset on teenage pregnancy helps to overcome these difficulties.
+
+3 EMPIRICAL METHODOLOGY
+
+The basic empirical approach we adopt is to estimate a fixed effects panel data regression model. Our starting point is the following equation:
+
+(1)where i and t represent an index of countries and years, respectively. In Equation 1, Yit is the adolescent birth, abortion or pregnancy (abortion plus birth) rate, whereas policyit is a vector of variables representing different aspects of reproductive health policy. Xit is a vector of socioeconomic control variables, Dt is a vector of year dummies, μi is a vector of local authority specific dummies and εit is the residual error term. Regressions are weighted by the 2010 population in each country, and we estimate standard errors robust to heteroscedasticity, to contemporaneous cross‐sectional correlation and to first‐order serial correlation.
+
+We measure the dependent variable in natural logarithms, which means that the coefficient on policy variables can be interpreted as the percentage change in pregnancy (or birth or abortion) rate associated with the introduction of a particular policy.
+
+The incorporation of year and area dummies controls for average unobservable effects on conception rates, which are specific to particular years and to particular countries, respectively. This approach helps to reduce the chance of picking up a spurious correlation between policy and adolescent pregnancy. For example, we may observe “policy endogeneity” in that countries introduce one or other policy relating to reproductive health as a result of adolescent pregnancy rates being high.
+
+Even in the fixed effects model, we need to be careful before attributing causality to any significant correlation found between a policy variable and adolescent pregnancy. In particular, there may be unobservable trends over time, which are correlated with both variables and which induce spurious correlation.
+
+We deal with this possibility in several ways. First, we estimate models in which we include a full set of country‐specific trends. Second, we apply a triple difference (difference‐in‐difference‐in‐difference [DDD]) approach in which we estimate the effect of policy on teenagers relative to any effect on women, aged 20–24. We would expect SRE policy to have a much greater impact on teenage pregnancies than those to older women, whereas any spurious correlation is likely to be present in both groups. We implement the DDD approach by running regressions on pooled data for teenagers (either under‐20s or under‐15s) and 20–24s. We include fixed effects for year‐age group and country‐age group combinations. Each variable is included along with an interaction effect with a dummy variable for adolescents. The coefficients on the interaction terms provide us with the relative effects on teenagers for each variable. 55 We also conducted a number of further robustness checks and alternative specifications. These include allowing for multi‐way clustering as suggested by Cameron, Gelbach and Miller (2011), measuring pregnancy rates in levels rather than natural logarithms, allowing the effect of SRE to vary according to the extent of religious affiliation in a country and restricting the estimation to a balanced panel. For reasons of space, these results are reported in the Supporting Information available online.
+
+Our final approach to teasing out causality is to respecify Equation 1 as an event study, using a methodology similar to that of Bellou and Bhatt (2013). In this specification, we measure SRE mandates as a straight indicator variable but allow the effect to vary by the number of years pre‐ and post‐implementation. 66 The indicator variable is equal to +1 for the implementation of a mandate. In a few cases, the policy change involves the removal of an SRE mandate, and the indicator variable takes the value −1 in these cases. The pre‐ and post‐implementation effects are estimated relative to the year immediately prior to implementation. We report the estimates and 95% confidence intervals graphically and conduct a joint test of significance for the pre‐implementation effects. A rejection of the null in this test would suggest that countries introducing a law relating to SRE experienced different trends in fertility pre‐implementation relative to other countries.
+
+4.1 Adolescent pregnancy
+
+A major barrier to cross‐country research on the effect of sexual health policy on adolescent pregnancy is the lack of consistent data for relevant age groups, in particular on abortion. The WHO publish series on birth and abortion rates for under‐20's but do not give more detailed age breakdowns. 77 Eurostat publish some data on births and abortions to under‐16s, but there is limited coverage. However, in most countries, the majority of teenage pregnancies occur to older teens, whereas policies aimed at adolescent pregnancy such as school‐based sex education or parental consent mandates are typically targeted at younger teenagers. 88 For example, the comprehensive English Teenage Pregnancy Strategy that ran from 1999 until 2010 had specific targets for conceptions occurring to under‐16 and under‐18s.
+
+Most (though not all) countries publish official statistics on live births broken down by single year of age. The reporting of adolescent abortions broken down by age is much patchier. Here, we use data for a number of developed countries utilising a range of national and international statistical bodies. We use Organisation for Economic Co‐operation and Development (OECD) countries as the basis of our sample along with a few additional European countries that are not OECD members but for which relevant data are available. 99 The dataset is titled the St Mary's International Teenage Pregnancy Dataset (SMITPD) and is described in more detail in the Appendix S2. See also Soto, Bullivant, and Paton (2020).
+
+A few countries provide particular challenges due to federal structures in which sexual health policy and, sometimes, abortion data reporting vary considerably across constituent parts of the nation state. Our treatment of these cases varies according to the specific context as follows:
+
+Australia and Canada: in both these cases, birth data are available at the national level, whereas abortion data are available only for certain states or provinces. Here, we include observations at the state or province level.
+
+United Kingdom: sexual health policy varies considerably between the constituent countries, with the most striking difference being found in Northern Ireland where abortion is largely illegal. Data availability is relatively good for each of the constituent countries of the United Kingdom, and so we treat the United Kingdom as three separate entities: England and Wales, Scotland and Northern Ireland. 1010 It would be possible to treat Wales separately from England. Although sexual health policy has been devolved to Wales for some years, other laws (e.g., those on abortion) apply to both countries.
+
+United States: we exclude the United States for two reasons. First, many policies relating to adolescent sexual health are subject to devolved decision‐making and, hence, vary by state. Second, the collection of abortion data also varies from state to state with some states not reporting any official abortion data at all. We collect data on an annual basis from 1990 to 2017. For each country, we calculate the number of pregnancies as equal to abortions plus live births, and we use these to derive teenage pregnancy rates per thousand population. 1111 There is very little consistent data available on stillbirths and miscarriages. For Ireland and Northern Ireland, we use data on abortions to women from those countries carried out in England and Wales. We estimate modules using pregnancy rates (per thousand female population) for two age groups: under‐20s and under‐15s. In both cases, we have an unbalanced panel. For under‐20s, our sample covers 38 countries with a total of 823 observations. Some missing data for younger age groups reduce the sample size for under‐15 s to 31 countries and 680 observations. We also estimate models of births and abortions separately for each age group as well births. As data on births are available for a broader range of countries than abortions, these models include more observations: 45 countries, 1,080 observations for under‐20s and 43 countries, 996 observations for under‐15s. 1212 The full list of countries included is given in the Appendix S2.
+
+4.2 Sexual health policy
+
+The main policy variable we consider in our empirical models is whether a law is in effect mandating the teaching of sex education in schools (SRE). It is likely that any effect of SRE laws on teenage pregnancy rates will build up over time. This is particularly so for pregnancy rates for all teens given that the majority of births and abortions in that category are to 18 and 19 year olds. For this reason, we measure SRE as the average number of months in which the law was in effect over the past 5 years for under‐20s and the past 3 years for under‐15s. 1313 We also used other specifications including using a simple dummy variable indicating whether a sex education mandate was in operation in each country‐year as well as allowing the SRE effect to build up over a different number of years. These results are consistent with those reported below.
+
+We also examine possible impact of two other measures of sex education: whether sex education is mandated for children of primary school age, assumed here to be below the age of 11 (SRE primary) and whether the country allows parents to opt‐out or withdraw their children from sex education in schools (SRE opt out). We calculate the average values of these variables over time in a similar way as with SRE, the main difference being that for SRE primary we calculate the averages over the past 7 years for under‐20s and 5‐years for under 15s.
+
+Although the main focus of this paper is sex education policy, we also include indicators of three other fertility‐related policies as follows:
+
+EBC: whether or not emergency birth control (“the morning after pill” or “emergency contraception”) is available without a prescription. 1414 In some cases, EBC is available not only without a prescription but “off the shelf” in pharmacies or even supermarkets. Data limitations do not allow us to distinguish between these cases.
+
+Parental consent: whether or not minors require parental consent before they can obtain an abortion
+
+Limited abortion restrictions: whether or not there are only limited restrictions on the legal availability of abortion. All the policy variables are measured as the proportion of months in that year in which the policy measure was in effect.
+
+Data on the various sexual health policy variables are derived from a number of sources listed in the Appendix S2. To ensure reliability, data (and in particular policy implementation dates) were cross‐checked with published information from the relevant government ministry in each country and from contemporaneous media reports.
+
+We experiment with two alternative policy variables available from the United Nations (UN) World Population Policies (WPP) database. These are Adolescent fertility policies indicating whether or not a country has policies in place specifically aimed at reducing adolescent pregnancy and Government family planning, which indicates whether or not the government in that country subsidises birth control. The WPP database is derived from surveys of Governments undertaken by the UN undertaken in 1996 and then biennially from 2001 until 2015. As a result, the sample size is significantly reduced when we include these variables. 1515 Information on government support for family planning was collected prior to 1996, but not on adolescent fertility policies.
+
+Finally, we also include two further control variables. The first is the divorce rate (Divorce) on the grounds that family break‐up is known to be correlated with teenage pregnancy. Data are taken from the OECD statistical database. The second variable is the youth unemployment rate (Youth unemployment) aimed at controlling for economic factors affecting countries at different times and which may also impact teenage pregnancy rates. Unemployment data are taken from the OECD and, where OECD data were missing, from Federal Reserve Bank of St Louis. Both variables are measured in natural logarithms that allow the coefficients to be interpreted as elasticities. 1616 Edlund and Machado (2015) find that age‐of‐marriage laws are also a potentially important factor in explaining changes in early fertility. The limited variation for our sample in the period observed does not allow us to explore that issue here.
+
+5.1 Trends in adolescent pregnancy and sexual health policy
+
+Out of the 38 countries in our sample, 35 experienced a decline in teenage pregnancy rates between 2007 and 2017, with the average decrease being 36%. 1717 Where data for either year is missing, we use the closest available year to calculate the change. In the case of Belgium and Greece, abortion data are not available after 2011 so we use the change in teenage births. In Figure 1a to c, we report trends in the under‐20 pregnancy, birth and abortion rate across four regions in our sample: English‐speaking (the “Anglosphere”), Nordic, the former Eastern bloc (“Eastern Europe”) and then other Western European countries. All regions experienced a reduction in teenage pregnancy rates over the past 10 years, but the downward trend is most pronounced amongst Nordic and English‐speaking countries. Indeed, every country in those regions experienced a decline in teenage pregnancy rates of at least 30% between 2007 and the present day.
+
+Open in figure viewerPowerPoint
+
+(a) Teenage pregnancy rates by region: 1990–2017. (b) Teenage birth rates by region: 1990–2017. (c) Teenage abortion rates by region: 1990–2017. Note. (i) See Appendix S2 for classification of countries into different regions. (ii) Data series for Eastern Europe starts in 1995 due to the low number of countries with available data before this point [Colour figure can be viewed at wileyonlinelibrary.com]
+
+Eastern Europe experienced a fairly steep decline in pregnancy rates during the late‐1990s. There was a further decline from the mid‐2000s but this was much less pronounced than in other regions and there was significant divergence between countries. For example, although the pregnancy rate in Lithuania declined by over 30% between 2007 and 2017, the rate actually increased in Slovakia. In the Western Europe region, the decline was less pronounced than in the English‐speaking and Nordic regions. However, teenage pregnancy rates started at a much lower rate than in other regions.
+
+Trends in teenage birth rates are very similar to those for total pregnancy rates, whereas the pattern for teenage abortions varies more across regions. For example, Nordic and Anglosphere countries experienced decreases in abortion rates from about 2008, whereas in other Western European countries, abortions only started to come down after about 2012.
+
+Trends in the various sexual health policy measures are reported in Figure 2. Over time, the proportion of countries with mandatory SRE has increased from half in 1990 to two thirds in 2017, whereas the proportion mandating SRE for primary schools increased from just over 10% to a third. Although the general move has been towards mandatory and earlier SRE, there have been exceptions. For example, Finland abolished mandatory SRE in 1995, reinstating it in 2003. Similarly, Spain abolished mandatory SRE in 2014.
+
+Open in figure viewerPowerPoint
+
+Number of policies in place 1990–2017. Note. (i) The graph shows how many of the 38 countries in the sample in which the relevant policy was in place for at least part of that year. (ii) See the Appendix S1 for sources. SRE, sex and relationships education [Colour figure can be viewed at wileyonlinelibrary.com]
+
+In contrast, the number of countries allowing parental opt out from sex education or requiring parental consent for abortions on minors remained fairly stable over the period. Again, there have been movements in both directions: France abandoned the parental consent requirement for abortion in 2001, whereas Estonia introduced it in 2009.
+
+An important question for our empirical model is whether there is sufficient variation in the policy variables to satisfactorily identify any effect on pregnancy rates. As we include country and year fixed effects, we rely on relative variation in variables over time to identify the effects.
+
+In Table 1, we report summary statistics of our key variables including summaries of the cross‐sectional (between) and time‐series (within) variation of each of our key variables. It is reassuring that most of the time‐varying variables display a reasonable amount of “within” variation, the exceptions being the two abortion‐law variables.
+
+TABLE 1. Summary statistics
+
+Limited abortion restrictions
+
+WPP adolescent policies
+
+WPP government family planning
+
+Note. Pregnancies are the total of births plus abortions. Pregnancy, birth and abortion rates are per thousand women aged 15–19 for under‐20s and 10–14 for under‐15s. In the econometric models, pregnancy, birth, abortion, divorce and unemployment rates are measured in natural logs. A full definition of each variable can be found in Appendix S1.
+
+Abbreviations: EBC, emergency birth control; SRE, sex and relationships education; WPP, World Population Policies.
+
+We explore the amount of variation in the policy variables further in Table 2 in which we report the pattern of policy changes by year. The largest number of policy changes relates to EBC without a prescription (29 changes) and parental opt out from SRE (18 changes). For mandatory SRE, we have 13 separate policy changes, whilst for primary school, SRE we have 10 policy changes. Further, primary SRE was frequently introduced at the same time as mandatory SRE, and this collinearity may make it difficult to identify independent effects of these two policy changes. There are four policy changes relating to each of parental consent for abortion and limited legal restrictions on abortion. Finally, for the policy variables based on the UN WPP datasets, there are 33 policy changes in policies on adolescent fertility and 6 on government support for family planning.
+
+TABLE 2. SRE/abortion policy changes 1990–2017
+
+Limited abortion restrictions
+
+WPP adolescent policies
+
+WPP govt. family planning
+
+Note. This table indicates the number of countries in which the status of the particular measure of SRE, emergency birth control (EBC) or abortion changed during that year. Policy changes are only included for country‐years for which pregnancy rates are available. Missing data in some cases mean the counts are lower than implied by the trends in policies in Figure 2. World Health Organisation (WHO) policies based on surveys in 1996, 2001 and then every other year until 2015. See Appendix S1 for sources.
+
+Abbreviations: SRE, sex and relationships education; WPP, World Population Policies.
+
+The number of policy changes are lower for under‐15 models due to the lower number of observations. In contrast, the birth models cover a larger sample size, and hence, more policy changes.
+
+In sum, there is considerable variation in most of our policy‐related variables with the exception of the two variables relating to abortion laws. Although we still include the abortion law variables in our models, we are cautious about inferring causative effects from the estimated coefficients.
+
+5.2 Econometric results
+
+We report the results of our baseline econometric model of teenage pregnancy in Table 3. The first half of the table reports results for all teens and the second half results for under‐15s. In each case, we report models for pregnancies, births and abortions.
+
+TABLE 3. SRE and teenage pregnancy 1990–2017
+
+0.164****** p < 0.01.
+
+0.0510**** p < 0.05.
+
+0.0861**** p < 0.05.
+
+−0.132****** p < 0.01.
+
+−0.0680****** p < 0.01.
+
+−0.155****** p < 0.01.
+
+−0.523****** p < 0.01.
+
+Limited abortion restrictions
+
+0.170****** p < 0.01.
+
+−0.145**** p < 0.05.
+
+0.247****** p < 0.01.
+
+0.0962****** p < 0.01.
+
+0.0651**** p < 0.05.
+
+0.478****** p < 0.01.
+
+0.541****** p < 0.01.
+
+0.607****** p < 0.01.
+
+−0.0499** p < 0.1.
+
+−0.112****** p < 0.01.
+
+Note. Dependent variable is the natural log of pregnancies (abortions + births) per thousand population. Population is females aged 15–19 for under‐20s and 10–14 for under‐15s. Estimates are weighted by the population in each country in 2010. Standard errors (in brackets) are robust to panel‐level heteroscedasticity, to contemporaneous cross‐sectional correlation and to first order auto‐correlation.
+
+Abbreviations: EBC, emergency birth control; SRE, sex and relationships education.
+
+The results provide little evidence that sexual health policies have played a significant role in reducing teenage fertility. The coefficients on SRE vary in sign but are generally statistically insignificant, the exception being that SRE is associated with a significant increase in the under‐20 abortion rate. The estimated coefficients on EBC are positive (indicating that, if anything, access to EBC is associated with higher rather than lower teenage fertility) but only statistically significant in the births models.
+
+Parental consent for abortion is generally associated with lower teenage fertility (and especially abortion) rates, though this result is not robust to some of the causality experiments reported below. Countries with only limited legal restrictions on abortion tend to have higher abortion rates.
+
+Higher youth unemployment is associated with lower teenage births (though not for under‐15s), a result similar to that reported by Kearney and Levine (2015). In contrast, higher divorce rates are associated with significantly higher rates of pregnancies, births and abortions for both age groups, a result that is consistent with previous evidence that family breakup is a predictor for adolescent pregnancy.
+
+In Table 4, we report results of the pregnancy models with country‐specific trends. With this specification, the estimated effect of mandatory SRE on fertility is now positive and statistically significant for both age groups and for all outcomes. Of the other sexual health variables, EBC is associated with more births; limited abortion restrictions is associated with fewer births to under‐15s, whereas parental consent for abortion is associated with fewer abortions amongst under‐15s. The estimated impact of divorce on adolescent fertility is reduced in magnitude and statistical significance compared with the baseline models. Given our concern over potential policy endogeneity, we place more reliance on the estimates with country‐specific trends.
+
+TABLE 4. SRE and teenage pregnancy with country trends, 1990–2017
+
+0.169****** p < 0.01.
+
+0.245****** p < 0.01.
+
+0.392****** p < 0.01.
+
+0.332****** p < 0.01.
+
+0.206****** p < 0.01.
+
+0.531****** p < 0.01.
+
+0.0765****** p < 0.01.
+
+0.186****** p < 0.01.
+
+−0.476****** p < 0.01.
+
+Limited abortion restrictions
+
+−0.187****** p < 0.01.
+
+−0.106****** p < 0.01.
+
+−0.174****** p < 0.01.
+
+Note. Dependent variable is the natural log of births or abortions per thousand population. Population is females 15–19 for U20s, 15–17 for U18s and 10–14 for U15s. Estimates are weighted by the population in each country in 2010. Standard errors (in brackets) are robust to panel‐level heteroscedasticity, to contemporaneous cross‐sectional correlation and to first order auto‐correlation.
+
+Abbreviations: EBC, emergency birth control; SRE, sex and relationships education.
+
+We next supplement our model by including measures of additional elements of sex education: whether it is mandatory for primary schools and whether there is a parental opt out. These results are reported in Table 5 and again include country‐specific trends.
+
+TABLE 5. SRE and teenage pregnancy, 1990–2017: primary schools and parental opt out
+
+0.166****** p < 0.01.
+
+0.240****** p < 0.01.
+
+0.371****** p < 0.01.
+
+0.303****** p < 0.01.
+
+−0.249**** p < 0.05.
+
+−0.417****** p < 0.01.
+
+0.0756****** p < 0.01.
+
+0.209****** p < 0.01.
+
+−0.425**** p < 0.05.
+
+Limited abortion restrictions
+
+−0.107****** p < 0.01.
+
+−0.173****** p < 0.01.
+
+−0.145**** p < 0.05.
+
+−0.0939** p < 0.1.
+
+−0.119**** p < 0.05.
+
+Note. Dependent variable is the natural log of pregnancies (abortions + births) per thousand population. Population is females aged 15–19 for under‐20s and 10–14 for under‐15s. Estimates are weighted by the population in each country in 2010. Standard errors (in brackets) are robust to panel‐level heteroscedasticity, to contemporaneous cross‐sectional correlation and to first order auto‐correlation.
+
+Abbreviations: EBC, emergency birth control; SRE, sex and relationships education.
+
+Primary school SRE mandates have little additional explanatory power for either age group. In contrast, parental opt outs to SRE are associated with significantly fewer pregnancies and abortions (but not births) to under‐15s. 1818 The estimates for primary school SRE are quite sensitive to the inclusion of country‐specific trends. In models excluding these trends (available from the authors on request), SRE estimates are associated with higher teenage pregnancy rates if they apply to primary schooling and lower rates otherwise.
+
+In Table 6, we report results including the two variables derived from the WPP database. As noted above, due to the intermittent nature of the surveys from which the WPP database is constructed, our sample sizes are reduced considerably. Adolescent fertility policies are associated with higher pregnancy rates but only significantly so (at the 5% level) for the under‐20 age group. Government support for family planning is associated with lower pregnancy rates, but none of the effects are significant at the 5% level.
+
+TABLE 6. SRE and teenage pregnancy, 1990–2017: with WPP variables
+
+0.178****** p < 0.01.
+
+0.260****** p < 0.01.
+
+0.434****** p < 0.01.
+
+0.401****** p < 0.01.
+
+0.526****** p < 0.01.
+
+0.122****** p < 0.01.
+
+0.165****** p < 0.01.
+
+0.179****** p < 0.01.
+
+0.321****** p < 0.01.
+
+0.0912**** p < 0.05.
+
+0.206****** p < 0.01.
+
+Limited abortion restrictions
+
+−0.125****** p < 0.01.
+
+−0.201****** p < 0.01.
+
+−0.125****** p < 0.01.
+
+−0.205**** p < 0.05.
+
+WPP adolescent policies
+
+0.0620****** p < 0.01.
+
+0.0627**** p < 0.05.
+
+WPP government family planning
+
+−0.0410** p < 0.1.
+
+Note. Dependent variable is the natural log of pregnancies (abortions + births) per thousand population. Population is females aged 15–19 for under‐20s and 10–14 for under‐15 s. Estimates are weighted by the population in each country in 2010. Standard errors (in brackets) are robust to panel‐level heteroscedasticity
+
+Abbreviations: EBC, emergency birth control; SRE, sex and relationships education; WPP, World Population Policies.
+
+In Table 7, we report our DDD model in which the effects of the sexual health variables are estimated relative to the effect on pregnancy rates to 20–24 year olds. This provides an alternative approach to controlling for any spurious correlation between policy changes and teenage fertility rates. In this specification, SRE mandates are associated with significantly higher pregnancy rates for under‐15s but not for all teenagers. 1919 Note that SRE mandates are associated with significantly higher rates of births and abortions but not for pregnancy rates overall. This apparently anomaly is caused by the different samples used for the birth and pregnancy models. Divorce rates are now associated with significant (relative) increases in all measures of fertility and for both age groups, whereas in contrast to the earlier results, parental consent for abortion is now associated with higher abortion rates. 2020 As noted above, we are cautious about interpreting any causal effect in either of the abortion law variable due to the limited variation in the two abortion policy variables.
+
+TABLE 7. SRE and teenage pregnancy, 1990–2017: effects relative to older women
+
+0.0443****** p < 0.01.
+
+0.0692**** p < 0.05.
+
+0.133****** p < 0.01.
+
+0.0310****** p < 0.01.
+
+0.0320**** p < 0.05.
+
+0.0985****** p < 0.01.
+
+Limited abortion restrictions
+
+0.0606****** p < 0.01.
+
+0.0742****** p < 0.01.
+
+0.128****** p < 0.01.
+
+0.325****** p < 0.01.
+
+0.381****** p < 0.01.
+
+0.412****** p < 0.01.
+
+−0.0493****** p < 0.01.
+
+−0.0793****** p < 0.01.
+
+−0.132****** p < 0.01.
+
+Note. Dependent variable is the natural log of pregnancies (abortions + births) per thousand population. Population is females aged 15–19 for under‐20s and 10–14 for under‐15s. Estimates from pooled models with 20–24 pregnancy rates, giving effect relative to the effect for 20–24 year olds. Estimates are weighted by the population in each country in 2010. Standard errors (in brackets) are robust to panel‐level heteroscedasticity, to contemporaneous cross‐sectional correlation and to first order auto‐correlation.
+
+Abbreviations: EBC, emergency birth control; SRE, sex and relationships education.
+
+The results of our event study specification are reported graphically in Figures 3 and 4. These graphs show the point estimates and 95% confidence intervals of the impact of an SRE mandate on pregnancy, birth and abortion rates for the under‐20 and under‐15 age groups. The samples and control variables are as in Table 4.
+
+Open in figure viewerPowerPoint
+
+(a) Event study under‐20 pregnancies. (i) Effects are measured relative to the effect in the year preceding implementation orremoval of a mandate (ii) Chi‐square test statistic ofjoint significance of the pre‐implmentation effeects = 0.42 , p‐value = 0.981. (b) Event study under‐20 births. Note. (i) Effects are measured relative to the effect in the year preceding implementation or removal of a mandate. (ii) Chi‐square test statistic of joint significance of the pre‐implementation effects = 0.91, p value = 0.924. (c) Event study under‐20 abortions. Note. (i) Effects are measured relative to the effect in the year preceding implementation or removal of a mandate. (ii) Chi‐squaretest statistic of joint significance of the pre‐implmentation effeects = 2.09, p‐value = 0.720. [Colour figure can be viewed at wileyonlinelibrary.com]
+
+Open in figure viewerPowerPoint
+
+(a) Event study under‐15 pregnancies. Note. (i) Effects are measured relative to the effect in the year preceding implementation or removal of a mandate. (ii) Chi‐square test statistic of joint significance of the pre‐implementation effects = 23.40, p value = 0.000. (b) Event study under‐15 births. Note. (i) Effects are measured relative to the effect in the year preceding implementation or removal of an sex and relationships education (SRE). (ii) Chi‐square test statistic of joint significance of the pre‐implementation effects = 8.79, p value = 0.067. (c) Event study under‐15 abortions. Note. (i) Effects are measured relative to the effect in the year preceding implementation or removal of an SRE. (ii) Chi‐square test statistic of joint significance of the pre‐implementation effects = 38.34, p value = 0.000 [Colour figure can be viewed at wileyonlinelibrary.com]
+
+For the under‐20 group, we are unable to reject the null hypothesis that there is no (relative) effect of SRE mandates prior to implementation. The post‐implementation effects indicate that SRE mandates increases teenage fertility, most notably for teen abortions. For the under‐15 group, there is evidence of a significant difference in pre‐implementation trends for total pregnancies and for abortions. Although the post‐implementation effects continue to be significantly positive in both these cases, this raises questions about whether we are observing a causal effect. For under‐15 births, the pre‐implementation effects are not significant at the 5% level, whereas the post‐implementation effects are significantly positive only in the longer term (5 years or more after the mandate).
+
+6 DISCUSSION AND CONCLUSIONS
+
+Theory suggests that SRE may have an ambivalent effect on teenage pregnancy rates. Consistent with this, most empirical studies of particular sex education initiatives have found little evidence that they are effective in reducing teenage pregnancies. To date, very little research has examined the impact of laws mandating sex education, and none at all have tested the effect across a range of countries.
+
+We have attempted to remedy this gap in the literature by testing the effect of mandatory SRE laws on a panel of developed countries between 1990 and 2017. Consistent with Carr and Packham (2017) and Kearney and Levine (2015), we find no evidence that mandatory SRE laws can explain recent reductions in teenage fertility. Indeed, in contrast to those papers, we find some evidence that SRE mandates are associated with increases in teenage pregnancy rates. These differences may be due to the fact that both previous studies are restricted to a single country—the United States. However, we also note that Carr and Packham (2017) estimate the effect of abstinence‐based mandates, whereas Kearney and Levine (2015) examine the impact of different types of mandates (though they only focus on teen birth rates rather than total pregnancies). Future cross‐country research might usefully try to identify the effect of differences in the type of sex education mandates across countries.
+
+Mandating SRE to start in the early years of education does not seem to have any significant additional impact on adolescent fertility, whereas allowing for parental opt outs may minimise adverse effects of SRE mandates for younger teens. In addition, there is little consistent evidence that other laws relating to sexual health policy or more generalised initiatives by countries aimed at tackling adolescent fertility are associated with lower teenage fertility.
+
+These findings are consistent with economic models that predict that policy interventions in the area of sexual health can induce behavioural changes that may lead to unintended consequences. Our results also complement previous empirical work that finds specific SRE programmes tend to have very little impact on fertility outcomes.
+
+Aside from policies specifically aimed at reducing teenage fertility, youth unemployment rates are generally associated with lower rates of teenage pregnancy, while there is some evidence that divorce rates are associated with higher fertility.
+
+There are a number of caveats to our results. In the first place, we need to be clear that we are not testing the impact of SRE itself. We can only observe the presence of laws mandating SRE and not how well or otherwise these laws are implemented. It may be that some countries without mandatory SRE still have a high level of SRE provision within schools, whereas other countries with mandatory SRE may, in practice, have a low level of SRE provision.
+
+Another limitation of our study is that we examine only one potential outcome from SRE, namely, teenage fertility. We are unable to test whether sex education laws have effects on other aspects of sexual health—STIs, delayed sexual activity, child sexual abuse and so on.
+
+We should also emphasise the difficulty of establishing causal effects in research on teenage pregnancy given that the passing of sex education laws may be a response to existing trends in teenage pregnancy. For example, if a law mandating SRE is introduced in a country where adolescent pregnancy rates were increasing anyway relative to other countries, our empirical approach might understate the beneficial effects of such laws. In general, those of our results with stricter controls for such policy endogeneity (country trends, DDD estimates and event‐study estimates) provide stronger evidence of adverse effects of SRE mandates but there are exceptions: the effect on total pregnancy rates for under‐20s is insignificant in the DDD estimates, whilst the event study results for under‐15s suggest countries changing the law on mandatory SRE experienced significantly different pre‐implementation trends to other countries.
+
+Despite these caveats, our results have important policy implications for legislators. The evidence we have presented suggests that laws mandating school‐level sex education are unlikely to be successful in tackling high rates of teenage pregnancy. The same is true for laws mandating SRE for early years' education. Policymakers would be unwise to promote such mandates on the basis of their effects on adolescent fertility. This does not necessarily preclude SRE mandates being justified for other reasons but policy makers looking to effect adolescent fertility would be advised to focus on underlying socio‐economic factors (such as family breakdown), which are more clearly associated with teen pregnancy rates.
+
+Taken together our results suggest also that policy interventions at the national or state level have limited ability to explain the very significant reductions in teenage pregnancy rates observed in many countries since about 2007. Understanding the reasons behind the post‐2007 reduction in adolescent pregnancy remains a significant challenge. In order to make significant progress in this direction, researchers will need to identify other relevant, socio‐economic trends that might have driven changes in teenage behaviour over this time period. Guldi and Herbst (2017) suggest one such factor worth exploring, namely the contemporaneous rise in the influence of the Internet and social media on teenager's lives. Investigating whether this phenomenon can help to explain the puzzle of falling adolescent fertility will require the use of panel data capable of measuring cross‐country trends in social media.
+
+We would like to thank Professor Philip Booth, the Editor and two anonymous referees for their helpful comments and suggestions. The research on which this paper was based was funded by the Ryan Foundation for which the authors are most grateful
+
+Supporting Information
+
+hec4021-sup-0001-Supp Material.docxWord 2007 document , 36.1 KB
+
+Table S1 a: Cameron Gelbach & Miller multi‐way clustering. 1b: Cameron Gelbach & Miller multi‐way clustering + country trends.
+
+Table S2 a: Linear specification. b: Linear specification + country trends
+
+Table S3 a: SRE moderated by religion. b: SRE moderated by religion + country trends
+
+Table S4 a: Balanced panel (1996–2016). b: Balanced panel (1996–2016) + country trends
+
+hec4021-sup-0002-Data Appendix.docxWord 2007 document , 26.3 KB
+
+Appendix S1: Variable definitions.
+
+Appendix S2: Regions and countries/states in the Sample.
+
+Please note: The publisher is not responsible for the content or functionality of any supporting information supplied by the authors. Any queries (other than missing content) should be directed to the corresponding author for the article.
+
+Arcidiacono, P., Khwaja, A., & Ouyang, L. (2012). Habit persistence and teen sex: Could increased access to contraception have unintended consequences for teen pregnancies? Journal of Business and Economic Statistics, 30(2, April), 312– 325.
+
+Crossref Web of Science®Google Scholar
+
+Atkins, D and Bradford, D (2013) ‘The effect of state‐level sex education policies on youth sexual behaviors’, SSRN (December), available at https://doi.org/10.2139/ssrn.2369921
+
+Bellou, A., & Bhatt, R. (2013). Reducing underage alcohol and tobacco use: Evidence from the introduction of vertical identification cards. Journal of Health Economics, 32(2, March), 353– 366.
+
+Crossref PubMed Web of Science®Google Scholar
+
+Blackman, T. (2013). Exploring explanations for local reductions in teenage pregnancy rates in England: An approach using qualitative comparative analysis. Social Policy and Society, 12(1), 61– 72. https://doi.org/10.1017/S1474746412000358
+
+Crossref PubMed Google Scholar
+
+Buckles, K. S., & Hungerman, D. M. (2018). The incidental fertility effects of school condom distribution programs. Journal of Policy Analysis and Management, 37(3), 464– 492.
+
+Wiley Online Library PubMed Web of Science®Google Scholar
+
+Cameron, A. C., Gelbach, J. B., & Miller, D. L. (2011). Robust inference with multiway clustering. Journal of Business & Economic Statistics, 29(2), 238– 249.
+
+Crossref Web of Science®Google Scholar
+
+Carr, J. B., & Packham, A. (2017). The effects of state‐mandated abstinence‐based sex education on teen health outcomes. Health Economics, 26(4), 403– 420. https://doi.org/10.1002/hec.3315
+
+Wiley Online Library PubMed Web of Science®Google Scholar
+
+Cavazos‐Rehg, P. A., Krauss, M. J., Spitznagel, E. L., Iguchi, M., Schootman, M., Cottler, L., … Bierut, L. J. (2012). Associations between sexuality education in schools and adolescent birthrates: A state‐level longitudinal model. Archives of Pediatric Adolescent Medicine, 166(2), 134– 140.
+
+Crossref PubMed Google Scholar
+
+De La Croix, D., & Perrin, A. (2018). How far can economic incentives explain the French fertility and education transition? European Economic Review, 108(Sept), 221– 245.
+
+Crossref Web of Science®Google Scholar
+
+Diaz, C. J., & Fiel, J. E. (2016). The effect(s) of teen pregnancy: Reconciling theory, methods, and findings. Demography, 53(1, Feb), 85– 116.
+
+Crossref PubMed Web of Science®Google Scholar
+
+DiCenso, A., Guyatt, G., Willan, A., & Griffith, L. (2002). Interventions to reduce unintended pregnancies among adolescents: Systematic review of randomised controlled trials. British Medical Journal, 324(15, June), 1426– 1434.
+
+Crossref PubMed Google Scholar
+
+Durrance, C. (2013). The effects of increased access to emergency contraception on sexually transmitted disease and abortion rates. Economic Inquiry, 51(3), 1682– 1695.
+
+Wiley Online Library Web of Science®Google Scholar
+
+Edlund, L., & Machado, C. (2015). How the other half lived: Marriage and emancipation in the age of the Pill. European Economic Review, 80, 235– 309.
+
+Crossref Web of Science®Google Scholar
+
+Fletcher, J. M., & Wolfe, B. L. (2009). Education and labor market consequences of teenage childbearing: Evidence using the timing of pregnancy outcomes and community fixed effects. Journal of Human Resources, 44(2, spring), 303– 325.
+
+Web of Science®Google Scholar
+
+Fletcher, J. M., & Wolfe, B. L. (2012). The effects of teenage fatherhood on young adult outcomes. Economic Inquiry, 50(1, Jan), 182– 201.
+
+Wiley Online Library PubMed Web of Science®Google Scholar
+
+Girma, S., & Paton, D. (2006). Matching estimates of the impact of over‐the‐counter emergency birth control on teenage pregnancy. Health Economics, 15(Sept), 1021– 1032.
+
+Wiley Online Library PubMed Web of Science®Google Scholar
+
+Girma, S., & Paton, D. (2011). The impact of emergency birth control on teen pregnancy and STIs. Journal of Health Economics, 30, 373– 380. https://doi.org/10.1016/j.jhealeco.2010.12.004
+
+Crossref PubMed Web of Science®Google Scholar
+
+Guldi, M., & Herbst, C. M. (2017). Offline effects of online connecting: The impact of broadband diffusion on teen fertility decisions. Journal of Population Economics, 30, 69– 91.
+
+Crossref Web of Science®Google Scholar
+
+Hoffman, S. D., & Maynard, R. A. (2008). Kids having kids: Economic costs & social consequences of teen pregnancy ( 2nd ed.). Washington: The Urban Institute.
+
+Imamura, M., Tucker, J., Hannaford, P., Da Silva, M.O., Astin, M., Wyness, L., Bloemenkamp, K.W., Jahn, A., Karro, H., Olsen, J. and Temmerman, M. (2007), ‘Factors associated with teenage pregnancy in the European Union countries: A systematic review’ European Journal of Public Health, 17(6, March): 630– 636.
+
+Crossref PubMed Web of Science®Google Scholar
+
+Kearney, M. S., & Levine, P. B. (2015). Investigating recent trends in the U.S. teen birth rate. Journal of Health Economics, 41(May), 15– 29.
+
+Crossref PubMed Web of Science®Google Scholar
+
+Kirby, D. (2008). The impact of abstinence and comprehensive sex and STD/HIV education programs on adolescent sexual behaviour. Sexuality Research & Social Policy, 5, 18– 27.
+
+Crossref Google Scholar
+
+Kohler, P. K., Manhart, L. E., & Lafferty, W. E. (2008). Abstinence‐only and comprehensive sex education and the initiation of sexual activity and teen pregnancy. Journal of Adolescent Health, 42, 344– 351. https://doi.org/10.1016/j.jadohealth.2007.08.026
+
+Crossref PubMed Web of Science®Google Scholar
+
+Mason‐Jones, A. J., Sinclair, D., Mathews, C., Kagee, A., Hillman, A., & Lombard, C. (2016). School‐based interventions for preventing HIV, sexually transmitted infections, and pregnancy in adolescents. Cochrane Database of Systematic Reviews, 11, CD006417.
+
+PubMed Google Scholar
+
+Oettinger, G. S. (1999). The effects of sex education on teen sexual activity and teen pregnancy. Journal of Political Economy, 107(3), 606– 644.
+
+Crossref Web of Science®Google Scholar
+
+Oringanje, C., Meremikwu, M. M., Eko, H., Esu, E., Meremikwu, A., & Ehiri, J. E. (2016). Interventions for preventing unintended pregnancies among adolescents. Cochrane Database of Systematic Reviews, 2, CD005215.
+
+PubMed Web of Science®Google Scholar
+
+Paranjothy, S., Broughton, H., Adappa, R., & Fone, D. (2009). Teenage pregnancy: who suffers? Archives of Disease in Children, 94(3), 239– 245.
+
+Crossref CAS PubMed Web of Science®Google Scholar
+
+Paton, D. (2002). The economics of abortion, family planning and underage conceptions. Journal of Health Economics, 21(2), 27– 45.
+
+Crossref Web of Science®Google Scholar
+
+Raymond, E. G., Trussell, J., & Polis, C. B. (2007). Population effect of increased access to emergency contraceptive pills: A systematic review. Obstetrics & Gynecology, 109(1, Jan), 181– 188.
+
+Crossref PubMed Web of Science®Google Scholar
+
+Sabia, J. J. (2006). Does sex education affect adolescent sexual behaviors and health? Journal of Policy Analysis and Management, 25(4), 783– 802. https://doi.org/10.1002/pam.20208
+
+Wiley Online Library PubMed Web of Science®Google Scholar
+
+Salam, R. A., Faqqah, A., Sajjad, N., Lassi, Z. S., Das, J. K., Kaufman, M., & Bhutta, Z. A. (2016). Improving adolescent sexual and reproductive health: A systematic review of potential interventions. Journal of Adolescent Health, 59, 11– 28.
+
+Crossref PubMed Web of Science®Google Scholar
+
+Shepherd, J., Kavanagh, J., Picot, J., Cooper, K., Harden, A., Barnett‐Page, E., … Price, A. (2010). The effectiveness and cost effectiveness of behavioural interventions for the prevention of sexually transmitted infections in young people aged 13–19: A systematic review and economic evaluation. Health Technology Assessment, 14, 1– 206.
+
+Crossref CAS Web of Science®Google Scholar
+
+Social Exclusion Unit. (1999). Teenage Pregnancies (p. CM4342). London: HMSO.
+
+Soto J, Bullivant S and Paton D(2020), ‘ St Mary's international teenage pregnancy dataset: An introduction (version 1.0)’ St Mary's Open Research Archive https://research.stmarys.ac.uk/id/eprint/3788/
+
+Wiggins, M., Bonell, C., Sawtell, M., Austerberry, H., Burchett, H., Allen, E., & Strange, V. (2009). Health outcomes of youth development programme in England: prospective matched comparison study. BMJ, 339(July), 1– 8.
+
+Wight, D. (2011). The effectiveness of school‐based sex education: What do rigorous evaluations in Britain tell us? Education and Health, 29(4), 67– 73.
+
+Wilkinson, P., French, R., Kane, R., Lachowycz, K., Stephenson, J., Grundy, C., … Wellings, K. (2006). Teenage conceptions, abortions and births in England: 19894‐2003, and the national teenage pregnancy strategy. Lancet, 368(Nov), 1879– 1886.
+
+Crossref PubMed Web of Science®Google Scholar
+
+1 De La Croix and Perrin (2018) similarly use a rational choice model to explain historical trends in European childbearing.
+
+2 Kirby (2008), Shepherd et al. (2010) and Wight (2011) similarly find little or no evidence of any impact of SRE on pregnancy rates. The review by Salam et al. (2016) finds some evidence that some educational interventions reduce adolescent pregnancy but does not consider school‐based sex education.
+
+3 Atkins and Bradford (2013) analyse the impact of US state‐level sex education mandates on behaviours such as contraceptive use and sexual activity. They find that states mandating abstinence education experience lower rates of contraceptive use amongst sexually active teens. However, no type of sex education mandate is found significantly to reduce teen sexual activity.
+
+4 See, for example, www.unfpa.org/comprehensive-sexuality-education
+
+5 We also conducted a number of further robustness checks and alternative specifications. These include allowing for multi‐way clustering as suggested by Cameron, Gelbach and Miller (2011), measuring pregnancy rates in levels rather than natural logarithms, allowing the effect of SRE to vary according to the extent of religious affiliation in a country and restricting the estimation to a balanced panel. For reasons of space, these results are reported in the Supporting Information available online.
+
+6 The indicator variable is equal to +1 for the implementation of a mandate. In a few cases, the policy change involves the removal of an SRE mandate, and the indicator variable takes the value −1 in these cases.
+
+7 Eurostat publish some data on births and abortions to under‐16s, but there is limited coverage.
+
+8 For example, the comprehensive English Teenage Pregnancy Strategy that ran from 1999 until 2010 had specific targets for conceptions occurring to under‐16 and under‐18s.
+
+9 The dataset is titled the St Mary's International Teenage Pregnancy Dataset (SMITPD) and is described in more detail in the Appendix S2. See also Soto, Bullivant, and Paton (2020).
+
+10 It would be possible to treat Wales separately from England. Although sexual health policy has been devolved to Wales for some years, other laws (e.g., those on abortion) apply to both countries.
+
+11 There is very little consistent data available on stillbirths and miscarriages. For Ireland and Northern Ireland, we use data on abortions to women from those countries carried out in England and Wales.
+
+12 The full list of countries included is given in the Appendix S2.
+
+13 We also used other specifications including using a simple dummy variable indicating whether a sex education mandate was in operation in each country‐year as well as allowing the SRE effect to build up over a different number of years. These results are consistent with those reported below.
+
+14 In some cases, EBC is available not only without a prescription but “off the shelf” in pharmacies or even supermarkets. Data limitations do not allow us to distinguish between these cases.
+
+15 Information on government support for family planning was collected prior to 1996, but not on adolescent fertility policies.
+
+16 Edlund and Machado (2015) find that age‐of‐marriage laws are also a potentially important factor in explaining changes in early fertility. The limited variation for our sample in the period observed does not allow us to explore that issue here.
+
+17 Where data for either year is missing, we use the closest available year to calculate the change. In the case of Belgium and Greece, abortion data are not available after 2011 so we use the change in teenage births.
+
+18 The estimates for primary school SRE are quite sensitive to the inclusion of country‐specific trends. In models excluding these trends (available from the authors on request), SRE estimates are associated with higher teenage pregnancy rates if they apply to primary schooling and lower rates otherwise.
+
+19 Note that SRE mandates are associated with significantly higher rates of births and abortions but not for pregnancy rates overall. This apparently anomaly is caused by the different samples used for the birth and pregnancy models.
+
+20 As noted above, we are cautious about interpreting any causal effect in either of the abortion law variable due to the limited variation in the two abortion policy variables.
+
+Previous FigureNext Figure
+
+The full text of this article hosted at iucr.org is unavailable due to technical difficulties.
+
+Log in to Wiley Online Library
+
+NEW USER > INSTITUTIONAL LOGIN >
+
+Password Changed Successfully
+
+Your password has been changed
+
+Create a new account
+
+Forgot your password?
+
+Enter your email address below.
+
+Please check your email for instructions on resetting your password. If you do not receive an email within 10 minutes, your email address may not be registered, and you may need to create a new Wiley Online Library account.
+
+Can't sign in? Forgot your username?
+
+Enter your email address below and we will send you your username
+
+If the address matches an existing account you will receive an email with instructions to retrieve your username

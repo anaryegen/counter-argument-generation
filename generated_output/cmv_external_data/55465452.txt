@@ -1,0 +1,435 @@
+Back to Top Skip to main content
+
+An official website of the United States government Here's how you know
+
+The .gov means it’s official. Federal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you’re on a federal government site.
+
+The site is secure. The https:// ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely.
+
+Log in Show account info
+
+Logged in as: username
+
+Access keys NCBI Homepage MyNCBI Homepage Main Content Main Navigation
+
+The PMC website is updating on October 15, 2024. Learn More or Try it out now.
+
+HHS Author Manuscripts
+
+As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with, the contents by NLM or the National Institutes of Health. Learn more: PMC Disclaimer | PMC Copyright Notice
+
+J Pers Soc Psychol. Author manuscript; available in PMC 2013 Apr 15.
+
+Published in final edited form as:
+
+J Pers Soc Psychol. 2009 Dec; 97(6): 1129–1141. doi: 10.1037/a0017146
+
+NIHMSID: NIHMS454515
+
+The Effects of Chronic Achievement Motivation and Achievement Primes on the Activation of Achievement and Fun Goals
+
+William Hart and Dolores Albarracín
+
+Department of Psychology, University of Florida
+
+Find articles by William Hart
+
+Department of Psychology, University of Illinois at Urbana–Champaign
+
+Find articles by Dolores Albarracín
+
+William Hart, Department of Psychology, University of Florida;
+
+Contributor Information.
+
+Correspondence concerning this article should be addressed to: William Hart, Department of Psychology, University of Florida, Gainesville, Florida 32611 or Dolores Albarracín, Department of Psychology, University of Illinois at Urbana–Champaign, 603 East Daniel Street, Champaign, IL 61820. ude.lfu@trahlliw or ude.cuiu@arrablad
+
+The publisher's final edited version of this article is available at J Pers Soc Psychol
+
+This research examined the hypothesis that situational achievement cues can elicit achievement or fun goals depending on chronic differences in achievement motivation. In 4 studies, chronic differences in achievement motivation were measured, and achievement-denoting words were used to influence behavior. The effects of these variables were assessed on self-report inventories, task performance, task resumption following an interruption, and the pursuit of means relevant to achieving or having fun. Findings indicated that achievement priming (vs. control priming) activated a goal to achieve and inhibited a goal to have fun in individuals with chronically high-achievement motivation but activated a goal to have fun and inhibited a goal to achieve in individuals with chronically low-achievement motivation.
+
+Keywords: achievement motivation, achievement goals, self-regulation, fun, behavior
+
+Many important human outcomes depend on individuals marshaling up the motivation to go above and beyond comfortable conduct into the realm of difficult, effortful, superior behavior. Therefore, all societies have formal and informal systems to promote individual achievements that benefit the group, but some members fail to meet these goals and instead pursue immediately pleasurable activities. For example, even though formal education is designed to promote achievement goals in all students, daily absentee rates in U.S. schools are as high as 30% (Ingersoll & LeBoeuf, 1997), and many of these absences can be attributed to truancy (McNeal, 1999). Does this imply that the students who disengage from achievement goals have no meaningful motivations, or is there a more complex pairing of goals in which achievement is only part of the picture?
+
+Up to this point, achievement motivation has been understood by focusing on whether people are sufficiently competent or motivated to achieve excellence. Therefore, people who show poor performance are seen as unmotivated or incapable of self-determination (Ames, 1984; Dweck, 1986; Elliot & Church, 1997; McClelland, Atkinson, Clark, & Lowell, 1953; Nicholls, 1984; Sarason & Sarason, 1990; Spielberger, 1972; Thompson, Davidson, & Barber, 1995). Although the focus on achievement goals has led to important advances in understanding achievement behavior (see reviews by Dweck, 1986; Elliot, 1997, 2005), achievement motivation may best be understood as a complex motivational process that involves the regulation of multiple social goals (e.g., McClelland, 1965). In fact, it is widely recognized that goal pursuit entails juggling multiple pursuits simultaneously (Kruglanski et al., 2002; Shah & Kruglanski, 2007). In this research, we propose that the goal to achieve is often construed as an alternative to the goal to have fun and engage in leisure behavior. Whether people choose to pursue achievement (at the expense of having fun) or fun (at the expense of achieving) depends largely on their level of chronic achievement motivation (i.e., the amount of pleasure gained from achieving a standard of excellence). Therefore, environmental stimuli designed to promote achievement can have unexpected effects on individuals with chronically low-achievement motivation (for other interactions with chronic achievement motivation, see Elliot & Harackiewicz, 1994; J. A. Epstein & Harackiewicz, 1992; Harackiewicz & Elliot, 1993; McClelland, 1985; Piedmont, 1988).
+
+In accordance with models of Person × Situation interaction (S. Epstein, 1979; Mischel & Shoda, 1995; Roberts & Pomerantz, 2004; Schlenker, 1980, 1985), our model assumes that chronic levels of achievement motivation interact with situational achievement prompts (e.g., word primes) to ignite a complex motivational response that involves regulating goals to achieve and have fun. In brief, achievement stimuli are presumed to automatically influence different motivational responses depending on chronic levels of achievement motivation. Specifically, achievement primes can promote an achievement goal and the inhibition of a fun goal in individuals with chronically high-achievement motivation but promote a fun goal and the inhibition of an achievement goal in individuals with chronically low-achievement motivation. An achievement goal is a desired end state of attaining or demonstrating excellence or competence through hard work, whereas a fun goal is a desired end state of leisure, entertainment, and diversions from work (i.e., play behavior). One key distinction between the two goals is that an achievement goal operates through the setting of a performance standard (e.g., “I want to get an A”) and the monitoring of current outcomes in relation to this standard, whereas the fun goal operates in the absence of a performance standard. As broad social goals, they can influence a person’s interests and behaviors and are likely to be activated in achievement contexts.
+
+The achievement and fun goal responses to achievement stimuli (e.g., a slogan that reminds students of achievement) are possible because of the structure of achievement settings and individuals’ past behaviors in those settings. Achievement settings (e.g., school, sport, work) provide opportunities to achieve as well as to have fun, and chronic individual differences in achievement motivation should relate to the consistent and frequent choice of one opportunity over the other. In achievement settings, achievement opportunities are obviously available and can be used to demonstrate and attain competence (Ames, 1984; Dweck, 1986; Nicholls, 1984; Thompson et al., 1995), but fun opportunities are also available. Fun opportunities may be offered to prevent burnout and fatigue (e.g., recess at school or office parties; see Deal & Kennedy, 1982; Greenwich, 2001), can arise as a by-product of the work environment (e.g., sitting close to a friend at work or having Internet access), or may emerge without the knowledge or consent of institutional authorities (e.g., truancy). In these contexts, individual differences in chronic achievement motivation are likely to determine whether achievement or fun is pursued on a regular basis. Whereas individuals with chronically high-achievement motivation may generally try to seek achievement over fun, those with chronically low-achievement motivation may generally try to seek fun over achievement. Hence, chronic achievement motivation may predict differences in the relative priority of each goal and the likelihood that reminders of achievement will elicit achievement versus fun seeking.
+
+In line with the Person × Situation framework, our model also specifies that chronic achievement motivation may have a greater influence on either achievement or fun behavior when the context offers reminders of achievement (e.g., Mischel & Shoda, 1995). This prediction suggests the possibility that chronic achievement motivation may not be expressed without the presence of these reminders. Whether chronic achievement motivation will be expressed when achievement stimuli are absent is an empirical question and depends on the chronic accessibility of this motivation in people’s minds. In the absence of reminders, the influence of chronic achievement motivation on behavior should be present when high- or low-chronic achievement motivation is chronically accessible but absent when this motivation is not chronically accessible.
+
+A Model of Achievement and Fun Goal Activation in Achievement Contexts
+
+We adhered to classic conceptualizations of chronic achievement motivation as the reward gained from attaining a standard of excellence. For example, need for achievement can be defined as a motivation by which reaching a standard of excellence is rewarding (McClelland et al., 1953) and produces intrinsically motivated achievement behavior (Murray, 1938). Chronic individual differences in achievement motivation (Cassidy & Lynn, 1989) can be assessed with self-report items such as “I find satisfaction in working as well as I can” and “I get a sense of satisfaction out of being able to say I have done a very good job on a project.” Individuals with chronically high-achievement motivation are motivated to attain high-performance goals, enjoy pursuing standards of excellence, value competence, and enjoy challenges and achievement-relevant feedback (J. A. Epstein & Harackiewicz, 1992; McClelland, 1951, 1961, 1985; Trope, 1975). By contrast, individuals with chronically low-achievement motivation devalue competence, dislike challenges and ability assessments, and may experience unpleasant psychological reactions to competitive academic settings (e.g., J. A. Epstein & Harackiewicz, 1992; McClelland, 1961, 1985; Trope, 1975).
+
+Our model assumes that achievement stimuli can elicit different automatic reactions in people with chronically high- and low-achievement motivation. This prediction follows from the assumption that each group should form specific cognitive links between achievement prompts and the dominant responses associated with these stimuli (Bargh, 1990; Bargh & Barndollar, 1996; Kruglanski et al., 2002). On the one hand, individuals with chronically high-achievement motivation should possess a strong cognitive link between achievement stimuli and an achievement goal (Bargh, 1990) because they regularly choose high-performance goals in the presence of achievement stimuli (McClelland et al., 1953). Through this cognitive link, an achievement-relevant stimulus (e.g., a word such as excel) should have the ability to automatically activate an achievement goal, which can, in turn, promote high effort, high task persistence, and high performance on a wide range of achievement-based tasks (Bargh, Gollwitzer, Lee-Chai, Barndollar, & Troetschel, 2001; Hassin, 2005; Shah, 2003).
+
+Moreover, when external reminders of achievement elicit a goal to achieve, competing goals of fun may be deactivated (Fishbach, Friedman, & Kruglanski, 2003). Although people can pursue multiple goals simultaneously, accomplishing a focal goal (e.g., to achieve) depends on whether other accessible goals interfere with (e.g., chatting) or facilitate (e.g., focusing on work) the focal goal. As a result, a focal goal may develop inhibitory links to competing goals (e.g., a goal to achieve may inhibit a goal to chat with a coworker; Fishbach et al., 2003; Kruglanski et al., 2002) and excitatory links to facilitating goals (e.g., an achievement goal may activate a goal to focus on work). Consistent with this basic framework, participants with chronically high-achievement motivation may inhibit a fun goal while they activate an achievement goal.
+
+On the other hand, individuals with chronically low-achievement motivation might possess a weak cognitive link between achievement stimuli and an achievement goal. In fact, this hypothesis has been implicit in work showing performance deficits in people with chronically low-achievement motivation and would suggest that this group will not be affected by achievement prompts (e.g., Bargh, 1990; Fishbach & Ferguson, 2007; Fitzsimons & Bargh, 2003). An important consideration, however, is that people with chronically low-achievement motivation may possess a strong cognitive link between achievement stimuli and a fun goal because they may regularly adopt leisure goals in the presence of achievement stimuli. Through this cognitive link, a word, such as excel, may automatically activate a fun goal, which can, in turn, promote high effort, high-task persistence, and high performance on leisure tasks. For the same reason an achievement goal deactivates a fun goal for individuals with chronically high-achievement motivation, a fun goal may deactivate an achievement goal for individuals with chronically low-achievement motivation (see Fishbach et al., 2003).
+
+It is highly plausible that individuals with chronically low-achievement motivation may associate achievement contexts with a fun goal because such individuals are likely to consistently choose fun over achievement activities. Although there is a lack of experimental or process-oriented research in this area, chronically low-achievement motivation often correlates with enhanced tendencies to engage in activities with immediate affective rewards (e.g., gambling; Rees, 1967; Taber, Russo, Adkins, & McCormick, 1986). For example, pathological gamblers have lower levels of chronic achievement motivation than nongamblers (Taber et al., 1986), and individuals with chronically low-achievement motivation have reported a preference for entertainment-oriented magazines (e.g., tabloids vs. news; Rees, 1967). Moreover, high school students with a low grade point average have reported always trying to have fun as their goal in the classroom, whereas their counterparts with a high grade point average have reported always trying to succeed as their goal in the classroom (Wentzel, 1989). Despite the importance of this descriptive work, there has been no attempt to understand the triggers of achievement and fun goals as a function of chronic achievement motivation. Therefore, experimental work on automatic goal activation may help fill this gap.
+
+To the extent individuals with chronically high- and low-achievement motivation consistently and frequently pursue achievement (e.g., doing homework) or fun activities (e.g., socializing at school or surfing the Web at work), achievement stimuli such as an “excel” slogan might exert an automatic, hydraulic effect on these two goals. This possibility suggests a new way to conceptualize past results and improve human performance. Past research has shown that people with chronically low-achievement motivation perform poorly and experience less enjoyment in contexts that make achievement standards highly salient (e.g., Elliot & Harackiewicz, 1994; J. A. Epstein & Harackiewicz, 1992; Harackiewicz & Elliot, 1993); yet, this research has failed to validate the motivational process whereby achievement standards produce these outcomes. Although multiple mechanisms are possible, people with chronically low-achievement motivation may often underperform in achievement contexts because these contexts may automatically elicit a fun goal. Often, attempts to have fun during an achievement task can harm performance, particularly when attempts to have fun distract attention away from the task at hand (e.g., daydreaming of fun opportunities) and decrease thoughts about performing the task well. To our knowledge, the possibility of automatic activation of fun goals during achievement tasks has never been demonstrated experimentally.
+
+By using implicit achievement triggers (e.g., priming), we were able to examine in the present research whether the activation of achievement and fun goals is controlled or automatic. For example, one consideration in improving performance is whether people are aware of their goal-directed behavior in achievement settings. Yet, no research has examined this issue in groups with chronically high- and low-achievement motivation. We assume that people may adopt achievement or fun goals without any conscious awareness of the triggering event or the goal (Bargh et al., 2001). In this case, goal adoption is not open to introspection and may be difficult to interrupt by an act of conscious will (Bargh, 1990).
+
+Finally, our model of goal activation may suggest a novel method to promote high performance among individuals with chronically low-achievement motivation in achievement settings. To the extent that a fun goal is activated prior to a task, this fun goal should enhance mental focus and engagement on fun tasks, thus correcting the potential problem of eliciting achievement concepts in people with low-achievement motivation. Thus, an achievement prime may cause individuals with low-achievement motivation to perform at their peak on tasks that are framed as entertaining rather than as achievement oriented. Correspondingly, an achievement prime may cause individuals with high-achievement motivation to perform at their peak on tasks that are framed as achievement oriented rather than as entertaining.
+
+Overview of Studies and Specific Predictions
+
+In four studies, we examined various aspects of our model concerning the interactive influence of chronic achievement motivation and achievement reminders on achievement and fun goals. One major assumption of the model is that individuals with chronically low-achievement motivation should tend to favor fun over achievement, whereas individuals with chronically high-achievement motivation should favor achievement over fun. In an initial study, we tested whether chronically low-achievement motivation was associated with tendencies to favor fun over achievement, whereas chronically high-achievement motivation was associated with tendencies to favor achievement over fun. In a second study, we examined whether achievement primes further accentuated the relation between chronic achievement motivation and the prioritization of achievement and fun goals. If a subliminal achievement prime automatically triggers a fun goal in people with chronically low-achievement motivation, such participants may show a magnified tendency to prioritize fun over achievement. By the same token, if a subliminal achievement prime automatically activates an achievement goal in people with chronically high-achievement motivation, such participants may show an enhanced tendency to prioritize achievement over fun.
+
+In additional studies, we examined other aspects of our theory using an array of priming methods and measurements of achievement- and fun-seeking behaviors. Of importance, we also used techniques to determine whether the effects of the primes in conjunction with achievement motivation were goal mediated (vs. procedural; e.g., Bargh et al., 2001). Specifically, we evaluated the behavioral effects of achievement primes by recording choices to resume an interrupted achievement task or to begin a fun alternative task (Study 3) and by recording correctly solved word-search puzzles framed as conducive to having fun, achieving, or not framed (Study 4).
+
+The goal of Study 1 was to examine whether differences in chronic achievement motivation predicted differences in the prioritization of achievement and fun goals. We predicted that individuals with chronically high-achievement motivation would prioritize achievement goals over fun goals, whereas individuals with chronically low-achievement motivation would prioritize fun goals over achievement goals. Participants were invited to the lab where they completed a measure of chronic achievement motivation and an assessment of achievement–fun goal prioritization (in a counterbalanced order). Our measure of achievement–fun goal prioritization introduced achievement and fun as alternatives, thus allowing us to observe people’s relative preferences as a function of their chronic achievement motivation.
+
+Participants were 151 students (41 men) from introductory psychology classes participating in exchange for credit. The study had a correlational design, with scores on chronic achievement motivation as the predictor for achievement–fun goal prioritization.
+
+Experimental materials and procedures
+
+Upon arriving to the lab, participants learned that they would participate in a personality study in which they would read and respond to some questions. At this point, participants completed a measure of chronic achievement motivation and a measure of achievement–fun goal prioritization in counterbalanced order. The measure of chronic achievement motivation was a subscale of a multifactor achievement motivation measure (Cassidy & Lynn, 1989; “excellence motivation”). This subscale was meant to capture a motivation to pursue standards of excellence and, therefore, most closely reflected classic definitions of achievement motivation (e.g., Greenwald & Breckler, 1985; McClelland et al., 1953; Murray, 1938). As part of the Excellence Motivation scale, participants rated seven statements (e.g., “I find satisfaction in working as well as I can”; “I hate to see my bad workmanship”; “I get a sense of satisfaction out of being able to say I have done a very good job on a project”; “Part of the satisfaction in doing something comes from seeing how good the finished product looks”) on a 1 (not at all like me) to 5 (extremely like me) scale. An overall chronic achievement motivation score was computed by summing responses to all seven items after appropriate reverse coding (Cronbach’s α = .74).1
+
+Participants also completed a measure of achievement–fun goal prioritization by responding to seven items that assessed the way they prioritize achievement and fun goals. The items were “Normally, I am more motivated to have a good time than to do great work”; “I think that I am more motivated to achieve than have fun” (reverse coded); “I would rather surround myself with people who are motivated to achieve than people who are motivated to have a good time” (reverse coded); “I would rather spend my time at the library than at a party” (reverse coded); “Reaching a personal standard of excellence is more satisfying than having fun” (reverse coded); “Most of my time is spent thinking of ways to have fun rather than ways to achieve”; and “Most of my behaviors are geared toward having fun rather than achieving.” Participants provided their responses on a scale from 1 (not at all like me) to 5 (extremely like me). An overall score was computed by summing responses to all seven items (Cronbach’s α = .85). Note that scores above the scale’s midpoint (21) indicate the prioritization of fun over achievement, and scores below the midpoint indicate a prioritization of achievement over fun.
+
+Results and Discussion
+
+Prior to analyses, chronic achievement motivation was z-scored (−1 = 1 SD below the mean; 0 = mean score; 1 = 1 SD above the mean). A regression analysis revealed the predicted negative relation between chronic achievement motivation and achievement–fun prioritization (r = −.44), t(151) = −5.95, p = .0001. We also estimated levels of achievement–fun prioritization for chronic high- and low-achievement motivation participants (+1 and −1 SD).2 The estimated mean on the achievement–fun prioritization measure for individuals with chronically high-achievement motivation (Ŷ = 17.50, SE = 0.59) differed significantly from the scale’s midpoint of 21, t(151) = 5.93, p = .001, and suggested that individuals with chronically high-achievement motivation prioritize achievement over fun. The estimated mean on the prioritization measure for people with chronically low-achievement motivation (Ŷ = 22.61, SE = 0.58) also differed significantly from the scale’s midpoint, t(151) = 2.76, p = .01, and suggested a prioritization of fun over achievement. In summary, these findings were consistent with our predictions but were later replicated using procedures that did not force participants into an achievement–fun dichotomy as did the one in our achievement–fun prioritization scale.
+
+Study 1 was a first step in demonstrating that achievement motivation relates to the way individuals prioritize goals to achieve and have fun. Yet, this pattern should be more pronounced in the presence of a reminder of achievement, such as a subliminal achievement prime. To test this idea, participants completed the measure of chronic achievement motivation, were subliminally primed with achievement or control words, and then completed the achievement–fun goal prioritization index.
+
+Participants were 220 (28 men) students from introductory psychology classes participating in exchange for credit. The design was a 2 (prime: achievement or control) × 2 chronic achievement motivation (continuous), with scores on the achievement–fun goal prioritization measure as the dependent variable.
+
+Experimental materials and procedures
+
+Participants learned that they would participate in a series of unrelated studies regarding personality and one study on information processing. In the first study, participants completed the measure of achievement motivation used in Study 1 (Cronbach’s α = .68). Subsequently, participants completed a subliminal priming task, which ostensibly measured verbal information processing. In this priming task, participants were asked to decide as quickly as possible whether a string of letters (flashed on the computer screen) ended in a vowel or consonant. Each trial occurred as follows: Participants were shown a fixation point for 2–7 s (+++), then a 13-letter string of consonants (forward mask; KQHYTPDQFPBYL) for 150 ms, and then the achievement prime (e.g., strive) or control prime (e.g., puddle) for 33 ms. The prime was backward masked by a 20-ms presentation of the same 13-letter string of consonants. To stay true to our cover story, a seven-letter string (e.g., TQHYTPI) was presented immediately thereafter, and participants decided whether the string ended in a consonant or a vowel by pressing one of two designated keys. All participants completed 75 experimental trials. Thus, the achievement priming condition contained 75 presentations of achievement words (i.e., attain, win, master, compete, excel, achieve, strive, and dominate), and the control condition contained 75 presentations of neutral words (stand, hat, stove, and green). Finally, participants completed the achievement–fun prioritization measure from Study 1 (Cronbach’s α = .87), were thanked for their participation, debriefed, and excused from the lab.
+
+Results and Discussion
+
+No participant correctly identified the purpose of the experiment, nor thought that the priming task influenced their behavior.
+
+We analyzed achievement–fun goal prioritization as a function of the prime and measured chronic achievement motivation using a regression analysis with interaction terms. As prescribed by Cohen and Cohen (1983), we entered and tested the main effects of chronic achievement motivation and the prime in the first step, and we tested the interaction term in the second step. The regression model was significant at Step 1 with only the main effects entered, F(2, 217) = 30.14, p < .001, R2 = 0.22. There was a significant effect of chronic achievement motivation in the direction of enhanced prioritization of achievement over fun as chronic achievement motivation increased (β = −0.47, p = .001) but no effect of prime (β = 0, ns). The regression model significantly improved at Step 2 with the inclusion of the interaction term, ΔF(1, 216) = 9.45, p = .001, ΔR2 = .03. We probed this significant two-way interaction (β = −0.30, p = .001) by examining the effects of prime at high and low levels of chronic achievement motivation (see Table 1). As anticipated, individuals with chronically high-achievement motivation showed enhanced prioritization of achievement over fun after the achievement primes (vs. control primes; β = 0.20, p = .03). Moreover, individuals with chronically low-achievement motivation showed enhanced prioritization of fun over achievement after the achievement primes (vs. control primes; β = −0.17, p = .04).
+
+Mean Achievement–Fun Goal Prioritization Scores as a Function of Prime and Chronic Level of Achievement Motivation: Study 2
+
+Chronically low-achievement motivation (−1 SD)
+
+Chronically high-achievement motivation (+1 SD)
+
+Open in a separate window
+
+Note. The difference column includes comparisons between the high- and low-achievement motivation groups. The difference row includes comparisons between the achievement and control prime conditions. Cell means marked with an asterisk differ significantly from the scale’s midpoint of 21, and therefore show goal prioritization. Lower numbers signify greater prioritization of achievement than fun.
+
+We also assessed the effects of chronic achievement motivation within priming levels. Replicating the effect in Study 1, chronic achievement motivation negatively correlated with achievement–fun goal prioritization in the control-prime condition (β = −0.28, p = .001). Also, consistent with our hypothesis, the size of this relation was larger in the achievement-prime condition (β = −0.65, p = .0001). These data validated the conclusion from Study 1 that chronic achievement motivation is expressed in the absence of achievement reminders, and they also showed that achievement priming magnifies goal prioritization tendencies. In Study 3, we examined the behavioral implications of this goal prioritization change and measured chronic achievement motivation during a prescreening session.
+
+The goal of Study 3 was to provide some initial evidence that achievement priming can have different implications on achievement-seeking and fun-seeking behavior as a function of chronic achievement motivation. To accomplish this goal, we recorded the willingness to resume an interrupted achievement task or switch to a fun task. Specifically, an achievement goal should increase a willingness to resume an interrupted achievement task, whereas a fun goal should increase a willingness to switch to a fun task. In this study, participants completed the chronic achievement motivation measure during prescreening and then were invited to lab. While in the lab, participants were subliminally primed with achievement or control words. Immediately following the priming, participants worked on a word-search task (described as a measure of verbal ability) and were interrupted 2 min into the task ostensibly due to a computer problem. Three minutes after this interruption, participants were told that there was not enough time to complete all the tasks in the session and they could either complete a cartoon-rating task (fun option) or resume the word-search task (achievement option).
+
+Participants and design
+
+Participants were 104 students (43 men) from introductory psychology classes participating in exchange for credit. The design was a 2 (prime: achieve vs. control) × continuous (chronic achievement motivation) factorial, with task preference (i.e., a choice to resume the puzzles or begin the cartoon-rating task) as the dependent variable.
+
+Experimental procedure and materials
+
+All participants completed the chronic-achievement motivation measure (see Study 1) during a prescreening session (coefficient α = .83). Upon arriving to the lab, participants were told that they would participate in three unrelated experiments that were concerned with verbal skills (priming task and word searches) and humor (cartoon-rating task). Participants began the session by completing a subliminal priming task. Procedures for this task were identical to those discussed in Study 2.
+
+After participants finished the prime task, they began a word-search puzzle task. These puzzles were modeled after those used by Bargh et al. (2001), which distinguished between people who were and were not primed with a goal to achieve. Specifically, participants were presented with three theme-titled word-search puzzles and asked to find words that were compatible with the theme of the puzzle. For example, one puzzle’s theme was bugs and participants searched for types of bugs (e.g., roach, ant, and spider). Each puzzle had 10 words embedded in a 10 × 10 matrix of letters. Participants were informed that the puzzles were diagnostic of verbal reasoning ability. They were also told that there were a total of 10 words in each theme-related puzzle and that they should try to find as many words as they could in 10 min. Two minutes into the word-search task, all participants were interrupted due to an ostensible computer problem that the experimenter was attempting to resolve. Participants were asked to be patient with the explanation that these issues are usually resolved in a matter of minutes. After a 3-min delay, participants were forced to indicate (ostensibly due to time constraints) whether they would like to resume the word-search task or perform the cartoon-rating task by clicking on a box labeled I would like to return to the word-search puzzles or I would like to move forward to complete the cartoon ratings. After participants made this decision, they worked on their selected activity. Finally, all participants were probed for awareness of the experiment’s purpose using funnel debriefing procedures and then were fully debriefed.
+
+Results and Discussion
+
+One participant correctly identified the purpose of the experiment by indicating that the priming task probably contained words designed to affect his behavior on the word-search task. Although this participant was unable to identify the actual words in the priming task, his data were discarded.
+
+We analyzed task preferences (i.e., choosing to resume the word-search task or begin the cartoon-rating task) as a function of the prime and measured achievement motivation using a logistic regression analysis with interaction terms. As prescribed by Cohen and Cohen (1983), we entered and tested the main effects of chronic achievement motivation and the prime in the first step. We entered and tested the two-way interaction in the second step. The regression model was significant at the first step (model with main effects), χ2(2, N = 104) = 16.37, p < .001,
+
+0.20. There was a reliable effect of achievement motivation (b = 0.92, SE = 0.26, p = .001), but no effect of prime (b = − 0.01, SE = 0.22, ns). The main effect of achievement motivation suggested greater willingness to resume the achievement task among participants with chronically high-achievement motivation.
+
+The regression model was significantly improved at the second step (i.e., with the inclusion of the interaction term), χ2(3, N = 104) = 28.07, p < .001,
+
+0.32, because there was a significant two-way interaction between priming and chronic achievement motivation (b = 1.97, SE = 0.65, p = .003). We decomposed the two-way interaction by examining the effect of prime within high and low levels of chronic achievement motivation (see Table 2). As predicted, achievement priming (vs. control) increased the probability that people with chronically high-achievement motivation would resume the interrupted achievement task (b = 2.18, SE = 0.88, p = .01). Also, as hypothesized, achievement priming (vs. control) increased the probability that people with chronically low-achievement motivation would switch to the fun cartoon-rating task (b = −1.76, SE = 0.73, p = .02).
+
+Percentage of Resumption of an Achievement Task (Versus a Fun Task) as a Function of Prime and Chronic Level of Achievement Motivation: Study 3
+
+Chronically low-achievement motivation (−1 SD)
+
+Chronically high-achievement motivation (+1 SD)
+
+Open in a separate window
+
+Note. The difference column includes comparisons between the chronically high- and low-achievement motivation groups. The difference row includes comparisons between the achievement and control prime conditions.
+
+We also analyzed the effects of chronic achievement motivation within levels of prime. Of interest, achievement motivation had a nonsignificant influence on task preferences in the control-prime condition (b = 0.21, SE = 0.31, ns). However, chronic achievement motivation influenced task preferences in the achievement-prime condition (b = 2.17, SE = 0.58, p < .0001). In contrast to Studies 1 and 2, these findings suggested that chronic achievement motivation may not be expressed in the absence of an achievement reminder. Two different, nonexclusive possibilities may explain this inconsistent effect of chronic achievement motivation across the three studies. On the one hand, it is plausible that chronic achievement motivation may be expressed weakly in the absence of achievement reminders. On the other hand, it is possible that there was reduced power to detect an effect of chronic achievement motivation in Study 3 (vs. Studies 1 and 2) because the study had a dichotomous (vs. continuous) dependent variable.
+
+The results obtained in Study 3 suggested that the same achievement primes elicited a goal to achieve in people with chronically high-achievement motivation but a goal to have fun in people with chronically low-achievement motivation. Following an achievement prime, individuals with chronically high-achievement motivation were more likely to resume the interrupted achievement task, whereas individuals with chronically low-achievement motivation were more likely to switch to the fun task. These results provided evidence to support our theory that achievement motivation is a complex motivational process that involves multiple goals and interactions between achievement stimuli and chronic achievement motivation. In Study 4, we examined the implications of this interpretation on performance.
+
+The goal of Study 4 was to build on and bolster the conclusions drawn from Study 3 concerning achievement- and fun-goal activation following priming and to extend the findings to performance. In particular, Study 4 was designed to test whether framing a task as conducive to achievement or fun moderated responses to achievement priming. Specifically, we introduced a task-framing manipulation after manipulating achievement priming. Note that task framing is conceptually different from achievement priming (for this argument, see Bargh et al., 2001). According to Bargh et al. (2001), achievement primes influence the activation of an achievement goal but fail to influence the way an experimental task is perceived. Moreover, task frames are assumed to change the incentive value of a framed task without instituting a goal (e.g., Atkinson, 1964; Feather, 1982). Consequently, it should be possible to manipulate goals without affecting the perception of a task and to frame a task without instilling a goal.
+
+If achievement priming activates an achievement goal and inhibits a fun goal in individuals with chronically high-achievement motivation, then achievement priming should enhance performance on a task described as achievement related (i.e., diagnostic of ability and challenging). Furthermore, due to the inhibitory effects of the achievement prime on the fun goal, achievement priming may reduce performance on a task framed as fun. More important, neither one of these prime effects was anticipated for a control-framed task (i.e., a mere description of the task) condition that lacks clear implications for achievement and fun.
+
+The effects for participants with chronically low-achievement motivation should mirror those of participants with chronically high-achievement motivation. If achievement priming activates a fun goal and inhibits an achievement goal in individuals with chronically low-achievement motivation, then achievement priming might enhance performance on a task described as entertaining. By contrast, due to the inhibitory effects of the achievement prime on the achievement goal, achievement priming might worsen performance on a task framed as achievement oriented. Neither effect of prime was predicted for a task that lacks a frame (a control-frame condition) because such a task does not have clear implications for either achievement or fun.
+
+Finding that a prime increases (decreases) effort on activities that can aid (hinder) goal progress is key to validating the assumption that goals mediate behavior. Generally, a task framed as facilitating the completion of an activated goal should have a greater incentive value and be more engaging than other tasks. Moreover, a task framed as facilitating the completion of an inhibited goal should have lesser incentive value and produce lesser engagement than other tasks. Behavioral procedures of achievement and fun that are not goal directed should be relatively insensitive to framing a task as conducive to either achievement or fun. After all, achievement priming could also influence achievement behavior by activating achievement-related or fun-related behavioral procedures that operate independently of goals (Aarts & Dijksterhuis, 2003; Bargh, Chen, & Burrows, 1996; Dijksterhuis, Bargh, & Miedema, 2000; Dijksterhuis et al., 1998; Dijksterhuis & van Knippenberg, 1998; for a summary, see Dijksterhuis & Bargh, 2001).
+
+Prior to coming to the lab, participants completed the measure of chronic achievement motivation during pretesting. Then, participants were invited to the lab where they were primed with achievement-denoting words or control words using a supraliminal procedure. Following the priming, participants were given a 5-min filler task (Bargh et al., 2001) to produce a delay and thus strengthen goal priming effects (Atkinson & Birch, 1970; Lewin, 1936). Following the delay, participants completed word-search puzzles to measure achievement behavior. These puzzles were framed so that the participants thought they were designed for achievement (achievement frame) or fun (fun frame). In a control-frame condition, the puzzles were described at a concrete level (e.g., “circling words in a word search”).
+
+Participants and design
+
+Participants were 226 (72 men) students from introductory psychology classes participating in exchange for credit. The design was a 2 (prime: achieve vs. control) × 3 (frame: achievement frame, control frame, and fun frame) × continuous (chronic achievement motivation) factorial, with the number of words found in the word-search puzzles as the dependent variable.
+
+Experimental procedure and materials
+
+All participants completed the chronic-achievement motivation measure during a pre-screening session (coefficient α = .75). Upon arriving to the lab, participants were told that they would be participating in three unrelated tasks that assess verbal ability. Next, participants were randomly assigned to be primed with the achievement or control words using a supraliminal-priming procedure. Specifically, one group searched a word puzzle for synonyms of achievement, whereas the other group searched for control words (see Bargh et al., 2001). In the achievement-prime condition, participants searched a 10 × 10 matrix of letters for the eight synonyms of achieve used in Study 2 and five filler words (e.g., hat, thin, and teeth). In the control-prime condition, participants searched for eight control words in addition to the five filler words. After the priming task, participants completed a filler task that produced a delay between priming and the performance task. This task consisted of drawing a family tree for 5 min. In prior research by Bargh et al. (2001), this task worked by presumably decreasing participants’ reliance on concepts that were previously active while simultaneously not allowing for the satisfaction of the primed-achievement goal. Subsequently, all participants completed word-search puzzles as a measure of performance. These puzzles were the same puzzles used in Study 3. In the achievement-frame condition, participants were told that the task was diagnostic of verbal ability and might predict academic achievement similarly to the SAT and GRE. In the fun-frame condition, participants were told that the task was previously evaluated as fun and enjoyable by a group of University of Florida students. In the control-frame condition, participants were told that the task involved searching for words in a word-search puzzle. After these descriptions, participants worked on the puzzles in separate cubicles until time was called, at which point, they set the puzzles aside. Finally, all participants were probed for awareness of the experiment’s purpose and debriefed.
+
+Results and Discussion
+
+No participants correctly identified the purpose of the experiment, nor thought that the priming task influenced their performance on the word-search puzzles.
+
+Word-search performance
+
+We analyzed the number of words found in the word-search puzzles as a function of the prime, chronic achievement motivation, and task frame using a linear regression analysis with interaction terms. Prior to entering these variables, we dummy-coded task frame because it was a categorical variable with three levels. For example, one dummy code represented a comparison between the fun frame and the other two framing groups (1 = fun, 0 = achievement and control), and the other dummy code represented a comparison between the achievement frame and the other two framing groups (1 = achievement, 0 = fun and control). Note that when these two dummy codes are entered into a regression equation simultaneously, they completely account for the effect of the variable on word-search performance (for more on dummy-coding, see Keith, 2006). We computed interaction terms using this dummy-code system as well. Therefore, each regression analysis had four (vs. two) two-way interaction terms and two (vs. one) three-way interaction terms.
+
+The three independent variables entered at Step 1 reliably predicted scores on word-search performance, F(4, 222) = 3.81, p = .005, R2 = .06. In particular, higher levels of chronic achievement motivation predicted enhanced performance (β = 0.24, p = .002). Also, performance was significantly enhanced in the fun-frame condition relative to the control-frame condition (β = − 0.15, p = .04) and marginally enhanced in the achievement-frame condition relative to the control-frame condition (β = − 0.14, p = .11). The effect of the prime did not achieve significance (β = − 0.05, ns).
+
+Adding the two-way interaction terms in Step 2 improved the predictive power of the model relative to Step 1, ΔF(5, 217) = 7.12, p = .001, ΔR2 = .13. Also, adding the three-way interaction terms in Step 3 further improved the predictive power of the model relative to Step 2, ΔF(2, 215) = 10.17, p = .001, ΔR2 = .07. The significant three-way interaction suggested that the nature of the interaction between chronic achievement and prime depended on task frame (for estimated means, see Table 3). Thus, we analyzed this interaction as a function of task frame. In the fun-frame condition, a significant two-way interaction (β = − 0.63, p = .002) revealed that achievement priming (vs. control) increased performance for individuals with chronically low-achievement motivation (−1 SD; β = 0.43, p = .02) but decreased performance for individuals with chronically high-achievement motivation (+1 SD; β = − 0.29, p = .03). As anticipated, the nature of this interaction between the prime and chronic achievement motivation differed from the interaction present in the control-frame (β = 0.46, p = .05) and achievement-frame conditions (β = 0.49, p = .0001).
+
+Mean Performance (Number of Identified Puzzle Words) as a Function of Prime and Chronic Level of Achievement Motivation: Study 4
+
+Chronically low-achievement motivation (−1 SD)
+
+Chronically high-achievement motivation (+1 SD)
+
+Chronically low-achievement motivation (−1 SD)
+
+Chronically high-achievement motivation (+1 SD)
+
+Chronically low-achievement motivation (−1 SD)
+
+Chronically high-achievement motivation (+1 SD)
+
+Open in a separate window
+
+Note. The difference row includes comparisons between the achievement and control prime conditions.
+
+In the achievement-frame condition, a significant two-way interaction (β = − 0.84, p = .001) showed that achievement priming (vs. control) reduced performance for individuals with chronically low-achievement motivation (β = − 0.23, p = .04) but improved performance for individuals with chronically high-achievement motivation (β = 0.76, p = .01). Notably, this interactive effect differed from the interaction obtained in the control-frame condition (β = − 0.49, p = .01). In fact, the interaction between prime and achievement motivation failed to achieve significance in the control-frame condition (β = − 0.04, ns), and, in this condition, the effect of the prime was absent for individuals with chronically high-achievement motivation (β = 0.04, ns) and individuals with chronically low-achievement motivation (β = 0.08, ns).
+
+We also analyzed effects of chronic achievement motivation within levels of prime at each level of task frame. In the fun-frame condition, chronic achievement motivation had a marginally significant positive relation to task performance in the control-prime condition (β = 0.27, p = .08). Furthermore, chronic achievement motivation had a negative relation to task performance in the achievement-prime condition (β = − 0.42, p = .01). In contrast, in the achievement-frame condition, chronic achievement motivation had a positive relation to performance regardless of the content of the prime, albeit the size of this relation varied depending on the content of the prime (for control prime, β = 0.45, p = .04; for achievement prime, β = 1.37, p = .001). In the control-frame condition, chronic achievement motivation had no relation to task performance regardless of the content of the prime (for control prime, β = 0.22, ns; for achievement prime, β = 0.05, ns). These data support our earlier conclusion that achievement reminders accentuate the goal orientations associated with achievement stimuli. On the issue of whether chronic achievement motivation is expressed when achievement reminders are absent, these data suggest a weak expression. For example, when achievement reminders were absent, the relation between chronic achievement motivation and performance was only significant in the achievement-frame condition and approached significance in the fun-frame condition.
+
+The data obtained in Study 4 were useful to understand the mechanisms underlying the earlier preferences for achievement and fun tasks exhibited by participants with low- and high-chronic achievement motivation after priming. In particular, the findings suggested that achievement priming caused participants with chronically low-achievement motivation to pursue a fun goal and inhibit an achievement goal. As expected, after achievement (vs. control) priming, this group of participants performed better in the fun-frame condition and performed worse in the achievement-frame condition. Correspondingly, the results also suggested that achievement priming caused participants with chronically high-achievement motivation to pursue an achievement goal and inhibit a fun goal. After achievement (vs. control) priming, chronically high-achievement motivation participants performed better in the achievement-frame condition and worse in the fun-frame condition. Also, Study 4 was valuable in suggesting a way to enhance performance in individuals with low- and high-chronic achievement motivation. Individuals with chronically low-achievement motivation might perform best in achievement settings when these settings highlight the fun aspects of tasks, but individuals with chronically high-achievement motivation might perform best when characteristics of the settings highlight the competency-based aspects of tasks.
+
+Finally, the data were also important in demonstrating that the achievement prime was critical in producing the regulation of fun and achievement goals. In the absence of achievement reminders, chronic achievement motivation tended to positively correlate with performance in both the achievement- and fun-frame conditions. This insensitivity to framing implies no attempt to regulate fun and achievement goals. In the presence of achievement reminders, however, chronic achievement motivation positively correlated with performance in the achievement-frame condition but negatively correlated with performance in the fun-frame condition. This sensitivity suggests strategic engagement (disengagement) on tasks that can promote (hinder) progress toward achievement and fun goals, and thereby demonstrates attempts to regulate the two goals.
+
+As judged from the high rates of truancy in high school (McNeal, 1999), achievement settings do not seem to instill achievement goals in all individuals and may instead remind people of their need to have fun through leisure behavior. In achievement settings, options to achieve or have fun are typically available and may be differentially selected as a function of people’s level of chronic achievement motivation. In an initial study, we found evidence that individuals with chronically low-achievement motivation prioritize fun seeking over achievement seeking, whereas individuals with chronically high-achievement motivation prioritize achievement seeking over fun seeking. Study 2 showed that achievement (vs. control) priming enhanced tendencies to prioritize achievement over fun in individuals with chronically high-achievement motivation. Furthermore, achievement (vs. control) priming enhanced tendencies to prioritize fun over achievement in individuals with chronically low-achievement motivation. In Study 3, achievement priming (vs. control) increased the likelihood of resuming an achievement-framed task in high-achievement motivation participants but increased the likelihood of switching to a fun-framed task in low-achievement motivation participants.
+
+Study 4 highlighted that the influence of the primes on behavior was motivationally driven as opposed to the result of mere cognitive activation. Consistent with the expected hydraulic pattern for fun-goal activation and achievement-goal inhibition, achievement priming caused people with chronically low-achievement motivation to perform better on a task described as conducive to fun but worse on a task described as conducive to achievement or described in a neutral way. Also, consistent with the anticipated hydraulic pattern, people with chronically high-achievement motivation performed better on a task described as conducive to achievement relative to the control-frame or fun-frame conditions. These findings imply a goal-directed state in both groups of participants because both groups seemed sensitive to the contribution of the task to the presumed goal they were pursuing. Furthermore, they suggest a way to promote high performance among both achievement groups.
+
+In line with the Person × Situation framework (e.g., Mischel & Shoda, 1995), Studies 2– 4 provided conclusive evidence that achievement reminders were critical in producing the effect of chronic achievement motivation on achievement- versus fun-seeking outcomes. Yet, the association between chronic achievement motivation and achievement versus fun behavior in the absence of achievement priming was only significant in Study 1, Study 2, and in the achievement-frame condition of Study 4. As weak effects often produce inconsistent results, we computed a weighted mean correlation between chronic achievement motivation and achievement behavior across the four studies (Hedges & Olkin, 1985). This meta-analysis revealed r = .28, SE = .05, z = 5.60, p = .001, and therefore suggested that chronic achievement motivation is expressed weakly in the absence of achievement reminders.
+
+Our Findings in the Context of Prior Literatures
+
+There are differences and similarities between our results and those found in research on achievement motivation, goal shielding, and the area of priming and chronic-goal accessibility. These differences and similarities are discussed below along with a description of opportunities for future research.
+
+Theoretical Advances to Achievement Motivation
+
+This research suggests that achievement motivation is part of a broader motivational system that can allow an achievement goal and a fun goal to influence performance in achievement situations. In this way, our model reflects a departure from classic achievement goal theorizing, which discussed achievement in the exclusive context of achievement goals (e.g., Dweck, 1986; Nicholls, 1984). For example, most achievement goal theorists propose two conceptually distinct competency-based achievement goals that influence achievement behavior: A learning goal is oriented toward the development of task competence, and a performance goal is oriented toward the demonstration of task competence (for additional refinements to this approach, see Elliot, 1999; Elliot & McGregor, 2001). Our model adds to this prior theorizing by placing achievement motivation in the context of a dynamic interplay for goals to seek achievement versus fun (Kruglanski et al., 2002; McClelland, 1965).
+
+Goal Activation Versus Goal Shielding
+
+Unhealthy foods like donuts and cookies increase a successful dieter’s motivation to eat healthily and stick to a strict diet (Fishbach et al., 2003). In contrast, these foods increase motivation to indulge among unsuccessful dieters. Of interest, this past finding was interpreted as suggesting that past success at dieting predicts successful automatic avoidance of temptation (a behavioral procedure). In light of our findings, however, this past result may also imply that successful dieters activate a goal to diet (i.e., avoiding unhealthy foods when confronted with them), whereas unsuccessful dieters inhibit the goal to diet in response to situational prompts. Although activation of a goal and behavioral procedures may coexist, goal mediation is worth investigating in the domain of dieting.
+
+Chronic Accessibility and Achievement Motivation
+
+Our research on chronic achievement motivation seems distinct from other research on chronicgoal accessibility. In particular, research by Levesque and Pellitier (2003) has shown that goal primes are effective for individuals with low-chronic goal accessibility but have no effect on individuals with high-chronic goal accessibility. An implication for the present work is therefore that achievement goals were not chronically accessible in our studies. That is, although chronic achievement motivation was either low or high, achievement goal activation required achievement primes.
+
+Even though the present research does not address achievement-goal accessibility, future research should investigate this topic. For example, the accessibility of achievement goals can be measured using free-response measures (e.g., Higgins, King, & Mavin, 1982; Levesque & Pellitier, 2003; see also McClelland & Atkinson, 1948; Murray, 1938). Such measures may confirm that achievement priming and chronic accessibility interact to determine achievement goal adoption. Particularly, priming might more effectively activate achievement goals when chronic achievement-goal accessibility is low (e.g., Levesque & Pellitier, 2003).
+
+Fun Goal Adoption and Other Processes at Play in Chronically Low Achievers
+
+Our results suggest that the performance deficits in individuals with chronically low-achievement motivation are driven by the adoption of a fun goal along with the inhibition of an achievement goal. However, other processes can also be at play, and these processes may contribute uniquely to poor performance. For example, previous research on self-handicapping has shown that people impose roadblocks to their own performance (e.g., excessive alcohol consumption, lack of sleep, and lack of preparation), especially when they expect to perform poorly (Self, 1990; Shepperd & Arkin, 1991). Self-handicapping is presumably triggered by a self-protection goal (Self, 1990), yet the process can also be driven by a goal to have fun. For example, self-handicapping can eliminate achievement concerns (“I cannot possibly do well anyway”), which might promote the ability to have fun.
+
+Furthermore, individuals with chronically low-achievement motivation may intentionally sabotage their own performance to maintain their image as a low achiever. For example, test takers with low initial expectations of success but who received positive performance feedback (vs. negative feedback) intentionally decreased their performance on a subsequent version of the test (Aronson & Carlsmith, 1962). Apparently, people with low expectations sabotage their performance to restore consistency between their prior failure expectations and their surprising success. A similar process might be at play for individuals with chronically low-achievement motivation who aim to restore faith in their image as fun-loving versus achievement-oriented people (Schlenker, 1980).
+
+If situational factors stimulate goal activation only when certain chronic personal motivations are in place, goal activation may be contingent on other internal factors. For example, before a situational stimulus can activate a goal, arousal may need to be sufficiently high to facilitate goal pursuit. Given that organisms function with a limited amount of resources, people may reduce goal-mediated behavior when resources or arousal are low (e.g., consider ego depletion; Baumeister, Bratslavsky, Muraven, & Tice, 1998). For example, when a person experiences fatigue, an achievement prime may produce achievement-goal inhibition instead of achievement-goal activation.
+
+External factors other than the primes may be critical as well. Adopting an achievement goal may require verifying that achievement is possible in the present situation. For instance, effortful engagement in a task that is likely to yield failure can only produce frustration. As a result, expending effort only when there is a high (or moderate) probability of success would be more adaptive than indiscriminately expending effort (for suggestive findings, see Levy, 1996). In the future, this hypothesis could be investigated by assessing whether degree of effort is a function of achievement priming along with the environmental facilitation of success. If goal activation makes individuals sensitive to situational conditions, then achievement (vs. control) priming should produce greater engagement if the environment facilitates success, as well as greater disengagement if the environment blocks success. In fact, the results of our Study 4 seem consistent with this hypothesis.
+
+Practical Implications
+
+Like most experimental work, our studies possess some shortcomings. First, achievement motivation is a complex construct, and our results are specific to the satisfaction gained through a job well done. Second, the use of college students limits generalizing our findings to other populations. It is important to note, however, that the ability to obtain effects of achievement motivation within a typically high-achievement motivation population (i.e., college students) implies that these effects may be even stronger among other populations with more variability in achievement motivation. Third, although in theory our results should be relevant to any task that is framed as an achievement task or a fun task, we used a limited set of cognitive tasks and measures. More future work will render greater confidence in the generality of our findings.
+
+Our findings suggest practical advice to employers, teachers, coaches, and others who try to motivate audiences. Often, companies initiate competitions for employees to see who can sell more products; coaches have players compete with each other to decide who will get playing time; teachers give the best students the most praise. In light of our findings, all of these strategies are likely to be successful for individuals with chronically high-achievement motivation. At the same time, leaders need to be aware that individuals with chronically low-achievement motivation benefit from a fun and relaxing environment and may do their worst when competition and performance are stressed.
+
+Since antiquity, two antithetical philosophical schools have debated the role that ambition plays in optimal human development and happiness. One of these notions, espoused by the Stoics (e.g., Epicurius) and Eastern philosophy (e.g., Buddhism), posits that human happiness is achieved by making oneself impervious to the ups and downs of daily living. This perspective supports disengaging from ambitious pursuits. In contrast to this proposal, another school posits that goals give structure and function to our lives (Carver & Scheier, 1998; Locke & Latham, 2002). Consequently, optimal human performance is achieved by striving to meet lofty goals that enhance our lives.
+
+Our research suggests that achievement priming can have either of these effects, depending on the person. Although some past theories stated that behavior was predominantly controlled by either personal factors (e.g., Allport, 1937; Bruner, 1957; Hastorf & Cantril, 1954) or environmental factors (Darley & Latane, 1968; Milgram, 1963; Thorndike, 1905), neither aspect is sufficient to explain most human behavior (S. Epstein, 1979; Schlenker, 1980, 1985). In the case of achievement, when individuals are chronically motivated to achieve, a reminder of achievement increases the resolve to accomplish it. However, when individuals are chronically unmotivated to achieve, a reminder of achievement increases a resolve to live a more fun existence.
+
+The research was facilitated by National Institutes of Health Grants K02-MH01861 and R01-NR08325. We thank Brian Cline, Josh Leeper, and Josh Gellers, as well as the undergraduate research assistants working in the senior author’s lab during the academic years 2004–2008 for their invaluable assistance with this project. We also thank the Attitudes Lab at the University of Florida and the Social Action Lab at the University of Illinois for a discussion of the ideas reported in this article and John Chambers, Ira Fischler, and K. C. McCulloch for comments on an earlier manuscript on this topic.
+
+1It is noteworthy that our coefficient alphas for the excellence motivation scale are greatly improved from the alphas obtained by Cassidy and Lynn (1989). The improvement in reliability likely stems from our use of a 5-point scale rather than the 2-point scale used in their analyses (for a discussion of scale points and reliability see Krosnick, Judd, & Wittenbrink, 2005).
+
+2To do this, we subtracted one from the z-scored chronic-achievement motivation index prior to regressing it on achievement–fun goal prioritization. As a result, the constant in the regression model was the mean prioritization score with a given standard error for individuals with chronically high-achievement motivation. (We used this technique throughout the article whenever it was appropriate to test predicted values against a standard.)
+
+3Data from 2 participants were discarded because they reported that they finished the puzzle task. Thus, these participants did not have to make a choice but rather were forced to proceed to the cartoon task. In addition, 3 participants were excluded because they apparently did not pay attention during the priming task. Specifically, they showed lower than 90% accuracy when judging whether a presented letter string ended in a vowel or consonant. Discarding the data from these 5 participants did not alter the direction of the reported effects.
+
+Contributor Information
+
+William Hart, Department of Psychology, University of Florida.
+
+Dolores Albarracín, Department of Psychology, University of Illinois at Urbana–Champaign.
+
+Aarts H, Dijksterhuis A. The silence of the library: Environment, situational norm, and social behavior. Journal of Personality and Social Psychology. 2003;84:18–28. [PubMed] [Google Scholar]
+
+Allport GW. Personality: A psychological interpretation. New York: Henry Holt; 1937. [Google Scholar]
+
+Ames C. Competitive, cooperative, and individualistic goal structures: A cognitive-motivational analysis. In: Ames C, Ames R, editors. Research on motivation in education. Vol. 3. New York: Academic Press; 1984. pp. 177–207. [Google Scholar]
+
+Arsonson E, Carlsmith JM. Performance expectancy as a determinant of actual performance. The Journal of Abnormal and Social Psychology. 1962;65:178–182. [PubMed] [Google Scholar]
+
+Atkinson JW. An introduction to motivation. Princeton, NJ: Van Nostrand; 1964. [Google Scholar]
+
+Atkinson JW, Birch D. The dynamics of action. New York: Wiley; 1970. [PubMed] [Google Scholar]
+
+Bargh JA. Auto-motives: Preconscious determinants of thought and behavior. In: Higgins ET, Sorrentino RM, editors. Handbook of motivation and cognition. Hillsdale, NJ: Erlbaum; 1990. pp. 1–40. [Google Scholar]
+
+Bargh JA, Barndollar K. Automaticity in action: The unconscious as repository of chronic goals and motives. In: Gollwitzer PM, Bargh JA, editors. The psychology of action. New York: Guilford Press; 1996. pp. 457–471. [Google Scholar]
+
+Bargh JA, Chen S, Burrows L. Automaticity of social behavior: Direct effects of trait construct and stereotype activation on action. Journal of Personality and Social Psychology. 1996;71:230–244. [PubMed] [Google Scholar]
+
+Bargh JA, Gollwitzer PM, Lee-Chai A, Barndollar K, Troetschel R. The automated will: Nonconscious activation and pursuit of behavioral goals. Journal of Personality and Social Psychology. 2001;81:1014–1027. [PMC free article] [PubMed] [Google Scholar]
+
+Baumeister RF, Bratslavsky E, Muraven M, Tice DM. Ego depletion: Is the active self a limited resource? Journal of Personality and Social Psychology. 1998;74:1252–1265. [PubMed] [Google Scholar]
+
+Bruner JS. On perceptual readiness. Psychological Review. 1957;64:123–152. [PubMed] [Google Scholar]
+
+Carver CS, Scheier MF. On the self-regulation of behavior. New York: Cambridge University Press; 1998. [Google Scholar]
+
+Cassidy T, Lynn R. A multifactorial approach to achievement motivation: The development of a comprehensive measure. Journal of Occupational Psychology. 1989;62:301–312. [Google Scholar]
+
+Cohen J, Cohen P. Applied multiple regression/correlation analysis for the behavioral sciences. Hillsdale, NJ: Erlbaum; 1983. [Google Scholar]
+
+Darley JM, Latane B. Bystander intervention in emergencies: Diffusion of responsibility. Journal of Personality and Social Psychology. 1968;8:377–383. [PubMed] [Google Scholar]
+
+Deal TE, Kennedy AA. Corporate cultures: The rites and rituals of corporate life. Reading, MA: Addison-Wesley; 1982. [Google Scholar]
+
+Dijksterhuis A, Bargh JA. The perception-behavior expressway: Automatic effects of social perception on social behavior. In: Zanna MP, editor. Advances in experimental social psychology. San Diego, CA: Academic Press; 2001. pp. 1–40. [Google Scholar]
+
+Dijksterhuis A, Bargh JA, Miedema J. Of men and mackerels: Attention and automatic behavior. In: Bless H, Forgas JP, editors. Subjective experience in social cognition and behavior. Philadelphia: Psychology Press; 2000. pp. 36–51. [Google Scholar]
+
+Dijksterhuis A, Spears R, Postmes T, Stapel DA, Koomen W, van Knippenberg A, Scheepers D. Seeing one thing and doing another: Contrast effects in automatic behavior. Journal of Personality and Social Psychology. 1998;75:862–871. [Google Scholar]
+
+Dijksterhuis A, van Knippenberg A. The relation between perception and behavior or how to win a game of Trivial Pursuit. Journal of Personality and Social Psychology. 1998;74:865–877. [PubMed] [Google Scholar]
+
+Dweck C. Motivational processes affecting learning. American Psychologist. 1986;41:1040–1048. [Google Scholar]
+
+Elliot AJ. Integrating the classic and contemporary approaches to achievement motivation: A hierarchical model of approach and avoidance achievement motivation. In: Maehr ML, Pintrich PR, editors. Advances in motivation and achievement. Vol. 10. Greenwich, CT: JAI Press; 1997. pp. 143–179. [Google Scholar]
+
+Elliot AJ. Approach and avoidance motivation and achievement goals. Educational Psychologist. 1999;34:169–189. [Google Scholar]
+
+Elliot AJ. A conceptual history of the achievement goal construct. In: Elliot A, Dweck C, editors. Handbook of competence and motivation. New York: Guilford Press; 2005. pp. 52–72. [Google Scholar]
+
+Elliot AJ, Church M. A hierarchical model of approach and avoidance achievement motivation. Journal of Personality and Social Psychology. 1997;72:218–232. [PubMed] [Google Scholar]
+
+Elliot AJ, Harackiewicz JM. Goal setting, achievement orientation, and intrinsic motivation: A mediational analysis. Journal of Personality and Social Psychology. 1994;66:968–980. [PubMed] [Google Scholar]
+
+Elliot AJ, McGregor H. A 2 × 2 achievement goal framework. Journal of Personality and Social Psychology. 2001;80:501–519. [PubMed] [Google Scholar]
+
+Epstein JA, Harackiewicz JM. Winning is not enough: The effects of competition and achievement orientation on intrinsic interest. Personality and Social Psychology Bulletin. 1992;18:128–139. [Google Scholar]
+
+Epstein S. Stability of behavior: On predicting most of the people much of the time. Journal of Personality and Social Psychology. 1979;37:1097–1126. [Google Scholar]
+
+Feather NT. Values, expectations, and the prediction of social action: An expectancy-valence analysis. Motivation and Emotion. 1982;6:217–244. [Google Scholar]
+
+Fishbach A, Ferguson MJ. The goal construct in social psychology. In: Kruglanski AW, Higgins ET, editors. Social psychology: Handbook of basic principles. New York: Guilford Press; 2007. pp. 490–515. [Google Scholar]
+
+Fishbach A, Friedman RS, Kruglanski AW. Lead us not unto temptation: Momentary allurements elicit overriding goals. Journal of Personality and Social Psychology. 2003;84:296–309. [PubMed] [Google Scholar]
+
+Fitzsimons GM, Bargh JA. Thinking of you: Nonconscious pursuit of interpersonal goals associated with relationship partners. Journal of Personality and Social Psychology. 2003;84:148–164. [PMC free article] [PubMed] [Google Scholar]
+
+Greenwald AG, Breckler SJ. To whom is the self presented? In: Schlenker BR, editor. The self and social life. New York: McGraw-Hill; 1985. pp. 126–145. [Google Scholar]
+
+Greenwich C. Fun and gains: Motivate and energize staff with workplace games, contests and activities. New York: McGraw-Hill; 2001. [Google Scholar]
+
+Harackiewicz JM, Elliot AJ. Achievement goals and intrinsic motivation. Journal of Personality and Social Psychology. 1993;65:904–915. [PubMed] [Google Scholar]
+
+Hassin RR. Nonconscious control and implicit working memory. In: Hassin RR, Uleman JS, Bargh JA, editors. The new unconscious. New York: Oxford University Press; 2005. pp. 196–222. [Google Scholar]
+
+Hastorf AH, Cantril H. They saw a game: A case study. Journal of Abnormal and Social Psychology. 1954;49:129–134. [PubMed] [Google Scholar]
+
+Hedges LV, Olkin I. Statistical methods for meta-analysis. Orlando, FL: Academic Press; 1985. [Google Scholar]
+
+Higgins ET, King GA, Mavin GH. Individual construct accessibility and subjective impressions and recall. Journal of Personality and Social Psychology. 1982;43:35–47. [Google Scholar]
+
+Ingersoll S, LeBoeuf D. Reaching out to youth out of the education mainstream [Bulletin] Washington, DC: U.S. Department of Justice, Office of Justice Programs, Office of Juvenile Justice and Delinquency Prevention; 1997. [Google Scholar]
+
+Keith TZ. Multiple regression and beyond. Boston: Allyn & Bacon; 2006. [Google Scholar]
+
+Krosnick JA, Judd CM, Wittenbrink B. The measurement of attitudes. In: Albarracín D, Johnson BT, Zanna MP, editors. The handbook of attitudes. Mahwah, NJ: Erlbaum; 2005. pp. 21–76. [Google Scholar]
+
+Kruglanski AW, Shah JY, Fishbach A, Friedman RS, Chun WY, Sleeth-Keppler D. A theory of goal systems: Implications for social cognition, affect, and action. In: Zanna M, editor. Advances in experimental social psychology. Vol. 34. New York: Academic Press; 2002. pp. 331–376. [Google Scholar]
+
+Levesque CS, Pellitier LG. On the investigation of primed and chronic autonomous and heteronomous motivational orientations. Personality and Social Psychology Bulletin. 2003;29:1570–1584. [PubMed] [Google Scholar]
+
+Levy B. Improving memory in old age through implicit self-stereotyping. Journal of Personality and Social Psychology. 1996;71:1092–1107. [PubMed] [Google Scholar]
+
+Lewin K. Principles of topological psychology. New York: McGraw-Hill; 1936. [Google Scholar]
+
+Locke EA, Latham GP. Building a practically useful theory of goal setting and task motivation. American Psychologist. 2002;57:705–717. [PubMed] [Google Scholar]
+
+McClelland DC. Personality. New York: William Sloane Associates; 1951. [Google Scholar]
+
+McClelland DC. The achieving society. Princeton, NJ: Van Nostrand; 1961. [Google Scholar]
+
+McClelland DC. Toward a theory of motive acquisition. American Psychologist. 1965;20:321–333. [PubMed] [Google Scholar]
+
+McClelland DC. Human motivation. Glenview, IL: Scott Foresman; 1985. [Google Scholar]
+
+McClelland DC, Atkinson JW. The projective expression of needs: I. The effect of different intensities of the hunger drive on perception. Journal of Psychology. 1948;25:205–232. [PubMed] [Google Scholar]
+
+McClelland DC, Atkinson JW, Clark RW, Lowell EL. The achievement motive. New York: Appleton-Century-Crofts; 1953. [Google Scholar]
+
+McNeal RB. Parental involvement as social capital: Differential effectiveness on science achievement, truancy, and dropping out. Social Forces. 1999;78:117–144. [Google Scholar]
+
+Milgram S. Behavioral study of obedience. Journal of Abnormal and Social Psychology. 1963;67:371–378. [PubMed] [Google Scholar]
+
+Mischel W, Shoda Y. A cognitive-affective system theory of personality: Reconceptualizing situations, dispositions, dynamics, and invariance in personality structure. Psychological Review. 1995;102:246–268. [PubMed] [Google Scholar]
+
+Murray HA. Exploration in personality. New York: Oxford University Press; 1938. [Google Scholar]
+
+Nicholls JG. Achievement motivation: Conceptions of ability, subjective experience, task choice, and performance. Psychological Review. 1984;91:328–346. [Google Scholar]
+
+Piedmont RL. The relationship between achievement motivation, anxiety, and situational characteristics on performance on a cognitive task. Journal of Research in Personality. 1988;22:177–187. [Google Scholar]
+
+Rees M. Achievement motivation and content preferences. Journalism Quarterly. 1967;44:688–692. [Google Scholar]
+
+Roberts BW, Pomerantz EM. On traits, situations, and their integration: A developmental perspective. Personality and Social Psychology Review. 2004;8:402–416. [PubMed] [Google Scholar]
+
+Sarason IG, Sarason BR. Test anxiety. In: Leitenberg H, editor. Handbook of social and evaluative anxiety. New York: Plenum Press; 1990. pp. 475–496. [Google Scholar]
+
+Schlenker BR. Impression management: The self-concept, social identity, and interpersonal relations. Monterey, CA: Brooks/Cole; 1980. [Google Scholar]
+
+Schlenker BR. Identity and self-identification. In: Schlenker BR, editor. The self and social life. New York: McGraw-Hill; 1985. pp. 65–99. [Google Scholar]
+
+Self EA. Situational influences on self-handicapping. In: Higgins RL, Snyder CR, Berglas S, editors. Self-handicapping: The paradox that isn’t. New York: Plenum Press; 1990. pp. 36–78. [Google Scholar]
+
+Shah JY. Automatic for the people: How representations of significant others implicitly affect goal pursuit. Journal of Personality and Social Psychology. 2003;84:661–681. [PubMed] [Google Scholar]
+
+Shah JY, Kruglanski AW. Structural dynamics: The challenge of change in goal systems. In: Shah JY, Gardner W, editors. Handbook of motivational science. New York: Guilford Press; 2007. pp. 217–229. [Google Scholar]
+
+Shepperd JA, Arkin RM. Behavioral other-enhancement: Strategically obscuring the link between performance and evaluation. Journal of Personality and Social Psychology. 1991;60:79–88. [Google Scholar]
+
+Spielberger C. Anxiety as an emotional state. In: Spielberger C, editor. Anxiety: Current trends in theory and research. Vol. 1. New York: Academic Press; 1972. pp. 23–49. [Google Scholar]
+
+Taber JI, Russo AM, Adkins BJ, McCormick RA. Ego strength and achievement motivation in pathological gamblers. Journal of Gambling Behavior. 1986;2:69–80. [Google Scholar]
+
+Thompson T, Davidson JA, Barber JG. Self-worth protection in achievement motivation: Performance effects and attributional behaviour. Journal of Educational Psychology. 1995;87:598–610. [Google Scholar]
+
+Thorndike EL. Elements of psychology. New York: A. G. Seiler; 1905. [Google Scholar]
+
+Trope Y. Seeking information about one’s own ability as a determinant of choice among tasks. Journal of Personality and Social Psychology. 1975;32:1004–1013. [Google Scholar]
+
+Wentzel KR. Adolescent classroom goals, standards for performance, and academic achievement: An interactionist perspective. Journal of Educational Psychology. 1989;81:131–142. [Google Scholar]
+
+Cited by other articles
+
+Links to NCBI Databases
+
+Copy Download .nbib .nbib

@@ -1,0 +1,123 @@
+Skip to main contentSkip to article
+
+Access through your organization
+
+Advances in Space Research
+
+Volume 37, Issue 9, 2006, Pages 1823-1827
+
+Ethical and medical dilemmas of space tourism
+
+Author links open overlay panelMelinda Marsh 1Show more
+
+https://doi.org/10.1016/j.asr.2006.03.001Get rights and content
+
+Space tourism is an important new venture, however it raises several issues that must be addressed; namely, the medical implications associated with space flight and potential for ethical problems surrounding the safety of such travel. It seems highly likely that businesses involved in space tourism could find themselves liable for any passenger deaths or injuries, if they are found to have been negligent. This paper, therefore, discusses such issues as the medical facilities that need to be made available on board a space facility, and the companies’ duty to disclose to potential passengers the risks associated with microgravity and the likelihood of space sickness, loss of bone density, disease, and pregnancy.
+
+With every new business come new ethical considerations, particularly in ground-breaking industries where no current regulations exist. Even in industries that are well established, there are grey areas separating the minimum required by law and what is ethically responsible. If a company does not provide the minimum facilities required by law, the regulating agencies can fine them. If a company does meet its legal requirements but does not surpass them, that company risks litigation, or at least bad publicity. Conversely, a company that adopts excessively ethical behaviors can face far higher start-up cost, although their caution could be work out to be cheaper in the longer term.
+
+In the fledgling field of space tourism, new companies are being confronted with major problems relating to the current lack of industry regulations. Since there are no regulating bodies, CEOs who do not have a strong personal code of ethics may be tempted to cut corners and hope for the best. This is an unwise decision given the space tourism industry’s potential for disaster. What if a private-sector Challenger or Columbia disaster occurred? What if SpaceShipOne had exploded or crashed while it was on one of its X-prize flights? An explosion caught live on television would certainly spell doom for the space tourism industry, as it would no doubt severely reduce the enthusiasm of the 35–80% of people who claim they would like to go into space one day (2002). Likewise, it would reinforce the fears of those whose prime concern is safety (Berinstein, 2002).
+
+Space hotels are another fledgling industry that may very well suffer due to the current blur between ethics and legality, as “space hotel” regulations are neither well designed nor well developed at this stage. This is unfortunate since safety and medical guidelines should be of paramount importance due to the extreme nature of space travel. It is therefore difficult to imagine what is likely to be the minimum legal requirements for safe travel from a biomedical standpoint. In order to provide an experience that is enjoyable as well as safe, various medical dilemmas need to be considered, such as what to do in the event of a medical emergency, and the general disclosures that should be provided because of possible physiological changes due to microgravity. The information that follows is of particular interest to start up space businesses which will require more risk acceptance on the part of the tourists. As space tourism becomes more commonplace and more studies are performed, it is likely that the risks will be better understood and mature space businesses may not need to worry as much about the risks to their customers.
+
+All transportation systems, regardless of their type, must provide medical treatment in the event of an emergency. While there are currently no international regulations listing liabilities for a space business if medical care is not provided, there are conventions listing other transportation systems’ liabilities that can be used as a framework in the event of passenger death or injury. The “Convention for the Unification of Certain Rules Relating to International Carriage by Air” (Warsaw
+
+Although the medical facilities described above would, one hopes, reduce the likelihood of passenger deaths, a space business should nevertheless disclose the health risks involved in space travel, which include the loss of bone density due to the loss of calcium, decreased muscle strength, decreased blood plasma, decreased cardiovascular efficiency, increased risk of kidney stones, increased exposure to radiation, and immune system suppression (Williams, 2003). These health risks can lead to
+
+Shortly after the arrival of astronauts into space, most suffer a syndrome called “Space Adaptation Sickness”. This is similar to the motion sickness suffered by passengers on airlines, and is caused by disorientation and the brain’s inability to reconcile what it is experiencing and the sensation of orientation provided by the inner ear. Various different sensory perceptions lead to dizziness, nausea, and vomiting, however most of the symptoms of space sickness can be reduced with anti-nausea
+
+Space is a dangerous environment and the legal minimums required for space tourism have yet to be established. If a business is to operate ethically in space, first it has to establish what the dangers are and what its liabilities might be. Since space tourism is largely unregulated at present, companies would be well advised to consider the liabilities of other tourism areas and strive to surpass their minimums to ensure the safety of their passengers. Provided that passengers are aware of the
+
+Recommended articles
+
+Planning strategies for development of effective exercise and nutrition countermeasures for long-duration space flight
+
+I.B. Kozlovskaya et al.
+
+Some approaches to medical support for Martian expedition
+
+E. Messerschmid et al.
+
+The European astronaut centre prepares for international space station operations
+
+C.A. Nickerson et al.
+
+Low-shear modeled microgravity: a global environmental regulatory signal affecting bacterial gene expression, physiology, and pathogenesis
+
+J. Microbiol. Methods
+
+The fetus cannot exercise like an astronaut: gravity loading is necessary for the physiological development during second half of pregnancy
+
+Athens Convention relating to the Carriage of Passengers and their Luggage by Sea. Retrieved Dec 6, 2004, from...
+
+There are more references available in the full text version of this article.
+
+Psychology of space tourism marketing, technology, and sustainable development: From a literature review to an integrative framework
+
+2023, Psychology and Marketing
+
+The Normative Challenges of AI in Outer Space: Law, Ethics, and the Realignment of Terrestrial Standards
+
+2023, Philosophy and Technology
+
+Sustainability dimensions in space tourism: the case of Finland
+
+2022, Journal of Sustainable Tourism
+
+Progress in space tourism studies: a systematic literature review
+
+2022, Tourism Recreation Research
+
+The role of artificial intelligence (AI) in space healthcare
+
+2020, Aerospace Medicine and Human Performance
+
+Gravity Deprivation: Is It Ethical for Optimal Physiology?
+
+2020, Frontiers in Physiology
+
+View all citing articles on Scopus
+
+Present address: 210 Riverbrooke Terrace, Covington, GA 30016, USA. This paper grew out of a class project for Space Studies 570: “Ethics and Space Commerce” taught in Fall 2004.View full text
+
+Recommended articles
+
+Space resource activities and the evolution of international space law
+
+Acta Astronautica, Volume 211, 2023, pp. 155-162
+
+Melissa de Zwart, …, Michelle Neumann
+
+Radiation risk assessment for varying space weather conditions for very high altitude 'near space' tourism balloon flights
+
+Journal of Space Safety Engineering, Volume 10, Issue 2, 2023, pp. 197-207
+
+C.T. Rees, …, B. Clewer
+
+Environmental sustainability of future proposed space activities
+
+Acta Astronautica, Volume 200, 2022, pp. 329-346
+
+Loïs Miraux, …, Guillermo J. Dominguez Calabuig
+
+How “Rad” Is a Trip to Space? A Brief Discussion of Radiation Exposure in Suborbital Space Tourism
+
+Journal of the American College of Radiology, Volume 18, Issue 1, Part B, 2021, pp. 225-228
+
+David J. Lerner, Jonathan M. Gorog Jr.
+
+Point-to-point suborbital space tourism motivation and willingness to fly
+
+Annals of Tourism Research Empirical Insights, Volume 5, Issue 1, 2024, Article 100119
+
+Brian T. Musselman, …, Keith J. Ruskin
+
+From new space to big space: How commercial space dream is becoming a reality
+
+Acta Astronautica, Volume 166, 2020, pp. 431-443
+
+Gil Denis, …, Sandrine Toulza
+
+Show 3 more articles
+
+View article metrics

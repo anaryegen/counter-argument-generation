@@ -1,0 +1,279 @@
+Revue internationale de philosophie
+
+Numéro 2012/4 (n° 262)
+
+A theory of fictional entities...
+
+A theory of fictional entities based on denoting concepts
+
+Suivre cet auteur Francesco Orilia
+
+Dans Revue internationale de philosophie 2012/4 (n° 262), pages 577 à 592
+
+format_quote Citer ou exporter Ajouter à une liste Suivre cette revue
+
+file_downloadTélécharger
+
+file_downloadTélécharger
+
+1Fictional works are human productions (texts, theatrical performances, movies and the like) that convey (fictional) stories. Such stories may be referred to by the same terms we use for the fictional works that convey them. Thus, e.g., Collodi’s The Adventures of Pinocchio or the Walt Disney movie Pinocchio are stories. The existence of stories and our discourses about them suggest that there are fictional entities (characters) to which we refer by means of singular terms, typically proper names or definite descriptions (implicitly) present in fictional works, e.g., “Pinocchio” and “the best friend of Sherlock Holmes,” or by means of definite descriptions that involve an explicit reference to a story, e.g., “the Ulysses of The Odyssey” and “the Ulysses of The Divine Comedy.”
+
+2I would like to present a theory about the nature of fictional entities that identifies them with properties, more specifically, following Cocchiarella, [1] properties characterizable as denoting (or referential) concepts. I shall first motivate this line from a very general perspective and then move to the details of my approach, pointing out some crucial respects in which it differs from Cocchiarella’s.
+
+2. The Meinong-Russell Debate
+
+3At the turn of the last century there took place the famous Meinong-Russell debate on nonexistent objects (cf. Griffin and Jaquette 2009). According to Meinong, we must admit that there are nonexistent objects, e.g. the round square or the winged horse. As the round square testifies, urges Meinong, nonexistent objects may even be impossible. And yet they must be acknowledged in order to account for the truth of many sentences about them, e.g., “the round square does not exist.”
+
+4Such nonexistent objects have objective being independently of whether we think of them or not. They are in a sense concrete, because they have “concretizing” properties, such as winged, that, at least prima facie, only existing concrete individuals (e.g., birds) can have. Yet, these Meinongian objects, as they are called, are not to be found in the spatiotemporal realm.
+
+5Russell pointed out some internal inconsistencies in Meinong’s approach, but he also emphasized that Meinongian objects are incompatible with a “robust sense of reality” (Russell 1919, Ch. 16). As an alternative to Meinong, he proposed, in the light of the famous theory of descriptions of his so-called actualist period (Russell, 1905), that all sentences that apparently talk about nonexistent objects can be paraphrased in a way that makes it clear that we never really refer to Meinongian objects, or, for that matter, to the non-actual possibilia of Russell’s so-called possibilist period (Russell 1903). [2]
+
+6Russell was regarded for many years in the analytic community as the clear winner of the debate. Yet, from the late Sixties of the last century onward, Meinong’s ideas have been resurrected by a group of Meinongians that is still growing, mainly on the ground that Russell’s approach is unable to accommodate a good deal of sentences apparently about nonexistent objects (see, e.g., Castañeda 1989, Parsons 1980, Priest 2005, Routley 1979, Zalta 1982). Many such sentences have to do with fictional entities. Since they appear to be true and resist Russellian paraphrases they seem to commit us to the existence of such entities. Here are some problematic cases:
+
+The Ulysses of The Divine Comedy is the Uysses of The Odissey;
+
+Sherlock Holmes is a fictional entity and does not really exist.
+
+9Meinongians thus hold that fictional entities are istances of Meinongian nonexistent objects. And there are also artifactualist (or creationist) philosophers who are willing to recognize that there really are fictional entities, but do not follow Meinong in thinking that they objectively exist independently of us. The creationists rather think that they are abstract artifacts that we somehow create in the process of creating a story (Van Inwagen 1977, Thomasson 1999, Voltolini 2006). [3]
+
+10Although arguably in different degrees, both approaches seem to offend the Russellian robust sense of reality. Now, undoubtedly, there is some special appeal in Russell’s robust sense of reality. But after all, letting aside ideological commitments to “desert landscapes,” it is mainly pumped by Ockham’s razor and the razor tells us that we cannot postulate entities without a reason. However, the problematic sentences seem to give us reasons to postulate the offending entities in question. We thus face a dilemma. On the one hand, we would like to follow Russell with his robust sense of reality. But, on the other hand, we don’t want to neglect the problematic sentences.
+
+4. Denoting concepts
+
+11We can appeal to denoting concepts to seek a way out of the dilemma. The crucial idea is this: denoting concepts can be viewed as properties, i.e. abstract entities that we want to admit in our ontological inventory anyway, quite independently of the issues posed by fictional objects. Thus, if we identify fictional objects with denoting concepts (of a certain kind), we do not infringe the Russellian robust sense of reality. Before explaining how fictional objects can be identified with denoting concepts, let me clarify the nature of the latter and explain why they can be taken to be properties, more specifically properties of properties.
+
+12Denoting concepts can be seen as meanings of noun phrases such as “every human,” “some cat,” “the tallest spy” and the like (Cocchiarella 2007, Orilia 2010). We can represent such meanings as follows: [every H], [some A], [the TS], and similarly for other examples. Here H, W, TS are the properties expressed by “human,” “American,” “tallest spy.” To see why they can be considered properties of properties, let us focus on those of specific interest to us here, namely those of the form [the P], where P may be called the property component. I call them definite. [4] Consider, for illustration, the definite denoting concept [the TS]: it is, we may say, the property such that, when predicated of a property F, gives rise to a proposition, [the TS] (F), that tells us this: (i) there exists exactly one individual with the property of being a spy taller than any other spy and (ii) this individual has the property F, i.e., in the language of first-order logic, ?x (TS (x) & ?y (TS (y) ? x = y) & F (x)). [5]
+
+13It is important to record here that definite denoting concepts may, or may not, correspond to a certain entity, depending on whether or not their property component is exemplified by precisely one entity. If there is such an entity, we shall say that the denoting concept denotes (or refers to) it. Thus, for example, if there just one individual with the property TS, the denoting concept [the TS] denotes this individual, otherwise it does not denote anything.
+
+14When a denoting concept denotes something, we shall say that it is a referring denoting concept; otherwise, that it is non-referring. In the former case, the denoting concept has a property that we shall indicate with E*, the property that a denoting concept has when it is referring. Thus, e.g., it is the case that E* ( [the PF]), [6] where PF is the property of being president of France, since there is exactly one individual with this property, namely Nicolas Sarkozy. On the other hand, it is not the case that E* ( [the WH]), where WH is the property of being a winged horse, since there is no entity with the property WH, or so we shall assume. It should be noted that a denoting concept, [the P], may denote an abstract entity, even another denoting concept: it suffices that this abstract entity is the only entity that exemplifies the property component P.
+
+15It should also be noted that two referring denoting concepts may denote the very same entity. For example, [the PF] denotes, as we have seen, Sarkozy, who is also denoted, e.g., by the denoting concept [the HCB], where HCB is the property of being husband of Carla Bruni. The “is” of identity can be quite naturally taken to express the relation, to be represented here as IS, that links two denoting concepts when they denote the same entity. Thus, for example, the sentence,
+
+the husband of Carla Bruni is the President of France
+
+17can be taken to expresses the (true) proposition
+
+IS ( [the HCB], [the PF]).
+
+19Such propositions will be called identity propositions.
+
+20It is important for our purposes to be clear about how proper names are to be understood. It is fashionable nowadays to hold the referentialist view according to which they are purely referential devices, i.e. expressions having as meanings the very entities they refer to (if any). Thus, according to this view, the meaning of, e.g., “Carla Bruni” is simply Carla Bruni in flesh and blood. I have argued extensively elsewhere (2010), however, that one should prefer the more old-fashioned descriptivist view that sees proper names pretty much as definite descriptions. Given this line, a proper name (used as singular term) should be taken to express, just like a definite description, a denoting concept, [the P], and thus be associated, so to speak, to a certain property P. Which property should be associated to a proper name is a complicated issue. For present purposes, we can simply assume this: in a given context a proper name “N” (used as a singular term) expresses a denoting concept [the P], where P is a certain nominal property that entails the property of being called “N” and that, in typical cases, identifies a certain individual. For concreteness, think of the nominal property associated to a proper name (as used in a certain context) as the property of having been baptized with that name at a certain specific time t in a certain specific place p. [7] For example, “Carla Bruni,” in a context in which we are talking about Sarkozy and his wife, may be taken to stand for the denoting concept [the CB], where CB is the property of having been baptized with the name “Carla Bruni” at time t in place p ( “t” and “p” stand for the time and place of the baptism in question). [8] (Obviously, since we can use the same proper name for different individuals, one proper name could correspond to different properties of this kind.).
+
+21Sentences express propositions as meanings. In typical cases, propositions are very simple, but they can also be very complicated. We can take a story to be a very complicated proposition that is somehow expressed by a certain fictional work (possibly after an ideal reconstruction) (see, e.g., Parsons 1980, p. 180). This leads us to assume that an appropriate entailment relation is what we mean (at least in typical cases) by locutions such as “in” when we say “in a certain story, ...” (or the like). For example, when we say that
+
+In The Divine Comedy, Ulysses dies in a shipwreck,
+
+23what we are saying is that there is a (very complicated) proposition expressed by Dante’s text that entails the (much simpler) proposition asserting that Ulysses dies in a shipwreck. Presumably, the entailment relation in question is not classical, but paraconsistent, since there are stories that contain contradictions and we do not want to claim that every proposition whatsoever is true in them (Deutsch 1985). Classical logic in fact contains the rule Ex Falso Quodlibet, which allows one to infer any proposition whatsoever from a contradiction. In contrast, a paraconsistent logic rejects this rule. There are many systems of paraconsistent logic, but for present purposes we need not commit ourselves to one in particular.
+
+7. Stories and character sets
+
+24Propositions are typically viewed as complex entities, involving objects, properties and relations as constituents. In particular, it is quite common to think that propositions expressed by sentences with singular terms such as proper names involve as constituents the objects referred to by the names in question (this is the line embraced by the referentialist doctrine mentioned in § 5). Granted that stories are propositions, the following question then arises. Since the works that express stories typically contain singular terms, in particular proper names, should we admit that these stories are propositions that contain Meinongian objects or the mind-dependent abstract objects of the artifactualist approach? An affirmative answer to this question is in tension with the Russellian robust sense of reality. The alternative line that I shall pursue here is, roughly, to claim that, when the Meinongian or the artifactualist might think there is a non-existent object or an abstract artifact (perhaps because a proper name directly referring to it was used), there is rather a definite denoting concept of which the story in question implicitly says that it is referring. Thus, for example, Dante’s Divine Comedy involves as constituent the denoting concept [the U], where U is a nominal property associated to the name “Ulysses” and entails the proposition E* ( [the U]). Similarly, Conan Doyle’s The Valley of Fear involves as constituent the denoting concepts [the SH] and [the BFSH] and entails the propositions E* ( [the SH]) and E* ( [the BFSH]) (where SH is the nominal property associated to the proper name “Sherlock Holmes” and BFSH is the property of being Sherlock’s Holmes best friend).
+
+25We shall say that a denoting concept [the F] involved as constituent in a story and such that the story entails E* ( [the F]) has a primary occurrence in the story in question. As these examples illustrate, the denoting concepts that have primary occurrence in a story may correspond to either proper names ( “Ulysses,” “Sherlock Holmes”) or to definite descriptions ( “the best friend of Sherlock Holmes”) implicitly or explicitly present in the text of the story. [9]
+
+26For any denoting concept primarily occurring in a story, say the concept [the F], there will be in the story many propositions of the form [the F] (G), i.e., propositions, entailed by the story, that assert that the unique object with property F has also property G. We shall say in this case that the property G is predicatively linked to the denoting concept [the F] in the story in question. For example, since, according to The Valley of Fear, Holmes is a detective and Watson is a physician, the story in question entails the two propositions [the SH] (D) and [the W] (P) and thus we shall say that in this story [the SH] is predicatively linked to D and [the W] to P (where W, D and P are the nominal property associated to the proper name “Watson,” the property of being a detective and the property of being a physician, respectively).
+
+27At least in typical cases, stories entail identity propositions. [10] For instance, The Valley of Fear entails the proposition asserting that Watson is Holmes’s best friend: IS ( [the W], [the BFSH]). Clearly, the identity propositions entailed by a given story subdivide into various sets all the definite denoting concepts occurring in the story. [11] Any such set will be called a character set of the story in question. For example, a character set of the story The Valley of Fear will include as members both [the W] and [the BFSH] as well as any other denoting concept C such that the story entails IS ( [the W], C). Another, distinct, set, will include [the SH] and [the BFW], where BFW is the property of being the best friend of Watson, as well as any other denoting concept C such that the story entails IS ( [the SH], C) (the former character set is, we may say, “the Holmes character set” and the latter “the Watson character set”).
+
+28If a certain property P is predicatively linked to a member of a character set, then this set will also have as member a denoting concept [the F] whose property component F somehow “encapsulates” the property P in the following sense: exemplifying F entails exemplifying P. For example, since The Valley of Fear entails [the BFW] (D) (i.e., the best friend of Watson is a detective), it also entails E* ( [the (BFW & D)]) (the denoting concept whose property component is the conjunction of BFW and D is a referring denoting concept, according to the story). Thus, the denoting concept [the (BFW & D)] also has a primary occurrence in the story and the property component of this denoting concept is such that exemplifying it entails exemplifying the property component of [the BFW] (for clearly exemplifying the conjunctive property of being both a detective and the best friend of Watson entails the property of being the best friend of Watson).
+
+29In a character set we can individuate two denoting concepts that are of special interest to us here. One could be called the maximal element and the other the salient element. The maximal element is the denoting concept whose property components entails all the other property components of the denoting concepts in the character set. [12] Intuitively, the maximal element tells us everything that is said of a given character in a certain story, in every detail. For example, the maximal element in the Holmes character set for the Valley of Fear will be something like [the SHVF], where SHVF is a very complicated property that entails, e.g., the property of being a detective called “Sherlock Holmes” who at some point of his career utters precisely these words: “The temptation to form premature theories upon insufficient data is the bane of our profession” (cf. C. Doyle, The Valley of Fear, Penguin Books, 2007, Part I, Ch. 2, p. 24). The salient element, on the other hand, has a property component that entails only certain properties that can somehow be identified as “essential.” Intuitively, they are the properties that truly characterize a given character. For example, the salient element of the Holmes character set for the Valley of Fear could be something like [the SHS], where SHS entails properties such as being extremely clever and being a detective, but certainly does not entail the property of uttering precisely the words quoted above.
+
+30Of course, there is a conventional element in determining what the salient element of a character set is and we can imagine that there are different salient elements, depending on the selection criterion that we choose. Arguably, some criterion is better than another and perhaps literary criticism could always help us find the best one. But nothing like this seems forthcoming and we should, I think, live with the idea that different selection criteria are on a par. Thus, we should admit, for example, that SHS is a property that also entails, say, the property of living in Victorian England and more precisely in London and yet also admit that on the basis of a different selection criterion, the salient element of the Holmes character set for the Valley of Fear is a different denoting concept, [the SHS’], where SHS’ is a property that does not entail the property of living in Victorian England, in London.
+
+8. Fictional entities as denoting concepts
+
+31I have promised an approach in which fictional entities are denoting concepts. But which denoting concepts should be identified with fictional entities? Clearly, if characters are denoting concepts, they had better be definite denoting concepts: when asked questions such as “who is Pinocchio?” or “who is Sherlock Holmes?” we typically answer with definite descriptions such as “the wooden puppet with a long nose that grows when he tells a lie, etc.” or “the clever detective leaving in Baker Street, etc.” and we may well take these answers at face value by viewing the definite articles as indications that definite denoting concepts are denoted by these singular terms. [13] But which definite denoting concepts? It depends. We must distinguish different kinds of characters in order to properly account for all the intuitions that we have on these matters, as we shall see.
+
+32In the first place, let us consider the intuition that a certain character can be invented by a certain author as she concocts a certain story. One option is that such a character is (given the appropriate selection criterion) a salient element in a character set of the story in question. We may call this a thin ur-character. Alternatively, one could argue that it is the maximal element in a character set in the story in question. We could call it a thick ur-character. More generally, we can speak of thin and thick characters in relation to any given story S. For example, since A Study in Scarlet is the first story of Doyle’s Sherlock Holmes cycle, we can identify the thin Holmes ur-character with a certain salient element in the Holmes character set for A Study in Scarlet and the thick Holmes ur-character with the maximal element in the same set. Similarly, the thick and thin Holmes characters for The Valley of Fear are the above mentioned denoting concepts [the SHVF] and (given a certain selection criterion) [the SHS]. As we shall now see, acknowledging both thin and thick characters allows us to do justice to two contrasting intuitions.
+
+33On the one hand, we can think of a character as essentially bound to a given story; we follow this intuition when we see fictional objects as thick characters. For clearly we can hardly find the same maximal element in relation to two different stories. The Holmes maximal element in A Study in Scarlet or the one in The Hound of the Baskervilles cannot be the same as the one in The Valley of Fear, for it is only in the latter story that Holmes pronounces the words: “The temptation to form premature theories upon insufficient data is the bane of our profession.” This conception of fictional objects seems to be what Cocchiarella has in mind when he identifies fictional objects with denoting concepts that are pretty much like my maximal elements of a character set of a certain story. [14] In fact, according to Cocchiarella, the Holmes of A Study in Scarlet and the Holmes of The Valley of Fear are not identical, although they are “counterparts of one another in much the sense of David Lewis’s counterpart theory” (Cocchiarella 2007, p. 164).
+
+34On the other hand, there is also the intuition of those who claim that a character can somehow “migrate,” as is often said, from a story to another or, more generally, that a character can be present, so to speak, in two different stories (Castañeda 1989, Orilia 1989, 2006, Thomasson 1999, Voltolini 2006, etc.). There are two main reasons for this and accordingly we can distinguish two senses in which a character is present in a story. Thus, we shall speak of presence1 and presence2.
+
+35The first sense, presence1, is given by the fact that a thin character occurs primarily in a story. Now, if a thin character occurs primarily in a story it may well be that it occurs primarily in another story as well. In this case, it is present1 in both stories. This typically happens in a cycle of stories by the same author, but it can in principle happen with two stories by different authors, even authors who work independently of each other. Imagine that we discover a manuscript of an unknown English writer, call it Doyle II, which is pretty much like the text of A Study in Scarlet by Doyle, except for some minor differences, and that was written at precisely the same time. Let us assume that Doyle and Doyle II did not know each other, that there is no plagiarism involved: it is just a pure coincidence that the two texts are so similar. We have in this case, I suggest, two (slightly different) stories with the same thin characters. [15] Such characters are present1 in both stories. For example, a certain thin Holmes character is present1 in both of them in that it has a primary occurrence in both of them.
+
+36Presence2, on the other hand, has to do with the fact that a certain story S is a source (perhaps indirectly) of another story, S’, possibly of another author, in a way that establishes a connection between a character set of S and a character set of S’. [16]
+
+37A character can be both present1 and present2 in a given story. For instance, A thin Holmes character is, I would say, both present1 and present2 in Doyle’s Holmes stories that follow A Study in Scarlet, the story where this character is present1 for the first time. Arguably, this thin character is also both present1 and present2 in stories not narrated by Doyle, e.g., the one conveyed by Herbert Ross’s movie The Seven Percent Solution. But it is quite possible, perhaps typical, that a thin character which is present2 in a story is not also present1 in that story. Think of the story narrated by Thom Eberhardt’s movie Without a Clue, a comedy wherein Holmes is depicted as a stupid detective who seems clever because is secretly given by Watson the solutions to all the crime cases that he has to solve. Clearly, no element of the Holmes character set of this story is a denoting concept [the F] such that F entails the property of being clever. In contrast, as we have seen, the Holmes thin ur-character has a property component that entails being clever, which explains the intuition we may have that Holmes is “essentially” clever. Hence, this thin ur-character cannot be a member of the Holmes character set in question. In other words, this ur-character is not present1 in this story. Arguably, however, it is present2 in the story. In sum, the relation of presence2 allows us to explain how a character can have “essentially” a certain property P and yet fail to have this property in a certain story: it fails to have it, because it is merely present2 in the story. [17]
+
+9. Some data to be accounted for
+
+38The approach that we are exploring here is a form of “identificationism;” just like an identificationist approach in the philosophy of mathematics that does not deny that there are numbers, but identifies them with abstract entities such as sets of sets or properties of properties, my approach does not deny that there are fictional objects. However, it identifies them with abstract entities arguably already available in the ontological inventory. Qua identificationatist, it is thus not a form of what Sainsbury 2009 calls irrealism, the view that there are no fictional objects at all. Mine is in a sense a realist approach about fictional objects pretty much like Meinongianism and artifactualism. Accordingly, it can take at face value sentences that seem to talk about fictional objects just like these approaches do. They are taken at face value in the sense that they are taken to be about fictional objects. But they are also interpreted from a specific (hopefully illuminating) angle in the light of what fictional objects are taken to be here.
+
+39To illustrate this claim, let us briefly consider sentences (1)- (2) of § 3. Sentence (1) says from this perspective that the same thin character is denoted first by “the Ulysses of The Divine Comedy” and then by “the Ulysses of The Odyssey.” The use of “of” in these singular terms indicates that this character is present1 (or perhaps present2) in the stories in question. And sentence (2) is a sentence about the ur-character Pinocchio that tells us that Pinocchio is not a concrete spatiotemporal entity: it is rather a denoting concept that has been somehow captured from a Platonic realm comprehending infinitely many other denoting concepts, [18] by virtues of the mental and linguistic activities of a storyteller who has concocted a story and has thereby in a sense “created” it and many other characters. It is important to note that the selection of a fictional entity, as so conceived, does not give rise to the selection problem that, according to Sainsbury 2009, afflicts both Meinongianism and possibilism (see p. 58 and p. 93, respectively). For we can say about the present approach pretty much what Sainsbury says it is the case for irrealism: “An irrealist can treat getting a character in mind as no more than thinking some intelligible thoughts which exploit an appropriate individual concept with no referent” (2009, p. 63).
+
+40Some data that show well the peculiar perspective from which we look at fictional objects in the present approach are those that seem to show that fictional characters can undergo fission and fusion. In the process of supporting his own specific form of creationism, Voltolini considers two interesting cases, one of fusion and one of fission (see Voltolini 2006, p. 114 and his above mentioned contribution to this issue of the Revue de Philosophie). For present purposes, we may consider just the former, since the latter can be dealt with in a similar fashion. Here is the example. In the 1912 version of Proust’s Recherche (call it Recherche1) there are a Berget character and a Vinteuil character. However, in the final version of the Recherche (call it Recherche2), instead of these two characters there is a Vington character that somehow encompasses the salient traits of both. In a sense, Berget and Vinteuil undergo a fusion and become Vington.
+
+41This example is perplexing, because it gives rise to an apparently inconsistent triad of sentences:
+
+the Berget of Recherche1 is not the Vington of Recherche1;
+
+the Berget of Recherche1 is the Vinteuil of Recherche2;
+
+the Vington of Recherche1 is the Vinteuil of Recherche2.
+
+45These three sentences are prima facie true and the copula in them is naturally interpreted as expressing identity. Yet, if so, given the transitivity of identity, they cannot be simultaneously true.
+
+46My approach can deal with this puzzle as follows. Sentence (1) should be taken to assert that two distinct denoting concepts, [the BR1] (expressed by “the Berget of Recherche1”) and [the VR1] (expressed by “the Vington of Recherche1”) refer to different thin characters:
+
+it is not the case that: IS ( [the BR1], [the VR1]).
+
+48Sentences (2) and (3), on the other hand, are best seen as implicitly relativized to the story Recherche2:
+
+In Recherche2, the Berget of Recherche1 is the Vinteuil of Recherche2;
+
+In Recherche 2, the Vington of Recherche1 is the Vinteuil of Recherche2.
+
+51As so understood, they tell us something about the Berget of Recherche1 and the Vington of Recherche1, by correlating them to a further thin character, the one referred to by the denoting concept, [the VR2], expressed by “the Vinteuil of Recherche2.” As we have seen, the “in” of sentences such as these expresses an entailment relation. Moreover, the singular terms “the Berget of Recherche1,” “the Vinteuil of Recherche2,” and “the Vington of Recherche1” are best interpreted as having wide scope with respect to the locution “In Recherche2,” pretty much as “Castro’s island” has wide scope in a de re reading of “Columbus believed that Castro’s island was China.” [19] Now, an appropriate wide scope interpretation of (2a) and (3a) can be given by appealing to the notions of presence1 and primary occurrence that were introduced above:
+
+there is a thin character b present1 in Recherche1 and referred to by [the BR1], there is a thin character v present1 in Recherche2 and referred to by [the VR2] and Recherche2 entails IS (b, v).
+
+there is a thin character v’ primarily occurring in Recherche1 and referred to by [the VR1], there is a thin character v primarily occurring in Recherche2 and referred to by [the VR2] and Recherche2 entails IS (v’, v).
+
+54Once (1)- (3) are so understood they can be simultaneously true, without any real violation of the intuition that their copula expresses identity. For in appealing to the notion IS in interpreting the copula we are ultimately appealing to identity: to say that IS ( [the X], [the Y]) is the case amounts to saying that x and y are identical, where x is the object uniquely exemplified by property X and y the object uniquely exemplified by property Y.
+
+55Undoubtedly, there are many other data that we should carefully consider and many possible criticisms that should be taken into account. For example, we should consider appropriate versions of the criticisms that Sainsbury 2009, from his irrealist perspective, has formulated against Meinongianism and creationsim. But there is no room for this here and I have to postpone this task. I hope however to have at least shown that the present approach can give us all that the realists about fictional objects want without losing the Russellian robust sense of reality. [20]
+
+See Cocchiarella 1982, where denoting concepts are traced back to the early Russell (1903), and the proposal to use them to account for fictional entities is fleshed out in reacting to Parsons’s (1980) neo-Meinongian theory. See also Landini 1990 for an analogous reaction to Zalta’s (1982) neo-Meinongian theory and Cocchiarella 2007, § 7.10 for a further development of the proposal.
+
+For a good discussion of the various phases of Russell’s philosophy, see Landini 2011.
+
+For a useful survey of these approaches, see Sainsbury 2010, where one can also find a discussion of David Lewis’s possibilist approach, which I neglect for reasons of space.
+
+Since we shall deal in the following mainly with definite denoting concepts, I shall often skip the qualifier “definite” in talking about them, assuming that the context can supply it.
+
+There is thus a logical equivalence between [the TS] (F) and ?x (TS (x) & ?y (TS (y) ? x = y) & G (x)), which can be seen as a specific instance of a general logical principle known as lambda conversion (see, e.g., Cocchiarella 2007, Orilia 2006, p. 194, note 3, and Orilia 2010, p. 24, note 25).
+
+As this example and (1a) below suggest, I accept a type-free approach to properties that takes them to be entities that can occur in both predicate and subject position. There are many good reasons to do this and I follow Cocchiarella in this respect. Unfortunately, as is well-known, the type-free approach to properties must circumvent Russell’s and related paradoxes. Cocchiarella’s way out however must face a “contingent Russell’s paradox” that I have pointed out and by a “paradox of hyperintensionality” pointed out by Bozon (see Landini’s paper “Fictions Are All in the Mind” in this issue of Revue de Philosophie for a discussion of them). I thus think that one should try a different road. For proposals of mine to deal with the paradoxes, see Orilia 2006a and references therein.
+
+Any speech act that purports to associate a certain name to an individual that is ostensibly present or to a definite description that purports to “fix the reference” of the name can count as a baptism (see Orilia 2010, § 5.8).
+
+Following this line, even a competent speaker may not know precisely which proposition is expressed by a sentence involving a proper name and it could also happen that the competent speaker does not know whether two tokens of sentences with the same proper name express the same proposition or not (see Orilia 2010, § 7.9 for a discussion).
+
+The distinction between primarily occurring denoting concepts and other denoting concepts that are somehow involved in stories can be used to deal with the phenomenon of fiction within fiction (see, e.g., Sainsbury 2010, p. 64). Moreover, the primary occurrence of denoting concepts in a story can be appealed to in order to explain in which sense a concretely existing individual can be a character in a story. Roughly, this happens when such an individual is referred to by a denoting concept that has a primary occurrence in the story. Unfortunately, there is no room here to further discuss these issues.
+
+This underlies the fact that, intuitively, the same character acts, so to speak, in different parts of the story.
+
+In an inconsistent story these sets may overlap (as in Alphonse’s Un Drame Bien Parisien), but I shall not dwell on this, for simplicity’s sake.
+
+From a purely logical point of view there may be many equivalent maximal elements; assume that we pick up one of them, given some appropriate criterion.
+
+Thus the approach defended here seems to me better now than the one in Orilia 2006 where fictional objects are not definite denoting concepts, but properties classified as “conventional essences.” Roughly speaking, the conventional essences of Orilia 2006 are the property components of the thin characters (see below) of the present approach.
+
+Apart from details that we can neglect for present purposes (see Cocchiarella 2007, p. 164).
+
+The artifactualist line suggests that in a case like this we should not say that the same characters are present in both stories (cf. Thomasson 1999, p. 67). For arguments against this way of seeing the matter, see Orilia 2006, § 11.
+
+In other words, presence2 has to do with the conditions proposed by Thomason 1999 (pp. 67-68) for the identification of a character across different stories.
+
+Castaneda 1989 identifies fictional characters with guises and also claims that a story subdivides the guises occurring in the story into different sets of guises “consociated” with each other, which may be called “consociational clusters.” Such clusters roughly correspond to the thick characters as they have been characterized here. I have argued in Orilia 1989 that one should think of some of the guises that count as fictional objects in a given story as especially relevant in the light of what I called a “reidentification criterion.” Such guises, roughly correspond to what I have called thin characters. Castañeda also speaks of “transonsociational clusters.” Roughly, they are clusters of consociational clusters that exist by virtue of the truth of “transfictional” identity propositions such as (1) of § 3 above. Such transconsociational clusters are rather analogous to the general characters of Voltolini 2006 (Ch. 4) and of his “Crossworks ‘identity’ and intra‘work’ identity of a fictional character” (in this issue of Revue de philosophie). One could in principle characterize denoting concepts corresponding to Castañeda’s transconsociational clusters or to Voltolini’s general characters, but for reasons of space this will not be pursued here.
+
+Presumably, from his conceptualist standpoint Cocchiarella would not really agree with this Platonistic way of putting the matter. I have no room to dwell on this here.
+
+See Castañeda 1989, Ch. 5, for an interesting discussion of this example and the de re/de dicto distinction.
+
+I wish to thank A. Voltolini and Roberto Mosciatti for their comments on a previous draft.
+
+There are many data suggesting that we should acknowledge fictional entities in our ontological inventory, in spite of the paraphrasing strategies that Russell’s theory of descriptions can offer. Thus the realist attitude toward fictional entities of Meinongian and artifactualist accounts may seem well-motivated. Yet, these approaches infringe the Russellian “robust sense of reality.” A different realist account is proposed here, one that is compatible with the Russellian “robust sense of reality” in that it identifies fictional entities with denoting concepts, understood as properties of properties.
+
+2. The Meinong-Russell Debate
+
+4. Denoting concepts
+
+7. Stories and character sets
+
+8. Fictional entities as denoting concepts
+
+9. Some data to be accounted for
+
+Castañeda, H.-N., 1989, Thinking, Language and Experience, University of Minnesota Press, Minneapolis.
+
+En ligneCocchiarella, N. B., 1982, “Meinong Reconstructed versus Early Russell Reconstructed,” Journal of Philosophical Logic, 11, pp. 183-214.
+
+Cocchiarella, N. B., 2007, Formal Ontology and Conceptual Realism, Springer, Dordrecht.
+
+En ligneDeutsch, H., 1985, “Fiction and Fabrication,” Philosophical Studies, 47, pp. 201-211.
+
+Griffin, N. and Jaquette, D., eds, 2009, Russell vs Meinong: The Legacy of ‘On Denoting, ’ Routledge, New York.
+
+En ligneLandini, G., 1990, “How to Russell Another Meinongian: A Russellian Theory of Fictional Objects Versus Zalta’s Theory of Abstract Objects,” Grazer Philosophische Studien, 37, pp. 93-122.
+
+Landini, G., 2011, Russell, Routledge, New York.
+
+Orilia, F., 1989, “Identity across Frames,” Topoi, Supplement 4, pp. 85-97.
+
+Orilia, F., 2006, “Identity Across Time and Stories,” in A. Bottani and R. Davies, eds., Modes of Existence, Ontos Verlag, Frankfurt, pp. 193-222.
+
+Orilia, F., 2006a, La Référence singulière et l’autoréférence, eum, Macerata (freely available at http://archiviodigitale.unimc.it/bitstream/10123/513/3/orilia_def.pd).
+
+Orilia, F., 2010, Singular Reference. A Descriptivist Perspective, Springer, Dordrecht.
+
+Parsons, T., 1980, Nonexistent Objects, Yale University Press, New Haven.
+
+En lignePriest, G., 2005, Towards Non-Being. The Logic and Metaphysics of Intentionality, Oxford University Press, Oxford.
+
+Routley, R., 1979, Exploring Meinong’s Jungle and Beyond, Australian National University, Research School of Social Sciences, Camberra.
+
+Russell, B., 1903, The Principles of Mathematics, Cambridge University Press, Cambridge.
+
+En ligneRussell, B., 1905, “On Denoting,” Mind, 14, pp. 479-93.
+
+Russell, B., 1919, Introduction to Mathematical Philosophy, Allen & Unwin, London.
+
+Sainsbury, R. M., 2005, Reference Without Referents, Clarendon Press, Oxford.
+
+En ligneSainsbury, R. M., 2009, Fiction and Fictionalism, Routledge, London.
+
+Thomasson, A. L., 1999, Fiction and Metaphysics, Cambridge University Press, Cambridge.
+
+Van Inwagen, P., 1977, “Creatures of Fiction,” American Philosophical Quarterly, 14, pp. 299-308.
+
+Voltolini, A., 2006, How Ficta Follow Fiction, Springer, Dordrecht.
+
+Zalta, E. N., 1983, Abstract Objects, Reidel, Dordrecht.
+
+University of Macerata
+
+Dernière publication diffusée sur Cairn.info ou sur un portail partenaire
+
+Analytic Philosophy of Fiction: Editor's Introduction
+
+Dans Revue internationale de philosophie 2012/4 (n° 262)
+
+Consulterfile_download Télécharger
+
+Mis en ligne sur Cairn.info le 21/01/2013
+
+https://doi.org/10.3917/rip.262.0577
+
+Citer cet article Français
+
+Copier ORILIA Francesco, « A theory of fictional entities based on denoting concepts », Revue internationale de philosophie, 2012/4 (n° 262), p. 577-592. DOI : 10.3917/rip.262.0577. URL : https://www.cairn.info/revue-internationale-de-philosophie-2012-4-page-577.htm
+
+Copier Orilia, Francesco. « A theory of fictional entities based on denoting concepts », Revue internationale de philosophie, vol. 262, no. 4, 2012, pp. 577-592.
+
+Copier Orilia, F. (2012). A theory of fictional entities based on denoting concepts. Revue internationale de philosophie, 262, 577-592. https://doi.org/10.3917/rip.262.0577
+
+Copier https://doi.org/10.3917/rip.262.0577
+
+Exporter la citation
+
+file_downloadZotero (.ris) file_downloadEndNote (.enw) open_in_new RefWorks
+
+Pour citer cet article
+
+Distribution électronique Cairn.info pour De Boeck Supérieur © De Boeck Supérieur. Tous droits réservés pour tous pays. Il est interdit, sauf accord préalable et écrit de l’éditeur, de reproduire (notamment par photocopie) partiellement ou totalement le présent article, de le stocker dans une banque de données ou de le communiquer au public sous quelque forme et de quelque manière que ce soit.
+
+Aujourd’hui, Cairn diffuse plus de 400 000 articles de revues et en ajoute 2 500 nouveaux tous les mois. Comment repérer l’essentiel ? Comment ne rien laisser passer ?
+
+Vous avez été déconnecté car votre compte est utilisé à partir d'un autre appareil.
+
+Chargement en cours. Veuillez patienter...
+
+Attention, clear l'identifiant saisi ne correspond pas à un compte Cairn.info.
+
+Attention, clear le mot de passe saisi ne correspond pas au compte Cairn.info.
+
+Attention, clear erreur à l'authentification.

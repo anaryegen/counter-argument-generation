@@ -1,0 +1,335 @@
+Skip to main content
+
+An official website of the United States government
+
+Here’s how you know Here's how you know
+
+The .gov means it’s official. Federal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you’re on a federal government site.
+
+The site is secure. The https:// ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely.
+
+U.S. Department of Health and Human Services
+
+Office of the Assistant Secretary for Planning and Evaluation Menu
+
+Tracking Welfare Reform: Designing Followup Studies of Recipients Who Leave Welfare
+
+Publication Date May 18, 1998
+
+by Evelyn Ganzglass and Susan Golonka of the National Governors' Association; Jack Tweedie of the National Conference of State Legislatures; and Suzanne Fialk of of the American Public Welfare Association
+
+This report is based on presentations and discussions that occurred at a conference sponsored by the National Governors' Association (NGA) Center for Best Practices, the National Conference of State Legislatures (NCSL), and the American Public Welfare Association (APWA) on Tracking and Followup Under Welfare Reform in Falls Church, Virginia, February 26-27, 1998. Funding for this report was provided by the Office of the Assistant Secretary for Planning and Evaluation, U.S. Department of Health and Human Services.
+
+Across the nation, states have embarked on reforms aimed at moving welfare recipients into jobs and on the way to being able to support their families without cash assistance. State actions, along with the federal reforms enacted in 1996, constitute the greatest change in assistance to poor families since the federal Aid to Dependent Children program was enacted during the New Deal. These reforms, coupled with a strong economy, provide a historic opportunity to transform welfare from a cash assistance program to one that focuses on work and self-sufficiency.
+
+Along with the strong economy, these reform efforts have contributed to a stunning drop in welfare caseloads in most states. Nationwide, caseloads have declined 30 percent between January 1994 and September 1997. Fifteen states have seen more than a 40 percent reduction in their caseloads. The large number of families leaving welfare has generated intense interest in what has happened to them. States' goals do not stop at getting families off of the welfare rolls. They are also concerned that recipients find jobs and become able to support their families. States' interest in what is happening to families that leave welfare has resulted in most states undertaking or planning to undertake studies to track former recipients to determine how many are working, what kinds of jobs they are getting, and whether they are able to adequately support their children.
+
+These followup studies will provide critical early feedback to state policymakers and program administrators on whether the reforms adopted by a state are working, and whether modifications need to be made in the programs to ensure that families move successfully from welfare to work. Additionally, these studies are of interest to Congress, the administration, advocacy organizations, the media, researchers, and others who are observing state welfare reform initiatives with a critical eye. Given this interest, it is important that states design studies that provide timely answers to the questions being asked, represent a cost-effective use of funds, and utilize methodologies and approaches that will yield valid findings. This report was written to help states with this endeavor. It provides an analysis of the three basic approaches to tracking recipients who leave welfare—surveys, cross-matching with administrative data, and home visits--including the type of information that can be collected through each approach and the positive aspects as well as limitations of each method. It also examines important technical issues to consider, such as the universe of cases to study, sample size, questionnaire design, confidentiality issues, and data accuracy issues."
+
+Purposes of Followup Studies
+
+States' tracking studies can serve several purposes. First, tracking studies can provide needed information about how welfare reform is working. The scope of welfare reform has focused the interest of policymakers, the public, and the media on what happens to families after they leave welfare. Tracking studies can provide vital and timely feedback to policymakers, advocates for the poor, and concerned citizens. Early attention will focus on the number of recipients who have moved successfully into work and the number who are suffering hardships, such as homelessness and abuse. As studies continue to track outcomes for families and employ more complex approaches, assessments can also focus on job retention, advancement, and families' ability to move out of poverty.
+
+Second, the feedback provided by followup studies can inform states' ongoing policymaking efforts. It helps states determine whether they should maintain programs or whether they should improve or replace them. States can identify critical outcomes to use in assessing their programs, such as how many former welfare recipients are working, how much they are earning, and whether they can keep jobs and advance into higher paying ones. When outcomes fall short of expectations, new efforts can be focused on improving performance. The experiences of other states can provide standards to judge the success of reforms and offer examples of alternative programs that states can use to improve their programs. States can also use questions in the studies to address issues directly, such as whether access to child care or transportation remains a barrier for many families or whether job training programs have adequately prepared recipients for work.
+
+Finally, welfare officials are concerned about how losing welfare payments affects the well-being of poor families and children. Followup studies enable officials to identify families at risk of deprivation and hardship. Services or temporary assistance can be provided to these families to ease these hardships and, in extreme cases, children can be removed from harmful situations.
+
+Although followup studies provide critical information on outcomes and what is working and what is not working, they do not provide rigorous scientific evaluation of a program's impact. However, given the rapid pace of reforms and the constant efforts to adapt and improve those policies, it is likely that outcome studies will provide the most timely information for most states to use in assessing their programs during the next few years. These studies help provide a more comprehensive and accurate picture of how programs are working than do the assessments based on more readily available data, such as a change in caseload size or the number of recipients working while still receiving benefits.
+
+Questions for Followup Studies of Families that Leave Welfare
+
+How many recipients find jobs?
+
+What wages are former recipients paid?
+
+How many hours a week do former recipients work?
+
+Do former recipients have health insurance or other benefits?
+
+Do former recipients stay in their jobs?
+
+Do former recipients advance to better-paying, higher skilled jobs?
+
+When former recipients change jobs, do they end up with better jobs or the same kind of jobs?
+
+If former recipients lose their jobs, what are the causes?
+
+Are recipients with certain characteristics, such as low levels of education or young children, less likely to leave welfare or more likely to return after leaving?
+
+For those former recipients who do not find jobs, what kinds of barriers do they still face?
+
+How many former recipients change households, moving in with families, husbands, or boyfriends? Does this change improve their ability to support their family?
+
+Has the well-being of children in the families changed? (e.g., health status, school readiness, educational achievement?
+
+How many families experience hardships or deprivation?
+
+How many families are unable to make rent payments, are late on utility payments, or are running out of money for food?
+
+How many former recipients continue to participate in or return to social service programs including food stamps, Medicaid, child care, transportation, child welfare, and Temporary Assistance to Needy Families (TANF)?
+
+Are recipients who have been sanctioned more likely to return to welfare than those who leave for other reasons?
+
+Are the children in families that leave welfare at higher risk for abuse and neglect and foster care placement?
+
+State Approaches to Followup Studies
+
+States have taken three basic approaches to tracking recipients who leave welfare — surveys, cross-matching with administrative data, and home visits. A number of states are combining these approaches.
+
+Surveys rely on the responses of former recipients for information about the effects of reforms. They can be conducted in a variety of ways—by mail, over the telephone, and/or through personal interviews. Former recipients can be asked about their work behavior; problems they may still face; and the existence of hardships, such as an inability to pay rent or the lack of money for food. Surveys can include both closed- and open-ended questions, enabling the welfare agency to obtain detailed information, including opinions and other nonquantitative data.
+
+However, surveys can be time-consuming and expensive. Researchers may have to use several different methods to contact an individual, and the interview could take up to an hour or more. Surveys also require trained staff to design and administer the effort.
+
+Using a survey to track recipients who leave welfare involves trade-offs&frac34; to ensure that the cost is not prohibitive, the questions address what policymakers need to know, and the response rate is high enough to produce confidence in the findings.
+
+Cross-matching with administrative data gives welfare agencies external data about families that have left welfare. Unemployment insurance databases and the new hire registries used for child support enforcement enable welfare agencies to check whether former recipients are working, how much they are earning, what types of jobs they are getting, and whether they are advancing into higher paying jobs. Social service agency records indicate which families are continuing to use other social services, such as food stamps, Medicaid, and child care assistance. Child abuse registries can identify families in which abuse and neglect are occurring. Welfare agencies' own records can indicate which families are returning to welfare. Using administrative data is often more cost-effective than conducting surveys or home visits, and these data provide a more accurate source for the information included in the followup databases. Yet, for many important and more detailed questions, administrative data do not exist.
+
+Home visits involve going to recipients' homes to check on the well-being of the families that have lost benefits. Home visits are more of a service delivery strategy than a data collection approach, but they are an effective means of identifying families experiencing difficulty in caring for their children because of the loss of benefits.
+
+Policymakers seek a range of information about families that leave welfare and their particular questions determine the best strategies for followup studies. Some approaches address particular questions better than others do, but no one method is best for all questions. Questions about earnings and work can be efficiently answered by data matching with states' unemployment insurance and new- hire reporting systems. These data are more reliable than survey answers about employment, at least about employment in covered occupations. Collecting information about job retention and wages over time also requires a survey or data match months and years after the family has left welfare. Surveys are probably the only effective method for determining the number of families that face trouble in purchasing food or shelter or for finding out how many recipients moved in with families, husbands, or boyfriends and whether doing so made it possible for the family to support itself without welfare. And home visits are the most reliable way to find families in which children are at risk of abuse and neglect.
+
+Regardless of how a state decides to track its recipients, a related question is who will carry out the study. Some state agencies have undertaken the work themselves or have used other state agencies. For example, Iowa uses public health visitors to look in on families a few months after they have been sanctioned. Other states have relied on researchers in their state university systems. These researchers often have the general skills required for conducting such studies, and they can learn the specific challenges of surveying low-income families or cross-matching with administrative data. Finally, some states have hired outside consultants to carry out their evaluations. These consultants can contribute valuable experience and knowledge about the key research questions in evaluating welfare reforms. However, using consultants is usually the most expensive option.
+
+Critical Questions for States Considering Followup Studies
+
+States planning followup studies need to consider several questions so that their efforts are tied to what state officials most need to know.
+
+What are the State's Purposes in the Followup Study?
+
+Existing studies address several different purposes. The priority assigned to these purposes affects the design of the study.
+
+Measure the outcomes of reforms or particular policies. Surveys and administrative data can provide good information about whether former recipients are working, what kinds of jobs they are getting, how much they are earning, and whether they are facing hardships. Because specific outcomes are the focus, the study could use a sample of former recipients. Sampling enables a study to concentrate its resources to ask in-depth questions and achieve the high response rates needed to have confidence in the findings.
+
+Identify barriers to recipients finding work so policies can be changed. Personal interviews or telephone surveys are the best ways to collect information about recipients' barriers. For this purpose, a sample is a valid means of collecting information. A survey could focus on former recipients who are not working or who are unable to support their families. Queries about barriers to employment could be an additional set of questions on a survey directed only to recipients who are unemployed or underemployed. (Alternatively, questions about employment barriers could be added to a survey directed to recipients identified as not working through unemployment insurance or new-hire registry records.) The survey might ask questions about access to child care, transportation, health benefits, and training.
+
+Identify families at risk of extreme hardship or neglect and abuse. If this is the primary purpose, the study should include all families that leave welfare or, at the very least, all families that are sanctioned. Sanctioned families are those most likely to suffer hardships. Home visits are the best approach to identify these families because they permit first-hand observation of the families' circumstances.
+
+Evaluate welfare reforms to determine their impact. A scientific evaluation of policy impacts is the most comprehensive and expensive form of study. The best research design involves randomly assigning recipients to treatment and control groups. The control group would participate in the existing program and the treatment group would come under the new requirements and services. Only through this kind of design can valid conclusions be drawn about the effects of the welfare program. Otherwise, analysts cannot determine whether changes in employment or caseload levels were the result of the reforms or other factors, such as a strong economy or the particular characteristics of the recipients in the program.
+
+What Kinds of Cases Should Be Examined in Followup Studies?
+
+Current followup studies look at different sets of recipients and former recipients.
+
+All closed cases. Most states include all case closures in their studies. States' primary purposes in conducting followup studies suggest the need for including all closed cases. If states focus only on sanctioned or ambiguous case closures, they will not be able to assess positive outcomes for those who leave welfare for work and remain employed and self-sufficient. Moreover, many families that leave welfare "voluntarily" do not have jobs or stable support systems, and many recipients that have jobs lose them. For these reasons, states want to learn how leaving welfare affects all families. Including more types of cases will require more resources if conclusions are going to be drawn about the different types of cases.
+
+Closed cases with ambiguous or high-risk reasons for closure. During the conversion to new welfare-to-work systems, many families dropped off the rolls. Many of these cases were closed because of reported work and earnings or other factors that suggested recipients would be able to support their families. Other reasons for closing cases may be ambiguous (e.g., "voluntary" or "never showed up for appointment"). Although some closures may be because an individual found a job, others may be because an individual did not understand the program requirements or did not want to participate. Combined with sanctioned cases, these cases pose the greatest risks of families suffering hardships and deprivation. Focusing on these cases enables welfare officials to identify families that need emergency services or children that may need to be removed from their familes as well as those cases that have had positive outcomes.
+
+Sanctioned or time-limited cases. Several states have focused on sanctioned cases because of their concerns about what happens to families that do not comply with the new requirements. Children in these families are often at the greatest risk of hardship. In addition, welfare officials concerned about the effects of sanctions want to know why families have not met their participation requirements. Surveys or home visits can provide important information about how the program is working and how it might be changed to avoid unnecessary sanctions. As recipients reach the end of time limits in more states, these cases will likely receive more attention.
+
+Current recipients and closed cases. Some states have included both current recipients and closed cases in their studies. This focus enables officials to compare the experiences of current recipients with those of recipients that have left the rolls. Such comparisons contribute to states' understanding of the characteristics and experiences of recipients who are able to leave welfare and of how leaving welfare affects their well-being. The primary argument against this approach is its higher cost.
+
+Applicants who withdraw or enter diversion programs. States seldom collect information about families that apply for welfare but who do not complete their applications. An important subgroup among these families are those that enter diversion programs—accepting one-time assistance or services in return for agreeing not to apply for monthly assistance for a certain period. States do not know much about this population—how much they contribute to the decline in welfare caseloads, what their reasons are for withdrawing their applications or entering the diversion programs, whether they are working or begin to work, and how well they are able to support their families without welfare assistance. Surveying them can be more difficult because welfare officials may have limited information about them, but cross-matching with administrative data should not be any harder for this group. Understanding the outcomes of diversion programs is also important, so states can begin to incorporate these cases into their studies.
+
+How Quickly Does the State Need the Study Findings?
+
+The timing of reporting is another key concern. For studies that aim to provide feedback to inform ongoing policymaking efforts, the time span between the collection and the reporting of data is critical. Policymakers often need to know quickly about how well the reforms are working and what changes may be needed to improve the program. Studies keyed to rapid reporting can help answer doubts about how the program is working as well as identify problems so that they can be addressed. Timing is particularly important in states where the legislature's involvement in policymaking and appropriations is necessary. Studies should be designed with an eye toward timely feedback for policymaking purposes even though such a design might not be as useful for documenting the effects of welfare reforms.
+
+Designing a followup study requires making choices about what information is most important and then adopting the approaches best suited to collect that information. Several states are combining different strategies because of their desire to answer what they view as critical questions. Many states are also developing long-term followup strategies that address immediate questions as quickly as possible and address other questions in a longer timeframe.
+
+How Can the Need for Information Be Balanced with Cost Concerns?
+
+Valid followup studies require a substantial investment of resources that could otherwise be used for direct services to help recipients find and keep jobs. Money for followup studies can come from federal TANF funds or state maintenance-of-effort funds. Most states have experienced a substantial reduction in their caseload, which makes questions about what has happened to families that have left welfare more important. The decline in caseloads also means that money that otherwise would have been spent for benefit payments is available for followup studies. However, spending on followup studies means less money for services to recipients trying to leave welfare and for transitional services to families that have already left the rolls. Although policymakers, the media, and the public remain intensely interested in the effects of welfare reforms, policymakers must weigh the value of increased information against the cost of collecting it. Valid followup studies require substantial spending, and much of the information may need to be collected again at different points in time—months or even years apart. Quick studies that are not well thought out can be misleading and will not answer all of the questions that policymakers and the public are asking.
+
+Use of Surveys in Followup Studies
+
+Twenty-five state have or are planning followup studies that rely at least partially on surveys to collect data. From those studies, as well as the materials developed by David Fein of the consulting firm Abt Associates for the NGA/NCSL/APWA conference on Tracking and Followup Under Welfare Reform, several issues can be identified when considering the use of surveys or evaluating survey research.
+
+As with all research methods, investigators must decide which questions they are trying to answer. The purpose of the survey will have an impact on its design. Researchers must decide whether they will study applicants, recipients, people who have left welfare, sanctioned individuals, or other groups. They must also decide whether they will use a comparison group. (For example, if a study focuses on people who have left welfare, it might also include a similar group who remained on welfare to identify significant differences between these populations.)
+
+The unit of study, such as individuals, families, households, or children, should be clearly identified. Another consideration is whether to use an independent sample or a panel. With an independent sample, participants are randomly selected for study at each survey point. With a panel, the same individuals are surveyed at each point.
+
+Timing is also crucial. Determining when to ask the survey questions depends on the purpose of the study. Some studies include anyone who received a welfare payment during a particular period; others focus on long-term recipients or former recipients. The timing of the study must also take into account any changes made to the program that might affect outcomes.
+
+The timing of the followup also depends on how long it takes for events to happen; for example, the number of people finding or retaining jobs within one month after leaving welfare is likely to be different from the number employed after six months or one year. The timing also depends on the study design; if the survey will be conducted at one point in time, investigators should allow enough time to pass to capture outcomes. If the survey will be done in stages, it might begin closer to the point that clients leave welfare. Another consideration is that recall deteriorates over time, and experiences, particularly short-term employment, may be inadvertently omitted by respondents.
+
+Different survey methods are appropriate for different objectives and budgets.
+
+Mail surveys enable researchers to get a rough sense of experiences and outcomes and are relatively inexpensive. However, welfare recipients are a highly mobile population, and many surveys may be undeliverable. The response rate of mail surveys is generally low (less than 30 percent.) Mail surveys must also be geared to the literacy level and language proficiency of the recipients.
+
+Telephone surveys are appropriate for interviews of up to forty-five minutes and generally deliver a response rate between 60 percent and 70 percent. Although many respondents lack telephones, some studies have circumvented this problem by having field researchers provide respondents with a cell phone to call in their responses or by sending a letter offering respondents a monetary incentive for calling a toll-free number.
+
+Mixed-mode surveys use telephone surveys followed by personal visits for nonrespondents or mail surveys with phone followup. Pursuing more than one data collection method will increase the response rate and the validity of the data.
+
+In-person surveys use field personnel to conduct surveys in respondents' homes. Field staff can conduct longer interviews to capture detailed or sensitive information. Although this method produces the highest response rate (usually more than 70 percent), it is also the most expensive, averaging about four times the cost of telephone surveys.
+
+Investigators must also decide whether the study should focus on a subgroup of the families that have left welfare (i.e., a sample) or whether the study should include all families. The key determinant for using this approach is the purpose of the study. If the primary purpose is to identify families at risk of extreme deprivation, then it is important to include all families. If the primary purpose is to measure outcomes and/or to inform ongoing policymaking efforts, a sample can be used. Sampling enables the study to collect more-detailed information without making the cost prohibitive.
+
+Sampling can produce accurate results at a lower cost than surveying an entire population. The size of the sample determines the confidence level of the results (i.e., the probability that observed results would have been obtained by chance). For example, if the difference between two groups is significant at the 95 percent confidence level, a 95 percent chance exists that the difference between the groups is real and there is only a 5 percent chance that the difference represents chance or sampling error. Those commissioning surveys must determine the desired confidence level for each statistic studied. Generally, larger samples increase confidence that smaller observed differences are statistically significant. The findings from larger samples may also be more defensible against critics. Many studies have used a stratified design in which two or more subgroups are compared (e.g., recipients in county A compared with recipients in county B or welfare recipients compared with diverted applicants).
+
+Generally, a sample size of 500 is sufficient for a general-purpose survey, such as a statewide survey of former recipients to determine if they are working and if they are able to support their families. Larger sample sizes would be required to focus on particular regions in the state or to examine the reasons why some recipients could not find or keep jobs. (Alternatively, the state could focus on recipients without jobs by drawing a smaller sample from the recipients whose names do not appear on unemployment insurance lists.) Larger surveys of 3,000 or more provide substantial versatility and precision in analysis, and they can support many subgroup comparisons. However, the increased cost suggests that these surveys should be reserved for critical data needs.
+
+Questionnaire Design
+
+The length of the survey is important in determining response rates. The longer and more complex the survey, the less likely respondents are to complete it. Each question should be scrutinized for its importance to the final analysis. The wording of the questions is also critical in obtaining an accurate result. Questions should clearly get at the issues of interest, and the language and reading level must be appropriate for the audience. Questions should be free of ambiguity, and each question should address a single issue. (For example, "Do you currently have a satisfying job?" addresses two issues&frac34; whether the respondent has a job and whether the job is satisfying). Questions should be reviewed for response bias (i.e., the tendency to give socially acceptable answers).
+
+Response formats should be appropriate to the question. Questions may be asked in open-ended, multiple choice, ratings, or other formats. Questions should cover the entire range of possible answers. Answers may be complex and may not be captured by simple answer choices (e.g., "Why are you no longer receiving benefits?"). If interviewers are used, it should be clear whether they should read the questions and whether they should provide interpretations.
+
+Sensitive material should be elicited without stigmatizing the respondent. It should be placed after more general questions and should seem a natural part of the questionnaire.
+
+Pretesting the questionnaire on a small group of respondents will often reveal problems in interpreting questions. These problems can then be corrected before the survey is distributed.
+
+A high response rate is critical to the success of the survey and its acceptance by the public, the media, and decisionmakers. A high response rate ensures greater accuracy by minimizing "response bias," the difference between the respondents and the total sample. Major followup studies generally seek a response rate of 70 percent or more.
+
+Most nonresponse arises from the failure to locate respondents. Methods for increasing the response rate include:
+
+building tracking information into automated systems;
+
+including a special in-office followup form at intake;
+
+conducting a special survey for tracking purposes;
+
+verifying addresses and phone numbers with other records;
+
+being persistent and flexible in scheduling interviews; and
+
+using in-field followup after failure to complete a telephone interview.
+
+Some states, such as Massachusetts and Oklahoma, have had some success using monetary incentives to encourage people to respond to surveys. Other states have encountered political resistance to this approach.
+
+Survey response also depends on the experience and organization of the interviewers. Field interviewers must be trained in the objectives of the survey, must elicit trust from the individuals, and must be well-organized and well-supervised. Although states such as South Carolina have had success using state employees for field interviews because the workers already have an established relationship with the clients, other states avoid using state employees because respondents may perceive that the workers are "checking up on them" or that their welfare check may be affected. Confidentiality issues may also come into play when using state employees. Interviewers whose primary purpose is something other than the survey, such as nurses or social workers performing mandatory home visits, may not obtain complete or accurate results.
+
+Use of Administrative Data in Followup Studies
+
+Administrative records from TANF and many other programs can be used for tracking applicant and client outcomes, evaluating the effectiveness of intervention strategies, monitoring caseload dynamics, managing programs, and tracking indicators of a state's social and economic well-being over time. They can help policymakers and program administrators better understand the intended and unintended consequences of actions taken, including possible cost shifts among programs. In addition, administrative records provide the data needed to meet federal reporting requirements and to compete for the TANF high performance bonus. For example, Maryland has been using administrative records to track client outcomes of its welfare reform program.
+
+As with the other data collection methods, it is important to clearly identify the questions to be answered, set priorities among competing interests, and determine which administrative data can most likely answer those questions. Most states conducting research on their welfare reform programs are supplementing administrative data with surveys, case studies, and other data collection methods to address questions that administrative data cannot address. Potential administrative data sources include unemployment insurance wage records; Food Stamp program files; Medicaid eligibility files; new hire registries; vital records, which contain information on births, receipt of prenatal care, complications in birth, and infant birthweight; child welfare/foster care records; drug and alcohol abuse data; Supplemental Security Income and refugee data; juvenile justice records; general assistance records; public housing information; and school records. In addition, national data from the Survey of Income and Program Participation can supplement state administrative data. Researchers are also beginning to use demographic and other data available from telemarketing and similar firms to complement other data sources.
+
+Using administrative data is not a panacea. These records have many limitations, both technical and administrative. However, compared with other data collection approaches, using administrative data is inexpensive. Moreover, analyses may be completed more quickly and can be done retroactively because data already exist. States must proceed with caution when linking welfare and child welfare data, despite the relative ease with which it can be done, because of the volatile nature of child welfare data. For example, reports of child abuse increase after a highly publicized death of a child in the child welfare system. It is therefore better to track the status of all children as they move in and out of different parts of the states' human service systems over time. This is the approach that University of Chicago's Chapin Hall is taking in a study of welfare reform programs in California, Illinois, Massachusetts, and North Carolina.
+
+Confidentiality Issues
+
+Although the use of administrative records does not impose an additional data collection burden on clients or employers, confidentiality issues related to both of these groups must be dealt with carefully. For example, as part of New York's application process, unemployment insurance beneficiaries give passive permission for the state to use wage records for research purposes. State laws or regulations governing the new hire registries might have to be changed to allow them to be used for this purpose.
+
+Generally, as state agencies have become accustomed to, and developed procedures for, matching wage records with other data files, concerns about confidentiality have eased. This is especially true now that other agencies are interested in using wage records as part of their evaluation strategies. The most formidable confidentiality issues relate to school records. State laws and policies differ in terms of restrictions on the sharing and release of information. States experienced in using unemployment insurance wage records suggest that it is important to be specific about who will have access to which data and the purposes for which the data will be used. In addition, each research project involving the use of wage records should be approved separately. Experienced researchers suggest that it is best to try to handle confidentiality issues at the technical rather than political level to ensure the continuity of data-sharing agreements and to avoid having to revisit these issues every time new political appointees assume office.
+
+Using administrative data requires persistence and patience, attention to details, and familiarity with the data sources. Those with experience in using administrative records for research emphasize that one should not underestimate the time and effort it takes to clean files so that they can be used. The various data systems, including those of the welfare system from which administrative records are being extracted, were not designed with welfare evaluation purposes in mind. Because of the numerous technical issues that must be resolved, it is wise to start small with projects that can be completed at a reasonable cost in a reasonable timeframe.
+
+Data Accuracy Issues
+
+Information on important data elements is frequently missing or recorded inaccurately. For example, demographic data are often unreliable because their accuracy was not important to program success. Historically, data on the reasons for welfare case closure have not been well documented. Wage record data provided by employers on migrant workers is notoriously unreliable because they often report multiple workers as having the same Social Security number. In addition, file contents tend to change over time so comparative data are difficult to find.
+
+To match files, each file must have a unique identifier and the identifiers used in the different systems must be compatible. This is often not the case. For example, TANF record identifiers are based on families, while child welfare records are identified by the names of the child's parents. Neither vital statistics nor substance abuse records have unique identifiers, in the latter case because of confidentiality concerns. Several states assign their own identification numbers to individuals so they can track the individuals across a variety of systems.
+
+Several strategies can help to address technical limitations in unemployment insurance wage records.
+
+Coverage. Although most types of employment are covered, self-employment and employment in the federal government and military are not. Currently, self-employment is a very small component of all employment, particularly among former welfare recipients, but this segment is likely to grow with the increasing use of contingent workers and independent contractors. Federal and military employment is more of an issue in certain parts of the nation. Affected states need to work out a mutually convenient strategy with the Office of Personnel Management to obtain data on nonmilitary federal employment and with the postal service and military branches for employment in these sectors.
+
+Interstate Data Sharing. Although information on employment in other states is not included in a state's unemployment insurance records, many states have formal and ad hoc data-sharing agreements. States in the Northwest have a formal agreement among themselves, and twenty-six states have interstate data-sharing agreements through the Information Technology Support Center operated by Lockheed Martin in Maryland. The National New Hire Directory established as part of the child support enforcement system may enable states to check employment in other states. However, protocols for accessing this data for research purposes have not yet been developed.
+
+Employment and Wages. Wage records provide information on employment and total earnings during a quarter. However, because no information is provided on the date of hire, it is impossible to determine the wages paid per hour or the amount of time a person worked during the quarter. The National New Hire Directory now provides information on the planned date of hire that can be matched with unemployment insurance wage records. States interested in obtaining information on the location of the worksite may need to receive authority from their state legislature to do so. Currently, Minnesota collects worksite information on its wage records and Missouri is considering collecting this information. The employer address in the National New Hire Directory is not necessarily that of the worksite.
+
+Seasonal Fluctuations. It is best to use third-quarter data, or, if necessary, second-quarter data to avoid measuring inflated quarterly earnings because of end-of-year bonuses.
+
+Maintaining Access Over Time. Such files as unemployment insurance records are often "dumped" or archived after a certain period. Consequently, files must be preserved or new shadow files created if they are to be easily accessed over time.
+
+State Data-Sharing Initiatives
+
+A few states, including California, Kentucky, Maryland, and Tennessee, are moving toward the creation of data warehouses that will store information extracted from administrative records that can be readily used for research purposes. The term "data warehouse" refers to the archiving and integration of data from a variety of sources in a single commonly formatted database that provides a "snapshot" of comparable information at different points in time. Creating data warehouses involves developing compatible data structures, definitions, and coding conventions. It also involves archiving files, such as the unemployment insurance wage records, that would otherwise be "dumped" so they can be easily accessed over time.
+
+California is trying to create files on the total universe of clients rather than just samples of clients extracted from administrative records. People frequently move in and out of households, making it difficult to track them with less than a universal approach. Despite the added expense, this approach may prove more useful over the long term.
+
+Data-sharing often is carried out through partnerships between state agencies and state universities. California's longitudinal database of Medicaid recipients, which serves as the core for its data-integration efforts, is being developed through the UCDATA project at the University of California at Berkeley. Maryland is building a data warehouse at Towson State University that links TANF, food stamps, child support enforcement, child welfare, and unemployment insurance records. Georgia State University, the University of Missouri, the University of Baltimore, and the University of Texas all have unemployment insurance data archives dating back about ten years. In working with universities and contractors, state agencies must make it clear that they retain control over what can be done with the data.
+
+It is also important to have "computer people" talk to "computer people" so they are clear on the content of each data field and can make sure they have the technical capacity to manipulate the relevant databases. For example, policymakers in Kentucky have committed one person from each of the relevant cabinet agencies to work together full time for up to one month so they can resolve all of the data issues related to linking key databases. In addition to the technical people, program staff need to be involved so they can help explain the data. For example, they could explain a rise in the number of reported child abuse cases during a certain period because they know the increase was associated with publicity about the death of a child in the child welfare system.
+
+Increased demand for data matching and information on the outcomes of welfare reform is placing even greater demands on states' already-overburdened information-processing capabilities. Many of the states' information systems staff are overwhelmed by the workload required to make massive federally mandated changes in welfare, child support, and other state data systems and address Year 2000 conversion issues. Changes in information systems are complicated by state agency reorganizations and devolution, decentralization, and privatization initiatives that create new organizational relationships and bring in new players who must be trained. (For example, California's system is based only on county-level administrative data because counties are responsible for administering welfare in California.)
+
+State policymakers need to consider several issues in deciding how to study families that leave welfare, including methodology, sample size, information needs, and available resources. At least thirty-three states are now committed to some type of followup study. Information from those studies should give states vital feedback for policymaking and substantially increase the understanding of welfare reforms. The findings will assist states in determining whether recipients are moving from welfare to work and whether programs and support services must be modified to facilitate a successful transition. The outcome data from these studies will be particularly useful to policymakers interested in adopting the approaches developed by other states. Followup studies enable states to track the historic changes in the nation's welfare system and their effects on the families that have left the welfare rolls, and to consider ways to best assist these families in the future.
+
+Appendix - Summaries of Two State Followup Studies
+
+Survey of Closed Cases – South Carolina
+
+Survey of Former Family Independence Program Clients: Cases Closed January Through March 1997
+
+Investigator: Department of Social Service, Division of Program Quality Assurance
+
+Contact Person: Marilyn Edelhoch, Director of Research and Evaluation, 803/734-5937
+
+Method—Phone interviews and home visits with a sample of families who had case closings from January through March 1997. Random selection of 532 cases from a universe of 5,320 closed cases. Initial contacts were made by telephone for interview, but when respondent could not be contacted by telephone, a home interview was attempted. 395 interviews were completed. Response rate was 78 percent with ineligible cases excluded.
+
+Most common response for leaving program—reflects respondent opinions
+
+Earned too much money 15%
+
+Did not want to be on welfare 14%
+
+Have child support income 9%
+
+Employment status at time of interview
+
+Employed at time of interview 65%
+
+Not employed since leaving welfare 15%
+
+Average Hours Per Week 34
+
+Average Hourly Wage $6.00
+
+Reasons for unemployment (if no job at time of interview)
+
+No transportation 25%
+
+Lack of child care 24%
+
+Can't find a job 16%
+
+Illness or injury 12%
+
+Household deprivation on welfare after leaving
+
+Period without money to buy food 6% 14%
+
+Behind in rent or housing payment 12% 18%
+
+Behind in utility bill 16% 19%
+
+Lack of money for child care 12% 11%
+
+Could not pay for medical care 3% 9%
+
+About one third of those families eligible for transitional child care did not know of their eligibility and about one quarter of those eligible for transitional Medicaid did not know of their eligibility.
+
+Administrative Data Matching - Maryland
+
+Life After Welfare: Second Interim Report
+
+Investigator: University of Maryland, School of Social Work, Welfare and Child Support Research and Training Unit
+
+Contact Person: Catherine Born, 410/706-5134
+
+Method—Data matches between closed cases and administrative records (welfare, child support, and unemployment insurance (UI)). Every month, a 5 percent random sample is taken of closed cases. A total of 2,156 closed cases was reported in the twelve months. Cases are then matched with administrative records that will report whether the persons earned wages in a job covered by the unemployment insurance system or returned to the welfare rolls. Maryland is also undertaking interviews of former recipients, but they are not yet complete.
+
+Reasons for case closing (from welfare records)
+
+Income above eligibility limit 19%
+
+Failure to complete the eligibility redetermination process 19%
+
+Failure to give eligibility information 13%
+
+Client started work / has higher wages 11%
+
+Client requested closure 9%
+
+Did former recipient have UI-reported earnings?
+
+UI-reported wages in the first quarter after they left welfare 51% (Average income of $2,384 over three months for those working)
+
+UI-reported wages in the third quarter after they left welfare 55% (Average income of $2,374 over three months for those working) Note: Former recipients who are identified as working in a quarter may not have worked during all three months of the quarter, so it is not possible to estimate monthly earnings straightforwardly.
+
+Among those recipients with a previous wage history, 65 percent worked in the first quarter after they left welfare.
+
+Employment characteristics
+
+Employed in wholesale and retail trade, including eating and drinking places 35%
+
+Employed in organizational services, including nursing homes and hospitals 24%
+
+Employed in personal services, including temporary employment agencies 19%
+
+Families returning to welfare—In the first three months after exiting, 19 percent of recipients returned to the caseload, most in the first 30 days. Of those families that had received a full family sanction for noncompliance with work or child support requirements, 35 percent returned to the caseload within three months.
+
+Child welfare and foster care—Of 3,467 children whose families left welfare, 15 were placed in foster care after case closure.
+
+Topics Welfare, Welfare Reform, & TANF

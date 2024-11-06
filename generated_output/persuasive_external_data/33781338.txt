@@ -1,0 +1,227 @@
+This website will offer limited functionality in this browser. We only support the recent versions of major browsers like Chrome, Firefox, Safari, and Edge.
+
+Self-driving cars: Can AI make the ‘right’ decisions on the road?
+
+Self-driving cars: Can AI make the ‘right’ decisions on the...
+
+Self-driving cars: Can AI make the ‘right’ decisions on the road?
+
+Roads must be safe and accessible for everyone. But according to the WHO, nearly 1.35 million people end up dying in road accidents every year. Traffic injuries remain the leading cause of deaths among those aged between five and 29 years.
+
+During a global ministerial conference this year, The Stockholm Declaration has set a new target to halve the number of deaths and injuries from road crashes by 2030.
+
+Self-driving cars have been put forth as a solution that can make mobility safe, secure, affordable, sustainable and accessible for everyone. But can autonomous driving systems be relied on to make life-or-death decisions in real time? And is the world ready to be driven around in these vehicles?
+
+These burning questions were tackled in a panel discussion during the AI for Good Global Summit 2020.
+
+Technology driving the focus
+
+The automotive industry has long touted self-driving features to customers for safety and comfort on the road.
+
+Tesla recently said a beta version of its ‘full self-driving’ software will be released to a few “expert and careful drivers.” Five years after its prototype debuted on a public road, Alphabet’s Waymo has opened its “fully driverless service” taxi to the public in Phoenix, United States.
+
+Road safety is governed internationally by the 1949 and 1968 Conventions on Road Traffic.
+
+While technology holds promise in averting crashes caused by human error, there are concerns on whether self-driving cars are built to adapt to evolving traffic conditions.
+
+“A lot of the focus now is on technology and there’s not enough on the user and their traffic environments,” said Luciana Iorio, chair of the UNECE Global Forum for Road Traffic Safety (Working Party 1), custodians of the road safety conventions.
+
+A technology-driven approach does not take into account that more than half of all road traffic deaths are pedestrians, cyclists and motorcyclists. Well-designed cities and infrastructure are needed to protect these vulnerable road users.
+
+“Self-driving technology should not create a digital divide and must be a transformational opportunity for everyone around the world,” Iorio added.
+
+Danger also arises when car manufacturers oversell their technology as being more autonomous than it actually is. Liza Dixon, a PhD candidate in Human-Machine Interaction in Automated Driving, coined the term “autonowashing” to describe this phenomenon.
+
+SAE International defines vehicles as having six levels of automation depending upon the amount of attention required from a human driver. In levels zero through two, humans drive and monitor the traffic environment; in levels three through five, the automated systems drive and monitor the environment.
+
+The advanced driver assistance systems (ADAS) in cars today exhibit SAE Level 2 partial automation. Many consider SAE Level 5, where the automated driving system can operate under all traffic and weather conditions as being out of reach, so for now the industry is focused on SAE Level 4 with restricted driving conditions, such as small geographical areas and good weather.
+
+Consumers may be unaware of these distinctions. Videos showing people sleeping or watching movies in their cars are creating a dangerous, misguided impression about the technology, Dixon said.
+
+“Every consumer vehicle on the road today needs the driver to be prepared to take over control at all times. It’s critical for the driver to know this is a supportive, cooperative system that augments their ability and not something that takes over their role of driving,” Dixon said.
+
+Language and perception matter too. A study by the American Automobile Association (AAA) Foundation introduced the same driving assistance system to two sets of participants albeit with different names. One group was told about the capabilities of the “AutonoDrive” system and the other about the limitations of the “DriveAssist” system. The former was more likely to incorrectly believe in the system’s ability to detect and respond to hazards, the study found.
+
+Open frameworks for public safety
+
+There are efforts afoot to fix the lack of industry-wide standards for safe self-driving.
+
+The World Economic Forum’s Safe Drive initiative wants to create new governance structures that will then inform industry safety practices and policies for self-driving cars. Their proposed framework is centred around a scenario-based safety assurance approach.
+
+“This is predicated on the assumption that the way autonomous vehicles are managed today were piloted through exemptions and non-binding legal codes, which are not sufficient in the long term,” said Tim Dawkins, Lead of Automotive and Autonomous Mobility at WEF.
+
+The safety of autonomous vehicles can only be dictated in the context of its environment, he added.
+
+The ITU Focus Group on AI for autonomous and assisted driving is working towards the establishment of international standards to monitor and assess the behavioural performance of the ‘AI Driver’ steering automated vehicles. It has proposed an international driving permit test for the AI Driver, which requires a demonstration of satisfactory behaviour on the road.
+
+The UNECE’s Working Party 29, responsible for the harmonization of global vehicle regulations, has said: “Automated vehicle systems, under their operational domain (OD), shall not cause any traffic accidents resulting in injury or death that are reasonably foreseeable and preventable.”
+
+According to Bryn Balcombe, chair of the ITU Focus Group and founder of the Autonomous Drivers Alliance (ADA), terms like “reasonably foreseeable” and “preventable” still need to be defined and agreed while ensuring they match public expectations.
+
+The IEEE Global Initiative on Ethics of Autonomous and Intelligent Systems has also been working on broad and specific safety standards across industries, ranging from healthcare and agriculture to autonomous driving.
+
+“We have taken an umbrella approach to create ground rules to engender trust. We apply different considerations to different case studies and stress-test them,” said Danit Gal, a member of its Executive Committee and a Technology Adviser in the Office of the UN Under-Secretary-General.
+
+Frameworks need to consider the continuously changing nature of autonomous machines, she said, also noting the challenge of aligning international standards to national regulations.
+
+Gal proposed an information sharing hub for different AI-enabled mobility initiatives to exchange their findings. Balcombe brought up the Global Initiative on AI and Data Commons which promotes sharing of open datasets and results. “This is to make sure that technology can be developed to deploy broadly and widely and not create and exacerbate some of the divides that we currently have,” he said.
+
+The ‘Molly problem’ of ethical decisions
+
+Public trust and intuitions about AI and its ability to explain decisions made on the road are crucial for the future of AI-enabled safe mobility, according to Matthias Uhl and Sebastian Krügel from the Technical University of Munich.
+
+Together with the ADA, Uhl and Krügel set up ‘The Molly Problem’ survey to support the requirements-gathering phase for the ITU Focus Group.
+
+An alternate take on the ‘trolley problem’ thought experiment, ‘The Molly Problem’ tackles the ethical challenges to consider when autonomous vehicle systems are unable to avoid an accident. Its premise is simple: a young girl, Molly, crosses the road and is hit by an unoccupied self-driving vehicle. There are no eyewitnesses. What the public expect should happen next is captured by a series of questions that define ‘The Molly Problem’.
+
+A survey circulated ahead of the panel discussion sought to collect feedback from members of the public, receiving 300 responses at the time of the event.
+
+Uhl and Krügel found that a majority of respondents wanted the AI system to be able to store and recall information about Molly’s crash. From the time and location of the crash, they also wanted to know the vehicle’s speed at the time of collision, when collision risk was identified and what action was taken. Respondents also believed the software should be able to explain if and when the system detected Molly and whether she was detected as a human..
+
+“About 73 per cent of the respondents said that even though they are very excited about the future of autonomous vehicles, they think vehicles should not be allowed to be on the road if they cannot recall this information. Only 12 per cent said these can be on the road,” said Krügel.
+
+An even bigger challenge for the industry to address is that 88 per cent of respondents believed similar data about near misses events should be stored and recalled.
+
+The results from this survey will help identify requirements for data and metrics in shaping global regulatory frameworks and safety standards that meet public expectations about self-driving software.
+
+A step towards explainable AI
+
+Existing event data recorders focus on capturing collision information, said Balcombe. At present, there is no common approach or system capable of detecting a near-miss event, he added. ‘Black box’ recording devices for autonomous cars only indicate if a human or a system was in control of the vehicle or whether a request to transfer control was made.
+
+“It’s about explainability. If there has been a fatality, whether in a collision or a surgery, the explanations after the event help you build trust and work towards a better future,” Balcombe said.
+
+Krügel believes that these concerns about self-driving need the input of social scientists who can work with engineers to make algorithms ethically safe for society.
+
+Gal acknowledges that different ethical constraints and approaches pose challenging questions to promising solutions. “What happens if we find a system that caters more to a particular audience and someone else is not happy with a decision made during a collision. To what extent are they actually able to challenge it and to what extent can the machine reflect on these ethical decisions and act in a split second?” she asked.
+
+A UN High-Level Panel on Digital Cooperation, which advances global multi-stakeholder dialogue on the use of digital technologies for human well-being, put forth this recommendation in 2019:
+
+“We believe that autonomous intelligent systems should be designed in ways that enable their decisions to be explained and humans to be accountable for their use.”
+
+The discussions from this event will inform the UN panel’s ongoing consultation process on artificial intelligence.
+
+Artificial intelligence (AI) Digital transformation Internet of things Smart cities Standards AI AI for Good Summit Connected car SDG 11 Sustainable cities and communities SDG 9 Industry Innovation and Infrastructure Self-driving car Smart mobility
+
+Subscribe to our newsletter
+
+Detecting deepfakes and generative AI: Report on standards for AI watermarking and multimedia authenticity workshop 2024
+
+New UN initiative to reduce disaster risk with AI 20 Aug 2024
+
+Key findings on the state of global AI Governance 17 Jul 2024
+
+This information is available only to people with TIES access. Login
+
+We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking “Accept All”, you consent to the use of ALL the cookies. However, you may visit "Cookie Settings" to provide a controlled consent.
+
+Cookie SettingsAccept All
+
+This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may affect your browsing experience.
+
+Necessary Always Enabled
+
+Necessary cookies are absolutely essential for the website to function properly. These cookies ensure basic functionalities and security features of the website, anonymously.
+
+ARRAffinity cookie is set by Azure app service, and allows the service to choose the right instance established by a user to deliver subsequent requests made by that user.
+
+This cookie is set by Windows Azure cloud, and is used for load balancing to make sure the visitor page requests are routed to the same server in any browsing session.
+
+cookielawinfo-checkbox-advertisement
+
+Set by the GDPR Cookie Consent plugin, this cookie is used to record the user consent for the cookies in the "Advertisement" category .
+
+cookielawinfo-checkbox-analytics
+
+This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Analytics".
+
+cookielawinfo-checkbox-functional
+
+The cookie is set by GDPR cookie consent to record the user consent for the cookies in the category "Functional".
+
+cookielawinfo-checkbox-necessary
+
+This cookie is set by GDPR Cookie Consent plugin. The cookies is used to store the user consent for the cookies in the category "Necessary".
+
+cookielawinfo-checkbox-others
+
+This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Other.
+
+cookielawinfo-checkbox-performance
+
+This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Performance".
+
+viewed_cookie_policy
+
+The cookie is set by the GDPR Cookie Consent plugin and is used to store whether or not user has consented to the use of cookies. It does not store any personal data.
+
+Functional cookies help to perform certain functionalities like sharing the content of the website on social media platforms, collect feedbacks, and other third-party features.
+
+LinkedIn sets this cookie from LinkedIn share buttons and ad tags to recognize browser ID.
+
+LinkedIn sets this cookie to store performed actions on the website.
+
+LinkedIn sets this cookie to remember a user's language setting.
+
+LinkedIn sets the lidc cookie to facilitate data center selection.
+
+LinkedIn sets this cookie for LinkedIn Ads ID syncing.
+
+Performance cookies are used to understand and analyze the key performance indexes of the website which helps in delivering a better user experience for the visitors.
+
+Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics the number of visitors, bounce rate, traffic source, etc.
+
+The _ga cookie, installed by Google Analytics, calculates visitor, session and campaign data and also keeps track of site usage for the site's analytics report. The cookie stores information anonymously and assigns a randomly generated number to recognize unique visitors.
+
+This cookie is installed by Google Analytics.
+
+A variation of the _gat cookie set by Google Analytics and Google Tag Manager to allow website owners to track visitor behaviour and measure site performance. The pattern element in the name contains the unique identity number of the account or website it relates to.
+
+Installed by Google Analytics, _gid cookie stores information on how visitors use a website, while also creating an analytics report of the website's performance. Some of the data that are collected include the number of visitors, their source, and the pages they visit anonymously.
+
+_hjAbsoluteSessionInProgress
+
+Hotjar sets this cookie to detect the first pageview session of a user. This is a True/False flag set by the cookie.
+
+Hotjar sets this cookie to identify a new user’s first session. It stores a true/false value, indicating whether it was the first time Hotjar saw this user.
+
+_hjIncludedInPageviewSample
+
+Hotjar sets this cookie to know whether a user is included in the data sampling defined by the site's pageview limit.
+
+_hjIncludedInSessionSample
+
+Hotjar sets this cookie to know whether a user is included in the data sampling defined by the site's daily session limit.
+
+To determine the most generic cookie path that has to be used instead of the page hostname, Hotjar sets the _hjTLDTest cookie to store different URL substring alternatives until it fails.
+
+YouTube sets this cookie via embedded youtube-videos and registers anonymous statistical data.
+
+Advertisement cookies are used to provide visitors with relevant ads and marketing campaigns. These cookies track visitors across websites and collect information to provide customized ads.
+
+This cookie is set by Facebook to display advertisements when either on Facebook or on a digital platform powered by Facebook advertising, after visiting the website.
+
+Facebook sets this cookie to show relevant advertisements to users by tracking user behaviour across the web, on sites that have Facebook pixel or Facebook social plugin.
+
+Twitter sets this cookie to integrate and share features for social media and also store information about how the user uses the website, for tracking and targeting.
+
+A cookie set by YouTube to measure bandwidth that determines whether the user gets the new or old player interface.
+
+YSC cookie is set by Youtube and is used to track the views of embedded videos on Youtube pages.
+
+yt-remote-connected-devices
+
+YouTube sets this cookie to store the video preferences of the user using embedded YouTube video.
+
+YouTube sets this cookie to store the video preferences of the user using embedded YouTube video.
+
+Other uncategorized cookies are those that are being analyzed and have not been classified into a category as yet.
+
+_hjSessionUser_768571
+
+AnalyticsSyncHistory
+
+BIGipServer3sEEw690n76oenZ3ixwpzQ
+
+wp-wpml_current_language
+
+No description available.

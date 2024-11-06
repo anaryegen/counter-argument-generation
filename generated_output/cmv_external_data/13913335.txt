@@ -1,0 +1,53 @@
+Select your location Close
+
+Artificial intelligence
+
+The Social impact of Robotics
+
+The Social impact of Robotics
+
+Learning machines, thinking machines, intelligent machines… Have you ever wondered what is coming our way? Intelligent robots have been a topic in books and films for decades. One of the important authors on robots, Isaac Asimov, started writing on this topic in 1939. But it all used to be science fiction. Recently ‘Machine Intelligence’ has become so powerful that I am now convinced that it is no longer science fiction but something that will change our lives very soon. When we are testing robots we look from various angles. Of course, we want to know if the mechanical and electrical parts are working well. And the information processing basically is no different than in any other IT-system. What’s new in testing robots is how to determine if the machine intelligence is functioning properly. When the machine learns, does it actually improves its behavior? Below you see our model for the different levels of quality that have to be assessed when evaluating new technology. Social impact is the last and hardest level. But the most important angles to look at the quality and risks of robotics are the business impact and social impact. The business impact can be judged by looking at the business process and evaluating whether the robot fits well within the process and actually makes the process more valuable to the user and/or owner. In my opinion the social impact of robotics is the hardest angle to test. Because how can we determine if the social impact is desirable? Let me give you some examples (both positive and negative) of social impact of robotics. My brother-in-law owns a farm where he has about 200 dairy cows. Since a couple of years he has a milking-robot. This robot uses a regular industrial robot-arm with some laser-sensors to milk the cows fully automatically and 24 hours a day (you will be amazed how often cows want to be milked in the middle of the night!). Not only does this robot save a lot of manual labor and it gathers useful information about the health-condition of the cows. At least as important was the social impact. In “the old days” the farmer had to be at home from 5:30 through 8:00 in the morning and from 17:00 through 19:30 in the evening to milk the cows. Seven days a week! Since the robot took over the farmer has a choice to sleep longer or to go shopping or do whatever other thing. Also it’s much easier to go away for a couple of days, you only need someone (a neighbor for example) who is able to go to the farm when the robot sounds an alarm. But the most continuous impact of the robot being installed at the farm was that the farmer and his family are now able to have dinner together every day at 18:00 hours, as regular families in the Netherlands do. Unfortunately not all types of social impact of robots will be positive. Think of self-driving cars. Yes, they are robots too. Imagine all cars would be self-driving (and they will be although it’s still difficult to say when the tipping point will be reached). Would there still be taxi-drivers? No! Would you need truck-drivers? Well, maybe you still would need someone to load and unload the truck, but the driving will be automatic. And also think of car-salesmen. Who would still want to buy a car? You can simply order a car when you need one. And if you like some company you order a shared-car (multiple people going in the same direction in one self-driving car). Butif you want some quietness you order your own car (and pay a little extra). So you won’t buy and own a car anymore. The self-driving cars will change our society at least as much as the smart-phone has recently done. Will new jobs be created? Yes, I think they will. For example think of “robot-trainers”. People that assist robots in learning a specific skill. In the future we won’t program our robots but simply demonstrate how a task has to be done and give them feedback whether they do it correctly. Another new job is “robot-psychologist”. We will need to teach robots what behavior is seen as correct and what isn’t. For example the Spencer-robot that helps transfer -passengers at Schiphol Airport to find their way from one gate to the other. Spencer has learned not to walk between people that are standing opposite of each other and one of them is holding a camera. And more important psychological dilemmas will also arise and be dealt with. The group of people that will experience the biggest social impact of robots are children. Robots will enter schools and assist children in learning. But robots can also take over tasks. Children will quickly find out that robots are very good at making homework. Would that be a good or a bad development? It wouldn’t be difficult to find many more examples of impact of robotics on our social lives. What really intrigues me is how can we “test” whether a specific impact is good or not? To be able to determine if something is good or bad we need some sort of specification of what is good. But “good” depends on many things. For example on your social values. Also “good” will differ over time. Currently we may not like it when robots take over jobs of taxi-drivers. But if robots do the work so much more efficient that we only have to work one day a week to earn our salary we may actually like robots very much and spend a lot of time on doing things we really enjoy. Robots will have social impact. Both positive and negative. Prepare for that!
+
+Quality and Testing expert | Netherlands
+
+Rik Marselis is principal quality consultant at Sogeti in the Netherlands. He has assisted many organizations in improving their IT-processes, in establishing their quality & testing approach, setting up their quality & test organization, and he acted as quality coach, QA-consultant, test manager and quality supervisor.
+
+AI-driven energy optimization for software and web applications26 Aug 2024
+
+The Backbone of Analytics and AI: Why Data Architecture Matters1 Aug 2024
+
+6 Books to Read This Summer31 Jul 2024
+
+Stand by your Android!30 Jul 2024
+
+Learning to write maybe your greatest skill29 Jul 2024
+
+Why is traceability important for AI generated results?26 Jul 2024
+
+The Solid Foundation of Insights: Why Data Architecture Matters in Analytics and AI25 Jul 2024
+
+AI Alchemy: Turning Test Case Data into Strategic Business Intelligence17 Jul 2024
+
+Organic: A Case for Democratizing Data in AI3 Jun 2024
+
+AI-Driven Energy Optimization for IT21 May 2024
+
+9 thoughts on “The Social impact of Robotics”
+
+Basic income and it’s consequences?
+
+i think thias site isnt helping my maths
+
+I want to know that misuses of robotics
+
+It is true that robotics could change the lives of humanity and there will be 2 sides of the story here. While there will indeed be a good and the bad, we humans still have the higher intellect and it is up to us to filter out situations to totally eliminate or if not minimize the bad impact.
+
+Expecting further reading on invention of Robots
+
+This article has helped out a lot with a project I’m currently working on so thanks for the information.
+
+i want to know negative impacts on robots
+
+that’s so real what they’re talking about thank you it help me for my homework
+
+Leave a Reply Cancel reply

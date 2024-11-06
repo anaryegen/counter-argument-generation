@@ -1,0 +1,119 @@
+Should social media platforms be liable for content they post?
+
+by: Coralie Chun Matayoshi
+
+Posted: Sep 25, 2023 / 10:00 AM HST
+
+Updated: Sep 15, 2023 / 02:34 PM HST
+
+by: Coralie Chun Matayoshi
+
+Posted: Sep 25, 2023 / 10:00 AM HST
+
+Updated: Sep 15, 2023 / 02:34 PM HST
+
+Q. Traditional media (newspapers, radio, TV) have long been held accountable for what they publish and post. In 1996 when the internet was just getting started, Congress enacted Section 230 of the Communications Decency Act to shield social media platforms from liability for content they post. What was the rationale for treating social media differently from traditional media?
+
+Section 230(c)(1) says that “No provider or user of an interactive computer service shall be treated as the publisher or speaker of any information provided by another information content provider.” Some say that these are the “26 words that created the internet,” because now websites that host third-party content did not have to try to screen everything that was posted by others. So if someone falsely posts your photo with a caption “pedophile” underneath it on Instagram, you can sue the person who posted it for defamation, but Instagram would not be liable for defamation because the law does not treat Instagram as the publisher or speaker of that post. 
+
+Q. The U.S. Supreme Court recently sided with Twitter and Google in cases brought by families of individuals who were killed in ISIS attacks overseas. Why did the families think that Twitter and Google were to blame for the deaths of their loved ones?
+
+In Twitter v.Taamneh, the family of a Jordanian man killed in a 2017 ISIS attack in Istanbul argued that Twitter aided and abetted ISIS because their algorithms helped ISIS recruit terrorists and they failed to adequately remove terrorist posts from its platforms, in violation of an anti-terrorism law. In a unanimous opinion, The U.S. Supreme Court held for Twitter saying that it is not culpable” even if “bad actors liked ISIS are able to use [the platforms] for illegal – and sometimes terrible – ends.” The court said that aiding and abetting requires “knowing and substantial assistance” to the wrongdoer and that there was no concrete nexus between Twitter’s services and the terrorist activities.
+
+In Gonzalez v. Google, the family of an American woman killed in a 2015 ISIS attack in Paris, argued that Google assisted ISIS in spreading its propaganda by recommending ISIS videos. If users search and click on an ISIS video, YouTube algorithms will provide links to similar videos. The District court granted Google’s motion to dismiss, holding that plaintiffs’ complaint was barred by Section 230 of the Communications Decency Act. “Google’s provision of neutral tools such as its content recommendation feature does not make Google into a content developer under section 230.” The plaintiffs appealed to the 9th Circuit Court of Appeals which affirmed the lower court’s ruling and held that a “website’s use of content-neutral algorithms, without more, does not expose it to liability for content posted by a third party.” The U.S. Supreme Court vacated the 9th Circuit’s judgment and remanded the case for reconsideration in light of the court’s decision in Twitter, Inc. v. Taamneh.
+
+Q. The internet by nature is a sprawling network of information. Don’t social media platforms like Facebook and Twitter have policies that prohibit harmful content and what is their incentive for trying to remove them?
+
+Section 230(c)(1) of the Communications Decency Act protects social media platforms from liability for harmful content posted on their sites by third parties. This is because social media generates social benefits, and algorithms that produce recommended content entertain and personalize the user’s experience. It would be very difficult for social media platforms to monitor everything that anyone posts and make them liable for anything that gets posted. Most major social media platforms have content moderation policies that prohibit users from posting harmful content like hate speech and misinformation, but some of it inevitably slips through the cracks.
+
+Section 230(c)(2) allows social media platforms to police their sites for harmful content but doesn’t require them to remove anything. This section was enacted in response to a 1995 court ruling that platforms who policed any user generated content on their sites would be considered publishers of the content and therefore legally liable for all of the user-generated content posted on their site. Congress recognized that this ruling would discourage social media platforms from policing their sites for harmful content, so this section was passed to encourage them to search for and remove harmful content.
+
+Q. There must be something we can do besides leaving it up to the social media platforms to police themselves. What about holding them to a reasonable duty of care standard?
+
+Businesses have a common law duty to create a safe environment for their customers by taking reasonable steps not to cause harm to their customers and preventing others from harming their customers. Legal scholars have proposed various approaches to keep Section 230 protections but tie them to the use of reasonable content moderation policies. In a 2017 Fordham Law Review article, authors Danielle Citron and Benjamin Wittes suggested the following changes to Section 230: “No provider or user of an interactive computer service that takes reasonable steps to address known unlawful uses of its services that create serious harm to others shall be treated as the publisher or speaker of any information provided by another information content provider in any action arising out of the publication of content provided by that information content provider.”
+
+Even Facebook CEO Mark Zuckerberg, when testifying before Congress in 2021 admitted that it “may make sense for there to be liability for some of the content,” and that Facebook “would benefit from clearer guidance from elected officials.” There are certain areas where this is especially true. In 2021, the Texas Supreme Court ruled that Facebook is not shielded by Section 230 for sex-trafficking recruitment that occurs on its platform. “We do not understand Section 230 to “create a lawless no-man’s-land on the Internet,’” the court wrote. “Holding internet platforms accountable for the words or actions of their users is one thing, and the federal precedent uniformly dictates that Section 230 does not allow it. Holding internet platforms accountable for their own misdeeds is quite another thing. This is particularly the case for human trafficking.” The First Amendment does not protect speech that induces harm (e.g., falsely yelling “fire” in a crowded theater), encourages illegal activity (e.g., advocating for the violent overthrow of the government), or that propagates certain types of obscenity (e.g. child sex-abuse material).
+
+To learn more about this subject, tune into this video podcast.
+
+Disclaimer: this material is intended for informational purposes only and does not constitute legal advice. The law varies by jurisdiction and is constantly changing. For legal advice, you should consult a lawyer that can apply the appropriate law to the facts in your case.
+
+Next story in Cancel
+
+Next story in Cancel
+
+Israeli military says it has rescued a hostage abducted …
+
+Separatist group claims deadliest day in recent history …
+
+Oasis reunites for tour and ends a 15-year hiatus …
+
+Indian police fire teargas and water cannons at rally …
+
+Man charged after deceased dog found with puncture …
+
+Wild week of US weather includes heat wave, tropical …
+
+Election 2024 Latest: Harris ad focuses on housing; …
+
+Record number of Americans died by heat in 2023: …
+
+5 looming challenges for Vice President Harris
+
+EEE, West Nile, malaria: Know the difference between …
+
+Wild weather week includes heat, landslide, snow
+
+Hearing over whether to dismiss charges in Arizona …
+
+Oasis reunites for tour, ends 15-year hiatus
+
+Final debris removed from Lahaina properties months …
+
+$2.5 million electric vehicle charging station breaks …
+
+Central East Maui Little League Lahaina native gets …
+
+From surfing buddies to eco innovators: how expired …
+
+Alleged bus shooting suspect identified after ‘extensive …
+
+Thousands of Waikiki hotel workers ready to go on …
+
+Hawaii football trio receive Mountain West weekly …
+
+‘It’s really just a dream come true to finally be …
+
+DOH plans change to ocean water testing during brown …
+
+Hurricane-season fire, power risks garner more attention
+
+Clean-up efforts begin on Hawaii island as Hurricane …
+
+Kauai officials continue search for missing snorkeler …
+
+$2.5M EV charging station breaks ground at Aloha …
+
+CEM Lahaina native receives special back-to-school …
+
+Surfing buddies create new product with expired life …
+
+Thousands of Waikiki hotel workers ready to go on …
+
+Hawaii’s Miliana Sylvester set to begin college career
+
+Search continues for missing snorkeler in Wailua …
+
+Hurricane-season fire, power risks garner more attention
+
+DOH to test ocean water during brown water advisories
+
+Search continues for missing snorkeler in Wailua …
+
+CEM Lahaina native receives special back-to-school …
+
+Mayor Roth details Hone damage, prep for Gilma
+
+After the storm: Hawaii island begins clean-up efforts
+
+Man charged after deceased dog found with puncture …

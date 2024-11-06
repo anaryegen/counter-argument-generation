@@ -1,0 +1,193 @@
+Network infrastructure
+
+Share this item with your network:
+
+Kate Gerwig, Editorial Director
+
+What is net neutrality?
+
+Net neutrality is the concept of an open, equal internet for everyone, regardless of device, application or platform used and content consumed. Proponents of the idea believe all corporations, including internet service providers (ISPs), should treat internet data and users equally. They should not restrict access, slow down access speeds or block content for some users to serve their own interests.
+
+ISPs should also not make special arrangements with any companies to give them improved network speeds or access.
+
+What are the origins of net neutrality?
+
+Columbia Law School professor Tim Wu coined the term net neutrality in his June 2002 paper, "A Proposal for Network Neutrality." In that paper and another published about a year later, "Network Neutrality, Broadband Discrimination," professor Wu described how the growth of home broadband had created a new, difficult regulatory problem.
+
+He said cable and Digital Subscriber Line (DSL) operators had a legitimate right to manage their networks for maximum efficiency. But they should not be allowed to discriminate against certain internet applications and users to advance their own interests or profits. That would result in "market distortion" detrimental to public interests, hinder innovation and hurt companies locked out of participation.
+
+His proposal for net neutrality tried to balance the competing interests by "forbidding broadband operators, absent a showing of harm, from restricting what users do with their internet connection, while giving the operator freedom to manage bandwidth consumption and other matters of local concern."
+
+Not allowed for restriction were internetwork indicia, such as Internet Protocol address or application type. Local indicia -- particularly bandwidth -- could be restricted.
+
+One aim of net neutrality is to restrict ISPs from limiting bandwidth based on specific applications or services.
+
+The net neutrality debate
+
+Net neutrality is a contentious concept that has had a rollercoasterlike evolution. The debate centers largely around perceptions of the proper role of government regulation and whether internet access should be legally classified as an opt-in service or a public utility.
+
+Who regulates ISPs depends on whether ISPs furnish the following:
+
+Information services. Here, the Federal Trade Commission is the regulator under Title I of the Communications Act of 1934.
+
+A utility. The Federal Communications Commission (FCC) oversees them in this scenario under Title II of the Communications Act of 1934.
+
+Net neutrality supporters believe that the internet should remain free, open and nondiscriminatory and that this is essential for a democratic exchange of ideas and knowledge, ethical business practices, fair competition and ongoing innovation.
+
+Supporters include the following:
+
+the public -- generally but not unanimously;
+
+human rights organizations;
+
+nongovernmental organizations, like Greenpeace;
+
+consumer rights advocates;
+
+many software and technology companies; and
+
+many large internet companies, like Netflix, Yahoo, Twitter, Microsoft and Amazon.
+
+Net neutrality opponents, including many ISPs, maintain that government legislation of the internet is an unnecessary barrier to innovation and economic growth. They also point out that consumers already have a choice of using a slower dial-up internet service or paying a premium price for faster speed over broadband -- coaxial cable, DSL or fiber optic services. Further, they state that ISPs already prioritize some traffic to maintain quality of service.
+
+Many ISPs favor a two-tiered internet service model that lets them charge a premium fee for priority placement and faster speed across their carrier network pipes. In this model, ISPs can legally create internet "fast lanes" that give preferential treatment for certain companies to promote their own services to their customers. In return for this preferential treatment, the ISP earns extra money.
+
+ISPs also favor zero rating, which is not charging customers for data use on specific websites and services by ISPs and mobile service providers. Providers can create tempting limited data plans for customers while favoring their own, affiliate or popular sites. Websites and services can pay to be zero-rated and receive more traffic.
+
+What are the benefits of net neutrality?
+
+Despite its uneven evolution, net neutrality is seen as largely successful. Its supporters maintain that the concept helps uphold important values, such as the following:
+
+Information freedom. Net neutrality promotes free speech and idea sharing. Net neutrality laws will prevent ISPs from getting the power to regulate or prohibit what their customers see, access or read on the internet.
+
+Business freedom and consumer choice. By threatening to block access to some sites and content, ISPs can force businesses to pay more money. Those that cannot afford preferential service agreements face a competitive disadvantage in customer service. Net neutrality seeks to level the playing field by keeping large, rich enterprises from gaining an unfair advantage when they pay ISPs more for unrestricted customer access to their products or services.
+
+Greater innovation. Eliminating net neutrality would stifle innovation and add barriers to entry for smaller companies. If ISPs pick their favorites, new companies and technologies might never be able to grow.
+
+Net neutrality evolution
+
+Here's a look at key milestones in net neutrality history:
+
+2005. The FCC took the first steps supporting net neutrality, prohibiting ISPs from blocking legal content or preventing users from connecting to the internet with their chosen device. It fined Madison River, an ISP in North Carolina, ordering it to stop blocking phone calls over the internet.
+
+2008. The FCC ordered Comcast to stop slowing down BitTorrent connections on Comcast's network. Comcast denied doing so but said it has the right to set connection speeds as it sees fit. A federal court later sided with Comcast, saying the FCC had not proved it could legally enforce its policy.
+
+2010. The FCC approved the Open Internet Order, creating two classes of internet access: one for fixed-line providers and another for the wireless net. The order faced resistance, including a lawsuit filed by Verizon in January 2011.
+
+2014. A court ruled that the FCC is not entitled to impose net neutrality rules on services that are not common carriers.
+
+2015. The FCC issued a new Open Internet Order, reclassifying ISPs as Title II services and giving them clear authority to enforce net neutrality. A federal court upheld the rules despite objections from ISP advocate groups. The rules prohibited ISPs from deliberately changing their network speeds to or from specific websites based on demand or preferences.
+
+2017. The FCC rolled back the Open Internet Order despite congressional efforts to stay the repeal.
+
+2018. Several state attorneys general sued the FCC to repeal new rules and restore net neutrality provisions.
+
+2019. A federal appeals court ruled that the FCC can reclassify ISPs as Title I or II and cannot block state- or local-level net neutrality enforcement. Multiple states, including California, Oregon and Washington, subsequently passed such laws. Several other states passed executive orders that ban state agencies from doing business with ISPs that don't adhere to net neutrality principles.
+
+2024. The FCC restored net neutrality rules rescinded during the Trump administration. This bans ISPs such as AT&T, Comcast and Verizon from deliberately changing customer network speeds.
+
+Net neutrality today
+
+Net neutrality supporters worry that large ISPs may take advantage of their FCC-approved freedom. They may not slow down or block competing services yet, but they may exempt their own content from data limits, enabling their customers access to this content without it counting against their data plan.
+
+Many ISPs are introducing data caps into their plans, as they can with limited regulation. While net neutrality remains important, currently, it does not seem to be high on the priority lists of most people or politicians.
+
+This was last updated in May 2024
+
+Continue Reading About net neutrality
+
+How the net neutrality ruling could disrupt UC services
+
+Will rolling back net neutrality rules impact IoT?
+
+Net neutrality reversal drives privacy concerns for connected car data
+
+Net neutrality law: Much ado about nothing?
+
+Will new net neutrality regulations spur investment and innovation?
+
+What is a personal area network (PAN)?
+
+A personal area network (PAN) is a small network that interconnects technology devices within a limited range of just a few ... See complete definition
+
+What is a unique identifier (UID)?
+
+A unique identifier (UID) is a numeric or alphanumeric string that is associated with a single entity within a given system. See complete definition
+
+What is asynchronous?
+
+In general, asynchronous -- from Greek asyn- ('not with/together') and chronos ('time') -- describes objects or events not ... See complete definition
+
+Dig Deeper on Network infrastructure
+
+FCC broadband labels explained: Everything you need to know
+
+MWC 2023: Netflix pushes back against telcos in net neutrality row
+
+By: Joe O’Halloran
+
+ISP (internet service provider)
+
+By: Alexander Gillis
+
+Streaming surges see BT chief call for new net neutrality regulations
+
+By: Joe O’Halloran
+
+Private AI Demystified –Equinix
+
+Driving Digital Transformation With Flexible IT from Dell and VMware –Dell Technologies
+
+The Investigatory Powers Act 2016 and Internet Connections Records –TechTarget ComputerWeekly.com
+
+The Internet Outage Survival Guide: Unpacking common outages types and how they... –Cisco ThousandEyes
+
+Unified Communications
+
+How to enable and set up Copilot in Microsoft Teams
+
+Microsoft 365 Copilot, an AI assistant, offers several promising features. Find out how to configure Copilot with Teams workflows...
+
+How does Copilot enhance the user experience in Teams?
+
+With its AI capabilities, Microsoft Copilot provides several enhancements to Microsoft Teams functionality, including meeting ...
+
+How CPaaS improves CX operations and efficiency
+
+Organizations have ramped up their use of communications platform as a service and APIs to expand communication channels between ...
+
+How to fix an iPhone Personal Hotspot that's not working
+
+Connectivity issues, misconfigured settings and human error can all cause mobile hotspot problems. IT must know how to avoid and ...
+
+How to implement a mobile device management project plan
+
+With mobile device management software, IT can better support corporate smartphones, laptops and other mobile endpoints. Learn ...
+
+8 key aspects of a mobile device security audit program
+
+Auditing is a crucial part of mobile device security, but IT admins must ensure their approach is thorough and consistent. Learn ...
+
+VMware platform an investment in users, Broadcom CEO says
+
+Hock Tan unscored the importance of customers at the Boston VMware User Group UserCon, but users remain uneasy about the recent ...
+
+Calculate UPS battery backup time to prepare for power failure
+
+Extreme heat and inadequate cooling systems can lead to power failures in data centers. Calculate the duration of your UPS ...
+
+Intel gets boost from AWS, government contracts
+
+Intel's turnaround efforts are progressing, but the chipmaker will need more than government funding and a deal that expands its ...
+
+FinOps consulting grows as IT cost management efforts expand
+
+IT service providers pursue advisory, training and automation opportunities as customers adopt FinOps and apply its cost ...
+
+6 popular managed services pricing models
+
+Popular pricing models for managed service providers include monitoring only, per device, per user, all-you-can-eat or ...
+
+Generative AI upskilling demands multiple methods, partners
+
+Global IT consultancies take a multilayered approach to GenAI training by developing in-house programs, partnering with tech ...

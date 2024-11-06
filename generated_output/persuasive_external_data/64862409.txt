@@ -1,0 +1,41 @@
+Skip to main content
+
+Social Media, Misinformation and the Law
+
+Social media has allowed false ideas to spread throughout the internet. Does the UK have any legislation in place to prevent misinformation through social media?
+
+Published: 7 February 2022
+
+In the age of the internet, a person can access information from anywhere at any time, this is both positive and negative. Although we have easy and fast access to information, how do we separate the right information from the wrong?
+
+Misinformation through social media
+
+Misinformation through social media refers to the spread of ‘false, inaccurate or misleading information’, through popular social media sites like Facebook, Instagram and Twitter. This information could be something as serious as an accusation of sexual misconduct or corruption. Anyone with a social media account can spread false information, without any worries as to the consequences. There is no user verification on social media, as such the person doing the posting is hard to trace and cannot be held accountable
+
+It is incredibly hard to disprove a false statement that has already been made through social media. According to a study in 2018, conducted by the Massachusetts Institute of Technology (MIT) on how false news travels through Twitter. The study found that misinformation is spread primarily by humans, not bots, and it spreads 70% faster than real information. Once a post containing false information has gone viral, fact-checking it becomes nearly impossible to disseminate the correct information to the public as there is no guarantee that the correct information will reach the same audience in the same way the false information has. The MIT researchers formulated the ‘novelty hypothesis’ to explain why falsehoods spread quicker. According to their hypothesis, false news is more ‘novel’ and people are more likely to share ‘novel’ information since they can usually gain attention for being the first for posting previously unknown information. For many individuals, verifying the credibility of a post may be too time-consuming. To successfully do this, especially for complex matters, it may require specialist knowledge, in addition to time and effort.
+
+With the creation of the vaccine, many people started reposting fake stories on social media about how the vaccine is more damaging than helpful. The repercussion of the spread of this large-scale misinformation is that it had an effect on people’s lives. People are refusing to get vaccinated for fear of the vaccine’s harmful effects, and are even radicalised to the extent of engaging in physical protests against the vaccines- as seen in Canary Wharf in September, where anti-vaxxers protested outside the Medicines and Healthcare products Regulatory Agency. More recently, there were violent anti-vaccine protests in Milton Keynes, which resulted in anti-vaxxers entering into an NHS test and trace centre, as well as a theatre. The violent protest resulted in the police investigations into theft, assault, criminal damage and public nuisance. As a result of the lack of trust in the Covid-19 vaccine, there has been an increase in hospitalisation and death. The Intensive Care National Audit and Research Centre reported in their latest report in December 2021 that about 61% of the patients admitted to critical care were not vaccinated. The Office for National Statistics showed in study conducted between 2 January and 24 September 2021, that a significantly larger amount of people who were unvaccinated died from Covid-19, than vaccinated people.
+
+Who do we place the blame on for this large-scale misinformation? As aforementioned, the user can be blamed for the output of misinformation, but another alleged culprit for this problem is Facebook (Meta). Facebook currently owns a lot of popular social media sites. In October 2021, the Facebook Papers were released, which showed among many other things that Facebook’s algorithm has been amplifying content containing misinformation. Facebook was aware of that Covid-19 related misinformation was being spread through its social media sites but did not do anything about it. Therefore, instead of preventing the spread of misinformation, they can be seen as assisting it to spiral out of control. It is because of these reasons that the Senate in the US wants to question Mark Zuckerberg (who is no stranger in regards to cases about private data and misinformation) as to why their algorithm has been doing the exact opposite of what it is meant to do and why they have been withholding information. So far Mark Zuckerberg has only stated that this is a ‘coordinated effort to selectively use leaked documents to paint a false picture of our company (Facebook)’.
+
+UK Legislation on the problem of misinformation
+
+The current legislation in place to combat misinformation is:
+
+Defamation Act 2013: protects from statements that injure a third party's reputation,
+
+The Communications Act 2003: regulates telecommunications in the UK
+
+The Malicious Communications Act 1988: Section 1(1) of this act, prohibits the sending of messages which are indecent, grossly offensive, or which are false, or believed to be false.
+
+The problem with the Defamation Act is that it only protects against misinformation which is defamatory in nature. A defamatory statement is a false statement of fact about a person which is intended to cause harm to a person's social image. Stories that contain no defamation, even though they contain false information can go unpunished.
+
+According to section 127 of the Communications Act, it is understood that we are protected only from offensive misinformation. Therefore if there is a post containing misinformation that is not offensive, but only untrue, the Communications Act will have no effect on it. In the same fashion, the Malicious Communications Act only protects against misinformation that is meant to cause ‘distress’ to the recipient. Since not all misinformation is offensive or defamatory, the current legislation in place is not enough to protect against untrue statements that can subsequently cause harm to an individual should they rely on it.
+
+There are several other problems with regards to legislating against misinformation. Firstly how do we determine who to prosecute if it involves a criminal matter, or who to sue if it involves civil actions? Should the person who initially wrote the misinformation, or should the person who reposted the misinformation carelessly, bear the responsibility? Secondly, bringing defamation proceedings to court is very expensive, so only a certain select group of people will have the ability to protect themselves. Thirdly, as mentioned before a lot of people who create misinformation, are untraceable, therefore they cannot be held accountable even if there was appropriate legislation
+
+Instead of trying to create new legislation against individuals spreading misinformation, it may be more effective to hold social media companies accountable for not controlling their platforms. As of March 2021, this has been done in Europe after a case was filed in France against Facebook for its failure to stop misinformation during the pandemic and hate speech. The case is still ongoing. But it is due to such court cases and heavy criticisms from users that Facebook and Instagram have now added pop-up banners which allow access to accurate information from places such as the WHO.
+
+In conclusion, legislation on misinformation, although it would be helpful to combat misinformation, will not remove it completely. The Online Safety Bill, currently in drafting in the UK parliament, can be seen to be moving in the right direction. As well as introducing new criminal offences for online activities, it also aims to make tech giants such as Facebook liable for the content that is released on their platforms. In doing so, they will be incentivised to monitor and stop the spread of misinformation. However, the Online Safety Bill may not be the solution we have been looking for, as the bill may pose threats to freedom of speech, privacy, and innovation as per the Adam Smith Institute.
+
+By Plamen Bouhlarski student of Law at Queen Mary University of London.

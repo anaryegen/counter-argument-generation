@@ -1,0 +1,215 @@
+Back to Top Skip to main content
+
+An official website of the United States government Here's how you know
+
+The .gov means it’s official. Federal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you’re on a federal government site.
+
+The site is secure. The https:// ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely.
+
+Log in Show account info
+
+Logged in as: username
+
+Access keys NCBI Homepage MyNCBI Homepage Main Content Main Navigation
+
+The PMC website is updating on October 15, 2024. Learn More or Try it out now.
+
+As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with, the contents by NLM or the National Institutes of Health. Learn more: PMC Disclaimer | PMC Copyright Notice
+
+Int J Prev Med. 2016; 7: 7.
+
+Published online 2016 Jan 11. doi: 10.4103/2008-7802.173797
+
+Health Promotion Methods for Smoking Prevention and Cessation: A Comprehensive Review of Effectiveness and the Way Forward
+
+Mahaveer Golechha1,2,3
+
+1Indian Institute of Public Health-Gandhinagar, India, Public Health Foundation of India, New Delhi, India
+
+2London School of Economics and Political Science, London WC2A 2AE, United Kingdom
+
+3London School of Hygiene and Tropical Medicine, London WC1E 7HT, United Kingdom
+
+Find articles by Mahaveer Golechha
+
+1Indian Institute of Public Health-Gandhinagar, India, Public Health Foundation of India, New Delhi, India
+
+2London School of Economics and Political Science, London WC2A 2AE, United Kingdom
+
+3London School of Hygiene and Tropical Medicine, London WC1E 7HT, United Kingdom
+
+Correspondence to: Dr. Mahaveer Golechha, Indian Institute of Public Health-Gandhinagar, India, Public Health Foundation of India. E-mail: gro.ifhp@ahhcelog.reevaham
+
+Received 2014 Nov 13; Accepted 2015 Jun 30.
+
+This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
+
+Tobacco smoking is one of the greatest causes of mortality in the world, responsible for over 5 million deaths per annum. The prevalence of smoking is over 1 billion people, with the majority coming from low or middle income countries. Yet, the incidence of smoking varies vastly between many countries. Some countries have been able to decline the smoking and tobacco related morbidity and mortality through the introduction of health promotion initiatives and effective policies in order to combat tobacco usage. However, on the other hand, in some countries, the incidence of smoking is increasing still further. With the growing body of evidence of detriment of tobacco to health, many control policies have been implemented as health promotion actions. Such methods include taxation of smoking, mass advertising campaigns in the media, peer education programs, community mobilization, motivational interviewing, health warnings on tobacco products, marketing restrictions, and banning smoking in public places. However, the review of the effectiveness of various health promotion methods used for smoking prevention and cessation is lacking. Therefore, the aim of this review is to identify and critically review the effectiveness of health promotion methods used for smoking prevention and cessation. All available studies and reports published were considered. Searches were conducted using PubMed, MEDLINE, Ovid, Karger, ProQuest, Sage Journals, Science Direct, Springer, Taylor and Francis, EMBASE, CINAHL, and Cochrane and Wiley Online Library. Various relevant search terms and keywords were used. After considering the inclusion and exclusion criteria, we selected 23 articles for the present review.
+
+Keywords: Health promotion, preventable deaths, smoking, tobacco
+
+Smoking is a serious public health challenge across the world. It has assumed the dimension of an epidemic resulting in enormous disability, disease, and death.[1] The tobacco use attributed to more than 5 million preventable deaths every year globally.[2] Further, at the present rate, the number of such deaths is expected to double by 2020. The tobacco use not only detrimental to personal health but also results in severe societal costs such as reduced productivity and health care burden, poverty of the families, and environmental damage. Ample body of evidence available to infer causal relationship between smoking and vascular diseases such as coronary heart disease, subclinical atherosclerosis and stroke, respiratory diseases such as pneumonia and chronic obstructive pulmonary disease, and cancer at ten sites.[3] Despite the serious health risks, a considerable number of people across the world continue to smoke. It is well recognized that overall mortality rates for cigarette smokers are 60–80% higher than for nonsmokers.[4] The degree of devastation brought to bear upon the individual and society outstrips the returns generated by tobacco production and consumption in terms of revenue and employment. As awareness of the dangers posed by tobacco spread, countries across the globe resolved to forge a campaign strategy and frame a battle plan to overcome the tobacco threat.
+
+Health promotion is pivotal in the drive to reduce the growing burden of chronic disease worldwide due to tobacco and particularly smoking. Comprehensive and active awareness of the population through the health promotion strategies are the primary tools for smoking prevention and cessation. Public education is an integral part of the efforts to both prevent the initiation of smoking use and encourage smoking cessation. Increased health promotion efforts about the detrimental health effects from smoking use may result in higher levels of knowledge about the harms of smoking and this in turn could increase quit intentions and subsequent quitting among users. By increasing their knowledge about smoking cessation methods, health professionals can support and encourage the large majority of smokers who want to quit.
+
+Several health promotion methods are being used for smoking prevention and cessation. Evaluation of some of the health promotion intervention studies has shown a positive impact on the reduction in smoking prevalence. However, studies showing the effectiveness of various methods are lacking. Therefore, the present review was carried out to comprehensively evaluate the effectiveness of important health promotion methods used for smoking prevention and cessation.
+
+To obtain all related studies, we searched in PubMed, MEDLINE, Ovid, Karger, ProQuest, Sage Journals, Science Direct, Springer, Taylor and Francis, EMBASE, CINAHL, and Cochrane and Wiley Online Library. The search terms were “smoking cessation,” “smoking prevention,” “health promotion methods for smoking cessation,” “health promotion methods for smoking prevention,” “Cochrane” and smoking cessation/prevention.”
+
+Inclusion and exclusion criteria
+
+We included all available population-based studies including local, subnational studies and national studies, which were related to single health promotion method used for smoking cessation and prevention. We excluded studies which involved multiple health promotion methods for smoking cessation and prevention.
+
+Data were collected according to a standard protocol by the author and reviewed by an independent reviewer. The disagreement was resolved by discussion between them. In cases could not reach a consensus, a third reviewer was consulted. The extracted information from the literature included the name of the first author, the year of publication, the study region, type of study (local study or survey), type of health promotion method used, total sample size, age and sex groups, urban/rural areas, and the effectiveness of the health promotion method. After considering inclusion and exclusion criteria, we selected 23 articles.
+
+Peer education “involves sharing of information in small groups or one to one by a peer matched either demographically or through risky behavior to the target population.”[5] The theoretical basis of peer education method can primarily be derived from behavioral theories relating to health, theory of participatory education, Information, Motivation, Behavioral skills, and Resources model and developmental theory.
+
+A Stop Smoking in Schools Trial (ASSIST) program assessed the effectiveness of a peer-led intervention that aimed to prevent smoking uptake in secondary schools. The study has shown that the ASSIST training program was effective in the achievement of a sustained reduction in uptake of regular smoking in adolescents for 2 years after its delivery. Furthermore, it was well received by both students and school staff.[6] Further, the multilevel modeling showed a 22% reduction (odds ratio: 0.78 [95% confidence interval (CI): 0.64–0.96]) in the odds of being a regular smoker in an intervention school compared with a control school, with the 95% of CIs not including a null effect.[6] Pooled results from 10 randomized controlled trials (RCTs) that used experimental smoking as the main outcome also found that peer education interventions could be marginally effective in preventing smoking uptake.[7] Resnicow et al., reported that the programs based on peer training model produced a net change of 6% in the smoking habit relative to the 3% change brought about by other models (harm minimization, and life skills training) among the South African high school students.[8] Prince compared a six-session peer-led smoking intervention program for high school youth to the same program led by the adults. Self-efficacy was measured post- and follow-up.[9] The significant reduction in a number of cigarettes smoked was found in both peer- and adult-led groups when compared to the control group. Furthermore, there was a continuous reduction in smoking both treatment groups at the 1-month follow-up measure.
+
+Although the peer education has proven efficacy one must consider relevant factors before its implementation. These include selection, training, supervision, type of intervention, and the relationship between peer educators and peer educated. It is important to have the right environment and motivated peer educators for successful implementation.
+
+Theatre in health promotion
+
+For health promotion, the theater is an effective platform to create awareness and disseminate messages related to good health. The theater provides an interesting strategy as the audience is whole heartedly involved and encouraging the actor. The actor, who is integral to the dramatic narrative, explores the chosen topic as a relationship between facts and fiction.[10] The theater method premised upon the drama theories and social cognitive theory, which recognizes the human behavior as an interaction between the individual aspects, behavior, and the context.[11]
+
+Thrush et al., in their study divided 24 primary schools into 3 groups, a theater in education intervention group, a school smoking policy intervention group and a control group. The results showed that there was a weak positive effect on the boys but none of the girls in the intervention group.[12] The theater production 2 Smart 2 Smoke and accompanying activities showed a significant impact on psychosocial risk factors for smoking among students in grades 1–3 and grades 4–6. The percentage of students who told that they would “never smoke a cigarette” increased by 10% following play intervention.[13]
+
+While theater could possibly be a vehicle for long-term change, it still remains to be seen if the positive results can be elicited for those concentrating on promotion of nonsmoking habit. It is important that the content is assessed on a professional level, and the intervention be made as scientific as possible.
+
+Media advocacy is to frame an issue well and advocate that issue using the media as a platform. Information is disseminated through the media with a view to alter public mind or change their views.[14] Media advocacy needs to be based on the solid principles of planning. Media advocacy planning used “GOTME” approach: Goal, objective, target, message, and evaluation.[14]
+
+Media advocacy was used in many health promotion interventions and it is particularly concerned with significant environmental and policy change. The Project Tobacco Reduction Using Effective Strategies and Teamwork involved the media advocacy and the retailer were rewarded with positive newspaper coverage for compiling the underage laws for selling tobacco products, whereas those who did not were “named and shamed.”[15] The impact of the project was significant on smoking prevention. Niederdeppe et al., assessed the impact of media advocacy activities on news coverage, policy changes, and reductions in youth smoking implemented by the Florida Tobacco Control Program. They demonstrated a significant decrease in volume of program-related news coverage after the onset of media advocacy initiatives, but the ratio of coverage about students working against tobacco relative to other topics increased. Because of news coverage, there was a passage of tobacco product placement ordinances in Florida counties, but these ordinances did not significantly reduce the prevalence of smoking among the youth.[16]
+
+Media advocacy can be looked at as a tool in the broader policy implementation. It can help provide a platform to raise policy related issues. Further studies to see its effectiveness needs to be done. The use of media as an advocacy tool must be conceived and developed only in the context of other approaches such as community organizing, coalition building, and policy advocacy.
+
+Community mobilization
+
+Community mobilization is aimed at inducing a change of normal social norms from the utility of various intricate interventions to help raise awareness of community participants. It is brought about by teamwork, educational entertainment and the participation of other members, and groups and associations to help inspire revolutionize a change. Community mobilization is based on 3 key concepts: Social capital, empowerment, and social change.[17]
+
+A systematic review by Secker-Walker et al., of community interventions to reduce the prevalence of smoking shows the effectiveness of community-based health promotion initiatives. A favorable outcome was suggested as a significant change in smoking behavior, being either lower prevalence, reduced cigarette consumption per capita or an increase in smoking cessation rate. Of the studies, 23 (62%) suggested at least one favorable outcome with relation to smoking change, whilst 14 studies (38%), showed no marked difference. Where the community was the unit of assignment and analysis, 5 of the 8 studies (62.5%) reported a positive change in smoking behavior. In the remaining studies, where the individual was the unit of analysis, hence with a reduced significance level, 18 out of 29 studies (62%) showed at least one favorable outcome with relation to smoking behavioral outcome. This systematic review concluded that community health promotion methods were more effective than other methods of smoking prevention.[18]
+
+Community mobilization methods are essential in the field of health promotion. Empowering communities to bring about change in their own social domains is not only more sustainable but however, is also extremely effective.
+
+Kotler and Zaltman coined the term “social marketing” using it in an article evaluating the application of commercial marketing principles.[19] The social marketing is the systematic application of principles and techniques of marketing to create, communicate, and deliver value in order to influence a target audience to achieve specific behavioral goals, for social good.[20] It is best described as a behavioral approach that helps to create a long-term sustainable impact upon the choices of people. Social marketing draws on and incorporates the use of behavioral theory.
+
+Despite many challenges, the evidence for the effectiveness of social marketing interventions does exist and is growing. The project 16 incorporates social marketing method for reducing both illegal sales of tobacco and youth tobacco use showed a significant effect on lowering the smoking prevalence.[21] In a review by Gordon et al., 18 out of 21 studies examined short-term impact (up to 1-year) of social marketing intervention on smoking prevention. Thirteen studies demonstrated the significant positive effects.[22] The Sunderland project was based on social marketing strategy for increasing the uptake of smoking cessation services and quit rate among pregnant women in Sunderland. The intervention primarily includes the design and pretesting of new marketing/information material and consumer friendly cessation support. There was a significant impact of project and there was a 10-fold increase in the smoking quitting or setting a date for quitting smoking among pregnant women as compared to neighboring primary-care trusts which did not apply similar social marketing approach.[23]
+
+A meta-analysis of the efficacy of SMS text message interventions for smoking cessation showed that smoking quit rates for the text messaging intervention group were 35% higher compared to the control group quits rates. Results also suggest that SMS text messaging may be a promising way to improve smoking cessation outcomes.[24]
+
+The social marketing interventions should always be adapted according to local needs and contexts. There is a need for integrating specific vertical and horizontal interventions with social marketing to make it more sustainable and effective.
+
+Motivational interviewing
+
+Motivational interviewing (MI) defined as a client-centered, directive approach to stimulate the positive behavior change and resolve ambivalence.[25] The important guiding principles of MI are expressing empathy, supporting self-efficacy, developing discrepancy and rolling with resistance. It primarily derived from social psychology, cognitive dissonance, self-efficacy, and empathic processes. Various forms of MI are Motivational Enhancement Therapy, Brief MI (BMI), and telephone consultation.
+
+MI has been used successfully for smoking cessation. Glasgow et al., demonstrated the effectiveness of a BMI-based intervention given by clinical staff versus advice to quit smoking among 1154 women attending planned-parenthood clinics. There were a higher 7-day abstinence rates in the MI intervention group at 6 weeks (10.2% vs. 6.9%). The MI intervention group showed a significant reduction in a number of cigarettes smoked at both 6 weeks and 6 months.[26] The relatively brief training of staffs for MI and low rate of completion for follow-up telephone calls were a limitation of this study. Valanis et al., found a significant impact of MI intervention for women attending prenatal clinics on self-reported quitting rates both during pregnancy and 6–12 months after delivery.[27] In another study, 536 smokers from 21 clinical practices were randomized to receive either MI or brief advice to quit smoking from their general practitioner showed a significant effect on smoking cessation.[28] Meta-analysis of MI versus brief advice or usual care yielded a modest but significant increase in quitting. Subgroup analyzes demonstrated that the MI intervention was more effective when administered by primary-care physicians and by counselors, and when it was conducted in longer sessions (more than 20 min per session).[29] Recently conducted systematic review of RCTs in which MI used for smoking cessation showed that MI versus brief advice or usual care yielded a modest but significant increase in quitting (risk ratio: 1.26; 95% CI: 1.16–1.36; 28 studies; n = 16,803).[30]
+
+MI appears to have broad application to behavioral medicine. Although the initial outcome studies have produced mixed results, MI appears to have potential efficacy. Further research studies required to address the numerous questions regarding how MI works in different conditions and individuals and which health professionals are best able to deliver MI with fidelity.
+
+Mass media campaigns
+
+Mass media campaigns are widely used to expose the population to messages through television, radio, and newspapers. Such campaigns can produce positive or negative changes in health-related behavior in populations and is a useful method for raising an issue and encouraging debate.[31] The mass media campaign approach based on the theories of the social influences or social learning theory.
+
+It has been suggested that the mass media is particularly appropriate for delivering antismoking messages to young people because they are more exposed to the media. In the interventional review of studies for assessing smoking behavior by Brinn et al., investigated the effect of a mass media prevention effort directed at young people <25 years using a parallel group RCT or controlled clinical trial design.[31] Three studies were associated with a reduction in smoking outcomes. One study found a statistically significant decrease in smoking uptake by girls (with net increase of 8.6% in Intervention County vs. 12.4% in the control) and a nonsignificant trend in boys at 3-year follow-up (6.8–10.5%). In an another study, impact compared between school based programs with mass media and school based intervention alone, showed a significant effect of combined intervention as compared to school alone. The results reported in all seven studies tended to be based on outcome data relating to a sub-sample of participants rather than on the basis of allocation to groups. Evaluation of effectiveness on the basis of data provided by those participants available at follow-up is likely to be biased.[32]
+
+Bala et al., assessed the effectiveness of mass media interventions in reducing smoking among the adults through systematic review has shown that the comprehensive tobacco control programs which include the mass media campaigns can be effective in changing smoking behavior in adults. The intensity and duration of campaigns may influence effectiveness.[33]
+
+Mass media campaigns should be included as a key component of approaches to improve population health behavior. Careful planning and testing with target audiences is crucial. Emphasis should be placed on the involvement of small groups of representative samples at whom the campaign is directed. Such groups can also be involved in message development.
+
+Setting based approach
+
+The emergence of the settings approach has been attributed to the Ottawa Charter's assertion that, “health is created and lived by people within the settings of their everyday life; where they learn, work, play, and love.”[34] Settings for health are defined as “the place for social context in which the people engage in daily activities in which environmental organizational and personal factors interact to affect health and wellbeing.”[35] A settings approach is built upon the principles of health promotion, in a holistic manner, and as a process of enabling people to increase control over, and to improve their health.
+
+The workplace has potential as a setting through which the large groups of people can be reached to encourage the smoking cessation. Cahill et al., conducted an interventional review of 51 studies covering 53 interventions. They found 37 studies of workplace interventions aimed at individual workers, covering group therapy, individual counseling, self-help materials, nicotine replacement therapy, and social support. Group programs, individual counseling, and nicotine replacement therapy increased cessation rates in comparison to no treatment or minimal intervention controls. Self-help materials were less effective. They also found 16 studies testing interventions applied to the workplace as a whole and found the settings based approach is more effective than other interventions.[36] But overall, there was a lack of evidence that comprehensive programs reduced the prevalence of smoking. Incentive schemes increased the attempts to stop smoking though there was less evidence that they increased the rate of actual quitting. They failed to detect an effect of comprehensive programs in reducing the prevalence of smoking.
+
+The better understanding of health promoting setting among various actors, politicians, and well as workers is essential for the efficient implementation of setting based health promotion methods. There is a need to understand the implementation process and the importance of carrying out systematic evaluations for sustainable, healthy settings.
+
+Health promotional interventions for prevention and cessation of smoking are thought to involve a three-tiered approach. Reaching the mass public by social marketing and mass media interventions, reaching the individual by MI, peer education, whilst approaching the community via community mobilization and changing the environment by media advocacy and setting based intervention seems to be an extremely effective method of inducing smoking prevention and cessation. These methods incorporate the principles of inducing change at an individual level, a change in social norms in the community and socio-political efforts to promote the health of the population. It would be more effective to implement the interventions focusing on social attitudinal and environmental changes before trying to focus on individual behavioral change, which is difficult to bring about. Foundation for multiple interventions can only be developed with innovative approaches to work with the population at different levels. In the past years, we have learned how to engage the population and various stakeholders for developing effective and sustainable partnership for health promotion. Population capacity to address change and readiness are the key factors influences effective health promotion efforts for smoking prevention and cessation.
+
+“This work was supported by a Welcome Trust Capacity Strengthening Strategic Award to the Public Health Foundation of India and a consortium of UK universities.”
+
+Note: MG is an alumnus of AIIMS, New Delhi; London School of Economics; and London School of Hygiene and Tropical Medicine.
+
+Source of Support: This work was supported by a Welcome Trust Capacity Strengthening Strategic Award to the Public Health Foundation of India and a consortium of UK universities
+
+Conflict of Interest: None declared.
+
+1. Rigotti NA. Smoking cessation in patients with respiratory disease: Existing treatments and future directions. Lancet Respir Med. 2013;1:241–50. [PubMed] [Google Scholar]
+
+2. Geneva: World Health Organization; 2008. World Health Organization. WHO Report on the Global Tobacco Epidemic, 2008: The MPOWER Package. [Google Scholar]
+
+3. Atlanta, Georgia: US Department of Health and Human Services, Centers for Disease Control and Prevention, National Center for Chronic Disease Prevention and Health Promotion, Office on Smoking and Health; 2004. US Department of Health and Human Services. The health consequences of Smoking: A report of the Surgeon General. [Google Scholar]
+
+4. Reddy KS, Gupta PC. New Delhi: Ministry of Health and Family Welfare, Government of India; 2004. Tobacco control in India. [Google Scholar]
+
+5. Medley A, Kennedy C, O’Reilly K, Sweat M. Effectiveness of peer education interventions for HIV prevention in developing countries: A systematic review and meta-analysis. AIDS Educ Prev. 2009;21:181–206. [PMC free article] [PubMed] [Google Scholar]
+
+6. Campbell R, Starkey F, Holliday J, Audrey S, Bloor M, Parry-Langdon N, et al. An informal school-based peer-led intervention for smoking prevention in adolescence (ASSIST): A cluster randomised trial. Lancet. 2008;371:1595–602. [PMC free article] [PubMed] [Google Scholar]
+
+7. Uthman O, Yahaya I, Pennant M, Bayliss S, Aveyard P, Jit M, et al. England: National Institute for Health and Clinical Excellence (NICE); 2009. School-based interventions to prevent the uptake of smoking among children and young people: Effectiveness review. [Google Scholar]
+
+8. Resnicow K, Reddy SP, James S, Gabebodeen Omardien R, Kambaran NS, Langner HG, et al. Comparison of two school-based smoking prevention programs among South African high school students: Results of a randomized trial. Ann Behav Med. 2008;36:231–43. [PubMed] [Google Scholar]
+
+9. Prince F. The relative effectiveness of a peer-led and adult-led smoking intervention program. Adolescence. 1995;30:187–94. [PubMed] [Google Scholar]
+
+10. Mbizvo E. Theatre – A force for health promotion. Lancet. 2006;368:S30–1. [Google Scholar]
+
+11. Lasic S, Kenny L. Theatre and peer education: An innovative approach to health promotion. Aust J Prim Health. 2002;8:87–93. [Google Scholar]
+
+12. Thrush D, Fife-Schawa C, Breakwell G. Evaluation of interventions to reduce smoking: An evaluation of two school-based interventions to reduce smoking prevalence among 8-13 year olds. Swiss J Psychol. 1999;58:85–100. [Google Scholar]
+
+13. Perry CL, Komro KA, Dudovitz B, Veblen-Mortenson S, Jeddeloh R, Koele R, et al. An evaluation of a theatre production to encourage non-smoking among elementary age children: 2 Smart 2 Smoke. Tob Control. 1999;8:169–74. [PMC free article] [PubMed] [Google Scholar]
+
+14. Wallack L, Dorfman L. Media advocacy: A strategy for advancing policy and promoting health. Health Educ Q. 1996;23:293–317. [PubMed] [Google Scholar]
+
+15. Wildey MB, Woodruff SI, Agro A, Keay KD, Kenney EM, Conway TL. Sustained effects of educating retailers to reduce cigarette sales to minors. Public Health Rep. 1995;110:625–9. [PMC free article] [PubMed] [Google Scholar]
+
+16. Niederdeppe J, Farrelly MC, Wenter D. Media advocacy, tobacco control policy change and teen smoking in Florida. Tob Control. 2007;16:47–52. [PMC free article] [PubMed] [Google Scholar]
+
+17. Bloch P, Toft U, Reinbach HC, Clausen LT, Mikkelsen BE, Poulsen K, et al. Revitalizing the setting approach – Supersettings for sustainable impact in community health promotion. Int J Behav Nutr Phys Act. 2014;11:118. [PMC free article] [PubMed] [Google Scholar]
+
+18. Secker-Walker RH, Gnich W, Platt S, Lancaster T. Community interventions for reducing smoking among adults. Cochrane Database Syst Rev. 2002;3:CD001745. [PMC free article] [PubMed] [Google Scholar]
+
+19. Kotler P, Zaltman G. Social marketing: An approach to planned social change. J Mark. 1971;35:3–12. [PubMed] [Google Scholar]
+
+20. Smith WA. Social marketing: An overview of approach and effects. Inj Prev. 2006;12(Suppl 1):i38–43. [PMC free article] [PubMed] [Google Scholar]
+
+21. Biglan A, Ary DV, Smolkowski K, Duncan T, Black C. A randomised controlled trial of a community intervention to prevent adolescent tobacco use. Tob Control. 2000;9:24–32. [PMC free article] [PubMed] [Google Scholar]
+
+22. Gordon R, McDermott L, Stead M, Angus K. The effectiveness of social marketing interventions for health improvement: What's the evidence? Public Health. 2006;120:1133–9. [PubMed] [Google Scholar]
+
+23. Lowry RJ, Hardy S, Jordan C, Wayman G. Using social marketing to increase recruitment of pregnant smokers to smoking cessation service: A success story. Public Health. 2004;118:239–43. [PubMed] [Google Scholar]
+
+24. Spohr SA, Nandy R, Gandhiraj D, Vemulapalli A, Anne S, Walters ST. Efficacy of SMS text message interventions for smoking cessation: A meta-analysis. J Subst Abuse Treat. 2015;56:1–10. [PubMed] [Google Scholar]
+
+25. Miller W. Motivational interviewing with problem drinkers. Behav Psychother. 1983;11:147–72. [Google Scholar]
+
+26. Glasgow RE, Whitlock EP, Eakin EG, Lichtenstein E. A brief smoking cessation intervention for women in low-income planned parenthood clinics. Am J Public Health. 2000;90:786–9. [PMC free article] [PubMed] [Google Scholar]
+
+27. Valanis B, Lichtenstein E, Mullooly JP, Labuhn K, Brody K, Severson HH, et al. Maternal smoking cessation and relapse prevention during health care visits. Am J Prev Med. 2001;20:1–8. [PubMed] [Google Scholar]
+
+28. Rollnick S, Butler CC, Kinnersley P, Gregory J, Mash B. Motivational interviewing. BMJ. 2010;340:c1900. [PubMed] [Google Scholar]
+
+29. Lai DT, Cahill K, Qin Y, Tang JL. Motivational interviewing for smoking cessation. Cochrane Database Syst Rev. 2010;1:CD006936. [PubMed] [Google Scholar]
+
+30. Lindson-Hawley N, Thompson TP, Begh R. Motivational interviewing for smoking cessation. Cochrane Database Syst Rev. 2015;3:CD006936. [PubMed] [Google Scholar]
+
+31. Brinn MP, Carson KV, Esterman AJ, Chang AB, Smith BJ. Mass media interventions for preventing smoking in young people. Cochrane Database Syst Rev. 2010;11:CD001006. [PubMed] [Google Scholar]
+
+32. Carson KV, Brinn MP, Labiszewski NA, Esterman AJ, Chang AB, Smith BJ. Community interventions for preventing smoking in young people. Cochrane Database Syst Rev. 2011;7:CD001291. [PMC free article] [PubMed] [Google Scholar]
+
+33. Bala MM, Strzeszynski L, Topor-Madry R, Cahill K. Mass media interventions for smoking cessation in adults. Cochrane Database Syst Rev. 2013;6:CD004704. [PubMed] [Google Scholar]
+
+34. Copenhagen: World Health Organization; 1986. World Health Organization. Ottawa Charter for Health Promotion. [Google Scholar]
+
+35. Smith BJ, Tang KC, Nutbeam D. WHO Health Promotion Glossary: New terms. Health Promot Int. 2006;21:340–5. [PubMed] [Google Scholar]
+
+36. Cahill K, Moher M, Lancaster T. Workplace interventions for smoking cessation. Cochrane Database Syst Rev. 2008;4:CD003440. [PubMed] [Google Scholar]
+
+Articles from International Journal of Preventive Medicine are provided here courtesy of Wolters Kluwer -- Medknow Publications
+
+Cited by other articles
+
+Links to NCBI Databases
+
+Copy Download .nbib .nbib

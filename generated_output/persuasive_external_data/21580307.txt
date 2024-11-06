@@ -1,0 +1,87 @@
+Skip to main content
+
+U.S. Government Accountability Office Menu
+
+< WatchBlog: Following the Federal Dollar
+
+How Prevalent is Fraud in Federal Programs? We Take a Look—Focusing on Unemployment Insurance Oversight
+
+Posted on January 23, 2023
+
+Fraud hurts the integrity of federal programs and erodes the public’s trust in government. Fraud schemes are wide-ranging and occur when something of value is obtained through willful misrepresentation—for example, receiving a benefit or assistance from the federal government by lying to meet eligibility requirements.
+
+During the pandemic, federal assistance, much of it financial, was used broadly to help individuals, state and local governments, businesses and more to overcome the health and economic challenges posed by COVID-19. A major source of this assistance was Unemployment Insurance—an important safety net for workers who lose their jobs at no fault of their own.
+
+In response to the increased use of federal assistance and concerns about fraud, Congress asked us to investigate the prevalence of fraud in federal programs, specifically with the Unemployment Insurance program. Today’s WatchBlog post looks at our new work about what we found.
+
+How prevalent is fraud? It’s hard to say…
+
+The deceptive nature of fraud makes it hard to detect. But estimating the prevalence of fraud is limited by other factors that could be addressed. For example, information about fraud is not always collected or reported the same way. Indeed, fraud is even defined differently across the federal government. At GAO, we define fraud as the act of obtaining something of value through willful misrepresentation. Whether an act is fraud is determined through the judicial or other adjudicative systems. But other entities use broader definitions of fraud for reporting that include settlements, suspected fraud, or prevented fraud. This can result in under- or over-reporting.
+
+For example, the Council of Inspectors General on Integrity and Efficiency (CIGIE) provides an annual report on fraud to the President and Congress. In FY 2021, CIGIE estimated that its investigations recovered as much as $12.1 billion. But this amount included some potential crimes beyond fraud—such as theft and mismanagement of government funds. 
+
+Similarly, the Office of Management and Budget (OMB) has also reported annual estimates of fraud. In FY 2021, it reported $4.5 billion in confirmed fraud. However, this number may not include all confirmed fraud. For example, it didn’t include the estimated $1.1 billion in fraud reported by the Department of Defense (DOD) because the DOD Office of the Inspector General (OIG) only reported $0 in confirmed fraud to OMB. 
+
+Learn more about the challenges in estimating fraud by checking out our GAOverview on Fraud in the Federal Government.
+
+A focused look at fraud in the Unemployment Insurance system
+
+Unemployment Insurance (UI) is a federal program that has proven to be especially susceptible to fraud. The UI system faces long-standing challenges with effectively serving the public and preventing fraud. But these issues worsened during the pandemic after four new UI programs were created to support workers legitimately impacted by COVID-19. About $878 billion was paid across all UI programs between April 2020 and September 2022. The unprecedented demand for benefits and the need to implement these new programs quickly increased the risk of fraud.
+
+Measuring levels of fraud within the UI system faces some obstacles similar to those previously mentioned when estimating fraud across the federal government. When looking at known fraudulent activity, the Department of Labor (DOL) reported at least $4.3 billion based on formal determinations of fraud by states. Another $45 billion in UI applications was flagged by the DOL's OIG as potential fraud.
+
+The DOL has also taken steps to estimate fraud across the UI system. It has reported fraud estimates of about $8.5 billion for regular UI payments (not including expanded COVID UI payments) for 2021. This was based on the DOL’s review of samples of regular UI claims. If the fraud rate found for regular UI applied across all UI programs during the pandemic, it would suggest at least $60 billion in fraudulent UI payments. However, the amount of uncertainty associated with this figure is very high.
+
+What is being done to combat fraud in Unemployment Insurance?
+
+Current measures and estimates do not reflect the full extent of fraud, but they do provide important insights on fraud risks in the UI system and could be used to help address them. And while fraud risks increased as a result of the pandemic, some will remain long after if not addressed.
+
+The DOL is in the process of developing a fraud risk management program. But we think the department should first take steps to identify, assess the impact of, and prioritize fraud risks facing the UI system. We made recommendations about this and more in an October 2021 report. In our new report, we made an additional recommendation that the DOL develop and implement an antifraud strategy that is consistent with leading practices for preventing fraud that are in GAO’s Fraud Risk Framework. Without these efforts, the DOL cannot ensure that it is prioritizing and addressing UI fraud risks effectively.
+
+How can you help combat fraud?
+
+If you are concerned about fraud or want to learn more about how fraud affects federal programs and operations, our new interactive Antifraud Resource lets you look up common fraud schemes by agency, type of funding, type of fraud, and more.
+
+If you suspect fraud, waste, abuse, or mismanagement of federal funds or in federal programs, you can report it to our FraudNet.
+
+Comments on GAO’s WatchBlog? Contact blog@gao.gov.
+
+Government Operations
+
+Council of the Inspectors General on Integrity and Efficiency
+
+Office of Management and Budget
+
+Department of Defense
+
+DOD Office of the Inspector General
+
+Unemployment insurance
+
+Unemployment insurance benefits
+
+Forensic Audits and Investigative Service
+
+Chief Statistician and Director of the Center for Statistics and Data Analysis
+
+May the 4th Be With You—Want to Fight Fraud? ‘This is the Way…’
+
+Happy early Star Wars Day! A not so long time ago (April), in a galaxy nearby (ours), the Jedi...
+
+For World Health Day (April 7), We Look At U.S. Efforts to Promote Global Wellness
+
+Thursday, April 4, 2024
+
+When it comes to communicable diseases, it turns out, it is a small world after all. Serious...
+
+Federal Government Made $236 billion “Improper Payments” Last Fiscal Year
+
+Tuesday, March 26, 2024
+
+The federal government reported an estimated $236 billion in “improper payments” during the most...
+
+GAO's mission is to provide Congress with fact-based, nonpartisan information that can help improve federal government performance and ensure accountability for the benefit of the American people. GAO launched its WatchBlog in January, 2014, as part of its continuing effort to reach its audiences—Congress and the American people—where they are currently looking for information.
+
+The blog format allows GAO to provide a little more context about its work than it can offer on its other social media platforms. Posts will tie GAO work to current events and the news; show how GAO’s work is affecting agencies or legislation; highlight reports, testimonies, and issue areas where GAO does work; and provide information about GAO itself, among other things.
+
+Please send any feedback on GAO's WatchBlog to blog@gao.gov.

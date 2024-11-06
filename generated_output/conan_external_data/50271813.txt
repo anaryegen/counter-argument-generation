@@ -1,0 +1,85 @@
+Public safety data in the UK
+
+Explore crime rates in your area
+
+Search City or Postcode
+
+Search City or Postcode
+
+UK Crime Map Home Alarm Reports
+
+UK Crime Rates, Jun 2024
+
+The crime rate in the United Kingdom is 82 per 1,000 people as of June 2024, excluding Scotland. The overall UK crime rate saw an a decrease of 8% from the previous period ending June 2023. Among England, Wales, and Northern Ireland, the country with the highest crime rate is England, with 85 crime reports per 1,000 people.
+
+Crime Rate per 1,000 people
+
+Year-on-Year Difference
+
+United Kingdom (excl. Scotland)
+
+DownloadCSV Excel TSV
+
+Crime rates represent crimes reported during the 12 months ending June 2024.
+
+Interactive UK Crime Map
+
+Explore your area of interest using our interactive UK crime map. We've aggregated 82,593,383 million rows of data from every police force in the UK (except Manchester) to provide local reporting on public safety concerns at the street level. Each incident is tagged by category and mapped so that you can see what areas have more or less criminal activity.
+
+Open Police Force Data
+
+Mapping and analysis of crime and safety data in England, Wales, and Northern Ireland
+
+CrimeRate.co.uk is a data analysis and GIS project dedicated to uncovering crime trends in England, Wales, and Northern Ireland. We aggregate open police force data, social media signals and file FOI requests with local police departments to build the most complete catalogue of crime and safety information in the region.
+
+We are actively working to encourage more open data initiatives in the UK, since Greater Manchester Police have paused or failed to implement open data systems. Police Scotland also have roadblocks to effective use of FOI requests to access recent records.
+
+Get the full dashboard to see the details
+
+This preview shows blurred-out examples of CrimeRate's dashboard charts, crime risk scores, and index values.
+
+To see full figures, including crime risk scores & indexes, you need to get CrimeRate Pro
+
+See CrimeRate Pro → Go to sample dashboard →
+
+Crime Rates and Counts by Crime Type
+
+Twelve months ending Jun 2024
+
+Anti-Social Behaviour
+
+Criminal Damage and Arson
+
+Possession of Weapons
+
+Theft From the Person
+
+Violence and Sexual Offences
+
+DownloadCSV Excel TSV
+
+Home Security Reviews
+
+Home alarm reviews & reports
+
+The first line of defence against burglary is consumer-grade home alarm systems. Through our work analysing safety statistics in the UK, our team has unique insights into the development of property monitoring and personal security systems. Our data-driven reports focus on measurable product specs and outcomes to help our readers make informed decisions based on real-world testing.
+
+Compare Home Alarm Systems
+
+County & Major City Crime Statistics
+
+Twelve months ending Jun 2024
+
+East Riding of Yorkshire
+
+DownloadCSV Excel TSV
+
+PDF Reports for Postcodes and Addresses
+
+Get the crime information you need to make an informed decision with CrimeRate Pro's PDF reports. Each report includes separate details for the areas immediately surrounding your address.
+
+Find out the Crime Risk Scores and how they relate to the rest of the country. CrimeRate Indexes tell you how much higher or lower a crime rate is compared to the national average. And seasonal trend analysis not only shows you how crime is evolving, but does so while taking into account how crime varries by the time of year..
+
+All reports include instant online delivery 24 hours a day, 7 days a week.
+
+See Sample PDF → Create Report →

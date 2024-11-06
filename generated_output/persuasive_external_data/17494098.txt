@@ -1,0 +1,49 @@
+Skip to Main Content
+
+Harvard Business School→
+
+Faculty & Research→
+
+HBS Working Paper Series
+
+AI Companions Reduce Loneliness
+
+By: Julian De Freitas, Ahmet K Uguralp, Zeliha O Uguralp and Puntoni Stefano
+
+Chatbots are now able to engage in sophisticated conversations with consumers in the domain of relationships, providing a potential coping solution to widescale societal loneliness. Behavioral research provides little insight into whether these applications are effective at alleviating loneliness. We address this question by focusing on “AI companions”: applications designed to provide consumers with synthetic interaction partners. Studies 1 and 2 find suggestive evidence that consumers use AI companions to alleviate loneliness, by employing a novel methodology for fine-tuning large language models (LLMs) to detect loneliness in conversations and reviews. Study 3 finds that AI companions successfully alleviate loneliness on par only with interacting with another person, and more than other activities such watching YouTube videos. Moreover, consumers underestimate the degree to which AI companions improve their loneliness. Study 4 uses a longitudinal design and finds that an AI companion consistently reduces loneliness over the course of a week. Study 5 provides evidence that both the chatbots’ performance and, especially, whether it makes users feel heard, explain reductions in loneliness. Study 6 provides an additional robustness check for the loneliness-alleviating benefits of AI companions.
+
+AI and Machine Learning; Technological Innovation; Behavior; Well-being
+
+De Freitas, Julian, Ahmet K Uguralp, Zeliha O Uguralp, and Puntoni Stefano. "AI Companions Reduce Loneliness." Harvard Business School Working Paper, No. 24-078, June 2024.
+
+→More Publications
+
+More from the Authors
+
+September–October 2024
+
+Harvard Business Review
+
+How AI Can Power Brand Management
+
+By: Julian De Freitas and Elie Ofek
+
+Harvard Business Review (website)
+
+Research: Speed Matters When Companies Respond to Social Issues
+
+By: Alison Wood Brooks, Jimin Nam, Maya Balakrishnan and Julian De Freitas
+
+Proceedings of the National Academy of Sciences
+
+Do ‘Black Individuals’ Really Display No Linguistic Markers of Depression?
+
+By: Julian De Freitas
+
+More from the Authors
+
+How AI Can Power Brand Management By: Julian De Freitas and Elie Ofek
+
+Research: Speed Matters When Companies Respond to Social Issues By: Alison Wood Brooks, Jimin Nam, Maya Balakrishnan and Julian De Freitas
+
+Do ‘Black Individuals’ Really Display No Linguistic Markers of Depression? By: Julian De Freitas

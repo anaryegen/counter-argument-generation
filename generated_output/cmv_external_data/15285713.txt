@@ -1,0 +1,83 @@
+Return to Fordham Law School
+
+You are at:Home»Blog»The Internet Service Business Without Net Neutrality
+
+The Internet Service Business Without Net Neutrality 0
+
+By Andrew Rozo on May 15, 2018 Blog
+
+Internet service providers (“ISPs”) such as AT&T, Comcast, and Verizon allow people to connect to the Internet and access many different types of content online. These companies earn money primarily through service subscription fees paid by consumers who wish to access the Internet. Services such as television and telephone connections provide alternative sources of income for these companies.[1] The large ISPs tend to operate on a business model where they offer all three services.[2] Telephone service essentially consists of connecting one phone to another and allowing consumers to talk to whoever is on the other side. Whether it be a friend or a telemarketer, the service fee will generally be the same.[3] Television service is slightly more complex. Like phone service, a connection is made but here it is between consumers and television programmers who provide the content or programs. However, the companies that provide this connection are also charging consumers for the specific content that they are being connected to.[4] Thus, for television, it matters what type of content is being consumed.
+
+Internet service resembles telephone service more than it does television service. ISPs charge consumers for the connection, not for specific content[5]—this is largely due to the 2015 net neutrality rules. The rules prohibit ISPs from limiting access to certain websites or parts of the Internet by manipulating connection speeds or by blocking access to certain websites.[6] Specifically, ISPs cannot block, throttle, or engage in paid prioritization.[7] Throttling is the control of Internet speeds and it cannot be selectively used against certain websites.[8] Paid prioritization is when an ISP charges content providers more for faster connection speeds. These rules constrict an ISP’s pricing options and business dealings with content providers.
+
+Without net neutrality, Internet plans could potentially be similar to television plans. Consumers would pay based on the specific content that they want to access rather than for certain connection speeds to access the broader Internet. When websites like Netflix became popular, the large ISPs that offered television service developed a major issue. Consumers paying for Internet service no longer needed television service to enjoy the programmers’ content. Furthermore, content providers have begun to offer their content directly over the Internet with services like HBO Go, which consumers must pay for but do not need television service to access. They only need Internet service, which cannot be priced based on access to certain websites because of the net neutrality rules.[9]
+
+The rules, however, were repealed by the FCC last December.[10] The repeal and resulting new rules were not effective until the end of April 2018.[11] The repeal adds new options for ISPs, although some options may not be practical. Blocking, throttling, and paid prioritization are not prohibited under the new rules.[12] For the large ISPs such as AT&T and Comcast who also provide television service, engaging in paid prioritization would be a very logical business move. This would allow them to profit from the content that they are providing, in addition to the connection that they are already charging for.[13] To date, large ISPs have maintained that they will not engage in paid prioritization excluding specialized services such as remote surgery[14] and real-time video calls.[15]
+
+However, net neutrality rules already allowed exceptions to prioritize specialized services.[16] This is due to the limited network capacity of ISPs, and certain services like a remote surgery, require a reliable and speedy connection more than other services. Repealing net neutrality rules could make this kind of network management very profitable by allowing for higher fees for guaranteed connections. In addition, large ISPs also create content and have their own streaming websites or Internet television.[17] Throttling could push consumers towards the ISPs’ services because the ISPs could slow the connections of rival streaming services such as Netflix.[18] However, this would raise consumer protection and antitrust issues, and is therefore unlikely to occur.
+
+Small ISPs, however, do not necessarily see the repeal as good for business.[19] These companies provide Internet connection in rural areas of the country and often rely on the large ISPs to provide a complete Internet connection to consumers.[20] The repeal of net neutrality may allow the large ISPs to force the smaller companies out of the market by charging higher fees or denying service altogether. Many small ISPs petitioned the FCC to not repeal the rules because they believe the rules prevented large ISPs from abusing their market power.[21] On the other hand, the repeal would liberate small ISPs from costly legal fees spent on trying to navigate the net neutrality rules. These companies could also begin paid prioritization or throttling.[22] The repeal could definitely hurt small ISPs, but it may actually lead to cost savings and provide for more competition. Provided that throttling is limited to the large ISPs, the small ISPs probably would not lose any market share because they would be the better option to work with.
+
+The Internet service business has the potential for significant change in the near future, especially with non-ISP Internet companies like Google entering the market.[23] Although Google’s presence in this industry is not large, it is growing and could potentially immunize Google from paying prioritization fees to other ISPs. However, Google would then be able to use paid prioritization as well. It is important to remember that the technology involved here is constantly changing, and the companies in the industry have become increasingly innovative. The next few years may bring automatic connection, where all devices will constantly be connected to the Internet[24], widened use of virtual reality and the Physical Web, where regular objects such as parking meters and dog collars will broadcast Bluetooth signals capable of delivering Internet content.[25] The repeal of net neutrality may not even matter in a few years.
+
+[1] John W. Schoen, How Do Cable Companies Make Their Money?, CNBC, (Apr. 20, 2015, 5:33 PM), https://www.cnbc.com/2015/04/20/how-do-cable-companies-make-their-money.html.
+
+[3] Different charges and rates apply for international calls for example.
+
+[5] There are different prices for different connection speeds.
+
+[6] Jeff Sommer, What Net Neutrality Rules Say, N.Y. Times (Mar. 12, 2015), https://www.nytimes.com/interactive/2015/03/12/technology/net-neutrality-rules-explained.html.
+
+[9] See Mike Snider & Jefferson Graham, Net neutrality rules are dead. Will my Internet bills go up?, USA Today (Dec. 14, 2017), https://www.usatoday.com/story/tech/talkingtech/2017/12/14/net-neutrality-rules-dead-my-internet-bills-go-up/952839001/.
+
+[10] Klint Finley, The Wired Guide To Net Neutrality, Wired (Mar. 1, 2018, 7:00 AM), https://www.wired.com/story/guide-net-neutrality/.
+
+[11] See Mike Snider, 22 states and DC are suing the FCC in last-ditch effort to preserve net neutrality, USA Today (Feb. 22, 2018, 5:02 PM), https://www.usatoday.com/story/tech/news/2018/02/22/net-neutrality-clock-ticking-those-who-want-old-rules-back/357985002/.
+
+[13] See Snider & Graham, supra note 9.
+
+[14] Remote surgery is a technique where surgeons can operate on a patient without being in the operating room or even the same city via robot. The surgeon uses an Internet connection to control the robot. Rose Eveleth, The Surgeon Who Operates From 400KM Away, BBC (May 16, 2014), http://www.bbc.com/future/story/20140516-i-operate-on-people-400km-away.
+
+[15] Jon Brodkin, Comcast supports ban on paid prioritization–with an exception, ARS Technica (Mar. 29, 2018, 4:03 PM), https://arstechnica.com/tech-policy/2018/03/comcast-supports-ban-on-paid-prioritization-with-an-exception/.
+
+[17] See Finley, supra note 9.
+
+[19] Alyssa Newcomb, Will Smaller Internet Companies Do Better If The FCC Kills Net Neutrality?, NBC Nᴇᴡs (Nov. 28, 2017, 12:23 PM), https://www.nbcnews.com/tech/tech-news/will-smaller-internet-companies-do-better-if-fcc-kills-net-n824161.
+
+[23] Michael V. Copeland, Eric Schmidt Says Google Fiber Won’t Stop With Kansas City, Wɪʀᴇᴅ (Dec. 12, 2012, 2:34 PM), https://www.wired.com/2012/12/google-fiber-not-just-kansas-city/.
+
+[24] Jayson DeMers, 7 Predictions For How The Internet Will Change Over The Next 15 Years, Forbes (Apr. 18, 2016, 12:38 PM), https://www.forbes.com/sites/jaysondemers/2016/04/18/7-predictions-for-how-the-internet-will-change-over-the-next-15-years/2/#13bdfd21715e.
+
+[25] Irina Shpet, Web 3.0 And The Semantic Web: How The Future Internet Will Change Everything, Silicon Valley innovation center (Aug. 4, 2016), https://siliconvalley.center/category/iot/.
+
+Antitrust Competition FCC Internet Service Providers Net Neutrality
+
+Share. Twitter Facebook Google+ Pinterest LinkedIn Tumblr Email
+
+Previous ArticlePROVIDING HOPE THROUGH FUNDING: LITIGATION FINANCE
+
+Next Article Joint Ventures in China: Outlook in the Contemporary Political Economy
+
+Comments are closed.
+
+27-October-2023: Journal of Corporate & Financial Law Symposium — A Major Question for the SEC: Analyzing Constitutional Limits on Regulatory Authority. For more information, please click here.
+
+Business and Financial Law News
+
+November 10, 2020 Journal of Corporate and Financial Law Symposium Examines Role of Stakeholders in Modern Capitalism
+
+November 22, 2019 Fordham Law-SEC Conference Highlights Dangers of Financial Fraud
+
+October 31, 2019 A New Era for Investor Engagement: A Conversation with SEC Commissioner Elad L. Roisman
+
+January 31, 2019 Women’s Leadership Institute
+
+William Moise Editor-in-Chief
+
+C.J. Licari Managing Editor
+
+Neil Khilwani Online Content Editor
+
+Bailey Swartz Symposium Editor
+
+Fordham Journal of Corporate & Financial Law

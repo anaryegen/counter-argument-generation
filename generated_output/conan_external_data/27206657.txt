@@ -1,0 +1,385 @@
+Skip to main content
+
+Intended for healthcare professionals
+
+Cookies Notification
+
+This site uses cookies. By continuing to browse the site you are agreeing to our use of cookies. Find out more.
+
+You can be signed in via any or all of the methods shown below at the same time.
+
+Sign in here to access free tools such as favourites and alerts, or to access personal subscriptions
+
+I don't have a profile
+
+With my free profile I can:
+
+Set up favourite journals and register for email alerts
+
+Edit account details
+
+Activate personal subscriptions and access content
+
+If you have access to journal content via a university, library or employer, sign in here
+
+Research off-campus without worrying about access issues. Find out about Lean Library here
+
+Research off-campus without worrying about access issues. Find out about Lean Library here
+
+With institutional access I can:
+
+View or download all content the institution has subscribed to.
+
+If you have access to journal via a society or associations, read the instructions below
+
+Access to society journal content varies across our titles.
+
+If you have access to a journal via a society or association membership, please browse to your society journal, select an article to view, and follow the instructions in this box.
+
+Contact us if you experience any difficulty logging in.
+
+Some society journals require you to create a personal profile, then activate your society account
+
+Activate my Society Account
+
+With society access I can:
+
+View or download all the content the society has access to.
+
+Need Help? Contact SAGE
+
+Need Help? Contact SAGE
+
+Journal Indexing & Metrics
+
+Add Email Alerts close Add Email Alerts Dialog
+
+You are adding the following journals to your email alerts
+
+Did you struggle to get access to this article? This product could help you
+
+Accessing resources off campus can be a challenge. Lean Library can solve it
+
+Full Article Content List
+
+Religion and conflict
+
+Conflicts involving Muslim countries and Islamist rebel groups
+
+The riddle of Muslim conflicts
+
+How to cite this article
+
+If you have the appropriate software installed, you can download article citation data to the citation manager of your choice. Simply select your manager software from the list below and click on download.
+
+Download article citation data for:
+
+Are Muslim countries more prone to violence?
+
+Nils Petter Gleditsch and Ida Rudolfsen Research & Politics 2016 3:2
+
+If you have the appropriate software installed, you can download article citation data to the citation manager of your choice. Simply select your manager software from the list below and click on download.
+
+Download article citation data for:
+
+Are Muslim countries more prone to violence?
+
+Nils Petter Gleditsch and Ida Rudolfsen Research & Politics 2016 3:2
+
+Share this article via social media.
+
+The e-mail addresses that you supply to use this service will not be used for any other purpose without your consent.
+
+Recommend to a friend
+
+The e-mail addresses that you supply to use this service will not be used for any other purpose without your consent.
+
+Sharing links are not available for this article.
+
+For more information view the SAGE Journals Article Sharing page.
+
+Create a link to share a read only version of this article with your colleagues and friends. For more information view the SAGE Journals Sharing page.
+
+Please read and accept the terms and conditions and check the box to generate a sharing link.
+
+I have read and accept the terms and conditions
+
+Share URL copied to clipboard
+
+View permissions information for this article
+
+Are Muslim countries more prone to violence?
+
+Nils Petter Gleditsch1
+
+Nils Petter Gleditsch
+
+ Peace Research Institute Oslo (PRIO), Oslo, Norway See all articles by this author
+
+Search Google Scholar for this author, Ida Rudolfsen12
+
+ Peace Research Institute Oslo (PRIO), Oslo, Norway
+
+ Department of Peace and Conflict Research, Uppsala University See all articles by this author
+
+Search Google Scholar for this author
+
+First Published May 11, 2016 Research Article
+
+https://doi.org/10.1177/2053168016646392
+
+https://doi.org/10.1177/2053168016646392
+
+Article information 
+
+Article first published online: May 11, 2016; Issue published: April 1, 2016
+
+Nils Petter Gleditsch1, Ida Rudolfsen1, 2
+
+1Peace Research Institute Oslo (PRIO), Oslo, Norway
+
+2Department of Peace and Conflict Research, Uppsala University
+
+Corresponding Author: Nils Petter Gleditsch, Peace Research Institute Oslo (PRIO), P O Box 9229 Grønland, Oslo, 0134, Norway. Email: [email protected]
+
+This article is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License (http://www.creativecommons.org/licenses/by-nc-nd/3.0/) which permits non-commercial use, reproduction and distribution of the work as published without adaptation or alteration, without further permission provided the original work is attributed as specified on the SAGE and Open Access page (https://us.sagepub.com/en-us/nam/open-access-at-sage).
+
+In recent years, most armed conflicts have taken place in Muslim countries. Are Muslim countries more war-prone? Not necessarily, if we look at data for the whole period after World War II. But in the post-Cold War era, most wars are civil wars and Muslim countries have a disproportionate share of these. This is not mainly because conflicts among Muslims have increased, but because other conflicts have declined. Muslim countries are also overrepresented among countries with high levels of other forms of internal violence, including non-state conflict, one-sided violence, highly repressive human rights policies, and countries that practice capital punishment. They also have a higher than average participation in interstate conflicts. This is not a “clash of civilizations”—most of the victims are Muslims. We list several hypotheses, apart from religion itself, for why this pattern has emerged, including colonial history, interventions from major powers, and economic and political development. Finally, on a more optimistic note, while many Muslims are exposed to violence, four of the five countries with the largest Muslim populations do not currently experience civil war.
+
+Keywords Armed conflict, Islam, violence
+
+In 2012, there were six armed conflicts with more than 1000 battle deaths. All of them took place within Muslim countries—in Afghanistan, Pakistan, Sudan, Somalia, Syria, and Yemen. Of the nine rebel groups in these conflicts, seven had an Islamist ideology. We show in this article that 2012 was an extreme year, but not a wide outlier. Are Muslim countries more war-prone or even more prone to violence in general?
+
+After the end of the Cold War, religion has once again come to occupy a central place in the study of conflict (Basedau et al., 2016; Fox, 2013; Svensson, 2012; Toft, 2007). In this article, using new data on religious affiliations and more comprehensive data on conflict, we assess first how many of the civil wars after World War II have occurred in countries with different dominant religions. We then find a strong increase in the relative rather than the absolute incidence of conflicts involving Muslim countries and Islamist insurgent movements. Finally, we discuss a range of possible explanations for this pattern.
+
+Religion and conflict
+
+We use data on religious belonging from a report by the Pew Research Center (Pew, 2012). The study is based on self-identification and does not report on the degree of religious practice. It seeks to assess the number of people who view themselves as belonging to a religious group, including Christianity, Islam, Buddhism, Hinduism, Judaism, and Folk religion. Based on these data, we code a country as “Christian” if a majority of its population identify with that religion. We assume that the majority religion is unchanged for the period 1946–2014, although the exact percentage belonging to a given religion is likely to vary over time. Our detailed data on the majority religion for each country can be found in the online Supplementary Material.
+
+We use a definition of civil war from the Uppsala Conflict Data Program (UCDP): A contested incompatibility over government or territory between the government and one or more opposition movements resulting in at least 25 battle-related deaths in a calendar year. A civil war is an intrastate conflict with more than 1000 battle deaths in a calendar year (Gleditsch et al., 2002).
+
+Table 1 shows the absolute and relative incidence of intrastate armed conflict after World War II in countries with different majority religions. Only Islam and Christianity are majority religions in a large number of countries. Out of 49 Muslim countries, 20 (41%) have experienced civil war and 30 out of 110 Christian countries (27%). Since Christian countries are more numerous, they dominate the global pattern of conflict for the period, even though Muslim countries are relatively more prone to conflict.1
+
+Table 1. Religion and the absolute and relative incidence of civil war, 1946–2014.
+
+Table 1. Religion and the absolute and relative incidence of civil war, 1946–2014.
+
+In the final column of Table 1 we look at the fraction of independent years in which countries in each group have experienced civil war. Countries with Buddhism and Hinduism are most at risk overall and countries with Folk religion are tied for third place. But these three groups are small (eight, three, and three countries, respectively), and as we will show they suffer comparatively few battle deaths, so they count relatively little in the global pattern of conflict. Among the two largest groups, Muslim countries have a fraction of conflict years (7%) over twice that of Christian countries (3%). This pattern generally persists when we restrict the focus to conflict behavior after the end of the Cold War.
+
+Conflicts involving Muslim countries and Islamist rebel groups
+
+In what follows, we focus on conflicts involving Muslim countries and Islamist rebel groups. Figure 1 identifies the Muslim countries on the basis of the data cited in Table 1. All the civil wars for the period 2011–14 have been plotted on the map at the center of the conflict. The map gives a visual impression of a preponderance of civil wars in Muslim countries, although smaller conflicts also occur in other conflict areas, notably in Central and South America, in Sub-Saharan Africa, and in Southeast Asia. Several smaller conflicts are located on the fringe of the Muslim-majority world, for example in the Caucasus, India, and the Philippines.2 The civil war in Nigeria takes place in the northern and Muslim part of the country between the government and the Islamist group Boko Haram.
+
+Download in PowerPoint
+
+Figure 1. Muslim countries and civil wars, 2011–14.
+
+Sources: Map created by Halvard Buhaug, PRIO. Source of data on majority religion as in Table 1. The civil wars are plotted in the capital if the conflict is nationwide or otherwise in the approximate geographical center of the conflict zone. Thus, the civil war in Nigeria is plotted in the north of the country. A conflict that lasts over several years within this period is plotted only once. A similar map that includes all armed conflicts in the UCDP/PRIO database, not just the ones that qualify as civil wars, is found in the online supplementary material. For more detailed information on the location of conflicts for the period 1989–2008, see Hallberg (2012). UCDP is developing a geo-referenced dataset on armed conflict (Sundberg and Melander, 2013) but this dataset does not yet have global coverage.
+
+No less than 474 insurgent organizations are recorded in the dataset for the period 1946–2014. Many of them originate in, and identify with, ethnic or religious minorities. Although precise data are lacking, it appears that more than 200 insurgent groups consist mainly of Muslims. Many of these operate in countries where Islam is not the majority religion (as in India and the Philippines), but a larger number are active in Muslim countries. There are few non-Muslim insurgent movements in Muslim countries – the movement in Sudan that fought for the independence of South Sudan, and eventually succeeded, is one of the best-known cases.
+
+Muslim insurgents are not necessarily motivated by religion. We label as Islamist insurgents those groups that adhere to a religious ideology with the overall goal to strengthen Islam nationally or globally and who are willing and able to use violent means to attain this end (Mozaffari, 2007). In the online supplementary material we provide a complete list of all insurgent groups in internal armed conflicts, with 70 groups marked as Islamist.
+
+In Figure 2 we plot year by year the total number of civil wars as well as the number of civil wars in Muslim countries, and civil wars involving Islamist insurgencies, most of which (but not all) occur in Muslim-majority countries. The top curve shows the familiar increase in civil wars during the Cold War and a little beyond, the sharp decline afterwards, the leveling out in the last decade, and the sudden uptick in 2014.
+
+Download in PowerPoint
+
+Figure 2. All civil wars, civil wars in Muslim countries and civil wars with Islamist insurgents, 1946–2014.
+
+Sources: As in Table 1. The data on Islamist insurgents are listed in the online supplementary material.
+
+The curve for civil wars in Muslim countries shows a more modest increase during the Cold War than for the world as a whole, it peaks in the early 1990s, then decreases markedly, and finally increases again after 2001. The curve for Islamist insurgencies has also risen rapidly since 2001. In fact, in the most recent years, almost all civil wars have taken place in Muslim countries and most civil wars involve Islamist insurgencies.
+
+Looking at the last 50 years, we do not find a sharp increase in the number of civil wars involving Muslim countries; but since the overall number of civil wars decreased by about one-half after the end of the Cold War, the fraction of conflicts in Muslim countries has increased markedly, as shown in Figure 3. The increase is particularly dramatic after 9/11. As noted, all civil wars in 2012 took place in Muslim countries, and they all involved Islamist insurgents. The same was the case in 2011. For 2014 the fraction of conflicts occurring in Muslim countries was lower (60%), but still way above the fraction of the world’s countries that have a Muslim majority, or the Muslim fraction of world population (both 23%).
+
+Download in PowerPoint
+
+Figure 3. Civil wars taking place in a Muslim country and civil wars where the insurgents are Islamists, as a share of all civil wars, 1946–2014.
+
+Sources: As in Figure 2.
+
+The riddle of Muslim conflicts
+
+Conflicts in a Muslim country or involving Islamists in opposition have become an increasingly important part of the overall global map of conflict. This is not mainly because the absolute number of such conflicts has risen. In fact, during most of the Cold War the number of conflicts in Muslim countries rose more slowly than the general trend.
+
+The rise in armed conflict during the Cold War in part reflects the strongly increasing number of independent countries, and this applies to Muslim countries, too, but not quite to the same extent. After the end of the Cold War, the number of conflicts in Muslim countries first took a dip, and then increased again, producing essentially a flat trend for the whole period. Islamist conflicts have clearly risen since 2001, well beyond the level they occupied at the end of the Cold War.
+
+Increasingly, the victims of conflict are now found in Muslim countries. There is great and understandable concern about Islamist (or counter-Islamist) terrorism in many Western countries, but the bulk of the battle-related deaths are found in conflicts in Muslim countries, as shown in Figure 4. The figure includes combatants as well as civilian victims.
+
+Download in PowerPoint
+
+Figure 4. Share of all civil war battle deaths occurring in civil wars in Muslim countries, 1946–2014.
+
+Sources: As in Figure 2. The PRIO battle deaths data run from 1946 to 1989, cf Lacina and Gleditsch (2005). The UCDP data run from 1989 to 2014.
+
+While the world as a whole is becoming more peaceful, as argued by Mack (2011), Pinker (2011), Goldstein (2011), and scholars at PRIO and Uppsala University (Gleditsch et al., 2016), the Muslim world is not. Thus, the map of global conflict is increasingly colored by civil wars in Muslim countries and also by Islamist insurgencies.
+
+The Islamization of conflicts in Muslim countries probably contributes to increasing severity and may complicate conflict termination and settlement. However, of all conflicts active in at least one year of the five-year period 2002–06, 29% were inactive in the next five-year period 2007–11. For conflicts in Muslim countries, the percentage was 27%, for conflicts with Islamist insurgencies 31%, and for other conflicts 28%. Thus, at least for this time period, there are only marginal differences between these categories with regard to the rate at which the conflicts are resolved.3
+
+Figure 5 shows the number of battle deaths in interstate wars. In much of the period after World War II, interstate wars were the most severe, with the Korean War (1950–53) and the Vietnam War (1965–75) heading the list. However, the severity of interstate wars has decreased dramatically and the most recent large interstate war was between two Muslim countries, Iran and Iraq (1980–88). War is now largely a question of civil war and increasingly a plague on Muslim countries, as shown in Figure 4. Of the 223,500 battle deaths that are estimated to have occurred from 2010 to 2014, no less than 209,000 (94%) were in Muslim countries. Despite the targeting of Christians and other religious minorities by the IS and other Islamist insurgents, the vast majority of the victims are most likely Muslims; but the battle deaths databases do not provide information on religious affiliation.
+
+Download in PowerPoint
+
+Figure 5. Total number of battle deaths in interstate wars, and battle deaths involving Muslim countries, 1946–2014.
+
+Sources: As in Table 1.
+
+What can account for the violence among Muslims? One obvious possibility is the history of colonialism with its legacy of artificial boundaries imposed by European colonial powers, an issue that has arisen explicitly in the numerous conflicts between Israel and its neighbors as well as in the Iraqi invasion of Kuwait in 1990. Territorial conflicts are generally harder to resolve than other conflicts. Juergensmeyer (2010) interprets the rise of religious nationalism as a counter-reaction to a secular nationalism promoted by the colonial powers and associated with corrupt and inefficient governments in the post-colonial world.
+
+Another more recent source of problems is the interventionist policy of major powers, generally with a Christian majority, such as the Soviet Union in Afghanistan from 1979 and the US and other Western powers in several countries after 9/11. As a result, seemingly stable dictatorships have been replaced with unstable semi-democracies in a number of Muslim countries, such as Afghanistan, Iraq, and Libya. While there were no recent outside interventions in Egypt and Syria prior to 2011, the series of events known as the Arab Spring helped to diffuse regime change from the neighboring countries and Russian intervention eventually become an important factor in Syria. The increase in conflicts in Muslim countries after 2001 in absolute terms, but even more so in relative terms, suggests a reaction in the Muslim world to interventions by major powers.
+
+Some find Islam as a religion to be more prone to fundamentalism and thus also to violence (Ben-Dor and Pedahzur, 2003). However, there are violent and peaceful elements in virtually all religions (Reichberg and Syse, 2014). All the Abrahamic religions (Judaism, Christianity, and Islam) have fundamentalist movements promoting a religious way of life, while in Hinduist and Buddhist movements, racial, ethnic, and religious goals tend to be mixed together (Almond et al., 2003). Whatever the religion, fundamentalist movements seek such radical change that in most polities peaceful accommodation is difficult; hence violence is more likely (Fox, 2013: 132).
+
+Why do so many insurgents, particularly in the Muslim world, choose to rely on the more violent parts of the religious message? Some argue that the missionary character of Islam, as well as Christianity, makes for a more confrontational stance. Samuel P Huntington (1996) famously predicted that the end of the East–West confrontation would be followed by a “clash of civilizations.” Quantitative research has failed to find much support for this idea (Russett et al., 2000). However, the dominant pattern now seems to be a clash within the Muslim world, a situation simplified by Huntington (1996: 258) in his comment that Islam has “bloody innards” as well as “bloody boundaries.” Recently, the civil wars in the Muslim world have spilled over into non-Muslim countries, too, as evidenced by terrorist acts in Paris and elsewhere in 2015–16, but the number of victims is low compared with what Muslim countries have experienced and do not exceed the number of European victims of terrorism by Irish nationalists and right- and left-wing political extremists in Western Europe in the 1970s. As recently as 2011, the bloodiest terrorist incident in Europe was the anti-jihadist solo attack in Norway (York, 2015).
+
+Conflicts with a religious dimension seem to be particularly intractable, but why does this affect the Muslim world more than others? One perspective is that Muslim countries have failed to adopt some of the changes that have led to a decline of violence in other parts of the world, such as secularization and increased respect for human rights. Others focus on how Muslim countries lag behind in economic and political development. For instance, scholars have found Muslim countries to be “democratic underachievers,” particularly with regard to women’s rights (Fish, 2002). Some of them are caught in a “resource curse,” with heavy dependence on export of raw materials and oil in particular. During a long period of high oil prices, oil-rich countries in the region have been able to channel resources to opposition movements that could undermine the position of their rivals in the region. Muslim countries also have a larger-than-average youth bulge (Karakaya, 2015), another factor associated with internal conflict.
+
+A study by Sørli et al. (2005) found that Islam did not make a significant contribution to explaining the frequent incidence of conflict in the Middle East, once regime type, level of development, and other variables had been accounted for. Karakaya (2015) found that the increased conflict proneness of Muslim countries disappears when controlled for economic development, state repression, oil dependency, and the size of the youth bulge. But if these factors are themselves influenced by religion, this does not prove that religion is unimportant. A study by de Soysa and Nordås (2007), that used a more fine-grained variable of religious belonging, found that Catholic countries engaged in more violent internal repression than Muslim countries in the period 1980–2000, but this study also included control variables that may reasonably be part of the explanation for why Muslim countries experience more repression. Similar objections can also be raised against the work of Russett et al. (2000). More sophisticated causal models are needed to assess whether religion itself plays a role in armed conflict. It would also be useful to distinguish between varieties of the major religions. Much of the current violence in the Muslim world can be traced to the conflicts between the Sunni and Shia denominations, just as the war in Croatia in the first half of the 1990s pitted Catholics against Orthodox Christians.
+
+If Muslim countries are overrepresented as far as internal armed conflict is concerned, what about other forms of violence? Table 2 reviews several indicators for the post-Cold War period. Muslim countries are overrepresented in interstate violence as well as four indicators of internal violence besides intrastate conflict – one-sided violence (violence against unorganized civilians), non-state violence (conflicts where none of the parties are the government), serious human rights violations, and the use of the death penalty. Hinduist countries come out with more than average violence on five of the six indicators, Buddhist countries on four, Judaist countries on two, countries with an Unaffiliated majority also on two, and Folk religion on just one. But, as already noted, these are relatively small groups of countries, and so count for less in the global picture. Christian countries are below average on all the indicators of violence. In terms of the number of casualties, intrastate armed conflict (civil war) is the most serious problem during this period.
+
+Table 2. Religion and the relative incidence of violence, 1989–2014.
+
+Table 2. Religion and the relative incidence of violence, 1989–2014.
+
+But while many Muslim countries suffer from violence, this is not true of all of them. Table 3 paints a slightly more optimistic picture of the state of the Muslim world. Here, the countries are ranked by the size of the Muslim population. While six of the 10 countries on this list experienced low-level internal conflict in 2014, only three experienced violence at the level of civil war. Moreover, four of the five countries with the largest Muslim population were free of civil war and have been so for a decade (India) or more (Bangladesh, Egypt, Indonesia). While these countries are not free from violent unrest, they have escaped the worst excesses.
+
+Table 3. Current internal armed conflict and civil war in the 10 countries with the largest Muslim population.
+
+Table 3. Current internal armed conflict and civil war in the 10 countries with the largest Muslim population.
+
+We leave the argument there. The persistence of armed conflict in many Muslim countries and an increased use of violence in several of these conflicts is a major tragedy, particularly for the civilian population. The populations of these countries are well aware of this problem. An international opinion poll (Pew, 2014) showed that in the Middle East “religious and ethnic hatred” was seen as posing “the greatest threat to the world,” while in the US and Europe inequality occupied the top problem spot. Because of higher fertility rates in many Muslim countries, Islam is likely to grow faster than any other religion (Pew, 2015). Accounting for violence in Muslim countries is an urgent topic for scholars, and resolving religious conflicts is a priority task for policymakers. Hopefully, the data reported here can provide useful tools for further studies.
+
+An earlier version of this article was presented to the 57th Annual Convention of the International Studies Association, Atlanta, GA, 16–19 March 2016. We would like to thank the discussants and the participants in the panel as well as Matthias Basedau, Trond Bakkevig, John Mueller, Ragnhild Nordås, Greg Reichberg, Isak Svensson, Henrik Syse, and Henrik Urdal for their helpful comments and suggestions.
+
+Declaration of conflicting interest The author(s) declared no potential conflicts of interest with respect to the research, authorship, and/or publication of this article.
+
+Funding The author(s) disclosed receipt of the following financial support for the research, authorship, and/or publication of this article: The authors’ work was supported by the Norwegian Ministry of Foreign Affairs and the Research Council of Norway.
+
+1. Fox (2003) found similar results using civil war data from the State Failure Project for the period 1950–96. In a study with data up to 2009, Fox (2012) found “religious conflict” (i.e. conflicts with religion as an issue) to be increasing from 1977 and in a majority of all conflicts from 2002, with Muslims increasingly and disproportionately involved.
+
+2. A map showing the location of all armed conflicts for the same time period is found in the on-line Appendix.
+
+3. If we look at civil wars only, the percentages are 17–0–0–29, which provides some support for the idea that civil wars in Muslim countries and civil wars with Islamist insurgents are harder to resolve – but the absolute numbers are very small. We are grateful to the referee who pointed out this possibility.
+
+Supplementary material The supplementary files are available at http://rap.sagepub.com/content/3/2
+
+The replication files are available at: https://dataverse.harvard.edu/dataverse/researchandpolitics
+
+Carnegie Corporation of New York Grant The open access article processing charge (APC) for this article was waived due to a grant awarded to Research & Politics from Carnegie Corporation of New York under its ‘Bridging the Gap’ initiative.
+
+Almond, G, Appleby, RS, Sivan, E (2003) Strong Religion: The Rise of Fundamentalism around the World. Chicago, IL: University of Chicago Press. Google Scholar
+
+Basedau, M, Pfeiffer, B, Vüllers, J (2016) Bad religion? Religion, collective action, and the onset of armed conflict in developing countries. Journal of Conflict Resolution 60(2): 226–255. Google Scholar | SAGE Journals | ISI
+
+Ben-Dor, G, Pedahzur, A (2003) The uniqueness of Islamic fundamentalism and the fourth wave of international terrorism. Totalitarian Movements and Political Religions 4(3): 71–90. Google Scholar | Crossref
+
+de Soysa, I, Nordås, R (2007) Islam’s bloody innards? Religion and political terror, 1980–2000. International Studies Quarterly 51(4): 927–943. Google Scholar | Crossref | ISI
+
+Eck, K, Hultman, L (2007) Violence against civilians in war. Journal of Peace Research 44(2): 233–246. Google Scholar | SAGE Journals | ISI
+
+Fish, MS (2002) Islam and authoritarianism. World Politics 55(1): 4–37. Google Scholar | Crossref | ISI
+
+Fish, MS, Jensenius, FR, Michel, KE (2010) Islam and large-scale political violence: Is there a connection? Comparative Political Studies 43(11): 1327–1362. Google Scholar | SAGE Journals | ISI
+
+Fox, J (2003) Do Muslims engage in more domestic conflict than other religious groups? Civil Wars 6(1): 27–46. Google Scholar | Crossref
+
+Fox, J (2012) The religious wave: Religion and domestic conflict from 1960 to 2009. Civil Wars 14(2): 141–158. Google Scholar | Crossref
+
+Fox, J (2013) An Introduction to Religion and Politics: Theory and Practice. London: Routledge. Google Scholar | Crossref
+
+Gleditsch, KS, Ward, MD (1999) A revised list of independent states since the Congress of Vienna. International Interactions 25(4): 393–413. Google Scholar | Crossref | ISI
+
+Gleditsch, NP, Rudolfsen, I (2015) Are Muslim countries more war-prone? Conflict Trends (3). Oslo: PRIO, www.prio.org/Publications/Publication/?x=8645. Google Scholar
+
+Gleditsch, NP, Melander, E, Urdal, H (2016) Introduction: Patterns of armed conflict since 1945. In: Mason, D, McLaughlin Mitchell, S (eds) What Do We Know About Civil War? Lanham, MD: Rowman & Littlefield, Chapter 1, pp. 15–32. Google Scholar
+
+Gleditsch, NP, Wallensteen, P, Eriksson, M (2002) Armed conflict 1946–2001: A new dataset. Journal of Peace Research 39(5): 615–637. Google Scholar | SAGE Journals | ISI
+
+Goldstein, JS (2011) Winning the War on War. The Decline of Armed Conflict Worldwide. New York: Dutton. Google Scholar
+
+Hallberg, JD (2012) PRIO Conflict Site 1989–2008: A geo-referenced dataset on armed conflict. Conflict Management and Peace Science 29(2): 219–232. Google Scholar | SAGE Journals | ISI
+
+Huntington, SP (1996) The Clash of Civilizations and the Remaking of World Order. New York: Simon & Schuster. Google Scholar
+
+Karakaya, S (2015) Religion and conflict: Explaining the puzzling case of “Islamic violence”. International Interactions 41(3): 509–538. Google Scholar | Crossref | ISI
+
+Lacina, B, Gleditsch, NP (2005) Monitoring trends in global combat: A new dataset of battle deaths. European Journal of Population 21(2–3): 145–166. Google Scholar | Crossref | ISI
+
+Mack, A (ed) (2011) Human security report 2009/2010. In: The Causes of Peace and the Shrinking Cost of War. New York: Oxford University Press. Google Scholar
+
+Mozaffari, M (2007) What is Islamism? History and definition of a concept. Totalitarian Movements and Political Religions 8(1): 17–33. Google Scholar | Crossref
+
+Pettersson, T, Wallensteen, P (2015) Armed conflicts, 1946–2014. Journal of Peace Research 52(4): 536–550. Google Scholar | SAGE Journals | ISI
+
+Pew (2009) Mapping the Global Muslim Population: A Report on the Size and Distribution of the World’s Muslim Population. Washington, DC: Pew Research Center, available at: www.pewforum.org/files/2009/10/Muslimpopulation.pdf. Google Scholar
+
+Pew (2012) The Global Religious Landscape: A Report on the Size and Distribution of the World’s Major Religious Groups as of 2010. Washington, DC: Pew Research Center, available at: www.pewforum.org/files/2014/01/global-religion-full.pdf. Google Scholar
+
+Pew (2014) Middle Easterners see religious and ethnic hatred as top global threat: Europeans and Americans focus on inequality as greatest danger. In: Global Attitudes and Trends. Washington, DC: Pew Research Center, available at: www.pewglobal.org/2014/10/16/middle-easterners-see-religious-and-ethnic-hatred-as-top-global-threat/. Google Scholar
+
+Pew (2015) The Future of World Religions: Population Growth Projections, 2010–2050. Washington, DC: Pew Research Center, available at: www.pewforum.org/2015/04/02/religious-projections-2010-2050/. Google Scholar
+
+Pinker, S (2011) The Better Angels of Our Nature. The Decline of Violence in History and Its Causes. New York: Penguin. Google Scholar
+
+Reichberg, GM, Syse, H (eds) (2014) Religion, War, and Ethics: A Sourcebook of Textual Traditions. Cambridge: Cambridge University Press. Google Scholar | Crossref
+
+Russett, B, Oneal, JR, Cox, M (2000) Clash of civilizations, or realism and liberalism déja vu? Some evidence. Journal of Peace Research 37(5): 583–608. Google Scholar | SAGE Journals | ISI
+
+Sundberg, R, Melander, E (2013) Introducing the UCDP georeferenced event dataset. Journal of Peace Research 50(4): 523–532. Google Scholar | SAGE Journals | ISI
+
+Sundberg, R, Eck, K, Kreutz, J (2012) Introducing the UCDP non-state conflict dataset. Journal of Peace Research 49(2): 351–362. Google Scholar | SAGE Journals | ISI
+
+Svensson, I (2012) Ending Holy Wars: Religion and Conflict Resolution in Civil Wars. Queensland, Australia: University of Queensland Press. Google Scholar
+
+Sørli, ME, Gleditsch, NP, Strand, H (2005) Why is there so much conflict in the Middle East? Journal of Conflict Resolution 49(1): 141–165. Google Scholar | SAGE Journals | ISI
+
+Toft, MD (2007) Getting religion? The puzzling case of Islam and civil war. International Security 31(4): 97–131. Google Scholar | Crossref | ISI
+
+Wood, RM, Gibney, M (2010) The Political Terror Scale (PTS): A re-introduction and a comparison to CIRI. Human Rights Quarterly 32(2): 367–400. Google Scholar | Crossref | ISI
+
+York, C (2015) Islamic state terrorism is serious but we’ve faced even deadlier threats in the past. Huffington Post, 29 November, available at: www.huffingtonpost.co.uk/2015/11/28/islamic-state-terrorism-threat_n_8670458.html#_ga=11074553621886354481305958030. Google Scholar
+
+Article available in:
+
+Similar Articles: View all >
+
+The war that wasn’t there: Managing unclear cases in conflict data
+
+Journal of Peace Research
+
+Nov 2014 Show details Hide details
+
+Disputes over the Divine: Introducing the Religion and Armed Conflict (RELAC) Data, 1975 to 2015
+
+Isak Svensson and more...
+
+Journal of Conflict Resolution
+
+Oct 2017 Show details Hide details
+
+Sovereignty Rupture as a Central Concept in Quantitative Measures of Civil War
+
+Nicholas Sambanis and more...
+
+Journal of Conflict Resolution
+
+May 2019 Show details Hide details
+
+Articles Citing this One: 17View all >
+
+Aggression in Response to Threatening Individuals’ Religious versus Na... Crossref
+
+Joshua D. Wright and more ... The International Journal for the Psychology of Religion Jul 2020 Show details Hide details
+
+A ‘Tale of two Jihadis’? Improperly conflating terrorists and foreign ... Crossref
+
+Michael J. Schumacher and more ... Behavioral Sciences of Terrorism and Political Aggression Apr 2020 Show details Hide details
+
+The surprising decline of international mediation in armed conflicts
+
+Magnus Lundgren and more ... Research & Politics Apr 2020 Show details Hide details
+
+Cookies Notification
+
+This site uses cookies. By continuing to browse the site you are agreeing to our use of cookies. Find out more. Top

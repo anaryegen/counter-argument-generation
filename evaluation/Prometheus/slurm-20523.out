@@ -1,0 +1,7 @@
+/gaueko0/users/ayeginbergenov001/.local/lib/python3.9/site-packages/transformers/utils/hub.py:128: FutureWarning: Using `TRANSFORMERS_CACHE` is deprecated and will be removed in v5 of Transformers. Use `HF_HOME` instead.
+  warnings.warn(
+Loading checkpoint shards:   0%|          | 0/6 [00:00<?, ?it/s]Loading checkpoint shards:  17%|█▋        | 1/6 [03:47<18:57, 227.44s/it]Loading checkpoint shards:  33%|███▎      | 2/6 [07:36<15:12, 228.17s/it]Loading checkpoint shards:  50%|█████     | 3/6 [11:07<11:01, 220.55s/it]Loading checkpoint shards:  67%|██████▋   | 4/6 [14:33<07:09, 214.95s/it]Loading checkpoint shards:  83%|████████▎ | 5/6 [22:04<04:59, 299.77s/it]Loading checkpoint shards: 100%|██████████| 6/6 [22:58<00:00, 216.26s/it]Loading checkpoint shards: 100%|██████████| 6/6 [22:58<00:00, 229.72s/it]
+Traceback (most recent call last):
+  File "/gaueko0/users/ayeginbergenov001/rag-arg/evaluation/Prometheus/eval.py", line 35, in <module>
+    counter_claims.append(line['model'])
+KeyError: 'model'

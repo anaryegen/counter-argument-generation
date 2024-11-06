@@ -1,0 +1,63 @@
+Inequalities and disadvantage in London: Focus on Religion and Belief
+
+In our comprehensive report on inequality and disadvantage in London published earlier this year, The Changing Anatomy of Economic Inequality in London (2007-2013), we provided a detailed picture of what happened to different population groups in London in the wake of the crisis and downturn.
+
+Now, in a series of blogs we are expanding that analysis by ‘drilling down’ into different aspects of inequality in London. Here we look at key economic outcomes (wealth, unemployment, and wages – unfortunately a breakdown of London data on income is not available) by religion and belief.
+
+The data we use below are descriptive statistics. That means that we look at breakdowns of different outcomes by religion or belief without accounting for other factors such as age, educational qualifications, social class, ethnic group or recent immigration status. Further research would be needed to clarify the inter-relationships between patterns of inequality and disadvantage by religion/belief and other factors (ethnicity, class, and recent immigration status would all vary between different religious groups, for example). Nevertheless, looking at descriptive statistics is useful and provides insights into the social inequalities that arise between population subgroups regardless of other underlying factors.
+
+According to Annual Population Survey data for 2014:
+
+49.4% of London’s population identified themselves as Christian
+
+24.9% said they had no religion;
+
+14.4% said they were Muslim;
+
+Meanwhile 2.0% of Londoners identified with other religions (identifying themselves, for example, as Pagan, Spiritualist or Jain).
+
+These figures relate to the entire London population. The proportions for the working age population (Men 16-64, Women 16-59) are slightly different. We estimate, for example, that 11% of the London working age population identified as Muslim in 2012/13. This figure was higher amongst 16-24 year olds (with 18% identifying as Muslim).
+
+The labour market position of Muslims emerged from the findings in our main report as a particular concern. Table 1 shows that the unemployment rate for London Muslims was nearly 10% in 2012/13 – this compares with rates of around 7% amongst Christians, 7% amongst Hindus, and 4% amongst Sikhs.
+
+Table 1: Percentage of the working age population classified as ILO unemployed, London and the rest of England, 2007/8 and 2012/13
+
+Our main report details the percentage of employees in London with gross hourly wages lower than the London Living Wage. We found that proportion of the overall workforce earning less than the London Living Wage increased significantly, by 4 percentage points, between 2007/8 and 2012/13. Table 2 shows that the increase amongst Muslim employees was much greater than the overall figure, at over 9 percentage points. A staggering 44% of those who identify as Muslim were paid below the Living Wage in 2012/13.
+
+Our main report details the percentage of employees in London with gross hourly wages lower than the London Living Wage. We found that proportion of the overall workforce earning less than the London Living Wage increased significantly, by 4 percentage points, between 2007/8 and 2012/13. Table 2 shows that the increase amongst Muslim employees was much greater than the overall figure, at over 9 percentage points. A staggering 44% of those who identify as Muslim were paid below the Living Wage in 2012/13.
+
+Table 2: Percentage of employees in London with gross hourly wages less than London Living Wage thresholds (2007/8 and 2012/13, and change)
+
+The high rates of youth unemployment following the downturn are highlighted in our national distributional outcomes report (Hills et al, Falling Behind, Getting Ahead: The Changing Structure of Inequality in the UK, 2007-2013) as well as a number of other analyses. The evidence in Table 3 extends this analysis to examine youth unemployment rates by religion and belief, for young men and young women. Breakdowns are provided for London, the rest of England (without London) as well as for Inner and Outer London.
+
+High youth unemployment is observed amongst Muslim males aged 16-24 in both London (18.9%) and the rest of England (20.6%). Rates are even higher in Outer London (a figure of 23.3%). In Inner London, however, the unemployment rate for young Muslim men is 5 percentage points lower than for young Christian men.
+
+Table 3: Percentage of the working age population aged 16-24 who were ILO unemployed in 2012/2013 by gender, religion and area
+
+The Wealth and Assets Survey enables wealth holdings data to be disaggregated by religion and belief, both for Great Britain as a whole and for London separately. The measure of wealth we use here includes financial, physical and property wealth (i.e. excluding pension wealth). The figures are nominal (that is, not adjusted for inflation).
+
+Figure 1 disaggregates wealth in London level by religion and belief for 2010/12. At the median, wealth holdings are substantially lower amongst Muslims (£20,500) than for other subgroups. The equivalent figures for those who identify as Christian, Jewish, or ‘no religion’, for example, are £164,000, £312,500 and £160,300 respectively. As noted above, the figures on wealth are descriptive statistics. That is, they provide information on wealth by religion and belief without accounting for other factors such as age, educational qualifications, social class, ethnic group or recent immigration status.
+
+Figure 1: Financial, physical, and property wealth at the median by religion or belief (London, 2010/12)
+
+Source: ONS data using Wealth and Assets Survey for 2010/12
+
+Religion or belief category is based on the religion or belief of the survey respondent.
+
+The findings here add to other recent analyses that also highlight Muslim disadvantage in different areas of life. For example, research for the Joseph Rowntree Foundation (JRF) found differences in poverty risk by religious affiliation, with a 50% poverty risk for Muslims compared to 18% for the population as a whole.
+
+We have commented above on the complex relationships between patterns of inequality and disadvantage by religion or belief on the one hand, and other factors such as educational qualifications, social class, ethnic group or recent immigration status on the other. JRF’s research partially addresses this question by evaluating whether Muslim’s are at a greater risk of poverty after ethnicity is accounted for. The research findings suggest that Muslims, after taking account of their ethnicity, are indeed at more risk of poverty.
+
+Other recent research shows that just under half (46% or 1.22 million) of the Muslim population lives in the 10% most deprived and 1.7% (46,000) in the 10% least deprived, local authority districts in England, based on the Index of Multiple Deprivation measure.
+
+In the months that follow, we will be posting further blogs, looking in detail at different aspects of inequality – for example, inequality between men and women, by age, by disability, by ethnic group, and by occupational social group.
+
+We have published the data from the project – including further data broken down by religion and belief – to provide a resource that others can use as a basis for their own analysis and work. Spreadsheet data on economic outcomes in London broken down by different equality characteristics can be accessed via the CASE website here.
+
+Polly Vizard is a Senior Research Fellow at the Centre for Analysis of Social Exclusion (CASE) LSE. Ellie Suh is Research Officer at CASE. Jack Cunliffe is a Research Officer and PhD candidate at CASE.
+
+The full London report The Changing Anatomy of Economic Inequality in London (2007-2013) (PDF) by Polly Vizard, Eleni Karagiannaki, Jack Cunliffe, Amanda Fitzgerald, Polina Obolenskaya, Stephanie Thompson, Chris Grollman and Ruth Lupton is available here.
+
+The national report Falling Behind, Getting Ahead: The Changing Structure of Inequality in the UK, 2007-2013, Social Policy in a Cold Climate by Hills, J., Cunliffe, J., Obolenskaya, P. and Karagiannaki, E. is available here.
+
+* The APS/LFS estimates in this blog are based on a sample size of 30 or above. However, for some groups the samples are on the verge of our minimum reporting criterion. These should be interpreted with caution. The wealth estimates are reported at the median if sample size is above 30.

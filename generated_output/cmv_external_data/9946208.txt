@@ -1,0 +1,423 @@
+Back to Top Skip to main content
+
+An official website of the United States government Here's how you know
+
+The .gov means it’s official. Federal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you’re on a federal government site.
+
+The site is secure. The https:// ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely.
+
+Log in Show account info
+
+Logged in as: username
+
+Access keys NCBI Homepage MyNCBI Homepage Main Content Main Navigation
+
+The PMC website is updating on October 15, 2024. Learn More or Try it out now.
+
+As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with, the contents by NLM or the National Institutes of Health. Learn more: PMC Disclaimer | PMC Copyright Notice
+
+Perspect Behav Sci. 2020 Mar; 43(1): 137–156.
+
+Published online 2020 Jan 6. doi: 10.1007/s40614-019-00240-z
+
+On Power and Freedom: Extending the Definition of Coercion
+
+Michigan Technological University, Houghton, MI 49931 USA
+
+Find articles by Sonia M. Goltz
+
+Michigan Technological University, Houghton, MI 49931 USA
+
+Sonia M. Goltz, Email: ude.utm@ztlogms.
+
+Corresponding author.
+
+Defining coercion has been a topic of interest to behavior analysts from time to time. Given the more and more subtle influence strategies that technology has enabled, it is time to revisit these definitions. This article examines the definitions of power, freedom, and coercion in behavior analysis, comparing them to philosophical views of power, freedom, and coercion. Two extensions to the definition of coercion are suggested. First, definitions could include as coercive the removal of resources needed to generate the responses required to obtain reinforcement, or in some cases, the neglect to provide these resources. Second, choice architecture systems that are not transparent to the individuals being influenced and for which their consent has not been provided could be considered to be coercive. Implications of these extensions are discussed, including the need to examine behavior management methods for interactions considered to be coercive under the new definitions.
+
+Keywords: Coercion, Freedom, Power, Choice architecture
+
+Washington Post journalist and editor Bob Woodward wrote a book about Donald Trump called simply Fear (Woodward, 2018). The story behind the title is that, when asked about the nature of power by the Post, Donald Trump agreed with an answer previously provided by Barack Obama in an interview with The Atlantic, where he said that real power means being able to get what you want without needing to exert violence. Trump went on to say that real power comes through respect and—that he didn’t even want to use the word—fear (Croucher, 2018). There was a flurry of media attention brought to Trump’s definition; Trump’s answer described an uncomfortable and very present reality, that some powerholders intentionally create fear in order to be able to exert influence. What Trump and possibly Obama referred to can best be called coercion. Dictionary definitions of coercion emphasize the use of power to influence someone to do something they don’t want to do (e.g., see https://www.merriam-webster.com/dictionary/coercion and https://dictionary.cambridge.org/us/dictionary/english/coercion). Likewise, the online dictionary of social sciences discusses using force to gain obedience without willing consent (https://www.library.ucsb.edu/research/db/1185). The use of fear by politicians is not new—it has been used throughout history. However, nationalism has become more prevalent in global politics throughout the world (Bieber, 2018) along with politicians ready to take advantage of this fear to acquire and enact power.
+
+Although coercion has always been present such as in politics, it appears to be more prevalent today not just due to increasing nationalism but also because technology is making it easier to influence and manipulate behavior. Big data mining, such as on the web, is used to profile users and market products or influence voters (see Robinson, 2015; Brambury, 2017). In general, discussions of the ethics of data mining mostly concern privacy and data ownership (Robinson, 2015); only occasionally do they include discussions of transparency and autonomy (Mittelstadt, Allo, Taddeo, Wachter, & Floridi, 2016). Mittelstadt et al., for example, discuss how data mining should theoretically help with decision making by providing the individual only with relevant information in a situation but that the decision about which information is relevant is subjective, making it likely that the person will be encouraged to respond in a way that benefits the institution doing the data mining.
+
+Further, manipulation of behavior through choice architecture has been recently advocated. In their book, Nudge, Richard Thaler and Cass Sunstein (2009) suggested that, to encourage behaviors to help save the planet, governments could influence people through careful choice architecture in terms of public policy and law; they term the philosophy that underlies this “libertarian paternalism” meaning “liberty-preserving” because it maintains freedom of choice in that people can opt out if they want (p. 5). Libertarian paternalism advocates the structuring of choices in a way that encourages certain choices to be made, such as through default options. Thus, choice architecture imposes some constraints that subtly influence choices without force. Thaler and Sunstein provided the rationale that, in many cases, individuals make bad choices and libertarian paternalism can be considered to be “nonintrusive” (p. 5) in that bad choices are not blocked off or made difficult. The term “nudge,” as Thaler and Sunstein used it, refers to any specific part of choice architecture that serves to alter people’s behavior in a predictable way without changing economic incentives, such as putting products at eye level in a store. However, others have noted that there is a lot of confusion around what does and does not count as a nudge (e.g., see Hansen, 2016). Regardless, actions that fall within the scope of choice architecture are considered to be broader than nudges and can range from providing reminders and facilitating commitment to simplifying or reframing information to changing choice defaults, the composition of options, and the consequences of options (Munscher, Vetter, & Scheuerle, 2016).
+
+Thus, it is possible that choice architecture can be viewed as being coercive; indeed, Mittelstadt et al. (2016) referred to data algorithms as nudging behavior and discussed how data analytics can sometimes serve to undermine the agency of data subjects. Of course, when one begins to change response options and consequences of options, interference with the subject’s agency increases. Given these recent developments as well as other possible limitations in definitions used to date, it seems timely to revisit the concept of coercion within behavior analysis. Historically, discussions of coercion in behavior analysis have primarily served to address criticisms from others that behavior analysis advocates control and coercion and violates individual rights (Sidman, 1993; Wood, 1979). Aside from this, behavior analysis has typically emphasized managing individual behaviors with much less attention given to the behavior of those with the means to influence others (Goltz, 2003b).
+
+The purpose of this article is to examine the concepts of power, coercion, and freedom from a behavior analysis perspective and to suggest the expansion of the definition of coercion in part to account for changing technology and methods of coercion. In particular, the article focuses on addressing limitations of Goldiamond's (1976) definition of coercion because it is one of the more extensive and also recently discussed definitions found in behavior analysis (e.g., de Fernandes & Dittrich, 2018). In addition, there are good reasons to consider aligning the definitions of coercion and freedom in psychology with philosophical notions. For example, philosophy discusses both positive and negative freedom: positive freedom requires maintaining individual control over one’s actions and having the resources to produce those actions; negative freedom is freedom from interference with one’s actions. Although current definitions of coercion and freedom in behavior analysis discuss constraining response alternatives (a violation of negative freedom) as being coercive, they miss coercion that may occur through constraints on positive freedom. To this end, the next section outlines philosophical definitions of coercion.
+
+Philosophical Definitions of Coercion
+
+Social philosophers, who study society and its institutions by examining ethical values, have considered definitions of coercion. Social philosophy usually takes one of two approaches to defining coercion: the pressure approach and the enforcement approach (Anderson, 2010; Cratsley, 2015). Understanding the differences between these two philosophical approaches can serve as a basis for examining the different definitions of coercion offered in the behavior analysis literature. The pressure approach refers to using threats to pressure someone to do something they do not want to do and the enforcement approach refers to using differences in power to constrain an individual’s choices. The pressure approach often relies on a baseline to determine whether the coerced would be left worse off or not if the threats were implemented (Cratsley, 2015). Coercion is distinguished from inducement, which is an offer to make a person’s situation better relative to baseline conditions (Wertheimer, 1993). As Wertheimer stated, “threats coerce but offers do not” (p. 244). Offers are viewed as setting up a negotiation that the target can freely participate in or choose not to. One definition of coercion found in behavior analysis follows the pressure approach, referring to threat or use of punishment or the use of negative reinforcement (Sidman, 1993).
+
+The enforcement approach refers to disabling the target’s possibilities for action rather than introducing the threat of aversive consequences for noncompliance (Anderson, 2010). In behavior analysis terms, in both cases the target is placed in an aversive position from which she is motivated to escape, however the responses required for escape are different. A definition of coercion that aligns more with the enforcement approach and includes the disabling of the target’s options is also found in behavior analysis (e.g., Goldiamond, 1975, 1976).
+
+The present article presents these two definitions and suggests an expanded definition in behavior analysis to include two additional types of factors. First, however, the concept of social power is considered because, as indicated in enforcement approaches to power, coercion generally leverages differences in power (Anderson, 2010; Cratsley, 2015).
+
+Power as the Basis for Coercion, Lack of Skill as the Rationale for Coercion
+
+Unequal power occurring under narrow circumstances can be enough for coercion to occur. In behavioral terms (e.g., Goltz, 2003b), power, meaning a potential for influence (see French & Raven, 1959), occurs when one individual controls access to stimuli desired by another individual. Thus, relatively equal degrees of power except for in one seemingly minor area of control can still result in coercion. Also, power can shift quickly. The philosopher Michel Foucault, in fact, suggested that we are never outside the influence of others, including historical ones, and that power is not static and tangible, but dynamic and omnipresent, emerging from one moment to the next from various interacting and changing factors (Lynch, 2014; Taylor, 2014).
+
+What kind of power is needed to coerce depends on how coercion is defined. Recall that in the pressure approach to defining coercion, coercion requires a degree of control over aversive stimuli and the responses required to obtain them. French and Raven proposed five bases of power, one of which is coercive power, or the control over punishment (Raven & French, 1958). However, in the enforcement approach, coercion requires a degree of control over more than aversive stimuli, because it involves disabling alternative responses. Thus, it requires control over the behavioral options available, which is a type of power not explicitly named by French and Raven (1959), but which might fall under their concept of legitimate power. In most cases, individuals with legitimate power, such as a schoolteacher or business manager, are given the authority to provide or remove response options.
+
+The Goltz (2003b) operant model of power suggests why power holders might be motivated to use coercion. In this model, actual influence is believed to be a function of not only power, but also skill in delivering stimuli in a way that will have the most effect on behavior. This suggests, then, that the same level of influence can be achieved with a high degree of power and little skill or vice versa. Therefore, power holders with fewer skills at using power in noncoercive ways are more likely to rely on coercion. Research supports the notion that skill is important to be able to achieve noncoercive influence: managers who monitor employee behavior relatively frequently are more effective (e.g., Komaki, 1986; Komaki, Desselles, & Bowman, 1989), and managers’ contingent use of rewards and punishers is positively related to performance (Arvey & Ivancevich, 1980; Hunt & Schuler, 1976; Podsakoff, Todor, & Skov, 1982; Podsakoff, Todor, Grover, & Huber, 1984; Sims & Szilagyi, 1978).
+
+Current Definitions of Freedom and Coercion in Behavior Analysis
+
+Power is related to freedom in that the use of power via coercion generally has an effect on someone else’s freedom. For example, Martin Luther King, Jr., the great social activist and Civil Rights Movement leader, discussed how freedom is often perceived as getting “aloose” from a negative (King, 1997). Getting aloose from a negative refers to escaping from the use of power by another to constrain responses (e.g., expecting the individual to sit at the back of the bus rather than the front). Following, the two primary themes found in current definitions of freedom and coercion in behavior analysis are reviewed, before proposing that the definition of coercion should be extended.
+
+Definition 1: Freedom as the Opposite of Coercion
+
+Skinner (1971, 1978) advocated for the use of behavior therapy that applies positive consequences, rather than relying on aversive methods, and he viewed freedom as being present in situations in which there are no contingencies using aversive control, whether immediate or deferred. He included in his definition of freedom the absence of being subjected to positive reinforcement in the short term followed by delayed aversive control, pointing out that immediate positive reinforcement can produce false feelings of freedom and therefore reduced attempts at countercontrol because the delayed aversive control is often not perceived (Skinner, 1971). Skinner’s definitions of freedom and coercion, therefore, are consistent with definitions of coercion that emphasize forcing someone to do what they don’t want to and, from a philosophical view, rely on a pressure approach to define coercion. Some of the reasons for Skinner’s advocacy of avoiding aversive control are reviewed below.
+
+The Negative Effects of Punishment
+
+The use of aversive control by power holders may be due in part to a belief that the end justifies the means. Consequentialism is an approach to moral philosophy (e.g., Wertheimer, 1993) that argues that right and wrong should be defined by the outcomes of actions—anything resulting in good outcomes is considered right (e.g., Darwall, 2018). A power holder might believe that punishment should be used because it offers better outcomes, such as changing behavior more quickly, than other options. However, although punishment is an effective contingency in terms of changing behavior, the use of punishment has been viewed as problematic for multiple reasons (e.g., Skinner, 1938, 1948; Solomon, 1964; Sidman, 1993), therefore, its use may not even meet the requirements of consequentialism because the yielding of “better outcomes” is dubious. Punishment can interfere with learning, such as through the emotional reactions, aggression, and attempts at countercontrol it generates (Azrin & Holz, 1966; Sims, 1980; Sidman, 1993). For example, authoritarian leadership is associated with an increased level of deviant work behaviors (Jiang, Chen, Sun, & Yang, 2017). Also, the effectiveness of punishment may be short term in that workers are likely to try to avoid and escape situations in which punishment is probable, leading to erosions of power and the ability to continually use punishment (Sidman, 1989). The use of hard pressure by managers, as compared with inspirational appeals, is a predictor of voluntary turnover of employees (Reina, Rogers, Peterson, Byron, & Hom, 2018). For these and other reasons, there have been strong arguments by behavior analysis practitioners for not using punishment, with some noting that consequences of the use of coercion in society include the various forms of escape such as divorce, dropout, mental illness, and suicide (Sidman, 1993).
+
+These side effects of punishment are thought to be due in part to the poor use of punishment, including the punisher being too harsh, using punishment inconsistently, using punishment when there is no alternative behavior, not explaining clearly the reasons for the punishment, or focusing on the person rather than the behavior (Arvey & Ivancevich, 1980; Hamner & Organ, 1978; Parke, 1972). In addition, in organizations, punishment tends to be used rather informally and haphazardly whereas rewards are usually formalized and applied more carefully (Skaggs, Manz, Lyle, & Pearce, 2018).
+
+Increased Power and Punishing Behavior
+
+One of the factors influencing the poor use of punishment appears to be level of power. Studies indicate that leaders tend to use punishment when follower performance is low (Greene, 1976; Sims & Szilagyi, 1978; Szilagyi, 1979); however, power holders also appear to increase the severity of punishment as they increase in power and are less likely to use punishment that is proportional to the severity of the offense (Moouman, van Dijk, Ellemers, & van Dijk, 2015; van Prooijen, Coffeng, & Vermeer, 2014; Wiltermuth & Flynn, 2013). Their use of punishment appears to become more oriented toward deterring rule breaking rather than increasing the effectiveness of punishment, and this is thought to be because the uncooperative behavior of followers can lead to the loss of resources that provide the power holder with power (Moouman et al., 2015). The strong use of punishment of whistleblowers is a specific example of this: retaliation for whistleblowing becomes stronger the worse and more frequent the wrongdoing the whistleblowing refers to, and managers seem more interested in damage control than they are in the source of the complaint (Cortina & Magley, 2003; Near & Miceli, 1986). This punitive behavior is consistent with the operant model of power that asserts that power holders will act to maintain and/or increase control over desired and aversive consequences due to the tendency of organization members to respond frequently and in ways that are reinforcing for power holders with higher levels of power (Goltz, 2003b).
+
+However, using power severely primarily to retain power rather than proportionally to the perceived level of an offense in order to decrease undesired behavior is contrary to preferences by most people for punishment that restores retributive justice (Carlsmith, 2006; Darley, 2009). Research indicates people trust punishers of an unwanted behavior more than nonpunishers but only if the punishment is not based on self-interest but done for altruistic reasons (Wang & Murnighan, 2017). Also, it is ironic that the self-interested use of power is less sustainable: power holders reduce social credits by using coercive tactics such as demanding favors (Blau, 1974). Furthermore, the use of coercive power invites defensive political behaviors from targets of that power such as playing dumb, passing the buck, and scapegoating, which have as their primary objective the avoidance of negative consequences through confusing the power holder about the source of the behavior being punished (Goltz, 2003a).
+
+Are Freedom and Coercion Really in Opposition?
+
+A definition of freedom as being the opposite of coercion seems to require that power not exist or not be used at all in order to be able to generate freedom. However, Foucault suggested that power can only exist when there is an unbalanced relation between two free subjects (May, 2014; Taylor, 2014)—in other words, a target of coercion has some freedom to respond to an attempt to influence, so without this freedom of the target, there is no ability for the other to have power. Therefore, perhaps the focus should be less on freedom and coercion as being in opposition because coercion cannot exist without some freedom of the target of the coercion, and the concern should be more about the relative choice of response. This is captured in the second definition of coercion in the behavior analysis literature, described in next section.
+
+Definition 2: Lack of Coercion as the Provision of Choice
+
+It was suggested by several scholars in the behavior analysis literature that freedom from coercion is not limited to a lack of aversive control being present. Whereas Skinner’s (1971) definition of freedom was largely restricted to discussions of the absence of aversive stimuli, Goldiamond (1976), Catania (1980), and Baum (2017) all discussed the notion of the possibility of choice as characteristic of freedom as well (de Fernandes & Dittrich, 2018). Discussions of the possibility of choice emphasize two themes: having the possibility of escape from aversive stimuli and the having options that result in reinforcing consequences. Each of these will be discussed in turn.
+
+The Possibility of Escape
+
+Discussions of freedom that include the individual having the possibility of choice indicate this choice should provide the option of escape from aversive stimuli. One mechanism of escape and avoidance is countercontrol (Delprato, 2002). Some scholars have suggested that Skinner connected the ability of an individual to use countercontrol with a behavioral meaning of freedom (e.g., de Fernandes & Dittrich, 2018). Countercontrol usually involves punishing the individual using aversive control in some way, which in turn is rewarding to the individual doing the countercontrol. For instance, research indicates that people avoid interactions with others who exploited them (e.g., Chiang, 2008; Yamagishi et al., 2009). Also, the rejection of unfair offers is a type of countercontrol that decreases positive consequences in the short term, but achieves increased positive outcomes over the long term by replacing unfair partners with fair partners (Goltz, 2013). Skinner (1953) suggested that any kind of aversive or exploitative control may evoke countercontrol rather than compliant behavior; however, countercontrol is more likely to occur in response to the use of higher intensity aversive stimuli.
+
+Countercontrol is often punished by those who are seeking power or trying to hang onto power. Managers use tactics designed to elevate their status in the organization by decreasing their own negative outcomes resulting from countercontrol and increasing the negative outcomes that employees receive for attempting countercontrol (Goltz, 2003a). A large-scale study of whistleblowers in the public sector found that most of them encountered negative responses, obstruction, and reprisals (De Maria & Jan, 1997). Whistleblowers in this study experienced an average of four reprisals each that consisted of damage to their careers and reputation. In only 8% of the cases was corrective action taken. In another study, fear of retaliation by management led to employees withholding information (Credo, Cox, Matherne, & Lanier, 2016). Regardless of the prevalence of removing the option of countercontrol, existing definitions of freedom in the behavior literature suggest that this is coercive, however it is accomplished.
+
+Having Alternative Response Options that are Reinforcing
+
+Baum (2017) discussed the possibility of choice that defines freedom as consisting of the individual having alternatives that have reinforcing consequences and not just aversive ones. Also, Goldiamond’s (1976) analysis viewed greater freedom as occurring when there is a greater set of alternative contingencies providing access to critical consequences. In this view, freedom is the number of true choices, meaning the number of response alternatives available that the respondent has real access to minus one. Goldiamond (1975) emphasized that the options need to be equally possible to be counted. For example, a deficit in the skills required of an individual to obtain reinforcement may render an option an unrealistic alternative. When freedom is zero, meaning only one option to obtain critical consequence is available (i.e., no choice), coercion is at its greatest (Goldiamond, 1976). Thus, Goldiamond’s definition of coercion is more aligned with the enforcement approach to coercion found in the social philosophy literature.
+
+In particular, Goldiamond (1975) labeled as being coercive those systems that either create or take advantage of a critical state of need, making delivery of the reinforcement contingent only on a specified target behavior. Critical consequences are defined as those that are valued over others, often due to stress from deprivation, such as food deprivation or deprivation of social support (Goldiamond, 1976). In a set of two parties in a relationship, whether they be individuals or groups, it could be that one is dependent on the other, both are dependent on each other, or neither is dependent on the other to meet critical needs. Dependencies that flow in one direction only create the most opportunity for exploitation; however, because power relations are continuous and ever-changing, which party has the power to coerce and exploit may change significantly over the course of a relationship.
+
+Nevertheless, both Goldiamond (1976) and de Fernandes and Dittrich (2018) noted that this definition of freedom raises questions about the ethics of the opportunism of institutions that take advantage of individuals or groups in a critical state of need, suggesting that it can be coercive or abusive even if it is used to reward desirable behaviors. For example, these methods are frequently used to control the workforce. Servitude has been defined as a situation in which work appears to be voluntary, but in which workers are constrained and not able to alter the conditions of their employment, such as when a job change also means the loss of housing, a type of employment still found in many areas of the world, such as with farm and domestic workers in South Africa (Woolman & Bishop, 2008). Taking advantage of critical needs occurs in other organizational forms as well: within the United States, noncompetition clauses are commonly used by organizations to restrict worker mobility (Naidu, Nyarko, & Wang, 2016). Also, some countries, such as the United Arab Emirates, with a workforce consisting almost exclusively of immigrant labor (Al-Jenaibi, 2012), have used policies about visas to severely restrict workers’ mobility across employers with the effect of reducing their pay (Naidu et al., 2015). Thus, although these immigrants may have gone to a country voluntarily in order to meet a critical need, in doing so, they became subjected to the removal of the option to leave for more rewarding alternative employment opportunities and their critical needs are not sufficiently met or, in some cases, are even further exacerbated. According to Goldiamond’s (1976) definition of freedom, these restrictions are coercive primarily because critical needs are being exploited.
+
+A power holder might argue that it is not coercion if individuals knowingly give up their later choices by responding to an alternative. Catania and Rost and their colleagues (Catania, 1980; Cerutti & Catania, 1997; Rost, Hemmes, & Alvero, 2014) found that organisms prefer having choice but are willing to give up choice when the consequences are relatively high in a forced choice condition. According to Goldiamond’s (1976) definition of coercion, coercion is occurring if an individual’s critical need is being taken advantage of, even if individuals freely chose to give up their future choices in order to get an immediate reward. In addition, this would be coercion according to Skinner’s definition of freedom, because Skinner identified freedom as consisting of the individual not being subjected to positive consequences in the short term but negative consequences in the long term (de Fernandes & Dittrich, 2018).
+
+The concept of meeting critical needs is consistent with recent philosophical discussions of egalitarianism as being primarily relational in form rather than requiring an equal distribution of resources. Egalitarianism opposes social hierarchy, in particular social power used to constrain others’ freedom, exact tokens of honor from them, or neglect their interests (Anderson, 2017), and argues that to be truly free members of a society must be able to function as humans, meeting needs such as food and shelter, participating in production, and being able to play their roles as free citizens including moving through civil society freely (Anderson, 2017). In essence, egalitarianism requires providing each individual with what has been called personal power, meaning the ability to control one’s outcomes and not be influenced by others (Lammers, Stoker, & Stapel, 2009). Goldiamond’s (1976) suggestion that it is best for practitioners and investigators to use the social contractual model between two consenting parties for mutual benefit rather than relying on the social fiduciary model nicely aligns with philosophical discussions of egalitarianism. The problem with the social fiduciary model, in which one party exercises its power in trust to “protect” the other party, is that it relies on an inequality of power, which can result in abuse and mistrust. The social fiduciary model is often justified by invoking paternalism, meaning making a choice on behalf of another, usually without their consent, because of a belief that they will not make that choice on their own, but the choice will benefit them (e.g., see Archard, 1990; Dworkin, 2014).
+
+The Capacity to Exercise Choice
+
+The advocacy of the social contractual model raises an important issue: how to define coercion and freedom when an individual does not have the capacity to exercise choice, such as an ability to provide consent due to either mental or physical factors. A lack of capacity could occur because the individual is unconscious, is not able to understand the alternatives, and so forth. There are various suggestions in the literature about how to handle this. In some cases, such as with dying patients, advanced consent can be sought (e.g., Rees & Hardy, 2003). In other cases, standards, such as a comparison of risks of the procedure to the risks of daily life, are applied by legal representatives (Wendler, 2012). Sometimes treatment occurs without consent, but the standard is that the ability to consent needs to be periodically monitored and documented (e.g., Li, Stellman, Patel, & Dalton, 2016). At other times, temporary restrictions of freedom are considered ethical even without consent as long as they ultimately serve to increase the number of alternative responses available to the client (Mallory & Russell, 1981). For the purpose of the present analysis, the judgment about whether someone is being coerced or not should take into account whether the person has the ability to choose among alternatives, whether this ability was taken away naturally or intentionally, and if occurring naturally, whether this lack of ability is being taken advantage of. If the ability to choose was taken away by another individual intentionally and/or is being taken advantage of to meet objectives other than what is in the best interest of the incapacitated individual, then this would be defined as coercion.
+
+To summarize, the matter of being free to choose alternative responses has been discussed in behavior analysis in two key ways. First, freedom includes options that allow escape from aversive stimuli (e.g., Baum, 2017), and second, freedom includes having a greater set of alternative contingencies providing access to critical consequences, including the ability to escape or avoid aversive control (e.g., Dittrich, 2010; Goldiamond, 1976). These discussions, as well as similar concepts found in the philosophical literature, are depicted in the first part of Table ​Table1.1. In essence, these discussions extend the basic notion of coercion as involving aversive stimuli, while acknowledging that coercion may or may not involve these stimuli. However, at the same time, these definitions seem to fall short because there are additional situations that are possible forms of coercion, such as not providing the resources needed to enable individuals to form appropriate responses to obtain consequences and creating choice architecture that is not transparent and was not previously freely consented to.
+
+Proposed Extensions to Existing Behavioral Definitions
+
+Relevant Philosophical Concept
+
+Relevant Behavior Analysis
+
+Existing coercion definitions:
+
+Threats of punishment
+
+“Pressure” approach: uses threats to pressure for desired responses
+
+Freedom is having no contingencies using aversive control
+
+Constraints in response choices
+
+“Enforcement” approach: uses power differences to limit choices (opposite of “negative freedom”—absence of interference with actions)
+
+The possibility of choice is also a characteristic of freedom:
+
+a) options that allow escape (e.g., counter-control)
+
+b) options that provide access to critical consequences
+
+Constraints in resources available to enable responses
+
+Enforcement approach (“interference with actions”) and/or opposite of “positive freedom” (access to autonomous self with resources)
+
+Could be a form of restricting options that provide access to critical consequences (b above)
+
+Libertarian (“soft”) paternalism
+
+Is in opposition to negative freedom
+
+With no transparency and informed consent, soft paternalism is opposite of positive freedom
+
+Behavior analysis is based on structuring choices, but with informed consent, transparency, contractual relations
+
+Contrary to Skinnerian concept of using natural reinforcement
+
+Open in a separate window
+
+Proposed Extensions to Current Definitions
+
+For these reasons, current definitions of coercion in the literature may need to be extended. It can be argued that each of these types of behaviors is coercive and affects freedom. Each type of situation is examined in more detail below.
+
+Extension 1: Withdrawing or Not Providing Needed Resources to Respond as Coercive
+
+Power is obtained by controlling critical resources; this is often used strategically to stay in power (e.g., Goltz, 2003a; Pfeffer, 1981). Thus, in a discussion of freedom and coercion, an examination of how power holders control resources needed to generate responses leading to reinforcing consequences seems necessary.
+
+As discussed, political philosophers have distinguished between “negative” and “positive” freedom (e.g., Berlin, 1969), with negative freedom referring to the absence of externally imposed constraints such as interference with one’s actions and positive freedom referring to being autonomous and in control, including having access to needed resources (Wertheimer, 1993). The concept of negative freedom, therefore, suggests that intentionally placing conditions on an individual that does not allow the individual to achieve their desires would be coercive given that it is interfering with the individual’s actions. This might be through limiting the individual’s actions in some way as has been already discussed in the enforcement approach to defining coercion, but it also could mean intentionally withholding the resources needed to respond in order to earn reinforcement, such as by expecting someone to perform a task at work while at the same time removing the resources needed to adequately do the job, whether this be training or material or financial resources. (The exception to this might be if there was previously an agreement that the individual would be doing the work under these conditions; however, this agreement would need to have been entered into freely by the employee, without the employer taking advantage of a critical need.) The removal of resources could fall under the enforcement definition of coercion if one takes a broad view of the concept of interference with actions.
+
+Bringing the concept of positive freedom into discussions of coercion would take the definition yet a step further because positive freedom discusses both whether the individual is in control (i.e., not being interfered with by another) and whether resources are available for the individual to be able to respond and obtain desired outcomes. A lack of positive freedom, therefore, is not necessarily due to the disabling of a target’s actions, but rather could be due to the failure to enable the target’s actions. We might therefore call it the neglectful approach to coercion, although this terminology would not be suitable if failure to enable is intentional. Thus, one’s use of power over consequences, whether aversive or rewarding, to obtain a response from someone when sufficient resources to produce the desired response were not made available (i.e., even if they were not removed or interfered with) could be seen as being coercive. This could be, for example, expecting workers to provide a service or make a product within a too-short timeframe that would affect their health if they tried (e.g., due to exhaustion), with materials that they had to supply themselves, or even with insufficient coaching and training. Time pressure, for example, has been found to be motivational in the short term, but stressful when applied over time (Baethge, Vahle-Hinz, Schulte-Braucks, & van Dyck, 2018).
+
+The implications of the concept of positive freedom for defining coercion goes well beyond traditional definitions of coercion, in particular those based on the pressure approach, so it is helpful to consider research on perceptions of equity to understand the importance of having resources. Research indicates individuals normally expect equitable allocations based on merit—in other words, consequences contingent on performance (e.g., Van Beest & Van Dijk, 2007). There are some exceptions, however, when the equal distribution of resources is expected instead (Konow, 2003). One of these times is when those resources meet basic needs; another is when they enable individuals to create the responses required for merit-based outcomes. For example, a study of women faculty who sued universities for discrimination indicated that, although they expected rewards to be based on merit, they expected resources required to perform successfully, such as equipment, materials, and staff support, to be distributed equally across all faculty and they were not (Goltz, 2005).
+
+To summarize, definitions of coercion and freedom in the behavior analysis literature are consistent with the concept of negative freedom in philosophy in that they discuss interference in terms of constraining the availability of alternative response options; however, they do not discuss interference that can occur in other ways, such as via the removal of resources required to produce those responses. Positive freedom requires maintaining individual control over one’s actions and having the resources to produce those actions. Current definitions of coercion and freedom in the behavior analysis literature have not specifically considered that coercion can occur via neglect (i.e., by requiring responses that are not realistically attainable with the current set of resources).
+
+Next, a particular form of paternalism, choice architecture, also called “soft paternalism,” is examined by considering whether it is coercive and impinges on freedom. As indicated earlier, the primary motivation for considering this is because, although paternalism has been around for a long time, technology such as data mining is allowing for its implementation to be more large scale and to go mostly undetected.
+
+Extension 2: Paternalistic Choice as Coercive
+
+Whether choice architecture, such as that found in health-related fields, is coercive or not has been the subject of debates within bioethics (Cratsley, 2015; Quigley, 2014). Quigley (2014) suggested that creating choice architecture is not controlling and therefore is not coercive. Of course, from a pressure approach to coercion, nudges do not meet the definition of coercion involving a threat (Quigley, 2014). But Quigley also viewed nudges as not removing alternative courses of action, which would mean it does not meet the definition of coercion from an enforcement view (Anderson, 2010). Using research on cognitive science as a basis, Saghai (2013) argued something similar, stating that nudges are easily resistible influences and preserve a person’s range of choices.
+
+From a negative freedom point of view, however, one could easily question whether the structuring of choices in itself is not a form of interference with those choices; this alone would suggest that choice architecture could be viewed as being coercive. In addition, transparency can be an issue because, although nudges are of many types, with some being more transparent than others, the “third degree” nudge relies on bypassing attention (Baldwin, 2014). Cratsley (2015) argued that when influences are structured to bypass attention and when this is done in an opaque rather than a transparent way, the resistibility that Saghai (2013) referred to as a defense of choice architecture is not a good measure of whether coercion is occurring. Likewise, Yeung (2012) pointed out that deliberately bypassing the target’s rational decision processes to direct behavior in a certain way does not respect individual autonomy. Moreover, Cratsley (2015) has raised the issue of whether nudges remove informed consent. Research suggests that both transparency and consent are important to perceptions of coercion: whether processes are formalized and transparent and whether the views of the target of influence are considered affect these perceptions (Cratsley, 2015). Based on these considerations, many forms of choice architecture would be viewed as being coercive.
+
+Seeing choice architecture as coercive and by implication undesirable may be difficult to accept because in many instances, choice architecture is used to benefit others rather than the individual or group creating the choice architecture. For example, recent research indicates that having a decoy candidate can affect hiring preferences, and could be used to control for decision makers’ implicit bias (Chang & Sakara, 2018). Research also suggests parents can be nudged to select better schools for their children (Glazerman, Nichols-Barrer, Valant, Chandler, & Burnett, 2018). Therefore, if one accepts that choice architecture is coercive or has the potential to be coercive, one might try to argue, using a consequentialist approach to ethics (e.g., Wertheimer, 1993), that choice architecture should be used because it is beneficial.
+
+However, it can be argued that it is not necessarily the case that choice architecture is beneficial even when the intent is good because the effectiveness of choice architecture is relative because it depends on what the comparison state is. Skinner (1982) believed that lasting behavior change is more likely when not using contrived reinforcement systems. Choice architecture systems are contrived. Sometimes they consist of contrived sets of consequences and sometimes they consist of contrived antecedent conditions and sometimes both. For example, Skinner indicated that although contrived reinforcement may be necessary to establish behavior when outcomes are delayed, natural reinforcement is likely to be more closely contingent on what he calls the “topography of the behavior” (p. 5). He gave as examples using money to reward production-line work, which doesn’t match the topography of behavior as well as the rewards that craftsmen previously had (e.g., seeing the beauty of the product they made), and the government’s contrived punishment for people who don’t follow policies, for which courts of law are needed to determine when the law has been violated. Thus, the consequentialist view may or may not hold up under scrutiny. Regardless, a deontological approach, which considers principles such as individual rights, would not justify coercion based on effectiveness, but would argue it is not justified because it violates individual autonomy (Wertheimer, 1993).
+
+An additional issue identified by Yeung (2012) that should be considered is that the paternalism suggested by Thaler and Sunstein (2009) is typically called “soft paternalism” and relies on a judgement about what the individual’s view of self-interest would be. Moreover, paternalism is usually imposed without the individual’s consent (Dworkin, 2014). Although this type of paternalism is more respectful of the target’s choices than hard paternalism, which is more clearly based on the interests of the paternalist, it still makes assumptions that are likely to be wrong given individual variance in choices (Yeung, 2012).
+
+Martin Luther King, Jr., discussed two aspects to freedom. The positive, and less considered, aspect of freedom is, according to King, the duty to keep all of humanity “level,” meaning that everyone is seen as sacred and no one has a false sense of superiority or inferiority (King, 1997, p. 430). Thus, King’s discussion of the positive aspect of freedom aligns well with Anderson’s (2017) notion of freedom requiring egalitarianism. Soft or hard paternalism, it seems, relies on a sense of superiority because the assumption is that one person, usually a power holder, knows better what another person needs. Thus, despite the arguments to the contrary, choice architecture could be considered to be coercive particularly when it is not transparent and has sidestepped individual choice by limiting freedom and not obtaining prior consent.
+
+This article examines definitions of power, coercion, and freedom within behavior analysis and proposes that the definition should be extended in two directions. First, definitions should include as coercive the removal of (or neglecting to provide) resources needed to generate the responses required to obtain reinforcement. Second, systems that are not transparent to the individuals being influenced and for which their consent has not been provided could be considered to be coercive. An outline of the proposed extensions is found in the second portion of Table ​Table11.
+
+This article drew on choice architecture as an example of how coercion is used in today’s world since technology has made that avenue more common, but there are much older methods of coercion that have been used often, such as the use of power to spread misinformation in an intentional way. For example, Naomi Oreskes and Erik Conway in their book, Merchants of Doubt: How a Handful of Scientists Obscured the Truth on Issues from Tobacco Smoke to Global Warming, spoke about how 80% of internal documents produced over decades at Mobil Exxon acknowledged the research evidence that carbon emissions were affecting climate change but 80% of their external communications during that same time period planted doubt around those findings (Oreskes & Conway, 2011). As the book title indicates, misinformation was also a method used earlier by the tobacco industry. Like choice architecture, misinformation is a form of pressure to behave a certain way and because of a lack of transparency, the target is unable to correctly ascertain whether it is in their best interest to behave that way. In other words, a range of possible forms of coercion, both old and new, could be examined using these proposed definitions.
+
+Because behavior analysts for years have structured choices to manage individual behavior, if definitions of coercion are extended as suggested, then these behavior management methods should be examined for possible coercion. Of course, coercion as traditionally defined in the behavior analysis literature may be easier to identify. For example, Sidman’s (2001) position that coercion only occurs when negative reinforcement or punishment occurs seems to allow for a simple assessment. But if we start considering choice architecture as coercive because it limits freedom, especially lacking transparency or consent, we need to take a hard look at whether some behavior management practices are coercive.
+
+The discussions of transparency and consent that have already occurred within the behavior analysis literature could be helpful in this assessment. As far back as 1974, Goldiamond (republished in 2002) discussed the ethical issues raised by applied behavior analysis and suggested a constructionist approach as a partial solution, which emphasizes adding to behavioral repertoires rather than discussing pathology and the elimination of unwanted behaviors. This removes the temptation to rely on punishment as a method. In addition, he discussed doing so in an explicit way and contracting directly with the subject of the behavior change rather than with third parties (Goldiamond, 2002). He also noted that in behavior management, behavioral options can be increased rather than decreased, citing Cohen and Filipczak’s (1971) study. As part of this, he suggested that contractual systems in terms of behavior management should be limited in focus rather than totalitarian, warning us away from Goffman’s (1961) notion of the total institution that has 24/7 behavior control (i.e., institutions with a single authority that have a captive population and have control over sleep, play, and work).
+
+Thus, perhaps the job of reducing coercion and reinstating freedom in the current environment means extending both the definitions of coercion and the principles of transparency, direct consent, and constructionism to situations both within and beyond behavior management. For example, behavior management and choice architecture systems that are not very focused, lack sufficient transparency mechanisms, and/or do not obtain the consent of participants, such as the widespread collection and selling of data by social media giants, could be prohibited. There certainly have been recent steps toward this at national and international levels—for example, the EU has established a “right to explanations,” and France has increased their transparency requirements for digital platforms (Andreou et al., 2018).
+
+However, existing approaches in terms of methods like increasing transparency have not always succeeded, suggesting that not enough has been done to both identify and reduce coercion to establish freedom in the world. First, regulations are often not enforced and when they are, they are not always carefully done, allowing coercion to continue. For example, the United States lags behind Europe in instituting substantive requirements of transparency and consent for digital platforms. These are now under discussion because of repeated and publicized cases of widespread election interference (e.g., Lomas, 2018). Moreover, even the added transparency features in Facebook have been found to be insufficient because of their vagueness and incompleteness (Andreou et al., 2018). Behavior analysis methods, in which behavior specification and monitoring is carefully practiced, could help address some of these issues.
+
+Second, even though it can be argued is widely practiced by power holders, not providing needed resources to an individual or group that is expected to produce a behavior has rarely been examined in depth in either psychology or management. Only recently have business academics begun to address this, such as with the job demands-resources (JD-R) model, which indicates that job strain and burnout develop when demands are high and resources are limited (e.g., see Bakker & Demerouti, 2006). Extending the definition of coercion to include situations of insufficient resources to produce the desired response might increase attention to this problem.
+
+In this era, technology has made more subtle types of coercion possible; therefore, this article examines definitions of power, coercion, and freedom within behavior analysis, drawing upon parallels with discussions in philosophy. To date, freedom from coercion has been discussed in behavior analysis in two primary ways. First, it has been viewed as consisting of options that allow escape from aversive stimuli; second, it includes having a greater set of alternative contingencies providing access to critical consequences. This definition of freedom, and therefore, its opposite, coercion, is viewed as being quite narrow and especially appears to miss the subtler forms of coercion that have become prevalent recently. Thus, this article asks behavior analysis to consider the following situations as being coercive as well. First, coercion occurs when an individual is not provided adequate resources to create the responses needed to obtain consequences; second, coercion occurs when the environment is designed in order to encourage certain choices without the individual’s prior consent. As suggested, some of the previously determined best practices of behavior management, such as the use of contracts to create transparency, obtaining consent, and creating a narrow and specified focus on behavior, could be applied to other situations to reduce the use of coercion and increase freedom in the world.
+
+Compliance with Ethical Standards
+
+Conflict of Interest
+
+The Author declares that she has no conflict of interest.
+
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+Al-Jenaibi B. The scope and impact of workplace diversity in the United Arab Emirates: A preliminary study. Geografia Online: Malaysia Journal of Society & Space. 2012;8(1):1–14. [Google Scholar]
+
+Anderson S. The enforcement approach to coercion. Journal of Ethics & Social Philosophy. 2010;5:1–31. doi: 10.26556/jesp.v5i1.47. [CrossRef] [Google Scholar]
+
+Anderson E. The problem of equality from a political economy perspective. In: Sobel D, Vallentyne P, Wall S, editors. Oxford studies in political philosophy. Oxford, UK: Oxford University Press; 2017. pp. 36–57. [Google Scholar]
+
+Andreou, A., Venkatadri, G., Goga, O., Gummadi, K. P., Loiseau, P., & Mislove, A. (2018, February). Investigating ad transparency mechanisms in social media: A case study of Facebook’s explanations. Paper presented at the Network and Distributed Systems Security (NDSS) Symposium, San Diego, CA. 10.14722/ndss.2018.23191
+
+Archard D. Paternalism defined. Analysis. 1990;50:36–42. doi: 10.2307/3328207. [CrossRef] [Google Scholar]
+
+Arvey RD, Ivancevich JM. Punishment in organizations: A review, propositions, and research suggestions. Academy of Management Review. 1980;5:123–132. doi: 10.5465/amr.1980.4288937. [CrossRef] [Google Scholar]
+
+Azrin NH, Holz WC. Punishment. In: Honig WK, editor. Operant behavior: Areas of research and application. New York: Appleton-Century-Crofts; 1966. pp. 380–447. [Google Scholar]
+
+Baethge A, Vahle-Hinz T, Schulte-Braucks J, van Dyck R. A matter of time? Challenging and hindering effects of time pressure on work engagement. Work and Stress. 2018;32:228–247. doi: 10.1080/02678373.2017.1415998. [CrossRef] [Google Scholar]
+
+Bakker AB, Demerouti E. The job demands-resources model: State of the art. Journal of Managerial Psychology. 2006;22:309–328. doi: 10.1108/02683940710733115. [CrossRef] [Google Scholar]
+
+Baldwin R. From regulation to behavior change: Giving the nudge the third degree. Modern Law Review. 2014;77:831–857. doi: 10.1111/1468-2230.12094. [CrossRef] [Google Scholar]
+
+Baum WM. Understanding behaviorism: Behavior, culture, and evolution. 3. Hoboken: Wiley; 2017. [Google Scholar]
+
+Berlin I. Four essays on liberty. Oxford, UK: Oxford University Press; 1969. [Google Scholar]
+
+Bieber F. Is nationalism on the rise? Assessing global trends. Ethnopolitics. 2018;17(5):519–540. doi: 10.1080/17449057.2018.1532633. [CrossRef] [Google Scholar]
+
+Blau PM. On the nature of organizations. New York, NY: Wiley; 1974. [Google Scholar]
+
+Brambury, B. (2017, October 13). Data mining firm behind Trump election built psychological profiles of nearly every American voter. CBC Radio Retrieved from https://www.cbc.ca/radio/day6/episode-359-harvey-weinstein-a-stock-market-for-sneakers-trump-s-data-mining-the-curious-incident-more-1.4348278/data-mining-firm-behind-trump-election-built-psychological-profiles-of-nearly-every-american-voter-1.4348283. Accessed 5 July 2019.
+
+Carlsmith KM. The roles of retribution and utility in determining punishment. Journal of Experimental Social Psychology. 2006;42:437–451. doi: 10.1016/j.jesp.2005.06.007. [CrossRef] [Google Scholar]
+
+Catania AC. Freedom of choice: A behavioral analysis. Psychology of Learning & Motivation. 1980;14:97–145. doi: 10.1016/S0079-7421(08)60160-7. [CrossRef] [Google Scholar]
+
+Cerutti D, Catania AC. Pigeons’ preference for free choice: Number of keys versus key area. Journal of the Experimental Analysis of Behavior. 1997;68:349–356. doi: 10.1901/jeab.1997.68-349. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+
+Chang LW, Sakara M. Social decoys: Leveraging choice architecture to alter social preferences. Journal of Personality & Social Psychology. 2018;115(2):206–223. doi: 10.1037/pspa0000117. [PubMed] [CrossRef] [Google Scholar]
+
+Chiang Y-S. A path toward fairness: Preferential association and the evolution of strategies in the ultimatum game. Rationality & Society. 2008;20:173–201. doi: 10.1177/1043463108089544. [CrossRef] [Google Scholar]
+
+Cohen HL, Filipczak J. A new learning environment. San Francisco, CA: Jossey-Bass; 1971. [Google Scholar]
+
+Cortina LM, Magley VJ. Raising voice, risking retaliation: Events following interpersonal mistreatment in the workplace. Journal of Occupational Health Psychology. 2003;8:247–265. doi: 10.1037/1076-8998.8.4.247. [PubMed] [CrossRef] [Google Scholar]
+
+Cratsley K. Nudges and coercion: Conceptual, empirical, and normative considerations. Monash Bioethics Review. 2015;33:210–218. doi: 10.1007/s40592-015-0036-9. [PubMed] [CrossRef] [Google Scholar]
+
+Credo, K. R., Cox, S. S., Matherne, C. F., & Lanier, P. A. (2016). Can organizational practices inadvertently silence potential whistleblowers? American Journal of Management, 16(3), 9. 10.33423/ajm.v16i3.1868
+
+Croucher, S. (2018, July 31). Bob Woodward will publish “harrowing” Trump book on 9/11/. Retrieved from https://www.newsweek.com/bob-woodward-donald-trump-book-1049281. Accessed 1 Oct 2018.
+
+Darley JM. Morality in the law: The psychological foundations of citizens’ desires to punish transgressions. Annual Review of Law & Social Science. 2009;5:1–23. doi: 10.1146/annurev.lawsocsci.4.110707.172335. [CrossRef] [Google Scholar]
+
+Darwall SL. Philosophical ethics: An historical and contemporary introduction. Boulder: Westview Press; 2018. [Google Scholar]
+
+de Fernandes RC, Dittrich A. Expanding the behavior-analytic meanings of “freedom”: The contributions of Israel Goldiamond. Behavior & Social Issues. 2018;27:4–19. doi: 10.5210/bsi.v27i0.8248. [CrossRef] [Google Scholar]
+
+Delprato DJ. Countercontrol in behavior analysis. The Behavior Analyst. 2002;25:191–200. doi: 10.1007/BF03392057. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+
+DeMaria W, Jan C. Eating its own: The whistleblower's organization in vendetta mode. Australian Journal of Social Issues. 1997;32(1):37–59. doi: 10.1002/j.1839-4655.1997.tb01291.x. [CrossRef] [Google Scholar]
+
+Dittrich, A. (2010). Sentidos possíveis de “liberdade” no behaviorismo radical. In M. M. C. Hübner, M. R. Garcia, P. R. Abreu, E. N. P. Cillo, & P. B. Faleiros (Eds.), Sobre comportamento e cognição, Análise experimental do comportamento, cultura, questões conceituais e filosóficas (Vol. 25, pp. 13–17). Santo Andre: ESETec.
+
+Dworkin, G. (2014). Paternalism. Stanford Encyclopaedia of Philosophy. Retrieved from https://stanford.library.sydney.edu.au/archives/win2015/entries/paternalism. Accessed 5 Oct 2018.
+
+French JRP, Raven BH. The bases of social power. In: Cartwright D, editor. Studies of social power. Ann Arbor: Institute for Social Research; 1959. pp. 150–167. [Google Scholar]
+
+Glazerman, S., Nichols-Barrer, I., Valant, J., Chandler, J., & Burnett, A. (2018). Nudging parents to choose better schools: The importance of school choice architecture (Working Paper 64). Mathematica Policy Research. Retrieved from https://www.mathematica-mpr.com/our-publications-and-findings/publications/nudging-parents-to-choose-better-schools-the-importance-of-school-choice-architecture. Accessed 25 Oct 2019.
+
+Goffman E. On the characteristics of total institutions. In: Etzioni A, editor. A sociological reader on complex organizations. 2. New York: Holt, Rinehart & Winston; 1961. pp. 312–338. [Google Scholar]
+
+Goldiamond I. Alternative sets as a framework for behavioral formulations and research. Behaviorism. 1975;3:49–86. [Google Scholar]
+
+Goldiamond I. Protection of human subjects and patients: A social contingency analysis of distinctions between research and practice, and its implications. Behaviorism. 1976;4:1–41. [PubMed] [Google Scholar]
+
+Goldiamond I. Classic article: Toward a Constructional approach to social problems: Ethical and constitutional issues raised by applied behavior analysis. Behavior & Social Issues. 2002;11:108–197. [PubMed] [Google Scholar]
+
+Goltz SM. Considering political behavior in organizations. The Behavior Analyst Today. 2003;4(3):354–366. doi: 10.1037/h0100024. [CrossRef] [Google Scholar]
+
+Goltz SM. Toward an operant model of power in organizations. The Behavior Analyst. 2003;26:131–150. doi: 10.1007/BF03392071. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+
+Goltz SM. Career expectations vs. experiences: The case of academic women. Journal of Business & Management. 2005;11(2):49–70. [Google Scholar]
+
+Goltz SM. A behavior analysis of individuals' use of the fairness heuristic when interacting with groups and organizations. The Behavior Analyst. 2013;33:5–30. doi: 10.1080/01608061.2012.757993. [CrossRef] [Google Scholar]
+
+Greene, C. N. (1976). A longitudinal investigation of performance-reinforcement leader behavior and subordinate satisfaction and performance. Midwest Academy of Management Proceedings, 157–185.
+
+Hamner WC, Organ DW. Organizational behavior: An applied psychological approach. Dallas: Business Publications; 1978. [Google Scholar]
+
+Hansen PG. The definition of nudge and libertarian paternalism: Does the hand fit the glove? European Journal of Risk Regulation. 2016;7(1):155–174. doi: 10.1017/S1867299X00005468. [CrossRef] [Google Scholar]
+
+Hunt, J. G., & Schuler, R. S. (1976). Leader reward and sanctions behavior relations with criteria in a large public utility (Unpublished ms.). Department of Administrative Sciences, Southern Illinois University at Carbondale, IL.
+
+Jiang, H., Chen, Y., Sun, P., & Yang, J. (2017). The relationship between authoritarian leadership and employees’ deviant workplace behaviors: The mediating effects of psychological contract violation and organizational cynicism. Frontiers of Psychology, 8. 10.3389/fpsyg.2017.00732. [PMC free article] [PubMed]
+
+King ML, et al. Address to MIA Mass Meeting at Holt Street Baptist Church. In: Carson C, et al., editors. The papers of Martin Luther King, Jr.: Birth of a new age. Berkeley, CA: University of California Press; 1997. pp. 199–201. [Google Scholar]
+
+Komaki J. Applied behavior analysis and organizational behavior: Reciprocal influence of the two fields. Research in Organizational Behavior. 1986;8:297–334. [Google Scholar]
+
+Komaki J, Desselles ML, Bowman ED. Definitely not a breeze: Extending an operant model of effective supervision to teams. Journal of Applied Psychology. 1989;74:522–529. [Google Scholar]
+
+Konow, J. (2003). Which is the fairest one of all? A positive analysis of justice theories. Journal of Economic Literature, 41(December), 1188–1239. Retrieved from https://www.aeaweb.org/articles?id=10.1257/002205103771800013. Accessed 20 Oct 2018.
+
+Lammers J, Stoker JI, Stapel DA. Differentiating social and personal power. Psychological Science. 2009;20:1543–1549. doi: 10.1027/1864-9335/a000388. [PubMed] [CrossRef] [Google Scholar]
+
+Li, C., Stellman, J., Patel, N., & Dalton, F. (2016). Improving capacity and consent to treatment recording in psychiatric inpatient wards: A multi-centre quality improvement project. BMJ Open Quality. 5(1): u208344.w4094 . [PMC free article] [PubMed]
+
+Lomas, N. (2018). Facebook’s election interference problem exponentially worse on eve of midterms study suggests. Techcrunch.com. Retrieved from https://techcrunch.com/2018/11/05/facebooks-election-interference-problem-exponentially-worse-on-eve-of-midterms-study-suggests/. Accessed 5 June 2019.
+
+Lynch, R. A. (2014). Foucault’s theory of power. In D. Taylor (Ed.), Michel Foucault: Key concepts (pp. 13–26). Durham: Acumen.
+
+Mallory WA, Russell RL. Behavior modification as a value-laden technology: Implications for selection of intervention strategies with developmentally handicapped clients. Behaviorists for Social Action Journal. 1981;3:14–16. [Google Scholar]
+
+May T. Foucault's conception of freedom. In: Taylor D, editor. Michel Foucault: Key concepts. Durham: Acumen; 2014. pp. 71–83. [Google Scholar]
+
+Mittelstadt BD, Allo P, Taddeo M, Wachter S, Floridi L. The ethics of algorithms: Mapping the debate. Big Data & Society. 2016;3(2):1–21. doi: 10.1177/2053951716679679. [CrossRef] [Google Scholar]
+
+Moouman M, van Dijk WW, Ellemers N, van Dijk E. Why leaders punish: A power perspective. Journal of Personality & Social Psychology. 2015;109:75–89. doi: 10.1037/pspi0000021. [PubMed] [CrossRef] [Google Scholar]
+
+Munscher R, Vetter M, Scheuerle T. A review and taxonomy of choice architecture techniques. Journal of Behavioral Decision Making. 2016;29(5):511–524. doi: 10.1002/bdm.1897. [CrossRef] [Google Scholar]
+
+Naidu S, Nyarko Y, Wang SY. Monoposony power in migrant labor markets: Evidence from the United Arab Emirates. Journal of Political Economy. 2016;124(6):1735–1792. doi: 10.1086/688877. [CrossRef] [Google Scholar]
+
+Near JP, Miceli MP. Retaliation against whistle blowers: Predictors and effects. Journal of Applied Psychology. 1986;71:137–145. [Google Scholar]
+
+Oreskes N, Conway E. Merchants of doubt: How a handful of scientists obscured the truth on issues from tobacco smoke to global warming. New York: Bloomsbury Press; 2011. [Google Scholar]
+
+Parke RD. Some effects of punishment on children's behavior. In: Hartup WW, editor. The young child: Reviews of research. Washington DC: National Association for the Education of Young Children; 1972. pp. 129–156. [Google Scholar]
+
+Pfeffer, J. (1981). Power in organizations. Marshfield.
+
+Podsakoff PM, Todor WD, Grover RA, Huber VL. Situational moderators of leader reward and punishment behavior: Fact or fiction? Organizational Behavior & Human Performance. 1984;34:21–63. [PubMed] [Google Scholar]
+
+Podsakoff PM, Todor WD, Skov R. Effects of leader contingent and noncontingent reward and punishment behaviors on subordinate performance and satisfaction. Academy of Management Journal. 1982;25:810–821. [PubMed] [Google Scholar]
+
+Quigley M. Are health nudges coercive? Monash Bioethics Review. 2014;32:141–158. doi: 10.1007/s40592-014-0008-5. [PubMed] [CrossRef] [Google Scholar]
+
+Raven BH, French JRP. Legitimate power, coercive power, and observability in social influence. Sociometry. 1958;21:83–97. [Google Scholar]
+
+Rees E, Hardy J. Novel consent process for research in dying patients unable to give consent. BMJ: British Medical Journal. 2003;327(7408):198. doi: 10.1136/bmj.327.7408.198. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+
+Reina CS, Rogers KM, Peterson SJ, Byron K, Hom PW. Quitting the boss? The role of manager influence tactics and employee emotional engagement in voluntary turnover. Journal of Leadership & Organizational Studies. 2018;25(1):5–18. doi: 10.1177/1548051817709007. [CrossRef] [Google Scholar]
+
+Robinson SC. The good, the bad, and the ugly: Applying Rawlsian ethics in data mining marketing. Journal of Media Ethics. 2015;30(1):19–30. doi: 10.1080/08900523.2014.985297. [CrossRef] [Google Scholar]
+
+Rost KA, Hemmes NS, Alvero AM. Effects of the relative values of alternatives on preference for free-choice in humans. Journal of the Experimental Analysis of Behavior. 2014;102:241–251. doi: 10.1002/jeab.99. [PubMed] [CrossRef] [Google Scholar]
+
+Saghai Y. Salvaging the concept of nudge. Journal of Medical Ethics. 2013;39(8):141–158. doi: 10.1136/medethics-2012-100727. [PubMed] [CrossRef] [Google Scholar]
+
+Sidman, M. (1989). Coercion and its fallout. Boston: Authors Cooperative.
+
+Sidman M. Reflections on behavior analysis and coercion. Behavior & Social Issues. 1993;3:75–85. [Google Scholar]
+
+Sidman, M. (2001). Coercion and its fallout (2nd ed.). Boston: Authors Cooperative.
+
+Sims HP. Further thoughts on punishment in organizations. Academy of Management Review. 1980;5:133–138. [Google Scholar]
+
+Sims, H. P., & Szalagyi, A. D. (1978). A causal analysis of leader behavior over three different time lags. Eastern Academy of Management Proceedings. 77–81.
+
+Skaggs BC, Manz CC, Lyle MCB, Pearce CL. On the folly of punishing A while hoping for A: Exploring punishment in organizations. Journal of Organizational Behavior. 2018;39(6):812–815. doi: 10.1002/job.2287. [CrossRef] [Google Scholar]
+
+Skinner BF. The behavior of organisms: An experimental analysis. New York, NY: Appleton-Century-Crofts; 1938. [Google Scholar]
+
+Skinner, B. F. (1948). Walden two. Toronto: Macmillan.
+
+Skinner, B. F. (1953). Science and human behavior. New York, NY: Macmillan.
+
+Skinner BF. Beyond freedom and dignity. Middlesex, UK: Penguin Books; 1971. [Google Scholar]
+
+Skinner BF. Reflections on behaviorism and society. Englewood Clifss, NJ: Prentice-Hall; 1978. [Google Scholar]
+
+Skinner BF. Contrived reinforcement. The Behavior Analyst. 1982;5:3–8. [PMC free article] [PubMed] [Google Scholar]
+
+Solomon RL. Punishment. American Psychologist. 1964;19:239–253. [Google Scholar]
+
+Szilagyi AD. Causal inference between leader reward behavior and subordinate goal attainment, absenteeism, and work satisfaction (Working Paper) Houston, TX: University of Houston; 1979. [Google Scholar]
+
+Taylor D. Introduction: Power, freedom and subjectivity. In: Taylor D, editor. Michel Foucault: Key concepts. Durham: Acumen; 2014. pp. 1–9. [Google Scholar]
+
+Thaler RH, Sunstein CR. Nudge: Improving decisions about health, wealth, and happiness. London, USA: Penguin Books; 2009. [Google Scholar]
+
+Van Beest I, Van Dijk E. Self-interest and fairness in coalition formation: A social utility approach to understanding partner selection and payoff allocations in groups. European Review of Social Psychology. 2007;18:132–174. doi: 10.1080/10463280701595354. [CrossRef] [Google Scholar]
+
+van Prooijen JW, Coffeng J, Vermeer M. Power and retributive justice: How trait information influences the fairness of punishment among power holders. Journal of Experimental Social Psychology. 2014;50:190–201. doi: 10.1016/j.jesp.2013.10.004. [CrossRef] [Google Scholar]
+
+Wang L, Murnighan JK. The dynamics of punishment and trust. Journal of Applied Psychology. 2017;102:1385–1402. doi: 10.1037/apl0000178. [PubMed] [CrossRef] [Google Scholar]
+
+Wendler, D. (2012). Protecting subjects who cannot give consent: Toward a better standard for “minimal” risks. The Hastings Center Report. 35(5), 37–43. [PubMed]
+
+Wertheimer A. A philosophical examination of coercion for mental health issues. Behavioral Sciences & the Law. 1993;11:239–258. [Google Scholar]
+
+Wiltermuth SS, Flynn FJ. Power, moral clarity, and punishment in the workplace. Academy of Management Journal. 2013;56:1002–1023. doi: 10.5465/amj.2010.0960. [CrossRef] [Google Scholar]
+
+Wood WS. Ethics for behaviorists. Behavior Analyst. 1979;2(2):9–15. [PMC free article] [PubMed] [Google Scholar]
+
+Woodward B. Fear: Trump in the White House. New York, NY: Simon & Schuster; 2018. [Google Scholar]
+
+Woolman S, Bishop M. Down on the farm and barefoot in the kitchen: Farm labour and domestic labour as forms of servitude. Development Southern Africa. 2008;24(5):595–606. [Google Scholar]
+
+Yamagishi T, Horita Y, Takagishi H, Shinada M, Tanida S, Cook KS. The private rejection of unfair offers and emotional commitment. Proceedings of the National Academy of Sciences. 2009;106:11520–11523. doi: 10.1073/pnas.0900636106. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+
+Yeung K. Nudge as fudge. Modern Law Review. 2012;75:122–148. [Google Scholar]
+
+Articles from Perspectives on Behavior Science are provided here courtesy of Association for Behavior Analysis International
+
+Cited by other articles
+
+Links to NCBI Databases
+
+Copy Download .nbib .nbib

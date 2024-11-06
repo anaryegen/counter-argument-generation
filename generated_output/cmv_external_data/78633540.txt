@@ -1,0 +1,1155 @@
+Back to Top Skip to main content
+
+An official website of the United States government Here's how you know
+
+The .gov means it’s official. Federal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you’re on a federal government site.
+
+The site is secure. The https:// ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely.
+
+Log in Show account info
+
+Logged in as: username
+
+Access keys NCBI Homepage MyNCBI Homepage Main Content Main Navigation
+
+The PMC website is updating on October 15, 2024. Learn More or Try it out now.
+
+As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with, the contents by NLM or the National Institutes of Health. Learn more: PMC Disclaimer | PMC Copyright Notice
+
+World J Nephrol. 2018 Jan 6; 7(1): 1–28.
+
+Published online 2018 Jan 6. doi: 10.5527/wjn.v7.i1.1
+
+Fluid balance concepts in medicine: Principles and practice
+
+Maria-Eleni Roumelioti, Robert H Glew, Zeid J Khitan, Helbert Rondon-Berrios, Christos P Argyropoulos, Deepak Malhotra, Dominic S Raj, Emmanuel I Agaba, Mark Rohrscheib, Glen H Murata, Joseph I Shapiro, and Antonios H Tzamaloukas
+
+Maria-Eleni Roumelioti
+
+Division of Nephrology, Department of Medicine, University of New Mexico School of Medicine, Albuquerque, NM 87131, United States
+
+Find articles by Maria-Eleni Roumelioti
+
+Department of Surgery, University of New Mexico School of Medicine, Albuquerque, NM 87131, United States
+
+Find articles by Robert H Glew
+
+Division of Nephrology, Department of Medicine, Joan Edwards School of Medicine, Marshall University, Huntington, WV 25701, United States
+
+Find articles by Zeid J Khitan
+
+Helbert Rondon-Berrios
+
+Division of Renal and Electrolyte, Department of Medicine, University of Pittsburgh School of Medicine, Pittsburgh, PA 15260, United States
+
+Find articles by Helbert Rondon-Berrios
+
+Christos P Argyropoulos
+
+Division of Nephrology, Department of Medicine, University of New Mexico School of Medicine, Albuquerque, NM 87131, United States
+
+Find articles by Christos P Argyropoulos
+
+Division of Nephrology, Department of Medicine, University of Toledo School of Medicine, Toledo, OH 43614-5809, United States
+
+Find articles by Deepak Malhotra
+
+Division of Renal Disease and Hypertension, Department of Medicine, George Washington University, Washington, DC 20037, United States
+
+Find articles by Dominic S Raj
+
+Division of Nephology, Department of Medicine, Jos University Medical Center, Jos, Plateau State 930001, Nigeria
+
+Find articles by Emmanuel I Agaba
+
+Division of Nephrology, Department of Medicine, University of New Mexico School of Medicine, Albuquerque, NM 87131, United States
+
+Find articles by Mark Rohrscheib
+
+Research Service, Raymond G Murphy VA Medical Center and University of New Mexico School of Medicine, Albuquerque, NM 87108, United States
+
+Find articles by Glen H Murata
+
+Antonios H Tzamaloukas
+
+Research Service, Raymond G Murphy VA Medical Center and University of New Mexico School of Medicine, Albuquerque, NM 87108, United States. vog.av@sakuolamazt.soinotna
+
+Find articles by Antonios H Tzamaloukas
+
+Maria-Eleni Roumelioti, Division of Nephrology, Department of Medicine, University of New Mexico School of Medicine, Albuquerque, NM 87131, United States;
+
+Contributor Information.
+
+Author contributions: Roumelioti ME reviewed the literature, wrote parts of the report and constructed two figures; Glew RH made extensive and critical revisions of the report; Khitan ZJ made additions to the report and constructed two figures; Rondon-Berrios H, Argyropoulos CP, Malhotra D, Raj DS, Agaba EI, Rohrscheib M and Murata GH made changes and additions to the report; Shapiro JI made important corrections in the report and constructed one figure; Tzamaloukas AH conceived this report, reviewed the literature, and wrote parts of the text.
+
+Correspondence to: Antonios H Tzamaloukas, MD, Emeritus Professor, Research Assistant, Research Service, Raymond G Murphy VA Medical Center and University of New Mexico School of Medicine, 1501 San Pedro, SE, Albuquerque, NM 87108, United States. vog.av@sakuolamazt.soinotna
+
+Telephone: +1-505-2651711-4733 Fax: +1-505-2566441
+
+Received 2017 Sep 14; Revised 2017 Nov 16; Accepted 2017 Nov 27.
+
+Open-Access: This article is an open-access article which was selected by an in-house editor and fully peer-reviewed by external reviewers. It is distributed in accordance with the Creative Commons Attribution Non Commercial (CC BY-NC 4.0) license, which permits others to distribute, remix, adapt, build upon this work non-commercially, and license their derivative works on different terms, provided the original work is properly cited and the use is non-commercial. See: http://creativecommons.org/licenses/by-nc/4.0/
+
+The regulation of body fluid balance is a key concern in health and disease and comprises three concepts. The first concept pertains to the relationship between total body water (TBW) and total effective solute and is expressed in terms of the tonicity of the body fluids. Disturbances in tonicity are the main factor responsible for changes in cell volume, which can critically affect brain cell function and survival. Solutes distributed almost exclusively in the extracellular compartment (mainly sodium salts) and in the intracellular compartment (mainly potassium salts) contribute to tonicity, while solutes distributed in TBW have no effect on tonicity. The second body fluid balance concept relates to the regulation and measurement of abnormalities of sodium salt balance and extracellular volume. Estimation of extracellular volume is more complex and error prone than measurement of TBW. A key function of extracellular volume, which is defined as the effective arterial blood volume (EABV), is to ensure adequate perfusion of cells and organs. Other factors, including cardiac output, total and regional capacity of both arteries and veins, Starling forces in the capillaries, and gravity also affect the EABV. Collectively, these factors interact closely with extracellular volume and some of them undergo substantial changes in certain acute and chronic severe illnesses. Their changes result not only in extracellular volume expansion, but in the need for a larger extracellular volume compared with that of healthy individuals. Assessing extracellular volume in severe illness is challenging because the estimates of this volume by commonly used methods are prone to large errors in many illnesses. In addition, the optimal extracellular volume may vary from illness to illness, is only partially based on volume measurements by traditional methods, and has not been determined for each illness. Further research is needed to determine optimal extracellular volume levels in several illnesses. For these reasons, extracellular volume in severe illness merits a separate third concept of body fluid balance.
+
+Keywords: Body fluids, Body water, Extracellular volume, Hypertonicity, Hypotonicity, Congestive heart failure, Hepatic cirrhosis, Sepsis, Nephrotic syndrome
+
+Core tip: The regulation and clinical disturbances of body fluid and its compartments are traditionally consigned to two concepts. The concept of tonicity of body fluids is critical in the regulation of the volume of body cells. Disturbances in tonicity result from abnormalities in the relation between body water and body solute. The concept of extracellular volume plays a critical role in the regulation of perfusion of body cells and organs. Disturbances in extracellular volume result primarily from abnormalities in sodium salt balance. Various methods for measuring body water and extracellular volume have been extensively applied in clinical practice. However, precise determination of the optimal body fluid volumes encounters difficulties which are greatly accentuated in severe illnesses, because several other factors interacting with extracellular volume in determining tissue perfusion, including cardiac output, capacity of the blood vessels, and Starling forces, are significantly altered in these illnesses. The aforementioned factors cause changes in the extracellular volume and create the need for optimal levels of this volume that are higher than those of healthy individuals and the need for newer methods for evaluating body fluid volumes. Thus, fluid regulation in severe illness represents an evolving concept of body fluid balance separate from the two traditional concepts. Important questions about this third concept remain unanswered underscoring the need for further research.
+
+Fluid balance is critical in health[1] and disease[2,3]. Its management is required in a variety of instances. These include stress that healthy individuals may experience at certain times, e.g., during intense exercise[4], development of various acute or chronic diseases[5-7], and complication of the course of several diseases[3,8,9]. Proper fluid balance is a key management target for groups of individuals experiencing difficulties in maintaining normalcy with regard to it, e.g., those with cognition disorders[10], the very young[11,12], and the very old[13,14]. Less well known is the fact that disorders of fluid balance are encountered in conditions common in the general population, e.g., obesity[15] or hypertension[16-18].
+
+Distinguishing normal from abnormal fluid balance in one’s medical practice can be challenging. The diagnosis of fluid balance abnormalities requires the informed and reasoned interpretation of clinical and laboratory information[14,19]. However, few would argue with the contention that the diagnostic accuracy of these methods is weak in general[14,19-21] and is further complicated by the indiscriminate and inappropriate use of terms when expressing aspects of fluid balance. For example, the terms “hydration”, “dehydration”, and “overhydration” are often loosely used to express not one, but two fluid balance concepts, specifically body water balance and extracellular volume (ECFV) balance[22,23]. The need to distinguish between pure water deficit and ECFV depletion has been stressed in the literature[24-26]. The use of the term “dehydration” to indicate water deficit or ECFV depletion causes confusion among health care practitioners[27].
+
+The traditional approach to understanding disorders of fluid balance has been to compare measured or estimated TBW and ECFV between the patients being studied and the corresponding “normal” values. However, this approach has three limitations: First, identifying “normal values” is fraught with ambiguity. Second, abnormalities in TBW and ECFV often coexist. Finally, optimal values of TBW and especially ECFV differ considerably between patients with serious illnesses vs normal individuals. This last difference justifies the introduction of a third approach to fluid balance, namely fluid balance in severe illness. Our aim in this report is to review the methods of measuring TBW and ECFV, the uses and limitations of these methods, and the methods of evaluating fluid balance in patients with severe illness.
+
+BODY FLUID BALANCE AS A FUNCTION OF WATER BALANCE
+
+Parameters characterizing water balance
+
+The concept of water balance as applied in clinical practice refers to the relationship between total TBW and body solute. Osmolality, which expresses the total solute concentration in a fluid, is the core parameter of this concept[28]. The principal physiologic function that depends on this first fluid balance concept is the maintenance of stable volume of the body cells. Stable body cell volume is critical for cell function and survival and is based on two membrane-related phenomena, active solute transport mechanisms of the cell membranes, mainly mediated by sodium-potassium ATPase, and high permeability of cell membranes to water[29]. This second process has two fundamental consequences: (1) Osmolality is equal between the intracellular and extracellular compartment in the steady state[30]; and (2) the distribution of TBW between the intracellular and extracellular compartments is determined by the total solute in each compartment[31].
+
+Certain solutes dissolved in body fluids are distributed almost exclusively in the intracellular or the extracellular compartment, while other solutes are distributed in TBW. Changes in the amount of solutes distributed in TBW (urea, ethanol, and other alcohols, e.g., methanol and propyl alcohol) will lead to parallel changes in osmolality of all body fluids, but will not cause any change in cell volume. In contrast, changes in the amount of solutes distributed, by and large, in one of the two major body fluid compartments will lead to parallel changes in body fluid osmolality and opposite sign changes in cell volumes. For example, a decrease in the amount of an extracellular solute causes a decrease in body fluid osmolality and an increase in cell volume.
+
+Tonicity is the portion of osmolality contributed by solutes distributed in one major body fluid compartment[29]. The terms “hypotonicity” and “hypertonicity” should be used to denote, respectively, relative excess or relative deficit of water in place of the ambiguous terms “overhydration” and “dehydration”. Serum sodium concentration ([Na]S) is the most widely applied index of tonicity and is accurate except when there is an excess of exogenous extracellular solutes, other than sodium salts, or in the presence of falsely low laboratory values of [Na]S (pseudohyponatremia) resulting from measurement of [Na]S by indirect potentiometry when serum water fraction is decreased secondary to an increase in serum solid (proteins or lipids) concentration[32].
+
+Determinants of body fluid tonicity
+
+The quantitative approach to clinical aspects of the first concept of fluid balance is based on the pivotal work of Edelman et al[33]. These researchers established the relationship between solutes involved in the function of tonicity and TBW using dilution of radio-isotopic markers in various clinical states potentially associated with dystonicity. Their work established the fact that [Na]S represents the fraction: Sum of exchangeable sodium plus exchangeable potassium over body water[33]. A simplified expression of this fraction, used extensively in treating disorders of tonicity is as follows: [Na]S = (Exchangeable Na + Exchangeable K)/TBW. In this fraction, exchangeable sodium represents the extracellular solute while exchangeable potassium represents the intracellular solute[29]. Abnormal values of the measured [Na]S, or serum osmolality, or of serum tonicity calculated as the sum of the osmotic equivalents of [Na]S plus serum glucose concentration[34], indicate that there is a discrepancy between TBW and effective body solute; however, they provide no information about excesses or deficits of any of the particular determinants of tonicity. In fact, TBW may be low, normal, or excessive in patients with either hypertonicity[34-37] or hypotonicity[38-43]. Figure ​Figure11 shows changes in extracellular and intracellular volumes in euvolemic, hypovolemic and hypervolemic hyponatremia.
+
+Open in a separate window
+
+Body compartment volume (L) in the three categories of hyponatremia. I: Normal state: ECFV = 16 L, ICFV = 24 L, serum sodium concentration ([Na]S) = 140 mmol/L. II: Hypovolemic hyponatremia; IIa: Loss of 8 L of isotonic sodium solution: ECFV = 8 L, ICFV = 24 L, [Na]S = 140 mmol/L; IIb: Gain of 8 L of water; ECFV = 10 L, ICFV = 30 L, [Na]S = 112 mmol/L. III: Hypervolemic hyponatremia; IIIa: Gain of 8 L of isotonic sodium solution; ECFV = 24 L, ICFV = 24 L, [Na]S = 140 mmol/L; IIIb: Gain of 8 L of water; ECFV = 28 L, ICFV = 28 L, [Na]S = 120 mmol/L. IV: Euvolemic hyponatremia manifested in the syndrome of Inappropriate ADH secretion, which combines water gain and sodium loss[38,39]; IVa: Gain of 8 L of water; ECFV = 19.2 L, ICFV = 28.8 L, [Na]S = 116.7 mmol/L; IVb: Loss of 560 mmol of monovalent sodium salt (e.g., NaCl); ECFV = 16 L, ICFV = 32 L, [Na]S = 105 mmol/L. ECFV: Extracellular fluid volume; ICFV: Intracellular fluid volume.
+
+Establishing the presence and degree of excess or deficit of the components that determine tonicity is critical for the rational management of disorders of tonicity. Assessing body water balance is the first step in the management of tonicity disturbances. A detailed review of the physiology and pathophysiological disturbances of body water is beyond the scope of this report; however, Schrier has provided an insightful review of this topic[44]. Determining whether TBW is abnormal or not in a patient presenting with dystonicity requires a comparison of this patient’s TBW and the “normal” value of TBW.
+
+Measuring body water
+
+“Normal” TBW values were first established as the weight differences between fresh and desiccated animal carcasses[45]. Subsequently, TBW was measured by dilution of injected markers. Elkington and Danowski provide a useful explanation of this methodology[46]. The TBW markers most widely applied in research studies include tritiated water (3H2O)[47], deuterium oxide-heavy water-(2H2O)[48] and antipyrine[49]. Other markers, e.g., urea, thiourea and ethanol, have enjoyed only limited application. Heavy water does not subject patients to radiation and is the main reference method for measuring TBW[50,51]. Water labeled with the stable oxygen isotope 18O (H218O) has also been used to estimate TBW[52]. Both tracer hydrogen (2H) and tracer oxygen (18O) exchange with various compounds in the body, thereby causing small overestimates of body water by dilution of 2H2O or measurement of H218O. Hydrogen of water molecules exchanges with labile protons in protein molecules, while oxygen of water molecules exchanges into inorganic pools during formation of ester bonds[53]. Since the rate of exchange of 2H with nonaqueous hydrogen slightly exceeds the rate of exchange of 18O with nonaqueous oxygen in body tissues, body water estimates from 2H2O dilution space are approximately 3.5% higher than those obtained using H218O[53].
+
+Efforts to develop non-invasive measurements of TBW applicable to clinical states have applied newer techniques that target body composition; these include: Dual-energy X-ray absorptiometry (DEXA)[54], air displacement plethysmography[55], nuclear magnetic resonance spectroscopy[56], and bioelectrical impedance analysis (BIA)[57-59]. This last technique is relatively inexpensive and simple to use. Because of these advantages, BIA has been extensively applied in clinical settings requiring precise knowledge of the state of water balance, e.g., in populations on chronic dialysis. The newer methods[54-57] estimate TBW using empirical equations derived from comparisons of their measurements to measurements made using reference methods. The reliability of these newer methods depends on the accuracy of certain assumptions made during construction of the equations[60,61]. Findings from these techniques may disagree in subjects who do not fulfill the assumptions on which these equations are based[62].
+
+Comparisons by statistical regression methods of measurements of TBW by reference methods to known factors affecting body composition has led to the development of anthropometric formulas estimating TBW as a function of height, body weight, age, gender and ethnicity in subjects with normal water balance. Of these formulas, three have been extensively used in adults[63-65] and one in children[66]. Figure ​Figure22 shows TBW values derived using the tree formulas for adults, which provide comparable values of body water in most cases[67]. Estimates from one of these formulas should provide more acceptable values of TBW than the older methods used to estimate TBW for the computation of the volume of the replacement fluids in dystonicity states. These older methods accounted only for body weight and gender; for example, TBW was computed as 0.6 of body weight in men and 0.5 of body weight in women. However, the existing anthropometric formulas can give misleading results for several reasons. The first source of inaccuracy is that they do not account for all the determinants of body composition. The degree of obesity varies substantially between subjects with the same height, age, gender, ethnicity and body weight. The anthropometric formulas will compute the same value of TBW for all these subjects. However, since body fat contains minimal amounts of water, TBW is less in obese than lean subjects with the same anthropometric characteristics. This is evident in the large standard errors of these formulas, which suggest a potential variation of several liters of estimates of TBW in subjects with the same age, height, weight, and ethnicity, and no water balance abnormalities.
+
+Open in a separate window
+
+Total body water estimates from anthropometric formulas. Estimates of total body water computed by the Hume et al[63], Watson et al[64] and Chumlea et al[65] anthropometric formulas for men and women with the same age (40 years) and varying height and weight. AA: African American; C: Caucasians.
+
+A second source of inaccuracy of the anthropometric formulas is the presence of abnormal water balance, which creates the potential of even greater error of the formulas. Gains or losses of water result in equal magnitude gains or losses in body weight. The coefficients assigned to body weight in anthropometric formulas can be used to predict the direction of their error in subjects with water balance abnormalities. These coefficients are substantially lower than 0.5 L/kg in all formulas resulting in decreasing values of body water content (the fraction TBW over body weight) as weight increases and increasing values of water content as weight decreases[68]. These changes in water content are appropriate for subjects with increasing weight due to obesity or decreasing weight due to loss of body fat[68]. However, body water content mathematically increases in subjects gaining weight because of fluid retention and decreases in subjects losing body fluids[69,70]. The Chertow anthropometric formula[71] was derived from measurements of TBW pre-hemodialysis, when patients routinely present with fluid gains. This formula provides higher estimates of TBW than the other anthropometric formulas[67]. In addition, the Chertow formula accounts for one determinant of body composition (diabetes mellitus) not included in the other formulas[63-65], and contains coefficients that take into consideration interactions between age and gender, age and weight, and height and weight[71]. The main drawback of the Chertow formula is that it computes TBW for only the average fluid gain in the dialysis population that is being studied. Johansson et al[72] developed anthropometric formulas estimating TBW in peritoneal dialysis patients. Table ​Table11 shows the anthropometric formulas estimating TBW in normal adults, normal children and patients on dialysis.
+
+Anthropometric formulas estimating body water
+
+Adults, normal body water values
+
+Hume and Weyers formulae[63]
+
+Women: TBW = -35.270121 + 0.344547H + 0.183809W
+
+Men: TBW = -14.012934 + 0.194786H + 0.296785W
+
+Watson et al[64] formulae
+
+….Women: TBW = -2.097 +0.1069H + 0.2466W
+
+Men: TBW = 2.447 - 0.09516A + 0.1074H + 0.3362W
+
+Chumlea et al[65] formulae
+
+Women, African American: TBW = -16.71 - 0.05A + 0.24H + 0.22W
+
+Women, Caucasian: TBW = -10.50 - 0.01A + 0.18H + 0.20W
+
+Men, African American: TBW = -18.37 - 0.09A + 0.25H + 0.34W
+
+Men, Caucasian: TBW = 23.04 - 0.03A + 0.50W - 0.62BMI
+
+Children, normal body water values
+
+Mellits, Cheek formulae[66]
+
+Girls, H ≤ 110.8 cm: TBW = 0.076 + 0.013H + 0.507W
+
+Girls, H > 110.8 cm: TBW = -10.313 + 0.154H + 0.252W
+
+Boys, H ≤ 132.7 cm: TBW = -1.927 + 0.045H + 0.465W
+
+Boys, H > 132.7 cm: TBW = -21.993 + 0.209H + 0.465W
+
+Adults, pre-hemodialysis
+
+Chertow et al[71] formula
+
+TBW = 0.07493713A - 1.01767992G + 0.57894981D + 0.12703384H - 0.04012056W - 0.00067247W2 - 0.03486146 (A × G) + 0.11262857 (G × W) + 0.00104135 (A × W) + 0.00186104 (H × W)
+
+Adults, peritoneal dialysis
+
+Johansson et al[72] formulae
+
+Women: TBW = -29.994 - 0.004A + 0.294H + 0.214W
+
+Men: TBW = -10.759 - 0.078A + 0.192H + 0.312W
+
+…. All patients: TBW = -42.879 - 0.033A + 0.372H + 0.274W
+
+Open in a separate window
+
+Note that the Watson formula for men has an age term while the Watson formula for women has no age term. Age effects on body water are more pronounced in men than in women. This is clearly indicated by the coefficients for age in the Chumlea and Johansson formulas. TBW: Total body water (L); H: Height (cm); A: Age (yr); BMI: Body mass index (kg/m2); G: Gender (male = 1, female = 0); D: Diabetes (present = 1, absent = 0).
+
+Determining whether there is water excess or water deficit in an individual patient, regardless of tonicity issues, can be challenging. Analyses of the components of body composition[73] have the potential to reveal whether TBW is normal or not. According to Siri’s simplest model of body composition[74], the body has two components: Fat and fat-free mass. Body water occurs almost exclusively in the fat-free mass component. When the water balance is normal, the water content of fat-free mass is at or very close to 73%[75-77]. Thus, determining whether TBW is within the normal range or not requires measurement of both fat-free mass and TBW.
+
+Methods for measuring TBW and their limitations were discussed previously in this report. Fat-free mass is routinely measured by BIA or DEXA; however, these methods have hidden drawbacks. For example, an important assumption of the DEXA measurement of fat-free mass is that it contains 73% water[60]. The measurement of fat-free mass by reference methods, e.g., measurement of total body potassium (TBK) in a total body counter[78], is generally not available for routine clinical practices. Therefore, measuring TBW accurately and determining whether body water content is normal or not in individual patients require further research efforts.
+
+Treatment of dystonicity states
+
+Hyperglycemic crises are associated with hypertonicity and severe deficits of body water, sodium, potassium, and other electrolytes[79]. The principles and quantitative aspects of treatment of these crises are detailed in several reports[37,79-81]. Herein we will present the principles of management of true (hypotonic) hyponatremia[43] and hypernatremia[37].
+
+Extensive guidelines delineating the treatment of hypotonic hyponatremia have been published recently[82,83]. Treatment is guided by the severity and the pathophysiologic mechanism of hyponatremia[43]. Severe cases with profound hyponatremia or symptoms attributed to it require infusion of hypertonic saline. The infused volume of saline is determined by formulas. The Adrogué-Madias formula[41] has been successfully used to guide the treatment of hyponatremias. This formula calculates the increase in [Na]S after infusion of one liter of saline with sodium concentration higher than that in the serum and accounts for the original [Na]S, the sodium concentration of the infusate, the original TBW and the volume of the infusate. A formula for calculating the volume of hypertonic saline required to raise [Na]S to a desired value, based on the same principles as the Adrogué-Madias formula, was published subsequently[84]. These two formulas are shown in Table ​Table22[41,84].
+
+Formulas for treatment of dysnatremias with saline or water infusions
+
+Hypotonic hyponatremia
+
+Change in sodium concentration after infusion of 1 L of saline. Adrogué-Madias formula[41]:
+
+[Na]Final - [Na]Initial = ([Na]Infusate - [Na]Initial)/(TBWInitial + 1)
+
+Volume of saline required for a targeted serum sodium concentration[84]:
+
+VInfusate = TBWInitial × ([Na]Targeted - [Na]Initial)/[Na](Infusate - [Na]Targeted)
+
+Volume of D5/W required for a targeted serum sodium concentration[37]:
+
+VInfusate = TBWInitial × ([Na]Initial - [Na]Targeted)/[Na]Targeted
+
+Volume of hypotonic saline required for a targeted serum sodium concentration[37]:
+
+VInfusate = TBWInitial × ([Na]Initial - [Na]Targeted)/([Na]Targeted - [Na]Infusate)
+
+Open in a separate window
+
+[Na]Final: Final serum sodium concentration after infusion of 1 L of saline with a sodium concentration higher than the initial serum sodium concentration; [Na]Initial: Initial serum sodium concentration; [Na]Infusate: Sodium concentration in the infused saline; TBWInitial: Initial volume of body water; VInfusate: Volume of infused saline or dextrose required for a targeted change in serum sodium concentration; [Na]Targeted: Targeted value of serum sodium concentration.
+
+General therapeutic measures applicable to all hypotonic hyponatremias include restriction of fluid intake and steps directed towards increasing renal water excretion, such as administration of loop diuretics or solute (salt tablets, urea)[43]. Specific interventions for the management of hyponatremia are predicated on the pathophysiologic mechanism of the condition, and include: (1) Isotonic saline infusion to restore the ability of the kidneys to excrete large volumes of water in hypovolemic hyponatremia; (2) vasopressin 2 (V2) receptor antagonists to restore the renal diluting capacity in the Syndrome of Inappropriate Antidiuretic Hormone secretion (SIADH); and (3) available specific treatments to correct conditions causing hyponatremia[43].
+
+The osmotic demyelination syndrome can result from too rapid correction of hyponatremia. To prevent the development of this syndrome, the general aim of treatment is to achieve a maximal increase in [Na]S equal to 6 mmol/L over 24-h. Exceptions to this recommendation are cases with persistence of severe clinical manifestations from hyponatremia, when an even greater rate of increase in [Na]S is required[43]. In certain circumstances, foremost after restoration of the urinary diluting capacity during correction of hypovolemic hyponatremia by adequate volume replacement or after correction of SIADH by administration of V2 receptor antagonists, dangerous rises in [Na]S can develop. Frequent measurement of [Na]S, e.g., every 2 to 4 h, and, in selected cases, of urine flow rate and urine sodium and potassium concentrations, is critical for prevention of osmotic demyelination[85]. Prevention of formation of large volumes of dilute urine by infusion of desmopressin can prevent excessive rises in [Na]S in patients in whom correction of the condition causing the hyponatremia, e.g., SIADH or hypovolemia, restores the urinary diluting mechanism[86,87].
+
+Hypernatremia is correctable by infusion of either water in the form of 5% dextrose solution or, if hypovolemia is present, hypotonic saline. Formulas used to calculate the volumes of water or hypotonic saline required to obtain the desired decrease in [Na]S are based on the same principles as those used to treat hyponatremia[37]. Table ​Table22 shows these formulas. Too rapid decline in [Na]S increases the risk of severe neurological manifestations[37].
+
+Clinicians should be aware that in addition to the occasional uncertainty associated with estimating TBW by means of formulas, formulas for calculating infusion volumes for treating dysnatremias carry several other potential sources of error[42,43]. These formulas do not account for changes in the determinants of [Na]S during treatment, such as water and electrolyte losses in the urine during treatment[37,84,85], potential release of sodium stored in interstitial glycosaminoglycan (GAG) networks[88], and changes in intracellular organic osmolytes[89]. For these reasons, changes in [Na]S during treatment of dysnatremia must be monitored. Clarification of the quantitative impact of these other determinants on changes in [Na]S during treatment of dysnatremias could lead to the development of more accurate predictive formulas. However, accurate prediction of the magnitude of urinary losses of water, sodium and potassium is exceedingly difficult. Monitoring of the clinical status of the patients and frequent measurements of [Na]S will remain the critical step of the treatment of all dysnatremias treated with saline or dextrose solutions[43,84,85,88,89]. Water bound to hydrophilic surfaces[90] is another elusive factor that can complicate the treatment of dystonicity using quantitative tools. However, the extent to which changes in tonicity alter the binding of water to hydrophilic surfaces is poorly understood and invites further investigation.
+
+BODY FLUID BALANCE AS A FUNCTION OF EXTRACELLULAR FLUID VOLUME
+
+When a body fluid abnormality secondary to a disturbance in ECFV is diagnosed, the terms “hypovolemia” and “hypervolemia” should be used instead of the ambiguous terms “dehydration” of “overhydration”, respectively. The regulation of ECFV is a critical body function.
+
+Determinants of extracellular fluid volume
+
+The three determinants of ECFV are TBW, total intracellular solute, and total extracellular solute. As noted earlier, TBW is partitioned between the intracellular and extracellular spaces in proportion to the amount of solute in each compartment. Changes in TBW unaccompanied by changes in solute will cause opposite changes in tonicity and in the volumes of body fluid compartments. An isolated gain in TBW will cause hypotonicity and hypervolemia in both the intracellular and extracellular compartments while an isolated loss of body water will have exactly the opposite effects. Abnormal gains in intracellular solute causing body fluid shifts into the intracellular compartment can be observed in serious disease states leading to cellular sodium gain, such as occur in patients with “sick cell syndrome”[91]. Significant losses of intracellular solute, i.e., potassium, are associated with fluid shifts into the extracellular compartment and hyponatremia[92]. Large potassium losses, such as occur secondary to diuretics, may be associated with loss of extracellular solute and hypovolemia.
+
+Most clinical ECFV disturbances are caused by changes in extracellular solute. Thus, the amount of solute in the extracellular compartment is critical in any analysis of factors affecting ECFV. Sodium salts, including sodium chloride and to a lesser degree sodium bicarbonate, constitute 90% or more of the extracellular solute. In a real sense, sodium chloride defines ECFV and abnormalities in sodium salt balance are the major sources of ECFV disturbances[22]. Gain in extracellular solutes other than sodium salts (e.g., glucose) can also cause ECFV expansion. The kidneys are the end-organ that regulate ECFV. Complex circulatory and neuro-endocrine mechanisms play vital roles in this regulation, which has attracted a major part of the research in renal transport and excretion mechanisms in health and disease[93-95]. Regulation of sodium is a high priority renal function. In various clinical conditions stimulating the renal mechanisms for sodium retention (e.g., hypovolemia, cardiac failure, cirrhosis, etc.), potassium balance, acid-base balance and water balance are sacrificed to preserve body sodium. Renal tubular sodium transport processes account for the largest fraction of oxygen consumption in the kidneys[96]. Details of the regulation of sodium balance are beyond the scope of this report.
+
+Measuring extracellular fluid volume
+
+Measurement of ECFV entails ambiguities exceeding those associated with the measurement of TBW. These ambiguities relate to both the concept of ECFV and the methods for measuring it. The conceptual difficulty is rooted in the definition of extracellular space. Intracellular space is defined as the space enclosed within the cell membranes and intracellular water is the portion of body water in the intracellular space. However, there is significant doubt whether all body fluid compartments outside the cell membranes should be considered as contributing to the ECFV. The fluid compartments in question, which were termed by Moore as the transcellular fluids[97], include fluids in the gastrointestinal tract[98], collagenous connective tissues[99], serous and synovial cavities[46], cerebrospinal space[46], lower urinary tract[46], and bile ducts [46].
+
+Measurement of ECFV by dilution of injected exogenous markers, e.g., radioactive compounds[100], added to the difficulties. Table ​Table33 lists some of these markers[46,101-113]. Several “extracellular” markers penetrate transcellular fluids and some, including the commonly used bromide salts, enter partially into the intracellular compartment[46]. Consequently, there are substantial differences in the estimates of ECFV between these markers[46].
+
+Measurement of extracellular volume by tracer dilution
+
+Extracellular marker
+
+Radiochloride (Cl38, Cl36)
+
+Stable chloride (Cl35)
+
+Open in a separate window
+
+Recently, several new technologies for measuring ECFV have been developed[114]. Table ​Table44 shows the principal techniques, which fall into the following three categories: (1) methods based on body composition, including BIA[115-121] or bioelectrical impedance vector analysis (BIVA)[122,123], DEXA[124-132], and magnetic resonance imaging (MRI)[133]; (2) simultaneous measurement of TBK in a total body counter measuring stable potassium (40K) and TBW usually by 2H2O dilution[134-136]; and (3) estimation of glomerular filtration rate (GFR) using exogenous markers with extracellular distribution[137-147]. The ECFV value is computed in the third category by either constant infusion[138], or, more often, a single injection[139] of the exogenous GFR marker. In the case of a single injection, the theoretical equilibrated initial concentration of the marker in the extracellular fluid is calculated by extrapolating its plasma disappearance curve to zero time (time of infusion of the marker)[139].
+
+Measurement of extracellular volume by newer methods
+
+Methods evaluating body composition
+
+Bioelectrical impedance, bioelectrical impedance vector analysis
+
+Dual-energy X-ray absorptiometry
+
+Magnetic resonance imaging
+
+Methods measuring total body water and intracellular volume
+
+Simultaneous measurement of total body water and potassium
+
+Methods using GFR markers
+
+51cromium ethylenediamine tetra-acetic acid (51Cr- EDTA)
+
+Technetium diethylene triamine penta-acetic acid (99mTC-DTPA)
+
+Open in a separate window
+
+GFR: Glomerular filtration rate.
+
+The methodologies for measuring TBW and ECFV by these newer techniques were developed by comparing their performance to measurements from the older dilution techniques, mostly the 2H2O and bromide dilution techniques[116,117,126,130,134,148-156]. Figure ​Figure33 shows average ECFV values obtained by the older dilution techniques (Table ​(Table3)3) and several frequently used newer techniques (Table ​(Table4).4). The values resulting from the most commonly used newer techniques (BIA, DEXA) are, in most cases, close to those based on chloride or bromide space. Equations predicting normal ECFV values from simple anthropometric measurements, for example as a fraction of body weight, were developed using ECFV measurements by one of the newer methods[144,157]. However, these equations are not accurate in patients with ECV disturbances. Finally, techniques for measuring ECFV in diseased organs or tissues, for example in malignant tumor-bearing organs, have also been developed[158-160].
+
+Open in a separate window
+
+Average extracellular fluid volume estimates expressed as percentages of total body water. I-V: Tracer dilution estimates[46]; I: Sucrose, thiosulfate; II: Mannitol, sulfate; III: Bromide, chloride; IV: Sodium; V: Thiocyanate; VI-VII: Newer techniques; VI: Dual-energy X-ray absorptiometry[130]; VII: Bioelectrical impedance[115]; VIII: Simultaneous determination of total body potassium and total body water[195]; IX, X: Glomerular filtration rate markers; IX: Inulin[139]; X: Iothalamate[147]. ECFV: Extracellular fluid volume; TBW: Total body water.
+
+Clinical applications of extracellular fluid volume estimates
+
+The main clinical application of measurements of ECFV is in conditions requiring precise management of excesses or deficits of this volume. To quantify ECFV excess, Chamney et al[50] measured TBW by 2H2O dilution, ECFV by NaBr dilution, and body fat by DEXA and air-displacement. These investigators developed a quantitative model of body fluids containing three compartments: Normally hydrated lean tissue, normally hydrated adipose tissue, and excess fluid. Chronic dialysis for end-stage kidney disease represents an example of Chamney’s three-body fluid compartment approach. One of the main aims of the prescription of hemodialysis is achieving “dry weight” by computing prior to each hemodialysis session the volume of fluid that should be removed to return ECFV within its normal range[161]. Although clinical criteria for ECFV excess or deficit are useful in monitoring the overall state of health of hemodialysis patients, they have low positive and negative predictive values and carry the risk of excessive volume removal and hypotension during a hemodialysis session. DEXA has been used to evaluate ECFV in a small number of studies[162]. BIA and BIVA studies are simple, technically easy to conduct, and inexpensive. Studies conducted in various parts of the world have provided evidence that measurements of ECFV by BIA or BIVA improve the management of fluid balance in hemodialysis patients[163-170].
+
+Hyperglycemic crises represent another clinical state in which ECFV changes, along with changes in the relationship between TBW and body solute, cause severe clinical manifestations and play an important role in the prescription of fluid management[37]. ECFV changes occur during both development and treatment of severe hyperglycemia and differ between subjects with preserved and severely impaired renal function. The increase in extracellular solute during development of hyperglycemia causes intracellular water to shift into the extracellular compartment. This osmotic fluid shift, which affects the estimation of the serum tonicity[171], may cause volume overload symptoms in patients with advanced renal failure[172]. The calculation of the magnitude of this shift requires knowledge of the amount of glucose added to the extracellular compartment, in addition to Edelman’s three determinants of [Na]S, which include body sodium, body potassium and TBW[173,174]. The total amount of glucose in the body fluids is the product of the volume of distribution of glucose times the serum glucose concentration[37].
+
+Calculations of body fluid spaces made after a single glucose injection in normal individuals reported a glucose volume of distribution that was within the range of normal ECFV values[175-177]. Insulin is usually the only treatment required for hyperglycemia in oligoanuric patients in whom correction of hyperglycemia reverses both hypertonicity and ECFV expansion[172]. The reciprocal changes in [Na]S and serum glucose concentration during treatment of oligoanuric hyperglycemia with insulin only allow the calculation of the fraction ECFV/TBW at normoglycemia[178]. Calculation of this fraction in hyperglycemic patients at their “dry weight” yielded ECFV/TBW values within the normal range[178].
+
+Both ECFV changes and tonicity differ in hyperglycemic patients with preserved renal function[81,174,179]. These patients manifest osmotic diuresis secondary to glycosuria during development of hyperglycemia. The fluid loss from osmotic diuresis causes ECFV contraction and rise in tonicity far exceeding the rise from extracellular glucose gain. ECFV losses persist during treatment if glycosuria persists[79]. In most cases, treatment of hyperglycemia in this patient group requires, in addition to insulin, infusion of large volumes of hypotonic saline and potassium salts and close monitoring of clinical status and laboratory values[37]. The volume and composition of the replacement solutions is determined empirically based on clinical manifestations and laboratory values. Selected cases where body weight measurements were recorded immediately before and during a hyperglycemic crisis allow more precise calculation of the volume and composition of the replacement solutions, but still require close monitoring[81].
+
+In addition to chronic dialysis and hyperglycemia, ECFV abnormalities and the need to monitor ECFV and its changes during treatment have been investigated in a variety of chronic and acute illnesses[128,154,180-187]. Finally, another example of the potential clinical applications of ECFV and TBW measurements is in determining body composition. The components of body composition, particularly muscle mass and body fat, are major determinants of morbidity and mortality in the elderly, as well as in patients with various acute and chronic illnesses[188,189]. Wang et al[190] developed sophisticated mathematical models of body composition using as their major parameter the ratio of extracellular to intracellular water. Measuring TBW and ECFV provides a reliable reference method for body composition analysis.
+
+Limitations of extracellular fluid volume estimates
+
+The efficacious application of measurements of ECFV in clinical practice relies on precise estimates of the normal values. Determination of the normal ECFV values has encountered significant limitations. The first limitation relates to the determination of the precision of ECFV measurement, which is established by frequent serial measurements[191]. Burke and Staddon measured repeatedly over a six-week period TBW by 3H2O dilution and ECFV by radiosulfate dilution in 10 healthy subjects[192]. These authors calculated a mean precision value of 2.63 L for TBW and 1.11 L for ECFV. The presence of disease raises an additional challenge to the precision of the ECFV measurements. Below we discuss the precision of three methods which have received extensive clinical applications: Namely chloride or bromide dilution, measurement of TBK and TBW, and BIA.
+
+Estimates of ECFV based on chloride, or more frequently bromide, dilution are calculated as the fraction “amount of marker in the body” over “the equilibrated concentration of this marker in the extracellular fluid” and are routinely corrected for Gibbs-Donnan equilibrium and intracellular penetration of the markers[193]. The Gibbs-Donnan equilibrium states that due to electrostatic forces, the concentration of a crystalloid anion is higher in interstitial fluid than in serum, which is rich in colloidal anions (i.e., proteins)[29]. The extracellular chloride or bromide concentration is calculated by multiplying the serum concentration by an empiric Gibbs-Donnan coefficient, which is usually 1.050[193]. The magnitude of the error from this calculation in subjects with low plasma protein level or elevated interstitial protein concentration is unknown.
+
+The calculated estimates of ECFV by bromide or chloride dilution are also corrected for intracellular penetration of the ECFV index by a reducing coefficient, usually 0.90[193]. Penetration of reference extracellular markers into the transcellular or intracellular compartment differs between healthy and severely ill subjects. Cunningham et al[194] analyzed the intracellular electrolyte composition of deltoid muscles in 7 normal subjects and 13 patients with various severe illnesses. Intracellular chloride concentration was 4.1 ± 1.5 mmol/L in the healthy subjects and 8.8 ± 3.6 mmol/L in the patients. Corresponding extracellular chloride concentrations were 104.4 ± 5.7 and 106.7 mmol/L respectively. Schober et al[195] measured TBW by 3H2O dilution and ECFV by radiobromide dilution in 10 normal subjects and 38 critically ill patients. TBW values were comparable between the two groups (536 ± 56 mL/kg in the healthy subjects and 505 ± 68 mL/kg in the critically ill patients). In contrast, bromide space as a fraction of body water was substantially higher in the critically ill patients (0.83 ± 0.17) than in the normal subjects (0.46 ± 0.04). These findings are consistent with substantially higher penetration of bromide into the intracellular compartment in critically ill patients than in normal subjects and raise serious concerns about the validity of ECFV measurements by bromide space in critically ill subjects.
+
+The calculation of ECFV made by combining TBK and TBW values assumes that intracellular and extracellular potassium concentrations are constant, usually 152 and 4 mmol/L, respectively[136]. The equation for calculating ECFV is as follows: ECFV = (152 × TBW∣TBK)/148[136,193]. Calculations of ECFV using this equation provided a reasonable agreement with calculations based on bromide space in the large number of subjects studied by Silva et al[193], with differences being more pronounced in obese subjects. ECFV calculations made using equations that combine TBW and TBK measurements will be subject to errors in subjects whose intracellular potassium concentration differs substantially from 152 mmol/L. Subjects with dystonicity in whom ECFV measurements may be required[184], have an abnormal intracellular potassium concentration. Certain categories of patients with severe illness, e.g., uremic patients, may also have low intracellular potassium concentration[196].
+
+The principles and limitations of measurements of TBW and its compartments by BIA have been reviewed[61,118,167]. As stated above, BIA is widely used to investigate the status of body fluids in patients on dialysis. In patients undergoing hemodialysis, TBW measurements by BIA, which are used in the calculation of ECFV estimates, differed from 2H2O-based measurements by a margin of -3.4 to 20.3 L in one report[197]. Another report found gross underestimation of TBW by BIA in a hemodialysis patient with extreme ascites and hydrothorax[165]. In a study comparing measurements of TBW in hemodialysis patients by BIA and 2H2O, Chan et al[198] concluded that BIA either underestimates systematically TBW or overestimates systematically intracellular water and that the differences between reference and BIA measurements of TBW increase as comorbidities increase.
+
+Another difficulty in measuring ECFV is establishing normal values. This process is complicated by various factors. In studies by Silva et al[136,199], the fraction ECFV/TBW increased progressively with age in men, while both African American men and women had higher values of this fraction compared to subjects from other ethnic backgrounds. Several studies have confirmed that women have higher ECFV/TBW values in comparison to age-matched men[114,200-202]. Children have substantially different ECFV/TBW values than adults[203], and obese children have higher ECFV/TBW values than non-obese children[151]. These facts underscore the need for establishing normal ECFV values that are specific for gender, age, ethnicity and degree of obesity.
+
+The importance of estimates of ECFV in various disease states, the various methods that are available for measuring ECFV, and the limitations and costs of these methods create the need to choose the best method of measurement. Shepherd et al[204] compared recently various methods of analyzing body composition in terms of cost, compliance, infrastructure, precision, quality control, training, trueness, and safety. The major limitation of all methods for measuring ECFV is encountered during severe acute or chronic illnesses. Several illnesses lead to both hypervolemia producing clinical manifestations and uncertainty about the desired values of ECFV. For these reasons, the challenge of optimal ECFV in severe illness merits a separate analysis as a fluid balance concept and is addressed in the next section.
+
+BODY FLUID BALANCE IN SEVERE CHRONIC OR ACUTE ILLNESS
+
+Concept and principles of management of fluid balance in illness
+
+Disturbances of body fluid balance are cardinal manifestations of many severe acute or chronic illnesses[205]. Precise management of these disturbances is critical[206]. Fluid management must address both repletion of deficits and avoidance of excesses[207] and requires understanding of the regulation and measurement of TBW and particularly ECFV. Adequate blood perfusion of organ systems is essential and is an indispensable role of ECFV. Normal cell function and survival require an uninterrupted supply of oxygen and nutrients, and removal of carbon dioxide and metabolic by-products. It has long been recognized that the optimal value of ECFV in critical illness may differ from a “normal” value[208]. The term “obligatory edema” was used in the past to denote the need for an expanded ECFV in patients with hepatic cirrhosis, ascites and hypoalbuminemia. The term “effective blood volume” was coined by Peters to indicate the need for supranormal blood volume in certain disease states[209,210]. More recently, the term effective arterial blood volume (EABV) has been used to indicate the state of organ perfusion[95].
+
+EABV is affected by several physiologic functions and biochemical parameters in addition to ECFV. Parameters related to either the composition of the blood, for example blood hemoglobin concentration and arterial blood gases, or the metabolic needs of diseased cells, are not directly correlated with ECFV. There are, however, several factors influencing EABV that interact directly with ECFV. Changes in these factors in disease states create the need for ECFV values that exceed normal values. Table ​Table55 shows factors affecting organ perfusion that are interacting with ECFV[211,212]. A brief discussion of these factors follows.
+
+Factors affecting cell- and organ-perfusion (effective arterial blood volume)
+
+Arterial resistance, total
+
+Arterial resistance, regional
+
+Starling forces in blood capillaries
+
+Endothelial barrier integrity
+
+Open in a separate window
+
+ECFV directly defines the plasma volume. Schrier explored the interaction between cardiac function, arterial tone, and ECFV regulation as well as the factors affecting this relationship[213]. Starling forces in the blood capillaries and surrounding interstitial space dictate fluid exchanges between the intravascular and interstitial spaces. The importance of an effective capillary endothelial barrier to albumin transfer from the intravascular into the interstitial compartment is exemplified by patients who lose this barrier. Such patients require infusion of enormous volumes of albumin-containing fluid to maintain their intravascular volume[214].
+
+The effects of gravity on EABV and ECFV were studied during space flights. Absence of gravity causes large transfer of fluids from peripheral body parts (e.g., limbs) into the central blood volume and decreases in the blood levels of vasopressin, renin and aldosterone, and causes profound diuresis of water and sodium salts[215-217]. Gravity and “head-out” water immersion have similar effects on EABV and ECFV[218]. This last observation may have clinical implications. The interactions between the factors indicated in Table ​Table55 is the source of different optimal ECFV values in health and severe illness.
+
+The aim of fluid management in severe illness is prevention of both organ hypoperfusion and circulatory overload. The methodology for evaluating EABV and determining whether clinical manifestations of low EABV are responding to volume replacement in critically ill patients is complex. The response of EABV to fluid challenges is monitored by a variety of invasive static (stroke volume, cardiac output, cardiac index) and dynamic (stroke volume variation, pulse pressure variation, change in the fraction “stroke volume”/”cardiac index”) parameters[219]. The uses and limitations of the patient’s history and clinical examination, chest X-ray and echocardiography, continuous dynamic evaluation of circulatory parameters during fluid administration, certain biochemical values, and BIVA in evaluating body fluid status were reviewed by Kalantari et al[207]. Adequate perfusion of the kidneys and prevention of acute kidney injury (AKI), which is both frequent in this clinical setting and an independent risk factor for mortality and prolonged hospital stay[220-222], is a main target of this fluid management. Fluid management efforts in critical illness should be directed towards the interactions of systemic and renal hemodynamics, the preservation of the renal microcirculatory blood flow[223], and the determination of indications for mechanical fluid removal[224].
+
+The mechanisms that underlie fluid imbalance and their treatment vary depending on the nature of critical illnesses. Palmer et al[95] analyzed the general mechanisms leading to decreased EABV and target ECFV values that are higher than normal. These mechanisms include: Fluid trapping in the interstitium or a preformed body cavity; reduced serum oncotic pressure; and vascular disturbances, e.g., altered capillary filtration pressure due to low cardiac output, increased venous resistance, or endothelial dysfunction.
+
+The clinical states discussed subsequently in this report illustrate the pathophysiologic mechanisms and the principles of fluid management in critically ill patients. The management of these conditions should address, in addition to ECFV, correction of abnormalities in the other factors specified in Table ​Table5.5. However, ECFV estimates made using traditional methods have a limited role in this management. The clinical states we have chosen to illustrate the concepts of fluid imbalance secondary to EABV disturbances in severe illness include congestive heart failure (CHF), hepatic cirrhosis, and sepsis. Finally, nephrotic syndrome represents a unique state of disturbed fluid balance. The pathogenesis of fluid imbalance in nephrotic syndrome involves both a reduced EABV and primary sodium salt retention by the kidneys. The mechanisms of volume retention in nephrotic syndrome will be discussed briefly.
+
+Congestive heart failure
+
+Fluid retention characterizes the course of CHF, causes serious clinical manifestations, and is one of its main therapeutic targets. A decrease in cardiac output is the primary cause of fluid retention in CHF secondary to left ventricular failure (Table ​(Table5).5). Palmer et al[95] reviewed the complex mechanisms sensing decreased EABV and the effector mechanisms of renal retention of salt and water in CHF. The Frank-Starling law of the heart states that the stroke volume increases as end-diastolic volume increases when all other factors affecting myocardial performance are unchanged[225]. In early-compensated stages of CHF, elevated left ventricular end diastolic volume secondary to both decreased cardiac performance and ECFV expansion leads to an increase in stroke volume and restoration of cardiac output. Figure ​Figure44 compares the fraction ECFV/TBW in elderly subjects with relatively compensated CHF and healthy controls[226]. At this relatively early stage of CHF, ECFV/TBW was higher than normal. It is not clear whether the higher than normal ECFV in this stage of CHF is beneficial in the long term or not.
+
+Open in a separate window
+
+The fraction extracellular volume over total body water in elderly subjects with relatively compensated congestive heart failure and healthy controls. Mean values ECFV/TBW in the study of Sergi et al[228]. The mean ejection fraction of elderly patients with relatively compensate congestive heart failure (CHF) and absence of pleural effusion was 40%. Total body water (TBW) was measured by 2H2O dilution and extracellular volume (ECFV) by bromide dilution. The fraction ECFV/TBW was significantly higher in subjects with CHF.
+
+As CHF progresses, low EABV leads to progressive renal retention of salt and water[227], which causes ECFV expansion and progressive distention of the myocardium with adverse effects on cardiac performance[228]. Determining the optimal level of ECFV and maintaining the patient at that level are major management goals. Mechanisms of salt and water retention may differ between right and left ventricular failure[229]. Myocardial dysfunction in valvular disease and “high-output” cardiac disease represent other categories of CHF in which the optimal levels of ECFV may differ from those in left ventricular failure.
+
+Fluid overload therapy can be insufficient in many patients hospitalized with CHF. Incomplete fluid removal during the hospital stay coupled with the limitations of weight-based management to identify the recurrence of fluid retention post discharge leads to symptomatic elevated intracardiac right and left-sided filling pressures. In these patients, vigorous and timely reduction of the elevated filling pressures leads to improved prognosis, fewer hospitalizations and better outcomes. However, prevention of both symptomatic ECFV expansion and lower than optimal ECFV in CHF is important. In dilated CHF, forward flow is optimal at near-normal filling pressures, with minimized mitral regurgitation[230]. In cases of acute CHF with persistent clinical manifestations, such as respiratory distress and impaired systemic perfusion, right heart catheterization is indicated. Fluid management must incorporate a thorough clinical patient evaluation, use of appropriate diuretics, frequent follow-up, and daily weight measurement[231]. Despite these measures, re-admissions are not prevented; thus, multiple approaches for monitoring outpatient fluid balance are being explored.
+
+Natriuretic peptide biomarkers (BNP, B-type natriuretic peptide, NT-pro-BNP, N-terminal pro-B-type natriuretic peptide) are increasingly being used to diagnose and estimate the severity of CHF as well as for population screening purposes. Many other biomarkers have been implicated in CHF (markers of inflammation, oxidative stress, vascular dysfunction, and myocardial and matrix remodeling). Furthermore, biomarkers of myocardial fibrosis, soluble ST2 receptor, and galectin-3 are predictive of hospitalization and death and may provide supplemental prognostic value to BNP levels in patients with CHF[231]. All these biomarkers have been used in assessing fluid balance status in patients with CHF.
+
+BIVA has also been applied in assessing fluid balance status in patients with CHF[130]. Valle et al[232] tested the hypothesis that achievement of adequate ECFV status with intensive medical therapy, modulated by combined BIVA and BNP measurement, optimizes the timing of discharge and improves the clinical outcomes of patients admitted with acutely decompensated heart failure (ADHF). Three hundred patients admitted for ADHF underwent serial BIVA and BNP measurements. Therapy was titrated to reach a BNP value < 250 pg/mL. Patients were categorized as early responders (rapid BNP fall below 250 pg/mL); late responders (slow BNP fall below 250 pg/mL, after aggressive therapy); and non-responders (BNP persistently > 250 pg/mL). Worsening of renal function was evaluated during hospitalization. Death and re-hospitalization were monitored with a 6-mo follow-up. This study confirmed the hypothesis that serial BNP/BIVA measurements help to achieve adequate fluid balance status in patients with ADHF and can be used to drive a “tailored therapy”, allowing clinicians to identify high-risk patients and possibly to reduce the incidence of complications secondary to fluid management strategies.
+
+The combined use of BNP and BIVA for assessing and managing fluid overload, distinguishing cardiogenic from non-cardiogenic dyspnea, and improving management of CHF patients in Emergency Departments was tested in another report as well[233]. This randomized controlled trial was designed to investigate whether fluid status monitoring with an automatically generated wireless CareAlert notification can reduce all-cause death and cardiovascular hospitalizations in a CHF population, compared with standard clinical assessment[234]. The investigators found that fluid status telemedicine alerts did not significantly improve outcomes in patients with advanced CHF and implantable cardioverter defibrillators (ICDs). The problem of adherence to treatment protocols by physicians and patients might be compromising advances in the telemedicine field[235].
+
+The term Cardio-Renal Syndrome (CRS) defines disorders of the heart and kidneys whereby “acute or chronic dysfunction in one organ may induce acute or chronic dysfunction of the other”[236]. CRS requires a tailored approach to manage a patient’s underlying pathophysiology while optimizing the patient’s clinical picture and thus providing better outcomes. Precise prescription of fluid removal by diuretics or extracorporeal therapies is a key element of this approach. Adequate monitoring of fluid balance is essential for preventing worsening of renal function or other complications while delivering these therapies. Monitoring of extravascular fluid in the lungs by ultrasonography is helpful in fluid management[237]. The range of optimal ECFV values appears to be very narrow in patients with CHF. Hypervolemia results in myocardial stretching and decompensation, whereas hypovolemia leads to low EABV that can result in organ damage. Therefore, in cases with CRS the “5B” approach has been suggested: Balance of fluids (reflected by body weight), blood pressure, biomarkers, BIVA, and blood volume[236].
+
+It has traditionally been presumed that patients with CHF benefit from a low-sodium diet. A recent review attempted to provide insight into the currently available evidence base for the effects of dietary sodium restriction in patients with chronic CHF. This review concluded that both observational and experimental studies have shown mixed results and that the effects of a low-sodium diet on clinical outcomes in patients with CHF remain controversial and unclear[238]. However, the fact remains that most hospitalizations for CHF are related to sodium and fluid retention. Recent research suggests that not all sodium is distributed in the body solely as a free cation, but that some sodium is also bound in different tissues to large interstitial GAG networks that appear to have important regulatory effects on ECFV. In CHF, high sodium intake and neurohumoral alterations disrupt GAG structure, leading to loss of the interstitial buffer capacity for sodium and disproportionate interstitial fluid accumulation. Moreover, a diminished GAG network increases vascular resistance and interferes with endothelial nitric oxide production. Improved imaging modalities should help in the assessment of interstitial sodium levels and endothelial glycocalyx integrity. Furthermore, several therapies have been proven to stabilize interstitial GAG networks, e.g., hydrocortisone, sulodexide, dietary sodium restriction, spironolactone). Hence, better understanding of this new sodium “compartment” might improve the management of CHF[239].
+
+Detailed guidelines for the diagnosis and treatment options of the various forms of CHF (acute or chronic, with reduced or not-reduced ejection fraction) are available[231,240]. The patient who presents with suspected CHF should be assessed by clinical history and detailed physical examination. Chest X-ray, electrocardiogram and blood levels of natriuretic peptides are always useful. The next step is an echocardiogram. If CHF is confirmed, its etiology should be determined and appropriate treatment initiated. At the end of these guidelines the authors discuss the missing pieces of information in the existing literature and offer thoughtful recommendations for future work. Since there is no exact method for estimating optimal ECFV in patients with CHF, future studies should address this knowledge gap.
+
+Cirrhosis-ascites-hepatorenal syndrome
+
+Decreased EABV is a cardinal feature of cirrhosis in which changes in multiple factors activate the mechanisms of sodium retention and ECFV expansion. Factors that lead to decreased EABV in cirrhosis are listed in Table ​Table55 and include: Increase in overall arterial and venous capacity, decrease in Starling forces, and, in late stages of cirrhosis, decrease in cardiac output. The decrease in arterial and venous resistance is a strong stimulus for increased ECFV. Advanced cirrhosis is characterized by portal hypertension, arteriovenous fistulae, peripheral vasodilatation, and sequestration of plasma volume in the abdominal cavity and splanchnic venous bed[241]. The “arterial vasodilation theory” is the most widely accepted explanation for the expansion of ECFV in cirrhotic patients[242]. An alternative theory, designated the “hepatorenal reflex hypothesis”, suggests that vascular bed vasodilatation in cirrhosis is a consequence of the shunting of blood from the portal to the systemic circulations rather than an etiology for volume overload; however, further research is required to support this hypothesi[243].
+
+The widely recognized causes of vasodilatation in cirrhosis are: (1) Increased production or increased activity of vasodilating factors by hepatocytes and stellate cells (mainly nitric oxide, carbon monoxide, prostacyclin and endogenous cannabinoids); (2) reduced response to vasoconstrictor factors; (3) mesenteric neoangiogenesis; (4) compromise of cardiac output as cirrhosis progresses probably due to cirrhotic cardiomyopathy; and (5) systemic inflammatory response with increased production of pro-inflammatory cytokines (IL-6, TNF-α) and vasodilating factors due to translocation of bacteria and their products across the intestinal barrier to mesenteric lymph nodes[244-247]. In addition, markers of oxidative stress such as oxidized albumin have been shown to increase in decompensated cirrhosis[242]. The exact cellular and molecular mechanisms implicated in the phenomenon of bacterial translocation in cirrhosis have not been fully elucidated[246]. Hypoalbuminemia, another feature of advanced cirrhosis, decreases intracapillary colloid-osmotic forces and increases fluid translocation from the intravascular into the interstitial compartment leading to further decreases in EABV. Circulatory abnormalities in cirrhosis define the stages of progression of cirrhosis that ultimately culminate in hepatorenal syndrome (HRS). Cardiac output is not a cause of clinical manifestations in early compensated stages, but is increased in advanced cirrhosis, and may decrease in its later stages and thus contribute to the decreased EABV. Cirrhotic vasodilatation stimulates the arterial stretch receptors in the carotid sinus and aortic arch, producing a baroreceptor response and activation of compensatory vasoconstricting mechanisms including the renin-angiotensin-aldosterone system, the sympathetic nervous system, and the non-osmotic hypersecretion of vasopressin[248]. Stimulation of these systems contributes to maintenance of blood pressure by modulating decreases in the systemic vascular resistance and increasing cardiac output[248].
+
+The so-called “hyperdynamic syndrome” in cirrhosis is a consequence of portal hypertension and involves complex humoral and neural mechanisms. This syndrome is hemodynamically characterized by high cardiac output, increased heart rate and total blood volume, reduced total systemic vascular resistance and normal or decreased blood pressure[245]. Arterial blood volume is shunted to the splanchnic vessels at this stage, while the central arterial blood volume (heart, lungs, and central arterial tree blood volume) is often decreased[245]. At a later stage, the hyperdynamic syndrome leads to cardiac dysfunction (cirrhotic cardiomyopathy), pulmonary dysfunction (hepatopulmonary syndrome) and renal dysfunction (HRS), in addition to reduced survival[249].
+
+The function of the cardiovascular system is disturbed in cirrhosis due to decreased vascular reactivity and a universal endothelial and autonomic dysfunction[249]. Cirrhotic cardiomyopathy is characterized by impaired myocardial contractility with systolic and diastolic dysfunction in combination with electromechanical abnormalities, such as prolongation of the Q-T interval, in the absence of any other cardiac disease[249]. Some degree of diastolic dysfunction may be present in > 50% of cirrhotic patients regardless of the presence or extent of ascites. No correlation has been found between HRS and diastolic dysfunction[242]. A study of the role of cardiac abnormalities in the pathogenesis of circulatory and renal dysfunction in cirrhosis[250] concluded that: (1) Diastolic dysfunction is frequent, but mild in most cases and does not increase the pulmonary artery pressure to abnormal levels. This may be due to the central hypovolemia of cirrhosis and probably accounts for the lack of symptoms associated with this condition; (2) diastolic dysfunction is unrelated to circulatory dysfunction and ascites; and (3) in cirrhosis, there is a lack of response of the left ventricular systolic and chronotropic function to peripheral arterial vasodilatation and activation of the sympathetic nervous system. This feature is an important contributory factor to the progression of circulatory dysfunction and the pathogenesis of HRS, which constitutes the last stage of the circulatory disturbances in cirrhosis[244,247,248]. Other systems are affected as well including: The femoral and brachial vessels (producing cramps), the immune system, the adrenal glands, and the vessels in the brain (playing a role in encephalopathy)[247,249].
+
+The vasoconstrictive compensation in cirrhosis includes the renal vessels and negatively affects renal function, resulting in sodium and solute-free water retention, edema, and eventually renal failure. Patients with advanced cirrhosis exhibit a shift in the renal autoregulation curve, which means that for a given level of perfusion pressure, renal blood flow is lower compared to that of patients with compensated cirrhosis; a decrease in GFR leading to HRS ensues. HRS is almost exclusively of a functional nature and usually without discernable histologic abnormalities in the kidneys[242,245]. However, in some reports the kidneys of cirrhotic patients with presumed HRS showed histologic evidence of AKI. Immunologic mechanisms are apparently important in mediating the renal injury and hemodynamic factors do not operate in isolation[251].
+
+HRS is classified into two subgroups, HRS 1 and HRS 2. The rate of deterioration of renal function is rapid, within 2 wk, in HRS 1 and slower in HRS 2, occurring over several months[244]. HRS must routinely be differentiated from two other conditions that cause AKI frequently in cirrhotic patients, namely acute tubular necrosis and prerenal azotemia. AKI in cirrhosis carries a high risk for mortality[252], with HRS or acute tubular necrosis having substantially higher mortality rates compared to prerenal azotemia[252]. Urinary biomarkers can be helpful in differentiating between HRS and acute tubular necrosis. Urinary neutrophil gelatinase-associated lipocalin (NGAL) activity was shown to be highly accurate in identifying patients with acute tubular necrosis and was incorporated into a proposed diagnostic algorithm[253]. Other biomarkers that were shown to be useful in the diagnosis of acute tubular necrosis include interleukin-18 (IL-18), albumin, trefoil-factor-3 (TFF-3) and glutathione-S-transferase-π (GST-π)[253].
+
+NGAL is not helpful in differentiating between pre-renal azotemia and HRS[247]. Also, biochemical analytes indicative of tubular function do not distinguish between prerenal azotemia and HRS; in both conditions, the decrease in GFR is associated with intact tubular function as reflected by a very low urinary sodium concentration and high urine to plasma (U/P) creatinine ratio. The response of renal dysfunction to expansion of the intravascular space with colloid or saline solutions constitutes the key differentiating feature between the two conditions. Prerenal azotemia is reversed with adequate fluid replacement and no other measures. In contrast, reversal of HRS requires administration of fluid plus vasoconstrictors.
+
+In addition to pre-renal azotemia and acute tubular necrosis due to hypovolemia (bleeding, diarrhea, excessive use of diuretics), several other clinical conditions may cause AKI in patients with advanced cirrhosis. These conditions include: (1) Bacterial infections with or without septic shock (such as spontaneous bacterial peritonitis); (2) use of nephrotoxic medications such as non-steroidal anti-inflammatory drugs or aminoglycosides; (3) abdominal compartment syndrome from tense ascites; and (4) intrinsic renal diseases (hepatitis-B or C associated glomerulonephritis, glomerulonephritis in alcoholic cirrhosis)[240,244,252]. The initial management of cirrhotic patients with AKI should address all these conditions. This management is therefore complex, but depends primarily on accurate assessment of the status of EABV. Physical examination and invasive measurements, such as central venous pressure, often do not reflect intravascular volume status. Point-of-care echocardiography can be effective in guiding the timing of large volume abdominal paracentesis and optimizing the hemodynamic status in decompensated cirrhotic patients with AKI, which in turn can improve venous return and promote recovery of renal function[254].
+
+First-line treatment of patients with cirrhosis and ascites consists of sodium restriction and application of diuretics. However, the main thrust for preventing and managing HRS is directed towards expanding ECFV with albumin infusions and correcting the splanchnic vasodilatation by vasoconstrictors, including octreotide, sympathomimetic agents (i.e., midodrine), and vasopressin analogues (i.e., terlipressin). Oral midodrine has been shown to improve clinical outcomes and survival in patients with refractory ascites[255]. In patients with stable hypotension, midodrine may improve splanchnic and systemic hemodynamic variables, renal function, and sodium excretion. In patients without HRS, midodrine was shown to increase urinary volume, urinary sodium excretion, and mean arterial pressure and was associated with a reduction in overall mortality[256].
+
+Terlipressin and albumin administration can reverse HRS and reduce the associated short-term mortality rate[257,258]. Terlipressin alone is effective in reversing HRS in a smaller number of patients (40%-50%). In the REVERSE study, terlipressin plus albumin was associated with greater improvement in renal function vs albumin or terlipressin alone in patients with HRS-1, whereas rates of HRS reversal were similar with terlipressin or albumin alone[259].
+
+Based on four small studies, norepinephrine appears to be an attractive alternative to terlipressin in the treatment of HRS, in part because it is associated with fewer adverse events[260]. Infusion of albumin plus norepinephrine may be beneficial in HRS 1[255]. Albumin has dose-dependent effects in both increasing survival and reducing complications in cirrhotic patients with HRS[261]. The beneficial effects of albumin infusion are not due solely to its oncotic properties. In patients with advanced cirrhosis, several albumin functions, such as binding of toxins, drugs and drug metabolites, are depressed because of molecular alterations of the compound, e.g., to oxidized albumin. Replacement of the altered albumin molecules by the infused albumin has beneficial effects[262]. Predictors of the clinical response to terlipressin and albumin treatment are the serum bilirubin and creatinine levels along with the increase in blood pressure and the presence of systemic inflammatory response syndrome[258].
+
+Another approach to the management of HRS, namely “head-out” water immersion, has confirmed the importance of low EABV in this syndrome. Two studies have investigated water immersion as a means of increasing central blood volume in patients with HRS[241,263]. In both studies, water immersion resulted in marked natriuresis and diuresis, and a decrease in plasma levels of renin and aldosterone. In the study by Bichet et al[241], although a five-hour water immersion in one patient with HRS resulted in central blood volume expansion and a modest decrease in serum creatinine concentration, it did not reverse the HRS. In a study by Yersin et al[263], two patients with HRS underwent repeated two-hour daily courses of water immersion for a week; in both patients, significant decreases in serum creatinine concentration were noted.
+
+In a recent therapeutic algorithm for HRS 1, the use of the combination of octreotide, midodrine and albumin without vasoconstrictors was discouraged because of low efficacy[255]. The use of vasopressin for the treatment of HRS-1 was also not recommended, due to several adverse effects and the lack of randomized, clinical trials supporting this use[257]. Other treatments for HRS have also been assessed and include dopamine, transjugular intrahepatic portosystemic shunt, and renal and liver replacement therapy. However, current thinking is that liver transplantation in the only curative option and should be considered in all patients[247,257].
+
+The evaluation of EABV in patients with cirrhosis, especially with regard to the differential diagnosis of AKI, is based on their response to infusion of albumin and vasopressors. Traditional laboratory techniques have also been employed for the evaluation of the status of fluid balance in these patients. The BNP and its prohormone (pro-BNP) are elevated in patients with cirrhosis as well as those with CHF, thereby rendering it difficult from a single plasma BNP measurement to accurately differentiate between ascites due to CHF and ascites due to cirrhosis[264]. Elevated plasma BNP confirms CHF with high probability, but is of limited value in evaluating EABV in cirrhosis[265,266].
+
+Methods evaluating body composition have also been employed for evaluating fluid balance status in cirrhotic patien. BIA studies have been employed in evaluating the volume of the ascetic fluid[267] and the changes in ECFW/TBW in various parts of the body as cirrhosis progresses[267,268]. Further work is needed to evaluate the role of body composition analysis in assessing fluid balance in cirrhotic patients.
+
+CHF and cirrhosis both usually cause ECFV expansion. Whether a modest degree of ECFV expansion is beneficial in early compensated stages of CHF has yet to be determined. ECFV expansion is deleterious in advanced stages of CHF; however, a modest degree of ECFV expansion appears to be beneficial in cirrhosis. The treatment of advanced cirrhosis, especially HRS, is based on further ECFV expansion by means of albumin-containing solutions. ECFV levels optimal for these conditions remain to be established. In addition to ECFV excesses, both advanced CHF and advanced cirrhosis are often associated with relative water excess leading to hypotonic hyponatremia. Unlike hypervolemia, which at least in cirrhosis may have beneficial effects, hyponatremia is an independent predictor of adverse outcomes in both CHF[269,270] and cirrhosis[271]. Current management guidelines call for aggressive treatment of hyponatremia in both clinical conditions[82].
+
+The definition of sepsis and the methods for determining its degree of severity have undergone changes recently. Two degrees of severity are currently recognized, namely sepsis and septic shock. The older degree “severe sepsis” was deemed redundant. Sepsis is defined as life-threatening organ dysfunction secondary to a response to infection involving both pro-inflammatory and anti-inflammatory immunological responses and reactions in non-immunological cardiovascular, neuronal, hormonal, metabolic, bio-energetic, and coagulation pathways[272]. Septic shock is a subset of sepsis characterized by profound circulatory, cellular, and metabolic abnormalities and a heightened mortality risk[272]. Severe hypotension and greatly elevated serum lactate levels are the defining criteria of septic shock.
+
+Sepsis accounts for about 2% of all hospital admissions and 10% of intensive care unit (ICU) admissions in the United States[273]. Several organ systems develop severe dysfunction during sepsis, the respiratory and cardiovascular systems being the most commonly affected. Other frequently affected organ systems include: The central nervous system, kidneys, peripheral nervous system, muscles, gastro-intestinal tract, and thyroid gland[273]. The development of AKI in sepsis is associated with a 70% mortality rate[274].
+
+The pathogenesis of sepsis involves different mechanisms that have been investigated by various teams of researchers[272-274]. Unraveling these mechanisms has led to novel strategies, some of which are still in the research stage, for managing sepsis[275]. In this review, we focus on fluid balance issues. Sepsis causes profound disturbances in at least three of the determinants of EABV listed in Table ​Table5:5: Vascular capacity, cardiac output, and capillary endothelial barrier. Sepsis can be considered as the prototype of an acute illness causing life-threatening decreases in EABV. In sepsis, ECFV values above the normal range are associated with favorable outcomes.
+
+Increased vascular capacity is a primary cause of low EABV in sepsis. Pro-inflammatory cytokines released in sepsis cause arterial vasodilatation and decrease peripheral vascular resistance. Several metabolic pathways mediate vasodilatation. Upregulation of the inducible nitric oxide synthase and profound release of nitric oxide is a potent vasodilatory pathway[274]. Vasodilatation is manifested primarily in the splanchnic vascular bed, the muscles and the skin, while the renal vascular bed exhibits vasoconstriction[274]. Compensatory mechanisms for vasodilatation include activation of the sympathetic nervous system and the renin-angiotensin-aldosterone axis, release of vasopressin, and increase in cardiac output[274]. Renal vasoconstriction results from high levels of the compensatory hormones which include catecholamines and vasopressin.
+
+One of the mechanisms for compensating for low EABV in sepsis is an increase in cardiac output. However, cardiac output may be depressed in severe septic episodes leading to decreased ejection fraction in approximately 50% of the cases[276]. Studies in a murine model also revealed adverse effects of sepsis on heart rate, heart rate variability and electrical impulse conduction[277]. Reversal of cardiac dysfunction in sepsis survivors after several days suggests that the mechanism of dysfunction was functional rather than structural[276,278]. However, structural cardiac abnormalities, including mononuclear cell infiltrates, edema, fibrosis, disruption of mitochondria, myocardial cell death and apoptosis were found in the hearts of humans or experimental animals dying from sepsis[279]. A variety of mechanisms leading to myocardial dysfunction in sepsis have been proposed[276,278,279]. Therapeutic interventions directed to specific mechanisms are at the stage of pre-clinical trials in experimental sepsis models[280].
+
+Disruption of the blood capillary endothelial barrier is the third major mechanism leading to low EABV in sepsis. Starling forces regulate fluid transfers between the intravascular and interstitial compartment and play an important role in the maintenance of the intravascular blood volume and EABV. In animal studies reviewed by Schrier and Wang[274], vasodilatation caused albumin and fluid transfer from the intravascular into the interstitial compartment. Generalized capillary protein leakage was documented in septic patients by Ishihara and coinvestigators[281]. The endothelial barrier defect is not the exclusive result of arterial vasodilatation. A variety of mediators of endothelial barrier damage in sepsis, including the complement components Ca and C5a, bradykinin, platelet activating factor (PAF), pro-inflammatory cytokines, and many others have been identified[282,283]. Endothelial barrier disruption is considered a key step in the development of septic shock[283].
+
+Collectively, vasodilatation, myocardial dysfunction, and impairment of the endothelial barrier lead to decrease in EABV and render imperative the need for administration of large volumes of fluid and vasoconstrictors, which are mainstays of treatment in sepsis. However, impaired cardiac and endothelial barrier function increase the risks of fluid administration in septic patients[274,284] and narrow its therapeutic margins. Recent therapeutic trials and meta-analyses[285-294] have addressed the issue of the volume of fluids administered to septic patients among other issues.
+
+A prospective randomized trial of aggressive treatment by infusion of fluids based on invasive monitoring of central venous pressure in septic patients prior to their admission to the ICU showed advantages in survival and improvement in important biochemical parameters including central pressure oxygen saturation, serum lactate concentration and metabolic acid-base values[285]. Subsequently, three large prospective randomized studies compared goal-directed early (pre-ICU) resuscitation and routine management of septic shock[286-288]. In all three studies, patients assigned to early goal-directed care routinely received larger volumes of fluids and higher doses of vasoconstrictors than those assigned to routine care. No difference in mortality and most other secondary outcomes was noted between the treatment groups in any of these studies; however, one study computed a higher cost for the early, goal-directed group of patients[288]. A meta-analysis of 11 randomized trials concluded that early-goal directed therapy for septic shock is not associated with early (28 d) or late (90 d) mortality improvement[289].
+
+Fluid balance during treatment of sepsis or septic shock was addressed in three recent reports. One study found no difference in volume of fluid gained during treatment of septic shock between surviving and deceased patients[290]. The second study found significantly lower mortality in patients with sepsis or septic shock receiving less than 5 L than in those receiving more than 5 L of fluids in the first day of treatment and an increase in mortality by 2.3% for each liter of administered fluid in excess of 5 L[291]. The third study analyzed risks for mortality from sepsis associated with a completion within three hours of a protocol calling for blood cultures, administration of antibiotics and administration of 30 mL of crystalloids per kilogram. This study reported an increased risk for longer waiting until administration of antibiotics, but not for longer time to completion of the fluid bolus[292].
+
+Finally, two randomized studies addressed two other issues related to fluid balance and EABV during treatment of septic shock. The first study found similar mortality rates in patients with targeted mean arterial blood pressure of 80 to 85 mmHg and those with targeted pressure of 60 to 65 mmHg[293]. Mean fluid volume administration was similar in the two groups while the higher blood pressure group received higher doses of norepinephrine and for a longer time. The second study found similar mortality rates in patients with targeted blood hemoglobin level above 9 g/dL and those with targeted level above 7 g/dL[294]. The international guidelines for management of sepsis and septic shock recommend a minimal initial intravenous crystalloid fluid bolus of 30 mL/kg within the first three hours followed by additional fluid administration guided by hemodynamic monitoring and maintenance of mean arterial blood pressure above 65 mmHg by vasoconstrictors as needed[295]. The guidelines highlight all three recommendations as “strong” and the quality of evidence as “weak” for the first recommendation, “best practice evidence” for the second and “moderate” for the third.
+
+Infusion of large volumes of fluid is one of the key therapeutic modalities in sepsis and septic shock; however, the literature provides ample evidence indicating that the safety margin of fluid infusion in sepsis is narrow. The optimal level of volume expansion will need further research to be determined. The need for volume replacement in sepsis is not determined by measurements of ECV, but by clinical, laboratory and hemodynamic criteria. Calculation of blood volume, by adding plasma volume measurements obtained by dilution of injected albumin labelled with radioactive iodine (131I-albumin) and red cell mass computed from either hematocrit and plasma volume [Blood volume = plasma volume/(1∣Hematocrit)], or measured simultaneously with plasma volume by injected red blood cells (RBCs) labelled with radioactive chromium (51Cr-RBC) has found wider application than the measurement of TBW or ECV in critically ill patients with conditions leading to blood loss[296,297].
+
+Heavy albuminuria, hypoalbuminemia and pronounced salt retention leading to ECFV expansion and edema, but typically not to hypertension, characterize the nephrotic syndrome. The cardinal complaint of patients suffering from nephrotic syndrome is edema[298]. The pathogenesis of edema formation has been disputed[299]. Two theories, the underfill and overflow or overfill theories, explaining the fundamental mechanism of salt retention and edema formation in nephrotic syndrome have been proposed[300,301]. The underfill theory places the focus of salt retention on the nephrotic hypoalbuminemia which causes through Starling forces decreased blood volume and EABV and stimulation of neurohumoral pathways leading to renal salt and water retention[300,302]. A subset of patients with severe nephrotic syndrome and profound hypoalbuminemia exhibit elevated serum levels of indicators of hypovolemia, including vasopressin, renin, aldosterone and norepinephrine; “head-out” water immersion of nephrotic patients with these features resulted in pronounced natriuresis and diuresis and substantial decreases in the levels of all four indicators of hypovolemia[303]. Decreases in interstitial colloid-osmotic pressure accompanying decreases in plasma albumin concentration and colloid-osmotic pressure modulate the loss of intravascular fluid into the interstitial compartment in nephrotic syndrome[304].
+
+The overflow theory states that patients with nephrotic syndrome have an expanded plasma volume, and that the retention of sodium leading to edema formation in these patients is the result of an intrinsic defect in renal salt excretion. The first evidence against the underfill theory was provided by Meltzer et al[305] who noticed that serum renin and aldosterone levels were not elevated in a subset of patients with nephrotic syndrome. Other important observations arguing against the underfill theory include the following: (1) Animals and humans with congenital analbuminemia rarely develop edema[306,307]; (2) blood volume is increased in a subset of edematous patients with the nephrotic syndrome[308]; (3) volume expansion with hyperoncotic albumin in edematous patients with nephrotic syndrome and various underlying renal histologic pictures, including minimal change disease, results in normal suppression of plasma renin activity and aldosterone, without significantly increasing urinary sodium excretion[309]; (4) medications blocking the renin-angiotensin-aldosterone system (RAAS), such as angiotensin-converting enzyme (ACE) inhibitors, do not increase natriuresis in nephrotic patients[310]; (5) adrenalectomy does not prevent edema formation in laboratory animals with nephrotic syndrome[311]; and (6) natriuresis in the recovery phase of nephrotic syndrome in children starts before serum albumin is normalized[312]. These observations suggested that the renal retention of sodium salts in some patients with nephrotic syndrome results not from low EABV, but from a primary renal retention of sodium[313,314].
+
+Ichikawa et al[315] reported primary renal retention of salt in a unilateral model of puromycin-induced nephrotic syndrome in rats. Subsequently, Kim et al[316] demonstrated increased expression and apical targeting of the epithelial sodium channel (ENaC) in the distal convoluted tubule, connecting tubule, and collecting duct of rats with puromycin-induced nephrotic syndrome. Increased synthesis of the sodium-potassium ATPAse (Na,K-ATPase) was also observed in the collecting ducts of rats with puromycin-induced nephrotic syndrome[317]. Serine proteases, which are present in high concentrations in the glomerular filtrate of nephrotic patients, play a major role in the activation of ENaC by cleaving certain channel-protein subunits and removing certain inhibitory peptides from the channel thus increasing its open probability[318]. A landmark study by Svenningsen et al[319] showed that urine from laboratory animals and patients with nephrotic syndrome can activate ENaC and promote sodium retention. In this study, mass-spectrometry analysis identified plasmin, an abnormally filtered enzyme, as the serine protease responsible for ENaC activation.
+
+The widely accepted current view is that sodium retention develops in all subtypes of the nephrotic syndrome because of ENaC activation in the collecting ducts regardless of EABV[320,321]. Other mechanisms, including a proposed increase in the permeability of blood capillaries[321,322], decrease in the renal response to atrial natriuretic peptide (ANP), decreased conversion of pro-ANP to ANP in the kidneys, and decreased expression of nitric oxide synthase in the kidneys[323], are also likely contributors to salt retention and edema formation in the nephrotic syndrome. Underfilling represents an additional mechanism of edema formation in some nephrotic patients[314]. Hypovolemia and underfilling are pronounced in nephrotic subjects with very low serum albumin levels, e.g., children with minimal change disease[323]. BIA studies have been employed in assessing fluid balance in patients with the nephrotic syndrome[324-326]. Figure ​Figure55 shows changes in EABV and ECF in the chronic conditions, including CHF, cirrhosis and nephrotic syndrome, discussed in this report.
+
+Open in a separate window
+
+Percent changes from normal of body fluid compartments in hypervolemic states. I: Normal body fluid state; II: Congestive heart failure, hepatic cirrhosis, nephrotic syndrome with underfill mechanism of fluid retention; III: Nephrotic syndrome with overfill mechanism of fluid retention. EABV: Effective arterial blood volume; ECFV: Extracellular fluid volume; TBW: Total body water.
+
+The traditional concepts of body fluid balance encompass the regulation and perturbations of the relation between TBW and effective body solute (tonicity), and the regulation, measurement, and disturbances of ECFV. Severe acute and chronic illnesses cause disturbances that affect both fluid balance concepts. However, while the disturbances in tonicity have always adverse effects and require aggressive treatment, modest excesses in ECFV can be beneficial in some illnesses (e.g., cirrhosis, sepsis) and represent targets of the fluid management. The optimal ECFV in these illnesses is greater than the normal ranges of ECFV in healthy individuals because disease states produce changes in several factors that interact with ECFV in regulating EABV. These other factors are subjects of intense research and constitute therapeutic targets along with fluid treatment of ECFV. It is important to distinguish between fluid retention that results from low EABV, as in CHF or cirrhosis, and fluid retention that results from either low EABV or primary renal salt and water mechanisms, as in nephrotic syndrome. The traditional methods for measuring ECFV are associated with greater sources of error in patients with severe illness than in normal individuals. The management of fluid balance in patients with severe illness clearly needs further research. Two key questions regarding fluid balance should be addressed in these patients: (1) Are factors other than ECFV affecting EABV (Table ​(Table5)5) disturbed causing, in addition to the need for their proper management, the need for ECFV values different from the normal values? (2) If fluid retention is a feature of these illnesses, is it a consequence of decreased EABV from a disturbance of the factors shown in Table ​Table44 or of primary renal retention of salt? For these reasons, severe illness with fluid disturbances justifies a separate concept of body fluid balance.
+
+Conflict-of-interest statement: Dominic SC Raj is supported by RO1 DK073665-01A1, 1U01DK099914-01 and IU01DK09924-01 from the National Institutes of Health. Joseph I Shapiro is supported by HL105649, HL071556 and HL109015 from the National Institutes of Health. The other authors declare no conflicts of interest.
+
+Manuscript source: Unsolicited manuscript
+
+Specialty type: Urology and nephrology
+
+Country of origin: United States
+
+Peer-review report classification
+
+Grade A (Excellent): 0
+
+Grade B (Very good): B, B
+
+Grade C (Good): C, C
+
+Peer-review started: September 19, 2017
+
+First decision: October 23, 2017
+
+Article in press: November 27, 2017
+
+P- Reviewer: Markic D, Stavroulopoulos A, Tanaka H, Yong D S- Editor: Ji FF L- Editor: A E- Editor: Lu YJ
+
+Contributor Information
+
+Maria-Eleni Roumelioti, Division of Nephrology, Department of Medicine, University of New Mexico School of Medicine, Albuquerque, NM 87131, United States.
+
+Robert H Glew, Department of Surgery, University of New Mexico School of Medicine, Albuquerque, NM 87131, United States.
+
+Zeid J Khitan, Division of Nephrology, Department of Medicine, Joan Edwards School of Medicine, Marshall University, Huntington, WV 25701, United States.
+
+Helbert Rondon-Berrios, Division of Renal and Electrolyte, Department of Medicine, University of Pittsburgh School of Medicine, Pittsburgh, PA 15260, United States.
+
+Christos P Argyropoulos, Division of Nephrology, Department of Medicine, University of New Mexico School of Medicine, Albuquerque, NM 87131, United States.
+
+Deepak Malhotra, Division of Nephrology, Department of Medicine, University of Toledo School of Medicine, Toledo, OH 43614-5809, United States.
+
+Dominic S Raj, Division of Renal Disease and Hypertension, Department of Medicine, George Washington University, Washington, DC 20037, United States.
+
+Emmanuel I Agaba, Division of Nephology, Department of Medicine, Jos University Medical Center, Jos, Plateau State 930001, Nigeria.
+
+Mark Rohrscheib, Division of Nephrology, Department of Medicine, University of New Mexico School of Medicine, Albuquerque, NM 87131, United States.
+
+Glen H Murata, Research Service, Raymond G Murphy VA Medical Center and University of New Mexico School of Medicine, Albuquerque, NM 87108, United States.
+
+Antonios H Tzamaloukas, Research Service, Raymond G Murphy VA Medical Center and University of New Mexico School of Medicine, Albuquerque, NM 87108, United States. vog.av@sakuolamazt.soinotna.
+
+1. Popkin BM, D’Anci KE, Rosenberg IH. Water, hydration, and health. Nutr Rev. 2010;68:439–458. [PMC free article] [PubMed] [Google Scholar]
+
+2. Wong LL, Verbalis JG. Systemic diseases associated with disorders of water homeostasis. Endocrinol Metab Clin North Am. 2002;31:121–140. [PubMed] [Google Scholar]
+
+3. Adler SM, Verbalis JG. Disorders of body water homeostasis in critical illness. Endocrinol Metab Clin North Am. 2006;35:873–894, xi. [PubMed] [Google Scholar]
+
+4. Hew-Butler T, Rosner MH, Fowkes-Godek S, Dugas JP, Hoffman MD, Lewis DP, Maughan RJ, Miller KC, Montain SJ, Rehrer NJ, et al. Statement of the 3rd International Exercise-Associated Hyponatremia Consensus Development Conference, Carlsbad, California, 2015. Br J Sports Med. 2015;49:1432–1446. [PubMed] [Google Scholar]
+
+5. Manz F, Wentz A. The importance of good hydration for the prevention of chronic diseases. Nutr Rev. 2005;63:S2–S5. [PubMed] [Google Scholar]
+
+6. Kolasa KM, Lackey CJ, Weismiller DG. How primary care providers might review evidence on hydration. J Am Coll Nutr. 2007;26:570S–574S. [PubMed] [Google Scholar]
+
+7. Manz F. Hydration and disease. J Am Coll Nutr. 2007;26:535S–541S. [PubMed] [Google Scholar]
+
+8. Sun X, Oberlander D, Huang J, Weissman C. Fluid resuscitation, nutritional support, and cholesterol in critically ill postsurgical patients. J Clin Anesth. 1998;10:302–308. [PubMed] [Google Scholar]
+
+9. Miller GT, Garcia TB. The delicate balance of hydration. JEMS. 2006;31:36, 38–40. [PubMed] [Google Scholar]
+
+10. Lieberman HR. Hydration and cognition: a critical review and recommendations for future research. J Am Coll Nutr. 2007;26:555S–561S. [PubMed] [Google Scholar]
+
+11. Cooper PA, Turner MJ, Rothberg AD, Davies VA. Dynamic skinfold measurements to assess fluid status in low birthweight infants. Part 2: Correlation with postnatal weight changes. J Perinatol. 1989;9:395–400. [PubMed] [Google Scholar]
+
+12. Anderson HL 3rd, Coran AG, Drongowski RA, Ha HJ, Bartlett RH. Extracellular fluid and total body water changes in neonates undergoing extracorporeal membrane oxygenation. J Pediatr Surg. 1992;27:1003–1007; discussion 1007-1008. [PubMed] [Google Scholar]
+
+13. Hodak SP, Verbalis JG. Abnormalities of water homeostasis in aging. Endocrinol Metab Clin North Am. 2005;34:1031–1046, xi. [PubMed] [Google Scholar]
+
+14. Fortes MB, Owen JA, Raymond-Barker P, Bishop C, Elghenzai S, Oliver SJ, Walsh NP. Is this elderly patient dehydrated? Diagnostic accuracy of hydration assessment using physical signs, urine, and saliva markers. J Am Med Dir Assoc. 2015;16:221–228. [PubMed] [Google Scholar]
+
+15. Chang T, Ravi N, Plegue MA, Sonneville KR, Davis MM. Inadequate Hydration, BMI, and Obesity Among US Adults: NHANES 2009-2012. Ann Fam Med. 2016;14:320–324. [PMC free article] [PubMed] [Google Scholar]
+
+16. Tarazi RC. Hemodynamic role of extracellular fluid in hypertension. Circ Res. 1976;38:73–83. [PubMed] [Google Scholar]
+
+17. Cianci R, Citro F, Migneco A, Baldoni F, Minisci MC, Di Daniele N, De Lorenzo A. Body fluid compartments in hypertension. Eur Rev Med Pharmacol Sci. 2006;10:75–78. [PubMed] [Google Scholar]
+
+18. Hür E, Özişik M, Ural C, Yildiz G, Mağden K, Köse SB, Köktürk F, Büyükuysal Ç, Yildirim I, Süleymanlar G, Ateş K, Duman S. Hypervolemia for hypertension pathophysiology: a population-based study. Biomed Res Int. 2014;2014:895401. [PMC free article] [PubMed] [Google Scholar]
+
+19. Armstrong LE, Kavouras SA, Walsh NP, Roberts WO. Diagnosing dehydration? Blend evidence with clinical observations. Curr Opin Clin Nutr Metab Care. 2016;19:434–438. [PubMed] [Google Scholar]
+
+20. Thomas DR, Cote TR, Lawhorne L, Levenson SA, Rubenstein LZ, Smith DA, Stefanacci RG, Tangalos EG, Morley JE; Dehydration Council. Understanding clinical dehydration and its treatment. J Am Med Dir Assoc. 2008;9:292–301. [PubMed] [Google Scholar]
+
+21. Vivanti A, Harvey K, Ash S, Battistutta D. Clinical assessment of dehydration in older people admitted to hospital: what are the strongest indicators? Arch Gerontol Geriatr. 2008;47:340–355. [PubMed] [Google Scholar]
+
+22. Edelman IS, Leibman J. Anatomy of body water and electrolytes. Am J Med. 1959;27:256–277. [PubMed] [Google Scholar]
+
+23. Brown RG. Disorders of water and sodium balance. Postgrad Med. 1993;93:227–228, 231-234, 239-240 passim. [PubMed] [Google Scholar]
+
+24. Mange K, Matsuura D, Cizman B, Soto H, Ziyadeh FN, Goldfarb S, Neilson EG. Language guiding therapy: the case of dehydration versus volume depletion. Ann Intern Med. 1997;127:848–853. [PubMed] [Google Scholar]
+
+25. Spital A. Dehydration versus volume depletion--and the importance of getting it right. Am J Kidney Dis. 2007;49:721–722. [PubMed] [Google Scholar]
+
+26. Bhave G, Neilson EG. Volume depletion versus dehydration: how understanding the difference can guide therapy. Am J Kidney Dis. 2011;58:302–309. [PMC free article] [PubMed] [Google Scholar]
+
+27. Crecelius C. Dehydration: myth and reality. J Am Med Dir Assoc. 2008;9:287–288. [PubMed] [Google Scholar]
+
+28. Raimann JG, Tzamaloukas AH, Levin NW, Ing TS. Osmotic Pressure in Clinical Medicine with an Emphasis on Dialysis. Semin Dial. 2017;30:69–79. [PubMed] [Google Scholar]
+
+29. Argyropoulos C, Rondon-Berrios H, Raj DS, Malhotra D, Agaba EI, Rohrscheib M, Khitan Z, Murata GH, Shapiro JI, Tzamaloukas AH. Hypertonicity: Pathophysiologic Concept and Experimental Studies. Cureus. 2016;8:e596. [PMC free article] [PubMed] [Google Scholar]
+
+30. Maffly RH, Leaf A. The potential of water in mammalian tissues. J Gen Physiol. 1959;42:1257–1275. [PMC free article] [PubMed] [Google Scholar]
+
+31. Darrow DC, Yannet H. The changes in the distribution of body water accompanying increase and decrease in extracellular electrolyte. J Clin Invest. 1935;14:266–275. [PMC free article] [PubMed] [Google Scholar]
+
+32. Rohrscheib M, Rondon-Berrios H, Argyropoulos C, Glew RH, Murata GH, Tzamaloukas AH. Indices of serum tonicity in clinical practice. Am J Med Sci. 2015;349:537–544. [PubMed] [Google Scholar]
+
+33. Edelman IS, Leibman J, O’Meara MP, Birkenfeld LW. Interrelations between serum sodium concentration, serum osmolarity and total exchangeable sodium, total exchangeable potassium and total body water. J Clin Invest. 1958;37:1236–1256. [PMC free article] [PubMed] [Google Scholar]
+
+34. McCurdy DK. Hyperosmolar hyperglycemic nonketotic diabetic coma. Med Clin North Am. 1970;54:683–699. [PubMed] [Google Scholar]
+
+35. Feig PU, McCurdy DK. The hypertonic state. N Engl J Med. 1977;297:1444–1454. [PubMed] [Google Scholar]
+
+36. Adrogué HJ, Madias NE. Hypernatremia. N Engl J Med. 2000;342:1493–1499. [PubMed] [Google Scholar]
+
+37. Rondon-Berrios H, Argyropoulos C, Ing TS, Raj DS, Malhotra D, Agaba EI, Rohrscheib M, Khitan ZJ, Murata GH, Shapiro JI, et al. Hypertonicity: Clinical entities, manifestations and treatment. World J Nephrol. 2017;6:1–13. [PMC free article] [PubMed] [Google Scholar]
+
+38. Leaf A, Bartter FC, Santos RF, Wrong O. Evidence in man that urinary electrolyte loss induced by pitressin is a function of water retention. J Clin Invest. 1953;32:868–878. [PMC free article] [PubMed] [Google Scholar]
+
+39. Leaf A. The clinical and physiologic significance of the serum sodium concentration. N Engl J Med. 1962;267:24–30 contd. [PubMed] [Google Scholar]
+
+40. Kumar S, Berl T. Sodium. Lancet. 1998;352:220–228. [PubMed] [Google Scholar]
+
+41. Adrogué HJ, Madias NE. Hyponatremia. N Engl J Med. 2000;342:1581–1589. [PubMed] [Google Scholar]
+
+42. Lien YH, Shapiro JI. Hyponatremia: clinical diagnosis and management. Am J Med. 2007;120:653–658. [PubMed] [Google Scholar]
+
+43. Rondon-Berrios H, Agaba EI, Tzamaloukas AH. Hyponatremia: pathophysiology, classification, manifestations and management. Int Urol Nephrol. 2014;46:2153–2165. [PubMed] [Google Scholar]
+
+44. Schrier RW. Body water homeostasis: clinical disorders of urinary dilution and concentration. J Am Soc Nephrol. 2006;17:1820–1832. [PubMed] [Google Scholar]
+
+45. Wolf AV, McDowell ME. Apparent and osmotic volumes of distribution of sodium, chloride, sulfate and urea. Am J Physiol. 1954;176:207–212. [PubMed] [Google Scholar]
+
+46. Elkington JR, Danowski TS. The body fluids. Basic physiology and practical therapeutics. Baltimore: The Williams & Wilkins Company;; 1955. [Google Scholar]
+
+47. Pace N, Kline L. Studies on body composition; use of radioactive hydrogen for measurement in vivo of total body water. J Biol Chem. 1947;168:459–469. [PubMed] [Google Scholar]
+
+48. Schloerb PR, Friis-hansen BJ, Edelman IS, Solomon AK, Moore FD. The measurement of total body water in the human subject by deuterium oxide dilution; with a consideration of the dynamics of deuterium distribution. J Clin Invest. 1950;29:1296–1310. [PMC free article] [PubMed] [Google Scholar]
+
+49. Soberman R, Brodie BB. The use of antipyrine in the measurement of total body water in man. J Biol Chem. 1949;179:31–42. [PubMed] [Google Scholar]
+
+50. Chamney PW, Wabel P, Moissl UM, Müller MJ, Bosy-Westphal A, Korth O, Fuller NJ. A whole-body model to distinguish excess fluid from the hydration of major body tissues. Am J Clin Nutr. 2007;85:80–89. [PubMed] [Google Scholar]
+
+51. Al-Ati T, Preston T, Al-Hooti S, Al-Hamad N, Al-Ghanim J, Al-Khulifi F, Al-Lahou B, Al-Othman A, Davidsson L. Total body water measurement using the 2H dilution technique for the assessment of body composition of Kuwaiti children. Public Health Nutr. 2015;18:259–263. [PMC free article] [PubMed] [Google Scholar]
+
+52. Schoeller DA, van Santen E, Peterson DW, Dietz W, Jaspan J, Klein PD. Total body water measurement in humans with 18O and 2H labeled water. Am J Clin Nutr. 1980;33:2686–2693. [PubMed] [Google Scholar]
+
+53. Sagayama H, Yamada Y, Racine NM, Shriver TC, Schoeller DA; DLW Study Group. Dilution space ratio of 2H and 18O of doubly labeled water method in humans. J Appl Physiol (1985) 2016;120:1349–1354. [PMC free article] [PubMed] [Google Scholar]
+
+54. Mazess RB, Barden HS, Bisek JP, Hanson J. Dual-energy x-ray absorptiometry for total-body and regional bone-mineral and soft-tissue composition. Am J Clin Nutr. 1990;51:1106–1112. [PubMed] [Google Scholar]
+
+55. Dempster P, Aitkens S. A new air displacement method for the determination of human body composition. Med Sci Sports Exerc. 1995;27:1692–1697. [PubMed] [Google Scholar]
+
+56. Rebouche CJ, Pearson GA, Serfass RE, Roth CW, Finley JW. Evaluation of nuclear magnetic resonance spectroscopy for determination of deuterium abundance in body fluids: application to measurement of total-body water in human infants. Am J Clin Nutr. 1987;45:373–380. [PubMed] [Google Scholar]
+
+57. NIH Consensus Statement. Bioelectrical impedance analysis in body composition measurement. National Institutes of Health Technology Assessment Conference Statement. December 12-14, 1994. Nutrition. 1996;12:749–762. [PubMed] [Google Scholar]
+
+58. van Kreel BK, Cox-Reyven N, Soeters P. Determination of total body water by multifrequency bio-electric impedance: development of several models. Med Biol Eng Comput. 1998;36:337–345. [PubMed] [Google Scholar]
+
+59. Beertema W, van Hezewijk M, Kester A, Forget PP, van Kreel B. Measurement of total body water in children using bioelectrical impedance: a comparison of several prediction equations. J Pediatr Gastroenterol Nutr. 2000;31:428–432. [PubMed] [Google Scholar]
+
+60. Roubenoff R, Kehayias JJ, Dawson-Hughes B, Heymsfield SB. Use of dual-energy x-ray absorptiometry in body-composition studies: not yet a “gold standard” Am J Clin Nutr. 1993;58:589–591. [PubMed] [Google Scholar]
+
+61. Matthie JR. Bioimpedance measurements of human body composition: critical analysis and outlook. Expert Rev Med Devices. 2008;5:239–261. [PubMed] [Google Scholar]
+
+62. Hew-Butler T, Holexa BT, Fogard K, Stuempfle KJ, Hoffman MD. Comparison of body composition techniques before and after a 161-km ultramarathon using DXA, BIS and BIA. Int J Sports Med. 2015;36:169–174. [PubMed] [Google Scholar]
+
+63. Hume R, Weyers E. Relationship between total body water and surface area in normal and obese subjects. J Clin Pathol. 1971;24:234–238. [PMC free article] [PubMed] [Google Scholar]
+
+64. Watson PE, Watson ID, Batt RD. Total body water volumes for adult males and females estimated from simple anthropometric measurements. Am J Clin Nutr. 1980;33:27–39. [PubMed] [Google Scholar]
+
+65. Chumlea WC, Guo SS, Zeller CM, Reo NV, Baumgartner RN, Garry PJ, Wang J, Pierson RN Jr, Heymsfield SB, Siervogel RM. Total body water reference values and prediction equations for adults. Kidney Int. 2001;59:2250–2258. [PubMed] [Google Scholar]
+
+66. Mellits ED, Cheek DB. The assessment of body water and fatness from infancy to adulthood. Monogr Soc Res Child Dev. 1970;35:12–26. [PubMed] [Google Scholar]
+
+67. Tzamaloukas AH, Murata GH, Vanderjagt DJ, Glew RH. Estimates of body water, fat-free mass, and body fat in patients on peritoneal dialysis by anthropometric formulas. Kidney Int. 2003;63:1605–1617. [PubMed] [Google Scholar]
+
+68. Tzamaloukas AH, Murata GH. Estimating urea volume in amputees on peritoneal dialysis by modified anthropometric formulas. Adv Perit Dial. 1996;12:143–146. [PubMed] [Google Scholar]
+
+69. Tzamaloukas AH. Effect of edema on urea kinetic studies in peritoneal dialysis patients. Perit Dial Int. 1994;14:398–401. [PubMed] [Google Scholar]
+
+70. Tzamaloukas AH, Murata GH, Dimitriadis A, Voukiklari S, Antoniou S, Malhotra D, Kakavas J, Dombros NV, Nicolopoulou N, Balaskas EV. Fractional urea clearance in continuous ambulatory peritoneal dialysis: effects of volume disturbances. Nephron. 1996;74:567–571. [PubMed] [Google Scholar]
+
+71. Chertow GM, Lazarus JM, Lew NL, Ma L, Lowrie EG. Development of a population-specific regression equation to estimate total body water in hemodialysis patients. Kidney Int. 1997;51:1578–1582. [PubMed] [Google Scholar]
+
+72. Johansson AC, Samuelsson O, Attman PO, Bosaeus I, Haraldsson B. Limitations in anthropometric calculations of total body water in patients on peritoneal dialysis. J Am Soc Nephrol. 2001;12:568–573. [PubMed] [Google Scholar]
+
+73. Heymsfield SB, Ebbeling CB, Zheng J, Pietrobelli A, Strauss BJ, Silva AM, Ludwig DS. Multi-component molecular-level body composition reference methods: evolving concepts and future directions. Obes Rev. 2015;16:282–294. [PMC free article] [PubMed] [Google Scholar]
+
+74. Siri WE. Techniques for Measuring Body Composition. In: Brožek J, Henshel A, editors. National Academy of Sciences/National Research Council, Washington, DC; 1961. Body composition from fluid spaces and density: analysis of methods; pp. 223–244. [Google Scholar]
+
+75. Wang Z, Deurenberg P, Wang W, Pietrobelli A, Baumgartner RN, Heymsfield SB. Hydration of fat-free body mass: new physiological modeling approach. Am J Physiol. 1999;276:E995–E1003. [PubMed] [Google Scholar]
+
+76. Wang Z, Deurenberg P, Wang W, Pietrobelli A, Baumgartner RN, Heymsfield SB. Hydration of fat-free body mass: review and critique of a classic body-composition constant. Am J Clin Nutr. 1999;69:833–841. [PubMed] [Google Scholar]
+
+77. Wang Z, Deurenberg P, Heymsfield SB. Cellular-level body composition model. A new approach to studying fat-free mass hydration. Ann N Y Acad Sci. 2000;904:306–311. [PubMed] [Google Scholar]
+
+78. Edmonds CJ, Jasani BM, Smith T. Total body potassium and body fat estimation in relationship to height, sex, age, malnutrition and obesity. Clin Sci Mol Med. 1975;48:431–440. [PubMed] [Google Scholar]
+
+79. Kitabchi AE, Umpierrez GE, Miles JM, Fisher JN. Hyperglycemic crises in adult patients with diabetes. Diabetes Care. 2009;32:1335–1343. [PMC free article] [PubMed] [Google Scholar]
+
+80. Dunger DB, Sperling MA, Acerini CL, Bohn DJ, Daneman D, Danne TP, Glaser NS, Hanas R, Hintz RL, Levitsky LL, et al. European Society for Paediatric Endocrinology/Lawson Wilkins Pediatric Endocrine Society consensus statement on diabetic ketoacidosis in children and adolescents. Pediatrics. 2004;113:e133–e140. [PubMed] [Google Scholar]
+
+81. Tzamaloukas AH, Sun Y, Konstantinov NK, Dorin RI, Ing TS, Malhotra D, Murata GH, Shapiro JI. Principles of quantitative fluid and cation replacement in extreme hyperglycemia. Cureus. 2013;5:e110. [Google Scholar]
+
+82. Verbalis JG, Goldsmith SR, Greenberg A, Korzelius C, Schrier RW, Sterns RH, Thompson CJ. Diagnosis, evaluation, and treatment of hyponatremia: expert panel recommendations. Am J Med. 2013;126:S1–42. [PubMed] [Google Scholar]
+
+83. Spasovski G, Vanholder R, Allolio B, Annane D, Ball S, Bichet D, Decaux G, Fenske W, Hoorn EJ, Ichai C, et al. Clinical practice guideline on diagnosis and treatment of hyponatraemia. Nephrol Dial Transplant. 2014;29 Suppl 2:i1–i39. [PubMed] [Google Scholar]
+
+84. Tzamaloukas AH, Malhotra D, Rosen BH, Raj DS, Murata GH, Shapiro JI. Principles of management of severe hyponatremia. J Am Heart Assoc. 2013;2:e005199. [PMC free article] [PubMed] [Google Scholar]
+
+85. Berl T. The Adrogue-Madias formula revisited. Clin J Am Soc Nephrol. 2007;2:1098–1099. [PubMed] [Google Scholar]
+
+86. Sood L, Sterns RH, Hix JK, Silver SM, Chen L. Hypertonic saline and desmopressin: a simple strategy for safe correction of severe hyponatremia. Am J Kidney Dis. 2013;61:571–578. [PubMed] [Google Scholar]
+
+87. Tzamaloukas AH, Shapiro JI, Raj DS, Murata GH, Glew RH, Malhotra D. Management of severe hyponatremia: infusion of hypertonic saline and desmopressin or infusion of vasopressin inhibitors? Am J Med Sci. 2014;348:432–439. [PMC free article] [PubMed] [Google Scholar]
+
+88. Sterns RH. Disorders of plasma sodium--causes, consequences, and correction. N Engl J Med. 2015;372:55–65. [PubMed] [Google Scholar]
+
+89. Sterns RH. Formulas for fixing serum sodium: curb your enthusiasm. Clin Kidney J. 2016;9:527–529. [PMC free article] [PubMed] [Google Scholar]
+
+90. Yoo H, Paranji R, Pollack GH. Impact of Hydrophilic Surfaces on Interfacial Water Dynamics Probed with NMR Spectroscopy. J Phys Chem Lett. 2011;2:532–536. [PMC free article] [PubMed] [Google Scholar]
+
+91. Editorial: Sick cells and hyponatraemia. Lancet. 1974;1:342–343. [PubMed] [Google Scholar]
+
+92. Berl T, Rastegar A. A patient with severe hyponatremia and hypokalemia: osmotic demyelination following potassium repletion. Am J Kidney Dis. 2010;55:742–748. [PubMed] [Google Scholar]
+
+93. Frazier HS. Renal regulation of sodium balance. N Engl J Med. 1968;279:868–875. [PubMed] [Google Scholar]
+
+94. Palmer BF, Alpern RJ, Seldin DW. Physiology and pathophysiology of sodium retention and wastage. In: Alpern RJ, Hebert SC, editors. Seldin and Giebisch’s The Kidney. Physiology and Pathophysiology. 4th ed. Amsterdam: Elsevier; 2008. pp. 1005–1049. [Google Scholar]
+
+95. Skorecki KL, Winaver J, Abassi ZA. Extracellular fluid and edema formation. In: Brenner BM, editor. Brenner and Rector’s The Kidney. 8th ed. Philadelphia: Saunders; 2008. pp. 398–458. [Google Scholar]
+
+96. Thurau K. Renal Na-reabsorption and O2-uptake in dogs during hypoxia and hydrochlorothiazide infusion. Proc Soc Exp Biol Med. 1961;106:714–717. [PubMed] [Google Scholar]
+
+97. Moore FD. The use of isotopes in surgical research. Surg Gynecol Obstet. 1948;86:129–147. [PubMed] [Google Scholar]
+
+98. Cizek LJ. Total water content of laboratory animals with special reference to volume of fluid within the lumen of the gastrointestinal tract. Am J Physiol. 1954;179:104–110. [PubMed] [Google Scholar]
+
+99. Cotlove E. Mechanism and extent of distribution of inulin and sucrose in chloride space of tissues. Am J Physiol. 1954;176:396–410. [PubMed] [Google Scholar]
+
+100. Moore FD, Mcmurrey JD, Parker HV, Magnus IC. Body composition; total body water and electrolytes: intravascular and extravascular phase volumes. Metabolism. 1956;5:447–467. [PubMed] [Google Scholar]
+
+101. Gaudino M, Schwartz IL, Levitt MF. Insulin volume of distribution as a measure of extracellular fluid in dog and man. Proc Soc Exp Biol Med. 1948;68:507–511. [PubMed] [Google Scholar]
+
+102. Deane N, Schreiner GE, Robertson JS. The velocity of distribution of sucrose between plasma and interstitial fluid, with reference to the use of sucrose for the measurement or extracellular fluid in man. J Clin Invest. 1951;30:1463–1468. [PMC free article] [PubMed] [Google Scholar]
+
+103. Cardozo RH, Edelman IS. The volume of distribution of sodium thiosulfate as a measure of the extracellular fluid space. J Clin Invest. 1952;31:280–290. [PMC free article] [PubMed] [Google Scholar]
+
+104. Ikkos D. Measurement of the extracellular fluid volume by thiosulfate. I. The measurement of the apparent volume of distribution of thiosulfate. Acta Physiol Scand. 1956;35:240–253. [PubMed] [Google Scholar]
+
+105. Elkinton JR. The volume of distribution of mannitol as a measure of the volume of extracellular fluid, with a study of the mannitol method. J Clin Invest. 1947;26:1088–1097. [PMC free article] [PubMed] [Google Scholar]
+
+106. Walser M, Seldin DW, Grollman A. An evaluation of radiosulfate for the determination of the volume of extracellular fluid in man and dogs. J Clin Invest. 1953;32:299–311. [PMC free article] [PubMed] [Google Scholar]
+
+107. Albert SN, Shibuya J, Custeau P, Albert CA, Hirsch EF. A simplified method for measuring the volume of extracellular fluid by radioactive sulfur (S35): observations on shifts of fluid in induced hypotension. South Med J. 1967;60:933–939. [PubMed] [Google Scholar]
+
+108. Binder C, Leth A. The distribution volume of 82Br- as a measurement of the extracellular fluid volume in normal persons. Scand J Clin Lab Invest. 1970;25:291–297. [PubMed] [Google Scholar]
+
+109. Gamble JL Jr, Robertson JS, Hannigan CA, Foster CG, Farr LE. Chloride, bromide, sodium, and sucrose spaces in man. J Clin Invest. 1953;32:483–489. [PMC free article] [PubMed] [Google Scholar]
+
+110. Threefoot SA, Burch GE, Ray CT. Chloride space and total exchanging chloride in man measured with long-life radio-chloride Cl36. J Lab Clin Med. 1953;42:16–33. [PubMed] [Google Scholar]
+
+111. Tzamaloukas AH. Non-radioisotopic estimate of extracellular volume during isotonic expansion in anuric dogs. Arch Int Physiol Biochim. 1983;91:279–291. [PubMed] [Google Scholar]
+
+112. Kaltreider NL, Meneely GR, Allen JR, Bale WF. Determination of the volume of the extracellular fluid of the body with radioactive sodium. J Exp Med. 1941;74:569–590. [PMC free article] [PubMed] [Google Scholar]
+
+113. Doxiadis SA, Gairdner D. The estimation of the extracellular fluid volume by the thiocyanate method in children and adults. Clin Sci. 1948;6:257–267. [PubMed] [Google Scholar]
+
+114. Ellis KJ. Human body composition: in vivo methods. Physiol Rev. 2000;80:649–680. [PubMed] [Google Scholar]
+
+115. Van Loan MD, Mayclin PL. Use of multi-frequency bioelectrical impedance analysis for the estimation of extracellular fluid. Eur J Clin Nutr. 1992;46:117–124. [PubMed] [Google Scholar]
+
+116. Deurenberg P, Tagliabue A, Schouten FJ. Multi-frequency impedance for the prediction of extracellular water and total body water. Br J Nutr. 1995;73:349–358. [PubMed] [Google Scholar]
+
+117. Deurenberg P, Tagliabue A, Wang J, Wolde-Gebriel Z. Multi-frequency bioelectrical impedance for the prediction of body water compartments: validation in different ethnic groups. Asia Pac J Clin Nutr. 1996;5:217–221. [PubMed] [Google Scholar]
+
+118. Thomas BJ, Ward LC, Cornish BH. Bioimpedance spectrometry in the determination of body water compartments: accuracy and clinical significance. Appl Radiat Isot. 1998;49:447–455. [PubMed] [Google Scholar]
+
+119. Jaffrin MY, Morel H. Body fluid volumes measurements by impedance: A review of bioimpedance spectroscopy (BIS) and bioimpedance analysis (BIA) methods. Med Eng Phys. 2008;30:1257–1269. [PubMed] [Google Scholar]
+
+120. Jaffrin MY, Morel H. Extracellular volume measurements using bioimpedance spectroscopy-Hanai method and wrist-ankle resistance at 50 kHz. Med Biol Eng Comput. 2009;47:77–84. [PubMed] [Google Scholar]
+
+121. Buendia R, Seoane F, Lindecrantz K, Bosaeus I, Gil-Pita R, Johannsson G, Ellegård L, Ward LC. Estimation of body fluids with bioimpedance spectroscopy: state of the art methods and proposal of novel methods. Physiol Meas. 2015;36:2171–2187. [PubMed] [Google Scholar]
+
+122. Jones SL, Tanaka A, Eastwood GM, Young H, Peck L, Bellomo R, Mårtensson J. Bioelectrical impedance vector analysis in critically ill patients: a prospective, clinician-blinded investigation. Crit Care. 2015;19:290. [PMC free article] [PubMed] [Google Scholar]
+
+123. Forni LG, Hasslacher J, Joannidis M. Bioelectrical impedance vector analysis in the critically ill: cool tool or just another ‘toy’? Crit Care. 2015;19:387. [PMC free article] [PubMed] [Google Scholar]
+
+124. Jensen MD, Kanaley JA, Roust LR, O’Brien PC, Braun JS, Dunn WL, Wahner HW. Assessment of body composition with use of dual-energy x-ray absorptiometry: evaluation and comparison with other methods. Mayo Clin Proc. 1993;68:867–873. [PubMed] [Google Scholar]
+
+125. Laskey MA. Dual-energy X-ray absorptiometry and body composition. Nutrition. 1996;12:45–51. [PubMed] [Google Scholar]
+
+126. Clasey JL, Hartman ML, Kanaley J, Wideman L, Teates CD, Bouchard C, Weltman A. Body composition by DEXA in older adults: accuracy and influence of scan mode. Med Sci Sports Exerc. 1997;29:560–567. [PubMed] [Google Scholar]
+
+127. St-Onge MP, Wang Z, Horlick M, Wang J, Heymsfield SB. Dual-energy X-ray absorptiometry lean soft tissue hydration: independent contributions of intra- and extracellular water. Am J Physiol Endocrinol Metab. 2004;287:E842–E847. [PubMed] [Google Scholar]
+
+128. McDonald CM, Carter GT, Abresch RT, Widman L, Styne DM, Warden N, Kilmer DD. Body composition and water compartment measurements in boys with Duchenne muscular dystrophy. Am J Phys Med Rehabil. 2005;84:483–491. [PubMed] [Google Scholar]
+
+129. Albanese CV, Diessel E, Genant HK. Clinical applications of body composition measurements using DXA. J Clin Densitom. 2003;6:75–85. [PubMed] [Google Scholar]
+
+130. Uszko-Lencer NH, Bothmer F, van Pol PE, Schols AM. Measuring body composition in chronic heart failure: a comparison of methods. Eur J Heart Fail. 2006;8:208–214. [PubMed] [Google Scholar]
+
+131. Wilson JP, Mulligan K, Fan B, Sherman JL, Murphy EJ, Tai VW, Powers CL, Marquez L, Ruiz-Barros V, Shepherd JA. Dual-energy X-ray absorptiometry-based body volume measurement for 4-compartment body composition. Am J Clin Nutr. 2012;95:25–31. [PMC free article] [PubMed] [Google Scholar]
+
+132. Hinton BJ, Fan B, Ng BK, Shepherd JA. Dual energy X-ray absorptiometry body composition reference values of limbs and trunk from NHANES 1999-2004 with additional visualization methods. PLoS One. 2017;12:e0174180. [PMC free article] [PubMed] [Google Scholar]
+
+133. Martin MA, Tatton WG, Lemaire C, Armstrong RL. Determination of extracellular/intracellular fluid ratios from magnetic resonance images: accuracy, feasibility, and implementation. Magn Reson Med. 1990;15:58–69. [PubMed] [Google Scholar]
+
+134. Ma K, Kotler DP, Wang J, Thornton JC, Ma R, Pierson RN Jr. Reliability of in vivo neutron activation analysis for measuring body composition: comparisons with tracer dilution and dual-energy x-ray absorptiometry. J Lab Clin Med. 1996;127:420–427. [PubMed] [Google Scholar]
+
+135. Shen W, St-Onge MP, Pietrobelli A, Wang J, Wang Z, Heshka S, Heymsfield SB. Four-compartment cellular level body composition model: comparison of two approaches. Obes Res. 2005;13:58–65. [PMC free article] [PubMed] [Google Scholar]
+
+136. Silva AM, Wang J, Pierson RN Jr, Wang Z, Spivack J, Allison DB, Heymsfield SB, Sardinha LB, Heshka S. Extracellular water across the adult lifespan: reference values for adults. Physiol Meas. 2007;28:489–502. [PubMed] [Google Scholar]
+
+137. Dawson P, Blomley MJ. Contrast media as extracellular fluid space markers: adaptation of the central volume theorem. Br J Radiol. 1996;69:717–722. [PubMed] [Google Scholar]
+
+138. Schwartz IL, Schachter D, Freinkel N. The measurement of extracellular fluid in man by means of a constant infusion technique. J Clin Invest. 1949;28:1117–1125. [PMC free article] [PubMed] [Google Scholar]
+
+139. Ladegaard-Pedersen HJ. Measurement of extracellular volume and renal clearance by a single injection of inulin. Scand J Clin Lab Invest. 1972;29:145–153. [PubMed] [Google Scholar]
+
+140. Nielsen OM. Extracellular volume, renal clearance and whole body permeability-surface area product in man, measured after single injection of polyfructosan. Scand J Clin Lab Invest. 1985;45:217–222. [PubMed] [Google Scholar]
+
+141. Brøchner-Mortensen J. A simple single injection method for determination of the extracellular fluid volume. Scand J Clin Lab Invest. 1980;40:567–573. [PubMed] [Google Scholar]
+
+142. Bird NJ, Michell AR, Peters AM. Accurate measurement of extracellular fluid volume from the slope/intercept technique after bolus injection of a filtration marker. Physiol Meas. 2009;30:1371–1379. [PubMed] [Google Scholar]
+
+143. Peters AM, Glass DM, Bird NJ. Extracellular fluid volume and glomerular filtration rate: their relation and variabilities in patients with renal disease and healthy individuals. Nucl Med Commun. 2011;32:649–653. [PubMed] [Google Scholar]
+
+144. Abraham AG, Muñoz A, Furth SL, Warady B, Schwartz GJ. Extracellular volume and glomerular filtration rate in children with chronic kidney disease. Clin J Am Soc Nephrol. 2011;6:741–747. [PMC free article] [PubMed] [Google Scholar]
+
+145. Russell CD, Bischoff PG, Rowell KL, Lloyd LK, Dubovsky EV. Estimation of extracellular fluid volume from plasma clearance on technetium-99m DTPA by a single-injection, two-sample method. J Nucl Med. 1988;29:255–258. [PubMed] [Google Scholar]
+
+146. Smye SW, Norwood HM, Buur T, Bradbury M, Brocklebank JT. Comparison of extra-cellular fluid volume measurement in children by 99Tcm-DPTA clearance and multi-frequency impedance techniques. Physiol Meas. 1994;15:251–260. [PubMed] [Google Scholar]
+
+147. Visser FW, Muntinga JH, Dierckx RA, Navis G. Feasibility and impact of the measurement of extracellular fluid volume simultaneous with GFR by 125I-iothalamate. Clin J Am Soc Nephrol. 2008;3:1308–1315. [PMC free article] [PubMed] [Google Scholar]
+
+148. Espejo MG, Neu J, Hamilton L, Eitzman B, Gimotty P, Bucciarelli RL. Determination of extracellular fluid volume using impedance measurements. Crit Care Med. 1989;17:360–363. [PubMed] [Google Scholar]
+
+149. Miholic J, Reilmann L, Meyer HJ, Körber H, Dieckelmann A, Pichlmayr R. Estimation of extracellular space and blood volume using bioelectrical impedance measurements. Clin Investig. 1992;70:600–605. [PubMed] [Google Scholar]
+
+150. De Lorenzo A, Candeloro N, Andreoli A, Deurenberg P. Determination of intracellular water by multifrequency bioelectrical impedance. Ann Nutr Metab. 1995;39:177–184. [PubMed] [Google Scholar]
+
+151. Bedogni G, Bollea MR, Severi S, Trunfio O, Manzieri AM, Battistini N. The prediction of total body water and extracellular water from bioelectric impedance in obese children. Eur J Clin Nutr. 1997;51:129–133. [PubMed] [Google Scholar]
+
+152. van den Ham EC, Kooman JP, Christiaans MH, Nieman FH, Van Kreel BK, Heidendal GA, Van Hooff JP. Body composition in renal transplant patients: bioimpedance analysis compared to isotope dilution, dual energy X-ray absorptiometry, and anthropometry. J Am Soc Nephrol. 1999;10:1067–1079. [PubMed] [Google Scholar]
+
+153. Goovaerts HG, Faes TJ, de Valk-de Roo GW, ten Bolscher M, Netelenbosch JC, van der Vijgh WJ, Heethaar RM. Estimation of extracellular volume by a two-frequency measurement. Ann N Y Acad Sci. 1999;873:99–104. [PubMed] [Google Scholar]
+
+154. Kim J, Wang Z, Gallagher D, Kotler DP, Ma K, Heymsfield SB. Extracellular water: sodium bromide dilution estimates compared with other markers in patients with acquired immunodeficiency syndrome. JPEN J Parenter Enteral Nutr. 1999;23:61–66. [PubMed] [Google Scholar]
+
+155. Moissl UM, Wabel P, Chamney PW, Bosaeus I, Levin NW, Bosy-Westphal A, Korth O, Müller MJ, Ellegård L, Malmros V, et al. Body fluid volume determination via body composition spectroscopy in health and disease. Physiol Meas. 2006;27:921–933. [PubMed] [Google Scholar]
+
+156. Birzniece V, Khaw CH, Nelson AE, Meinhardt U, Ho KK. A critical evaluation of bioimpedance spectroscopy analysis in estimating body composition during GH treatment: comparison with bromide dilution and dual X-ray absorptiometry. Eur J Endocrinol. 2015;172:21–28. [PubMed] [Google Scholar]
+
+157. Filler G, Huang SH. A simple estimate for extracellular volume: too simple? Clin J Am Soc Nephrol. 2011;6:695–696. [PubMed] [Google Scholar]
+
+158. Bhujwalla ZM, McCoy CL, Glickson JD, Gillies RJ, Stubbs M. Estimations of intra- and extracellular volume and pH by 31P magnetic resonance spectroscopy: effect of therapy on RIF-1 tumours. Br J Cancer. 1998;78:606–611. [PMC free article] [PubMed] [Google Scholar]
+
+159. Mills SJ, Soh C, Rose CJ, Cheung S, Zhao S, Parker GJ, Jackson A. Candidate biomarkers of extravascular extracellular space: a direct comparison of apparent diffusion coefficient and dynamic contrast-enhanced MR imaging--derived measurement of the volume of the extravascular extracellular space in glioblastoma multiforme. AJNR Am J Neuroradiol. 2010;31:549–553. [PMC free article] [PubMed] [Google Scholar]
+
+160. Magzoub M, Zhang H, Dix JA, Verkman AS. Extracellular space volume measured by two-color pulsed dye infusion with microfiberoptic fluorescence photodetection. Biophys J. 2009;96:2382–2390. [PMC free article] [PubMed] [Google Scholar]
+
+161. Kouw PM, Kooman JP, Cheriex EC, Olthof CG, de Vries PM, Leunissen KM. Assessment of postdialysis dry weight: a comparison of techniques. J Am Soc Nephrol. 1993;4:98–104. [PubMed] [Google Scholar]
+
+162. Woodrow G, Oldroyd B, Turney JH, Davies PS, Day JM, Smith MA. Four-component model of body composition in chronic renal failure comprising dual-energy X-ray absorptiometry and measurement of total body water by deuterium oxide dilution. Clin Sci (Lond) 1996;91:763–769. [PubMed] [Google Scholar]
+
+163. Cooper BA, Aslani A, Ryan M, Zhu FY, Ibels LS, Allen BJ, Pollock CA. Comparing different methods of assessing body composition in end-stage renal failure. Kidney Int. 2000;58:408–416. [PubMed] [Google Scholar]
+
+164. Tzamaloukas AH, Onime A, Agaba EI, Vanderjagt DJ, Ma I, Lopez A, Tzamaloukas RA, Glew RH. Hydration abnormalities in Nigerian patients on chronic hemodialysis. Hemodial Int. 2007;11 Suppl 3:S22–S28. [PubMed] [Google Scholar]
+
+165. Passauer J, Petrov H, Schleser A, Leicht J, Pucalka K. Evaluation of clinical dry weight assessment in haemodialysis patients using bioimpedance spectroscopy: a cross-sectional study. Nephrol Dial Transplant. 2010;25:545–551. [PubMed] [Google Scholar]
+
+166. Kotanko P, Levin NW, Zhu F. Current state of bioimpedance technologies in dialysis. Nephrol Dial Transplant. 2008;23:808–812. [PubMed] [Google Scholar]
+
+167. Antlanger M, Hecking M, Haidinger M, Werzowa J, Kovarik JJ, Paul G, Eigner M, Bonderman D, Hörl WH, Säemann MD. Fluid overload in hemodialysis patients: a cross-sectional study to determine its association with cardiac biomarkers and nutritional status. BMC Nephrol. 2013;14:266. [PMC free article] [PubMed] [Google Scholar]
+
+168. Chen HS, Lee KC, Cheng CT, Hou CC, Liou HH, Lin CJ, Lim PS. Application of Bioimpedance Spectroscopy in Asian Dialysis Patients (ABISAD): serial follow-up and dry weight evaluation. Clin Kidney J. 2013;6:29–34. [PMC free article] [PubMed] [Google Scholar]
+
+169. Hur E, Usta M, Toz H, Asci G, Wabel P, Kahvecioglu S, Kayikcioglu M, Demirci MS, Ozkahya M, Duman S, et al. Effect of fluid management guided by bioimpedance spectroscopy on cardiovascular parameters in hemodialysis patients: a randomized controlled trial. Am J Kidney Dis. 2013;61:957–965. [PubMed] [Google Scholar]
+
+170. Asmat H, Iqbal R, Sharif F, Mahmood A, Abbas A, Kashif W. Validation of bioelectrical impedance analysis for assessing dry weight of dialysis patients in Pakistan. Saudi J Kidney Dis Transpl. 2017;28:285–291. [PubMed] [Google Scholar]
+
+171. Katz MA. Hyperglycemia-induced hyponatremia--calculation of expected serum sodium depression. N Engl J Med. 1973;289:843–844. [PubMed] [Google Scholar]
+
+172. Tzamaloukas AH, Rohrscheib M, Ing TS, Siamopoulos KC, Elisaf MF, Spalding CT. Serum tonicity, extracellular volume and clinical manifestations in symptomatic dialysis-associated hyperglycemia treated only with insulin. Int J Artif Organs. 2004;27:751–758. [PubMed] [Google Scholar]
+
+173. Tzamaloukas AH, Ing TS, Siamopoulos KC, Rohrscheib M, Elisaf MS, Raj DS, Murata GH. Body fluid abnormalities in severe hyperglycemia in patients on chronic dialysis: theoretical analysis. J Diabetes Complications. 2007;21:374–380. [PubMed] [Google Scholar]
+
+174. Tzamaloukas AH, Ing TS, Siamopoulos KC, Rohrscheib M, Elisaf MS, Raj DS, Murata GH. Body fluid abnormalities in severe hyperglycemia in patients on chronic dialysis: review of published reports. J Diabetes Complications. 2008;22:29–37. [PubMed] [Google Scholar]
+
+175. Conard V, Franckson JR, Bastenie PA, Kesten J, Kovacs L. [Critical study of the intravenous blood sugar curve in the normal man and the determination of a coefficient of glucose assimilation] Arch Int Pharmacodyn Ther. 1953;93:132–134. [PubMed] [Google Scholar]
+
+176. Ikkos D, Luft R. On the volume of distribution of glucose in man. Acta Endocrinol (Copenh) 1957;25:335–344. [PubMed] [Google Scholar]
+
+177. Hirota K, Ishihara H, Tsubo T, Matsuki A. Estimation of the initial distribution volume of glucose by an incremental plasma glucose level at 3 min after i.v. glucose in humans. Br J Clin Pharmacol. 1999;47:361–364. [PMC free article] [PubMed] [Google Scholar]
+
+178. Tzamaloukas AH. Characterization of the state of body fluids in anuric hyperglycemic humans. Miner Electrolyte Metab. 1987;13:126–132. [PubMed] [Google Scholar]
+
+179. Arieff AI, Carroll HJ. Nonketotic hyperosmolar coma with hyperglycemia: clinical features, pathophysiology, renal function, acid-base balance, plasma-cerebrospinal fluid equilibria and the effects of therapy in 37 cases. Medicine (Baltimore) 1972;51:73–94. [PubMed] [Google Scholar]
+
+180. Kyle UG, Pichard C, Rochat T, Slosman DO, Fitting JW, Thiebaud D. New bioelectrical impedance formula for patients with respiratory insufficiency: comparison to dual-energy X-ray absorptiometry. Eur Respir J. 1998;12:960–966. [PubMed] [Google Scholar]
+
+181. Haderslev KV, Staun M. Comparison of dual-energy X-ray absorptiometry to four other methods to determine body composition in underweight patients with chronic gastrointestinal disease. Metabolism. 2000;49:360–366. [PubMed] [Google Scholar]
+
+182. Levitt DG, Beckman LM, Mager JR, Valentine B, Sibley SD, Beckman TR, Kellogg TA, Ikramuddin S, Earthman CP. Comparison of DXA and water measurements of body fat following gastric bypass surgery and a physiological model of body water, fat, and muscle composition. J Appl Physiol (1985) 2010;109:786–795. [PMC free article] [PubMed] [Google Scholar]
+
+183. Nwosu AC, Mayland CR, Mason SR, Khodabukus AF, Varro A, Ellershaw JE. Hydration in advanced cancer: can bioelectrical impedance analysis improve the evidence base? A systematic review of the literature. J Pain Symptom Manage. 2013;46:433–446.e6. [PubMed] [Google Scholar]
+
+184. Kose SB, Hur E, Magden K, Yildiz G, Colak D, Kucuk E, Toka B, Kucuk H, Yildirim I, Kokturk F, et al. Bioimpedance spectroscopy for the differential diagnosis of hyponatremia. Ren Fail. 2015;37:947–950. [PubMed] [Google Scholar]
+
+185. Heavens KR, Charkoudian N, O’Brien C, Kenefick RW, Cheuvront SN. Noninvasive assessment of extracellular and intracellular dehydration in healthy humans using the resistance-reactance-score graph method. Am J Clin Nutr. 2016;103:724–729. [PubMed] [Google Scholar]
+
+186. Roos AN, Westendorp RG, Brand R, Souverijn JH, Frölich M, Meinders AE. Predictive value of tetrapolar body impedance measurements for hydration status in critically ill patients. Intensive Care Med. 1995;21:125–131. [PubMed] [Google Scholar]
+
+187. Malbrain ML, Huygh J, Dabrowski W, De Waele JJ, Staelens A, Wauters J. The use of bio-electrical impedance analysis (BIA) to guide fluid management, resuscitation and deresuscitation in critically ill patients: a bench-to-bedside review. Anaesthesiol Intensive Ther. 2014;46:381–391. [PubMed] [Google Scholar]
+
+188. Baumgartner RN, Heymsfield SB, Roche AF. Human body composition and the epidemiology of chronic disease. Obes Res. 1995;3:73–95. [PubMed] [Google Scholar]
+
+189. Roubenoff R. Sarcopenic obesity: the confluence of two epidemics. Obes Res. 2004;12:887–888. [PubMed] [Google Scholar]
+
+190. Wang Z, Heymsfield SB, Pi-Sunyer FX, Gallagher D, Pierson RN Jr. Body composition analysis: Cellular level modeling of body component ratios. Int J Body Compos Res. 2008;6:173–184. [PMC free article] [PubMed] [Google Scholar]
+
+191. Price WF, Hazelrig JB, Kreisberg RA, Meador CK. Reproducibility of body composition measurements in a single individual. J Lab Clin Med. 1969;74:557–563. [PubMed] [Google Scholar]
+
+192. Burke BJ, Staddon GE. The precision of a modern method for body compartment measurements using multiple isotopes. Clin Chim Acta. 1981;117:85–95. [PubMed] [Google Scholar]
+
+193. Silva AM, Heymsfield SB, Gallagher D, Albu J, Pi-Sunyer XF, Pierson RN Jr, Wang J, Heshka S, Sardinha LB, Wang Z. Evaluation of between-methods agreement of extracellular water measurements in adults and children. Am J Clin Nutr. 2008;88:315–323. [PMC free article] [PubMed] [Google Scholar]
+
+194. Cunningham JN Jr, Carter NW, Rector FC Jr, Seldin DW. Resting transmembrane potential difference of skeletal muscle in normal subjects and severely ill patients. J Clin Invest. 1971;50:49–59. [PMC free article] [PubMed] [Google Scholar]
+
+195. Schober O, Lehr L, Hundeshagen H. Bromide space, total body water, and sick cell syndrome. Eur J Nucl Med. 1982;7:14–15. [PubMed] [Google Scholar]
+
+196. Cotton JR, Woodard T, Carter NW, Knochel JP. Resting skeletal muscle membrane potential as an index of uremic toxicity. A proposed new method to assess adequacy of hemodialysis. J Clin Invest. 1979;63:501–506. [PMC free article] [PubMed] [Google Scholar]
+
+197. Kooman JP, Cox-Reijven PL, Van der Sande FM, Van den Ham EC, Leunissen KM. Assessment of body composition in ESRF. Kidney Int. 2001;59:383–384. [PubMed] [Google Scholar]
+
+198. Chan C, McIntyre C, Smith D, Spanel P, Davies SJ. Combining near-subject absolute and relative measures of longitudinal hydration in hemodialysis. Clin J Am Soc Nephrol. 2009;4:1791–1798. [PMC free article] [PubMed] [Google Scholar]
+
+199. Silva AM, Wang J, Pierson RN Jr, Wang Z, Heymsfield SB, Sardinha LB, Heshka S. Extracellular water: greater expansion with age in African Americans. J Appl Physiol (1985) 2005;99:261–267. [PubMed] [Google Scholar]
+
+200. Tengvall M, Ellegård L, Malmros V, Bosaeus N, Lissner L, Bosaeus I. Body composition in the elderly: reference values and bioelectrical impedance spectroscopy to predict total body skeletal muscle mass. Clin Nutr. 2009;28:52–58. [PubMed] [Google Scholar]
+
+201. Peters AM, Seshadri N, Neilly MD, Perry L, Hooker CA, Howard B, Sobnack R, Irwin A, Dave S, Snelling H, et al. Higher extracellular fluid volume in women is concealed by scaling to body surface area. Scand J Clin Lab Invest. 2013;73:546–552. [PubMed] [Google Scholar]
+
+202. Malczyk E, Dzięgielewska-Gęsiak S, Fatyga E, Ziółko E, Kokot T, Muc-Wierzgon M. Body composition in healthy older persons: role of the ratio of extracellular/total body water. J Biol Regul Homeost Agents. 2016;30:767–772. [PubMed] [Google Scholar]
+
+203. Avila ML, Ward LC, Feldman BM, Montoya MI, Stinson J, Kiss A, Brandão LR. Normal values for segmental bioimpedance spectroscopy in pediatric patients. PLoS One. 2015;10:e0126268. [PMC free article] [PubMed] [Google Scholar]
+
+204. Shepherd JA, Heymsfield SB, Norris SA, Redman LM, Ward LC, Slater C. Measuring body composition in low-resource settings across the life course. Obesity (Silver Spring) 2016;24:985–988. [PMC free article] [PubMed] [Google Scholar]
+
+205. Moore FD, Haley HB, Bering EA Jr, Brooks L, Edelman IS. Further observations on total body water. II. Changes of body composition in disease. Surg Gynecol Obstet. 1952;95:155–180. [PubMed] [Google Scholar]
+
+206. Lee J, de Louw E, Niemi M, Nelson R, Mark RG, Celi LA, Mukamal KJ, Danziger J. Association between fluid balance and survival in critically ill patients. J Intern Med. 2015;277:468–477. [PMC free article] [PubMed] [Google Scholar]
+
+207. Kalantari K, Chang JN, Ronco C, Rosner MH. Assessment of intravascular volume status and volume responsiveness in critically ill patients. Kidney Int. 2013;83:1017–1028. [PubMed] [Google Scholar]
+
+208. Sherlock S. Diseases of the liver and the biliary system. 4th ed, 2nd printing. Oxford: Blackwell; 1969. p. chapter 7, 151. [Google Scholar]
+
+209. Peters JP. The role of sodium in the production of edema. N Engl J Med. 1948;239:353–362. [PubMed] [Google Scholar]
+
+210. Schrier RW. Decreased effective blood volume in edematous disorders: what does this mean? J Am Soc Nephrol. 2007;18:2028–2031. [PubMed] [Google Scholar]
+
+211. Schalekamp MA, Man in’t Veld AJ, Wenting GJ. The second Sir George Pickering memorial lecture. What regulates whole body autoregulation? Clinical observations. J Hypertens. 1985;3:97–108. [PubMed] [Google Scholar]
+
+212. Blake TR. A theoretical view of interstitial fluid pressure--volume measurements. Microvasc Res. 1989;37:178–187. [PubMed] [Google Scholar]
+
+213. Schrier RW. Body fluid volume regulation in health and disease: a unifying hypothesis. Ann Intern Med. 1990;113:155–159. [PubMed] [Google Scholar]
+
+214. Kang KW, Heo ST, Han SH, Park YG, Park HS. Systemic capillary leak syndrome induced by influenza type A infection. Clin Exp Emerg Med. 2014;1:126–129. [PMC free article] [PubMed] [Google Scholar]
+
+215. Norsk P, Epstein M. Manned space flight and the kidney. Am J Nephrol. 1991;11:81–97. [PubMed] [Google Scholar]
+
+216. Smith SM, Krauhs JM, Leach CS. Regulation of body fluid volume and electrolyte concentrations in spaceflight. Adv Space Biol Med. 1997;6:123–165. [PubMed] [Google Scholar]
+
+217. Drummer C, Gerzer R, Baisch F, Heer M. Body fluid regulation in micro-gravity differs from that on Earth: an overview. Pflugers Arch. 2000;441:R66–R72. [PubMed] [Google Scholar]
+
+218. Epstein M. Renal effects of head-out water immersion in man: implications for an understanding of volume homeostasis. Physiol Rev. 1978;58:529–581. [PubMed] [Google Scholar]
+
+219. Marik PE, Cavallazzi R, Vasu T, Hirani A. Dynamic changes in arterial waveform derived variables and fluid responsiveness in mechanically ventilated patients: a systematic review of the literature. Crit Care Med. 2009;37:2642–2647. [PubMed] [Google Scholar]
+
+220. Levy EM, Viscoli CM, Horwitz RI. The effect of acute renal failure on mortality. A cohort analysis. JAMA. 1996;275:1489–1494. [PubMed] [Google Scholar]
+
+221. Ricci Z, Cruz D, Ronco C. The RIFLE criteria and mortality in acute kidney injury: A systematic review. Kidney Int. 2008;73:538–546. [PubMed] [Google Scholar]
+
+222. Joannidis M, Druml W, Forni LG, Groeneveld AB, Honore P, Oudemans-van Straaten HM, Ronco C, Schetz MR, Woittiez AJ; Critical Care Nephrology Working Group of the European Society of Intensive Care Medicine. Prevention of acute kidney injury and protection of renal function in the intensive care unit. Expert opinion of the Working Group for Nephrology, ESICM. Intensive Care Med. 2010;36:392–411. [PubMed] [Google Scholar]
+
+223. Matejovic M, Ince C, Chawla LS, Blantz R, Molitoris BA, Rosner MH, Okusa MD, Kellum JA, Ronco C; ADQI XIII Work Group. Renal Hemodynamics in AKI: In Search of New Treatment Targets. J Am Soc Nephrol. 2016;27:49–58. [PMC free article] [PubMed] [Google Scholar]
+
+224. Rosner MH, Ostermann M, Murugan R, Prowle JR, Ronco C, Kellum JA, Mythen MG, Shaw AD; ADQI XII Investigators Group. Indications and management of mechanical fluid removal in critical illness. Br J Anaesth. 2014;113:764–771. [PubMed] [Google Scholar]
+
+225. Jacob R, Dierberger B, Kissling G. Functional significance of the Frank-Starling mechanism under physiological and pathophysiological conditions. Eur Heart J. 1992;13 Suppl E:7–14. [PubMed] [Google Scholar]
+
+226. Sergi G, Lupoli L, Volpato S, Bertani R, Coin A, Perissinotto E, Calliari I, Inelmen EM, Busetto L, Enzi G. Body fluid distribution in elderly subjects with congestive heart failure. Ann Clin Lab Sci. 2004;34:416–422. [PubMed] [Google Scholar]
+
+227. Friedberg CK. Fluid and electrolyte disturbances in heart failure and their treatment. Circulation. 1957;16:437–460. [PubMed] [Google Scholar]
+
+228. Gheorghiade M, Filippatos G, De Luca L, Burnett J. Congestion in acute heart failure syndromes: an essential target of evaluation and treatment. Am J Med. 2006;119:S3–S10. [PubMed] [Google Scholar]
+
+229. Schrier RW, Bansal S. Pulmonary hypertension, right ventricular failure, and kidney: different from left ventricular failure? Clin J Am Soc Nephrol. 2008;3:1232–1237. [PMC free article] [PubMed] [Google Scholar]
+
+230. Stevenson LW; ESCAPE and COMPASS trials. Theodore E. Woodward Award: Coming in out of the rain. Relieving congestion in heart failure. Trans Am Clin Climatol Assoc. 2009;120:177–187. [PMC free article] [PubMed] [Google Scholar]
+
+231. Yancy CW, Jessup M, Bozkurt B, Butler J, Casey DE Jr, Colvin MM, Drazner MH, Filippatos GS, Fonarow GC, Givertz MM, Hollenberg SM, Lindenfeld J, Masoudi FA, McBride PE, Peterson PN, Stevenson LW, Westlake C. 2017 ACC/AHA/HFSA Focused Update of the 2013 ACCF/AHA Guideline for the Management of Heart Failure: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Failure Society of America. J Card Fail. 2017;23:628–651. [PubMed] [Google Scholar]
+
+232. Valle R, Aspromonte N, Milani L, Peacock FW, Maisel AS, Santini M, Ronco C. Optimizing fluid management in patients with acute decompensated heart failure (ADHF): the emerging role of combined measurement of body hydration status and brain natriuretic peptide (BNP) levels. Heart Fail Rev. 2011;16:519–529. [PMC free article] [PubMed] [Google Scholar]
+
+233. Di Somma S, De Berardinis B, Bongiovanni C, Marino R, Ferri E, Alfei B. Use of BNP and bioimpedance to drive therapy in heart failure patients. Congest Heart Fail. 2010;16 Suppl 1:S56–S61. [PubMed] [Google Scholar]
+
+234. Brachmann J, Böhm M, Rybak K, Klein G, Butter C, Klemm H, Schomburg R, Siebermair J, Israel C, Sinha AM, et al. Fluid status monitoring with a wireless network to reduce cardiovascular-related hospitalizations and mortality in heart failure: rationale and design of the OptiLink HF Study (Optimization of Heart Failure Management using OptiVol Fluid Status Monitoring and CareLink) Eur J Heart Fail. 2011;13:796–804. [PMC free article] [PubMed] [Google Scholar]
+
+235. Böhm M, Drexler H, Oswald H, Rybak K, Bosch R, Butter C, Klein G, Gerritse B, Monteiro J, Israel C, et al. Fluid status telemedicine alerts for heart failure: a randomized controlled trial. Eur Heart J. 2016;37:3154–3163. [PubMed] [Google Scholar]
+
+236. Ronco C, Kaushik M, Valle R, Aspromonte N, Peacock WF 4th. Diagnosis and management of fluid overload in heart failure and cardio-renal syndrome: the “5B” approach. Semin Nephrol. 2012;32:129–141. [PubMed] [Google Scholar]
+
+237. Jambrik Z, Monti S, Coppola V, Agricola E, Mottola G, Miniati M, Picano E. Usefulness of ultrasound lung comets as a nonradiologic sign of extravascular lung water. Am J Cardiol. 2004;93:1265–1270. [PubMed] [Google Scholar]
+
+238. Colin-Ramirez E, Ezekowitz JA. Salt in the diet in patients with heart failure: what to recommend. Curr Opin Cardiol. 2016;31:196–203. [PubMed] [Google Scholar]
+
+239. Nijst P, Verbrugge FH, Grieten L, Dupont M, Steels P, Tang WHW, Mullens W. The pathophysiological role of interstitial sodium in heart failure. J Am Coll Cardiol. 2015;65:378–388. [PubMed] [Google Scholar]
+
+240. Ponikowski P, Voors AA, Anker SD, Bueno H, Cleland JGF, Coats AJS, Falk V, González-Juanatey JR, Harjola VP, Jankowska EA, et al. 2016 ESC Guidelines for the Diagnosis and Treatment of Acute and Chronic Heart Failure. Rev Esp Cardiol (Engl Ed) 2016;69:1167. [PubMed] [Google Scholar]
+
+241. Bichet DG, Groves BG, Schrier RW. Effect of head-out water immersion on hepatorenal syndrome. Am J Kidney Dis. 1984;3:258–263. [PubMed] [Google Scholar]
+
+242. Durand F, Graupera I, Ginès P, Olson JC, Nadim MK. Pathogenesis of Hepatorenal Syndrome: Implications for Therapy. Am J Kidney Dis. 2016;67:318–328. [PubMed] [Google Scholar]
+
+243. Rzouq F, Alahdab F, Olyaee M. New insight into volume overload and hepatorenal syndrome in cirrhosis, “the hepatorenal reflex hypothesis” Am J Med Sci. 2014;348:244–248. [PubMed] [Google Scholar]
+
+244. Ginès P, Schrier RW. Renal failure in cirrhosis. N Engl J Med. 2009;361:1279–1290. [PubMed] [Google Scholar]
+
+245. Licata A, Mazzola A, Ingrassia D, Calvaruso V, Cammà C, Craxì A. Clinical implications of the hyperdynamic syndrome in cirrhosis. Eur J Intern Med. 2014;25:795–802. [PubMed] [Google Scholar]
+
+246. Tsiaoussis GI, Assimakopoulos SF, Tsamandas AC, Triantos CK, Thomopoulos KC. Intestinal barrier dysfunction in cirrhosis: Current concepts in pathophysiology and clinical implications. World J Hepatol. 2015;7:2058–2068. [PMC free article] [PubMed] [Google Scholar]
+
+247. Acevedo JG, Cramp ME. Hepatorenal syndrome: Update on diagnosis and therapy. World J Hepatol. 2017;9:293–299. [PMC free article] [PubMed] [Google Scholar]
+
+248. Schrier RW, Shchekochikhin D, Ginès P. Renal failure in cirrhosis: prerenal azotemia, hepatorenal syndrome and acute tubular necrosis. Nephrol Dial Transplant. 2012;27:2625–2628. [PubMed] [Google Scholar]
+
+249. Møller S, Bendtsen F. Cirrhotic Multiorgan Syndrome. Dig Dis Sci. 2015;60:3209–3225. [PubMed] [Google Scholar]
+
+250. Nazar A, Guevara M, Sitges M, Terra C, Solà E, Guigou C, Arroyo V, Ginès P. LEFT ventricular function assessed by echocardiography in cirrhosis: relationship to systemic hemodynamics and renal dysfunction. J Hepatol. 2013;58:51–57. [PubMed] [Google Scholar]
+
+251. Adebayo D, Morabito V, Davenport A, Jalan R. Renal dysfunction in cirrhosis is not just a vasomotor nephropathy. Kidney Int. 2015;87:509–515. [PMC free article] [PubMed] [Google Scholar]
+
+252. Allegretti AS, Ortiz G, Wenger J, Deferio JJ, Wibecan J, Kalim S, Tamez H, Chung RT, Karumanchi SA, Thadhani RI. Prognosis of Acute Kidney Injury and Hepatorenal Syndrome in Patients with Cirrhosis: A Prospective Cohort Study. Int J Nephrol. 2015;2015:108139. [PMC free article] [PubMed] [Google Scholar]
+
+253. Ariza X, Solà E, Elia C, Barreto R, Moreira R, Morales-Ruiz M, Graupera I, Rodríguez E, Huelin P, Solé C, et al. Analysis of a urinary biomarker panel for clinical outcomes assessment in cirrhosis. PLoS One. 2015;10:e0128145. [PMC free article] [PubMed] [Google Scholar]
+
+254. Huggins JT, Doelken P, Walters C, Rockey DC. Point-of-Care Echocardiography Improves Assessment of Volume Status in Cirrhosis and Hepatorenal Syndrome. Am J Med Sci. 2015 Epub ahead of print. [PubMed] [Google Scholar]
+
+255. Runyon BA. Management of adult patients with ascites due to cirrhosis: update 2012. AASLD Practice Guideline. Available from: https://www.researchgate.net/publication/301929099_Management _ofadult_patients_with_ascites_due_to_cirrhosis_Update_2012. [PubMed]
+
+256. Ge PS, Runyon BA. Treatment of Patients with Cirrhosis. N Engl J Med. 2016;375:767–777. [PubMed] [Google Scholar]
+
+257. Arab JP, Claro JC, Arancibia JP, Contreras J, Gómez F, Muñoz C, Nazal L, Roessler E, Wolff R, Arrese M, et al. Therapeutic alternatives for the treatment of type 1 hepatorenal syndrome: A Delphi technique-based consensus. World J Hepatol. 2016;8:1075–1086. [PMC free article] [PubMed] [Google Scholar]
+
+258. Facciorusso A, Chandar AK, Murad MH, Prokop LJ, Muscatiello N, Kamath PS, Singh S. Comparative efficacy of pharmacological strategies for management of type 1 hepatorenal syndrome: a systematic review and network meta-analysis. Lancet Gastroenterol Hepatol. 2017;2:94–102. [PubMed] [Google Scholar]
+
+259. Boyer TD, Sanyal AJ, Wong F, Frederick RT, Lake JR, O’Leary JG, Ganger D, Jamil K, Pappas SC; REVERSE Study Investigators. Terlipressin Plus Albumin Is More Effective Than Albumin Alone in Improving Renal Function in Patients With Cirrhosis and Hepatorenal Syndrome Type 1. Gastroenterology. 2016;150:1579–1589.e2. [PubMed] [Google Scholar]
+
+260. Nassar Junior AP, Farias AQ, D’ Albuquerque LA, Carrilho FJ, Malbouisson LM. Terlipressin versus norepinephrine in the treatment of hepatorenal syndrome: a systematic review and meta-analysis. PLoS One. 2014;9:e107466. [PMC free article] [PubMed] [Google Scholar]
+
+261. Afinogenova Y, Tapper EB. The efficacy and safety profile of albumin administration for patients with cirrhosis at high risk of hepatorenal syndrome is dose dependent. Gastroenterol Rep (Oxf) 2015;3:216–221. [PMC free article] [PubMed] [Google Scholar]
+
+262. Valerio C, Theocharidou E, Davenport A, Agarwal B. Human albumin solution for patients with cirrhosis and acute on chronic liver failure: Beyond simple volume expansion. World J Hepatol. 2016;8:345–354. [PMC free article] [PubMed] [Google Scholar]
+
+263. Yersin B, Burnier M, Magnenat P. Improvement of renal failure with repeated head-out water immersions in patients with hepatorenal syndrome associated with alcoholic hepatitis. Am J Nephrol. 1995;15:260–265. [PubMed] [Google Scholar]
+
+264. Ge PS, Runyon BA. Role of plasma BNP in patients with ascites: advantages and pitfalls. Hepatology. 2014;59:751–753. [PubMed] [Google Scholar]
+
+265. Madden AM, Morgan MY. The potential role of dual-energy X-ray absorptiometry in the assessment of body composition in cirrhotic patients. Nutrition. 1997;13:40–45. [PubMed] [Google Scholar]
+
+266. Schloerb PR, Forster J, Delcore R, Kindscher JD. Bioelectrical impedance in the clinical evaluation of liver disease. Am J Clin Nutr. 1996;64:510S–514S. [Google Scholar]
+
+267. Panella C, Guglielmi FW, Mastronuzzi T, Francavilla A. Whole-body and segmental bioelectrical parameters in chronic liver disease: effect of gender and disease stages. Hepatology. 1995;21:352–358. [PubMed] [Google Scholar]
+
+268. Davenport A, Argawal B, Wright G, Mantzoukis K, Dimitrova R, Davar J, Vasianopoulou P, Burroughs AK. Can non-invasive measurements aid clinical assessment of volume in patients with cirrhosis? World J Hepatol. 2013;5:433–438. [PMC free article] [PubMed] [Google Scholar]
+
+269. Imamura T, Kinugawa K. Prognostic Impacts of Hyponatremia, Renal Dysfunction, and High-Dose Diuretics During a 10-Year Study Period in 4,087 Japanese Heart Failure Patients. Int Heart J. 2016;57:657–658. [PubMed] [Google Scholar]
+
+270. Price JF, Kantor PF, Shaddy RE, Rossano JW, Goldberg JF, Hagan J, Humlicek TJ, Cabrera AG, Jeewa A, Denfield SW, et al. Incidence, Severity, and Association With Adverse Outcome of Hyponatremia in Children Hospitalized With Heart Failure. Am J Cardiol. 2016;118:1006–1010. [PubMed] [Google Scholar]
+
+271. Heuman DM, Abou-Assi SG, Habib A, Williams LM, Stravitz RT, Sanyal AJ, Fisher RA, Mihas AA. Persistent ascites and low serum sodium identify patients with cirrhosis and low MELD scores who are at high risk for early death. Hepatology. 2004;40:802–810. [PubMed] [Google Scholar]
+
+272. Singer M, Deutschman CS, Seymour CW, Shankar-Hari M, Annane D, Bauer M, Bellomo R, Bernard GR, Chiche JD, Coopersmith CM, et al. The Third International Consensus Definitions for Sepsis and Septic Shock (Sepsis-3) JAMA. 2016;315:801–810. [PMC free article] [PubMed] [Google Scholar]
+
+273. Angus DC, van der Poll T. Severe sepsis and septic shock. N Engl J Med. 2013;369:840–851. [PubMed] [Google Scholar]
+
+274. Schrier RW, Wang W. Acute renal failure and sepsis. N Engl J Med. 2004;351:159–169. [PubMed] [Google Scholar]
+
+275. Swaminathan S, Rosner MH, Okusa MD. Emerging therapeutic targets of sepsis-associated acute kidney injury. Semin Nephrol. 2015;35:38–54. [PMC free article] [PubMed] [Google Scholar]
+
+276. Rudiger A, Singer M. Mechanisms of sepsis-induced cardiac dysfunction. Crit Care Med. 2007;35:1599–1608. [PubMed] [Google Scholar]
+
+277. Hoover DB, Ozment TR, Wondergem R, Li C, Williams DL. Impaired heart rate regulation and depression of cardiac chronotropic and dromotropic function in polymicrobial sepsis. Shock. 2015;43:185–191. [PMC free article] [PubMed] [Google Scholar]
+
+278. Celes MR, Prado CM, Rossi MA. Sepsis: going to the heart of the matter. Pathobiology. 2013;80:70–86. [PubMed] [Google Scholar]
+
+279. Smeding L, Plötz FB, Groeneveld AB, Kneyber MC. Structural changes of the heart during severe sepsis or septic shock. Shock. 2012;37:449–456. [PubMed] [Google Scholar]
+
+280. Gao M, Wang X, Zhang X, Ha T, Ma H, Liu L, Kalbfleisch JH, Gao X, Kao RL, Williams DL, et al. Attenuation of Cardiac Dysfunction in Polymicrobial Sepsis by MicroRNA-146a Is Mediated via Targeting of IRAK1 and TRAF6 Expression. J Immunol. 2015;195:672–682. [PMC free article] [PubMed] [Google Scholar]
+
+281. Ishihara H, Matsui A, Muraoka M, Tanabe T, Tsubo T, Matsuki A. Detection of capillary protein leakage by indocyanine green and glucose dilutions in septic patients. Crit Care Med. 2000;28:620–626. [PubMed] [Google Scholar]
+
+282. Opal SM, van der Poll T. Endothelial barrier dysfunction in septic shock. J Intern Med. 2015;277:277–293. [PubMed] [Google Scholar]
+
+283. Ince C, Mayeux PR, Nguyen T, Gomez H, Kellum JA, Ospina-Tascón GA, Hernandez G, Murray P, De Backer D; ADQI XIV Workgroup. The endothelium in sepsis. Shock. 2016;45:259–270. [PMC free article] [PubMed] [Google Scholar]
+
+284. Sánchez M, Jiménez-Lendínez M, Cidoncha M, Asensio MJ, Herrerot E, Collado A, Santacruz M. Comparison of fluid compartments and fluid responsiveness in septic and non-septic patients. Anaesth Intensive Care. 2011;39:1022–1029. [PubMed] [Google Scholar]
+
+285. Rivers E, Nguyen B, Havstad S, Ressler J, Muzzin A, Knoblich B, Peterson E, Tomlanovich M; Early Goal-Directed Therapy Collaborative Group. Early goal-directed therapy in the treatment of severe sepsis and septic shock. N Engl J Med. 2001;345:1368–1377. [PubMed] [Google Scholar]
+
+286. ARISE Investigators; ANZICS Clinical Trials Group, Peake SL, Delaney A, Bailey M, Bellomo R, Cameron PA, Cooper DJ, Higgins AM, Holdgate A, Howe BD, Webb SA, Williams P. Goal-directed resuscitation for patients with early septic shock. N Engl J Med. 2014;371:1496–1506. [PubMed] [Google Scholar]
+
+287. ProCESS Investigators, Yealy DM, Kellum JA, Huang DT, Barnato AE, Weissfeld LA, Pike F, Terndrup T, Wang HE, Hou PC, LoVecchio F, Filbin MR, Shapiro NI, Angus DC. A randomized trial of protocol-based care for early septic shock. N Engl J Med. 2014;370:1683–1693. [PMC free article] [PubMed] [Google Scholar]
+
+288. Mouncey PR, Osborn TM, Power GS, Harrison DA, Sadique MZ, Grieve RD, Jahan R, Harvey SE, Bell D, Bion JF, et al. Trial of early, goal-directed resuscitation for septic shock. N Engl J Med. 2015;372:1301–1311. [PubMed] [Google Scholar]
+
+289. Angus DC, Barnato AE, Bell D, Bellomo R, Chong CR, Coats TJ, Davies A, Delaney A, Harrison DA, Holdgate A, et al. A systematic review and meta-analysis of early goal-directed therapy for septic shock: the ARISE, ProCESS and ProMISe Investigators. Intensive Care Med. 2015;41:1549–1560. [PubMed] [Google Scholar]
+
+290. Cronhjort M, Hjortrup PB, Holst LB, Joelsson-Alm E, Mårtensson J, Svensen C, Perner A. Association between fluid balance and mortality in patients with septic shock: a post hoc analysis of the TRISS trial. Acta Anaesthesiol Scand. 2016;60:925–933. [PubMed] [Google Scholar]
+
+291. Marik PE, Linde-Zwirble WT, Bittner EA, Sahatjian J, Hansell D. Fluid administration in severe sepsis and septic shock, patterns and outcomes: an analysis of a large national database. Intensive Care Med. 2017;43:625–632. [PubMed] [Google Scholar]
+
+292. Seymour CW, Gesten F, Prescott HC, Friedrich ME, Iwashyna TJ, Phillips GS, Lemeshow S, Osborn T, Terry KM, Levy MM. Time to Treatment and Mortality during Mandated Emergency Care for Sepsis. N Engl J Med. 2017;376:2235–2244. [PMC free article] [PubMed] [Google Scholar]
+
+293. Asfar P, Meziani F, Hamel JF, Grelon F, Megarbane B, Anguel N, Mira JP, Dequin PF, Gergaud S, Weiss N, et al. High versus low blood-pressure target in patients with septic shock. N Engl J Med. 2014;370:1583–1593. [PubMed] [Google Scholar]
+
+294. Holst LB, Haase N, Wetterslev J, Wernerman J, Guttormsen AB, Karlsson S, Johansson PI, Aneman A, Vang ML, Winding R, et al. Lower versus higher hemoglobin threshold for transfusion in septic shock. N Engl J Med. 2014;371:1381–1391. [PubMed] [Google Scholar]
+
+295. Rhodes A, Evans LE, Alhazzani W, Levy MM, Antonelli M, Ferrer R, Kumar A, Sevransky JE, Sprung CL, Nunnally ME, et al. Surviving Sepsis Campaign: International Guidelines for Management of Sepsis and Septic Shock: 2016. Crit Care Med. 2017;45:486–552. [PubMed] [Google Scholar]
+
+296. Manzone TA, Dam HQ, Soltis D, Sagar VV. Blood volume analysis: a new technique and new clinical interest reinvigorate a classic study. J Nucl Med Technol. 2007;35:55–63; quiz 77, 79. [PubMed] [Google Scholar]
+
+297. Yu M, Pei K, Moran S, Edwards KD, Domingo S, Steinemann S, Ghows M, Takiguchi S, Tan A, Lurie F, et al. A prospective randomized trial using blood volume analysis in addition to pulmonary artery catheter, compared with pulmonary artery catheter alone, to guide shock resuscitation in critically ill surgical patients. Shock. 2011;35:220–228. [PubMed] [Google Scholar]
+
+298. Cameron JS. Nephrotic syndrome. Br Med J. 1970;4:350–353. [PMC free article] [PubMed] [Google Scholar]
+
+299. Cameron JS. The nephrotic syndrome and its complications. Am J Kidney Dis. 1987;10:157–171. [PubMed] [Google Scholar]
+
+300. Schrier RW. Pathogenesis of sodium and water retention in high-output and low-output cardiac failure, nephrotic syndrome, cirrhosis, and pregnancy (1) N Engl J Med. 1988;319:1065–1072. [PubMed] [Google Scholar]
+
+301. Palmer BF. Nephrotic edema--pathogenesis and treatment. Am J Med Sci. 1993;306:53–67. [PubMed] [Google Scholar]
+
+302. Brown E, Hopper J Jr, Wennesland R. Blood volume and its regulation. Annu Rev Physiol. 1957;19:231–254. [PubMed] [Google Scholar]
+
+303. Rascher W, Tulassay T, Seyberth HW, Himbert U, Lang U, Schärer K. Diuretic and hormonal responses to head-out water immersion in nephrotic syndrome. J Pediatr. 1986;109:609–614. [PubMed] [Google Scholar]
+
+304. Noddeland H, Riisnes SM, Fadnes HO. Interstitial fluid colloid osmotic and hydrostatic pressures in subcutaneous tissue of patients with nephrotic syndrome. Scand J Clin Lab Invest. 1982;42:139–146. [PubMed] [Google Scholar]
+
+305. Meltzer JI, Keim HJ, Laragh JH, Sealey JE, Jan KM, Chien S. Nephrotic syndrome: vasoconstriction and hypervolemic types indicated by renin-sodium profiling. Ann Intern Med. 1979;91:688–696. [PubMed] [Google Scholar]
+
+306. Joles JA, Willekes-Koolschijn N, Braam B, Kortlandt W, Koomans HA, Dorhout Mees EJ. Colloid osmotic pressure in young analbuminemic rats. Am J Physiol. 1989;257:F23–F28. [PubMed] [Google Scholar]
+
+307. Koot BG, Houwen R, Pot DJ, Nauta J. Congenital analbuminaemia: biochemical and clinical implications. A case report and literature review. Eur J Pediatr. 2004;163:664–670. [PubMed] [Google Scholar]
+
+308. Dorhout EJ, Roos JC, Boer P, Yoe OH, Simatupang TA. Observations on edema formation in the nephrotic syndrome in adults with minimal lesions. Am J Med. 1979;67:378–384. [PubMed] [Google Scholar]
+
+309. Koomans HA, Geers AB, vd Meiracker AH, Roos JC, Boer P, Dorhout Mees EJ. Effects of plasma volume expansion on renal salt handling in patients with the nephrotic syndrome. Am J Nephrol. 1984;4:227–234. [PubMed] [Google Scholar]
+
+310. Brown EA, Markandu ND, Sagnella GA, Jones BE, MacGregor GA. Lack of effect of captopril on the sodium retention of the nephrotic syndrome. Nephron. 1984;37:43–48. [PubMed] [Google Scholar]
+
+311. de Seigneux S, Kim SW, Hemmingsen SC, Frøkiaer J, Nielsen S. Increased expression but not targeting of ENaC in adrenalectomized rats with PAN-induced nephrotic syndrome. Am J Physiol Renal Physiol. 2006;291:F208–F217. [PubMed] [Google Scholar]
+
+312. Oliver WJ. Physiologic responses associated with steroid-induced diuresis in the nephrotic syndrome. J Lab Clin Med. 1963;62:449–464. [PubMed] [Google Scholar]
+
+313. Humphreys MH, Valentin JP, Qiu C, Ying WZ, Muldowney WP, Gardner DG. Underfill and overflow revisited: mechanisms of nephrotic edema. Trans Am Clin Climatol Assoc. 1993;104:47–59; discussion 59-60. [PMC free article] [PubMed] [Google Scholar]
+
+314. Schrier RW, Fassett RG. A critique of the overfill hypothesis of sodium and water retention in the nephrotic syndrome. Kidney Int. 1998;53:1111–1117. [PubMed] [Google Scholar]
+
+315. Ichikawa I, Rennke HG, Hoyer JR, Badr KF, Schor N, Troy JL, Lechene CP, Brenner BM. Role for intrarenal mechanisms in the impaired salt excretion of experimental nephrotic syndrome. J Clin Invest. 1983;71:91–103. [PMC free article] [PubMed] [Google Scholar]
+
+316. Kim SW, Wang W, Nielsen J, Praetorius J, Kwon TH, Knepper MA, Frøkiaer J, Nielsen S. Increased expression and apical targeting of renal ENaC subunits in puromycin aminonucleoside-induced nephrotic syndrome in rats. Am J Physiol Renal Physiol. 2004;286:F922–F935. [PubMed] [Google Scholar]
+
+317. Deschênes G, Gonin S, Zolty E, Cheval L, Rousselot M, Martin PY, Verbavatz JM, Féraille E, Doucet A. Increased synthesis and avp unresponsiveness of Na,K-ATPase in collecting duct from nephrotic rats. J Am Soc Nephrol. 2001;12:2241–2252. [PubMed] [Google Scholar]
+
+318. Stæhr M, Buhl KB, Andersen RF, Svenningsen P, Nielsen F, Hinrichs GR, Bistrup C, Jensen BL. Aberrant glomerular filtration of urokinase-type plasminogen activator in nephrotic syndrome leads to amiloride-sensitive plasminogen activation in urine. Am J Physiol Renal Physiol. 2015;309:F235–F241. [PubMed] [Google Scholar]
+
+319. Svenningsen P, Bistrup C, Friis UG, Bertog M, Haerteis S, Krueger B, Stubbe J, Jensen ON, Thiesson HC, Uhrenholt TR, et al. Plasmin in nephrotic urine activates the epithelial sodium channel. J Am Soc Nephrol. 2009;20:299–310. [PMC free article] [PubMed] [Google Scholar]
+
+320. Rondon-Berrios H. New insights in the pathophysiology of oedema in nephrotic syndrome. Nefrologia. 2011;31:148–154. [PubMed] [Google Scholar]
+
+321. Siddall EC, Radhakrishnan J. The pathophysiology of edema formation in the nephrotic syndrome. Kidney Int. 2012;82:635–642. [PubMed] [Google Scholar]
+
+322. Ray EC, Rondon-Berrios H, Boyd CR, Kleyman TR. Sodium retention and volume expansion in nephrotic syndrome: implications for hypertension. Adv Chronic Kidney Dis. 2015;22:179–184. [PMC free article] [PubMed] [Google Scholar]
+
+323. Macé C, Chugh SS. Nephrotic syndrome: components, connections, and angiopoietin-like 4-related therapeutics. J Am Soc Nephrol. 2014;25:2393–2398. [PMC free article] [PubMed] [Google Scholar]
+
+324. Bozzetto S, Piccoli A, Montini G. Bioelectrical impedance vector analysis to evaluate relative hydration status. Pediatr Nephrol. 2010;25:329–334. [PubMed] [Google Scholar]
+
+325. Jiang F, Bo Y, Cui T, Zhou Y, Li Z, Ma L, Bi Z. Estimating the hydration status in nephrotic patients by leg electrical resistivity measuring method. Nephrology (Carlton) 2010;15:476–479. [PubMed] [Google Scholar]
+
+326. Özdemir K, Mir MS, Dinçel N, Bozabali S, Kaplan Bulut İ, Yilmaz E, Sözeri B. Bioimpedance for assessing volume status in children with nephrotic syndrome. Turk J Med Sci. 2015;45:339–344. [PubMed] [Google Scholar]
+
+Articles from World Journal of Nephrology are provided here courtesy of Baishideng Publishing Group Inc
+
+Cited by other articles
+
+Links to NCBI Databases
+
+Copy Download .nbib .nbib

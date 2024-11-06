@@ -1,0 +1,113 @@
+Skip to main content
+
+An official website of the United States government Here’s how you know
+
+News Español Contact Us
+
+Equal Credit Opportunity Act Nondiscrimination Requirements
+
+NCUA LETTER TO CREDIT UNIONS
+
+NATIONAL CREDIT UNION ADMINISTRATION 1775 Duke Street, Alexandria, VA 22314
+
+22-CU-04 / February 2022
+
+Equal Credit Opportunity Act Nondiscrimination Requirements
+
+Federally Insured Credit Unions
+
+Federally Insured Credit Unions
+
+Equal Credit Opportunity Act Nondiscrimination Requirements
+
+Dear Boards of Directors and Chief Executive Officers:
+
+The Equal Credit Opportunity Act (ECOA) promotes the availability of credit to all creditworthy applicants without regard to race, color, religion, national origin, sex, marital status, or age (provided the applicant has the capacity to contract); to the fact that all or part of the applicant’s income derives from a public assistance program; or to the fact that the applicant has in good faith exercised any right under the Consumer Credit Protection Act.1 ECOA prohibits creditor practices that discriminate on the basis of any of these factors. The National Credit Union Administration (NCUA) supervises for compliance with and enforces ECOA with respect to federal credit unions that have $10 billion or less in total assets.2 Additionally, ECOA requires the NCUA to refer certain violations to the U.S. Department of Justice (DOJ).3
+
+The NCUA is committed to ensuring that all consumers have access to safe, fair, and affordable credit granted in compliance with applicable consumer protections and other requirements. The NCUA has prepared this letter to summarize general nondiscrimination requirements and signal fair lending risk areas related to marital status, age, income consideration, redlining, and indirect lending.4
+
+Discriminatory Credit Practices Defined
+
+ECOA prohibits discrimination in any aspect of a credit transaction. It applies to any extension of credit, including extensions of credit to small businesses, corporations, partnerships, and trusts. Under ECOA, a lender may not, because of a prohibited factor:
+
+Fail to provide information or services or provide different information or services about any aspect of the lending process, including credit availability, application procedures, or lending standards;
+
+Discourage or selectively encourage applicants with respect to inquiries about or applications for credit;
+
+Refuse to extend credit or use different standards in determining whether to extend credit;
+
+Vary the terms of credit offered, including the amount, interest rate, duration, or type of loan;
+
+Use different standards to evaluate collateral;
+
+Treat a borrower differently in servicing a loan or invoking default remedies; or
+
+Use different standards for pooling or packaging a loan in the secondary market.
+
+A lender may not express, orally or in writing, a preference based on prohibited factors or indicate that it will treat applicants differently on a prohibited basis. A lender may not discriminate on a prohibited basis because of the characteristics of:
+
+An applicant, prospective applicant, or borrower;
+
+A person associated with an applicant, prospective applicant, or borrower (for example, a co-applicant, spouse, business partner, or live-in aide); or
+
+The present or prospective occupants of either the property to be financed or the characteristics of the neighborhood or other area where property to be financed is located.
+
+Disparate treatment occurs when a lender treats a credit applicant or prospective applicant differently based on one of the prohibited bases defined in ECOA. The existence of illegal disparate treatment may be established either by statements, policies, or guidelines revealing that a lender explicitly considered prohibited factors, or by differences in treatment that are not fully explained by legitimate nondiscriminatory factors. It does not require showing that the treatment was motivated by prejudice or a conscious intention to discriminate against a person beyond the difference in treatment itself.
+
+The following are fair lending risk areas that credit unions should be aware of.
+
+Applicant Marital Status
+
+Except as otherwise permitted or required by law, a creditor must evaluate married and unmarried applicants using the same standards. In evaluating joint applicants, a creditor cannot treat applicants differently based on the existence, absence, or likelihood of a marital relationship between the parties. Further, a creditor generally cannot require the signature of an applicant’s spouse or other person, other than a joint applicant, on any credit instrument if an applicant qualifies under the creditor’s standards of creditworthiness for the amount and terms of the credit requested. If, under a creditor’s standards of creditworthiness, the personal liability of an additional party is necessary to support the credit requested, a creditor may request a cosigner, guarantor, endorser, or similar party. The applicant’s spouse may serve as an additional party, but the creditor cannot require that a spouse be the additional party.
+
+A creditor may consider an applicant’s or joint applicant’s marital status to determine the creditor’s rights and remedies applicable to a particular extension of credit. For example, in a secured transaction that involves real property, a creditor can take into account whether state law gives an applicant’s spouse an interest in the property being offered as collateral. If it does, a creditor may require the spouse’s signature on any instrument necessary under applicable state law to make the property available to satisfy the debt in the event of default. A creditor’s consideration of state property laws that affect creditworthiness (directly or indirectly) does not constitute unlawful discrimination under ECOA.
+
+A common marital status discrimination violation involves risk-based pricing practices. When two applicants or signers are involved in a lending transaction, a lending policy cannot provide for different pricing guidelines based solely on applicants’ or signers’ marital status, in violation of ECOA. For example, when two applicants are involved, a credit union cannot price loans based on the higher of the two applicants’ credit scores when they are married but based on the primary applicant’s credit score when the applicants are unmarried.
+
+Except as permitted, a creditor cannot take into account an applicant’s age, provided the applicant has the capacity to enter into a binding contract. Age discrimination violations in credit unions typically involve automatic loan approval systems and guidelines. A credit union cannot disqualify a loan applicant for automatic loan approval based on the applicant’s age, provided the applicant is of legal age to enter into a binding contract, even if the credit union subsequently approves the application following a manual review of the application file. Credit unions using automated underwriting systems should ensure the system’s settings comply with ECOA’s requirements and do not result in age discrimination.
+
+In any system of evaluating creditworthiness, a creditor may consider the age of an elderly applicant (age 62 or older) when such age is used to favor the elderly applicant in extending credit.
+
+A creditor may use an applicant’s age as a predictive variable if the age of an elderly applicant is not assigned a negative factor or value and the creditor is using an empirically derived, demonstrably and statistically sound, credit-scoring system. To qualify as an empirically derived, demonstrably and statistically sound, credit-scoring system, the system must be:5
+
+Based on data derived from an empirical comparison of sample groups or the population of creditworthy and non-creditworthy applicants who applied for credit within a reasonable preceding period of time;
+
+Developed for the purpose of evaluating the creditworthiness of applicants with respect to the legitimate business interests of the creditor using the system (including, but not limited to, minimizing bad debt losses and operating expenses in accordance with the creditor’s business judgment);
+
+Developed and validated using accepted statistical principles and methodology; and
+
+Revalidated periodically by the use of appropriate statistical principles and methodology and adjusted as necessary to maintain predictive ability.
+
+In a judgmental system of evaluating creditworthiness (one that does not meet the definition of an empirically derived, demonstrably and statistically sound, credit-scoring system), a creditor cannot decide whether to extend credit or set the terms and conditions of credit based on age or information related exclusively to age. A creditor may consider age or age-related information only for the purpose of evaluating other pertinent elements of creditworthiness that are drawn from the particular facts and circumstances concerning the applicant. For example, while a creditor cannot reject an application or terminate an account because an applicant is 60 years old, a creditor may consider the applicant’s occupation and length of time to retirement to determine whether the applicant’s income (including retirement income) will support the extension of credit to its maturity.
+
+Income Consideration
+
+Creditors may not discount or exclude from consideration the income of an applicant or the spouse of an applicant because of a prohibited basis or because the income is derived from part-time employment or is an annuity, pension, or other retirement benefit.6 For example, creditors are not permitted to treat women on maternity leave as though they are unemployed for underwriting purposes. Similarly, creditors must consider public assistance and retirement income fully in the underwriting process. However, a creditor may consider the amount and probable continuance of any income in evaluating an applicant’s creditworthiness.
+
+“Redlining,” as defined by DOJ, is an illegal practice in which lenders avoid providing services to individuals living in communities of color because of the race or national origin of the people who live in those communities. Credit unions, especially those with fields of membership defined by, or partially defined by, geography, such as community charters and underserved areas, must ensure they provide equal access to credit in the areas defined by their fields of membership. Reviews to determine if a credit union is providing equal access to credit can include statistical analyses of the credit union’s lending within its service area(s), analyses of service locations and placement of mortgage loan officers, and analyses of marketing and advertising.
+
+Credit unions with indirect lending programs use various methods to compensate automobile dealers for loan transactions. For example, some credit unions compensate dealers in their networks using a flat fee or flat percentage per transaction. Some credit unions allow dealers to establish their own compensation by increasing the interest rate above the credit union “buy rate” on a discretionary basis, within an established limit.7 Some credit unions may use a combination of flat fees, flat percentages, and discretionary markups.
+
+Discretionary markups allow a dealer to affect the cost of financing on an individual and discretionary basis. For this reason, the use of discretionary markups presents fair lending risks not usually associated with flat fee or flat percentage compensation structures. Credit unions that permit discretionary markups should ensure their fair lending compliance management systems are sufficiently robust to enable the credit union to measure and address prohibited basis pricing disparities.
+
+For more information on managing compliance risks, see NCUA Letter to Credit Unions, 17-CU-02, Risk-Focused Examinations and Compliance Risk. For information on fair lending risk factors, including compliance program risk factors and overt indicators of discrimination, see the Interagency Fair Lending Examination Procedures.
+
+If you have any questions about federal fair lending regulations, please contact the NCUA’s Office of Consumer Financial Protection at ComplianceMail@ncua.gov.
+
+Todd M. Harper Chairman
+
+1 15 U.S.C. § 1691 – 1691f. Regulation B, found at 12 C.F.R. Part 1002, implements ECOA.
+
+2 15 U.S.C. § 1691c(a) and 12 U.S.C. § 5515(a). The Federal Trade Commission enforces ECOA with respect to state-chartered credit unions. 15 U.S.C. § 1691c(c).
+
+3 15 U.S.C. § 1691e(g). ECOA requires the NCUA to refer matters to the DOJ when there is reason to believe a federal credit union has engaged in a pattern or practice of illegal discrimination. In 1996, the DOJ provided guidance to federal banking regulators, including the NCUA, on Identifying Lender Practices that May Form the Basis of a Pattern or Practice Referral to the Department of Justice.
+
+4 For more information, see the Compliance Management section of the NCUA’s Federal Consumer Financial Protection Guide.
+
+5 12 C.F.R. § 1002.2(p).
+
+6 12 C.F.R. § 1002.6(b)(5).
+
+7 The “buy rate” is the minimum interest rate at which a lender is willing to make a loan when a consumer applies for dealer-arranged financing.
+
+Open/Close Alternative Text

@@ -1,0 +1,221 @@
+Explainer: What is the “Digital Welfare State”?
+
+Explainer: What is the “Digital Welfare State”?
+
+By Jonathan McCully, 27th April 2020
+
+Over the past decade, governments across the globe have adopted strategies to transform public services through technology.
+
+One priority area for these strategies has been the “welfare state,” with digital tools being rolled out in this sector with minimal public debate or accountability.
+
+These technologies, many of which are powered by machine learning and automated decision-making systems, turn the needs of the most vulnerable in our society into numbers and variables. Poverty and vulnerability are reduced to problems that can be “solved” or “fixed” by technological innovation.
+
+From the implementation of these strategies has emerged the “digital welfare state”.
+
+At the Digital Freedom Fund, we have been exploring how strategic litigation could be engaged to prevent, remedy and safeguard against human rights violations caused by the “digital welfare state”. This year, DFF will work towards co-developing a litigation strategy on the topic in consultation with relevant organisations and stakeholders. If you would be interested in helping us with this work, we would very much welcome your input and involvement.
+
+Poverty and vulnerability are reduced to problems that can be “solved” or “fixed” by technological innovation
+
+In order to ascertain the parameters of such a litigation strategy, it is crucial that we comprehend more concretely what falls within the “digital welfare state.”
+
+To aid this process, DFF has tried to distil into a visualisation the different components of the concept based on conversations we have had with digital rights organisations, academics, and welfare rights groups. This blog highlights some of the terms and concepts mapped out on the visualisation.
+
+What is the Welfare State?
+
+In order to grasp the implications of the “digital welfare state,” it is useful to take a step back and first define and determine the scope of the “welfare state” itself.
+
+The term “welfare state” is a catch-all, and sometimes contentious, term used to describe policies, programmes and practices that are aimed at providing social protection to individuals. It is a fundamental dimension of modern government, and it is ultimately to the benefit of everyone in society.
+
+Misinformation, myths and misunderstandings around the term have led to it being narrowly applied to describe those aspects of social protection that are politically controversial and least popular (e.g. “handouts,” “dependency,” “doles,” etc.).
+
+In reality, it encompasses a broad range of activities and measures that make up the “social safety net” that allows all individuals to benefit from minimum standards of health, social well-being, and economic security. In the visualisation, a number of these are highlighted:
+
+Social Security & Monetary Assistance: This is perhaps the aspect of the “welfare state” that immediately comes to mind, often because it is the area that garners most media and political attention. It is often viewed in a narrow sense as non-contributory means-tested relief (e.g. food stamps, jobseekers’ allowance, disability benefits). However, the “welfare state” also includes other insurance-based or contributory forms of financial assistance (e.g. social security, national insurance, health insurance, pensions), which help protect individuals against the risk of losing earnings by reason of unemployment, poor health, and old age. Some monetary assistance can also support access to education (e.g. student stipends) and access to justice (e.g. legal aid).
+
+Health and Social Care: In some countries, health and social care also falls within the umbrella of the “welfare state.” These are publicly funded services aimed at treating those with ill health and medical conditions, as well as providing physical, emotional and social support to the most vulnerable members of our society. It also includes government services aimed at safeguarding vulnerable children and adults.
+
+Employment Assistance (or Access to Employment): As well as providing monetary assistance to those looking for employment, some governments also provide additional services aimed at getting unemployed individuals into work. This may be through the provision of training and development courses, or programmes that rely on a combination of job search obligations and assistance. At a macro level, governments can also promote employment through their role in economic governance, shaping markets and promoting growth.
+
+Access to Housing: This involves the provision of services facilitating access to housing and shelter to those in need, for example through social housing programmes. These can be services aimed at those who are homeless, but in some jurisdictions the availability of social housing is not necessarily limited to the low-paid or unemployed.
+
+Access to Education: The most common type of education-related welfare policy is the public provision of basic education, including through state-subsidised tertiary level education. However, access to education can also be facilitated by other public services, such as public libraries.
+
+The Rise of Digitisation
+
+It is difficult to find any aspect of the welfare state untouched by digital transformation in recent years, from online application forms to algorithms that profile applicants for certain kinds of support.
+
+It is difficult to find any aspect of the welfare state untouched by digital transformation
+
+Governments argue that these digital tools can increase efficiency and transparency, save money for taxpayers, and increase overall well-being.
+
+However, as has been observed by the UN Special Rapporteur on extreme poverty and human rights, Professor Philip Alston, the rise of digitisation has been accompanied by considerable reductions in welfare budgets, the introduction of demanding and intrusive forms of conditionality, the processing of huge quantities of personal and sensitive data, and the obfuscation of critical decision-making processes.
+
+Furthermore, as has been observed by Virginia Eubanks in her seminal book on the topic Automating Inequality, data collection in the welfare context often reinforces the marginality of those accessing public benefits by targeting them for extra scrutiny and suspicion.
+
+Furthermore, this data-driven regime is used to constrict opportunities, demobilise political organising, limit movement, and undermine human rights.
+
+Data collection in the welfare context often reinforces the marginality of those accessing public benefits by targeting them for extra scrutiny and suspicion
+
+Looking at welfare provision on a more granular level, where are we seeing increased digitisation and the rise of hi-tech tools?
+
+Identity Verification
+
+Establishing a person’s identity is a central part of social protection provision.
+
+However, in recent years, there has been a move from paper and/or plastic forms of ID towards digital identity systems. A number of benefits have been highlighted by those in favour of digital IDs, from improving access to welfare services for some individuals, to savings for citizens and efficiency.
+
+However, others have raised concerns about the privacy and (cyber)security implications of digital IDs – particularly as governments are pushing for the inclusion of more categories of data, and are utilising more intrusive technologies, when rolling out these systems.
+
+Application and Communications
+
+There is a drive for all aspects of the welfare application process, including interactions and communications between applicants and welfare authorities, to be done through online and digital portals.
+
+Human contact is increasingly being replaced by chatbots and websites. Following his visit to the UK, Philip Alston observed that the “British welfare state is gradually disappearing behind a webpage and an algorithm, with significant implications for those living in poverty.”
+
+It substitutes human discretion and diligence with inflexible rule-based code and performance metrics
+
+He highlighted the difficulties this posed for certain individuals, particularly those with limited access to the internet and a lack of digital literacy skills. These digital systems can also be confusing, opaque and error prone, making it difficult to understand how decisions are made and challenge those that are incorrectly reached.
+
+Furthermore, by replacing human contact with digital alternatives, it dehumanises the process of providing vital support to those most vulnerable and in need. It substitutes human discretion and diligence with inflexible rule-based code and performance metrics.
+
+As has been observed by Lupita Svensson, a senior lecturer at Lund University’s School of Social Work, “the legal text [in Sweden] about financial aid gave social workers a great deal of room to manoeuvre, since the law was saying that you couldn’t generalise. When this law is converted to code, it becomes clear that social work has changed. By converting law to software, the nature of financial aid changes, as you can’t maintain the same individual assessments as before.” She has also noted that many caseworkers view the increased automation as a threat to their own profession and livelihoods as well.
+
+Eligibility and Needs Assessments
+
+The two decision-making processes in social protection provision that are increasingly digitised are eligibility and needs assessments.
+
+The first of these decision-making processes is focused on whether an individual is entitled to social protection in the first place. In Finland, for example, automated systems are used to check whether information provided by an applicant is sufficient, valid and trustworthy, as well as whether other benefits affect or are affected by the benefit applied for.
+
+Faulty eligibility decisions caused by a glitch in the system or incorrect data can have a devastating impact on those who need access
+
+Faulty eligibility decisions caused by a glitch in the system or incorrect data can have a devastating impact on those who need access to essential services.
+
+In India, the government has rolled out a 12- digit unique identification number, Aadhaar, that is linked to biometric and demographic data. It is reportedly the world’s largest biometric ID system, and it is used to manage access to welfare support such as food rationing.
+
+The system has been known to frequently suffer from technical difficulties and errors preventing people from accessing welfare they are otherwise entitled to and, in some extreme instances, this has resulted in starvation-related deaths. For example, last year, a man in Dumka, Jharkhand passed away after his food rations were stopped because his fingerprint was failing to register on the system.
+
+In some extreme instances, this has resulted in starvation-related deaths
+
+Despite the 2018 judgment of the Indian Supreme Court broadly upholding the constitutionality of Aadhaar in the context of welfare provision, there is ongoing public interest litigation before the Supreme Court challenging the mandatory use of the Aadhaar authentication method when distributing food rations.
+
+The second common type of decision-making process in social protection provision is the needs assessment. This is the process whereby welfare authorities try to determine what kind of support or assistance an individual might need based on their current circumstances.
+
+Human assessment is increasingly being replaced by inscrutable algorithmic and statistical models that process individuals’ data to assess what their welfare needs might be. These models produce profiles or scores that are then used to determine what assistance or services should be provided to the individual.
+
+This switch from human assessment to digital has resulted in many arbitrary and unfair results, leaving individuals and families in dangerous and precarious conditions. In Arkansas, for example, many low-income individuals living with disabilities noticed drastic cuts had been made to their Medicaid attendant care hours after needs assessments, which had previously been carried out by trained nurses, were conducted by a secret algorithm.
+
+Calculation, Payments and Matching
+
+As well as assessing an individual’s needs, computer programs are also relied on to calculate and pay benefits to welfare recipients with little or no human involvement.
+
+The Spanish Public Employment Service, for example, has reportedly been using an automated system to calculate unemployment benefits.
+
+In Sweden, some parental benefits and dental care subsidies are now allocated without any human intervention
+
+In the UK, automated tools have been used to calculate personal budgets for disabled individuals who qualify for direct payments instead of local authorities providing care services to them directly.
+
+In Sweden, some parental benefits and dental care subsidies are now allocated without any human intervention, while in Denmark, the provision of student stipends is almost entirely automated. A student’s online application is matched with the fact that they have been accepted into a qualifying course for such a stipend, and then the funds are transferred directly to their bank account.
+
+The means by which individuals can actually withdraw or spend their monetary assistance has similarly become more digitised and data driven, with smart debit cards being deployed by governments across the globe.
+
+Examples of this include the a2i programme in Bangladesh providing social assistance through pre-paid debit cards linked to an individual’s biometric data, and the Asylum Support Enablement (ASPEN) card in the UK that facilitates asylum seekers’ access to monetary assistance while they are awaiting a decision on their applications.
+
+Governments deploy these cards in partnership with private companies, who offer products and services to monitor and surveil welfare recipients.
+
+In the UK, for example, the ASPEN card was used to track the whereabouts of asylum seekers and penalise them for venturing out of their “authorised” cities.
+
+The ASPEN card was used to track the whereabouts of asylum seekers and penalise them for venturing out of their “authorised” cities
+
+In Maine, data that had been collected from electronic benefits transfer (EBT) cards, showing that money had been withdrawn in liquor stores and smoke shops, was used by the Governor to paint a picture that welfare recipients were defrauding taxpayers by purchasing liquor, lottery tickets and cigarettes. This fuelled reforms that placed tighter restrictions around cash withdrawals, despite the fact that the data labelled “suspicious” by the Governor only represented 0.03% of all cash withdrawals.
+
+Algorithms have also been relied on to match individuals to available welfare resources, services or assistance.
+
+One controversial example is the matching algorithms that have been used to allocate housing opportunities, and other available homeless services, on the basis of how vulnerable an individual is ranked among the homeless population. These systems have required homeless people to give up intimate details of their private lives, with some recounting that they feel like they are “giving up their human right to privacy in return for their human right to housing.”
+
+These systems have required homeless people to give up intimate details of their private lives
+
+Fraud Detection and Risk Models
+
+The rise of predictive algorithms and sophisticated risk models has prompted governments to adopt automated fraud prevention and detection tools in the welfare context.
+
+A high-profile example has been the SyRI system in the Netherlands. This involved the application of a “black box” risk calculation model to vast quantities of personal data, merged from various government bodies, for the purpose of preventing and combatting fraud in areas such as social security, tax and labour law.
+
+The risk profiles that were generated by the secret model were used to identify those deemed a higher risk of committing such fraud. As well as intruding upon welfare recipients’ private lives, the SyRI system had been shown to be consistently rolled out in poorer and more vulnerable areas. This resulted in certain communities being further stigmatised, stereotyped and subjected to increased scrutiny.
+
+The SyRI system had been shown to be consistently rolled out in poorer and more vulnerable areas
+
+Earlier this year, the District Court of the Hague overturned the legal basis for SyRI on human rights grounds.
+
+Risk models have also been relied on to identify “problem” families for attention from child services. Last year, local councils in the UK had processed the personal data of hundreds of thousands of people to construct computer models in an effort to predict child abuse and intervene before it happens.
+
+These systems have been heavily criticised for relying on highly subjective proxies, such as assessments made by caseworkers or the courts, to measure whether the system is accurately predicting child maltreatment.
+
+Furthermore, they target individuals for extra scrutiny based not on their behaviour but because they live in poverty. Virginia Eubanks refers to this phenomenon as “poverty profiling.” This is caused, in part, by the fact that the child welfare services are acting both as the provider of family support and investigator of maltreatment.
+
+Even though these services are not always means-tested, middle-class families have the option of avoiding the additional surveillance and data gathering of the child welfare services by accessing private sources for family support.
+
+Another trend in automation that has had a significant impact on welfare recipients is the use of “robo-debt” collection techniques. These systems apply data matching and algorithmic processes to claw back welfare debts from people flagged as having been overpaid by the government. Some of these “overpayments” are “zombie debts” that stretch back decades.
+
+The Australian “robo-debt” scandal exposed the fragility and harm associated with these systems
+
+The Australian “robo-debt” scandal exposed the fragility and harm associated with these systems. The automated tool, referred to as the online compliance intervention (OCI) debt recovery system, effectively shifted the onus onto vulnerable welfare recipients to prove that they did not, in fact, owe a debt to the government. A flawed process in calculating debts saw thousands of individuals receiving incorrect debt notices.
+
+Furthermore, out of date and inaccurate data saw letters being sent to welfare recipients’ old addresses, and these individuals were then penalised for their failure to respond to the correspondence.
+
+These errors and failures in the system caused significant levels of stress, anxiety and depression among many vulnerable individuals. The Australian government has admitted that aspects of the scheme were unlawful in litigation before the federal court, and is reportedly preparing to settle another ongoing class action on the programme.
+
+Jobseeker Surveillance
+
+We have seen in recent years that companies are increasingly relying on new methods for monitoring and tracking employee productivity as new workplace surveillance tools become available. Similar tools can also be seen in the jobseeker environment, where incentives and programmes are deployed to facilitate re-entry into the job market for those experiencing periods of unemployment.
+
+For example, in Belgium, the public employment service of Flanders (VDAB) has been accused of building the “Amazon of the labour market.” It has utilised algorithms to assess how people search for jobs on their website and has then used this to provide individuals with recommendations of suitable job opportunities.
+
+The data collected in this process has also been used to follow up with, and in some instances penalise, individuals who are found not to be seeking job opportunities actively enough.
+
+Help Us Complete the Picture
+
+In this blog, we have tried to sketch a picture of what the “digital welfare state” looks like.
+
+We realise that this picture is incomplete. If you have suggestions of additions or changes you would make to this visualisation, or if you want to talk to us more generally about your work on the “digital welfare state” or how you can get involved in co-creating a litigation strategy with us, please feel free to reach out to us. We would love to hear from you!
+
+Image by Markus Spiske on Unsplash
+
+An inside look into DFF’s past and future events on collective redress
+
+DFF’s New Leadership Model – redistributing decisions and power
+
+Adelaide Hirwe, Jihane Jadrane, Laurence Meyer, and Thomas Vink
+
+Energised, Inspired and Elated after our 2024 Strategic Litigation Retreat
+
+Nikita Kekana and Joel Hide
+
+Digital Freedom Fund – Summer 2024 update on new grants
+
+Building a fairer salary model together
+
+Reflexiones sobre las plataformas de trabajo y su actuar político, a propósito del reciente acuerdo para una Directiva Europea sobre su regulación
+
+Reflections on labour platforms and their political actions, in light of the recent agreement on a EU Directive to regulate them
+
+We are launching the first DFF digital rights virtual law clinic
+
+Alexandra Giannopoulou
+
+Breaking the Mould: DFF’s Journey to a New Leadership Model
+
+Digital Freedom Fund – Winter 2024 update on new grants
+
+Become a guest blogger!
+
+Digital Freedom Fund Nieuwezijds Voorburgwal 104-108 1012 SG Amsterdam The Netherlands
+
+(Registered address for post only)
+
+Interested in donating to DFF? See our funding page.
+
+Sign up for our newsletter
+
+This website is licensed under CC BY-SA 4.0. Icons by Chameleon Design, Visual Pharm, and IconBandaar Team. Illustrations by Yorgos Konstantinou, Berenice Alvarez, Laura Lopez and Cynthia Alonso. Homepage design by DFF Communications. Read our Privacy notice.
+
+This website is licensed under CC BY-SA 4.0. Icons by Chameleon Design, Visual Pharm, and IconBandaar Team. Read our Privacy notice.

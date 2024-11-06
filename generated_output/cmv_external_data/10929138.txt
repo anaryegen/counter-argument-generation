@@ -1,0 +1,345 @@
+Next Article in Journal
+
+Prediction of the Energy Self-Sufficiency Rate of Major New Renewable Energy Types Based on Zero-Energy Building Certification Cases in South Korea Next Article in Special Issue
+
+Exploring the Prevalence of Protective Measure Adoption in Mosques during the COVID-19 Pandemic in Indonesia
+
+Previous Article in Journal
+
+Fading Attraction of the Shrinking City: An Empirical Study from an Urban Resource Perspective Previous Article in Special Issue
+
+Investigating COVID-19 News before and after the Soft Lockdown: An Example from Taiwan
+
+Active Journals Find a Journal Journal Proposal Proceedings Series
+
+For Authors For Reviewers For Editors For Librarians For Publishers For Societies For Conference Organizers
+
+Open Access Policy Institutional Open Access Program Special Issues Guidelines Editorial Process Research and Publication Ethics Article Processing Charges Awards Testimonials
+
+Sciforum MDPI Books Preprints.org Scilit SciProfiles Encyclopedia JAMS Proceedings Series
+
+Overview Contact Careers News Press Blog
+
+You are accessing a machine-readable page. In order to be human-readable, please install an RSS reader.
+
+Continue Cancel clear
+
+All articles published by MDPI are made immediately available worldwide under an open access license. No special permission is required to reuse all or part of the article published by MDPI, including figures and tables. For articles published under an open access Creative Common CC BY license, any part of the article may be reused without permission provided that the original article is clearly cited. For more information, please refer to https://www.mdpi.com/openaccess.
+
+Feature papers represent the most advanced research with significant potential for high impact in the field. A Feature Paper should be a substantial original Article that involves several techniques or approaches, provides an outlook for future research directions and describes possible research applications.
+
+Feature papers are submitted upon individual invitation or recommendation by the scientific editors and must receive positive feedback from the reviewers.
+
+Editor’s Choice articles are based on recommendations by the scientific editors of MDPI journals from around the world. Editors select a small number of articles recently published in the journal that they believe will be particularly interesting to readers, or important in the respective research area. The aim is to provide a snapshot of some of the most exciting work published in the various research areas of the journal.
+
+Original Submission Date Received: .
+
+For Conference Organizers
+
+Institutional Open Access Program
+
+Special Issues Guidelines
+
+Research and Publication Ethics
+
+Article Processing Charges
+
+Sign In / Sign Up Submit
+
+Submit to this Journal Review for this Journal Propose a Special Issue
+
+► ▼ Article Menu
+
+More by Authors Links
+
+/ajax/scifeed/subscribe
+
+Altmetric share Share announcement Help format_quote Cite question_answer Discuss in SciProfiles thumb_up
+
+Find support for a specific problem in the support section of our website. Get Support
+
+Please let us know what you think of our products and services. Give Feedback
+
+Visit our dedicated information section to learn more about MDPI. Get Information clear
+
+first_page Download PDF
+
+settings Order Article Reprints
+
+Arial Georgia Verdana
+
+Open AccessCommunication
+
+COVID-19 Pandemic and Reimagination of Multilateralism through Global Health Diplomacy
+
+SciProfiles Scilit Preprints.org Google Scholar 1,
+
+SciProfiles Scilit Preprints.org Google Scholar 1,
+
+SciProfiles Scilit Preprints.org Google Scholar 2,
+
+SciProfiles Scilit Preprints.org Google Scholar 1 and
+
+SciProfiles Scilit Preprints.org Google Scholar 3,4,5,*
+
+Department of South and Central Asian Studies, School of International Studies, Central University of Punjab, Bathinda 151401, India
+
+Department of Sociology, Khalsa College, Putligarh, Amritsar 143002, India
+
+Division of Occupational Medicine, Department of Medicine, Temerty Faculty of Medicine, University of Toronto, Toronto, ON M5G 2C4, Canada
+
+Department of Public Health, Saveetha Medical College and Hospitals, Saveetha Institute of Medical and Technical Sciences, Saveetha University, Chennai 600077, India
+
+Institute of International Relations, The University of the West Indies, St. Augustine, Trinidad and Tobago
+
+Author to whom correspondence should be addressed.
+
+Sustainability 2021, 13(20), 11551; https://doi.org/10.3390/su132011551
+
+Submission received: 13 August 2021 / Revised: 25 September 2021 / Accepted: 17 October 2021 / Published: 19 October 2021
+
+(This article belongs to the Collection Public Health and Social Science on COVID-19)
+
+Download keyboard_arrow_down
+
+Download PDF Download PDF with Cover Download XML Download Epub
+
+The ongoing pandemic COVID-19 has made it very clear that no one is safe until everyone is safe. But how can everyone be safe when the pandemic has broken every nerve of the economy and put an extra burden on the already crippled healthcare systems in low-income countries? Thus, the pandemic has changed the orientation of domestic as well as global politics, with many geopolitical shifts. The exponential growing infected cases and more than four million deaths has demanded a global response in terms of multilateralism. However, declining multilateralism and the need for its reforms was a much-delayed response. Given this context, this paper aimed to link the decline of multilateralism in the face of the pandemic by highlighting various instances of its failure and success; and highlighting the need for its revival. The article critically examines and evaluates the responses of multilateralism and global health diplomacy (GHD) during the pandemic. The ongoing black swan kind of event (an unexpected event) has obligated global leadership to think in terms of the revival of multilateralism through GHD. Historically, multilateralism through GHD has been shown to play an important role in managing and combating pandemics. The article further discusses various theoretical aspects such as sovereignty and hegemonic stability theory as reasons for the failing of multilateralism. The paper concludes by emphasizing the importance of foresight in reviving multilateralism in the pursuit of a more sustainable future.
+
+Keywords: multilateralism; sovereignty; COVID-19; pandemic; global health diplomacy; vaccine diplomacy; global health
+
+COVID-19 has plunged the world into a global health crisis that has not excluded any sector of life. Incalculable losses in terms of both financial and economic factors, however, would be a misnomer. The United Nations Conference on Trade and Development (UNCTAD) report has estimated that the global economy could lose over US$ 4 trillion due to COVID-19 impacts on tourism alone [1]. This report shows how a single sector of the economy, i.e., tourism causes spillover effects on the common livelihood. With approximately 4 million deaths and tens of millions of people likely falling into extreme poverty, it makes this crisis is even more deadly for the family members of the departed souls. The health sector of every country has become vulnerable given the threatened availability, accessibility, affordability, and delivery of medical services, which were already being overburdened. The World Health Organization (WHO) reported that 90% of low-income countries were already being haunted by the shortage of frontline health workers [2]. Globalization ensures the vulnerability of any country could create a crisis worldwide, which is substantiated by recent events. No one is safe until everyone is safe, and the repercussions of this crisis will not be short-lived [3]. Furthermore, the pandemic has shown its universal characteristics impacting all aspects of life across the globe. Seeing its indelible imprints, the pandemic problem in terms of the global health crisis seems to be insurmountable. Therefore, this global health crisis compounded by the ongoing pandemic demands the global response, requiring a shift from an individual response to a multilateral approach through global health diplomacy (GHD), with a durable and extensive vision.
+
+According to Kickbusch, GHD refers to a multi-level and multi-actor negotiation processes that shapes and manage the global policy environment for health in health and non-health for a [4]. GHD, as an interdisciplinary concept, links the domains of health and international relations and addresses the needs of global health security through its binding or nonbinding instruments enforced by global governance institutions [5]. Further, Chattu et al. emphasized that GHD holds some promise of enabling “policy coherence” through the determinants of health and human security to ensure that health is seen as a global public good [6]. According to the WHO, the main goals of health diplomacy are, (1) to ensure better health security and population health, (2) to improve relations between states, (3) to commit to improving health through the involvement of a wide range of actors, and (4) to achieve outcomes that support the goals of reducing poverty and increasing equity [7]. Tagizade et al. have highlighted [8] GHD’s crucial role in addressing many of the global challenges we have witnessed in the formulation of International Health Regulations (IHRs 2005), Framework Convention of Tobacco Control (FCTC), Universal Health Care (UHC) [9], Sustainable Developmental Goals (SDGs), UN Climate Change Conference in December 2019 and most recently the COVAX Facility in 2020 to address the COVID-19 pandemic [10]. Further, the evolution of the Global Health Security Agenda (GHSA) for a safer world, the United Nations Political Declaration on the Prevention and Control of NCDs, and WHO Global Action Plan for the Prevention and Control of NCDs are some excellent examples of successful health diplomacy in the recent years [11]. Various authors and researchers of GHD have emphasized its role in promoting peace [12], improving health, peace, and well-being [13], strengthening global leadership and international cooperation [14], global coordination [15], negotiating for TRIPS waiver for COVID-19 vaccines [16], promoting vaccine equity [17] and strengthening the bonds between nations [18].
+
+The surging waves of COVID-19 have again brought into the limelight the potential role of liberal institutional approaches. One of the vital elements of this approach is the role of multilateralism and intergovernmental organizations, which treat the state/s as rational actor/s in an international political system [19]. Multilateralism is considered a liberal institutionalism approach to diplomacy. Quoting G. John Ikenberry, Rob de Wijk [20] has argued that the concept of multilateralism can be identified by five conditions that are: open trade and exchanges, rule-based relations, some sort of security cooperation, the idea that power politics can be tamed by building a stable relationship for mutual gain, and finally, the growth and spread of liberal democracy. Multilateralism is practiced as an instrumental as well as a functional approach. The instrumental approach envisages multilateralism to achieve some end, and the hegemonic stability theory can be its manifestation.
+
+In contrast to the instrumental approach, the functional approach envisages multilateralism as an institution promoting peace and mutual coexistence. The functional approach stresses a more collaborative perspective. COVID-19 has shown how a functional approach manifested as a COVAX facility, and various instrumental manifestations were seen in GHD as an important instrument of multilateralism. COVAX is co-led by the Coalition for Epidemic Preparedness Innovations (CEPI), Vaccine Alliance, and WHO, with UNICEF as a key delivery partner and PAHO as the procurement agent in the Americas. This facility aims to ensure fairer global vaccine distribution [16] and address the prevailing inequities [17]. Still, the end result can only be assessed after some time based on fulfilling its commitments to the nations [8]. The origination of multilateralism was seen after the signing of the United Nations (UN) Charter. During the celebrations of the 75th anniversary of the UN amidst the pandemic, demand has been raised for collective endeavors and shared responsibilities [21] to promote multilateralism. The multilateral forums, which were on their ebb because of “disillusionment with globalization, lackluster narratives supporting multilateralism, and the inadequacy of existing multilateral rules to meet new challenges” [22], need a surge similar to pandemic waves.
+
+Pandemic has given two opportunities: either the states can revive the receding trends of cooperation or use it as an excuse for failure. Reluctance and poor performance in achieving targets of the UN Sustainable Development Goals 2030 and Paris Climate Change commitments can easily be justified using COVID-19 as an excuse. By the same excuse, the revival of cooperation in multilateral forums can be made, e.g., the 2020 SAARC Virtual Leaders’ Summit, since the abrupt cancellation of the same in 2014. The holding of the virtual summit of the SAARC was seen “as a bolt from the blue since everyone thought SAARC was now in the coffin” [23]. This step, on the part of the South Asian countries, substantiated the cooperative element of the pandemic.
+
+Multilateralism had witnessed the most detrimental blows. During the pandemic, multilateralism has failed to reap the benefits of the functional multilateral initiatives due to the lack of global leadership. Concomitantly, the furor in the WHO working allegations towards the WHO Director-General (WHO-DG) after Donald Trump’s open letter to the WHO [24] was a major challenge for one of the major pillars of global health multilateralism. Taking forward the negotiations for Intellectual Property Rights (IPR), the temporary waive-off in the World Trade Organization (WTO) is another sign of beleaguered multilateralism. Intra-regional odds were seen during the IPR negotiations when the European Union (EU) and European nation-states held different views over the issue [25]. Several instruments which facilitate the very principles of multilateralism were targeted. For example, Medicines Sans Frontieres (MSF) said, “Since India issued Compulsory Licensing (Compulsory licensing is when a government allows someone else to produce a patented product or process without the consent of the patent owner or plans to use the patent—the protected invention itself. It is one of the flexibilities in the field of patent protection included in the WTO’s agreement on intellectual property—the TRIPS (Trade-Related Aspects of Intellectual Property Rights) Agreement) on pharmaceutical patents, the US has applied continuous pressure on India to discourage any further compulsory licensing on patented medicines.” In the WTO, the division of the developed and developing countries continued to provide a major setback to the multilateral GHD negotiations.
+
+The coordinative principle of multilateralism is illustrated by regional and intergovernmental political forums such as G7, G20, and the EU during the pandemic. This is often referred to as “club diplomacy”, where heads of states and governments’ membership are limited, with rotating presidencies like G7 and G20 Summits [4]. Several declarations were endorsed by these groups, acknowledging the collaborative response to the situation. These include the Rome Declaration by 2021, the G20 Summit with 16 principles, the first being “Support and enhance the existing multilateral health architecture” [26].‘Caris Bay Health Declaration’ by the G7 Summit 2021 [27] aims to ‘Prevent, Detect, Respond, Recover’, with principles that acknowledge the Rome Declaration. The Independent Panel for Pandemic Preparedness and Response (IPPPR) initiated by WHO suggested reforms making WHO and nation-states more responsive and restricting influences of the National Government. These all are heading toward a rule-based, transparent, and collaborative multilateralism.
+
+Several initiatives, such as COVAX, aim for worldwide access to the COVID vaccine, a joint initiative by GAVI Vaccine Alliance and WHO with an initial goal to provide two billion doses of vaccines worldwide in 2021 [28]. The WHO COVID-19 Technology Access Pool facilitates timely, equitable, and affordable access to COVID-19 health products by boosting their supply [2]. Bill and Melinda Gates Foundation was the founding partner of the GAVI vaccine alliance and has donated more than $4 bn to GAVI [28], giving it polylateral diplomacy [4] (Ilona Kickbusch, 2021). Even before the outbreak of the pandemic, several calls for reforming multilateralism were seen. From climate change issues such as rising temperatures, Australian bush fires to economic trade-offs and protectionism. COVID-19 has been the perfect opportunity to overwhelmed the state’s capacity to respond resiliently [29]. The boasting of hard power, which entails coercive force of arms, diplomacy, and economic sanctions, becomes somewhat redundant to manage the microscopic pathogen, shifting towards the “Soft Power” approach, which focuses upon the intangible force of cooperation, negotiation, and collaboration with certain quid pro quo agreements. Ghosh [29] calls to “Shift International Conversation from dilemmas of common interests to common aversions.” The Common Interest represents trade, technology, negotiations, and common aversion, avoiding common threats. Thus, the “common aversion” concept encompasses greater cooperation which seems to be more compulsive. The Coalition for Disaster Resilient Infrastructure CDRI at the UN action Summit 2019 by the Indian Prime Minister is an example of negotiation for common aversion [30]. Rising demands for more SDRs to meet the financial crunch due to the Pandemic [31] further justify the claims of multilateralism.
+
+Against this backdrop, would it be justified to say that COVID-19 has boosted multilateralism, or are these developments only short-lived? This article aims to examine the role of multilateral institutions amidst the Pandemic, its dilemma, and to suggest the way forward. This article also enlists various roadblocks to multilateralism, which are considered as a reason for its decline.
+
+Thus, the article reviews the traditional reasons for declining multilateralism and provides the shortcomings of such reasons for the global health diplomacy amidst the pandemic. The article is divided into the following sections: Section 1 provides a brief introduction on multilateralism, global health diplomacy, and the observations of negotiations during the pandemic. Section 2 examines the health negotiations at the WHO and WTO, with the need for a global response. Section 3 examines the health diplomacy in regional, intergovernmental arrangements, and the multi stakeholder’s diplomacy and initiatives, with their successes and failures. Section 4 analyzes various theoretical understandings of roadblocks to multilateralism amidst the pandemic as a multilateralism dilemma, and the need to revive health diplomacy at multilateral forums. Section 5 concludes the article with some recommendations.
+
+2. Health Negotiations by Multilaterals and Why the Need for Global Response?
+
+The World Health Organization (WHO), following the precedence of the International Sanitary Convention (ISC, 1860), became a multilateral health institution in 1948 with a substantial global mandate. It works through its various instruments such as Recommendations, Regulations, Conventions, and Agreements. It has used its constitutional mandate of adopting a global treaty only once when it adopted the Framework Convention on Tobacco Control (FCTC) which was adopted in 2003 [4]. The WHO stated its response against the pandemic claiming the adequacy of its response. The DG and Executive Director (ED) of the WHO Health Emergencies Programme have held 120 media briefings [2] as of 11 December 2020. Its initiatives, such as Open WHO and the Strategic and Technical Advisory Group on Infectious Hazards (STAG-IH), which provides open advice and analysis for WHO programs against the infection endangering the global health security, has met multiple times with constructive suggestions (WHO, 2020), making it an open and transparent institution. For the facilitation of vaccine equity, an alliance such as COVAX is crucial, which envisages the pandemic not turning into an epidemic. This initiative is the best example of public–private partnerships (PPP), making it a multi-stakeholder program, which is the only way out for every trans-national issue. The Declaration of Public Health Emergency of International Concern (PHEIC), mandated under International Health Regulations (IHR) 2005 on 30 January 2020 [2], ensured prompt actions by the states. To facilitate research over the virus, the sharing of genetic sequences to member states ensured participative action. Ensuring the synergy between the member states, WHO’s DG addressed the G20 (representing two-thirds of the world population) Leaders’ Summit (WHO, 2020). The WHO DG called for fair distribution, addressing vulnerabilities, and financing the gaps in the Access to COVID-19 Tools Accelerator (ACT-A) [2].
+
+The pandemic has uncovered various structural and functional gaps of the WHO. WHO’s most touted functional gap was its sluggish response, which created a cynical attitude against it. The response of an Independent Panel Review of the COVID-19 pandemic was astonished why the WHO waited till 30 January to declare it as a PHEIC [25]. This response gave the fugitive pathogen leeway to spread globally. Furthermore, the WHO issued the International Health Regulations (IHR), but which “Lacks the Teeth” required, given the lack of its enforceability [25]. Cynicism against the WHO had made the situation more pathetic when the regulations of the WHO were seen as politically motivated, with faulty assumptions [32]. There was a belief that travel bans did more harm than good, by delaying medical help and unfairly punishing countries [32]. The blame game and conspiracy theories began like a wildfire. the WHO is also devoid of certain powers, such as stricter and mandatory inspections without prior approval. The Organization for the Prohibition of Chemical Weapons (OPCW) ensures commitment towards inspection, unlike the WHO, which is more restrictive. Co-chair of the Independent Panel’s review of the COVID19 pandemic response, Ellen Johnson Sirleaf, said that the role of WHO increased, but the member states kept it underfinanced and underpowered to do the expected [33].
+
+The World Trade Organization WTO was the main sufferer of falling multilateralism before the pandemic. The USA made the appellate body defunct by blocking the elections, accusing the WTO of being biased in favor of developed countries [34]. After the pandemic broke out, the discourse changed without any improvement in collaborative working. Demand for using IPR’s waiver, i.e., compulsory licensing for COVID-19 vaccine by India and South Africa, again brought some drift and disruption for north–south cooperation. The flexibilities of IPRs can partly ensure the lifesaving drugs are easily and affordably available. As the pandemic demands using any of the last resorts, boosting vaccine production with resource support by the developed countries can promote faster inoculation. Ambassador Xolelwa Mlumbi-Peter, South Africa’s Permanent Representative to the WTO, had criticized the delay in discussing the waiver circular. This was seen to delay the process, and some EU countries denied the move, claiming that it may hamper the vaccine’s efficacy. Intra grouping conflicts were seen during the European Union Nation and European Parliament’s different stand on waivers [26]. The USA discovered a middle path by granting a waiver for only vaccines instead of vaccines and technology [35]. Supply shortage can only be ramped up using manufacturing hubs of developing countries, without which it is impossible [36]. Voluntary collaboration is the only way out where the resource-rich and technology-rich can cooperate. Initiatives such as the WHOs COVID Technology Access (C-TAP) is the platform for collaboration, and it also became the yardstick of hesitancy to cooperate. The patent waiver should be the “last resort kind of a solution” [37]. Failure to use this resort amidst pandemics will invite another mutation and fail liberalized multilateralism, demonstrating the rules of the Bretton Woods Institutions.
+
+3. Global Health Diplomacy and New Initiatives to Check the Multidimensional Impacts
+
+The South Asian Association for Regional Cooperation (SAARC) is the association exemplified as the failed regional association and often named as a movement in COMA. The SAARC Summit 2020, wherein the Indian PM had extended the US$ 1 million for the SAARC Emergency Fund for COVID, can be taken as a major step for controlling and combatting the pandemic [38]. This gesture was predicted as a revival of the SAARC, as the famous saying goes, “Never Miss a Crisis”, which was the best way to revive the association. However, these developments were short-lived, as the Nepali PM K.P. Oli named the virus as the “Indian Virus” [39]. The statement came after the dispute over a new map issued by Nepal. These developments were classic examples of diverting internal turmoil towards foreign policy issues such as the threat of sovereignty; this left the organization lying in limbo.
+
+The G20 Global Health Summit (2021) was hosted by Italy and the European Commission, and this step was taken very positively in the direction of GHD to address the global health crisis. The summit was important to discuss the boosting of vaccine production, inoculation, and patent waiver, which ended with the important Rome Declaration [26]. The declaration came up with the 16 mutually reinforcing principles. Broad issues were covered, such as global solidarity, reviving multilateralism, equity, efficient governance, sustained financing, etc. Compliance and implementation of IHR was another principle that illustrated the need for common guidelines. The need for cooperation in multilateralism was the major acknowledgment in the summit to make a sustainable, resilient world. However, the EU stood adamant on refusal to accept the joint waiver proposal India and South Africa put up. The EU intends to propose a “third way”, which includes easing and simplifying rules concerning vaccines export and expansion of production [26]. The Summit was not devoid of discussions of mutual concerns, but it missed bold decisions, which the global health crisis needs. And the bold decision was expected from the G-7 Summit, which was scheduled after a month of this summit.
+
+The 47th G7 Summit was held in Cornwall in the United Kingdom, which also holds the presidency of the intergovernmental organization. The grouping held 40% of the world economy and was expected to make some bold decisions and declarations. The Carris Bay Declaration came up, and the same vowed to end the pandemic and thwart the future occurrences of these health crises. The important highlights were to create surveillance radar for such pandemics and shorten their period. The declaration also focused upon the coordinated collaboration and commitments with collective defense against such threats. In a drive for faster vaccination, they vowed to donate one billion doses. The focus was also laid on reinvigorating global economies, sustainable development, gender equality, etc., which were remained as the core agendas. However, the Summit disappointed the climate activists, as they failed to fulfill the earlier commitment of US$ 100 bn for the developing countries [40]. Climate change is considered one of the pandemic’s major causes, as highlighted by Dr. David Morens (National Institute of Allergy and Infectious Diseases). He argued that deforestation, urban crowding, and wet markets for the wild game are major reasons for a pandemic. Some scholars have criticized the agenda of the Summit as it was more to counter China and its BRI by their Build Back Better World (B3W). China’s Syndrome was the cause of the coordinated response [41]. Many had seen the summit as irrelevant fripperies when there was a resource crunch for the pandemic.
+
+Realization of the emergency and the need for collaboration was manifested in new initiatives such as the COVAX facility. COVAX aims to ensure equitable access to COVID 19 vaccines, therapies, tests, and other therapeutics. The initiative is truly a multi-stakeholder alliance by GAVI Vaccine Alliance (a multi-stakeholder alliance), the WHO, the Coalition for Epidemic Preparedness Innovations (CEPI), and other corporations. The COVAX has been trying to ensure to prevent vaccine inequality from rising out of the vaccine nationalism. Vaccine nationalism arises when a country manages to secure vaccines for its citizens before sharing them with other countries. This type of nationalism is not a new one, as it was seen in 2009 during the H1N1 flu pandemic when Australia blocked the export of vaccines [42]. COVAX, a well-idealized initiative, is suffering from various shortcomings, such as the rising inequalities of vaccine distribution. Médecins Sans Frontières has called for a “drastic change of model” of COVAX aiming at vaccine equity. The various suppliers have failed to meet their targets, some lacking resources, and some overwhelmed with domestic demands, such as the Serum Institute of India, due to the exponential rise of COVID-19 cases [37]. “Less than half of one percent of total populations of COVAX countries have received at least a first dose of vaccine through COVAX,’’ said MSF’s Katie Elder, senior vaccines policy advisor. The idea has also seen ruses because of the wealthy nation’s early securing of vaccines. The failure to anticipate the rising demand for the vaccine and lack of investment in low-middle Income countries was the reason for the failure of the COVAX [36]. A report in Lancet, “A beautiful idea: how COVAX has fallen short” by Ann Aanaiya Usher, said that the initiative was based on solidarity instead of the willingness of wealthy nations [43]. The People Alliance estimated vaccine inequality for vaccines, which estimated that it would take 57 years for low-income countries to fully vaccinate their population, while the G7 could do it in only 6 months [44]. A grim picture of this inequality manifests a lack of solidarity, which may again turn an epidemic into a pandemic. According to the data available on Covid vaccine equity dashboard, a joint initiative of WHO, UNDP, and Oxford University showed 61.51% of the population in the high-income countries and 3.31% had been vaccinated in low-income countries with at least one dose of vaccine as of 22 September 2021 [45].
+
+The following graph (Figure 1) from “Our World in Data” [46] highlights the existing vaccine inequality. The Graph shows by 22 June 2021, less than 30% of the population in developing countries such as India, Mexico, Brazil has received 1 dose of vaccination, unlike the United Kingdom, Canada, with more than 60%.
+
+4. Multilateralism through the Revival of Health Diplomacy
+
+Several points have been raised in the discussion that supports the claim that health diplomacy lacks a coordinated response. The reasons for such a response could be the lack of trust towards multilateral institutions, regional or national interests clouding the global interests, power politics at global levels, the inadequacy of the institutions to address the current problems, rising nationalistic and populist tendencies in national politics, and several other reasons. These reasons can be broadly categorized into theoretical concepts such as a threat to sovereignty, hegemonic stability theory, and receding democratic values in global institutions.
+
+Sovereignty, which is a crucial element of the modern nation-state, often comes at loggerheads with global governance. The base of multilateralism was laid after World War II. Dilution of sovereignty, with the rationale of thwarting such a war, brought acceptance of an equilibrium between sovereignty and global governance; this equilibrium can be compared with the pluralistic view of sovereignty. Pluralistic sovereignty departs from the classical monistic view of sovereignty, as we find in the work of Laski [47]. Global governance in the modern era can be another influencing factor of sovereignty. Applying pluralistic sovereignty at global governance can be substantiated by the point that this governance arose out of “general will.” In a famous passage of The Social Contract, Rousseau argued, “general will” ensures legitimacy, which is the true sovereign. Rising superpower rivalry and dilution of global sovereignty for national sovereignty expedite the fall of multilateralism. Imbalances that exist in national power status make the global institutions relying on the mercy of global power equations. The WTO election blockade, threatens to halt funding to global institutions [28] and is an example of this power politics.
+
+Consideration of multilateralism as a threat to sovereignty has given rise to unilateralism and bilateralism. Unilateralism can be an easy way of declining multilateralism for developed nations to some extent. It is evident from the act of pre-booking of vaccines by developed nations, but to what extent will it be beneficial for them? Globalization is a fact which can not be refuted, and how does a country such as the USA expect to function without the resources of developing nations. The bilateral health trade deal was another implication of declining multilateralism, like the deals for vaccine exports to friendly nations. But this bilateralism comes with its own perils, which instead of strengthening sovereignty, loosens it. Bilateral vaccination exports turn into diplomatic calculations, as seen in South Asia [48]. Unilateralism or Bilateralism perils outweighs its benefits, where it makes a regional hegemon. Regional hegemon creates another divide with tighter control in the region. Sovereignty for which the nation claimed the dilution of global governance is not justified. In the domain of health, the dilution of sovereignty is a more favorable deal for everyone.
+
+Remarkable work by the famous economic historian Charles Kindleberger, Hegemonic stability theory, argued this theory was a reason for the Great Economic Depression of 1929 [49]. The absence of America and the United Kingdom created a vacuum in global hegemonic leadership, making multilateralism falter. Jeffrey D. Sachs, comparing it with the current crisis, says, “The world has reached yet another Kindleberger Moment” [49]. Backstepping America from global politics because of its “America First” policymaking is a similar situation. As listed in the above discussion, several acts of America, such as blocking of the WTO elections, withdrawing from the Paris Climate deal, threatening WHO funding, etc., are examples of this policy. Seemingly this can be another reason for falling multilateralism, but the current pandemic is more devastating as global health is at stake. It can, however, have a spillover effect on every other domain, be it economic or political. Can the global hegemon falter global governance? The answer would be clear— Yes—but is it the only way out? The answer is strong no!
+
+Geopolitics has seen a paradigm shift in the 21st century, claiming that a unipolar world would not be suitable and viable. Shifting of power balance towards the east is an evident fact with no bipolarity also. The power equations are more diffused with multipolar regional actors, with the modus vivendi structure. Modus vivendi, which allows conflicting parties to live in agreement, is best illustrated by India’s alignment in the Shanghai Cooperation Organization (SCO) and QUAD (India, USA, Australia, and Japan grouping). Vacancy of global hegemonic power exists, but it can not be the reason for declining multilateralism. Reluctance or the short-sighted approach of the global, regional powers and their grouping is the reason which legitimizes Kindleberger’s thesis. The health crisis is the most appropriate and now or never chance for the revival of multilateralism. Regional intergovernmental organizations are not at all the factor of declining multilateralism; instead, it is the training camp that inculcates the feeling of cooperation. What is needed in this hour is multi-leadership that demands its revival and enforces it. Thus, the absence of a global hegemon can be a probable reason but can not be the only one.
+
+Democratic values are the soul of multilateralism; the absence of this is one of the potential reasons for falling multilateralism. It is often confused as cooperation with democracy or the export of ideal democracy, which ruptures the whole purpose of multilateralism. Cooperation within democracy is making a homogenous world order, which hampers the value of cooperation, as it also needs heterogeneous cooperation. Germany’s forthcoming White Paper on Alliance for Multilateralism [50] enlists the values of credibility, solidarity, and inclusion of states outside the “Old West”. In the quest for making a democratic and inclusive multilateralism, the Alliance for Multilateralism ensures a liberal rule-based order instead of an association of democracies. This would result in diverse associations and become a global association for combating transnational issues like health. Democracy at multilateralism demands cooperation between all sorts of democracies and non-democracies; it will be the “diplomatic art of possible” [51].
+
+Principles of global justice is another principle that sustains multilateralism; global justice puts individuals at the center. “Individual at the prime unit of moral concern” is what Thomas Poggee has cited for global justice. Immanuel Kant’s ideas that “individual rights should take precedence over the state in International Politics” hold relevance in today’s context of vaccination inequality and the rising north-south divide. The pandemic has illustrated on several events how the multilateral institutions failed in the “categorical imperative” principle of Kant. Hesitancy in granting the IPR flexibilities was one of such failures. Examples of short-sighted self-interests becoming the norm is the reason for falling multilateralism, and the pandemic was another such event that substantiates the point. Remembering Peter Singer’s experiment of “drowning child in the pond” where everyone was ready to help the child even though it would make their clothes dirty and with other opportunity costs [52]. This experiment was an illustration of the highest obligation which one owes, and this is the ideal act which the pandemic or any other crisis demands. Multilateralism is not a problem, but its constituents and their myopic values and self-interest are. Thus, multilateralism needs the foundational basis of “categorical imperatives” of Kant, global justice as its constituent with no room for the myopic value of “ends justifying means”.
+
+The COVID-19 Pandemic has had an influence on every aspect of life, with the health sector bearing the brunt of the damage. This pandemic turned out to be devastating, with many lessons to learn and remember. It not only became a cause of action, but it also forced governments into implementing structural reforms that had been waiting for a long time. The most important lesson it taught the global diplomats was the importance of sacrificing short-term self-interest for long-term advantages. In this respect, the revival of multilateralism was an important lesson to work upon, as it was a long pending revival that was even coerced by several crises such as terrorism, climate change, and other transnational crisis. Globalization has once again become the infallible truth, considering how even after banning international flights, the infections continue to rise. This was because of the connected global value chains. And this global value chain of economic interrelation needs multilateralism for making the rule-based world order in a globalized world. It became clear that in the drive for prosperity and growth, no one can be overlooked because the essence of multilateralism is growth for all and global justice. Because of the lopsided politics that prevailed in these organizations, the functioning of multilateralism was called into doubt. Global health institutions such as WHO, which should be the crusader in fighting the pandemic have been engulfed themselves in politics. Pandemic demanded compassion from the developed nations, failure of which was inhumane as they still stressed upon the reciprocation. Past performance and decline of multilateralism were somehow justified by them as a neoliberal approach, but during the pandemic, it was the failure of the “categorical imperative”, which Kant believed is infallible.
+
+Multilateralism is not only a unanimous association of like-minded nations, but is also guided by democratic values—cooperation, compassion, and justice. At the cost of human lives, what we gained was power politics for short-sighted interests. Realism gained traction, which needed to be vehemently opposed during the pandemic. Collaborative efforts such as the COVAX facility need to be supported in letter and spirit, as it is one of the best manifestations of successful GHD. But the bitter experiences such as vaccination inequity, the reluctance of granting compulsory licensing, blame games, and the recent green passport by European Union made a death blow to multilateralism. The revival of multilateralism during the pandemic would be a revival of values. In the present era, cynicism is more popular than idealism, characterizing global diplomacy as more ‘realpolitik’.
+
+Many reasons are cited for declining multilateralism, such as the absence of a global hegemon, failure of rule-based order at multilateralism, unilateralism, etc. But the absence of the foundational principles of multilateralism in its constituting units is the sole reason for it. The lackluster approach because of myopic interests and the demand for reciprocity became the cause of failure. Demanding reciprocity between the north and south would be like refuting the concept of equal protection of the law. Citing sovereignty as the reason for reluctance in cooperation would be a bizarre argument. It would be like envisioning the existence of self at the cost of others. Furthermore, the argument of regionalism as the ground of declining multilateralism holds hollow truth because the former can strengthen and rectify the mistakes of the latter. Thus, the pandemic gave us an opportunity to act because the failure of this would be like waiting for another crisis. It is yet to be seen if flattening of the COVID-19 curve will commensurately lead to the rising of a multilateral response.
+
+Author Contributions
+
+Conceptualization, B.S. and V.K.C.; methodology, B.S. and V.K.C.; investigation, N.G., J.K. and S.S.; resources, B.S.; writing—original draft preparation, N.G., B.S., J.K., S.S. and V.K.C.; Manuscript—review and editing, V.K.C.; supervision, B.S. and V.K.C.; project administration, V.K.C. All authors have read and agreed to the published version of the manuscript.
+
+This research received no external funding.
+
+Institutional Review Board Statement
+
+Informed Consent Statement
+
+Data Availability Statement
+
+The data presented in this study are available on request from the corresponding author (V.K.C.).
+
+Conflicts of Interest
+
+The authors declare no conflict of interest.
+
+UNCTAD. COVID-19 and Tourism. 2021. Available online: https://unctad.org/news/global-economy-could-lose-over-4-trillion-due-covid-19-impact-tourism (accessed on 10 July 2021).
+
+WHO. Listings of WHO’s Response to COVID-19; WHO: Geneva, Switzerland, 2020. [Google Scholar]
+
+Sánchez-Páramo, C. COVID-19 Will Hit the Poor Hardest. Here’s What We Can Do about It. World Bank, 2020. Available online: https://blogs.worldbank.org/voices/covid-19-will-hit-poor-hardest-heres-what-we-can-do-about-it (accessed on 15 July 2021).
+
+Kickbusch, I.; Silberschmidt, G.; Buss, P. Global health diplomacy: The need for new perspectives, strategic approaches and skills in global health. Bull. World Health Organ. 2007, 85, 230–232. [Google Scholar] [CrossRef] [PubMed]
+
+Chattu, V.K. The rise of global health diplomacy: An interdisciplinary concept linking health and international relations. Indian J. Public Health 2017, 61, 134. [Google Scholar] [PubMed]
+
+Chattu, V.K.; Knight, A.; Reddy, K.S.; Aginam, O. Global health diplomacy fingerprints on human security. Int. J. Prev. Med. 2019, 10, 204. [Google Scholar] [CrossRef] [PubMed]
+
+WHO. Health Diplomacy. Available online: http://www.emro.who.int/healthtopics/healthdiplomacy/index.html (accessed on 14 July 2021).
+
+Taghizade, S.; Chattu, V.K.; Jaafaripooyan, E.; Kevany, S. COVID-19 Pandemic as an Excellent Opportunity for Global Health Diplomacy. Front. Public Health 2021, 9, 655021. [Google Scholar] [CrossRef] [PubMed]
+
+United Nations. Political Declaration of the High-Level Meeting on Universal Health Coverage: Moving Together to Build a Healthier World. 2019. Available online: https://www.un.org/pga/73/wp-content/uploads/sites/53/2019/07/FINAL-draft-UHC-Political-Declaration.pdf (accessed on 15 August 2021).
+
+Kickbusch, I.; Nikogosian, H.; Kazatchkine, M.; Kökény, M. A Guide to Global Health Diplomacy. Graduate Institute of International and Development Studies, Global Health Centre, 2021. Available online: https://www.graduateinstitute.ch/sites/internet/files/2021-02/GHC-Guide.pdf (accessed on 25 July 2021).
+
+Chattu, V.K.; Kevany, S. The need for health diplomacy in health security operations. Health Promot. Perspect. 2019, 9, 161–163. [Google Scholar] [CrossRef] [PubMed]
+
+Chattu, V.K.; Knight, W.A. Global Health Diplomacy as a Tool of Peace. Peace Rev. 2019, 31, 148–157. [Google Scholar] [CrossRef]
+
+Chattu, V.K.; Chami, G. Global Health Diplomacy Amid the COVID-19 Pandemic: A Strategic Opportunity for Improving Health, Peace, and Well-Being in the CARICOM Region—A Systematic Review. Soc. Sci. 2020, 9, 88. [Google Scholar] [CrossRef]
+
+Javed, S.; Chattu, V.K. Strengthening the COVID-19 pandemic response, global leadership, and international cooperation through global health diplomacy. Health Promot 2020, 10, 300–305. [Google Scholar]
+
+Fazal, T.M. Health Diplomacy in Pandemical Times. Int. Organ. 2020, 74, E78–E97. [Google Scholar] [CrossRef]
+
+Chattu, V.K.; Singh, B.; Kaur, J.; Jakovljevic, M. COVID-19 Vaccine, TRIPS, and Global Health Diplomacy: India’s Role at the WTO Platform. BioMed Res. Int. 2021, 2021, 6658070. [Google Scholar] [CrossRef] [PubMed]
+
+Singh, B.; Chattu, V.K. Prioritizing ‘Equity’ in COVID-19 Vaccine Distribution through Global Health Diplomacy. Health Promot. 2021, 11, 2. [Google Scholar]
+
+Mol, R.; Singh, B.; Chattu, V.K.; Kaur, J.; Singh, B. India’s Health Diplomacy as a Soft Power Tool towards Africa: Humanitarian and Geopolitical Analysis. J. Asian Afr. Stud. 2021. [Google Scholar] [CrossRef]
+
+Martin, R.O. (Ed.) The Promise of Institutionalist Theory. In International Security; The MIT Press: Cambridge, MA, USA, 1995; p. 39. Available online: https://www.uio.no/studier/emner/hf/iakh/HIS4421/h11/undervisningsmateriale/HIS4421_KeohaneMartinInstitutionalism.pdf (accessed on 14 July 2021).
+
+Rob de Wijk, J.T. Adjusting the Multilateral System to Safeguard Dutch Interests. Hague Centre for Strategic Studies, 2020; pp. 17–33. Available online: http://www.jstor.org/stable/resrep26672.5 (accessed on 9 July 2021).
+
+Bande, T.M. The UN Charter at 75: Multilateralism in a Fragmented World. United Nation General Assembly, 2020. Available online: https://www.un.org/pga/74/2020/06/10/the-un-charter-at-75-multilateralism-in-a-fragmented-world/ (accessed on 9 June 2021).
+
+Narlikar, A. The Malaise of Multilateralism and How to Manage It. 23 January 2020. Available online: https://www.orfonline.org/expert-speak/the-malaise-of-multilateralism-and-how-to-manage-it/#:~:text=Why multilateralism is in such,rules to meet new challenges (accessed on 14 July 2021).
+
+Bhattacherjee, K. Will Modi’s COVID-19 Fund Initiative Revive SAARC? The Hindu. 2020. Available online: https://www.thehindu.com/opinion/op-ed/will-modis-covid-19-fund-initiative-revive-saarc/article31111318.ece (accessed on 15 June 2021).
+
+Trump, D.J. Trump Gives a 30-day Ultimatum to WHO Chief, Says Improve or Will Pull Out. Available online: https://www.hindustantimes.com/world-news/covid-19-trump-renews-attack-on-who-asks-un-body-to-demonstrate-independence-from-china/story-Koz5gITxE78pWaZuFKuqVM.html (accessed on 23 July 2021).
+
+Cullinan, K.; Santos, R.; Hoecklin, M. Lacking Resources & Authority, WHO Was Too Slow to Act against COVID-19. Health Policy Watch. 19 January 2021. Available online: https://healthpolicy-watch.news/lacking-resources-authority-who-was-too-slow-to-act-against-covid-19-says-independent-review-panel/#:~:text=The World Health Organization’s (WHO,to the WHO’s Executive Board) (accessed on 14 July 2021).
+
+Cullian, K. G20 Leaders Promise to Share More Vaccines While EU Digs in against TRIPS Waiver. Health Policy Watch. 21 May 2021. Available online: https://healthpolicy-watch.news/g20-leaders-promise-to-share-more-vaccines-while-eu-digs-in-against-trips-waiver/ (accessed on 10 June 2021).
+
+Kampmark, B. Vague Alternatives and G7 Summitry: The Build Back Better World Initiative. International Policy Digest. 13 June 2021. Available online: https://intpolicydigest.org/vague-alternatives-and-g7-summitry-the-build-back-better-world-initiative/ (accessed on 25 July 2021).
+
+BBC. Coronavirus: US to Halt Funding to WHO, Says Trump. BBC, 2020. Available online: https://www.bbc.com/news/world-us-canada-52289056 (accessed on 10 June 2021).
+
+Ghosh, A. This Is What a Perfect Storm Looks Like. Business Standard. 17 March 2020. Available online: https://www.business-standard.com/article/opinion/this-is-what-a-perfect-storm-looks-like-120031700037_1.html (accessed on 13 June 2021).
+
+PIB. Prime Minister Announces Coalition for Disaster Resilient Infrastructure at UN Climate Action Summit 2019. Available online: https://pib.gov.in/PressReleaseIframePage.aspx?PRID=1586051#:~:text=Prime Minister of India, Shri,, on September 23, 2019 (accessed on 22 July 2021).
+
+Gallagher, K.P. It’s Time for a Major Issuance of the IMF’s Special Drawing Rights. 20 March 2020. Available online: https://www.ft.com/content/43a67e06-bbeb-4bea-8939-bc29ca785b0e (accessed on 14 July 2021).
+
+Gebrekidan, S.; Apuzzo, M. Covid Response Was a Global Series of Failures, W.H.O.-Established Panel Says. The New York Times, 18 January 2021. [Google Scholar]
+
+Sirleaf, E.J. Report of the Independent Panel for Pandemic Preparedness and Response. 2021. Available online: https://www.who.int/news/item/28-07-2021-elevating-political-leadership-for-pandemic-preparedness-and-response-meeting-with-the-un-general-assembly (accessed on 30 July 2021).
+
+Suneja, K. US Blocking Appointment to Key WTO Body, Trump May Soon Be the Only Winner in Any Trade Dispute. Economic Times. 6 March 2018. Available online: https://economictimes.indiatimes.com/news/economy/foreign-trade/trade-wars-us-blocking-appointment-of-members-of-wtos-appellate-body/articleshow/63177200.cms?from=mdr (accessed on 22 July 2021).
+
+Tai, A.K. Statement from Ambassador Katherine Tai on the Covid-19 Trips Waiver. Office of United States Trade Representative, 2021. Available online: https://ustr.gov/about-us/policy-offices/press-office/press-releases/2021/may/statement-ambassador-katherine-tai-covid-19-trips-waiver (accessed on 4 July 2021).
+
+Gostin, L.O. The Coronavirus Pandemic 1 Year On—What Went Wrong? JAMA Health Forum 2021, 2, e210174. [Google Scholar] [CrossRef]
+
+Jaishankar, S. Waiver of Vaccine Patents Needed to Boost Global Production: India. Hindustan Times. 19 October 2021. Available online: https://www.hindustantimes.com/india-news/waiver-of-vaccine-patents-needed-to-boost-global-production-india-101624473523938.html (accessed on 14 July 2021).
+
+Chaudhary, D.R. PM Modi Proposes Emergency COVID-19 Fund for Saarc Nations. Economic Times. 16 March 2020. Available online: https://economictimes.indiatimes.com/news/politics-and-nation/prepare-put-dont-panic-is-indias-mantra-to-counter-coronavirus-narendra-modi/articleshow/74638006.cms?from=mdr (accessed on 23 July 2021).
+
+Chaudhary, D.R. Indian Coronavirus More Lethal than Chinese: Nepal PM K P Sharma Oli. Economics Times. 21 May 2020. Available online: https://economictimes.indiatimes.com/news/international/world-news/coronavirus-coming-from-india-more-lethal-than-those-from-china-italy-oli/articleshow/75850117.cms (accessed on 7 June 2021).
+
+Harrabin, R. G7 Summit: Leaders Pledge Climate Action but Disappoint Activists. BBC. 13 June 2021. Available online: https://www.bbc.com/news/world-57461670 (accessed on 22 July 2021).
+
+Mohanty, K.K. As G7 Plans Build Back Better World, Here’s How Much China Has Spent on Belt and Road Initiative. Available online: https://www.firstpost.com/world/explained-as-g7-plans-build-back-better-world-heres-how-much-china-has-spent-on-belt-and-road-initiative-9732641.html (accessed on 26 July 2021).
+
+De, A. Vaccine Nationalism, and How It Impacts the COVID-19 Fight. Indian Express. 19 October 2021. Available online: https://indianexpress.com/article/explained/what-is-vaccine-nationalism-how-does-it-impact-the-fight-against-covid-19-6561236/ (accessed on 12 June 2021).
+
+Usher, A.D. A beautiful idea: How COVAX has fallen short. Lancet 2021, 397, 2322–2325. [Google Scholar] [CrossRef]
+
+Oxfam. More than a Million COVID Deaths in 4 Months since G7 Leaders Failed to Break Vaccine Monopolies. 2021. Available online: https://www.oxfam.org/en/press-releases/more-million-covid-deaths-4-months-g7-leaders-failed-break-vaccine-monopolies (accessed on 18 July 2021).
+
+UNDP. Global Dashboard for Vaccine Equity. COVID-19 Data Futures Platform. Available online: https://data.undp.org/vaccine-equity/ (accessed on 21 September 2021).
+
+Our World Data. Share of People Who Received at Least One Dose of COVID-19 Vaccine. 2021. Available online: https://ourworldindata.org/explorers/coronavirus-data-explorer?zoomToSelection=true&pickerSort=desc&pickerMetric=total_vaccinations&hideControls=true&Interval=Cumulative&Relative+to+Popu (accessed on 23 June 2021).
+
+Wilde, N. Plural Sovereignty. J. Philos. Psychol. Sci. Methods 1919, 16, 658. [Google Scholar] [CrossRef]
+
+Pasricha, A. South Asia Turns to China for COVID Vaccines after India Halts Exports. VOA News. 28 May 2021. Available online: https://www.voanews.com/covid-19-pandemic/south-asia-turns-china-covid-vaccines-after-india-halts-exports (accessed on 18 July 2021).
+
+Sachs, J.D. COVID-19 and Multilateralism. Horiz. J. Int. Relat. Sustain. Dev. 2020, 16, 30–39. Available online: https://www.jstor.org/stable/48573747 (accessed on 7 July 2021).
+
+Alliance for Multilateralism. UN, 2019. Available online: https://multilateralism.org/the-alliance/ (accessed on 15 July 2021).
+
+Benner, T. Multilateralism Needs Democracy. Peace Lab. 10 February 2021. Available online: https://peacelab.blog/2021/02/multilateralism-needs-democracy (accessed on 4 June 2021).
+
+Singer, P. The Drowning Child and the Expanding Circle. New Internationalist. 5 April 1997. Available online: https://newint.org/features/1997/04/05/peter-singer-drowning-child-new-internationalist (accessed on 7 July 2021).
+
+Figure 1. Countries showing the status of the first dose COVID-19 vaccinations.
+
+Figure 1. Countries showing the status of the first dose COVID-19 vaccinations.
+
+Publisher’s Note: MDPI stays neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+© 2021 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https://creativecommons.org/licenses/by/4.0/).
+
+Gupta, N.; Singh, B.; Kaur, J.; Singh, S.; Chattu, V.K. COVID-19 Pandemic and Reimagination of Multilateralism through Global Health Diplomacy. Sustainability 2021, 13, 11551. https://doi.org/10.3390/su132011551
+
+Gupta N, Singh B, Kaur J, Singh S, Chattu VK. COVID-19 Pandemic and Reimagination of Multilateralism through Global Health Diplomacy. Sustainability. 2021; 13(20):11551. https://doi.org/10.3390/su132011551 Chicago/Turabian Style
+
+Gupta, Nippun, Bawa Singh, Jaspal Kaur, Sandeep Singh, and Vijay Kumar Chattu. 2021. "COVID-19 Pandemic and Reimagination of Multilateralism through Global Health Diplomacy" Sustainability 13, no. 20: 11551. https://doi.org/10.3390/su132011551
+
+Note that from the first issue of 2016, this journal uses article numbers instead of page numbers. See further details here.
+
+Article Access Statistics
+
+For more information on the journal statistics, click here.
+
+Multiple requests from the same IP address are counted as one view.
+
+Zoom | Orient | As Lines | As Sticks | As Cartoon | As Surface | Previous Scene | Next Scene
+
+Export citation file: BibTeX | EndNote | RIS
+
+Gupta, N.; Singh, B.; Kaur, J.; Singh, S.; Chattu, V.K. COVID-19 Pandemic and Reimagination of Multilateralism through Global Health Diplomacy. Sustainability 2021, 13, 11551. https://doi.org/10.3390/su132011551
+
+Gupta N, Singh B, Kaur J, Singh S, Chattu VK. COVID-19 Pandemic and Reimagination of Multilateralism through Global Health Diplomacy. Sustainability. 2021; 13(20):11551. https://doi.org/10.3390/su132011551 Chicago/Turabian Style
+
+Gupta, Nippun, Bawa Singh, Jaspal Kaur, Sandeep Singh, and Vijay Kumar Chattu. 2021. "COVID-19 Pandemic and Reimagination of Multilateralism through Global Health Diplomacy" Sustainability 13, no. 20: 11551. https://doi.org/10.3390/su132011551
+
+Note that from the first issue of 2016, this journal uses article numbers instead of page numbers. See further details here. clear
+
+Sustainability, EISSN 2071-1050, Published by MDPI
+
+Further Information Article Processing Charges Pay an Invoice Open Access Policy Contact MDPI Jobs at MDPI
+
+Guidelines For Authors For Reviewers For Editors For Librarians For Publishers For Societies For Conference Organizers
+
+MDPI Initiatives Sciforum MDPI Books Preprints.org Scilit SciProfiles Encyclopedia JAMS Proceedings Series
+
+Follow MDPI LinkedIn Facebook Twitter
+
+© 1996-2024 MDPI (Basel, Switzerland) unless otherwise stated
+
+Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to people or property resulting from any ideas, methods, instructions or products referred to in the content. Terms and Conditions Privacy Policy
+
+We use cookies on our website to ensure you get the best experience. Read more about our cookies here.
+
+clear Back to TopTop

@@ -1,0 +1,45 @@
+Suffering-focused ethics are those views in ethics according to which reducing suffering is either a key priority or our only aim. Those suffering-focused ethics according to which the reduction of suffering is a key priority are pluralistic views that include additional aims, such as the prevention of other disvaluable things like inequality, or the promotion of certain valuable things, such as pleasure. Nevertheless, these views still prioritize reducing preventable suffering over these other aims.
+
+Different suffering-focused ethics
+
+'Suffering-focused ethics' is an umbrella term that includes different normative positions sharing the common feature of giving priority to the reduction of suffering. One type of suffering-focused view is negative consequentialism. On this kind of view, we should act so that we bring about those situations in which there is less suffering. A particular type of negative consequentialist view is negative utilitarianism. According to this view, we should try to bring about situations containing smaller amounts of aggregate suffering, adding up everyone's suffering as having equal value (no matter whose such suffering is).
+
+Other suffering-focused ethics, however, differ significantly from suffering-focused consequentialist views. According to suffering-focused deontological ethics, the moral duty to reduce suffering is particularly relevant. For this reason, it will typically override other moral duties (although the duty to reduce suffering might be overriden by our other duties in certain cases). Moreover, this duty should be followed even if someone could bring about a better situation by violating it.
+
+Finally, there are suffering-focused ethics that focus on the moral character of an individual. On these views, the primary aim of a moral agent should consist in having a sound moral character. On certain suffering-focused character-based ethics, such a moral character will be that of the moral agent with the attitudes and dispositions of a virtuous suffering reducer. However, on other views of this kind it will be that of the moral agent with the attitudes and dispositions of a caring suffering reducer.
+
+Suffering-focused ethics vs. negative ethics
+
+Some suffering-focused views have historically been categorized as 'negative' in the philosophical literature. This nomenclature originated from the idea that these views prioritize the reduction of negative value over the promotion of positive value. While the term 'negative' continues to be widely used when referring to positions such as negative consequentialism and negative utilitarianism, the use of the term 'suffering-focused ethics' has increased during the 21st century. One reason for this increase is that the term 'suffering-focused ethics' describes more accurately the commonalities between the wide range of different suffering-focused views that currently exist.
+
+Relevance of suffering
+
+Suffering-focused ethics can be differentiated in virtue of how much room they leave for promoting values that differ from the reduction of suffering. On some suffering-focused ethics, there is no room for positive values, given that only negative ones matter. In contrast, other views, such as tranquilist views, are compatible with the existence of positive values. However, on these views, positive values only have instrumental significance, that is, they are only good insofar as they prevent suffering.
+
+According to other suffering-focused positions called lexical views, no other values can matter more than reducing suffering (lexicality in theory of value is the idea that certain values trump others). These views, unlike the previous ones, are compatible with valuing positive things intrinsically. Nevertheless, on these views, reducing suffering should always take precedence over the promotion of these positive things.
+
+Finally, there are moderate suffering-focused views. According to these views, the reduction of suffering is more important than the promotion of other values and the reduction of other disvalues, although the promotion of these values and the reduction of these disvalues is also very important.
+
+Arguments in favor of suffering-focused ethics
+
+Some philosophers have endorsed suffering-focused views because they consider that these are the only views that can solve some problems in the field of population ethics, such as the asymmetry. According to this asymmetry, there is no obligation to bring into existence an individual who we can expect to have a good life, but there is an obligation not to bring into existence an individual who we can expect to have a bad life. It is possible to account for this asymmetry by accepting that there is an obligation to create happy lives, or by accepting that there is no obligation not to create unhappy lives. However, both options, especially the latter, are highly counterintuitive. Nevertheless, given that on suffering-focused ethics avoiding the creation of suffering has precedence over the promotion of happiness, these views can provide a very intuitive solution to this problem.
+
+Suffering-focused views also account for another widespread intuition, namely, that it is permissible not to benefit others but, instead, it is mandatory to avoid causing them to suffer. In particular, most people believe that it would be wrong to cause an unknown individual to enjoy some pleasure by causing another one to undergo a suffering that is only slightly lower in intensity or duration.
+
+It is also argued that there is a qualitative asymmetry between happiness and suffering that warrants prioritizing suffering reduction: suffering is inherently urgent and in severe cases unbearably bad. In contrast, a neutral absence of pleasure or any other proposed intrinsic value does not constitute an urgent problem that needs to be immediately "relieved".
+
+Another argument in favor of prioritizing the reduction of suffering would be that suffering, including extreme suffering, is present in massive amounts in the world and can be easily reduced, while bliss and extreme pleasure are much more scarce and hard to cause. This view finds precedents in the positions held by Buddhists and by 19th century philosophers.
+
+Eradication of suffering
+
+Negative consequentialism
+
+Negative reinforcement
+
+Negative utilitarianism
+
+Painism (an ethical framework by Richard D. Ryder)
+
+Philosophical pessimism
+
+Wild animal suffering

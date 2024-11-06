@@ -1,0 +1,175 @@
+Skip to Main Content
+
+PCMag editors select and review products independently. If you buy through affiliate links, we may earn commissions, which help support our testing.
+
+Drone Regulations: What You Need to Know
+
+Want to fly a quadcopter? Here's what the FAA expects you to know.
+
+Lead Analyst, Cameras
+
+Images, and the devices that capture them, are my focus. I've covered cameras at PCMag for the past 13 years, which has given me a front row seat for the DSLR to mirrorless transition, the smartphone camera revolution, and the mainstream adoption of drones for aerial imaging. I have extensive experience with every major mirrorless and SLR system. As a Part 107 Certified drone pilot, I’m licensed to fly unmanned aircraft systems (UAS) for commercial and editorial purposes, and am knowledgeable about federal rules and regulations regarding drones. You can find me on Instagram @jamespfisher. Read Full Bio
+
+Updated December 15, 2023
+
+Reddit Pinterest Flipboard LinkedIn Email
+
+https://www.pcmag.com/news/drone-regulations-what-you-need-to-know
+
+DJI Mini 3 (Credit: Jim Fisher)
+
+You bought a drone, and you want to get the battery charged and take it out for its first test flight. Before you do that, you need to be aware of the rules and regulations that the Federal Aviation Administration (FAA) has put in place for flying drones in the US. And you should also know your rights and the rights of those around you.
+
+Flying for Fun vs. Flying for Money
+
+Before you can figure out exactly which rules apply to your drone, you need to determine how you'll be using it. If you're flying for fun and to share videos and images with friends, you just have to pay a modest registration fee and pass a basic knowledge test.
+
+If you plan on making money with your unmanned aerial vehicle (UAV), you need to take a more rigorous exam and receive Part 107 certification. Once you're certified, you'll be able to use your drone to capture photos and video to sell as stock imagery, work on film productions, grab aerial imagery at weddings or for real estate, and the like—pardon the pun, but the sky's the limit.
+
+How to Register Your Drone
+
+First off, if your drone weighs more than 8.8 ounces or 250 grams (most consumer models do), you need to register for an FAA identification number. The cost is nominal: $5.
+
+Your Abraham Lincoln allows you to own and fly as many drones as you fancy for one price, for a period of three years. You just need to place your assigned identification number on the exterior of your drone. I use printable stickers, but a label maker can be equally handy for this task.
+
+Please take note that your sticker needs to be on the exterior of the aircraft. This is a change from earlier rules, which let you put the registration number inside the battery compartment.
+
+Not every quadcopter on the market requires registration. The Autel Nano and DJI Mini series have a 249g takeoff weight, so they're exempt. You still need to obey the rules of the air, however, and still need a Part 107 Remote Pilot Certification to fly a lightweight drone for commercial purposes.
+
+The Best 249g Drones (That Don't Require FAA Registration)
+
+DJI Mini 4 Pro Review
+
+DJI Mini 2 SE Review
+
+Autel Robotics Evo Nano+ Review
+
+Is the FAA Drone Test Hard?
+
+In addition to registering your aircraft, you need to follow the rules of the sky. They include:
+
+Fly at or below 400 feet
+
+Keep your drone within sight
+
+Don't fly in restricted airspace
+
+Don't fly near other aircraft, especially near airports
+
+Don't fly over groups of people
+
+Don't fly over stadiums or sporting events
+
+Don't fly near emergency response efforts such as fires
+
+Don't fly under the influence
+
+Many of these are simply common sense, which you need to use when flying. In addition to the FAA rules, remember that National Parks have banned the use of drones within their confines. It's a shame, because aerial footage of beautiful locations like Yellowstone and Yosemite is a compelling reason to own a drone. On the other hand, some places should be free of technological distractions. The airspace around Washington DC is also restricted.
+
+Once you familiarize yourself with these rules, you need to take a short test to confirm that you've got a handle on them. The online TRUST is free and available through a number of FAA-approved websites. It's easy to complete in a half-hour or so. It's set up like corporate training systems, so you can't fail the test. If you get a question wrong, you can keep trying until you select the right answer. Once you pass, you'll get a PDF certificate to keep on your smartphone or print out.
+
+Some drones, including those made by DJI, include geofencing tools to identify restricted airspace and acquire takeoff authorization if required. If you have a model from another brand, you can check out the FAA's B4UFLY app to make sure your flight plan is sound and legal.
+
+The FAA Remote ID requirement is now in effect. Billed as a virtual license plate for the sky, Remote ID broadcasts your drone's position and telemetry. The FAA considers it a necessary step to facilitate more complicated drone operations going forward—if drone deliveries become a real thing, the skies will get much more crowded.
+
+You don't have to worry about Remote ID compliance with most of the drones we recommend. According to a report from The Pilot Institute, the bulk of the consumer models we recommend are compliant. This includes most of the current DJI line, as well as the Autel Evo Lite+.
+
+The Best Remote ID-Compliant Drones
+
+DJI Mini 4 Pro Review
+
+Autel Robotics Evo Lite+ Review
+
+DJI Mavic 3 Pro Review
+
+$629.00 Save $110.00
+
+Dealing With Conflict
+
+Drone pilots have to think about more than just the law. There's always a potential for conflict with other humans, and you should consider others utilizing the spaces you want to fly over. After all, some people think that it's totally acceptable to shoot a drone out of the air with a gun. So what do you do if someone takes exception to your flying a drone around them?
+
+Recommended by Our Editors
+
+The Best Drones for 2024
+
+The Best Drones for Beginners and Kids in 2024
+
+Well, if they decide to use your quadcopter for target practice, or otherwise damage it, the first order of business is to call the police. But it's best to defuse the situation before it gets to that. So, in the immortal words of Patrick Swayze, be nice. Have a conversation about what you're doing. Maybe even show the person the video feed from the drone camera that's streaming to your phone or tablet. Some folks are under the impression that a drone flying 100 feet in the air is spying on them—show them just how wide-angle the video is from that altitude.
+
+The Best Drones for 2023
+
+Of course, not everyone you meet is reasonable. In those cases, you should be aware of where you're standing. As with photography, location has a lot to do with your right to fly. If you're on your own property, or public property, you are completely within your rights. But if you're on private property, the situation isn't in your favor. A property owner (or representative of one, like a security guard) can ask you to land your drone and leave the premises. If that's the situation, you should comply. If they demand your memory card or attempt to detain you, however, that's another ball of wax. Print out and carry a copy of The Photographer's Right with you—it's a helpful resource to have whenever you're capturing images or video.
+
+If you're unsure about where you're allowed to fly your drone, you can consult the DJI FlySafe GeoMap or FAA B4UFLY site to check local restrictions.
+
+Flying a quadcopter is a lot of fun, and it lets you capture images and video that you can't get from ground level. Following the FAA rules and defusing conflict with others will go a long way toward making it an enjoyable, and legal, experience. Also, use common sense, and avoid activities like flying your copter in overcrowded spaces—leave the aerial shots of the US Open and Super Bowl to the Goodyear Blimp.
+
+Choosing the right time of day to fly can also help to minimize interactions with other people, and improve the quality of your video footage. If you fly right after sunrise—the magic hour—you'll find that landscapes are bathed in golden light and look much better than they do in the harsh light of midday. It requires you to get up early in the morning and get to a location around dawn, but the results are worth it and most of the world will still be asleep.
+
+If you follow the rules and use a little bit of common sense, you'll certainly get a lot of enjoyment from your drone.
+
+Get Our Best Stories!
+
+Sign up for What's New Now to get our top stories delivered to your inbox every morning.
+
+This newsletter may contain advertising, deals, or affiliate links. Subscribing to a newsletter indicates your consent to our Terms of Use and Privacy Policy. You may unsubscribe from the newsletters at any time.
+
+Thanks for signing up!
+
+Your subscription has been confirmed. Keep an eye on your inbox! Sign up for other newsletters
+
+Lead Analyst, Cameras
+
+Images, and the devices that capture them, are my focus. I've covered cameras at PCMag for the past 13 years, which has given me a front row seat for the DSLR to mirrorless transition, the smartphone camera revolution, and the mainstream adoption of drones for aerial imaging. I have extensive experience with every major mirrorless and SLR system. As a Part 107 Certified drone pilot, I’m licensed to fly unmanned aircraft systems (UAS) for commercial and editorial purposes, and am knowledgeable about federal rules and regulations regarding drones. You can find me on Instagram @jamespfisher.
+
+Read the latest from Jim Fisher
+
+Logitech MX Creative Console Preview
+
+DJI Osmo Action 5 Pro Review
+
+Nikon Z 6 III Review
+
+Leica M11-D Brings Film Capture Experience to Digital
+
+More from Jim Fisher
+
+Flying for Fun vs. Flying for Money
+
+How to Register Your Drone
+
+Is the FAA Drone Test Hard?
+
+Dealing With Conflict
+
+Apple iPhone 16 Pro Max Review: The Best iPhone for Content Creators Review
+
+Apple Watch Series 10 vs. Ultra 2: What's the Difference? By Andrew Gebhart
+
+Apple AirPods 4: An Impressive Upgrade Review
+
+Apple iPhone 16 vs. Samsung Galaxy S24: Which Is the Best Flagship Phone? By Iyaz Akhtar
+
+7 Must-Try Features Coming to Your iPhone With iOS 18 By Chloe Albanesius
+
+Apple iPhone 16 vs. Google Pixel 9: The Ultimate iOS vs. Android Showdown By Sarah Lord
+
+5 Ways macOS Sequoia Is Worse Than Windows By Chris Hoffman
+
+Apple Watch Series 10 vs. Google Pixel Watch 3: Which Smartwatch Is Better? By Andrew Gebhart
+
+OpenAI CTO Mira Murati Resigns in Latest Major Executive Shakeup By Emily Dreibelbis
+
+Toyota-Backed Robotaxi With T-Mobile 5G Hits the Road in Atlanta By Kate Irwin
+
+Apple Complies With Russian Censorship, Pulls More VPNs From Russia's App Store By Kate Irwin
+
+One-Click Subscription Cancellations Coming to California in 2025 By Jibin Joseph
+
+All Aboard! Hands On With Like a Dragon: Pirate Yakuza in Hawaii By George Yang
+
+Ray-Ban Meta Smart Glasses Video Feed Promises 'Continuous Real-Time Help' By Emily Dreibelbis
+
+OpenAI Rolls Out Advanced Voice Mode to All Plus and Team Subscribers By Joe Hindy
+
+Zuckerberg Teases Project Orion Smart Glasses That Can Beam Holograms By Michael Kan

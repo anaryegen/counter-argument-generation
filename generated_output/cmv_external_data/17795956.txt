@@ -1,0 +1,395 @@
+Skip to main content
+
+Are universal ethics necessary? And possible? A systematic theory of universal ethics and a code for global moral education
+
+Published: 06 May 2022
+
+Volume 2, article number 66, (2022)
+
+You have full access to this open access article
+
+SN Social Sciences Aims and scope Submit manuscript
+
+Are universal ethics necessary? And possible? A systematic theory of universal ethics and a code for global moral education
+
+Enno A. Winkler ORCID: orcid.org/0000-0001-5534-82211
+
+This paper analyzes the political, philosophical, societal, legal, educational, biological, psychological and technological reasons why there is an urgent need for basic intercultural and interfaith ethics in the world and whether it is possible to formulate a valid code of such ethics. It is shown that universal ethics could be founded on natural law, which can be understood in both religious and secular ways. Alternatively, universal ethics could be based on a single supreme principle that is independent of worldview and culture: human dignity. In accordance with these concepts, a minimalist and normative code of essential, self-evident universal ethical principles and norms is proposed. The implementation of universal ethics in society is a long-term political task that could be achieved by including universal ethics in the compulsory school curriculum of all countries and in the UNESCO agenda of Global Citizen Education.
+
+Similar content being viewed by others
+
+Goals in Global Ethics Education
+
+Resources for Global Ethics Education
+
+Explore related subjects Discover the latest articles, news and stories from top researchers in related subjects.
+
+Use our pre-submission checklist
+
+Avoid common mistakes on your manuscript.
+
+Do we need universal ethics, that is, basic ethics that are valid across places, cultures, religions, secular worldviews and times and that serve as an objective foundation for specific ethics, common law and global moral education? How could a code of universal ethics conceptually be justified? And how could it be formulated? What are the prerequisites? Do ethics have a biological basis (Wilson 1998)? How could a code of universal ethics be implemented around the world?
+
+Some people are now fighting the climate disaster (Department of Defense 2021; IPCC 2014; Pörtner et al 2021; United Nations 2015; for the threshold theory see Steffen et al 2018). However, climate change is only one of the many threats to humankind that are caused or will be caused by the underlying main problem: human behavior and the lack of a minimum set of human values that all people have in common and that all people are obliged to respect. Our challenge for the twenty-first century is therefore to discover a rational basis for a global ethics, which has a universal normative force, but assumes cultural differences, and to set up this ethics (Cortina 2014).
+
+The following study and its conclusions are an effort to unravel the tohuwabohu of myriad existing ethical opinions, beliefs, ideas and frameworks that generally lack a valid universal foundation/source of authority, evaluate their essence in the light of intuition (innate knowledge), life experience, the natural and human sciences and reason, and create a system of ethics that is truly universal and systematic, coherent and practicable. By making it known to political, cultural, sociological, religious, moral, legal, educational, psychological, economic, anthropological and environmental scientists and other interested persons, it opens up to debate, improvement and further development.
+
+The need for universal ethics
+
+Immanuel Kant believed that we are neither wholly determined to act by natural impulse nor free of nonrational impulse. Hence, we need some common rules of conduct that tell us how we ought to act when it is in our power to choose (McCormick 2017, chap. 8b). Charles Darwin (1874, p. 117) considered morality a crucial instinct for survival in social animals: no tribe (or other community) can hold together if behaviors such as murder, robbery, and falseness are common. And Sissela Bok (1995/2002, pp. 12–13) thought that a minimalist set of common moral values that everyone knows is indispensable for interpersonal, cross-cultural and interfaith communication and cooperation. However, there are also other crucial reasons why we need universal ethics, and I would like to add several of the most obvious:
+
+To achieve a more peaceful and sustainable world in which every human individual, family and community can have a good life and thrive.
+
+To serve as guidance for politics across places, cultures, beliefs and times.
+
+To provide the Universal Human Rights of the United Nations (1948) with their necessary and, until now, missing counterpart: Universal Human Duties. Rights are not sustainable without duties (Arias Sanchez 1997). In addition, without obligations in common, any claim supported by strong lobbies could eventually be presented as a human right.
+
+To provide UNESCO’s Global Citizenship Education Program (GCED) (2015) with universally valid moral standards.
+
+Secondary or specific/applied ethics such as political ethics, security ethics, bioethics, business ethics, educational ethics, public sector ethics, environmental ethics, information ethics, and positive law, presuppose a common starting point/objective foundation to be consistent. Otherwise, they would only reflect the personal feelings and opinions of their authors. This also applies to global moral education.
+
+Long-term existential risk reduction/prevention (see also Bostrom 2002): Humanity will disappear when our planet, solar system or galaxy undergo substantial changes or disintegrate, in 800–900 million years at the latest when the rising temperatures caused by the changing sun will make the biosphere unsustainable (Bounama et al. 2004). However, humans will become extinct long before then due to certain processes and events that are partially or totally caused by themselves if they are not willing to accept basic rules of conduct in common. Such events/processes could include overpopulation (Meadows et al.1972; McKee et al. 2004; Riechmann 2020; Ripple et al. 2017); the exhaustion of natural resources and energy; gray goo (Drexler 1986, Chaps. 4 and 11); poisoning of the land, atmosphere and oceans; nuclear, chemical, biological, climatic and cyber disasters; pandemics; global drug addiction; genetic and immunological degeneration; losing the balance between individualism and collectivism; the destruction of the biological family (Fagan 1995; Kroese et al. 2021; Mitscherlich 1963; Mühl 2011; US Senate 1983); a decline in social integration and cohesion; an increase in psychopaths; the normalization of physical and mental disorders; sectarian interests converted into ideologies, ideologies converted into religions and religions converted into ideologies or even sectarian interests; corruption of the mind, language and power; indoctrination and mind-control/programming technology; autonomic artificial intelligence (Brundage et al. 2018; Chang and Lipson 2018; Copeland 2021) and artificial consciousness (Graziano 2013; Haikonen 2019); the dehumanization of human enhancement technologies (transhumanism) (Fukuyama 2004; Miah 2012; Savulescu and Bostrom 2009); the abolition of human dignity; systemic loss, violation or misrepresentation of moral values and law/anarchy; an increase in human evilness and aggressiveness; global madness; and global terrorism, global wars and “new” wars (Kaldor 2013) that cannot be prevented or solved with technical weapons alone. It could be that one or another or a combination of these processes will even constitute what I would call “human phyloapoptosis” or the programmed death of the human species, but that the human will could override.
+
+Hereinafter, a systematic theory of universal ethics is presented and a normative and minimalist universal code of ethics is proposed, which was developed by the author in the 1990s and published in 2002 without, however, providing its conceptual foundations (Winkler 2002).
+
+Definitions and methodology
+
+A universal ethic for humans is like a tree where the roots are the foundation and the trunk is the code. From the trunk arise branches, twigs and leaves that symbolize secondary or specific/applied ethics such as political, environmental, bio-, business and professional ethics (BBVA 2012; Cortina 2008; Dittmer 2021; Singer 1986) and laws and rules, respectively, in accordance with their locational, cultural, historical, or other circumstantial context. Ethical theories such as deontological ethics (Alexander and Moore 2020; Kant 1785/1986; Ross 2002), consequentialist/ utilitarian ethics (Bentham 1780/2007; Mill 1863/1987; Parfit 1984; Sidgwick 1981; Singer 1979), virtue ethics (Aristotle 2019; Hursthouse and Pettigrove 2018; for a comprehensive bibliography on virtue ethics see Schroth 2021), the various types of contract/consensus/discourse ethics (Apel 2000; Bayertz 1994; Gauthier 1986; Habermas 1992; Hobbes 1651; Metselaar and Widdershoven 2016; Rawls 1971; Williams 2014), the ethics of justice (Brock 2010; Miller 2021; Pogge and Moellendorf 2008; Rawls 1971; Walzer 1983; for intergenerational justice see Meyer 2012), and ideology based ethics (Boff 2000; Konitzer et al. 2020; Selsam 1943; Шишкин 1961; Weikart 2009) all of which are general ethics that often have been intended or misinterpreted as universal/global ethics, do not fit into this scheme because their foundations/sources of authority are neither universal, if the connotations of place, culture, times, personal characteristics or other circumstances cannot be eliminated, nor are they specific. This is why they have difficulties, inter alia, in formulating a valid code of universal ethics.
+
+A code or system of universal ethics can be based on natural law, which is the most agreed-upon metaphysical foundation of universal ethics. Another approach, which is based on one supreme ethical principle, will be presented in the discussion.
+
+The concept of natural law is as old as philosophy and can be traced back to Heraclitus of Ephesus (c.536–470 BCE) in the West (Rommen 1936, pp. 5–6) (see also Sophocles 441 BCE/2000) and Lao-tze (c.604–531 BCE) in the East (Shih 1953, pp. 125–128), showing remarkable simultaneity in its emergence. It may be, however, that natural law emerged even earlier in civilizations of which we have no or no coeval written record, as is the case of the Indian Rigveda that was composed between 1500 and 1200 BCE (Mohanty 2019) but written down only hundreds of years later, which makes it uncertain whether the idea of eternal/natural law was there from the beginning or was added only later. Thereafter, natural law is found in one form or another in almost all major religions and philosophies, although it has been most developed in the Christian tradition (see International Theological Commission 2009).
+
+If we follow the French philosopher Jacques Maritain (2001, pp. 27–38), who is a successor of Saint Thomas de Aquinas, “natural law is an ideal order relating to human actions, a divide between the suitable and the unsuitable, between what is proper and what is improper to the ends of human nature or essence”. It is that participation in the eternal law of the cosmos (the ontological element), the knowledge of which is innate to humans and can be discovered by them (the gnoseological element) by becoming aware of their inclinations/moral instincts and applying reason.
+
+According to Maritain, this cognitive process advances little by little as humankind’s moral conscience develops, temporary errors included. Although the eternal law of the cosmos (and thus also natural law) is divine for the Thomists, I hold that it can also be understood in a secular way, that is, as the totality of the laws of the cosmos (see also Spinoza 1677/2011, p. 239, p. 246; Wilson 1998). In both cases, natural law can be defined as that participation in the eternal law, the knowledge of which is innate to humans and can be discovered by them.
+
+To relativize the historical connotations of the gnoseological component of classical natural law, however, it is convenient to restrict natural law to the very essentials of human existence and fulfillment (see also International Theological Comission 2009, para. 52). It is also appropriate to replace “becoming aware of human’s inclinations/instincts” with “intuition/revelation.”
+
+What is important for the purpose of this presentation is that both the religious and the secular perception of the eternal law of the cosmos and, ergo, of natural law can coexist in peace and with them the religious and secular understanding of universal ethics.
+
+Based on these conceptual foundations, the identification of essential and self-evident ethical principles and norms for human survival and fulfillment and their compilation into a code of universal ethics were performed using intuition, life experience, research (study of the history of ethical thought, cultures, religions, human evolution, ecology, genetics, neuroscience, sociology, psychology and astrophysics) and applying reason.
+
+Humans, as a species, are biological, self-aware living beings that are endowed with reason and personal dignity, are dualistic (both individual and social) and are conditioned to inhabit the planet Earth and its reachable surroundings. This essence of human nature is the same in all people and is independent of religions, worldviews, cultures and history. Human beings, who, for whatever reason, lack self-awareness or reason, are still humans.
+
+Ethics are a system of moral principles and norms that guide the relationships between humans and between humans and their natural and artificial environment. The code of ethics described in this paper does not include the relationship between humans and God, thereby allowing the parallel coexistence of the code with religious codes.
+
+Universal, in our context, means that it applies to all people across places, cultures, religions, worldviews and lifetimes of human individuals, human societies and the human species as a whole. This definition also implies that what is universal must be normative. Since—according to Maritain (2001, p. 28)—everything existing in nature has its own natural law (that is, the normality of its functioning), human universal ethics are universal only for humans and will disappear when humanity becomes extinct, either as a result of the events and processes described above and/or, in an extreme situation, by collective suicide.
+
+Minimalist The code must be narrowed to the ends of the very essence of human nature to (1) relativize the historical connotations of the gnoseological element of classical natural law and (2) serve as the starting point and lowest common denominator for specific ethics, positive law and global moral education. Furthermore, “minimalist values require no special erudition, or even literacy, to be understood” (Bok 1995/2002, pp. 18–19) and are easy to remember, which is a prerequisite for compliance.
+
+Innate or connatural knowledge is genetically and epigenetically transmitted preconscious knowledge.
+
+Instinct: Instincts are pre-/subconsciously processed complex patterns of automated behavior.
+
+Intuition, which in a religious context can be confused with revelation, is the act of becoming aware of the results of subconscious processing (“reasoning” at evolutionarily lower-level brain centers) of accessible preconscious, subconscious and conscious knowledge, of which the first is innate and the latter two are acquired.
+
+Normative: To be (1) universal and (2) effective, a code of universal ethics has to be normative; that is, it must possess not only a moral “ought” but also a legal “ought” to guide human actions and choices. According to Rommen (1936, p. 138), natural law binds all people collectively and each one separately.
+
+Proposal of a code of universal ethics
+
+(1) Each human being is endowed with personal dignity. (2) His liberty finds its limits where the dignity of the other begins. (3) State, religious, economic and other office holders are in his service.
+
+(1) Respect the other as yourself. (2) Do not lie. (3) Do not steal. (4) Respect life. (5) Protect nature.
+
+The violation of these principles and commandments is subject to social rejection and punishment under equal rules and laws for everyone.
+
+These principles serve as a basis not only for universal ethics but also for universal human rights, thereby ensuring the compatibility and complementarity of both, which are actually the two sides of the same coin. Principle 1 refers to the dignity of the human individual, that is, to his liberty and the respect he therefore deserves. It is the origin, basis, fundamental content and end of any human ethics and can be found in all major religions, secular worldviews and constitutions. Even the Constitution of China stipulates in Article 38 that “the personal dignity of the citizens of the People’s Republic of China is inviolable” (Chengming and Yucheng 2014). Principle 2 regulates the situation when there are two or more individuals, restricting the unlimited liberty of an individual in relation to his next (rationale of social behavior, equality and justice). For example, freedom of expression ends where the dignity of the other begins. And principle 3 regulates the relations in an organized human community. It is the democratic principle based on human dignity and is a logical consequence of principles 1 and 2.
+
+These commandments are the essentials and self-evident. Their combination enables us to derive secondary moral norms using experience and practical reason. The combination of commandments 2 and 3, for example, yields: “Do not defraud/do not corrupt!” The combination of commandments 1 and 4 includes: “Do not torture!”.
+
+Commandment 1 applies not only to human individuals but, by extension, also to their natural and artificial environment as the basis of their existence and to their family, community and society as a whole. It is the rule of reciprocity, the “Golden Rule”, the most basic norm that regulates the relations between people and reflects nonviolence, human rights and the democratic principle (for a comprehensive bibliography on the Golden Rule see Schroth 2018). It is modified, though, to also be valid in the absence of empathy, sympathy or compassion and to allow for certain situations, such as when a judge has to put someone in prison for breaking the law. Commandments 2 and 3 are basic norms that are crucial for transparency, trust and security and, thus, for the peaceful coexistence of people. Commandment 4 protects the life and integrity of humans, animals and plants, the most basic right of every living being. However, it does not say “Do not kill”, since that would exclude all life that depends on organic alimentation, would exclude defending ourselves against microbes, aggressors and assassins and would exclude issues such as voluntary euthanasia. Since animals and plants are included in this commandment, it leads to commandment 5 which protects nature (and thus the environment), because it is the origin and basis of our existence. This commandment says “protect nature” and not “preserve nature” because the latter would prevent us from feeding ourselves from nature or destroying a meteorite that threatens earth.
+
+Since life is not merely a black or white issue, moral situations are not either. In certain situations, it may be necessary to return to the most essential norm of universal ethics, which is the modified “Golden Rule”, and use practical reason and life experience to solve a moral question.
+
+This provision is intended to ensure that the code is not only a moral “ought” but also a legal “ought” from which there is no escape because its violation is punishable. Punishment, however, presupposes the will to commit an inexcusable ethical violation. Occasionally, a lower-ranking ethical norm must be discarded to save a higher norm, or there may be doubts as to which norm should take preference. In these cases, the judgment must take into account the circumstances of the offense and may warrant acquitting the offender.
+
+Implementation of universal ethics
+
+The implementation of universal ethics requires a political, societal, cultural and religious/ideological climate that is open to interfaith and intercultural ethics. The fostering of this readiness is an assignment for the education, information, and intercultural and interfaith experience of all stakeholders of civic society. According to Chenoweth and Stephan (2011), 3.5% of a committed population is sufficient to achieve social change. It can be assumed that this 3.5% rule also applies to the implementation of universal ethics.
+
+Human behavior is determined in early childhood. Universal ethics should therefore be included in the compulsory school curriculum of all countries. I started a campaign in this regard asking teachers, schools and local, regional and national educational authorities to integrate universal ethics into teaching in their area of influence (Winkler 2012). It would be a good idea to incorporate the Code of Universal Ethics into UNESCO’s Global Citizen Education (GCED) (UNESCO 2015), which emphasizes the provision of education in key universal values but does not define what these universal values are.
+
+The universality of the code excludes the existence of legally binding norms that conflict with it. Teaching universal ethics—for the moment, possibly only as an aspiration/postulate to facilitate acceptance, particularly in countries with historical-relativistic compatibility reservations, such as China—will cause existing conflicting norms to be adapted to the code over time and new norms will respect the code. This is a long-term political process that could last 3–4 generations (75–100 years), that is, until universal ethics is fully established in the education, public opinion and law of all countries.
+
+It is a fact that philosophers have discussed ethics for millennia without managing to establish a valid code of universal ethics for humans. In endeavoring to give universal ethics a metaphysical foundation, their attempts usually became lost in the labyrinths of philosophical circular thinking. Or they failed because they used concepts/justifications that are relative and not universal if the connotations of place, culture, times, personal characteristics or other circumstances cannot be eliminated, as is the case with general ethics such as deontological, consequentialist/utilitarian, virtue, contract/consensus/discourse, justice and ideology based ethics, did not provide definitions, included secondary norms and even specifics, or discarded normativity. Usually they did not even lay a theoretical foundation for their ethics or did not set up a (valid) code. This is why political attempts, such as those of the Parliament of World Religions (H. Küng) (1993), the Interaction Council (H. Schmidt) (1997), the UN/UNESCO (Kim 1999), and the Earth Charter Commission (2000) also failed. Overview discussions on universal ethics and a compilation of related literature have been published by the Raol Wallenberg Institute (Bexell and Andersson 2002) and by Melé and Sánchez-Runde (2013). Pogge and Horton presented a collection of essays on global ethics (2008). Michael Ignatieff (2012) studied the difficulties of formulating a valid global ethic and defended that a global ethic would have to start from the view from nowhere (Nagel 1986).
+
+The question is: could there be a code of ethics that is not based on metaphysics but nevertheless is universal according to the terms given above? I believe the answer is yes. Sissela Bok (1995/2002, chap. I) suggested, but did not turn it into a reality, that a minimalist set of common values already recognized in every society that leaves room for cultural diversity, could be acknowledged as common and be respected all over the world (for statistics on shared values by country and year see the World Values Survey 2020). However, universal ethics for humans could also be built upon just one single “supreme principle of morality” (Kant) (Wood 2017), with other essential principles and rules deriving from this supreme principle. Unlike Kant, for me the supreme principle of morality is not an order for how to establish supposedly universal moral norms, but the most obvious and consented-to principle/end of human existence, which we already know from natural law ethics: human dignity. The commitment to human dignity, in the form of the “Golden Rule” or the “Rule of Reciprocity”, evidently originated in the dualistic condition of the human as both an individual and a social being. Reciprocal “morality”, in fact, can even traced be back to the existential instinct of the first primitive animals to contribute to the survival and progression of the group to ensure, in turn, their own survival and progression. According to Gensler (2013) the “Golden Rule” has been common to all major religions and philosophies throughout human history.
+
+The resulting minimalist, normative, universal ethics could be called the “Ethics of Human Dignity” and, textually, would be the same as the code of natural law ethics described above. Both ethics, though, are first and foremost existential ethics.
+
+There is considerable discussion regarding whether the so-called Eastern collectivistic and Western individualistic cultures can tolerate a common basic ethics. However, intercultural plurality could be interpreted as a surface phenomenon that is assuredly compatible with a universally valid depth-structure of ethical consciousness (Schockenhoff 2003, p. 73). The cross-cultural psychologist S. Schwartz found that individualism and collectivism do not necessarily conflict (Schwartz 1990; Yu 1990). Furthermore, even China, the most influential representative of Eastern cultures, does not defend a cultural-relativistic position but only a historical-relativistic one (Pohl 2017).
+
+Several critics of a code of common basic ethics also argue that such a code does not regulate specifics or that the code would “require a process for extending to the specifics of any particular issues between any particular combination of cultures or interest” (Henderson 2016, personal communication, 11 January). Ideally, this extension process would consist of deriving the specifics from the code using experience and practical reason. However, there are already myriad laws and norms in use in the world (which, in addition, are meticulously diversified by millions of legislators, judges, public prosecutors and lawyers), which of course cannot all be enumerated in a single code nor can they be derived from the code or adapted to it in a single act. Neither specific human situations nor their appropriate regulations, however, are contained in the essence of humans (Maritain 2001, p. 30). Specifics are the field of specific ethics and common law, not of a superior code of universal ethics. Although the specifics must inversely comply with the code, and if they do not, must be adapted to it over time. In any case, there seems to be no need for a complex system of ethics to guide human choices and actions in general.
+
+For many of us, normative universal ethics would be inconvenient. So, do we truly want universal ethics? Or would we, in fact, prefer to prevent universal ethics because they would call into question our own ideology, self-concept or social position and would jeopardize our personal aspirations for more money and more power? The leap from essential, self-evident moral principles and rules, whether religiously or secularly justified, to a code of universal human ethics and the insertion of this code into moral education in all countries is ultimately a matter of free will, that is, a political decision. It is that free will (Baumeister and Monroe 2014) that can determine, to a great extent, whether humanity will continue on the path of self-destruction or work for an earth where all people can thrive.
+
+There is a clear and urgent need for interfaith and intercultural ethics in the world. This universal ethics is possible if it is based on natural law, which can be understood in both religious and secular ways, or, alternatively, on a single supreme principle that is derived from the nature of humans and that is the same as the first principle of natural law ethics: human dignity. From these conceptual foundations, a code of essential, self-evident ethical principles and norms is formulated using intuition, research and reason. The code does not require special erudition or even literacy to be understood and is easy to remember, facilitating compliance. The implementation of universal ethics is a long-term political task and could be achieved by including universal ethics in the compulsory school curriculum of all countries and in UNESCO’s agenda of Global Citizen Education.
+
+All data generated or analysed during this study are included in this published article.
+
+Apel K-O (2000) Globalization and the need for universal ethics. Eur J Soc Theory 3(2):137–155. https://doi.org/10.1177/13684310022224732
+
+Article Google Scholar
+
+Arias Sanchez O (1997) It is time to talk about human obligations. InterAction Council. https://www.interactioncouncil.org/publications/some-contributions-universal-declaration-human-obligations. Accessed 28 May 2017
+
+Aristotle (349 BC/2019) Nicomachean ethics, trans. and intro. Irwin T, 3rd edn. Hackett Publishing, Indianapolis
+
+Baumeister RF, Monroe AE (2014) Recent research on free will: conceptualization, beliefs and processes. Adv Exp Soc Psychol 50:1–52. https://doi.org/10.1016/B978-0-12-800284-1.00001-1
+
+Article Google Scholar
+
+Bayertz K (1994) The concept of moral consensus. Springer, Dordrecht. https://doi.org/10.1007/978-94-011-0860-7
+
+BBVA (2012) Values and ethics for the 21st century. https://www.bbvaopenmind.com/wp-content/uploads/2012/01/BBVA-OpenMind-Book-2012-Values-and-Ethics-for-the-21st-Century.pdf. Accessed 15 Nov 2021
+
+Bentham J (1780/2007) An introduction to the principles of morals and legislation. Dover philosophical classics. Dover Publications, New York
+
+Bexell G, Andersson D-E (eds) (2002) Universal ethics. Perspectives and proposals from Scandinavian scholar. Kluwer Law International, The Hague
+
+Boff L (2000) Ética mundial: un consenso mínimo entre los humanos [World ethics: A minimal consensus among humans]. Casa de América, Madrid
+
+Bok S (1995/2002) Common values. University of Missouri Press, London
+
+Bostrom N (2002) Existential risks: analyzing human extinction scenarios and related hazards. J Evol Technol 9(1):1–31
+
+Bounama Ch, von Bloh W, Franck S (2004) Das Ende des Raumschiffs Erde [The end the of the spaceship earth]. Spektr Wiss\ 2004:52–59
+
+Brock G (2010) Global justice: a cosmopolitan account. Oxford Univ. Press, Oxford
+
+Brundage M, Avin S, Clark J, Toner H, Eckersley P, Garfinkel B et al. (2018) The malicious use of artificial intelligence: Forecasting, prevention, and mitigation. https://arxiv.org/abs/1802.07228. Accessed 15 Nov 2021
+
+Chang O, Lipson H (2018) Neural network quine. https://arxiv.org/pdf/1803.05859v4.pdf. Accessed 15 Nov 2021
+
+Chengming Y, Yucheng G (2014) The value and realization of human dignity. China Society for Human Rights Studies. http://www.chinahumanrights.org/html/2014/PAPERS_1028/965.html. Accessed 28 May 2017
+
+Chenoweth E, Stephan MJ (2011) Why civil resistance works: the strategic logic of nonviolent conflict. Columbia University Press, New York
+
+Copeland B (2021) Artificial intelligence. Encyclopedia britannica. https://www.britannica.com/technology/artificial-intelligence. Accessed 6 Jan 2022
+
+Cortina A (2014) Four tasks for forward-looking global ethics. J Glob Ethics 10(1):30–37. https://doi.org/10.1080/17449626.2014.896574
+
+Article Google Scholar
+
+Cortina A, García-Marzá D, Conill J (eds) (2008) Public reason and applied ethics. Routledge, London
+
+Darwin Ch (1874) The descent of man, and selection in relation to sex, 2nd edn. John Murray, London. http://darwin-online.org.ukonline.org.uk/content/frameset?pageseq=140&itemID=F944&viewtype=text. Accessed 28 May 2017
+
+Department of Defense (2021) Climate risk analysis. Report submitted to National Security Council. https://media.defense.gov/2021/Oct/21/2002877353/-1/-1/0/DOD-CLIMATE-RISK-ANALYSIS-FINAL.PDF. Accessed 6 Jan 2022
+
+Dittmer J (2021) Applied ethics. Internet encyclopedia of philosophy. https://iep.utm.edu/ap-ethic/. Accessed 15 Nov 2021
+
+Drexler KE (1986) Engines of creation. Bantam Doubleday Dell, New York
+
+Earth Charter Commission (2000) The earth charter. https://earthcharter.org/about-the-earth-charter. Accessed 15 Nov 2021
+
+Fagan P (1995) The real root causes of violent crime: the breakdown of marriage, family, and community. The heritage foundation. https://www.heritage.org/crime-and-justice/report/the-real-root-causes-violent-crime-the-breakdown-marriage-family-and. Accessed 15 Nov 2021
+
+Fukuyama F (2004) Transhumanism. Foreign Policy 144:42–43. https://doi.org/10.2307/4152980
+
+Article Google Scholar
+
+Gauthier D (1986) Morals by agreement. Oxford University Press, Oxford
+
+Gensler HJ (2013) A golden rule chronology. In: Gensler HJ (ed) Ethics and the golden rule. Routledge, New York, pp 76–107
+
+Chapter Google Scholar
+
+Graziano M (2013) Consciousness and the social brain. Oxford University Press, Oxford
+
+Habermas J (1992) Faktizität und Geltung: Beiträge zur Diskurstheorie des Rechts und des demokratischen Rechtsstaats [Between facts and norms: contributions to a discourse theory of law and democracy]. Suhrkamp, Frankfurt AM
+
+Haikonen P (2019) Consciousness and robot sentience, 2nd edn. World Scientific, Singapore
+
+Hobbes T (1651) Leviathan. Andrew Crooke, St. Paul’s Churchyard. https://www.gutenberg.org/files/3207/3207-h/3207-h.htm. Accessed 15 Nov 2021
+
+Hursthouse R, Pettigrove G (2018) Virtue ethics. The Stanford Encyclopedia of Philosophy. https://plato.stanford.edu/archives/win2018/entries/ethics-virtue/. Accessed 15 Nov 2021
+
+Ignatieff M (2012) Reimagining a global ethic. https://www.ethicsandinternationalaffairs.org/2012/reimagining-a-global-ethic-full-text/. Accessed 28 May 2017
+
+Interaction Council (1997) A universal declaration of human responsibilities. https://www.interactioncouncil.org/publications/universal-declaration-human-responsibilities. Accessed 28 May 2017
+
+International Theological Commission (2009) In search of a universal ethic: a new look at the natural law. https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_con_cfaith_doc_20090520_legge-naturale_en.html. Accessed 28 May 2017
+
+IPCC (2014) Climate change 2014: synthesis report. contribution of working groups I, II and III to the fifth assessment report of the intergovernmental panel on climate change. https://archive.ipcc.ch/pdf/assessment-report/ar5/syr/SYR_AR5_FINAL_full_wcover.pdf. Accessed 28 May 2017
+
+Kaldor M (2013) In defense of new wars. Int J Secur Dev. https://doi.org/10.5334/sta.at
+
+Article Google Scholar
+
+Kant I (1785/1986) Grundlegung zur Metaphysik der Sitten [Groundwork of the metaphysics of morals]. Reclam, Stuttgart
+
+Kim Y (1999) A common framework for the ethics of the 21st century. UNESCO, Paris. https://unesdoc.unesco.org/ark:/48223/pf0000117622. Accessed 28 May 2017
+
+Konitzer W, Bach J, Palme D, Balzer J (eds) (2020) Vermeintliche Gründe. Ethik und Ethiken im Nationalsozialismus [Supposed reasons. Ethic and ethics in national socialism]. Campus, Frankfurt a.M.
+
+Kroese J, Bernasco W, Lifbroer AC, Rouwendal J (2021) Growing up in single-parent families and the criminal involvement of adolescents: a systematic review. Psychol Crime Law 27(1):61–75. https://doi.org/10.1080/1068316X.2020.1774589
+
+Article Google Scholar
+
+Maritain J (2001) Natural law. Reflections on theory & practice, ed. and intro. Sweet W. St Augustine’s Press, South Bend
+
+McCormick M (2017) Immanuel Kant: Metaphysics. https://iep.utm.edu/kantmeta/. Accessed 28 May 2017
+
+McKee JK, Sciulli PW, Fooce CD, Waite TA (2004) Forecasting biodiversity threats due to human population growth. Biol Conserv 115(1):161–164
+
+Article Google Scholar
+
+Meadows DH, Meadows DL, Randers J, Behrens WW (1972) The limits to growth. Universe Books, New York. http://www.donellameadows.org/wp-content/userfiles/Limits-to-Growth-digital-scan-version.pdf. Accessed 15 Nov 2021
+
+Melé D, Sánchez-Runde C (2013) Cultural diversity and universal ethics in a global world. J Bus Ethics 116:681–687. https://doi.org/10.1007/s10551-013-1814-z
+
+Article Google Scholar
+
+Metselaar S, Widdershoven G (2016) Discourse ethics. In: ten Have H (ed) Encyclopedia of Global Bioethics. Springer, Cham. https://doi.org/10.1007/978-3-319-09483-0_145
+
+Chapter Google Scholar
+
+Meyer LH (ed) (2012) Intergenerational justice. Routledge, London. https://doi.org/10.4324/9781315252100
+
+Miah A (2012) Ethics issues raised by human enhancement. In: Values and ethics for the 21st century. BBVA, pp 167–197. https://www.bbvaopenmind.com/wp-content/uploads/2012/01/BBVA-OpenMind-Book-2012-Values-and-Ethics-for-the-21st-Century.pdf. Accessed 15 Nov 2021
+
+Mill JS (1863/1987) Utilitarianism. Prometheus Books, Buffalo
+
+Miller D (2021) Justice. The Stanford Encyclopedia of Philosophy. https://plato.stanford.edu/archives/fall2021/entries/justice/. Accessed 6 Jan 2022
+
+Mitscherlich A (1963) Auf dem Weg zur vaterlosen Gesellschaft. Ideen zur Sozialpsychologie [On the way to a fatherless society. Ideas on social psychology]. Piper, München
+
+Mohanty JN (2019) Indian philosophy. https://www.britannica.com/topic/Indian-philosophy. Accessed 6 Dec 2020
+
+Mühl M (2011) Die Patchwork-Lüge: Eine Streitschrift [The patchwork lie: a polemic]. Hanser, München
+
+Nagel T (1986) The view from nowhere. Oxford University Press, Oxford
+
+Parfit D (1984) Reasons and persons. Oxford University Press, Oxford
+
+Parliament of the world’s religions (1993) Declaration towards a global ethic. https://parliamentofreligions.org/documents/towards-global-ethic-initial-declaration-fifth-directive. Accessed 20 Sept 2020
+
+Pogge T, Horton K (eds) (2008) Global ethics: seminal essays. Paragon House Publishers, St. Paul
+
+Pogge T, Moellendorf D (eds) (2008) Global justice: seminal essays. Paragon House Publishers, St. Paul
+
+Pohl KH (2017) Zur Universalität und Relativität von Ethik und Menschenrechten im Dialog mit China [On the universality and relativity of ethics and human rights in the dialogue with China]. https://www.uni-trier.de/fileadmin/fb2/SIN/Pohl_Publikation/Universalitaet_und_Relativitaet_von_Ethik_und_Menschenrechten.pdf. Accessed 28 May 2017
+
+Pörtner HO, Scholes RJ, Agard J, Archer E, Arneth A, Bai X et al. (2021) Scientific outcome of the IPBES-IPCC co-sponsored workshop on biodiversity and climate change. https://doi.org/10.5281/zenodo.5101125. https://zenodo.org/record/5101125#.Yb_Xv2hBzIW. Accessed 6 Jan 2022
+
+Alexander L, Moore M (2020) Deontological ethics. Stanford encyclopedia of philosophy archive. https://plato.stanford.edu/archives/win2020/entries/ethics-deontological/. Accessed 10 July 2021
+
+Rawls J (1971) A theory of justice. Harvard University Press, Cambridge
+
+Riechmann J (2020) Somos demasiados? Reflexiones sobre la questión demográfica [Are we too many? Reflections on the demographic question]. https://www.fuhem.es/papeles_articulo/somos-demasiados-reflexiones-sobre-la-cuestion-demografica/. Accessed 6 Jan 2022
+
+Ripple WJ, Wolf C, Newsome TM, Galetti M, Alamgir M, Crist E, Mahmoud MI et al (2017) World scientists’ warning to humanity: A second notice. Bioscience 67(12):1026–1028. https://doi.org/10.1093/biosci/bix125
+
+Article Google Scholar
+
+Rommen HA (1936/1998) The natural law: a study in legal and social history and philosophy, trans. Hanley TR. Liberty Fund, Indianapolis IN. https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/676/0017_Bk.pdf. Accessed 28 May 2017
+
+Ross WD (2002) The right and the good. Clarendon Press, Oxford
+
+Savulescu J, Bostrom N (eds) (2009) Human enhancement. Oxford University Press, Oxford
+
+Schockenhoff E (2003) Natural law & human dignity. Universal ethics in an historical world. The Catholic University of America Press, Washington DC
+
+Schroth J (2018) Bibliography on the golden rule. http://ethikseite.de/bib/bgolrul.pdf. Accessed 15 Nov 2021
+
+Schroth J (2021) Bibliography on virtue ethics. http://ethikseite.de/bib/cvirtue.pdf. Accessed 15 Nov 2021
+
+Schwartz SH (1990) Individualism-collectivism: critique and proposed refinements. J Cross Cult Psychol 21(2):139–157. https://doi.org/10.1177/0022022190212001
+
+Article Google Scholar
+
+Selsam H (1943) Socialism and ethics. International Publishers, New York
+
+Shih H (1953) The natural law in the Chinese tradition. In: Natural law institute proceedings, vol 5. Notre Dame Law School. https://scholarship.law.nd.edu/cgi/viewcontent.cgi?article=1005&context=naturallaw_proceedings. Accessed 28 May 2017
+
+Shishkin AF (1961) Ocнoвы мapкcиcтcкoй этики [The foundations of communist morality]. Издaтeльcтвo Инcтитyтa мeждyнapoдныx oтнoшeний, Mocквa
+
+Sidgwick H (1981) Methods of ethics. Hackett Publishing, Indianapolis
+
+Singer P (1979) Practical ethics. Cambridge University Press, Cambridge
+
+Singer P (ed) (1986) Applied ethics. Oxford University Press, Oxford
+
+Sophocles (441 BC/2000) Antigone, trans. McDonald M. Nick Hern Books, London
+
+Spinoza B (1677/2011) Ética [Ethics]. Globus Comunicación, Madrid
+
+Steffen W, Rockström J, Richardson K, Lenton TM, Folke C, Liverman D, Summerhayes CP et al (2018) Trajectories of the earth system in the anthropocene. PNAS 115(33):8252–8259. https://doi.org/10.1073/pnas.1810141115
+
+Article Google Scholar
+
+UNESCO (2015) Global citizenship education: topics and learning objectives. https://unesdoc.unesco.org/ark:/48223/pf0000232993. Accessed 28 May 2017
+
+United Nations (1948) Universal declaration of human rights. https://www.un.org/en/about-us/universal-declaration-of-human-rights. Accessed 28 May 2017
+
+United Nations (2015) Paris agreement. https://unfccc.int/sites/default/files/english_paris_agreement.pdf. Accessed 15 Nov 2021
+
+US Senate (1983) Broken families: hearings before the Subcommittee on Family and Human Services of the Committee on Labor and Human Resources, United States Senate, Ninety-eighth Congress, first session on oversight on the breakdown of the traditional family unit, focusing on the effects of divorce, separation, and conflict within marriage on children and on women and men. U.S. Government Printing Office, Washington DC
+
+Walzer M (1983) Spheres of justice: a defense of pluralism and equality. Basic Books, New York
+
+Weikart R (2009) Hitler’s ethic: the Nazi pursuit of evolutionary progress. Palgrave Macmillan, New York
+
+Williams DL (2014) Rousseau’s social contract: an introduction. Cambridge University Press, Cambridge
+
+Wilson EO (1998) The biological basis of morality. https://www.theatlantic.com/magazine/archive/1998/04/the-biological-basis-of-morality/377087/. Accessed 28 May 2017
+
+Winkler EA (2002) A code of global universal ethics. https://www.humanrightsaction.org/ethics/. Accessed 28 May 2017
+
+Winkler EA (2012) Universal ethics campaign. https://www.humanrightsaction.org/universal-ethics-campaign.php. Accessed 28 May 2017
+
+Wood AW (2017) The supreme principle of morality. https://web.stanford.edu/~allenw/webpapers/SupremePrincipleMorality.pdf. Accessed 28 May 2017
+
+World Values Survey (2020) WVS wave 7. https://www.worldvaluessurvey.org/WVSContents.jsp. Accessed 15 Nov. 2021
+
+Yu CH (1990) Chinese ethics and universal human rights. https://www.creative-wisdom.com/education/china/Chinese_ethics.html. Accessed 28 May 2017
+
+The author declares that he could not get financial support for this research.
+
+Authors and Affiliations
+
+View author publications
+
+You can also search for this author in PubMed Google Scholar
+
+Corresponding author
+
+Correspondence to Enno A. Winkler.
+
+Conflict of interest
+
+The author declares that he has no conflict of interest.
+
+Rights and permissions
+
+Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visithttp://creativecommons.org/licenses/by/4.0/.
+
+Reprints and permissions
+
+Winkler, E.A. Are universal ethics necessary? And possible? A systematic theory of universal ethics and a code for global moral education. SN Soc Sci 2, 66 (2022). https://doi.org/10.1007/s43545-022-00350-7
+
+Received: 22 September 2020
+
+Accepted: 01 April 2022
+
+Published: 06 May 2022
+
+DOI: https://doi.org/10.1007/s43545-022-00350-7
+
+Anyone you share the following link with will be able to read this content:Get shareable link
+
+Sorry, a shareable link is not currently available for this article.
+
+Provided by the Springer Nature SharedIt content-sharing initiative
+
+Global citizen education
+
+Use our pre-submission checklist
+
+Avoid common mistakes on your manuscript.
+
+Part of a collection:
+
+- SDG 04 - Quality Education

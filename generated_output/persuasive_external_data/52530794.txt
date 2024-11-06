@@ -1,0 +1,111 @@
+Last modified on Nov 01, 2023
+
+Genetic Testing: Benefits, Risks and the Future
+
+Genetic testing offers many benefits, including providing important information that can be used when making decisions about having a family and taking care of one’s own health. However, there are also risks and limitations to testing. For this reason, it is important to understand the nature of genetic testing and the information that it can and can’t provide.
+
+More Genetic Topics: Disorders | Testing Techniques | Applications | Infectious Diseases
+
+Benefits, risks and limitations of genetic testing
+
+The following are some things to consider when deciding about whether to have genetic testing:
+
+Not all clinical genetic tests simply take a “snapshot” of a person at a given time the way many other laboratory tests do (such as tests that measure the glucose level in your blood at a particular moment). Some are predictive as well. Predictive tests do not always give a clear yes or no answer, but instead will estimate what the chances are of developing a particular genetic condition. Unlike genetic diagnostic tests, predictive test results are not always definitive and may leave a person wondering what to do with those results, particularly if few available treatments or therapies limit the course of action.
+
+Some genetic tests will only detect if there is a specific genetic variant, or mutation present. Many genetic tests cannot determine whether a disorder will develop, nor can they provide information about other genetic disorders not being specifically looked for by that test.
+
+While a test may detect a disorder-causing genetic change, it often cannot predict how severely the person carrying that change will be affected. For example, some patients diagnosed with cystic fibrosis (CF) have mild symptoms while other patients with CF have severe lung, pancreatic, and intestinal problems.
+
+Many genetic tests cannot detect all of the variations that could cause a particular disorder. For instance, with genetic testing for cystic fibrosis, genetic testing panels may only look for the more common variants and not every variant associated with this disorder.
+
+Many disorders are the result of an interaction between one’s genes and one’s environment. The way in which these interactions lead to disorders is not clearly understood, and genetic testing cannot predict the results of these interactions. Examples of these disorders include coronary heart disease, type 2 diabetes, obesity, and Alzheimer disease.
+
+While there are few physical risks associated with genetic testing, there may be financial, emotional and social risks to consider.
+
+When people are treated differently because they have a genetic disorder or genetic variant that pre-disposes them to a genetic disorder, this is called genetic discrimination. Federal and state laws exist to protect individuals from genetic discrimination by employers and health insurance companies. However, they do not protect people in every case. For instance, the federal Genetic Information Nondiscrimination Act (GINA), does not apply to employers with less than 15 employees or people in the military. It also does not extend to long-term care or life insurance providers. Individuals may wish to research their state’s privacy laws for this reason.
+
+Health insurance may not pay for all forms of genetic testing. If you are concerned, you or your healthcare practitioner can contact your insurance company before undergoing testing.
+
+Results of genetic tests may have implications not only for you but also for your family members, who may need genetic counseling to decide whether to be tested and for information on the implications of results.
+
+Direct-to-consumer genetic testing
+
+Genetic testing is becoming more affordable and continues to expand. Not only are more tests available in the laboratory, but home genetic tests, also called direct-to-consumer (DTC) tests or consumer genetic tests, are becoming more common. DTC tests can be beneficial because they are convenient and can help individuals better understand their disease risk factors. However, it is important to recognize that they have limitations, and are not always required to be performed in laboratories accredited according to the standards of the Clinical Laboratory Improvement Amendments (CLIA).
+
+Genetic counseling and informed consent
+
+It’s important to fully weigh potential risks and benefits before making decisions about genetic testing. An absolutely essential component of clinical genetic testing is undergoing the informed consent and counseling process. This process will educate you about the genetic test so that you have enough information to decide whether or not to have testing and will ensure that you voluntarily agree to have testing done. Counseling will also help you understand all the potential outcomes of testing and consider what you plan to do with the results of these tests. It is also important to know your legal rights and be certain that your privacy is respected. The best way to educate yourself about genetic tests is to talk to your healthcare practitioner or a genetic counselor about whether genetic testing would benefit your health.
+
+Genetic education and counseling are often advised to help understand and manage the results of genetic tests. Genetic counselors are trained professionals who can help individuals who have, or have relatives with, a genetic disorder, as well as those at increased risk for a disorder to better understand inherited conditions and genetic testing. They can identify families at risk of certain genetic disorders and offer support and counseling as well as serve as patient advocates. For more information on genetic counselors and to find one near you, visit the National Society of Genetic Counselors web site.
+
+The Future of Genetic Testing
+
+With the completion of the Human Genome Project, we have learned that “correct”, “usual” and “normal” no longer have meaning when it comes to a person’s genetic makeup. Genetic variations occur in great numbers in our genome. We are all unique, not only in our personalities and appearance, but in our genotypes as well. Scientists continue to work on ways to better understand the structure of our genetic makeup, which could allow for important advances in the prevention, detection and treatment of many disorders.
+
+Gene therapy is an approach to treating potentially lethal and disabling disorders that are caused by single gene deficiencies. With specialized techniques, genes or gene expression can be manipulated in some disorders to remedy the problem in a particular patient. To do this, customized DNA is introduced into the affected cells or tissues so that the detrimental symptoms of the disorder are not expressed in the patient.
+
+One specific gene-editing technique that has gained a lot of attention lately is CRISPR/Cas9. The technique uses the enzyme Cas9 to cut DNA at a targeted location. Once cut, the DNA is repaired by adding or removing pieces of genetic material or by replacing a segment of DNA with a customized sequence.
+
+In most cases, gene therapy is still highly experimental. Clinical trials are being conducted to see if gene therapy can be used to develop treatments for other types of disorders, including cancer, heart disease, and HIV/AIDS. In 2017, the FDA approved gene therapy for leukemia, marking the first approval of gene therapy in the U.S.
+
+Advances in technology and molecular biology laboratory techniques have opened up the fields of personalized medicine and pharmacogenomics. The ability to sequence an individual’s entire genome and to evaluate the RNA and proteins expressed by those genes is already leading to cancer treatments tailored to an individual’s and/or tumor’s genetics. As researchers continue to discover more biomarkers, genetic knowledge will allow for even greater customization of medical care. With that said, while technology has made great strides, current science does not have detailed knowledge of the function of every gene in the genome or the impact of every possible genetic change.
+
+To assist in improving our knowledge, there are several movements with goals of collecting, curating and sharing genetic data. For example, ClinVar and ClinGen are two programs of the National Institutes of Health (NIH) that collect and share genomic data. ClinVar is a free and open-access database that collects information about genetic variations and their relationship to health. The goal of ClinGen is to build an authoritative resource on the medical relevance of genes and variants for scientists to use in their research. Individuals wishing to help improve personalized medicine can find out how to become involved at websites like ClinGen.
+
+Further advances in genetic testing will eventually replace older methods of predicting prognosis, allow us to use targeted therapy only on those patients who will respond, and help guide further research into such therapies. Recent advances are also helping to increase our understanding of some complex disorders, including a variety of cancers. Without a doubt, there will be more and more advances in genetic research that will impact the laboratory tests available to all patients for detection and treatment of a variety of disorders.
+
+Cystic Fibrosis (CF) Gene Mutations Testing Learn More
+
+APOE Genotyping, Alzheimer Disease Learn More
+
+At-Home Testing Learn More
+
+National Society of Genetic Counselors’ Patient Resources Site Learn More
+
+Genetics Home Reference: What are the benefits of genetic testing? Learn More
+
+Genetics Home Reference: What are the risks and limitations of genetic testing? Learn More
+
+Cancer.Net: Pros and Cons of Genetic Testing and Cancer Learn More
+
+(2015 April 21). Privacy in genomics. National Human Genome Research Institute. Available online at https://www.genome.gov/27561246/privacy-in-genomics/. Accessed October 2018.
+
+(2017 August 29). Genetic discrimination. National Human Genome Research Institute. Available online at https://www.genome.gov/10002077/genetic-discrimination/. Accessed October 2018.
+
+(May 2018). What is direct-to-consumer genetic testing? Genetics Home Reference. Available online at https://ghr.nlm.nih.gov/primer/testing/directtoconsumer. Accessed November 2018.
+
+(May 2018). What is informed consent? Genetics Home Reference. Available online at https://ghr.nlm.nih.gov/primer/testing/informedconsent. Accessed November 2018.
+
+(May 2018). Will health insurance cover the costs of genetic testing? Genetics Home Reference. Available online at https://ghr.nlm.nih.gov/primer/testing/insurancecoverage. Accessed November 2018.
+
+(May 2018). What are the risks and limitations of genetic testing? Genetics Home Reference. Available online at https://ghr.nlm.nih.gov/primer/testing/riskslimitations. Accessed November 2018.
+
+(May 2018). What is genetic discrimination? Genetics Home Reference. Available online at https://ghr.nlm.nih.gov/primer/testing/discrimination. Accessed November 2018.
+
+Katsanis, S. H. and Katsanis N. (2013 June). Molecular genetic testing and the future of clinical genomics. National Review of Genetics. Available online at https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4461364/. Accessed October 2018.
+
+Zhang, Y. and Yao, X. (2014 February 28). The recent advances and future perspectives of personalized medicine. Journal of Genetic Syndromes and Gene Therapy. Available online at https://www.omicsonline.org/open-access/the-recent-advances-and-future-perspectives-of-personalized-medicine-2157-7412.1000e125.php?aid=24373 . Accessed October 2018.
+
+Durmaz, A. A. et al. (2015). Evolution of genetic techniques: Past, present, and beyond. Biomed Research International. Available online at https://www.hindawi.com/journals/bmri/2015/461524/. Accessed October 2018.
+
+(2017 August 30). FDA approval brings first gene therapy to the United States. U.S. Food and Drug Administration. Available online at https://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm574058.htm. Accessed October 2018.
+
+(November 21 2017). What is the difference between precision medicine and personalized medicine? What about pharmacogenomics? Genetics Home Reference. Available online at https://ghr.nlm.nih.gov/primer/precisionmedicine/precisionvspersonalized. Accessed November 2018.
+
+(November 21 2017). What are the next steps in genomic research. Genetics Home Reference. Available online at https://ghr.nlm.nih.gov/primer/genomicresearch/nextsteps. Accessed November 2018.
+
+(August 2017) What are genome editing and CRISPR-Cas9? Genetics Home Reference. Available online at https://ghr.nlm.nih.gov/primer/genomicresearch/genomeediting. Accessed January 2019.
+
+Find a Lab Near You with Labcorp
+
+Find an At-Home with LetsGetChecked
+
+The Future of Genetic Testing
+
+Ask a Laboratory Scientist
+
+This form enables patients to ask specific questions about lab tests. Your questions will be answered by a laboratory scientist as part of a voluntary service provided by one of our partners, American Society for Clinical Laboratory Science. Please allow 2-3 business days for an email response from one of the volunteers on the Consumer Information Response Team. Send Us Your Question
+
+Send Us Your Question
+
+This website uses cookies to ensure you get the best experience on our website.

@@ -1,0 +1,133 @@
+What is Social Impact and How do we Measure it?
+
+Last updated: 1/30/22
+
+In public sector work, we can’t just try hard and hope for the best. An organization’s executives, boards, funders, investors, and communities demand and deserve proof of impact. People want to know whether their time, money, and efforts are making a difference – and why shouldn’t they? Understanding the type, quality, and quantity of impact achieved helps us figure out what’s working to change communities (and equally important – what isn’t).
+
+The academics agree. For example, in an article for the Harvard Business Review, associate professor of business administration at Tufts University, Alnoor Ebrahim, says there is a discernible trend in the social sector: “Claims about making a difference are no longer sufficient; evidence of how much difference you’re making is now required.”
+
+According to a research paper on impact, developed by the Overseas Development Institute, private foundations talk of “impact investing,” social change actors talk about ‘collective impact’ and ‘social impact’, and academics are asked about their ‘research impact’. The international development community is also increasingly preoccupied with impact. Since the early 2000s, the terms ‘impact’ and ‘impact evaluation’ have skyrocketed in use and have become common parlance.”
+
+What is Social Impact?
+
+How do we define social impact in general? Is it just a positive effect on our community? Or is it something more concrete? Can it be proven? Can it be measured? Should it be measured?
+
+There are two general dictionary definitions for “impact,” but in the social sector, we’re mostly talking about the second: to have a strong effect on someone or something.
+
+We define positive impact as “turning the curve” (or beating the data baseline) on a community indicator of wellbeing or a program performance metric that answers “are our customers/clients actually better off as a result of our efforts?”
+
+We all want to have a positive impact, but impact can go both ways. It’s unfortunate (but extremely important) to understand that our work may have a negative impact or no impact at all. This is why impact measurement is so important. It helps us clearly see the effects of our strategies so that we can reinforce what is working and change (or eliminate) what is not.
+
+The 2 Types of Social Impact
+
+When organizations talk about impact, they usually talk about how an individual program or service is creating community-level change. But this can be a misleading way to think about impact.
+
+There are actually 2 different types of impact we need to think about. Understanding the distinction between the two is critical; not understanding the difference can be disastrous.
+
+Program-level impact is the impact that individual services/organizations have on the community members who directly participate in them.
+
+Population-level (or community-level) impact is the impact that many different partners, working in collaboration, have on a specific population (community, town, state. etc.)
+
+The reason we separate these types of impact is that:
+
+Individual organizations and agencies cannot and should not be held solely responsible for creating population-level impact. Community wellbeing is complex and relies on factors involving a wide range of groups, individuals, agencies, organizations, and industries. Individuals and organizations can only be held responsible for the performance of the programs and services that they manage.
+
+Think about it. How many different groups are involved in making sure children graduate on time? Parents, schools, educational nonprofits, educational agencies, teachers, textbook manufacturers, the students themselves… all play a role in the status of high school graduation. Responsibility is shared, and true impact is generated when diverse groups come together with a common goal. An individual organization should never be held solely responsible for community-level impact like this.
+
+Should We Measure Impact?
+
+There are many criticisms regarding impact measurement. One of the most common criticisms is that “data doesn’t give us a full picture of a community’s wellbeing.” It may also be extremely difficult (or even impossible) to quantitatively assess certain aspects of wellbeing. For example, measuring human emotion and perception is notoriously difficult. Do people think their lives have improved as a result of your program? Think about your own experiences and how your perception of a situation may change by the day or even the hour.
+
+But there’s no time for excuses when it comes to the wellbeing of our children, adults, families, and communities. Measuring something is always better than measuring nothing. Luckily, there are some more objective measures we can look at in addition to perception and emotion.
+
+So what constitutes proof of impact? There are two kinds of “proof” or “evidence” we can gather to determine our individual and collective impact:
+
+Anecdotal evidence: Some organizations tell stories about specific clients who have benefited from a program or service. Some use general community or staff feedback to gauge impact.
+
+Quantitative measurement: using numerical data (performance measures, indicators, etc.) to measure whether things are getting better or worse. (Tip: What is the difference between indicators and performance measures?)
+
+All of these kinds of evidence are important, but:
+
+All organizations should be using quantitative (numerical) data to measure their programmatic impact. Why? Tracking data can help ensure our programs are appropriately designed, reflect true community conditions, and are actually making a difference. (Tip: The Basics of Identifying Performance Measures for Your Organization.)
+
+This means measuring whether customers (or clients) are better off as a result of our programs or services (that’s our individual impact). How are we going to gauge the effectiveness of our job-training program if we don’t measure the “% of job training program participants who obtain and keep good jobs?” How will we know if our reading programs are working unless we measure things like “% of reading scores at or above grade level”?
+
+Partners should also continuously monitor key indicators of community wellbeing to inform collaborative improvement strategies and provide a sense of whether individual programmatic efforts correlate with a positive impact on the population. Correlation…NOT causation.
+
+Regarding the criticisms, it’s true that numbers aren’t enough to fully understand community conditions of wellbeing. It can be difficult to measure things like “gender equality” or “happiness.”
+
+This is why we should always provide the “story behind our data.” Maybe we’re not doing so hot on one of our performance measures. Providing the story behind this measure (contributing and limiting factors) can help prevent our programs from getting the boot simply because they aren’t meeting arbitrary targets. Maybe we’re doing the best we can considering external circumstances.
+
+Looking at the story behind our data brings precision and leverage to our work by helping us figure out exactly what needs to change in order to do better.
+
+Learn more about measuring and achieving impact
+
+Download our free e-Book: The Results-Based Accountability Guide
+
+Impact – Causality vs. Correlation
+
+When gauging our impact, focusing on establishing causality is flawed at best. We cannot hold individual organizations or programs responsible for community-level well being. What we can do is hold our communities collectively responsible for creating this impact, through coordinated strategies. We should look at our programs as having a contributory, rather than a causal, relationship with community-level wellbeing.
+
+Consider the following excerpt from a report by the Center for High Impact Philanthropy:
+
+“A third common misconception is that there are some impacts that simply can’t be measured; this stems in part from a fourth misconception, which is that impact must be attributed to a particular actor or action. In reality, some impacts—such as a change in attitudes towards women—are very diﬃcult or perhaps impossible to attribute to speciﬁc causes, but the impact itself can still be measured, even without a clear causal attribution.”
+
+Mark Friedman, Director of the Fiscal Policy Studies Institute and author of Trying Hard is Not Good Enough, argues that:
+
+“The relationship between programs and populations has been poorly understood in the past. This has led to repeated demands that programs prove their worth by showing their “impact” at the population level. This is a bogus requirement. Programs can and should show their effect on their customers. They should be able to articulate how their work fits with the work of other partners in a strategy to improve community quality of life. But it is extremely rare that any one program can change population conditions. We must stop asking programs to validate their worth by demonstrating such effects.”
+
+Impact can be positive, negative, or neutral.
+
+To truly understand our impact, we need to be using numerical data.
+
+Data really isn’t enough. We need to talk about the story behind our data too.
+
+There are 2 levels of impact – population-level and program-level.
+
+Individual organizations cannot be held solely responsible for population-level impact.
+
+We should avoid attempting to establish causality between programmatic-level efforts and community-level results.
+
+Instead, we can establish a contributory relationship to help us understand how our actions fit into a larger strategy implemented by many partners.
+
+Learn More About Achieving Impact
+
+If you’re serious about applying the Results-Based Accountability framework, you’ll need to implement software that is built for the job. Clear Impact Scorecard is the only software created to initiate , sustain, and reinforce the work of RBA. Scorecard’s abilities to foster collaboration between organizations, easily share data, track trends, and engage in turn the curve thinking is unparalleled by other software, especially traditional methods like Excel. To understand the full power of Scorecard as an RBA implementation tool, click here to get a free demo.
+
+Download our free Results-Based Accountability Guide to learn a simple and practical way to measure and improve your performance and impact.
+
+For those in the Collective Impact arena, check out The Components of Effective Collective Impact.
+
+For funders, check out this video: “How to Maximize the Impact of Your Social Investments – 8 Core Strategies.”
+
+2024-09-19T15:19:54-04:00By Kayleigh P. Marques|Categories: Collective Impact, Performance Management|Tags: social impact|0 Comments
+
+Share This Story, Choose Your Platform!
+
+FacebookTwitterLinkedInRedditTumblrPinterestVkEmail
+
+About the Author: Kayleigh P. Marques
+
+Hi, I'm Kayleigh. I'm a Senior Marketing Specialist at Clear Impact. I'm passionate about utilizing the power of the written word to help our customers reach their peak performance. Some of my personal passions include crocheting, going for *very long* walks, and volunteering at a local cat rescue. I co-wrote "Social Sector Hero — How Government and Philanthropy Can Fund for Impact." Go check it out and download a free digital copy at SocialSectorHero.com.
+
+Introducing Compyle Form Logic — If/Then Rules That Help You Create Smarter Surveys
+
+“Turning Curves” Podcast — Soft Launch Announcement & Episode One Preview
+
+How Clear Impact Suite Supports Effective Results-Based Accountability Implementation
+
+Being Better Stewards of Your Donors’ Dollars: A United Way Case Study for Clear Impact Unlimited Suite
+
+Clear Impact Suite Changes to Reflect Section 508 Compliance and Accessibility for the Future
+
+Leave A Comment Cancel reply
+
+Never Miss a Post! Subscribe to Our Monthly Newsletter
+
+Designing a Results-Based Workforce Development Partnership (Part 2 — Eight Core Strategies)
+
+September 10th, 2024
+
+Designing a Results-Based Workforce Development Partnership (Part 1 — Understanding the Complexity)
+
+Workforce Development Content Library

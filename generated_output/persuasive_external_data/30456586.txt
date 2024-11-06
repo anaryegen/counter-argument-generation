@@ -1,0 +1,275 @@
+Skip to main contentSkip to article
+
+Access through your organization
+
+Trends in Food Science & Technology
+
+Volume 138, August 2023, Pages 491-499
+
+Risk assessment of cultured meat
+
+Author links open overlay panelYuxiang Gu a b 1, Xing Li c 1, Eric Chun Yong Chan bShow more
+
+https://doi.org/10.1016/j.tifs.2023.06.037Get rights and content
+
+Cultured meat has the potential to become a sustainable source of nutritional protein in the future.
+
+Hazards and risks may be introduced during the production of cultured meat.
+
+Effective risk assessment strategies should be adopted to ensure safety of cultured meat.
+
+Regulatory framework for cultured meat should be harmonized eventually.
+
+Notwithstanding some controversies, the development of cell culture and tissue engineering and the increasing demand for sustainable animal-based protein, has rendered cultured meat to be a potential source of nutritional protein in the future. As an absolutely novel food, the production of cultured meat involves complex advanced technologies and integration of multiple novel ingredients. Consequently, hazards and risks may be introduced inadvertently at any stage during the production of cultured meat, which must be reviewed and approved by the regulations or legislations of the corresponding jurisdictions before the product can be introduced to the market to ensure food safety and promote human health. Currently, increasing research on the safety and risk assessment of cultured meat is being reported. However, the lack of systematic and in-depth risk assessment of cultured meat remains a hurdle to be crossed before global marketization of cultured meat can materialize.
+
+This review comprehensively summarizes the possible hazards and risks that could be introduced during the production of cultured meat and proposes countermeasures accordingly.
+
+There is no one-size-fits-all approach to test different types of cultured meat products currently and effective risk and safety assessment strategies should be adopted contextually. Additionally, the regulatory framework for cultured meat in different regions may evolve differently but should be harmonized eventually to fuel the development of safe and nutritious cultured meat products globally.
+
+Livestock farming is an important industry that contributes to national economy and people's livelihood. The positive impacts and benefits include the supply of protein-rich food, employment opportunities for workers, and maintenance of biodiversity and cultural heritage (Dumont et al., 2019; Dumont, Groot, & Tichit, 2018). However, global livestock farming has recently been constrained by its negative impact on the environment (greenhouse gas emissions, water consumption and pollution, species extinction, etc.), ethics (animal welfare) and human health (antibiotic overuse, foodborne illness, zoonotic diseases, occupational diseases, etc.) (Rubio, Xiang, & Kaplan, 2020). The demand for animal-based proteins is predicted to double with the world population forecast to increase to 9.7 billion by 2050 (Hadidi et al., 2022). With the development of cell culture and tissue engineering techniques, some researchers postulate that it is becoming increasingly possible to obtain sustainable animal proteins using fewer animal-derived materials than traditional animal husbandry, while avoiding selected drawbacks of consuming conventional animal protein (Kumar, Sood, & Han, 2023). The first cultured beef burger in the world came out in the laboratory of Professor Mark Post at Maastricht University on August 5, 2013, which set off a trend in cultured meat research (Mattick, Landis, & Allenby, 2015). The 2022 State of the Industry Reports from the Good Food Institute stated that 156 cultured meat companies across 29 countries have been founded so far and 19 of them were launched in 2022 (Claire et al., 2022). Notably, Singapore is the only country that permits the regulated sale of cultured meat products currently.
+
+Additionally, various terms such as cultured meat, clean meat, in vitro meat, lab-grown meat, cell-based meat, cultivated meat and animal-free meat are used to describe this product (Hallman, Hallman, & Hallman, 2023). Its name is actually a matter of debate and controversy and may have great significance in the European or Arabic countries due to legislation and religious beliefs (Chriki, Ellies-Oury, & Hocquette, 2022; FAO, 2022). The priorities of these terms are not discussed in this review and for consistency, the term “cultured meat” is used. Cultured meat refers to the edible muscle tissue that is produced by cultivating cells but is not directly obtained from farming animals (Kumar et al., 2023). As one of the most important fields of cellular agriculture, the production of cultured meat relies on cell biology and tissue engineering technology, mainly including targeted cells or tissues collection from living animals or freshly slaughtered animals, cell isolation and culture, biomass production (cell proliferation/expansion, differentiation and maturation) and product collection (Chen et al., 2022). Although the life cycle analysis reflects that the energy consumption of cultured meat may be greater than that of poultry meat, the production of cultured meat requires less water, land and energy and emits fewer greenhouse gases compared to agricultural beef, sheep and pork meat. Despite high uncertainty, the authors concluded that the overall environmental impacts of cultured meat production are substantially lower than those of conventionally produced meat (Tuomisto & Teixeira, 2011). Nevertheless, with greater clarity in cultured meat technology in recent years, there may be some inaccuracies in the above conclusion (Mattick et al., 2015). More recent research claims an opposing viewpoint, for example, cultured meat was reported to require higher energy than pork (Ye, Zhou, Guan, & Sun, 2022) and emit comparable greenhouse gases to beef (Klein, 2023; Lynch & Pierrehumbert, 2019). The technology of cultured meat production is still in its infancy, and its impact on the environment is closely associated with the specific production system and scale (Treich, 2021). Until now, the opinions on the environmental impact of cultured meat production remains relatively divided and non-unanimous. Consequently, the overall impact of cultured meat on the environmental need to be further assessed, monitored and clarified (FAO, 2022).
+
+Being cultured within a bioreactor under controlled artificial conditions, cultured meat is less reliant on environmental factors such as weather and geography and addresses some an ethical issue associated with traditional animal husbandry such as livestock slaughter (Stephens et al., 2018). Additionally, stem cells from farm animals are predicted to produce a million times more meat than corresponding farm animal carcasses and cultured meat can be fully consumed instead of wasting some inedible parts of traditional meat (Connor, 2013). Some authors claim that cultured meat has great potential to be a sustainable source of protein (Jairath, Mal, Gopinath, & Singh, 2021). Strict control in the production of cultured meat avoids the reproduction of pathogenic bacteria and thus reduces biological risks and the possibility of disease occurrence (Post, 2012). These benefits promote the popularity and development of cultured meat. However, some challenges persist. Although cultured meat can be easily produced on a small scale, it becomes expensive for large quantity production. Therefore, one challenge is the optimization of scale-up production such as innovating an alternative to replace the rare fetal bovine serum and recapitulating the in vivo myogenic environment (Ye et al., 2022). Consumer acceptance constitutes an additional hurdle where it is relatively low in most countries. For example, some consumers are concerned about the safety of cultured meat due to the opaqueness of its production techniques and even have nauseous reactions when hearing this concept and firmly refuse to take any risks in consuming cultured meat (Liu, Hocquette, Ellies-Oury, Chriki, & Hocquette, 2021). Various terminologies associated with cultured meat may also affect consumers’ acceptance. Hence, an appropriate term is crucial to promote the development of this industry and an international harmonized name is imminent (Hallman et al., 2023).
+
+It is most important to assess the safety of novel food before its introduction to guarantee consumer health. Some regulations or legislations have been enacted to assess the nutrition and risk of cultured meat. Although the general production process of cultured meat has been extensively reported, key information such as relevant commercial production technology and final product composition is still unclear, posing challenges for regulatory authorities. At the same time, the rapid progress of cultured meat research engenders constant update of regulations. However, safety assessment of cultured meat is less structured currently due to the novel and complex production process, unexpected biological mechanisms and unforeseen consequences associated with each product (Petetin, 2014). The lack of systematic and in-depth risk assessment of cultured meat is hence the biggest obstacle to the marketization of cultured meat. This review comprehensively summarizes the possible risks that could be introduced during the production of cultured meat and proposes countermeasures. The overarching goal is to consolidate this information and develop systematic safety assessment of cultured meat products in the near future.
+
+Key technologies and possible risks that could be introduced during cultured meat production
+
+Although some companies have successfully produced cultured meat products, the detailed production process remains as trade secrets unknown to the public. Lack of transparency is a major problem in the food production process to ensure food safety and health. Nonetheless, the critical steps to construct complex structures of livestock muscles using a small number of cells have been extensively discussed. Generally, there are four key technical aspects, including cell collection, cell culture,
+
+The premise of safety-standardized production of cultured meat
+
+Hazards and risks may be introduced inadvertently at any time during the production of cultured meat. Therefore, standardized procedures and practices such as good laboratory practices (EFSA, 2021), good manufacturing practices (FDA, 2015), good cell culture practices (Bal-Price & Coecke, 2011) and code of hygienic practices (CAC, 2005; Hadi & Brightwell, 2021) are prerequisites for the safe production of cultured meat. Another key strategy is the application of hazard and risk management
+
+Regulations or legislations of cultured meat
+
+Cultured meat is an unquestionable novel food. Consequently, each cultured meat product must be evaluated by the regulations or legislations of the corresponding jurisdictions before it can be introduced to the market to ensure food safety and human health. Currently, there is no firm definition of food safety, but European food law (known as the General Food Law) (Regulation (EU) No 178/2002) states that unsafe food is either harmful to health or unfit for human consumption, which depends on
+
+Conclusion and future perspectives
+
+With the development of cell culture and tissue engineering and the increasing demand for sustainable animal-based proteins, cultured meat has the potential to become a sustainable source of nutritional protein in the future due to its relative ethical and healthy properties. However, further inter-disciplinary research needs to be conducted before cultured meat become part of our food staples. Currently, some technical challenges in producing cultured meat products in large quantities
+
+This work was supported by the Singapore Ministry of Education Tier 1 Academic Research Funding [Grant: A-0008501-00-00] and China Scholarship Council (No. 202006120438, Beijing).
+
+Declaration of competing interest
+
+Professor Eric Chun Yong Chan is a member of the Singapore Food Agency Novel Food Safety Expert Working Group. There are no conflicts of interest to declare for Dr Yuxiang Gu and Dr Xing Li.
+
+Recommended articles
+
+Tiered toxicity testing: Evaluation of toxicity-based decision triggers for human health hazard characterization
+
+Food and Chemical Toxicology
+
+Demanding safe foods-safety testing under the novel food regulation (2015/2283)
+
+Trends in Food Science & Technology
+
+Large-scale cultured meat production: Trends, challenges and promising biomanufacturing technologies
+
+The business of cultured meat
+
+Trends in Biotechnology
+
+History of safe use as applied to the safety assessment of novel foods and foods derived from genetically modified organisms
+
+Food and Chemical Toxicology
+
+Possibilities for an in vitro meat production system
+
+Innovative Food Science & Emerging Technologies
+
+Make ruminants green again-how can sustainable intensification and agroecology converge for a better future?
+
+Associations among goods, impacts and ecosystem services provided by livestock farming
+
+Plant protein-based food packaging films; recent advances in fabrication, characterization, and applications
+
+Trends in Food Science & Technology
+
+A holistic approach to access the viability of cultured meat: A review
+
+Trends in Food Science & Technology
+
+The barriers and drivers of a safe market introduction of cultured meat: A qualitative study
+
+Chinese consumers' attitudes and potential acceptance toward artificial meat
+
+A case for systemic environmental analysis of cultured meat
+
+Journal of Integrative Agriculture
+
+A simplified and defined serum-free medium for cultivating fat across species
+
+Bioassay-guided isolation and evaluation of herbal drugs. Quality control and evaluation of herbal drugs. Quality Control and Evaluation of herbal drugs
+
+Addressing concerns over the fate of DNA derived from genetically modified food in the human body: A review
+
+Food and Chemical Toxicology
+
+Cultured meat from stem cells: Challenges and prospects
+
+Bringing cultured meat to market: Technical, socio-political, and regulatory challenges in cellular agriculture
+
+Trends in Food Science & Technology
+
+J. Van der Valk et al.
+
+Optimization of chemically defined cell culture media-replacing fetal bovine serum in mammalian in vitro methods
+
+Allergenicity assessment strategy for novel food proteins and protein sources
+
+Regulatory Toxicology and Pharmacology
+
+A prospect of cell immortalization combined with matrix microenvironmental optimization strategy for tissue engineering and regeneration
+
+Commercialization of cultured meat products: Current status, challenges, and strategic prospects
+
+New report on the French “nutrivigilance” mission since 2010
+
+European Food and Feed Law Review: Efflatounia
+
+Guidance on good cell culture practice (GCCP)
+
+Textured soy protein scaffolds enable the generation of three-dimensional bovine skeletal muscle tissue for cell-based meat
+
+Carbon nanotubes: An insight into the mechanisms of their potential genotoxicity
+
+Swiss Medical Weekly
+
+Chapter 79-prospects for in vitro cultured meat-a future harvest. Principles of Tissue Engineering
+
+Technological, regulatory, and ethical aspects of in vitro meat: A future slaughter‐free harvest
+
+Comprehensive Reviews in Food Science and Food Safety
+
+Microcarriers for upscaling cultured meat production
+
+Frontiers in Nutrition
+
+INFOGEST static in vitro simulation of gastrointestinal food digestion
+
+Code of hygienic practice for meat
+
+Cell sheet detachment affects the extracellular matrix: A surface science study comparing thermal liftoff, enzymatic, and mechanical methods
+
+Journal of Biomedical Materials Research Part A: An Official Journal of the Society for Biomaterials
+
+Chemically defined conditions for human iPSC derivation and culture
+
+Muscle stem cell isolation and in vitro culture for meat production: A methodological review
+
+Comprehensive Reviews in Food Science and Food Safety
+
+Removal of transmissible spongiform encephalopathy prion from large volumes of cell culture media supplemented with fetal bovine serum by using hollow fiber anion-exchange membrane chromatography
+
+Is “cultured meat” a viable alternative to slaughtering animals and a good comprise between animal welfare and human expectations?
+
+2022 state of the industry report | cultivated meat and seafood
+
+Special report: ‘in vitro’ beef-it’s the meat of the future
+
+Regulation (EC) No 178/2002 of the European Parliament and of the Council of 28 January 2002 laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety
+
+Official Journal of the European Communities
+
+Opinion of the scientific panel on animal health and welfare (AHAW) on a request from the commission related to the aspects of the biology and welfare of animals used for experimental and other scientific purposes
+
+Scientific opinion on genotoxicity testing strategies applicable to food and feed safety assessment
+
+Guidance on conducting repeated‐dose 90‐day oral toxicity study in rodents on whole food/feed
+
+Guidance for submission for food additive evaluations
+
+Guidance on the preparation and presentation of an application for authorisation of a novel food in the context of Regulation (EU) 2015/2283
+
+Guidance on the preparation and submission of an application for authorisation of a novel food in the context of Regulation (EU) 2015/2283 (Revision 1)(2)
+
+Food safety and quality: Microbiological risks and JEMRA
+
+Food safety and quality: Chemical risks and JECFA
+
+Thinking about the future of food safety: A foresight report
+
+Current good manufacturing practice, hazard analysis, and risk-based preventive controls for human food, final rule Federal Register, Docket Number FDA-2011-N-0920
+
+FDA completes first premarket consultation for human food made using animal cell culture technology
+
+(2022)View more references
+
+Designing cultivated meat: Overcoming challenges in the production process and developing sustainable packaging solutions
+
+2024, Trends in Food Science and Technology
+
+The commercialization of cultivated meat offers a promising avenue for sustainable food production. However, there is an urge to develop products with high marketability that could ensure food safety and quality, as well as desirable shelf-life and environmental friendliness. The current limitations in packaging/labeling approaches and the production process of cultivated meat have resulted in quality disparities, necessitating overviewing and analyzing the research in this area to match the physical attributes, nutritional content, and sensory properties of cultivated meat with conventional meat.
+
+This study aims to analyze the current limitations of cultivated meat and provide recommendations that serve as guidelines for enhancing its quality. Additionally, the considerations for developing environmentally friendly and sustainable packaging that ensures the safety and quality of cultivated meat have been outlined along with future research directions.
+
+Numerous parameters, including stem cells, appropriate scaffold materials, increased muscle tissue cells with actomyosin, and genetic modification, must be considered during the production process to enhance cultivated meat quality. Also, modifying packaging materials with emerging technologies and using by-products or bio-based materials could create sustainable packaging for cultivated meat. Lastly, transparency in labeling is vital in reducing the risk of food neophobia associated with cultivated meat.
+
+High-throughput analysis of hazards in novel food based on the density functional theory and multimodal deep learning
+
+2024, Food Chemistry
+
+The emergence of cultured meat presents the potential for personalized food additive manufacturing, offering a solution to address future food resource scarcity. Processing raw materials and products in synthetic food products poses challenges in identifying hazards, impacting the entire industrial chain during the industry's further evolution. It is crucial to examine the correlation of biological information at different levels and to reveal the temporal dynamics jointly. Proposed active prevention method includes four aspects: (i) Investigating the molecular-level mechanism underlying the binding and dissociation of hazards with proteins represents a novel approach to mitigate matrix effect. (ii) Identifying distinct fragments is a pivotal advancement toward developing a novel screening strategy for hazards throughout the food chain. (iii) Designing an artificial intelligence model-based approach to acquire multi-dimensional histology data also holds significant potential for various applications. (iv) Integrating multimodal data is a practical approach to enhance evaluation and feedback control accuracy.
+
+Review: Livestock cell types with myogenic differentiation potential: Considerations for the development of cultured meat
+
+With the current environmental impact of large-scale animal production and societal concerns about the welfare of farm animals, researchers are questioning whether we can cultivate animal cells for the purpose of food production. This review focuses on a pivotal aspect of the cellular agriculture domain: cells. We summarised information on the various cell types from farm animals currently used for the development of cultured meat, including mesenchymal stromal cells, myoblasts, and pluripotent stem cells. The review delves into the advantages and limitations of each cell type and considers factors like the selection of the appropriate cell source, as well as cell culture conditions that influence cell performance. As current research in cultured meat seeks to create muscle fibers to mimic the texture and nutritional profile of meat, we focused on the myogenic differentiation capacity of the cells. The most commonly used cell type for this purpose are myoblasts or satellite cells, but given their limited proliferation capacity, efforts are underway to formulate myogenic differentiation protocols for mesenchymal stromal cells and pluripotent stem cells. The multipotent character of the latter cell types might enable the creation of other tissues found in meat, such as adipose and connective tissues. This review can help guiding the selection of a cell type or culture conditions in the context of cultured meat development.
+
+Responsible innovation: Mitigating the food safety aspects of cultured meat production
+
+2024, Journal of Food Science
+
+Scalable Processes for Culturing Meat Using Edible Scaffolds
+
+2024, Annual Review of Food Science and Technology
+
+The potential of future foods for a sustainable future
+
+View all citing articles on Scopus
+
+These authors contributed equally to this work.View full text
+
+Recommended articles
+
+Trends and ideas in technology, regulation and public acceptance of cultured meat
+
+Future Foods, Volume 3, 2021, Article 100032
+
+Guan Xin, …, Jian Chen
+
+Will cultured meat be served on Chinese tables? A study of consumer attitudes and intentions about cultured meat in China
+
+Meat Science, Volume 197, 2023, Article 109081
+
+Haoran Li, …, Junfei Bai
+
+Cultured meat: a review on accepting challenges and upcoming possibilities
+
+Current Opinion in Food Science, Volume 52, 2023, Article 101050
+
+Rosires Deliza, …, Thelma Lucchese-Cheung
+
+Cultured meat from muscle stem cells: A review of challenges and prospects
+
+Journal of Integrative Agriculture, Volume 14, Issue 2, 2015, pp. 222-233
+
+Isam T Kadim, …, Roger Purchas
+
+Cultured meat: Processing, packaging, shelf life, and consumer acceptance
+
+LWT, Volume 172, 2022, Article 114192
+
+Shahida Anusha Siddiqui, …, Jose M. Lorenzo
+
+The Business of Cultured Meat
+
+Trends in Biotechnology, Volume 38, Issue 6, 2020, pp. 573-577
+
+Deepak Choudhury, …, Elliot Swartz
+
+Show 3 more articles
+
+View article metrics

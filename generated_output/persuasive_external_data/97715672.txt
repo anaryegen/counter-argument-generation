@@ -1,0 +1,91 @@
+Opening the lines of communication between research scientists and the wider community
+
+SITN Lectures on YouTube
+
+SITN Podcast on SoundCloud
+
+Subscribe to the SITN Mailing List
+
+SITN Website RSS Feed
+
+Reversing Climate Change with Geoengineering
+
+by Sanjana Kulkarni figures by Jovana Andrejevic
+
+The average global temperature is increasing faster now than at any time in the last 2 million years. This has fueled record-breaking droughts, heat waves, and wildfires, and has intensified weather patterns, causing more extreme and damaging hurricanes and rainfall. Human activity is driving this change, primarily through the emission of carbon dioxide (CO2) and other greenhouse gases, which are released when fossil fuels like coal, oil, and natural gas are burned to produce energy. 
+
+When sunlight strikes the Earth’s atmosphere, around 30% of it is reflected back out to space, and 70% is incorporated into the climate’s energy system. The Earth radiates some of this absorbed heat out to space, but greenhouse gases in the atmosphere prevent it from escaping. Greenhouse gases are necessary to keep the planet warm enough for living things, but very high concentrations are increasing global temperatures beyond the normal range (Figure 1). Although the best way to slow climate change is to reduce greenhouse emissions by switching to clean energy sources like solar, wind, water, and nuclear energy, the CO2 already in the atmosphere can persist and continue to exert warming effects for centuries. Geoengineering, the large-scale modification of Earth’s climate, is worth exploring because countries have been cutting their emissions too slowly to make any near-term impact on climate change.
+
+Figure 1. The Greenhouse Effect: Incoming sunlight is partially reflected but mostly absorbed by the Earth. Some of the heat absorbed by the Earth is radiated out to space, but greenhouse gases act like a blanket and trap the heat, increasing the planet’s average temperature. Carbon dioxide (CO2), methane (CH4), nitrous oxide (N2O), and water vapor are all greenhouse gases. CO2 is a stable atmospheric gas, and its warming effects persist for decades.
+
+Giving Earth Some Shade
+
+The greenhouse effect increases the amount of sunlight that the Earth absorbs, thereby heating the planet. To counter this, several methods have been proposed to cool the Earth by reducing the amount of sunlight that reaches the Earth in the first place. These light reflecting methods are collectively called solar geoengineering. One method involves spraying tiny particles called sulfate aerosols into the atmosphere to reflect away sunlight. Sulfate aerosols are naturally released from volcanoes and desert dust. They are also produced by burning fossil fuels and actually offset a portion of global warming caused by greenhouse gases. However, when released at ground level during fossil fuel combustion, they cause dangerous levels of air pollution. Scientists are experimenting with releasing sulfate aerosols into the stratosphere using airplanes or hot air balloons, where the aerosols can effectively increase sunlight reflectance but are too high to cause dangerous air pollution levels (Figure 2).
+
+The main advantages of this method are speed, reversibility, and relative cost-effectiveness, as it is estimated to cost $2.5 billion per year. Additionally, sulfate aerosols are relatively well studied because they already exist in the atmosphere. However, the stratosphere contains a layer of ozone, a gas that absorbs the most harmful types of ultraviolet radiation from the sun, and it’s possible that sulfate aerosols could initiate ozone-destroying reactions, allowing more ultraviolet rays to reach the Earth.
+
+Another cooling method involves brightening clouds above the oceans. In general, darker objects absorb light while brighter objects reflect it. Brightening clouds above oceans would cause the clouds to reflect more light away before it can be absorbed by the dark oceans below. A cloud’s brightness depends on the size of the water droplets that comprise it (smaller droplets have more surface area, so they scatter more light and appear brighter). To brighten clouds, tiny seawater aerosols could be sprayed over the oceans, so that small water droplets form around them. The smaller the aerosols, the smaller the droplets that stick to them. However, changing the droplet size could also affect how long the clouds last and how much water they can hold. Because clouds form in the lowest level of the atmosphere, called the troposphere, cloud brightening has a greater risk of affecting weather patterns than spraying sulfate aerosols high into the stratosphere.
+
+Figure 2. Atmospheric Layers: The Earth’s atmosphere is comprised of five distinct layers. The troposphere, the closest layer to the Earth’s surface, is where weather occurs. Because clouds are found in the troposphere, cloud engineering occurs here too. The next layer is the stratosphere, which contains the ozone layer and is where commercial airplanes fly. Light-reflecting sulfate aerosols can be sprayed into the stratosphere to avoid polluting the tropospheric air that we breathe.
+
+Cloud brightening requires more investment up front to build the machines necessary to take in seawater, convert it to tiny droplets, and spray them into the air. The machines would likely be carried on boats to move to different parts of the ocean, but they must be able to withstand strong ocean currents and weather conditions. The estimated cost of building a large enough fleet of these boats is $3-5 billion, in addition to ongoing maintenance costs. 
+
+The primary knowledge gap of solar geoengineering is in how rapid sunlight changes will affect other aspects of climate besides temperature. This can be studied in climate models, but it is difficult to test in the real world. There is also concern that the drop in sunlight may decrease plant growth, thereby increasing the amount of atmospheric CO2 and reducing crop yields. These methods also fail to address the root cause of climate change.
+
+Engineering the Oceans
+
+Another major problem of too much CO2 in the atmosphere is ocean acidification, which occurs when CO2 dissolves into the ocean and makes carbonic acid. Acids dissolve the hard shells of many ocean animals like corals, killing them. Additionally, many animals without shells are also sensitive to changes in acidity and can’t survive outside a narrow range. Another problem with high ocean CO2 concentration is that it causes even more CO2 to accumulate in the atmosphere. Oceans currently absorb 25% of the CO2 that humans release into the atmosphere, but oceans are reaching a limit and are not able to absorb as much CO2 as before. 
+
+Ocean fertilization is the best studied ocean geoengineering method and may be able to reduce both ocean acidification and global warming. It involves supporting the growth of phytoplankton, which convert CO2 into oxygen through photosynthesis. Microscopic phytoplankton perform around 50% of the world’s photosynthesis. Just like fertilizer can be added to gardens to help plants grow faster, different fertilizers can be added to oceans to help phytoplankton grow faster and consume more CO2. Iron is the main ocean fertilizer under consideration, and this process would be much cheaper and faster than planting more trees on land.
+
+However, there are potential unintended consequences of this method. Overgrowth of phytoplankton could cause algae blooms that deplete oxygen from water, thereby harming marine animals. Additionally, although phytoplankton are crucial at the bottom of the marine food chain, a sudden increase in their population may shift the balance of different algal species, destabilizing the marine ecosystem. This is also more expensive, less efficient, and will take longer to set up than aerosol methods. The cost depends on the type of nutrient (iron or other) added to the ocean, but the average annual estimate is $450 billion.
+
+Direct Carbon Capture
+
+Direct carbon capture is an umbrella term for chemical reactions that filter CO2 from the air. Existing technology can store CO2 underground or funnel it to be used to make consumer goods. Carbon capture has fewer risks than the other methods, and it addresses the root problem of excess atmospheric CO2, but it requires more work upfront to research different techniques and build the necessary infrastructure than solar geoengineering. 
+
+Carbon capture methods have facilitated growth of a market for carbon trading, and several companies, such as Carbon Engineering, Global Thermostat, CarbonCure, and Climeworks have been working to commercialize their technologies. As opposed to the other methods, the costs of developing these technologies will most likely fall to the private sector, whereas public investment will be in the form of monitoring and regulation.
+
+Figure 3. Summary of Geoengineering Methods: Many other geoengineering methods are being researched and explored, but the primary ones are shown here. Geoengineering is divided into solar geoengineering (reflecting sunlight to cool the planet) and carbon capture (removing CO2 from the atmosphere to slow greenhouse effect-induced warming).
+
+Geoengineering for the World
+
+The primary challenges of geoengineering are conducting field experiments to accurately assess potential consequences and developing international agreements to safely deploy and monitor geoengineering technologies. If geoengineering were adopted, a combination of techniques would be used depending on cost, regional conditions, and the climate’s response. Different methods may have local or global effects, so regulatory policies need to be agreed upon by the international community. Therefore, many scientists have called for the creation of regulatory agencies to advise the United Nations and lay out plans for how geoengineering methods should be prioritized. Geoengineering could help us reverse climate change in a more controlled manner, buying us time to make our society more sustainable.
+
+Sanjana Kulkarni is a first-year Ph.D. student in Virology at Harvard Medical School Jovana Andrejevic is a fifth-year Applied Physics Ph.D. student in the School of Engineering and Applied Sciences at Harvard University Cover image by cocoparisienne on Pixabay
+
+For More Information:
+
+To read more about geoengineering, check out How to Cool the Planet by journalist Jeff Goodell and The Planet Remade by science writer Oliver Morton.
+
+Check out many other geoengineering methods not discussed in this post here.
+
+For a good summary about the lack of geoengineering research and the challenges of implementation, see this Nature article.
+
+For information about geoengineering research being conducted at Harvard, check out the Solar Geoengineering Research Program and the development of controlled stratospheric experiments.
+
+To learn more about ocean acidification and buffering, see this Nature Scitable article.
+
+For more information on global warming and its impacts on humans and other organisms, see journalist Elizabeth Kolbert’s writings.
+
+Click to print (Opens in new window)
+
+Click to email a link to a friend (Opens in new window)
+
+Click to share on Facebook (Opens in new window)
+
+Click to share on Twitter (Opens in new window)
+
+Click to share on Reddit (Opens in new window)
+
+65 thoughts on “Reversing Climate Change with Geoengineering”
+
+Geoengineering is coool in my opinion
+
+Hopefully they’ll find some thing that works without damaging the environment, in time to use it!
+
+Leave a Reply Cancel reply
+
+This work by SITNBoston is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+ Unless otherwise indicated, attribute to the author or graphics designer and SITNBoston, linking back to this page if possible.

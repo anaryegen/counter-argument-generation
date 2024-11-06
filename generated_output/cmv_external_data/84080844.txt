@@ -1,0 +1,147 @@
+Skip to main content
+
+Harvard Law Review Print Articles
+
+First Amendment Article 133 Harv. L. Rev. 439
+
+Free Speech and Justified True Belief
+
+Law often prioritizes justified true beliefs. Evidence, even if probative and correct, must have a proper foundation. Expert witness testimony must be the product of reliable principles and methods. Prosecutors are not permitted to trick juries into convicting a defendant, even if that defendant is truly guilty. Judges’ reasons, and not just the correctness of their holdings, are the engines of precedent.
+
+Lawyers are, in short, familiar with the notion that one must be right for the right reasons. And yet the standard epistemic theory of the First Amendment — that the marketplace of ideas is the “best test of truth” — has generally focused on truth alone, as if all true beliefs must be treated equally. This thin account leaves the epistemic theory vulnerable to withering criticism, especially in a “post-truth” era.
+
+This Article suggests that the epistemic theory of the First Amendment might be reframed around a different value: not truth alone, but knowledge, roughly defined as justified true belief. Philosophers from Plato until the present day have explored what makes knowledge distinct and distinctly valuable; echoes of those efforts can be heard in First Amendment theory and doctrine as well. A knowledge-based account need not limit the protections of free speech to justified true belief, any more than the marketplace model covers only truth, and may even help resolve thorny First Amendment issues like those involving professional speech and institutional deference. The goal of this Article is to provide a richer epistemic account of the First Amendment at a time when it is sorely needed.
+
+A century ago, Justice Holmes’s dissent in Abrams v. United States1 helped lay the foundations of U.S. free speech law and theory. Though he was hardly writing on a blank slate, Justice Holmes captured something powerful when he wrote that “the best test of truth is the power of the thought to get itself accepted in the competition of the market, and . . . truth is the only ground upon which [people’s] wishes safely can be carried out.”2 This marketplace of ideas model was “virtually canonized” for generations3 and has shaped First Amendment doctrine in significant ways.4 But it was and is, to repurpose Justice Holmes’s own words, “an experiment, as all life is an experiment.”5
+
+Many people seem ready to conclude that the experiment has failed. Developments in psychology, economics, history, sociology, and other scholarly fields have drawn attention to the host of problems — cognitive limitations, motivated reasoning, racism, sexism, resource inequalities, and the like — that make it impossible for the marketplace of ideas to reliably deliver on its promise of identifying “truth.”6 Abrams’s own legacy provides an example, since the influence of the case undoubtedly owes a great deal to the power and beauty of Justice Holmes’s prose, rather than the “truth” of the ideas it expresses.7
+
+Such critiques are, for the most part, internal to the epistemic theory: they accept truth as the end goal of the First Amendment but doubt the ability of unregulated speech to deliver it. Another set consists of external challenges — those suggesting that the First Amendment’s lodestar is not truth, but democracy, personal autonomy, or some other value.8
+
+But scholarly debates are not the most serious threat to the marketplace model. A robust system of free speech depends fundamentally on widely shared social, political, and cultural commitments,9 and it would be putting it mildly to say that there is widespread anxiety about truth and the ability of speech — especially but not exclusively online speech — to counter falsehoods and lies. Every day, headlines deliver discouraging answers to John Milton’s rhetorical question, “Let [Truth] and falsehood grapple; who ever knew Truth put to the worse in a free and open encounter?”10 The undoubted prevalence of free and accessible true information — one promise of the information age — seems to have done little to stem the tide.11
+
+Against this tide, a retreat from the epistemic theory of the First Amendment, or perhaps from free speech altogether, might seem attractive or even necessary. After all, if it is to model its own purported virtues, the marketplace theory must recognize that it, too, can go the way of other “fighting faiths.”12 If we are living in a “post-truth” era,13 then perhaps we need a post-truth First Amendment.
+
+And yet such a capitulation could worsen the crisis. The epistemological problem of the “post-truth” era is not simply that some people no longer value truth, but that so many believe falsehoods. When people act on outlandish but truly held beliefs they often demonstrate a strong — even perversely courageous — commitment to what they believe to be factual truths.14
+
+One therefore cannot combat the phenomenon simply by insisting on the value of truth. Nor is it possible to fully sidestep the problem by making democracy, autonomy, or some other value the central goal of the First Amendment. Those theories, too, frequently depend in part on the epistemic function of free speech. A well-functioning democracy relies on expert knowledge.15 Lies and misinformation can interfere with personal autonomy.16
+
+The challenge, therefore, is to conceptualize the First Amendment in a way that recognizes the power of the critiques but also safeguards the necessary epistemic values of free speech, above and beyond an unrealistic faith that free speech will deliver “truth.” And because freedom of speech is an actual (albeit normative) practice,17 and not just a matter of theory, any account of free speech values should be built using the materials of that practice, including but not limited to legal doctrine.18 Those materials should not be expected to point squarely in favor of a single, overarching free speech principle,19 but they can still clarify our existing commitments and help shape new ones.
+
+The search for free speech principles has also regularly drawn on insights from other disciplines — from the marketplace of ideas as a whole. Indeed, the basic insight of the marketplace metaphor itself had earlier been articulated by Milton, Mill, and others, and its announcement in Abrams owes more to economics, political philosophy, and history than to precedent.20 And because the value of free speech is partly an epistemological question,21 it is worth considering that for generations of epistemologists, the most common lodestar is not truth — the central concern of the Holmesian approach to free speech22 — but knowledge.23 And although there are deep divisions and ongoing debates about the definition and value of knowledge (these are the basic questions of epistemology, after all24), philosophers since Plato have often taken as their starting point a tripartite definition of knowledge as justified true belief (JTB),25 and this Article will use the labels interchangeably.
+
+Although JTB has been subject to searching examinations and criticisms far beyond the scope of this Article,26 it remains central in the epistemological debates. The second and third parts of the tripartite definition are, generally speaking, less controversial than the first: One cannot “know” something that is false,27 or that one does not believe. But, and somewhat more controversially, even a true belief will not constitute knowledge if it is not properly justified. A lucky guess that is borne out, for example, or an accurate belief generated by lying or manipulation, is not “knowledge.”
+
+Broadening the First Amendment’s frame to focus on justifications of belief, and not just on truth alone, provides a richer epistemic defense of the goal of free speech — not just as a means of identifying particular factual or political truths, but as a means of strengthening our mechanisms of belief.28 Standard accounts focus on the maximization of truth but give no particular attention to the justifications for true belief — the individual habits of mind29 and social practices30 that support the acquisition and belief of truths. This keeps cognition at the center of the First Amendment, while accepting the thrust of the internal critiques (which are focused on truth, not justifications) and incorporating some elements of the external critiques (including the relevance of social practices).31
+
+A knowledge-based approach to free speech can also do better than the marketplace model in directly addressing the broader epistemological crisis in free speech. People have access to more information — more truth propositions — than ever before, and may continue to believe passionately in the importance of truth. There are, of course, bitter disagreements about whether certain ideas are true. But the more fundamental disagreement and doubt is about which sources, practices, and institutions provide reliable or otherwise desirable information.32 This is a debate about valid justifications, not about whether particular beliefs are true, or for that matter whether truth is important.
+
+In order to be successful, a knowledge-based approach must not only address these challenges; it must also account for existing practices and legal rules. Fortunately, what works in theory in this case also works in practice. Many legal rules (and, in some respects, the basic rules of legal argumentation) are predicated on a commitment to establishing proper justifications.33 If a prosecutor lies to secure the conviction of a guilty criminal, he or she will have created a true belief in the minds of the jury — but that belief will not be justified, and might not be permitted to stand.34
+
+Of course, the rules of the courtroom do not apply mutatis mutandis to public discourse,35 so one must ask whether the First Amendment can prioritize certain justifications for belief without violating core doctrinal and theoretical commitments. Perhaps most importantly, there is a crucial difference between treating justifications as necessary and treating them as aspirational. The JTB approach defended here is of the latter variety: it makes knowledge the goal of the First Amendment, not a prerequisite for constitutional coverage, just as the marketplace model has truth as a lodestar but covers falsehoods as well. The point in either case (or, for that matter, under other theories like those prioritizing democracy) is to focus on the goals of free speech, not to conflate that end with a particular means.
+
+This is not a purely normative, theoretical mission — it is intertwined with current doctrinal and scholarly controversies regarding professional and expert speech, institutionalism, and a general focus on social practices in First Amendment doctrine.36 From an epistemic perspective, these debates look different through the JTB lens. There might, for example, be a significant difference between a doctor and a palm reader describing the outcome of a surgery, even if they say the same thing and therefore have identical truth values. By privileging justifications for true belief, the JTB lens could better account for the constitutional status of professional speech and knowledge communities like universities, and for the attention given to the mental states — for example, internal justifications — of speakers and listeners.
+
+Part I investigates the strengths and weaknesses of the standard epistemic theory of free speech — the marketplace model — and the ways in which a thicker epistemology might preserve its core while incorporating many of the insights of alternative theories rooted in democracy and individual autonomy. Part II attempts to situate the concept of “knowledge” in the First Amendment, first by providing an account of its constitutional value and then by considering various ways in which courts could identify and protect proper justifications for beliefs without running afoul of other First Amendment principles. It uses the Supreme Court’s recent decision in National Institute of Family & Life Advocates (NIFLA) v. Becerra37 to illustrate how the knowledge-based approach might have done a better job than the marketplace model in evaluating the constitutional status of professional speech.
+
+It is important at the outset to clarify the scope of the argument. Making justified true belief the central epistemic value of the First Amendment could potentially help solve these and other problems of doctrine and theory, but it would not necessarily involve a radical revision, nor would it be applicable in all free speech scenarios. Like the theory it seeks to amend — the marketplace of ideas — the JTB approach is most relevant in situations where the epistemic values of free speech are in play, and that is not always the case. Art, political opinion, and other important forms of free speech — or, for that matter, epistemic claims made in public discourse38 — may be protected for reasons not grounded in their “truth.”
+
+The goal of this Article is not to solve the First Amendment’s epistemic crisis, but to suggest a new way to think about it. The Article’s ultimate end is to convince readers that epistemic approaches to the First Amendment should — subject to constraints — treat justified true belief, rather than truth alone, as the lodestar of free speech values. Doing so would help address some of the deficiencies in the marketplace of ideas model, while providing a richer account of the First Amendment’s epistemic goals.
+
+* Lanty L. Smith ’67 Professor of Law, Duke Law School. Many thanks to Rebecca Aviel, Vince Blasi, Alan Chen, Claudia Haupt, Paul Horwitz, Sam Kamin, Andy Koppelman, Go-vind Persad, Fred Schauer, Alex Tsesis, and the faculty of University of Denver Sturm College of Law for helpful comments, and to Izaak Earnhardt for excellent research assistance.
+
+^ 250 U.S. 616 (1919). Return to citation ^
+
+^ Id. at 630 (Holmes, J., dissenting). Return to citation ^
+
+^ William P. Marshall, In Defense of the Search for Truth as a First Amendment Justification, 30 Ga. L. Rev. 1, 1 (1995) (“The most influential argument supporting the constitutional commitment to freedom of speech is the contention that speech is valuable because it leads to the discovery of truth.”); see also Kent Greenawalt, Free Speech Justifications, 89 Colum. L. Rev. 119, 130 (1989) (“The most familiar argument for freedom of speech is that speech promotes the discovery of truth.”). Return to citation ^
+
+^ See Joseph Blocher, Institutions in the Marketplace of Ideas, 57 Duke L.J. 821, 825 n.7 (2008) (collecting cases invoking the marketplace model). Return to citation ^
+
+^ Abrams, 250 U.S. at 630 (Holmes, J., dissenting). Return to citation ^
+
+^ See infra section I.B.1, pp. 451–55. Return to citation ^
+
+^ Cf. Richard A. Posner, Introduction, in The Essential Holmes xvii (Richard A. Posner ed., 1992) (arguing that some of Justice Holmes’s opinions “owe their distinction to their rhetorical skill rather than to the qualities of their reasoning”). Return to citation ^
+
+^ See infra section I.B.2, pp. 455–59; see also Frederick Schauer, Facts and the First Amendment, 57 UCLA L. Rev. 897, 909–10 (2010) (noting that “the free speech literature appears increasingly to have detached itself from the empirical and instrumental epistemic arguments” largely in favor of those based on democracy and autonomy). Return to citation ^
+
+^ If a citation is necessary, one could do worse than Judge Learned Hand: “Liberty lies in the hearts of men and women; when it dies there, no constitution, no law, no court can save it; no constitution, no law, no court even can do much to help it.” Learned Hand, The Spirit of Liberty (1944), reprinted in The Spirit of Liberty: Papers and Addresses of Learned Hand 189, 190 (Irving Dilliard ed., 1952); John M. Harlan, The Bill of Rights and the Constitution: An Excerpt from an Address, 64 Colum. L. Rev. 1175, 1176 (1964) (quoting same). Return to citation ^
+
+^ John Milton, Areopagitica: A Speech for the Liberty of Unlicensed Printing 45 (H.B. Cotterill ed., MacMillan & Co. 1961) (1644); see also Vincent Blasi, A Reader’s Guide to John Milton’s Areopagitica, the Foundational Essay of the First Amendment Tradition, 2017 Sup. Ct. Rev. 273, 310. Return to citation ^
+
+^ See generally Yochai Benkler et al., Network Propaganda: Manipulation, Disinformation, and Radicalization in American Politics passim (2018). Return to citation ^
+
+^ Abrams v. United States, 250 U.S. 616, 630 (1919) (Holmes, J., dissenting). Justice Holmes himself suggested as much: “If in the long run the beliefs expressed in proletarian dictatorship are destined to be accepted by the dominant forces of the community, the only meaning of free speech is that they should be given their chance and have their way.” Gitlow v. New York, 268 U.S. 652, 673 (1925) (Holmes, J., dissenting). Return to citation ^
+
+^ Amy B. Wang, “Post-Truth” Named 2016 Word of the Year by Oxford Dictionaries, Wash. Post (Nov. 16, 2016), https://www.washingtonpost.com/news/the-fix/wp/2016/11/16/post-truth-named-2016-word-of-the-year-by-oxford-dictionaries/ [https://perma.cc/WV5N-ECAZ] (“It’s official: Truth is dead. Facts are passe.”). Return to citation ^
+
+^ This is not universally true, of course — some are simply trolling, manipulating, or otherwise engaged in expression that is indifferent to truth. Neither the marketplace model nor my knowledge-based alternative is well suited to address situations where truth itself is irrelevant. From the perspective of an epistemic theory, and at risk of slight overstatement, “these men are nihilists. There’s nothing to be afraid of.” The Big Lebowski (PolyGram Filmed Entertainment & Working Title Films 1998). Return to citation ^
+
+^ Robert C. Post, Democracy, Expertise, and Academic Freedom: A First Amendment Jurisprudence for the Modern State, at ix (2012) (“Any modern society needs expert knowledge in order to survive and prosper.”); see also Tom Nichols, The Death of Expertise: The Campaign Against Established Knowledge and Why It Matters 216 (2017) (“[T]he collapse of the relationship between experts and citizens is a dysfunction of democracy itself.”). Return to citation ^
+
+^ See, e.g., Steven H. Shiffrin, The First Amendment, Democracy, and Romance 116–17 (1990); David A. Strauss, Persuasion, Autonomy, and Freedom of Expression, 91 Colum. L. Rev. 334, 354 (1991) (“Lying creates a kind of mental slavery that is an offense against the victim’s humanity for many of the reasons that physical slavery is.”); Jonathan D. Varat, Deception and the First Amendment: A Central, Complex, and Somewhat Curious Relationship, 53 UCLA L. Rev. 1107, 1113 (2006) (noting argument that manipulative lies “are incompatible with the respect for human autonomy underlying the First Amendment”); see also Immanuel Kant, Foundations of the Metaphysics of Morals 48 (Lewis White Beck trans., The Bobbs-Merrill Co. 1959) (1785) (arguing that lies violate human autonomy by treating people as means rather than ends). Return to citation ^
+
+^ It might be more accurate to say “set of practices,” given the many distinct activities that reside under the header: freedoms of the press, artistic creation, scientific research, political debate, and so on. See Frederick Schauer, Free Speech: A Philosophical Enquiry 14 (1982). Return to citation ^
+
+^ See Post, supra note 15, at 5 (“To determine the purposes of the First Amendment, therefore, we must consult the actual shape of entrenched First Amendment jurisprudence.”); Robert Post, Replies, Participatory Democracy as a Theory of Free Speech: A Reply, 97 Va. L. Rev. 617, 618 (2011) (“Because law typically acquires authority from the commitments and principles of those whom it seeks to govern, I have sought to identify this fundamental purpose by inquiring into our historical commitments and principles.” (citing Robert C. Post & Neil S. Siegel, Theorizing the Law/Politics Distinction: Neutral Principles, Affirmative Action, and the Enduring Legacy of Paul Mishkin, 95 Calif. L. Rev. 1473, 1474 (2007))). Return to citation ^
+
+^ See, e.g., Robert Post, Essay, Recuperating First Amendment Doctrine, 47 Stan. L. Rev. 1249, 1271 (1995) (“There is in fact no general free speech principle . . . .”); Steven Shiffrin, Dissent, Democratic Participation, and First Amendment Methodology, 97 Va. L. Rev. 559, 559 (2011) (“Too many values interact in too many complicated ways to expect that a single, or small set of values, would emerge as the transcendent master value in resolving freedom of speech questions. Because of this, an eclectic approach is both the most descriptive and the best normative methodology with which to approach free speech issues.” (footnote omitted)). Return to citation ^
+
+^ See infra notes 45–52 and accompanying text. Return to citation ^
+
+^ Cf. Paul Horwitz, The First Amendment’s Epistemological Problem, 87 U. Wash. L. Rev. 445, 447 (2012) (“[T]he First Amendment faces what I call an epistemological problem: specifically, the problem of figuring out just how knowledge fits within the First Amendment.”). Return to citation ^
+
+^ Even to call it “Holmesian” is to raise questions, for Justice Holmes’s own view of truth was complex and debatable. See Alexander Tsesis, Free Speech Constitutionalism, 2015 U. Ill. L. Rev. 1015, 1039, 1056–57; infra note 135 and accompanying text. Return to citation ^
+
+^ Matthias Steup, Epistemology, Stan. Encyclopedia of Phil. (Dec. 14, 2005), https://plato.stanford.edu/entries/epistemology [https://perma.cc/4W4T-8BUZ] (“[E]pistemology is the study of knowledge and justified belief.”). Return to citation ^
+
+^ Douglas N. Husak & Craig A. Callender, Willful Ignorance, Knowledge, and the “Equal Culpability” Thesis: A Study of the Deeper Significance of the Principle of Legality, 1994 Wis. L. Rev. 29, 44 (“[There are] enormous theoretical difficulties in understanding and applying the concept of knowledge. Epistemologists have sought to elucidate the concept of knowledge and have found this project no small task.”). Return to citation ^
+
+^ See Roderick M. Chisholm, The Foundations of Knowing 43 (1982); Stewart Cohen, Justification and Truth, 46 Phil. Stud. 279 (1984) (discussing schools of thought relating to justification and truth). For more classic sources, see Robert Nozick, Philosophical Explanations 172–78 (1981); Plato, Theaetetus 201b–201d, at 80 (M.J. Levett trans., 1992). See generally Bertrand Russell, Human Knowledge: Its Scope and Limits passim (1948). Return to citation ^
+
+^ To take the most obvious example, Edmund Gettier effectively proved that JTB alone cannot provide a satisfactory account of knowledge. See Edmund L. Gettier, Is Justified True Belief Knowledge?, 23 Analysis 121 (1963). Return to citation ^
+
+^ Whether someone can “know” something that is not false, but which has no standard propositional truth value, is a harder question. See, e.g., Martha C. Nussbaum, Love’s Knowledge, in Love’s Knowledge: Essays on Philosophy and Literature 261, 262 (1990) (“Knowledge of the heart must come from the heart . . . .”). Return to citation ^
+
+^ See, e.g., Ashley Messenger, Essay, The Epistemic and Moral Dimensions of Fake News and the First Amendment, 16 First Amend. L. Rev. 328, 337 (2017) (“If ‘knowledge’ is ‘true, justified belief,’ then one who wishes to have knowledge must care about whether that belief is justified.”). Return to citation ^
+
+^ See infra section II.B.1, pp. 477–82 Return to citation ^
+
+^ See infra section II.B.2, pp. 482–86. Return to citation ^
+
+^ See infra section I.C, pp. 459–64. Return to citation ^
+
+^ American Views: Trust, Media, and Democracy, Knight Found. (Jan. 16, 2018), https://knightfoundation.org/reports/american-views-trust-media-and-democracy [https://perma.cc/TL7E-JNW8] (“[M]ost Americans believe it is now harder to be well-informed and to determine which news is accurate. They increasingly perceive the media as biased and struggle to identify objective news sources. They believe the media continue to have a critical role in our democracy but are not very positive about how the media are fulfilling that role.”). Return to citation ^
+
+^ See John Chipman Gray, The Nature and Sources of the Law 100–01 (Roland Gray comp., The MacMillan Co. 1921); Frederick Schauer, Giving Reasons, 47 Stan. L. Rev. 633, 633 (1995) (noting that, in “[t]he conventional picture of legal decisionmaking, . . . giving reasons is both the norm and the ideal”). Admittedly, faced with the challenge of legal realism, even defenders of the concept of ratio decidendi and precedential reasoning were forced to confront the limits of the method. See Arthur L. Goodhart, Determining the Ratio Decidendi of a Case, 40 Yale L.J. 161, 182–83 (1930) (criticizing prevailing wisdom as to which part of a case’s reasoning is actually precedential). Return to citation ^
+
+^ See Berger v. United States, 295 U.S. 78, 88–89 (1935). The same is basically true of the exclusionary rule. Mapp v. Ohio, 367 U.S. 643, 654–55 (1961). For further discussion of this principle, see Augustine, To Consentius: Against Lying (H. Browne trans.), in 3 A Select Library of the Nicene and Post-Nicene Fathers of the Christian Church 481–500 (Philip Schaff ed., 1887), which argues categorically against lying, even if it is to “unearth [heretics] out of their hiding places,” id. at 481. Return to citation ^
+
+^ For an exploration of their relationship, see Lisa Kern Griffin, Honesty Without Truth: Lies, Accuracy, and the Criminal Justice Process, 104 Cornell L. Rev. Online 22, 23–25 (2018). Return to citation ^
+
+^ See infra section II.B.2, pp. 482–86. Return to citation ^
+
+^ 138 S. Ct. 2361 (2018). Return to citation ^
+
+^ See Post, supra note 15, at 29–31, 43–47. Return to citation ^
+
+First Amendment: Speech
+
+More from this Issue
+
+A Skeptical View of Information Fiduciaries
+
+Vol. 133 No. 2 December 2019 The concept of “information fiduciaries” has surged to the forefront of debates on online-platform regulation. Developed by Professor Jack Balkin, the concept is meant...
+
+Criminal Law Article
+
+Solitary Confinement in the Young Republic
+
+Vol. 133 No. 2 December 2019 America’s first system for punishing criminals with solitary confinement began at the Walnut Street Jail, an institution that stood right behind Independence Hall in...
+
+Constitutional Law Note
+
+Of Priests, Pupils, and Procedure: The Ministerial Exception as a Cause Of Action for On-Campus Student Ministries
+
+Vol. 133 No. 2 December 2019 In 1972, the Fifth Circuit recognized a First Amendment right for religious ministries to select their own religious ministers and manage the employment relationship...

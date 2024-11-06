@@ -1,0 +1,69 @@
+Autonomous cars are learning our unpredictable driving habits
+
+Sharing the road with self-driving cars will mean them learning our driving tics and perhaps even adopting some themselves
+
+Mind the dangerously good driver (Image: Martin Roemers / Panos)
+
+IN THE near future, you may have to share the road with a robot. Or perhaps we should say that a robot will have to share the road with you.
+
+At the University of California, Berkeley, engineers are preparing autonomous cars to predict what we impulsive, unreliable humans might do next. A team led by Katherine Driggs-Campbell has developed an algorithm that can guess with up to 92 per cent accuracy whether a human driver will make a lane change. She is due to present the work next month at the Intelligent Transportation Systems conference in Las Palmas de Gran Canaria, Spain.
+
+Enthusiasts are excited that self-driving vehicles could lead to fewer crashes and less traffic. But people aren’t accustomed to driving alongside machines, says Driggs-Campbell. When we drive, we watch for little signs from other cars to indicate whether they might turn or change lanes or slow down. A robot might not have any of the same tics, and that could throw us off.
+
+“A robot might not have any of the same driving tics as us, and that could throw us off”
+
+“There’s going to be a transition phase,” she says. “How do you ensure the autonomous vehicle is clearly communicating with the humans, and how do you know the human is understanding what they’re doing?”
+
+Past algorithms have tried to predict what a human driver will do next by keeping tabs on body movements. If someone seems to be looking over their shoulder a lot, say, that might be a sign that they’re thinking of moving lane.
+
+Driggs-Campbell and her colleagues wanted to see if they could forecast a driver’s actions by monitoring only outside the car.
+
+To see how human drivers do this, they asked volunteers to drive in a simulator. Each time the driver decided to make a lane change, they pushed a button on the steering wheel before doing so. The researchers could then analyse data from the simulator for patterns at the time of lane changes: Where were all of the cars on the road? How fast was each one going, and had it recently moved or slowed down? Was there sufficient room next to the drivers’ car?
+
+They used some of the data to train the algorithm, then put the computer behind the wheel in re-runs of the simulations. The algorithm could predict accurately when the driver would attempt a lane change.
+
+Such algorithms would help a self-driving car make smarter decisions in the moment. They could also be used to teach the cars to mimic human driving tics, says Driggs-Campbell.
+
+It’s good work, but teaching a car to understand others is only the beginning, says Raúl Rojas at the Free University of Berlin in Germany. “Humans are very creative about breaking the rules,” Rojas says. “Computers are programmed to never break the rules.”
+
+Leader: “Smart machines may discover things we can’t, but we still matter”
+
+This article appeared in print under the headline “Get off the road, human!”
+
+Sign up to our weekly newsletter
+
+Receive a weekly dose of discovery in your inbox! We'll also keep you up to date with New Scientist events and special offers. Sign up
+
+More from New Scientist
+
+Explore the latest news, articles and features
+
+Has the US finally figured out how to do high-speed rail?
+
+Autonomous e-scooters could ride themselves back to charging points
+
+Slight flight altitude changes could slash aviation's climate impact
+
+Grit salt on our roads is killing freshwater wildlife. What can we do?
+
+Trending New Scientist articles
+
+The incredible new tech that can recycle all plastics, forever
+
+Bowhead whales still harmed from whaling that ended a century ago
+
+A new kind of experiment at the LHC could unravel quantum reality
+
+Can India build a world-leading computer chip industry from scratch?
+
+Single atoms captured morphing into quantum waves in startling image
+
+Global warming could make tides higher as well as raising sea levels
+
+How the US is preparing for a potential bird flu pandemic
+
+How to get the right balance of omega-3s and omega-6s in your diet
+
+Nuclear fusion experiment overcomes two key operating hurdles
+
+Dietary changes relieve irritable bowel syndrome better than medicine

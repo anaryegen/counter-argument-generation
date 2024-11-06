@@ -1,0 +1,65 @@
+Skip to main content
+
+Interview | Transport
+
+‘Trusting self-driving cars is going to be a big step for people’
+
+Self-driving cars are set to bring one of the biggest changes to our global transportation system in decades, but their potential to increase road safety should not be over-emphasised if we want to increase people’s trust in automated vehicles, says Dr Jean-François Bonnefon from the Toulouse School of Economics, France, and Massachusetts Institute of Technology, US. He is a behavioural scientist who studies the ethics of self-driving cars and is speaking at the European Conference on Connected and Automated Driving (EUCAD) in Brussels, Belgium, which runs from 2-3 April 2019.
+
+By Jonathan O'Callaghan
+
+Dr Bonnefon says that governments and regulators, rather than engineers, should make the moral decisions surrounding self-driving cars. Image Credit - JF Bonnefon
+
+For self-driving cars to be a success, people need to buy in to the whole concept. What’s the biggest challenge here?
+
+‘It’s always going to be a question of how people trust these machines, because self-driving cars are an extreme case in the AI (artificial intelligence) revolution. Self-driving cars are responsible for the physical integrity of the people who travel with them. They can of course be dangerous to other people just like any other car, and they make decisions so fast that you cannot have a human in the loop every time. So trusting this kind of machine is going to be a big step for people.’
+
+Why are people anxious about self-driving cars when human drivers are responsible for so many deaths?
+
+‘You always hear that self-driving cars ultimately might eliminate 90% of accidents, but that's not going to happen right away. They will have accidents. If you imagine that self-driving cars might eliminate 50% of the accidents, that would be incredible, but it would also mean that people would die in self-driving cars every day. So that's going to be really hard, because right now people hear these numbers about the ultimate safety of these cars, and they're not perhaps psychologically prepared to hear about all the accidents that self-driving cars would still have.’
+
+When it comes to the ethics of self-driving cars, people often focus on the trolley problem, which asks if a car should swerve to kill one person instead of many. But this has been criticised as framing the problem too narrowly. What other ethical issues around self-driving cars are there?
+
+‘One big ethical issue is about the absolute level of safety that they have. For example, when do we allow them on the road? A car that is just safer than the average human driver means that is not as safe as many, many drivers. So is that okay? Some people also are debating whether at some point self-driving cars should be made mandatory. At which point do we forbid humans to drive? Because we might underestimate the safety benefits of being in a self-driving car.’
+
+‘Self-driving cars are an extreme case in the AI revolution.’
+
+Are companies taking ethical issues into account when the cars are being designed?
+
+‘I think it's actually not their job. Perhaps their resources are better spent on engineers that make the car safer, (rather) than philosophers or people like me that care about what to do in edge scenarios. These decisions do not only affect their customers, they affect everyone around. So making moral decisions that engage society as a whole might be the job of governments or regulators.’
+
+How can we build trust in these vehicles?
+
+‘The first thing we can do is not to over-promise. If we tell people that these cars are going to be almost perfectly safe, then they will feel betrayed when they start hearing about accidents, even if there are few. But at the same time how do we program the cars with respect to the kind of accidents that they will have? Are we going to give more space to kids, even if it means getting closer to cyclists? Are we going to give more berth to trucks, even if it means getting closer to pedestrians? All these small decisions are going to affect the risk profile for different road users.
+
+‘If self-driving cars can eliminate 20% of the accidents, it's better than the average human driver, but is very hard for people to understand whether they would benefit personally from this. We have to engage the public about how well they drive, and what it means for a car to be 20% safer.’
+
+When self-driving cars start to operate in a real-life context, it could be transformative for people's perception of autonomous driving, says Dr Bonnefon. Image Credit - Matt Spinner (CC BY-NC-ND 2.0)
+
+How do we go about this?
+
+‘Well, I think we're going to need a lot of transparency with the public. I think also that we have a lot of work engaging the public in a responsible way concerning the safety issues. Making reasonable promises, helping people make sense of the statistics, and getting some input from society as to how cars should distribute risk. Not only about (the trolley problem), but also how self-driving cars should distribute risk among different categories of road users.’
+
+Is there a role the EU can play in this?
+
+‘I think the EU can provide extra guidance about these ethical issues. When we analysed the data of the Moral Machine (a project that asked millions of people their opinion on ethical issues facing self-driving cars), we found that preferences for the behaviour of self-driving cars were pretty homogeneous across the European Union. Which means that the EU is perfectly legitimate to take the lead into regulating these issues, because the public in the Member States, at least in our data, do not seem to have strong disagreements.’
+
+What do you want to happen over the next few years?
+
+‘I'd like to see some concrete steps being taken to address ethical issues around self-driving cars in an actionable way. Because so far this debate has been held at a very high level, a philosophical level. Also, I think what’s going to be very interesting is to see self-driving cars starting to operate in real contexts. It's going to be fascinating to see what happens when people start using full autonomous driving when they're stopped in a traffic jam on the highway, for example. This is one context where it seems perfectly acceptable to just let the car make all the decisions. And that might be very transformative for people’s perception of autonomous driving.’
+
+This interview has been edited for length and clarity.
+
+European Conference on Connected and Automated Driving
+
+Agriculture | Environment | Science in society
+
+Seeds of change: Women’s role in greening European agriculture
+
+Female-led rural enterprise will help Europe achieve its environmental goals, according to an EU-funded expert.
+
+Environment | Industry
+
+Every last drop: zero-waste water builds water resilience
+
+Free movement of research and innovation will be central to renewing Europe’s Single Market

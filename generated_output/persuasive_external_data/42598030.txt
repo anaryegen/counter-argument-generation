@@ -1,0 +1,265 @@
+Employee Monitoring Ethics: 5 Times Where Employers Went Too Far
+
+In an effort to increase productivity and hold employees accountable, corporations and business owners around the world have been monitoring employee performance through a number of techniques and strategies. 
+
+One of the most basic forms of employee monitoring technology, the time clock, was invented by William Le Grand Bundy in 1888. The “Bundy Clock” was used to keep track of when workers began and finished working for the day.
+
+Fast forward over 120 years from its invention, and Bundy’s efforts to track employee productivity have been transformed with the digital age. 
+
+These days employee monitoring can take the form of remote computer usage tracking software, GPS systems, video surveillance, and even subcutaneously implanted microchips.
+
+While employers are often required to monitor their employees to meet their security and productivity responsibilities, there are ethical issues that can arise when employees’ personal data is at stake.
+
+This article will take a look at employee monitoring ethics by showcasing instances where businesses went too far when monitoring its employees. We’ll also provide the best practices for monitoring employees in a way that is fair, transparent, ethical, and legal
+
+Improve Employee Productivity With CurrentWare’s Remote Employee Monitoring Software
+
+Ready to get advanced insights into how your employees spend their time? Reach out to the CurrentWare team for a demo of BrowseReporter, CurrentWare’s employee and computer monitoring software.
+
+Improve Productivity Track unproductive web browsing and idle time to detect time-wasting
+
+Save Time With Intuitive Reports User-friendly reports make it easy to understand employee computer activity
+
+Enhance Visibility See how employees spend their time—even on Terminal Server and Remote Desktop Services!
+
+Click to Show / Collapse
+
+Employee Monitoring Ethics & Laws
+
+How to Monitor Employees Ethically & Legally
+
+Organizations That Took Employee Monitoring Too Far
+
+H&M Fined Over €35M (~US $40M) for Illegal Employee Monitoring
+
+Ikea Caught Spying on Their Employees in France
+
+Google Fights Union Efforts by Developing Employee Monitoring Software
+
+High-Tech Employee Monitoring in China Raises Legal Concerns
+
+McDonald’s Engages in Illegal Employee Monitoring to Fight Against Wage Increases
+
+Employee Monitoring Ethics & Laws
+
+While each example shown today demonstrates how invasive employee monitoring can run afoul of federal laws and ethics, studying them is a necessary part of understanding how invasive employee monitoring practices could create very real consequences for employers.
+
+That said, employee monitoring is a valuable security and productivity tool. This section will cover what employers can do to monitor their employees in a way that is fair, transparent, ethical, and legal. Following these best practices will dramatically increase employee buy-in and maximize the ROI of employee monitoring.
+
+Learn More: The Benefits of Employee Monitoring
+
+How to Monitor Employees Ethically & Legally
+
+Disclaimer: This information is provided for reference only; it does not constitute legal advice. Reach out to local experts who are well versed in the legalities surrounding employee rights before you begin to implement your employee monitoring policy.
+
+As employee monitoring becomes more and more prominent, companies need to understand the legal and ethical concerns that can arise if the monitoring is not done properly. 
+
+If you would like to monitor your employees, it is essential that you follow these best practices.
+
+Transparency: Employees that will be monitored must be provided with the knowledge of what is being monitored, why it’s being monitored, and how it’s being monitored. Monitoring without transparency and consent could bring severe legal consequences.
+
+Limit What You Track: Monitoring systems should only track what is relevant to keep the companies productive and secure. From an employee monitoring ethics perspective, the business use for this collection must not excessively infringe on the employee’s privacy.
+
+Keep Employee Data Safe: While computers may be monitored to ensure that employees are productive, an employee’s real-time computer activity data could be considered sensitive. The data must be provided with the same security measures that personally identifiable information would be given.
+
+Provide Access to Data: While it’s not required in all jurisdictions, giving employees access to their own data provides them with an opportunity to understand what their employer is tracking. This is especially important if monitoring is used to ensure employees are productive; they can review their own data to ensure that their work habits are accurately portrayed. 
+
+FREE WHITE PAPER Best Practices for Monitoring Employees
+
+In today’s privacy-conscious world employers need to monitor employees in a way that is transparent, minimally invasive, and respectful of employee privacy.
+
+Want to use monitoring tools to get instant visibility into employee productivity, engagement, and PC usage? Read this white paper to learn the best practices for monitoring employees in the workplace.
+
+Create an Employee Monitoring Policy
+
+Workplace Monitoring Policy Template
+
+Disclose your company’s intent to monitor employees in the workplace
+
+Set workplace privacy expectations for employees
+
+Meet transparency requirements for compliance with privacy laws
+
+Get started today—Download the FREE template and customize it to fit the needs of your organization.
+
+Get the FREE Template
+
+If you will be using employee monitoring software on your computers, it’s essential that you provide your employees with an employee monitoring policy. These policies provide your employees with the information they need to understand how employee monitoring will be used.
+
+Remote Employee Monitoring
+
+Remote employee monitoring software is a valuable tool for improving visibility and maintaining accountability, but there are special considerations from an ethics perspective.
+
+Employees that work from home are likely to have a greater expectation of privacy than those that work in an office environment. In addition, remote employees commonly use their personal devices for work purposes (“BYOD”). 
+
+If employee monitoring software is installed on their devices this risks capturing sensitive information including sexuality, health status, and personal issues.
+
+When monitoring remote teams it is essential that the monitoring software is only used on work-provided devices. 
+
+Learn More: How to Monitor Employees Who Work From Home (Without Sacrificing Privacy)
+
+Monitoring Employees in the Workplace: 6 Privacy Tips for Employers
+
+Workplace Privacy vs Employee Monitoring—What Are Your Rights?
+
+5 Ways Transparency is Key When Monitoring Employees in the Workplace
+
+Organizations That Took Employee Monitoring Too Far
+
+With the best practices for monitoring employees in mind, these examples showcase how highly invasive workplace surveillance practices such as covert video surveillance in bathrooms, misusing sensitive personal data, hiring private investigators, and illegally accessing criminal records can cause harm to employees and employers alike.
+
+1) H&M Collected Personal Information to Discriminate Against Employees
+
+Image courtesy of H&M
+
+Personal Privacy: Sensitive data was collected; this data was unrelated to employee performance, instead focusing on sensitive matters such as religion, medical status, and family relations.
+
+Covert Surveillance: Notes were added to employee files without the explicit knowledge and consent of the employees. There was also no legitimate business reason for the data.
+
+Workplace Ethics: Not only was the tracking covert and highly invasive, this data was also used to make decisions related to the employees’ professional lives. Since the data was not correlated with employee performance it’s a clear violation of their privacy rights.
+
+The fashion retail giant H&M came under fire for the “gross disregard” of the privacy rights of its employees. Employees working at H&M’s service center in Nuremberg, Germany were the subjects of highly illegal surveillance that went as far as to keep excessive records and documentation of family relations, religious beliefs, and illnesses. This gross misuse of power from H&M managers and leaders was discovered through an investigation carried out by the Data Protection Authority of Hamburg.
+
+With the service center being located within Germany, H&M is subject to the laws and penalties established through the General Data Protection Regulation (GDPR), a law established in 2016 to protect the privacy of citizens of the European Union. With data being controlled by large corporations throughout Europe, EU leaders set to impose a uniform data security law for all EU members in order to protect the rights to privacy and to limit the power of corporations in regards to employee and consumer rights.
+
+The Data Protection Authority of Hamburg, through its investigation, found that management teams working at the Nuremberg location had been misusing their powers and neglecting the basic privacy rights of employees since as early as 2014 when a manager first stored the illnesses of a particular employee onto a company drive. 
+
+After the initial known instance of illegal private data collection occurred in 2014, H&M managers began to further add to their collection of employee data. When a supervisor would hear of religious beliefs or family problems over simple conversations within the workplace, they would make notes and log them as entries to the internal database.
+
+Managers at the Nuremberg location developed a strategy to further extract sensitive information from employees by conducting “Welcome Back Talks”. In these one-on-one discussions, managers would interview employees who had recently come back to work from personal or medical leave in order to extract sensitive information from them. They would then log their notes to the drive.
+
+Over a course of 5 years, this drive of illegally obtained information became an extensive database that was used to inform business and employee-related decisions such as promotions throughout the company.
+
+This incident and the managers involved are a representation of highly unethical practice. Collecting sensitive information without consent in this manner and leveraging the data to inform decisions is unacceptable behavior within the European Union, as well as most nations including the United States.
+
+Back to Table of Contents
+
+2) Ikea Hired Investigators to Spy on Their Employees
+
+Employer Ethics: Rather than using employee monitoring for legitimate business purposes, the company was tracking behaviors outside of the workplace that did not directly relate to their roles.
+
+Federal Law: Ikea is accused of illegally obtaining information on its employees and citizens. This includes the alleged illicit disclosure of private information and illegally accessing criminal records in order to vet applicants for jobs.
+
+Illegal Video Usage: In the case of the Cambs distribution center, the employer combined a covert video surveillance system with placement in an area where all employees have a reasonable expectation of privacy.
+
+Ikea, known for its simple furniture designs and cheap hot dogs, was accused of illegally monitoring and surveilling employees and customers from 2009 to 2012.
+
+The incident occurred in France where Ikea leaders had developed an elaborate spying system that involved team managers and even French police officers, as well as a hired professional private security company. The scheme was elaborate and aimed to illegally obtain confidential documents such as criminal records and bank statements of employees, as well as customers who were in dispute with the Swedish corporation.
+
+The main target of the spying scheme were union representatives and union members, as Ikea France felt that these individuals were a threat to the company’s profits.
+
+The information and data collected illegally through this sophisticated endeavor were used to punish, suspend, and even fire employees from their position within the company. One such case was filed by Ikea against a former union activist and employee, Hocine Redouane. Ikea suspected Hocine of being a criminal after obtaining criminal records of an actual bank robber who happened to have the same name as them.
+
+Another instance of personal data abuse was exemplified when an investigation was opened to see how a certain employee was able to afford a BMW despite having a low income. The investigation sought to determine if this individual was a criminal, which was presumed by the leaders involved with the spying scheme.
+
+The former CEO of Ikea France, Jean-Louis Baillet, was sentenced to 2 years in prison for his involvement. The sentence served as an example of consequences for those who wish to disregard basic rights to privacy.
+
+For Ikea France, the damage that this incident has inflicted to its employees, customers, and the Ikea brand around the world will be long-lasting. Without a doubt, employee morale and customer perception were greatly affected by this illegal surveillance. Rather than limiting their monitoring to legitimate business purposes they chose to invasively spy on the personal lives of their employees and illegally obtain confidential documents that they had no right to access.
+
+Unfortunately, this isn’t the first time that Ikea was in violation of employee monitoring ethics. In September it was reported that illegal video surveillance was used to spy on employee bathroom habits in an Ikea distribution center in Peterborough, Cambs. The hidden cameras were allegedly there for 6 years to combat rumored drug-taking among some staff.
+
+“They can’t get away with this – it’s not fair and it’s an invasion of your privacy in the workplace.” – Former Ikea employee Shannon Bodily
+
+Back to Table of Contents
+
+3) Google Fights Union Efforts With Covert Surveillance
+
+Employee Rights: Rather than allowing their employees their right to assemble and advocate for themselves, Google used surveillance systems to detect unionization efforts among their employees and treat them as threats.
+
+Covert Surveillance: Google internally released spy software that was disguised as a calendar application. The software also wasn’t a performance monitoring tool; it was used to quell any efforts of employees to organize for activism purposes.
+
+Giant corporations such as Walmart have fought long and hard to prevent their employees from forming any sort of union. If employees are ever successful at doing so, these sorts of corporations would see drastic changes to their operations. 
+
+“One former Walmart store manager tells the story that after discovering a pro-union flyer in his store’s men’s room, he informed company headquarters and within 24 hours, an anti-union SWAT team flew to his store in a corporate jet. And when the meat department of a Walmart store in Texas became the retailer’s only operation in the United States to unionize, back in 2000, Walmart announced plans two weeks later to use prepackaged meat and eliminate butchers at that store and 179 others.” – How Walmart Persuades Its Workers Not to Unionize, Steven Greenhouse of The Atlantic
+
+So, why do Walmart, Google, and other organizations fight so hard to quell unionization efforts? Allegedly…
+
+Long term employment contracts limit staffing flexibility, making it harder for the corporations to dismiss employees
+
+Union strikes can cripple the operation when unionized staff are at the picket line instead of in the workplace
+
+Job security can limit employee productivity as unionized staff may feel as though they are protected from being fired 
+
+With thousands of employees hired by these large corporations, rewards and benefits for a unionized workforce can become very costly
+
+Rather than focusing on non-invasive performance monitoring and workforce analytics, Google has allegedly undertaken monitoring efforts that go as far as to surveil employee emails in order to prevent unionization or any form of corporate disruption.
+
+According to Telegraph, senior leadership teams at Google have asked employees that are involved with internal email discussion groups “to undertake training in how to moderate” the email chains. The training is aimed to help employees identify and flag sensitive or controversial comments made throughout email threads. And of course, any talks of unionization and disruptive actions are likely to be considered highly controversial by Google executives.
+
+To further emphasize Google’s efforts to monitor and oppress their employees, look no further than the case of Timnit Gebru. Gebru, widely respected within the tech world for her efforts in artificial intelligence development, was reportedly fired in 2020 over an email she had sent to colleagues.
+
+Image of Timnit Gebru by TechCrunch (CC BY 2.0)
+
+In 2019, Bloomberg publicized an internal Google memo that claims high-ranking Google executives ordered a team to develop a Chrome browser extension to be installed on every employee’s computer. The extension would be used to track internal employee activity, specifically any efforts of employees to organize any sort of employee activism. The tool was designed to monitor the gatherings of more than 100 employees and was disguised as a calendar application. Many claim that this was an effort by Google to crack down on unionization efforts.
+
+When employee monitoring efforts are established by employers to prevent, and even discipline, staff for actions that are within the parameters of local legislation, ethical and legal concerns become abundant. If employees are unable to pursue what they believe to be a righteous and legally obliging endeavor, many would say that the employer has gone too far – and that seems to be the case with what has transpired over at the Google headquarters.
+
+Back to Table of Contents
+
+4) Misuse of Health Data Raises Legal Concerns
+
+Automated Decision Making: The use of an algorithm to make decisions about an employee’s career is highly likely to violate federal laws in most nations.
+
+Tracking Non-Work Behavior: Needlessly collecting sensitive information such as personal health data goes beyond performance monitoring. From an ethical perspective, these data points can be used to discriminate against staff members.
+
+Lack of Consent: In the majority of cases, when employees are monitored without their consent the employer can expect severe consequences.
+
+Legal and ethical concerns have arisen from the adoption of high-tech computer chair cushions that are being used in East China’s Zhejiang province to monitor employees. The seat cushion contains technology that is so advanced that it can detect the heart rate, breathing cadence, and sitting posture of staff members. 
+
+While the intention of the chair cushions is to determine when a person has been sitting for too long so it can prompt them to stand up and take a break, there are concerns about how the technology can be misused.
+
+The chair cushions have been misused to determine how many hours an employee was seated during their working hours. The information and data collected by the cushions are accessible to the employers and have been misused to measure the productivity and value of individual staff members.
+
+The biggest legal concern, according to Zhu Wei, is centered around the cushion and its technology’s ability to collect personal health data. The China University of Political Science and Law professor claims that collecting personal health information by monitoring employees without their consent is a breach of the Chinese draft law for the protection of personal information.
+
+However, even with employee consent given to the employers to collect this information through the cushion, most employers would be hard-pressed to justify this use of employee monitoring. Especially since the information collected through the technology has been used to interrogate a worker who was asked why she had left work 10 minutes early.
+
+But, guess what? The high-tech cushion used to monitor employee health and productivity is only one small piece of technology being used throughout China in what is becoming a “dystopian surveillance state”, according to David Wertime of protocol.com.
+
+Wertime writes that Chinese tech giants are stepping up their already advanced employee monitoring systems in the workplace. These employers are monitoring everything from conversations on personal accounts and even the length of rest and washroom breaks. 
+
+Surveillance technology in China has led to the development of advanced algorithms, or “office automation systems”. These systems are designed to monitor employee heart rates and other vital health signs. If the algorithm concludes that an employee is not working at satisfactory levels of productivity, the worker can be subject to wage cuts and further disciplinary actions by their employer.
+
+It’s important to understand that legal and ethical rights in China are much different than those established in western nations. However, this does not mean that Chinese citizens are okay with the levels of surveillance that are undergoing throughout their home country.
+
+In fact, Wertime advises that Chinese workers will continue to fight against advanced methods of workforce surveillance, and that tensions within the Chinese workforce are likely to rise further as citizens fight for their privacy rights.
+
+Back to Table of Contents
+
+5) McDonald’s Spies on Its Employees to Fight Against Activism & Wage Increases
+
+Tracking Off-Work Activity: While social media activity is often publicly available, using tools to collect this data—especially to fight against employee activism—is highly likely to become an ethics issue, even if current laws do not yet forbid the practice.
+
+Employer Intent: Rather than using monitoring tools to focus on legitimate business uses (workforce optimization, security, etc), McDonald’s created data collection programs to help them discover and suppress employee activism.
+
+One of the biggest movements within the fast food industry has been the push for a standardized minimum wage, most notably the Fight for $15. The Fight for $15 organization is dedicated to establishing a minimum wage of $15 for all fast-food workers in the United States and around the world.
+
+A report published by Vice in early 2021 states that McDonald’s has internally labeled those who have joined the Fight for $15 movement as a security threat. The fast-food giant has reportedly developed monitoring technology that has been designed to monitor the activities of staff members engaging with the organization, including surveillance tools capable of monitoring the social media accounts of their workers. 
+
+An internal memo obtained by the investigation team states that the goal of the monitoring software is to figure out “how and where will FF$15 attack the [McDonald’s] brand”.
+
+The data collection tool developed by McDonald’s is capable of scraping social media data that is openly available online to help in the surveillance of staff members who are under investigation for presumed association with the FF$15.
+
+Although this effort carried out by McDonald’s is in a bit of a grey area in regards to legality, there is public concern over the ethical nature of using monitoring tools to suppress employee activism and prevent wage increases. There’s also an ongoing discussion as to whether employer’s should be allowed to use an employee’s personal social media posts to evaluate them in the context of their employment.
+
+Back to Table of Contents
+
+When monitoring employees in the workplace it is essential that employers consider employee monitoring ethics and laws. By monitoring employees in a way that is fair, transparent, and minimally invasive they can ensure that their employee’s perceptions remain positive.
+
+Improve Employee Productivity With CurrentWare’s Remote Employee Monitoring Software
+
+Ready to get advanced insights into how your employees spend their time? Reach out to the CurrentWare team for a demo of BrowseReporter, CurrentWare’s employee and computer monitoring software.
+
+Improve Productivity Track unproductive web browsing and idle time to detect time-wasting
+
+Save Time With Intuitive Reports User-friendly reports make it easy to understand employee computer activity
+
+Enhance Visibility See how employees spend their time—even on Terminal Server and Remote Desktop Services!
+
+Sai Kit Chu is a Product Manager with CurrentWare. He enjoys helping businesses improve their employee productivity & data loss prevention efforts through the deployment of the CurrentWare solutions.
+
+What is User Activity Monitoring (UAM)?
+
+Case Study—Metromont Improves User Awareness of USB Security Risks
+
+This website uses cookies to improve your user experience. By using our website, you consent to all cookies in accordance with our Privacy PolicyLearn MoreAccept All

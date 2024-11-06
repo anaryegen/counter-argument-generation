@@ -1,0 +1,2049 @@
+ArticlePDF Available
+
+International terrorism, domestic coverage? How terrorist attacks are presented in the news of CNN, Al Jazeera, the BBC, and ARD
+
+International Communication Gazette 76(1):3-26
+
+DOI:10.1177/1748048513504158
+
+Freie Universität Berlin
+
+University of Zurich
+
+Download full-text PDFRead full-text
+
+Download full-text PDF
+
+Copy link Link copied
+
+Copy link Link copied
+
+Abstract and Figures
+
+The article analyzes to what extent news reporting on terrorist attacks globalized, regionalized, or country specific. We compare coverage on four terrorist incidents in the main news shows of the US edition of CNN, of Al Jazeera’s Arabic language service, of the British BBC, and of the German ARD. The analysis shows cross-national similarities in several dimensions: the analyzed media devote nearly identical amounts of attention to the four events, employ similar stylistic devices to describe them, and evaluate them similarly. At the same time, there are notable differences. These differences are not found between Western channels and Al Jazeera – as proponents of a ‘clash of civilizations’ might expect – but between CNN and Al Jazeera on the one hand, and the BBC and ARD on the other. The former interpret the attacks as an expression of a global “war on terror”, whereas the latter see them as criminal attacks by a few individuals against the human civilization itself.
+
+Similarities and differences in the representation of terrorism.
+
+. Theoretical assumptions concerning the shape of terrorism coverage in different countries.
+
+. Overview of the selected broadcasters and their news programs. a
+
+. Overview of the selected terrorist attacks.
+
+. Number of days on which the attacks were covered by the four broadcasters.
+
+Figures - uploaded by Mike S. Schäfer
+
+All figure content in this area was uploaded by Mike S. Schäfer
+
+Content may be subject to copyright.
+
+Discover the world's research
+
+160+ million publication pages
+
+2.3+ billion citationsJoin for free
+
+Content uploaded by Mike S. Schäfer
+
+All content in this area was uploaded by Mike S. Schäfer on May 23, 2017
+
+Content may be subject to copyright.
+
+International terrorism,
+
+domestic coverage? How
+
+terrorist attacks are
+
+presented in the news of
+
+CNN, Al Jazeera, the
+
+Institute of Sociology, Free University of Berlin, Germany
+
+Institute of Mass Communication and Media Research - IPMZ, University of Zurich, Switzerland
+
+The article analyzes to what extent news reporting on terrorist attacks globalized,
+
+regionalized, or country specific. We compare coverage on four terrorist incidents in the
+
+main news shows of the US edition of CNN, of Al Jazeera’s Arabic language service, of the
+
+British BBC, and of the German ARD. The analysis shows cross-national similarities in sev-
+
+eral dimensions: the analyzed media devote nearly identical amounts of attention to the
+
+four events, employ similar stylistic devices to describe them, and evaluate them similarly.
+
+At the same time, there are notable differences. These differences are not found between
+
+Western channels and Al Jazeera – as proponents of a ‘clash of civilizations’ might expect –
+
+but between CNN and Al Jazeera on the one hand, and the BBC and ARD on the other.
+
+The former interpret the attacks as an expression of a global ‘‘war on terror’’, whereas the
+
+latter see them as criminal attacks by a few individuals against the human civilization itself.
+
+Al Jazeera, framing, globalization, mass media, news coverage, television, terrorism
+
+Corresponding author:
+
+afer, Institute of Mass Communication and Media Research - IPMZ, University of Zurich, Andreasstr.
+
+15, CH-8050 Zurich, Switzerland.
+
+Email: m.schaefer@ipmz.uzh.ch
+
+Communication Gazette
+
+2014, Vol. 76(1) 3–26
+
+ªThe Author(s) 2013
+
+Reprints and permission:
+
+sagepub.co.uk/journalsPermissions.nav
+
+DOI: 10.1177/1748048513504158
+
+Terrorism has become an international phenomenon (cf. Schneckener, 2006): terrorists
+
+operate in not just one but many different countries, the terrorist threat is no longer per-
+
+ceived by citizens and politicians as being nationally bounded but as a global issue
+
+(Beck, 1999; Borgeson and Valeri, 2008; M¨
+
+uller, 2008), and the geographical scope
+
+of anti-terrorist measures has expanded (M¨
+
+Terrorist action can be defined as the intentional use of physical force by non-state actors
+
+against ‘soft targets’ such as ‘civilians’ (cf. Townshend, 2002: 11; Tuman, 2003), but it is
+
+more than an act of violence. It also has to be understood as a ‘communication strategy in
+
+which messages are sent in a spectacular way’ (M¨
+
+to elites and popula-
+
+tions. Thedistribution ofthese messages depends strongly on mass media, which extend the
+
+reach of terrorism far beyond the city or country in which an attack has been carried out and
+
+makes theinherent threatperceptible to a broader audience (Fuchs, 2004: 79). The extent and
+
+the nature ofmedia constructions are, therefore, significant catalysts of terrorist events. Mass
+
+media draw attention to certain attacks and present them in specific ways (cf. Weimann and
+
+Brosius, 1991), make them appear relevant to citizens (Borgeson and Valeri, 2008: 128),
+
+may influence individual and institutional decision making (cf. Oates, 2006), and contribute
+
+to the (de)legitimation of certain political movements (cf. Scheufele et al., 2005).
+
+Within the media landscape, television plays a particularly important role, as it is
+
+widespread and commonly used in many countries (cf. Hans-Bredow-Institut, 2009;
+
+IP International Marketing Committee, 2008). Furthermore, due to its audio-visual char-
+
+acter and the possibility of live reporting, it can provide timely and (supposedly) realistic
+
+depictions of terrorist events (Hoffman, 2007: 276).
+
+The aim of this study is to investigate the specifics of mass media representations of ter-
+
+rorism. We analyze thesespecifics in a comparative study because it enables us to determine
+
+the specific domestic features of such representations. Since international terrorism has
+
+been interpreted and structured primarily in terms of the ongoing conflict between the Arab
+
+and ‘Western’ worlds (cf. Rapoport, 2006), we examine news broadcasts from both sides of
+
+this alleged conflict: the ‘Evening News’ of the US service of CNN, ‘Hasad Al Yaum’ from
+
+Al Jazeera’s Arabic service, the ‘Ten O’clock News’ from British BBC One and the
+
+‘Tagesschau’ of German public broadcaster ARD. In doing so, we will go beyond the exist-
+
+ing literature on terrorism coverage which consists primarily of case studies of individual
+
+countries (cf. Cohen-Almagor, 2005; Woods, 2007) and only a handful of comparative stud-
+
+ies (cf. Oates, 2006; Papacharissi and de Fatima Oliveira, 2008). By including Al Jazeera,
+
+we extend the scope of our analysis beyond the commonly investigated ‘Western’ context.
+
+Moreover, we do not analyze print media, as is frequently done elsewhere (cf. Altheide,
+
+2006; Schaefer, 2003), because their significance often remains limited, especially in
+
+regions with high rates of illiteracy. Instead, we focus on TV coverage, i.e., on probably the
+
+most relevant medium for a comparative analysis of terrorism coverage.
+
+Theoretical framework
+
+There are different theories in communication and social sciences as to whether and to
+
+what extent the reporting of different TV channels in different countries might be similar
+
+4the International Communication Gazette 76(1)
+
+or along which lines they might differ. From these assumptions, three theorems can be
+
+drawn which we will use as heuristics to guide the interpretation of our analysis.
+
+Country-specific reporting
+
+Some scholars assume that media coverage is mainly influenced by national contexts.
+
+Accordingly, coverage would be expected to vary considerably from country to country.
+
+The domestic factors influencing media reporting have been systematized by Shoemaker
+
+and Reese (1995) as well as Weischenberg (1992, 1995), in a model of concentric circles
+
+of influence on media coverage. The outer circle consists of a country’s historical and
+
+cultural characteristics which may differ according to national traditions of journalism
+
+(Esser, 1998: 25), geographical or linguistic particularities (Thomaß, 2007: 23), religious
+
+differences (Hafez, 2005a: 148), or the differing value systems of political elites (cf.
+
+Bennett, 2009; Bennett et al., 2006). The next layers of influence consist of country-
+
+specific structural, institutional and organizational characteristics such as economic fac-
+
+tors, technological influences (Weischenberg, 1992: 249, 1995: 13) or typical working
+
+processes in newsrooms (Esser, 1998: 26). In the inner circle, we find socio-
+
+demographic characteristics, attitudes, self-perceptions and motivations of journalists
+
+(Esser, 1998: 26). It is assumed that the characteristics and relevance of these factors
+
+vary from country to country, and that coverage on external or transnational issues, such
+
+as international terrorism, is molded by them into a specific, domestic view (Swanson,
+
+2003: 57). This model corresponds with the significant country differences that have
+
+been shown in media coverage on issues like abortion (Ferree et al., 2002), biotechnol-
+
+ogy (Sch¨afer, 2007) or European Union enlargement (e.g. Wimmel, 2006).
+
+Regional patterns in reporting
+
+Other scholars suggest that cross-national variance may be subordinate to regional dif-
+
+ferences in media reporting. Two variants of this perspective can be distinguished.
+
+(a) In line with the structural pattern of contemporary terrorism, which is often per-
+
+petrated by Arab Islamists against ‘Western’ victims, some scholars expect the strongest
+
+differences between the coverage in Western and Arab media. Most often, these assump-
+
+tions are rooted in alleged cultural differences or, in turn, similarities. Some scholars
+
+draw on Samuel Huntington’s controversial thesis of a ‘‘clash of civilizations’’ (1998,
+
+for critical accounts see Bantimaroudis and Kampanellou, 2007; Barber, 1995) to under-
+
+line their claims. Huntington has posited that the 21st century world is characterized by
+
+opposing ‘‘cultures,’’ especially by the conflict between the Christian-dominated
+
+‘‘West’’ with the US as its ‘‘core’’ state, and the ‘‘Islam’’ residing primarily in the Arab
+
+world. He argues that this conflict finds its expression, among other aspects, in the public
+
+rejection or devaluation of the other side (Huntington, 1998: 345); and accordingly, dif-
+
+ferences between ‘‘Western’’ and Arab media reporting might be expected (cf. Seib,
+
+2004: esp. 79 ff.). Coming from an entirely different theoretical background, research
+
+on the role of cultural proximity in media reporting leads to similar assumptions: it has
+
+been argued that cultural proximity functions as a news value, i.e. meaning that cultu-
+
+rally proximate issues and aspects are more likely to be taken up and highlighted by
+
+Gerhards and Sch¨afer 5
+
+journalists (see Galtung and Ruge, 1965), and that similar preferences can be found
+
+among culturally similar audience members (Ksiazek and Webster, 2008). These the-
+
+ories, similar to Huntington in this respect, lead to assumed differences in terrorism cov-
+
+erage between Western and Arab media. Comparative studies have indeed found such
+
+differences and mutual stereotyping, for instance in media coverage on the September
+
+11 attacks, the Afghanistan and Iraq wars, the ‘‘image of Islam’’ in Western media, or
+
+inversely in the presentation of the ‘‘West’’ in Arab media (cf. Abrahamian, 2003; Aday
+
+et al., 2005; Hafez and Richter, 2007; Jasperson and El-Kikhia, 2003). While some scho-
+
+lars explain differences between Western and Arab media with cultural factors, others
+
+suggest that similar differences can be ascribed to differences in the respective media
+
+system. Comparative media systems’ analyses show clear differences between Western
+
+and Arab countries. While western media systems are classified as liberal (like the US)
+
+or socially responsible and public service-oriented (like the UK or Germany, Blum, 2005
+
+and Siebert et al., 1963), Arab media systems are seen as more authoritarian (Rugh,
+
+2007; Selber and Ghanem, 2004) even if they are currently undergoing rapid change and
+
+differ from each other internally (cf. Iskandar, 2007; Rugh, 2007).
+
+(b) Regional differences in coverage may also be assumed because the analyzed coun-
+
+tries and regions are involved in crucial conflicts to different degrees. It has been argued
+
+that a part of a journalists’ profession is to provide a ‘‘national outlook’’ (Nossek, 2004:
+
+349), so that nationally significant events tend to be discussed in more detail. News value
+
+theory provides a simple explanation for this phenomenon, and empirical studies show
+
+that terrorist events are interpreted by journalists as more or less ‘newsworthy’ and cov-
+
+ered accordingly (Kelly and Mitchell, 1981; Weimann and Brosius, 1991). Nossek’s the-
+
+sis that the interpretation of a terrorist event as ‘‘ours’’ or ‘‘theirs’’ influences its media
+
+representation (2004, 2008) fits well into this theory (for a similar account see Nacos,
+
+2007). Accordingly, it can be assumed that differences between groups of countries need
+
+not (only) be culturally determined, but that the participation of countries in specific con-
+
+flicts will also be reflected in media coverage. Since contemporary terrorism is fueled by
+
+the conflicts in Palestine, Iraq, and Afghanistan, and because countries like the US, UK,
+
+and Germany are involved to different degrees in these conflicts, this can be expected to
+
+affect their coverage.
+
+Global standardization of coverage
+
+In contrast to theories emphasizing country or regional differences in media coverage,
+
+many scholars emphasize the similarities among media constructions worldwide, and
+
+relate these to globalization (cf. critical: Hafez, 2005b; Herman and McChesney, 2000;
+
+Luhmann, 1997; Thompson, 2000). Partly as a result of an ‘‘increase in formal and
+
+informal communication links that connect the international, national and regional
+
+news media with each other’’ (Swanson, 2003: 69), it has been argued that a ‘‘transna-
+
+tional news culture’’ (Cohen et al., 1990: 44), a ‘‘global newsroom’’ (Gurevitch and
+
+Levy, 1990; Gurevitch et al., 1991) or a ‘‘global news system’’ (Swanson, 2003: 69)
+
+can be found nowadays. This global standardization is seen to be particularly strong
+
+in visual media such as television, which overcome spatial and temporal boundaries
+
+more easily than print media (Hallin and Mancini, 2004: 56; L¨offelholz and Hepp,
+
+6the International Communication Gazette 76(1)
+
+2002: 15), and in reporting about ‘global problems’ (Krotz, 2005: 34) such as climate
+
+change (Ivanova et al., ; Schmidt et al., 2013) or international terrorism which are glob-
+
+ally relevant (cf. Beck, 1999).
+
+In the case of terrorism coverage, several authors have demonstrated how such simi-
+
+larities manifest themselves: Norris et al. (2003) argue that a worldwide normative
+
+assessment has been established with regard to terrorism: attacks are to be rejected by
+
+political elites almost everywhere, even by (former) leaders of countries like Libya,
+
+Syria, and Iran which, according to intelligence services, may be secretly supportive
+
+of terrorism (cf. Townshend, 2002: 12; Tuman, 2003: 6). Norris et al. argue that the con-
+
+demnation of terrorism has become part of a ‘global script,’ in the sense of Meyer (2005)
+
+that has to be supported – at least officially – by all nation states and expressed by the
+
+United Nations in several resolutions (cf. UN General Assembly, 2006: 3). Norris and
+
+colleagues go on to assume that this script would also be characteristic for media cover-
+
+age, in which the portrayal of terrorism would then become standardized across countries
+
+and, thus, a ‘‘one-sided’’ case’ (Norris et al., 2003: 12). The attacks and their perpetrators
+
+are condemned and compassion is shown for the victims. The assumed connection
+
+between media coverage and the views of political elites corresponds to Bennett’s Index-
+
+ing Theory (1990; see also Robinson, 2001). In times of international conflict, he argues,
+
+the constellation of actors in the media environment, especially the positioning of polit-
+
+ical elites, plays a particularly large role in shaping the coverage (see also Altheide,
+
+2006; Oates, 2006). Accordingly, a consensus among elites about the importance and the
+
+evaluation of a subject would strongly be reflected in the media. In turn, when political
+
+elites were divided, this would lead to a pluralization of media positions. These findings
+
+seem to be consistent with the US coverage of the conflicts in Afghanistan and Iraq.
+
+Within the US political elites there was an initial consensus on the legitimacy of military
+
+interventions resulting in a largely consistent portrayal across the range of US media. But
+
+this consensus was not shared by the political elites of other countries, especially in the
+
+Arab world. Accordingly, Jasperson and El-Kikhia (2003) found significant differences
+
+between CNN and Al Jazeera in their evaluation and interpretation of the Afghanistan
+
+war, and Aday et al. (2005) provide similar findings for coverage of the Iraq war.
+
+Table 1 provides a summary of the different theories we have discussed. In the fol-
+
+lowing sections, we will use them as means to interpret our empirical findings.
+
+Data and methods: Analyzing the main news of CNN,
+
+Al Jazeera, the BBC, and ARD
+
+The selection of our data followed a hierarchical logic. First, we decided to analyze tele-
+
+vision coverage, as television is the most common and intensively used mass medium in
+
+most countries around the world including Arab and Western countries (cf. Arab Statis-
+
+tics, 2009; IP International Marketing Committee, 2008), and particularly so in extreme
+
+events such as terrorism (Emmer et al., 2002: 169). Second, we chose TV broadcasters
+
+which represent different countries and regions of the world, and which are relevant due
+
+to their scope and impact: the US service of CNN, the pan-Arab station Al Jazeera
+
+Gerhards and Sch¨afer 7
+
+(Qatar), BBC One (UK) and the German ARD (see table 2).
+
+Third, we analyzed the
+
+main daily news programs of these channels, which are especially suited for comparative
+
+analysis (R¨ossler, 2004: 271) as they have large audiences and are perceived as high quality,
+
+informative and credible by most audience members (cf. Al Jazeera, 2009; Office of Com-
+
+munications, 2008: 51; Pew Research Center, 2004; Zubayr and Geese, 2009).
+
+We investigated these channels’ coverage of four terrorist attacks. In line with our
+
+conceptual framework, we selected incidents in Madrid, London, Amman, and Sharm
+
+El Sheikh (see Table 3), i.e., attacks in both Western and Arab countries that involved
+
+primarily Western and primarily Arab victims, as well as attacks on locals and foreign-
+
+ers. All of these took place within a relatively short period of time, in 2004 and 2005.
+
+Up to 7 days of coverage following the attacks were included in our analysis. De facto,
+
+87 news shows and 658 individual news segments were investigated using a combination
+
+of qualitative and quantitative content analyses.
+
+The quantitative content analysis covered the basic features of the analyzed footage,
+
+such as the date and length of transmission, and format.
+
+It also covered the importance
+
+given to an event by the broadcasters, the weight assigned to the event in relation to oth-
+
+ers (placement within the transmission, scope, etc.), and how the event was evaluated.
+
+Finally, we assessed how the victims (the number of the dead and injured, how many
+
+Table 1. Theoretical assumptions concerning the shape of terrorism coverage in different
+
+‘‘Clash of cultures’’
+
+Coverage is similar/
+
+Why? Media embedded in
+
+Fundamental cultural
+
+All channels differ Arab and Western
+
+8the International Communication Gazette 76(1)
+
+of these were shown in the images, as well as their gender, occupation, origin, and reli-
+
+gion) and perpetrators (including their motives and objectives) were portrayed.
+
+All news items were then analyzed qualitatively. This step – similar to many variants
+
+of qualitative research – aimed to condense and structure the source material (in the form
+
+of text and images) in terms of the research questions and theoretical assumptions (cf.
+
+Mayring, 1994; Miles and Huberman, 1994; Ritchie and Lewis, 2003). The analysis was
+
+an iterative process of data interpretation, category formation, relating categories to new
+
+material and categories, etc. (cf. Strauss, 1987). In this respect, Mayring (1994) distin-
+
+guishes between summarizing, contextualization, and structuring of the material. Our
+
+approach is based on Mayring’s method and will be specified in the following.
+
+After transcribing the characteristics of the broadcasts in terms of language, sound, ima-
+
+gery, and technical details (choice of camera angles, etc.), the first analytical step was the
+
+creation of a basic protocol for each broadcaster and each day. Early in the project, these
+
+protocols were created by the entire research group of five. Later, they were written by one
+
+team member and subsequently reviewed, possibly corrected, and edited by a second
+
+member. Deductively (on the basis of research questions) and inductively (based on the
+
+qualitative coding of the coverage), the following categories were established as being use-
+
+ful for the description of coverage: (i) significance (the presented importance of the event),
+
+(ii) evaluation (how is the event evaluated?), (iii) victims (which victims of the attack are
+
+depicted and how?), (iv) perpetrators (which perpetrators are depicted and how?), (v)
+
+motives and objectives (how are the motives and targets of the perpetrators described?),
+
+(vi) reactions (what kinds of reactions to the event are shown and how?), and (vii) emo-
+
+tional representations (what emotions are represented and how?).
+
+In a second step, synthesis protocols were written. The aim was to create a typological
+
+structure for the information contained in the basic protocols. In this process,
+
+broadcaster-specific and event-specific interpretations were added and cross-links and
+
+Table 2. Overview of the selected broadcasters and their news programs.
+
+CNN Al Jazeera BBC ARD
+
+Headquarters Atlanta
+
+London (UK) Munich (GER),
+
+‘‘Tagesschau’’
+
+22.9% (2007) 13.4% (2008)
+
+‘‘Evening News’’ ‘‘Hasad Al Yaum’’ ‘‘Ten O’clock
+
+‘‘Tagesschau’’
+
+The data were compiled on the basis of Al-Awsat (2006), IP International Marketing Committee (2008:
+
+177, 435, 438, 462 f.), Lynch (2006: 45), Pew Research Center (2004, 2005, 2006), and Zubayr and Gerhard
+
+Gerhards and Sch¨afer 9
+
+Table 3. Overview of the selected terrorist attacks.
+
+Date and place Method of attack Target Deaths and injuries Perpetrators Further information
+
+Bomb attack Public train 191 dead, 2051 injured ‘‘Moroccan Combat
+
+Group,’’ connected to
+
+Administracion de Justicia
+
+(2004); Hamilos (2007)
+
+Suicide attack using
+
+‘‘backpack bombs’’
+
+‘‘The Secret Organization of Al
+
+Qaeda in Europe’’
+
+Bennetto and Herbert (2005);
+
+Fresco et al. (2006)
+
+23 July 2005: Sharm El
+
+Combination of bombs and
+
+‘‘Abdullah Azzam Brigade,’’
+
+connected to Al Qaeda
+
+Suicide attack Hotels 67 dead, 300 injured Al Qaeda or the group of
+
+Abu Musab Al Sarqawi
+
+Khalil et al. (2005); New York
+
+10 the International Communication Gazette 76(1)
+
+comparisons were integrated into the protocols. In turn, the amount of supporting mate-
+
+rials such as quotations and images was reduced to typical examples. As with the basic
+
+protocols, the synthesis protocols were structured in terms of the dimensions described
+
+above, but adding a category in which the key interpretative pattern of a given terrorist
+
+incident was established. We tried to determine these underlying organizing ideas or pat-
+
+terns in ‘‘frames’’ (cf. Jasperson and El-Kikhia, 2003; Liebes and First, 2003; Norris
+
+et al., 2003; Schaefer, 2003) that were generated inductively; using the seven analytical
+
+dimensions described above in which one can often see a broadcaster’s typical manner of
+
+representing a given attack. These frames are specific configurations of how the terrorist
+
+events were portrayed, what causal interpretations were provided, what moral evalua-
+
+tions were used, and what treatment recommendations were given – mirroring the
+
+dimensions of framing outlined by Entman (1993).
+
+In a first step, the team member who had written the basic protocol of a channel’s foo-
+
+tage on a specific attack compiled the respective synthesis protocol. It was then corrected
+
+and adjusted by another team member who had previously watched the respective broad-
+
+casts. Discrepancies in interpretation between the two team members were resolved with
+
+recourse to the original broadcast and/or discussed with the entire research team. All
+
+established synthetic protocols were discussed by the entire research group afterwards
+
+and, if necessary, modified and supplemented. Discrepancies were again resolved with
+
+recourse to the material.
+
+In total, 16 synthesis protocols were created for the analysis (four terrorist events cov-
+
+ered by each of the four broadcasters). Each group member was involved at all stages of
+
+the process. The research group consisted of social scientists with competences in meth-
+
+odology, political communication, and comparative research, as well as necessary cul-
+
+tural competences for which purpose an Iraqi, a researcher trained in Arab studies,
+
+and another in American studies took part.
+
+Key similarities and differences between the analyzed TV stations will be presented
+
+along three dimensions: first, we will describe the significance that was assigned to the
+
+analyzed four terrorist incidents by the media – ‘agenda setting’ research shows, after all,
+
+that the significance with which an event is depicted in the mass media is reflected in the
+
+perceptions of the recipients (e.g. Hasebrink, 2006). Second, we will reconstruct the way
+
+in which the broadcasters depict the perpetrators and victims. Third, we will show how
+
+the events are framed.
+
+Similarities across all channels: Terrorism as significant and ‘‘one-sided’’
+
+The first main finding of our study is that the terrorism coverage of CNN, Al Jazeera, the
+
+BBC, and ARD show considerable similarities. These become clear, first of all, in the
+
+broadcasters’ attribution of importance to the individual terrorist attacks. All channels
+
+devote almost identical amounts of attention to the four attacks. Despite the large number
+
+of terrorist attacks globally – the Rand Corporation database (2009) points to 2723
+
+attacks between 1999 and 2008 – the four broadcasters portray the London, Madrid, and
+
+Gerhards and Sch¨afer 11
+
+Sharm el Sheikh bombings on the same number of days within the first week, with the
+
+Amman bombing being the only visible deviation (see Table 4). Likewise, the amount of
+
+airtime devoted to these incidents and their placement within the news programs also
+
+show strong similarities.
+
+The evaluation of the attacks – the ‘‘moral evaluation’’ component of media frames
+
+(Entman, 1993: 52) – was almost identical across all broadcasters. They clearly condemn
+
+the attacks and emphasize the illegitimacy of terrorism, even if the broadcasters – as we
+
+will discuss later – differ in the strength of their condemnation. These negative evaluations
+
+are manifested, first, in rhetoric: attacks and perpetrators are described as ‘‘brutal’’ (BBC, 8
+
+July 2005), ‘‘barbaric’’ (Al Jazeera, 8 July 2005),
+
+‘‘hateful’’ or ‘‘criminal’’ (ARD, 7 July
+
+2005, 10 July 2005), ‘‘insane’’ (CNN, 12 November 2005), and ‘‘atrocity’’ and ‘‘shocking’’
+
+(BBC, 10 November 2005). Underlining these negative evaluations is a second feature
+
+used by all broadcasters and for all events: high-ranking individuals and commentators,
+
+such as US President George W Bush, British Prime Minister Tony Blair, UN General Sec-
+
+retary Kofi Annan or Jordan King Abdullah II, condemn the act. Third, the illegitimacy of
+
+the attacks is stressed further by highlighting the innocence of the victims and by represent-
+
+ing them as uninvolved politically, militarily, and economically, i.e., as civilians who,
+
+regardless of religion or ethnicity, deserve sympathy. For example, the BBC highlights the
+
+‘‘simple Londoners’’ (7 July 2005) that were attacked, and that in Amman, ‘‘innocent life’’
+
+(BBC, 10 November 2005) and ‘‘innocent civilians’’ (Kofi Annan, ARD, 11 November
+
+2005) were hurt or killed. Al Jazeera declares that the ‘‘attacks [in Amman] made no dis-
+
+tinction between people with different political positions or between men, women and chil-
+
+dren’’ (11 November 2005).
+
+Finally, a fourth stylistic device is found across all stations:
+
+the juxtaposition of carefree everyday individual victims before the deed with their pain
+
+and suffering caused by the attacks, which underlines the negative evaluation of the
+
+attacks. This is most evident in the presentation of the attacks in Amman, where all stations
+
+reported on a wedding that was ended violently by the suicide bombings. Showing footage
+
+of the happy couple taken immediately before the attack, and contrasting this with the
+
+destroyed scene afterwards, CNN commenced its ‘‘Evening News’’ broadcast on the day
+
+of the attack in this way: ‘‘We begin tonight with a strong and simple lesson in terror. Ter-
+
+ror has a wedding celebration transformed into a blood bath’’ (9 November 2005). The
+
+other stations also used this technique: ‘‘Five minutes after the start of the celebration all
+
+that was white is red’’ (Al Jazeera, 11 November 2005); ‘‘The party was going well. [...]
+
+This is Ashraf El Haled and his bride with their fathers – two proud men who were about to
+
+die’’ (BBC, 10 November 2005); or ‘‘They were just celebrating as the first explosive
+
+device went off’’ (ARD, 10 November 2005). A similar portrayal was visible with regard
+
+Table 4. Number of days on which the attacks were covered by the four broadcasters.
+
+CNN Al Jazeera BBC ARD
+
+Sharm El Sheikh 3 4 4 4
+
+12 the International Communication Gazette 76(1)
+
+to the London bombings, where the Londoners’ joy about being awarded the 2012 Olym-
+
+pic Games was contrasted with their shock about the bombings which followed shortly
+
+Differences in coverage: The interpretive framework
+
+Apart from these similarities, however, there are also differences between the analyzed
+
+media. For example, even though the victims of the attacks are portrayed similarly on all
+
+channels, there are differences in the frequency of this representation. Similarly, the perpe-
+
+trators and their motives, as well as possible or expected reactions to the acts, appear to dif-
+
+ferent extents in the analyzed news shows. Such differences can be found in the basic
+
+definition of the terrorist incidents – or as the framing literature would say, in the ‘‘problem
+
+definition’’ – as well as its ‘‘causal interpretation’’ and the respective ‘‘treatment recommen-
+
+dations’’ (see Entman, 1993: 52 ff.). As we will see, there are even some, albeit small dif-
+
+ferences to be found in the ‘‘moral evaluation’’ dimensions. Overall, these varying
+
+emphases give rise to two different frames which are used by two broadcasters each.
+
+The ‘‘war on terror’’ frame of CNN and Al Jazeera. CNN and Al Jazeera differ from the other
+
+channels in their interpretation of the attacks. They portray them as an expression of a
+
+geopolitical conflict in which the liberal Western democratic societies under US leader-
+
+ship on the one hand are confronted with transnationally organized Islamist terror net-
+
+works, particularly Al Qaeda, on the other (cf. Reese and Lewis, 2009).
+
+This interpretive framework becomes obvious through the choice of words and pic-
+
+tures: both broadcasters use explicit and often warlike vocabulary to describe the conflict
+
+and visualize the events with scenes from the Iraq and Afghanistan wars such as moving
+
+tanks or other military equipment. They also argue that countries like Britain and Jordan
+
+have become targets of terrorist attacks because they are ‘‘staunch American allies’’
+
+(CNN, 9 November 2005; Al Jazeera, 7 July 2005). They do not interpret the attacks
+
+in local, regional, or national terms, but within a global context and often visualize this
+
+by using a world map of international terrorism or ‘‘modern war’’ – a stylistic device
+
+used by both CNN and Al Jazeera.
+
+Moreover, the geopolitical framing of the terrorist attacks is manifested in a specific
+
+presentation of the victims, perpetrators, and overall reactions to the attacks. As mentioned
+
+previously, the difference in the representation of the victims by CNN and Al Jazeera in
+
+comparison to the other channels does not lie in the manner but in the extent of the victims’
+
+portrayal – both CNN and Al Jazeera show pity for the victims and portray them as inno-
+
+cent civilians but these representations are far less prominent than in the respective BBC or
+
+ARD coverage. While the latter stations portray the fates of individual victims in length on
+
+the first day of reporting on the London attacks, CNN and Al Jazeera only do so after a few
+
+minutes of discussion of the perpetrators. This can also be substantiated quantitatively:
+
+CNN and Al Jazeera depict victims in only a small percentage of their news segments
+
+(2.3%and 4.2%, respectively), whereas the share for the BBC is 18.2%and for the ARD
+
+33.3%. The proportions of news segments talking about the death tolls of the attacks are
+
+similar (CNN 39.5%,AlJazeera48.3%,BBC81.8%,ARD66.7%).
+
+Gerhards and Sch¨afer 13
+
+Instead, the perpetrators are focused on much stronger in CNN’s and Al Jazeera’s
+
+coverage. The origin and group affiliation of the (alleged) terrorists is reported exten-
+
+sively, as is speculation about their motives. Both on CNN and Al Jazeera, underlying
+
+motives are linked mainly to British and US foreign policy, whose ‘‘hostile invasion’’
+
+was met with ‘‘massive resistance’’ in Iraq, ‘‘bringing the battle field into the countries
+
+that participated in the campaign’’ (Al Jazeera, 8 July 2005).
+
+Finally, both CNN and Al Jazeera focus strongly on the consequences and reactions to
+
+the attacks, and in doing so, pay less attention to domestic investigations, clean-ups or
+
+rescue missions than on foreign policy reactions and, at times, military implications.
+
+Again, the geopolitical situation structures the coverage. CNN has a more aggressive
+
+style in which foreign policy preferences and options for military action are clear. The
+
+question is: ‘‘what can be done to stop it from happening again’’ (CNN, 7 July 2005),
+
+and George W Bush is quoted as saying: ‘‘In the face of such adversaries there is only
+
+one course of action: We will continue to take the fight to the enemy. And we will fight
+
+until this enemy is defeated!’’ (CNN, 11 July 2005). Al Jazeera, too, focuses mostly on
+
+geopolitical responses to the attacks. For example, the channels news anchors and
+
+experts discuss in detail how Tony Blair should be interpreted when he spoke of the need
+
+to show strength and fight terrorism ‘‘from its roots’’ (Al Jazeera, 8 July 2005). This is
+
+done cautiously and from a more defensive position but is often accompanied by fears of
+
+sweeping and exaggerated reactions.
+
+There are further sub-distinctions between CNN and Al Jazeera which go back to their
+
+different evaluations of the geopolitical situation. With CNN, the legality of US actions
+
+with respect to the Western alliance and the illegitimacy of terrorist attacks are not drawn
+
+into question. The attacks are condemned strongly (‘‘horror,’’ 7 July 2005; ‘‘carnage,’’ 9
+
+July 2005; ‘‘insane,’’ 12 November 2005; ‘‘barbaric,’’ 9 November 2005; ‘‘diabolic,’’ 10
+
+November 2005) and the perpetrators are described in pejorative words (Al Qaeda as a
+
+‘‘hydra-headed movement,’’ 7 July 2005 and splinter groups as ‘‘cancer metastasis of Al
+
+Qaeda,’’ 13 July 2005). CNN deals at length with the identification of the perpetrators
+
+but not with individual offenders and their personal motives; instead they are rather inter-
+
+ested in the ‘‘enemy’’ terrorist networks. Moreover, in describing them as ‘‘British-based
+
+radical Muslims’’ (CNN, 7 September 2005) the CNN ‘classify’ the perpetrators not only
+
+in terms of their nationality but also in terms of their religion. The quantitative analysis
+
+reveals that in 30.2%of CNN’s reports on Amman the religion of the perpetrators is
+
+mentioned (Al Jazeera 12.5%, BBC 18.2%, ARD 16.7%).
+
+Altogether, Al Jazeera represents the perpetrators in as much detail as the CNN, but
+
+does so differently: first, Al Jazeera devotes more airtime to the perpetrator’s own per-
+
+spective. It also gives them an individual face by allowing people from their commu-
+
+nities to speak, people who understand their backgrounds (‘‘What can you expect
+
+from people who are persecuted and are constantly threatened with death? [They] are
+
+constantly attacked with rockets, like in Falluja and Anbar,’’; 9 November 2005). Sec-
+
+ond, Al Jazeera clearly distinguishes between the perpetrators and Muslims in general,
+
+and stresses, for example, that ‘‘Many Muslims have condemned the attacks’’ (9 July
+
+2005; see 8 July 2005). Third, in some cases Al Jazeera implicitly blames Western elites,
+
+partly implicating them as co-culprits: Tony Blair and George W Bush, in Iraq and
+
+Afghanistan, ‘‘acted mercilessly against an enemy’’ (Al Jazeera, 7 July 2005). This, it
+
+14 the International Communication Gazette 76(1)
+
+is argued, is reciprocated in the form of terrorism in Britain and the United States. Gen-
+
+erally, however, Al Jazeera focuses more than other stations on the illegitimacy of the
+
+foreign policy of the United States and its allies, which represents a failure (a ‘‘lost war,’’
+
+8 July 2005, and ‘‘mistake,’’ 7 July 2005) and they speculate, for example, on whether
+
+the British would withdraw their military from Iraq (10 July 2005).
+
+In the presentation of the victims, several other specifics of Al Jazeera’s coverage can
+
+be found. The channel is the only one that describes occasions where Muslims were vic-
+
+tims of discrimination in the West. On the day of the London bombings, for example,
+
+they claim that the ‘‘Arab council in London [had] received threatening letters from
+
+strangers’’ and also ask: ‘‘Should one be worried about Arabs and Muslims in Britain?’’
+
+(see 7 July 2005 and 13 July 2005). Similar statements can be found with respect to the
+
+attacks in Amman: Al Jazeera stressed that events ‘‘again illustrated the situation of the
+
+Palestinians. The wedding party [in the attacked hotel] was meant to reunite a family that
+
+had been separated since the 1967 war. The wedding became a funeral’’ (Al Jazeera, 11
+
+November 2005). The victims are thus framed as victims in a double sense: they are
+
+shown to suffer under the Israeli occupation as well as from the attacks in Amman – sug-
+
+gesting a shared guilt for Israel and the United States (cf. Seib, 2004: 80).
+
+Overall, however, these differences are arranged into a frame of interpretation Al
+
+Jazeera shares with CNN, Both interpret the attacks as expressions of a global political
+
+conflict – one in which their constituencies are strongly involved and often seen as the
+
+main conflict parties. In this way, they differ from the BBC and ARD.
+
+‘‘Crimes against humanity’’ – the frame of the BBC and ARD. The geopolitical interpretation
+
+of the terrorist attacks is considerably less pronounced in the coverage of the BBC and
+
+ARD. Instead, the attacks tend to be interpreted as criminal acts, with the conflict parties
+
+not being national governments and transnational terrorist organizations, but individual
+
+perpetrators and their victims which represent a multi-ethnic and multi-religious society.
+
+This interpretive framework is manifested primarily in the fact that the representation
+
+of victims by the BBC and ARD is the most important reporting dimension in terms of
+
+length and placement. The detailed representation of the individual life-worlds of vic-
+
+tims, which can be seen to some extent across all events, is clearly the central focus for
+
+the BBC and ARD. This is complemented by numerous references to the various ethni-
+
+cities and religions to which the victims belong (‘‘black and white, Muslim and Chris-
+
+tian, Hindu and Jew, young and old,’’ BBC, 7 July 2005, and ‘‘all colors, all races, all
+
+religions,’’ ARD, 11 July 2005). On several occasions, both channels also show ethni-
+
+cally diverse groups or crowds mourning. Altogether, this presentation suggests that the
+
+attacks struck a cosmopolitan civil society or even the entire ‘‘human civilization’’
+
+(ARD, 10 July 2005).
+
+In contrast, the representation of the perpetrators receives very little attention and dif-
+
+fers strongly from that of the CNN and Al Jazeera. The BBC and ARD are very careful
+
+about potential prejudice in their identification of the perpetrators. While both mention
+
+parallels between earlier Al Qaeda attacks and the London bombings, for example, they
+
+consistently point out that the authenticity of two letters of responsibility is yet to be pro-
+
+ven. Throughout the broadcasts, they carefully choose their words. The broadcasters rely
+
+on information provided by official agencies of the government, but do not assert their
+
+Gerhards and Sch¨afer 15
+
+own positions (‘‘the BND claims that there is every indication that this is an attack with
+
+an Islamic background,’’ ARD, 7 July 2005). They also sometimes present contradictory
+
+statements without taking a definite position, such as ‘the police do not currently have
+
+concrete evidence of the perpetrators. Tony Blair, however, is clear: ‘‘We know that
+
+these people act in the name of Islam’’’ (ARD, 7 July 2005). Furthermore, both broad-
+
+casters clearly distinguish between the perpetrators and other Muslims, noting, for exam-
+
+ple, that ‘‘the overwhelming majority of Muslims here and abroad are honest and law
+
+abiding people which abhor this kind of terrorism just as we do’’ (ARD, 7 July 2005).
+
+This rather ‘civil’ (and less geopolitical) interpretation of the BBC and ARD is also
+
+manifested in the fact that the political motives of the perpetrators are less often men-
+
+tioned and are less speculated upon. The hotels destroyed in the attacks on Amman, for
+
+example, are described as ‘‘big hotels’’ (BBC, 11 November 2005) or ‘‘luxury hotels’’
+
+(ARD, 13 November 2005), and not as ‘‘American owned’’ (CNN, 9 November 2005)
+
+or hotels which are primarily frequented by Israeli tourists (Al Jazeera, 12 November
+
+2005). In turn, the motives of the perpetrators remain rather vague in the coverage by
+
+the BBC and ARD – it is merely understood as an assault by a few extremists on ‘‘civi-
+
+lization’’ (ARD, 11 March 2004; 12 March 2004).
+
+The same is true of the representation of the reactions to the attacks. The BBC and ARD
+
+present some of the potential geopolitical implications of the events, but do so with care
+
+and also focus much stronger on immediate local reactions such as rescue operations:
+
+‘‘A large contingent of rescue forces were on the spot within a very short time. Support
+
+to hundreds of injured went well, stakeholders and police say’’ or ‘‘shortly after the explo-
+
+sions police began to evacuate the stations’’ (ARD, 7 July 2005; 8 July 2005). In addition,
+
+the consequences of the attacks on people’s daily lives are presented in detail. Again and
+
+again, the broadcasters refer to the fact that terrorism will not succeed – we ‘‘cannot allow
+
+the perpetrators of violence, to destroy [British] society and values’’ (Tony Blair, ARD, 7
+
+July 2005), ‘‘our way of life’’ will not change (Queen Elizabeth II, ARD, 8 July 2005), and
+
+‘‘the terrorists will not bring us to our knees’’ (German Interior Minister Otto Schily, ARD,
+
+8 July 2005). This mentality of resilience is also presented in the description of the ‘‘calm-
+
+ness of the crowds’’ (BBC, 7 July 2005) and the ‘‘incredible peace and serenity’’ of Lon-
+
+don (ARD, 7 July 2005). We see people on the day of the attacks who have to walk home
+
+or brave overcrowded trains, ferries, roads, and hotels, struggling to accept their fate.
+
+Calmly, ‘‘they want to send a message to the terrorists that life continues’’ (BBC, 8 July
+
+2005). Moreover, the representation of a variety of expressions of solidarity and compas-
+
+sion by citizens, journalists, and elites evokes the image of a shared identity: ‘‘The world’s
+
+reaction is mainly one of sympathy, solidarity and condemnation [,] those bombings
+
+brought civilized people closer together’’ (BBC, 11 July 2005).
+
+Figure 1 summarizes the similarities and differences between the analyzed broadcasters
+
+interpretative frameworks schematically. Our comparative analysis of TV news cover-
+
+age has shown that, on the one hand, the reporting of terrorism in different countries and
+
+regions has many similarities. CNN, Al Jazeera, the BBC, and ARD devote nearly iden-
+
+tical amounts of attention to the four attacks, and the stylistic devices used to describe
+
+16 the International Communication Gazette 76(1)
+
+them are very similar regardless of where the events took place and regardless of the
+
+location of the broadcaster. The evaluation of the actions of the perpetrators and the atti-
+
+tude towards the victims are also similar across all four channels. The attacks are uni-
+
+formly condemned, and the victims are presented as innocent civilians who were
+
+unjustly injured or killed and deserve everybody’s sympathy. In this regard, all of the
+
+channels underline the illegitimacy of the terrorist attacks. In this sense, we find a
+
+cross-national standardization of terrorism coverage which corresponds to the theoretical
+
+model of a ‘‘global standardization of coverage’’ outlined above.
+
+On the other hand, we also found differences in the coverage. These lie mainly between
+
+the CNN and Al Jazeera on the one hand – i.e.,between the broadcasters whosecountries or
+
+regions are intensively involved in certain geopolitical conflicts – and the BBC and ARD on
+
+the other. The former interpret the attacks as an expression of a global ‘‘war on terror,’’
+
+whereas thelatter see them as criminal attacks by a few individuals againstcivilization itself.
+
+Relating our findings to the theories presented at the beginning of the paper, the over-
+
+all results paint a mixed picture. In addition to some cross-broadcaster similarities, we
+
+find differences between CNN and Al Jazeera, on the one hand, and the BBC and ARD
+
+on the other. Even though we cannot explain these differences systematically, we con-
+
+sider factors outside the media to be the most important influences on terrorist coverage
+
+and, thus, the described similarities and differences.
+
+Overarching similarities
+
+Representation of the attacks as significant
+
+Condemnation of the attacks
+
+Condemnation of the perpetrators
+
+Representation of the victims as innocent civilians
+
+Frame ‘Crimes against Humanity’
+
+Criminal perpetrators vs.
+
+depoliticized interpretation
+
+Frame ‘War on Terror’
+
+USA/ West vs. Islam(ist)ic terrorist
+
+groups; geopolitical interpretation
+
+Figure 1. Similarities and differences in the representation of terrorism.
+
+Gerhards and Sch¨afer 17
+
+First, the far-reaching similarities in evaluation may be due in large mainly to the con-
+
+stellation of actors surrounding the media, especially to the political elites. A consensus in
+
+the evaluation and interpretation of terrorism is likely to lead to similar media presenta-
+
+tions – and in turn, differences between media will increase if elites are divided (e.g. Ben-
+
+nett, 1990; Robinson, 2001). This is particularly true in conflicts, and particularly so in
+
+international conflicts. In the case of terrorism, there is a strong consensus on the illegiti-
+
+macy of terrorist attacks (Norris et al., 2003: 12), which is not confined to individual nation
+
+states and not only to the ‘West’, but, at least officially, is supported throughout the world.
+
+This can be understood as part of a world culture which is codified by the decisions of the
+
+United Nations (cf. UN General Assembly, 2006: 3). Under these conditions, the mass
+
+media’s evaluation of a topic can be expected to be largely uniform because there are
+
+no high-status actors from outside the media who publicly approve of the terrorist acts.
+
+The nuancing in the evaluations, which differs between Al Jazeera and other broadcas-
+
+ters, could be explained as follows: under conditions of a hegemonic interpretation of
+
+events, dissent must be concealed through indirect means of articulation. They would first
+
+be formulated by actors of low social standing and are rarely expressed by large institutio-
+
+nalized media outlets. Second, evaluations which diverge from the hegemonic opinion
+
+shift to subtleties, to overtones and emphases. This is precisely what we found. Al Jazeera
+
+gives the perpetrator’s perspective a little more time, discussing family background, the-
+
+matizing more strongly the illegitimacy of the foreign policies of the US and its allies in
+
+Iraq and Afghanistan or the Israel-Palestine conflict, and reporting on a second group of
+
+victims – Muslims in the West who were targeted in the wake of the attacks. Thus, the neg-
+
+ative assessment of the terrorist attacks, while extant, is mitigated slightly.
+
+Nevertheless, the existence of such a consensus cannot account for the different
+
+frames we found, i.e. why CNN and Al Jazeera interpret the events as a ‘‘war on terror,’’
+
+while the BBC and ARD interpret them as ‘‘crimes against humanity.’’ We suspect that
+
+these differences are due to country differences in the political landscape and in the posi-
+
+tions of political elites in particular (Bennett, 1990; Nossek, 2004, 2008). The decisive
+
+factor seems to be the extent to which political actors interpret the attacks as an expres-
+
+sion of a conflict in which one’s own country is involved. In this respect, the stakeholders
+
+from outside the media differ in their evaluations, which corresponds with the interpre-
+
+tive framework that can be found in the mass media:
+
+(a) In the US, the attacks of 11 September 2001 brought about a radical reorientation
+
+of foreign policy towards the ‘‘war on terror.’’ At the same time, George W Bush
+
+appealed to all countries to support this effort, and interpreted the absence of assistance
+
+as an endorsement of terrorism: ‘‘Every nation [ ...] now has a decision to make. Either
+
+you are with us, or you are with the terrorists’’ (The White House, 2001). This bipolar
+
+standpoint has led to changes in US foreign policy and also reoriented and reorganized
+
+the national perception and interpretation of conflicts in Afghanistan, Iraq and else-
+
+where. This has been shown for a number of US media in the past (e.g. Cook, 1994; Hal-
+
+lin, 1994; Mermin, 1999) and corresponds with the dominant interpretative framework
+
+(b) The German government’s position deviates markedly from the interpretation of
+
+US foreign policy. Although the attacks of 11 September 2001 were strongly con-
+
+demned, Germany did not become directly involved in the ‘war on terror,’ refusing, for
+
+18 the International Communication Gazette 76(1)
+
+example, to participate in the Iraq War. The interpretation of the threats as well as the
+
+scope of foreign policy is much more moderate in German than US politics. Though
+
+CNN’s interpretation of the examined events reflects official US policy, it seems that
+
+ARD’s interpretive framework also takes its cue from German politics.
+
+(c) The UK, in this respect, act ambivalent. On the one hand, the Blair government
+
+was, after 11 September, the closest ally of the US and their foreign policy, participat-
+
+ing in the military interventions in Afghanistan and Iraq. At the same time, there was a
+
+growing and widespread social opposition across the UK which called attention to the
+
+negative consequences and lack of legitimacy of the wars (Williams, 2004). This sit-
+
+uation, Robinson (2001) claims, created a window of opportunity for the media to posi-
+
+tion themselves. The BBC might well have used this opportunity in the cases we
+
+analyzed: the British prime minister and his cabinet members are given a voice, the
+
+attacks are not interpreted as an episode of the ‘‘war on terror,’’ but as ‘‘crimes against
+
+humanity.’’ The broadcaster, therefore, reflects the position of the British population
+
+more closely, which ranged from skeptical to critical of the Blair government’s foreign
+
+(d) As a pan-Arab broadcaster, Al Jazeera cannot be assigned to any particular Arab
+
+country, which makes reference to a specific constellation of policy difficult. However,
+
+Al Jazeera has been characterized as critical towards Arab governments. This applies
+
+both to Arab countries that are US allies, such as Saudi Arabia, Kuwait and Qatar, as well
+
+as those who are more likely to be classified as opponents of US foreign policy like Syria
+
+or Iran. In this situation, it can be assumed that Al Jazeera reflects less the positions of
+
+certain Arab elites than, as Robinson (2001) suggests, its own unique position. As with
+
+the BBC, Al Jazeera’s position has many parallels with the views of the Arab populations
+
+of many countries – the so-called ‘‘Arab street’’ (Center for Strategic Studies, 2005;
+
+Similarities and differences between broadcasters may not only be linked to constella-
+
+tions of actors outside the media but also traced back to media-specific factors, even
+
+though we think this is less plausible. In terms of journalistic cultures (‘‘journalistic prac-
+
+tices, professional standards and ethical factors’’; for an overview see Hahn et al., 2008),
+
+there are many similarities between the television stations we have analyzed (cf. Hanitzsch
+
+and Seethaler, 2009; K¨
+
+ung-Shankleman, 2000; Miles, 2005). However, even if we con-
+
+sider it plausible thatexternal media factors can explain the described differences and simi-
+
+larities better than media-specific differences, we are not able to prove this. This seems to
+
+be a worthwhile goal for future studies in the field of terrorism studies.
+
+The authors would like to thank Ishtar Al Jabiri, Juliane Seifert, Antje Gl¨
+
+uck and Florian Eschen-
+
+bacher, who contributed to the research presented here, as well as Inga Ganzer, who helped in pre-
+
+paring the manuscript for publication.
+
+The project from which the study emerged was funded by the German Research Foundation in the
+
+framework of the Federal Cluster of Excellence ‘Languages of Emotion.’
+
+Gerhards and Sch¨afer 19
+
+1. Both authors contributed equally to the text; their names were listed alphabetically. A detailed
+
+description of the design, methodology and findings of the study as well as reports on other
+
+dimensions can be found in Gerhards et al. (2011).
+
+2. This quote, as well as several others from German books and articles, has been translated into
+
+English for this publication.
+
+3. We will not be able to ‘test’ them as terrorism coverage is determined by many factors;
+
+in our analysis, we are able to track and control a few of them only, and must therefore
+
+limit ourselves to the description of relatively few cases (cf. Lieberson, 1991). We will,
+
+however, identify factors that might provide an explanation to our findings at the end of
+
+4. Due to restrictions on availability of archival material, we were not able to include all the
+
+broadcasters we were initially interested in. As a result, we were only able to include the
+
+pan-Arab station Al Jazeera, rather than other Arab national broadcasters. We selected CNN
+
+and Al Jazeera because, unlike BBC and ARD, they are not general entertainment channels
+
+and broadcast only news. However, we analyzed only the main daily news programs of CNN
+
+and Al Jazeera as we assume that the most important events of the day are summarized in
+
+these broadcasts and which enables a comparison with the daily news programs of the general
+
+5. For acquisition of material we used the archives of the German public broadcasters and the
+
+‘‘Mediathek’’ of the ARD, the ‘‘BBC Motion Gallery,’’ and the Television News Archive of
+
+the Vanderbilt University in Nashville. The material from Al Jazeera was gathered while vis-
+
+iting the station in Doha (Qatar).
+
+6. The code book was based on conceptual considerations and classifications of other projects
+
+(e.g. Haußecker, 2007; Unz et al., 2008; Wirth, 2000) as well as comparative content analysis
+
+on other subjects or other types of media (Gerhards and Sch¨afer, 2006; Sch¨afer, 2007) and was
+
+then supplemented inductively on the basis of our material.
+
+7. All quotes from Arabic were translated by Ishtar Al-Jabiri.
+
+8. Sympathy for the victims is conveyed on all channels by allowing their relatives to speak.
+
+‘‘There was a huge flash, an explosion, a lot of smoke. The train stopped, as did the oncoming
+
+train. There was lots of shouting’’ (ARD, 7 July 2005). ‘‘I found the whole room destroyed,’’
+
+sobs this woman. ‘‘My two daughters lay on the ground – dead’’ (CNN, 10 November 2005).
+
+‘‘Everyone was screaming, I was screaming, I thought I’m gonna die. It was horrific’’ (BBC, 8
+
+July 2005). In addition, journalists describe the individual fates of victims: ‘‘Yvonne is
+
+exhausted from the search;’ ‘‘Also killed on the number 30 bus was Phillip Russell;’ ‘‘Her boy-
+
+friend phoned his office minutes before the blast to say he was on the bus [and] hasn’t been
+
+heard of since’’ (BBC, 8 July 2005; 12 July 2005). They present people ‘‘in the search for their
+
+relatives’’ (Al Jazeera, 8 July 2005) and their emotions (‘‘We will not give up hope on Laura;’
+
+‘‘No firm news either for Rosenberg’s partner John. He has begun to mourn, to accept that she is
+
+dead,’ BBC, 12 July 2005).
+
+Abrahamian E (2003) The US Media, Huntington and September 11. Third World Quarterly 24:
+
+20 the International Communication Gazette 76(1)
+
+Aday S, Livingston S and Hebert M (2005) Embedding the truth: A cross-cultural analysis of
+
+objectivity and television coverage of the Iraq war. Harvard International Journal of Press/
+
+Politics 10: 3–21.
+
+Administracion de Justicia (2004) Juzgado Central de Instruccio
+
+6, Audiencia Nacional.
+
+Madrid: Administracion de Justicia.
+
+Al-Awsat, Asharq (2006) Leading Arab Television Stations Reject Zogby Report Available at:
+
+www.zogby.com/Soundbites/readclips.cfm?ID=12502 (accessed 10 December 2012).
+
+Al Jazeera (2009) Al Jazeera Reaching 140 Million Viewers in the Arab World (Press Release, 31st
+
+October 2009). Doha: Al Jazeera.
+
+Altheide DL (2006) Terrorism and the politics of fear. Cultural Studies - Critical Methodologies 6:
+
+Arab Statistics (2009) Culture, information and communication technologies. Paris: Unesco.
+
+Available at: http://www.uis.unesco.org/Communication/Documents/ICT-arab-states-en.
+
+Bantimaroudis P and Kampanellou E (2007) The cultural framing hypothesis: Attributes of cul-
+
+tural alliances and conflicts. Harvard International Journal of Press/Politics 12: 80–90.
+
+Barber BR (ed) (1995) Jihad vs. McWorld. How Globalism and Tribalism are Reshaping the
+
+World. New York: Ballantine Books.
+
+Beck U (1999) World Risk Society. Cambridge: Polity Press.
+
+Bennett WL (1990) Toward a theory of press-state relations in the United States. Journal of Com-
+
+munication 40: 103–125.
+
+Bennett WL (2009) Power and the News Media: The Press and Democratic Accountability. In:
+
+Marcinkowski F and Pfetsch B (eds) Politik in der Mediendemokratie (Sonderheft der Poli-
+
+tischen Vierteljahresschrift). Wiesbaden: Verlag f¨
+
+ur Sozialwissenschaften, pp. 84–102.
+
+Bennett WL, Lawrence RG and Livingston S (2006) None dare call it torture: Indexing and
+
+the limits of press independence in the Abu Ghraib Scandal. Journal of Communication
+
+Bennetto J and Herbert I (2005) London bombings: The truth emerges. The New Zealand Herald.
+
+Available at: www.nzherald.co.nz/london-bombings/news/article.cfm?c_id¼1500947&object
+
+Blum R (2005) Bausteine zu einer Theorie der Mediensysteme, Medienwissenschaften Schweiz
+
+Borgeson K and Valeri R (eds) (2008) Terrorism in America. Boston: Jones and Bartlett.
+
+Center for Strategic Studies (2005) Revisiting the Arab Street. Research from Within. Amman:
+
+University of Jordan/Center for Strategic Studies.
+
+Cohen-Almagor R (2005) Media coverage of acts of terrorism: Troubling episodes and suggested
+
+guidelines. Canadian Journal of Communication 30: 383–409.
+
+Cohen AA, Adoni H and Bantz CR (1990) Social Conflict and Television News. Newbury Park,
+
+Cook TE (1994) Domesticating a Crisis: Washington newsbeats and network news after the Iraqi
+
+invasion of Kuwait. In: Bennett WL and Paletz DL (eds) Taken by Storm: The Media, Public
+
+Opinion, and U.S. Foreign Policy in the Gulf War. Chicago, IL: University of Chicago Press,
+
+Emmer M, Kuhlmann C, Vowe G, et al. (2002) Der 11. September – Informationsverbreitung,
+
+Medienwahl, Anschlusskommunikation. Media Perspektiven 2002: 166–177.
+
+Gerhards and Sch¨afer 21
+
+Entman RM (1993) Framing: Towards clarification of a fractured paradigm. Journal of Commu-
+
+nication 43(4): 51–58.
+
+Esser F (1998) Die Kr ¨
+
+afte hinter den Schlagzeilen. Englischer und deutscher Journalismus im Ver-
+
+gleich. Freiburg & M¨
+
+Ferree MM, Gamson WA, Gerhards J, et al. (2002) Shaping Abortion Discourse. Democracy and
+
+the Public Sphere in Germany and the United States. Cambridge: Cambridge University Press.
+
+Fresco A, McGrory D and Norfolk A (2006) Video of London suicide bomber released. The Times
+
+Online, 7 June 2006.
+
+Fuchs P (2004) Das System ‘‘Terror’’. Versuch ¨
+
+uber eine kommunkative Eskalation der Moderne.
+
+Bielefeld: Transcript.
+
+Galtung J and Ruge MH (1965) The structure of foreign news. The presentation of the Congo,
+
+Cuba and Cyprus crises in four Norwegian newspapers. Journal of Peace Research 2: 64–91.
+
+Gerhards J and Sch¨afer MS (2006) Die Herstellung einer ¨
+
+offentlichen Hegemonie. Humangen-
+
+omforschung in der deutschen und US-amerikanischen Presse. Wiesbaden: Verlag f¨
+
+Sozialwissenschaften.
+
+Gerhards J, Sch ¨afer MS, Al Jabiri I, et al. (2011) Terrorismus in den Medien. Formate, Inhalte und
+
+Emotionen in westlichen und arabischen Sendern.Wiesbaden:Verlagf
+
+ur Sozialwissenschaften.
+
+Gurevitch M and Levy M (1990) The global newsroom. British Journalism Review 2: 27–37.
+
+Gurevitch M, Levy M and Roeh I (1991) The global newsroom: Convergences and diversities in
+
+the globalisation of television news. In: Dahlgren P and Sparks C (eds) Communications and
+
+Citizenship: Journalism and the Public Sphere in the New Media Age. London: Routledge,
+
+Hafez K (2005a) Globalization, regionalization and democratization: The interaction of three
+
+paradigms in the field of mass communication. In: Hackett RA and Zhao Y (eds) Democra-
+
+tizing Global Media. One World, Many Struggles. Lanham: Rowman & Littlefield Publish-
+
+Hafez K (2005b) Mythos Globalisierung. Warum die Medien nicht grenzenlos sind. Wiesbaden:
+
+ur Sozialwissenschaften.
+
+Hafez K and Richter C (2007) Das Islambild von ARD und ZDF. Aus Politik und Zeitgeschichte
+
+Hahn O, Schr¨oder R and Dietrich S (2008) Journalistische Kulturen. Forschungstypologie und
+
+Aufriss. In: Hahn O and Schr¨oder R (eds) Journalistische Kulturen. Internationale und Inter-
+
+are Theoriebausteine. K¨oln: von Halem, pp. 7–30.
+
+Hallin DC (1994) We keep America to the World. New York: Rouledge.
+
+Hallin DC and Mancini P (2004) Americanization, globalization & secularization. In: Esser F and
+
+Pfetsch B (eds) Comparing political communication: theories, cases, and challenges. Cambridge:
+
+University Press, pp. 25–44.
+
+Hamilos P (2007) The worst Islamist attack in European history. The Guardian, 31 p. 7 October 2007.
+
+Hanitzsch T and Seethaler J (2009) Journalismuswelten: Ein Vergleich von Journalismuskulturen
+
+in 17 L¨andern. Medien & Kommunikationswissenschaft 57: 464–483.
+
+Hans-Bredow-Institut (ed) (2009) Internationales Handbuch Medien. Baden-Baden: Nomos.
+
+Hasebrink U (2006) Agenda-setting. In: Hans-Bredow-Institut (ed) Medien von A bis Z. Wiesba-
+
+ur Sozialwissenschaften, pp. 19–21.
+
+Haußecker N (2007) Zur Berichterstattung ¨
+
+uber Terrorismus in TV-Nachrichtensendungen am
+
+Beispiel der Terroranschl ¨
+
+age in Kenia. Munich: GRIN.
+
+22 the International Communication Gazette 76(1)
+
+Herman ES and McChesney RW (2000) The global media. In: Held D and McGrew A (eds) The
+
+Global Transformations Reader. Cambridge: Polity Press, pp. 216–229.
+
+Hoffman B (2007) Terrorismus - Der unerkl ¨
+
+arte Krieg. Bonn: Bundeszentrale f¨
+
+Huntington SP (1998) Clash of Civilisations and the Remaking of World Order.NewYork:
+
+IP International Marketing Committee (2008) Television 2008. International Key Facts.K¨oln: IP
+
+Iskandar A (2007) Lines in the sand: Problematizing Arab media in the post-taxonomic era. Arab
+
+Media & Society 2007: 1–47. Online under http://www.arabmediasociety.com/articles/down-
+
+loads/20070523153324_ams2_adel_iskandar.pdf
+
+Ivanova A, Sch¨afer MS and Schmidt A (forthcoming) Global climate change, global public
+
+sphere? In: Canel J and Voltmer K (eds) Comparing Political Communication Across Time and
+
+Space: New Studies in An Emerging field. London: Palgrave.
+
+Jasperson AE and El-Kikhia MO (2003) NN and al Jazeera’s media coverage of America’s war in
+
+Afghanistan. In: Norris P, Kern M and Just M (eds) Framing Terrorism: The News Media, the
+
+Government and the Public. New York: Routledge, pp. 113–132.
+
+Kelly MJ and Mitchell TH (1981) Transnational terrorism and the western elite press. Political
+
+Communication 1: 269–296.
+
+Khalil A, Kadri R and Meyer J (2005) Suicide attacks kill at least 57 at 3 hotels in Jordan’s capital.
+
+LA Times Online, 11 October 2005. Available at: http://articles.latimes.com/2005/nov/10/
+
+Krotz F (2005) Von Modernisierungs- ¨
+
+uber Dependenz- zu Globalisierungstheorien. In: Hepp A
+
+(ed) Globalisierung der Medienkommunikation. Wiesbaden: Verlag f¨
+
+ur Sozialwissenschaften,
+
+Ksiazek TB and Webster JG (2008) Cultural proximity and audience behavior: The role of lan-
+
+guage in patterns of polarization and multicultural fluency. Journal of Broadcasting & Elec-
+
+tronic Media 52(3): 485–503.
+
+ung-Shankleman L (2000) Inside the BBC and CNN. London: Routledge.
+
+Lieberson S (1991) Small N’s and big conclusions: an examination of the reasoning in comparative
+
+studies based on a small number of cases. Social Forces 70: 307–320.
+
+Liebes T and First A (2003) Framing the Israeli-Palestinian conflict. In: Norris P, Kern M and Just
+
+M (eds) Framing Terrorism: The News Media, the Government and the Public. New York:
+
+Routledge, pp. 59–74.
+
+L¨offelholz M and Hepp A (2002) Transkulturelle Kommunikation. In: Hepp A and L¨offelholz M
+
+(eds) Grundlagentexte zur transkulturellen Kommunikation. Konstanz: UVK, pp. 11–36.
+
+Luhmann N (1997) Die Gesellschaft der Gesellschaft. Frankfurt a.M.: Suhrkamp.
+
+Lynch M (2003) Beyond the Arab street: Iraq and the Arab public sphere. Politics and Society 31: 55–91.
+
+Lynch M (2006) Voices of the New Arab Public. Iraq, Al-Jazeera, and Middle East Politics Today.
+
+New York: Columbia University Press.
+
+Mayring P (1994) Qualitative Inhaltsanalyse. Weinheim: Deutscher Studienverlag.
+
+Mermin J (1999) Conflict in the sphere of consensus. Critical reporting on the Panama invasion
+
+and the Gulf war. Political Communication 13(2): 181–194.
+
+Meyer JW (2005) Weltkultur. Wie die westlichen Prinzipien die Welt durchdringen. Frankfurt a.
+
+Miles H (2005) How Arab TV News Challenged the World. London: Abacus.
+
+uller C (2008) Sorgen um den globalen Terrorismus in Deutschland. DIW Wochenbericht 2008:
+
+unkler H (2005) The New Wars. Cambridge: Polity Press.
+
+Nacos BL (2007) Mass-mediated Terrorism: The Central Role of the Media in Terrorism and
+
+Counterterrorism. Lanham: Rowman & Littlefield.
+
+New York Times (2005) Bombings in Amman. Available at: www.nytimes.com/packages/khtml/
+
+2005/11/10/international/20051110_JORDAN_AUDIOSS.html
+
+Norris P, Kern M and Just M (2003) Framing terrorism. In: Norris P, Kern M and Just M (eds)
+
+Framing Terrorism: The News Media, the Government and the Public. New York: Routledge,
+
+Nossek H (2004) Our news and their news. Journalism 5: 343–368.
+
+Nossek H (2008) News media-media events: Terrorist acts as media events. Communications 33:
+
+Oates S (2006) Comparing the politics of fear: The role of terrorism news in election campaigns in
+
+Russia, the United States and Britain. International Relations 20: 425–437.
+
+Office of Communications (2008) Public Service Broadcasting. Annual Report.
+
+Papacharissi Z and de Fatima Oliveira M (2008) News frames terrorism: A comparative analysis of
+
+frames employed in terrorism coverage in U.S. and U.K. Newspapers. Harvard International
+
+Journal of Press/Politics 13: 52–74.
+
+Pew Research Center (2004) News Audiences Increasingly Politicized. Washington: Pew Research
+
+Pew Research Center (2005) Project for Excellence in Journalism. The State of the News Media
+
+2005. Washington: Pew Research Center.
+
+Pew Research Center (2006) Project for Excellence in Journalism. The State of the News Media
+
+2006. Washington: Pew Research Center.
+
+Rand Corporation (2009) Database of Worldwide Terrorism Incidents. Online under www.rand.
+
+org/nsrd/projects/terrorism-incidents.html
+
+Rapoport DCs (2006) Terrorism: Critical Concepts in Political Science. London: Routledge.
+
+Reese SD and Lewis SC (2009) Framing the War on TerrorThe internalization of policy in the US
+
+press. Journalism 10(6): 777–779.
+
+Ritchie J and Lewis J (eds) (2003) Qualitative Research Practice. A Guide for Social Science Stu-
+
+dents and Researchers. London: Sage.
+
+Robinson P (2001) Theorizing the influence of media on world politics. Models of media influence
+
+on foreign policy. European Journal of Communication 16: 523–544.
+
+R¨ossler P (2004) Political communication messages: Pictures of our world on international televi-
+
+sion news. In: Esser F and Pfetsch B (eds) Comparing Political Communication: Theories,
+
+Cases, and Challenges. Cambridge: University Press, pp. 271–292.
+
+Rugh WA (2007) Do national political systems still influence Arab media? Arab Media & Society:
+
+pp. 1–21. Online under http://www.arabmediasociety.com/?article=225 May.
+
+Sch¨afer MS (2007) Wissenschaft in den Medien. Die Medialisierung naturwissenschaftlicher The-
+
+men. Wiesbaden: Verlag f¨
+
+ur Sozialwissenschaften.
+
+Schaefer TM (2003) Framing the US Embassy bombings in African and US newspapers. In Norris
+
+P, Kern M and Just M (eds) Framing Terrorism: The News Media, the Government and the
+
+Public. New York: Routledge, pp. 93–112.
+
+24 the International Communication Gazette 76(1)
+
+Scheufele DA, Nisbet MC and Ostman RE (2005) September 11 news coverage, public opinion,
+
+and support for civil liberties. Mass Communication & Society 8: 197–218.
+
+Schmidt A, Ivanova A and Sch¨afer MS (2013): Media attention for climate change around the world:
+
+A comparative analysis of newspaper coverage in 27 countries. Global Environmental Change.
+
+Online First under http://www.sciencedirect.com/science/article/pii/S095937801300126X
+
+Schneckener U (2006) Transnationaler Terrorismus. Frankfurt a.M.: Suhrkamp.
+
+Seib P (2004) The news media and the ‘‘Clash of Civilizations’’. Parameters 34(Winter):
+
+Selber GM and Ghanem SI (2004) Modernization and media in the Arab World. Global
+
+Media Journal 3(5): Article No. 10. Available at: http://lass.purduecal.edu/cca/gmj/fa04/
+
+gmj-fa04-selber-ghanem.htm
+
+Shoemaker PJ and Reese SD (1995) Mediating the Message: Theories of Influence on Mass Media
+
+Content. New York: Longman.
+
+Siebert FS, Peterson T and Schramm W (1963) Four Theories of the Press. Chicago: University of
+
+Strauss AL (1987) Qualitative Analysis f or Social Scientists. Cambr idge: Cambridge Univer sity Press.
+
+Swanson DL (2003) Transnationale politische Kommunikation: Konventionelle Sichtweisen und
+
+neue Realit¨aten. In: Esser F and Pfetsch B (eds) Politische Kommunikation im internationalen
+
+Vergleich. Opladen: Westdeutscher Verlag, pp. 56–77.
+
+The White House (2001) Address to a Joint Session of Congress and the American People.
+
+Washington: The White House.
+
+Thomaß B (ed) (2007) Mediensysteme im internationalen Vergleich. Konstanz: UVK.
+
+Thompson JB (2000) The globalization of communication. In: Held D and McGrew A (eds) The
+
+Global Transformations Reader. Cambridge: Polity Press, pp. 246–295.
+
+Townshend C (2002) Terrorism: A Very Short Introduction. Oxford: Oxford University Press.
+
+Tuman JS (2003) Communicating Terror. The Rhetorical Dimensions of Terrorism.London:
+
+UN General Assembly (2006) Uniting against terrorism: recommendations for a global
+
+counter-terrorism strategy. Report of the Secretary-General (Sixtieth session, Agenda items
+
+46 and 120). New York: United Nations.
+
+Unz D, Schwab F and Winterhoff-Spurk P (2008) TV news – the daily horror? Emotional effects of
+
+violent tv news. Journal of Media Psychology 20: 141–156.
+
+Weimann G and Brosius HB (1991) The newsworthiness of international terrorism. Communica-
+
+tion Research 18: 333–354.
+
+Weischenberg S (1992) Journalistik. Theorie und Praxis aktueller Medienkommunikation; Bd. 1:
+
+Mediensysteme, Medienethik, Medieninstitutionen. Opladen: Westdeutscher Verlag.
+
+Weischenberg S (1995) Journalistik. Theorie und Praxis aktueller Medienkommunikation; Bd. 2:
+
+Medientechnik, Medienfunktionen, Medienakteure. Opladen: Westdeutscher Verlag.
+
+Willacy M (2005) Police question dozens over Egypt bombings. ABC News, 25 July 2005.
+
+Williams P (2004) Who’s making UK foreign policy? International Affairs 80: 909–929.
+
+Wimmel A (2006) Transnationale Diskurse in Europa. Der Streit um den T ¨
+
+Deutschland, Frankreich und Großbritannien. Frankfurt a. M.: Campus.
+
+Wirth W (2000) Infotainment: Chancen f¨
+
+ur die politische Sozialisation Jugendlicher? In: Paus-H-
+
+aase I, Schnatmeyer D and Wegener C (eds) Information, Emotion, Sensation: Wenn im Fern-
+
+sehen die Grenzen zerfließen. Bielefeld: GMK, pp. 62–91.
+
+Gerhards and Sch¨afer 25
+
+Woods J (2007) What we talk about when we talk about terrorism: Elite press coverage of terror-
+
+ism risk from 1997 to 2005. Harvard International Journal of Press/Politics 12: 3–20.
+
+Zubayr C and Geese S (2009) Die Informationsqualit¨at der Fernsehnachrichten aus Zuschauer-
+
+sicht. Media Perspektiven 4: 158–173.
+
+Zubayr C and Gerhard H (2009) Tendenzen im Zuschauerverhalten. Media Perspektiven 4:
+
+26 the International Communication Gazette 76(1)
+
+... Terrorist attacks, as a particularly negative issue, have the potential to shake the legitimacy of the government, threaten social stability, and cause public panic (Canel & Sanders, 2010), while Asian cultures emphasize harmony and avoidance of conflict (Leung et al., 2002;Loo, 2019). Moreover, external factors (e.g., national and cultural contexts) significantly influence media coverage of terrorism
+
+(Gerhards & Schäfer, 2014). By studying the way Chinese newspapers (one possible representation of Asian media) represent terrorist attacks, we can therefore explore how the contradiction between market needs and government control translates into journalistic practice, thus filling an existing research gap in media coverage of negative social issues (especially in response to terrorist attacks) in non-Western contexts. ...
+
+... Nevalsky (2015) compared how U.S. media reported on the attacks in Paris and Nigeria (January 2015) and found that the media portrayed France in a positive light as victims of violence, while Nigeria was depicted in a negative way as responsible for the violence. However, terrorism coverage shared common characteristics such as condemning perpetrators and attacks
+
+(Gerhards & Schäfer, 2014;Norris et al., 2003), presenting attacks as a major event, and presenting victims as innocent citizens (Gerhards & Schäfer, 2014). These characteristics of terrorism coverage can be systematically studied through discursive news values analysis, which offers a conceptual and methodological framework for the analysis of the discursive construction of the news, or news treatment (Bednarek & Caple, 2017). ...
+
+... Nevalsky (2015) compared how U.S. media reported on the attacks in Paris and Nigeria (January 2015) and found that the media portrayed France in a positive light as victims of violence, while Nigeria was depicted in a negative way as responsible for the violence. However, terrorism coverage shared common characteristics such as condemning perpetrators and attacks (Gerhards & Schäfer, 2014;Norris et al., 2003), presenting attacks as a major event, and presenting victims as innocent citizens
+
+(Gerhards & Schäfer, 2014). These characteristics of terrorism coverage can be systematically studied through discursive news values analysis, which offers a conceptual and methodological framework for the analysis of the discursive construction of the news, or news treatment (Bednarek & Caple, 2017). ...
+
+When Socialism Meets Terrorism: A Computer-Assisted Discursive News Values Analysis of Chinese Newspapers’ Coverage of Domestic and International Terrorist Attacks
+
+... The existing research on perpetrator-based media biases broadly falls into two categories: (a) case studies of the coverage about individual attacks on the one hand, and (b) census studies comparing different types of attacks drawn from a universe of events on the other. The available case studies investigate attacks perpetrated by either Islamist or right-wing attackers (e.g., Islamist only: Larsen 2018; Papacharissi and de Fatima Oliveira 2008;Steuter and Wills 2010;
+
+Gerhards andSchäfer 2014-Right-wing only: Falkheimer andOlsson 2015;Samuel-Azran et al. 2015). Taken together, these studies suggest that Western media frame Islamist attacks and right-wing attacks differently. ...
+
+... For example, when reporting Israeli attacks on Palestinians, U.S. elite media (New York Times and the Washington Post) repair the image of Israeli attackers by reporting on Arabs' contributory roles in the attack, according to Handley (2009). Narrative repair in terrorism coverage could be explained by the argument about "regional/cultural differences" cited in
+
+Gerhards and Schäfer (2014). According to this argument, the root causes of national differences in terrorism coverage are (1) cultural differences or proximities between the attackers and the country in which the reporting happens and/or (2) the degree of involvement of the reporting country in an international conflict in which the terrorist attackers represent the "other side." ...
+
+... This highlights the need to conduct international comparisons because two-sided interpretations of terrorism cannot be verified by studying Western media outlets only. Some cross-cultural comparisons do exist but, unfortunately, these studies include only coverage on one type of terrorism event (e.g., only Islamist terror attacks in Papacharissi and de Fatima Oliveira 2008;
+
+Gerhards and Schäfer 2014). The two-sided conflict assumption therefore also merits a cross-cultural research design with a global scope. ...
+
+Challenging the Global Cultural Conflict Narrative: An Automated Content Analysis on How PerPetrator Identity Shapes Worldwide News Coverage of Islamist and Right-Wing Terror Attacks
+
+Wouter Van Atteveldt
+
+Recent terrorist attacks such as the Christchurch mosque attacks in 2019 renew the discussion of whether right-wing attacks are reported less negatively than Islamist attacks. To clarify this point, our study is the first to combine the selection of media inside and outside the West with a distinction between Islamist and right-wing attacks. We compare coverage given to thirty-two right-wing and forty Islamist attacks from 2015 to 2019 in nine Western and eight non-Western English-language media outlets, tapping the differential use of the “terrorist/terrorism” label and textual sentiment. Both (many) Western and (some) non-Western media use this label more frequently in the coverage of Islamist attacks. Importantly, public diplomacy channels from non-Western countries such as China Daily and Sputnik also demonstrate this pattern. Delegitimizing Islamist attacks more than right-wing attacks thus cannot be explained as merely a Western phenomenon alone. We point to alternative explanations and call for greater standardization of coverage across Islamist and right-wing attacks.
+
+... As for the laws, the Iraqi legislator mentioned in the applicable Iraqi Penal Code the terrorist crime after which one of the exceptions mentioned on the political crime and did not provide a definition of terrorism (Ganor, 2009). The Iraqi legislator after it mentioned one of the elements of some of the punished crimes such as the crime of conspiracy other than the basic principles of the constitution or the attack on the systems Fundamental of the state or assaulting employees and citizen
+
+(Gerhards & Schäfer, 2014). As for the Iraqi Anti-Terrorism Law No.13 for the year (2005) terrorism was defined in Article (1) thereof as (every criminal act by an organized individual, group targeting an individual, group of individuals, groups, official or unofficial institutions causing damage to property Public or private in order to disturb the security situation, stability and national unity, the introduction of terror, fear and dismay among people, provoke chaos in order to achieve terrorist goals). ...
+
+... In the Egyptian law, it is a mitigated, compulsory, reserve liability. However, the Egyptian civil law allowed a non-discriminatory liability in Article (164/2) if there is no official or it is not possible to obtain compensation from the responsible, and that responsibility in this case is based on bearing the consequences
+
+(Gerhards & Schäfer, 2014). Consequently, the person carrying out the terrorist act is asked about these acts because there is an intention to harm others because these acts represent a breach of the security of society, and he does not look for the intention of this person, especially after considering these acts among the grave mistakes that the person responsible for them is responsible for, and whether this act is positive or negative. ...
+
+... It is noticeable that the French legislator has authorized the request for supplementary compensation when these damages escalate, by submitting another compensation request. Thus, the provisions for compensation for damage are in accordance with the general rules on civil liability, and this is only made after the injured person provides evidence that bodily harm has exacerbated the period between work the terrorist and raise the request to the fund
+
+(Gerhards & Schäfer, 2014). ...
+
+REVIEW OF INTERNATIONAL GEOGRAPHICAL EDUCATION Civil responsibility arising from terrorist operations. A comparative study
+
+وسيم جبار الشمري
+
+... The Al Jazeera channel has already been the focus of multiple comparative studies, with comparisons made with a range of different international media outlets in terms of output. Several researchers have also focused on examining Al Jazeera's media coverage of particular topics as compared to that of international news broadcasters: such topics have included the Israeli-Palestinian conflict (Aqtash et al., 2004;Barkho, 2007;Damanhoury and Saleh, 2017), the Arab Spring (Al Nahed, 2016;Bosio, 2013;Karyotakis et al., 2017) and terrorism (Alshathry, 2015;
+
+Gerhards and Schäfer, 2014). Damanhoury and Saleh (2017) compared output from CNN and Al Jazeera America (AJAM) to investigate how these channels framed the 2014 Gaza War, for example, revealing that the two media outlets applied differing reporting strategies: in particular, AJAM differentiated between civilians and militants when reporting death tolls, whilst CNN did not clarify whether any casualties were civilians or militants. ...
+
+A critical discourse analysis of Al Jazeera’s online coverage of the war in Yemen before and after the 5 June 2017 Gulf crisis
+
+In this study, Critical Discourse Analysis (CDA) was utilised to examine the Al Jazeera Arabic news website with respect to its reports on the social actors in the Yemen war, particularly the KSA, UAE, Egypt and Bahrain coalition and the opposing Houthis, both before and after the Gulf crisis that occurred on 5 June 2017. The analysed data included a total of 32 news articles related to the war in Yemen, with 16 articles covering the period prior to the Crisis, from 2015 to 2017, and 16 covering the period following the onset of the crisis, from 2017 to 2019. The overall aim was to uncover the ideological implications of various linguistic elements, such as lexical choices, news headline creation, and de-legitimisation strategies, and the results revealed identifiable, distinct, and non-random changes in tone and angle of representation relating to the various social actors and their actions. Before the crisis, the coalition was represented positively while Houthis was presented negatively, while after the crisis, the tone towards these social actors was completely reversed. The various discursive strategies used in the articles across both periods thus show that the coverage of the Yemen crisis was intended to ideologically and politically guide readers’ understanding of the crisis.
+
+... Depending on the motivations of the terrorist organization, the media and those in power may be hesitant to condemn an act of terror as "terrorism," knowing such framing will negatively implicate their own values/ beliefs. Therefore, in the case of foreign terrorism, where the perpetrators and victims often hold distinct political and cultural views, there is greater consensus about how to frame these events (see
+
+Gerhards & Schäfer, 2014;Merskin, 2004;Papacharissi & de Fatima Oliveira, 2008). Foreign terrorism often gets relegated to the convenient "us vs. them" frame where the perpetrators (e.g., Muslims and Arabs) are "vengeful killers" and the victims (e.g., Americans) are morally, spiritually, and politically superior (Douai & Lauricella, 2014;Powell, 2011). ...
+
+News Framing in the Aftermath of the January 6 Attacks on the U.S. Capitol: An Analysis of Labels, Definitional Uncertainty, and Contextualization
+
+In the aftermath of a violent attack, questions of definition arise. News framing research has shown that the words chosen to define a given event can affect attitudes and decision-making, even when only a single word is varied. This study analyzes public discourse in the aftermath of the January 6 U.S. Capitol attacks to better understand which labels predominated and how different labels were explained/justified. We pair computer-assisted content analysis with qualitative textual analysis to identify patterns in public commentary during the week following the attacks. Results indicate that initial news coverage favored “protest(s)” as a descriptor, but “riot,” “attack(s),” and “insurrection” gained traction as the week unfolded. Many labels were also definitively applied and deployed to contextualize the attacks, providing a degree of contrast to framing norms. The results are considered in relation to ongoing debates over definitions of domestic terrorism and related crises, as well as normative considerations central to the maintenance of U.S. democracy.
+
+Journalistic Resistance Against Authoritarian Disinformation: A Comparative Analysis of Media Portrayals of Liz Wahl and Marina Ovsyannikova
+
+The Russia-Ukraine crisis began in 1991 when Ukraine became independent following the fall of the Soviet Union. The arrival of Putin to power in Russia and his 2014 annexation of Ukraine's Crimean Peninsula sparked a crisis in which disinformation became one of the main weapons. Journalists working for Russian government-affiliated media were required to echo Kremlin propaganda and disinformation on the crisis. The 2022 Russian invasion of Ukraine led to a repetition of Putin's use of disinformation to justify the invasion. Liz Wahl of Russia Today, Washington DC, and Marina Ovsyannikova of Channel One Russia, resisted Kremlin propaganda on live television. This study explores how Al Jazeera, the BBC, and CNN portrayed this resistance. A qualitative textual analysis was carried out within the theoretical framework of journalistic ethics and paradigm repair. It was found that Al Jazeera, the BBC, and CNN covered the resistance extensively in solidarity with their colleagues and in support of media freedom.
+
+Journalistic Resistance to Russian Authoritarian Disinformation: The Case of Media Dissidents in the Russia-Ukraine Wars of 2014 & 2022
+
+The Russia-Ukraine crisis is an ethno-religious and geopolitical crisis with a long history. It flared up once again in 1991 when Ukraine became independent following the fall of the Soviet Union. The arrival of Putin to power in Russia and his 2014 annexation of Ukraine’s Crimean Peninsula sparked a crisis in which disinformation became one of the main weapons. Journalists working for Russian- and Russian government-affiliated media were required to echo Kremlin propaganda and disinformation (both concepts are used interchangeably in this study) on the crisis. However, some journalists resisted this demand. The Russian invasion of Ukraine in 2022 led to a repetition of Putin's use of disinformation to justify the invasion. Journalists were again expected to spread Kremlin disinformation to further Kremlin goals. This thesis explores the use of propaganda and disinformation in the Russia-Ukraine wars of 2014 and 2022, using as a case study of two Russian government media journalists, Liz Wahl and Marina Ovsyannikova, who publicly resisted Kremlin propaganda. The study also explores the role of gender in the Russian journalistic field and examines female resistance to war propaganda in the context of journalistic paradigm repair. Finally, the thesis examines how Al Jazeera (Qatar), the BBC, and CNN portrayed the resistance. The study was carried out within the framework of the following theoretical perspectives: gender and international journalism, journalistic fields, journalistic ethics, and journalistic paradigm repair. The study uses historical and textual analyses to explore the resistance activities of female journalists and international media portrayals of that resistance. It was found that, in the Russian journalistic field, women journalists were prominent against authoritarian disinformation and criticizing governments. These two female journalists, Liz Wahl and Marina Ovsyannikova were willing to publicly resist authoritarian disinformation because of their journalistic ethics and in defense of the journalistic paradigm, despite the consequences they faced. On the other hand, Al Jazeera, the BBC, and CNN covered the resistance extensively in support of their colleagues and in solidarity with media freedom.
+
+How shared ties and journalistic cultures shape global news coverage of disruptive media events: the case of the 9/11 terror attacks
+
+In recent decades, disruptive media events, such as major terrorist attacks, have gained increasing relevance in news coverage around the world. Despite the growing importance of such globally broadcast media events, little research to date has examined cross-national variation in event coverage or the predictors of this variation. This study examines news coverage about the 9/11 terror attacks in the United States across 51 countries to analyze whether the topical focus and emotional tone of news coverage about the attacks varied according to a country’s proximity to the United States and the dominant role perceptions of its journalistic culture. We show that these macro-level predictors are associated in varying degrees with the country-level topical focus and emotional tone of reporting over the 30 days following this salient event. Moreover, our analysis also suggests that temporal developments may have uniformly structured much of this worldwide coverage.
+
+Динамика освещения террористического акта в Беслане в региональных и центральных СМИ
+
+Средства массовой информации, освещающие террористические акты, формируют определенную картину мира своих читателей, их мнение по по-воду происходящих событий. Изучение текстов новостных источников поз-воляет понять, как изменяется восприятие терактов с течением времени. Цель данного исследования – изучение освещения террористического акта в Беслане в сентябре 2004 года в региональных и центральных российских СМИ. Проведен контент-анализ, а также сравнительный анализ материалов информационных порталов «15-й регион», как региональных СМИ Северной Осетии, и РБК, как представителей центральных СМИ, в период с 2004 по 2019 годы. На основании проведеннго анализа сделаны следующие выводы: для региональных СМИ характерно большее внимание к проблемам постра-давших, их дальнейшей жизни, их личным историям, тогда как центральные средства массовой информации сосредоточены скорее на глобальной про-блеме терроризма в масштабе страны и мира в целом. Одной из тенденций в освещении терактов является признание неэффективности действий силовых структур и государства, что гораздо больше проявляется в региональных средствах массовой информации. Стоит отметить также, что снижение инте-реса к теме на уровне центральных СМИ происходит быстрее, чем на уровне региональных СМИ.
+
+Europe and the MENA Region: Media Reporting, Humanitarianism, Conflict Resolution, and Peacebuilding
+
+It provides an incredible theoretical analysis of the conflicts, war economies, peacebuilding efforts, and National Dialogues in the MENA region and then juxtaposes the rich insight with the discordant and abstract portrayal of the same in European media. From the Back Cover “This book is designed to be a friendly reference guide on the subject incorporating analytical lenses and policy guidelines. It will be of good use to under and post graduate students and to those engaged in National Dialogues and policymakers at the national, regional, and international levels.”– Prof. Hamid Ali, Dean of School of SEAPP, Doha Institute for Graduate Studies, Qatar This book provides an overview of the National Dialogue design process in fragile settings at the national, regional, and international levels in the MENA region. It provides a comparative analysis at the international level by examining the Yemeni NDC 2013 with those of Afghanistan and Ethiopia, and at the regional level, focusing on Iraq and Tunisia. It also goes beyond the traditional exploration of political and social conflicts by adding a rich theoretical layer of analysis of Humanitarian Aid and its contribution to war economies in the Arab region. Finally, it examines the news frames used in the coverage of the conflicts in the Middle East and North Africa and takes one step further to integrate a media lens by analyzing the extent of the media coverage devoted to the Yemeni and Syrian wars by four prestigious European online news platforms. This incisive book presents a radical contrast between the on-ground reality of the conflicts in the region, distinguished by various social, political, economic, geographic, and humanitarian challenges, and its discordant abstract portrayal in European online media. Moosa Elayah is Assistant Professor of International Development, Peacebuilding and Conflict Studies at Doha Institute for Graduate Studies (Qatar).
+
+We Keep America On Top of the World
+
+Das System »Terror«: Versuch über eine kommunikative Eskalation der Moderne
+
+Terror ist mittlerweile zu einem Weltproblem geworden. Dabei liefern die Massenmedien typisch die Bildvorlagen - die verstümmelten Menschen, die zerbombten Gebäude, die herumirrenden Verletzten - und damit die Resultate des Terrors ins Haus. In den Beiträgen des Bandes wird der Versuch unternommen, von dieser Resultatsicht loszukommen und eine Analyse zu starten, die ausprobiert, ob sich Terror als System der modernen Gesellschaft begreifen lässt. Dabei soll auch die furchtbare Frage zumindest präzisiert werden, ob das, was so sinn- und funktionslos erscheint, nicht als eine Funktion ebendieser Gesellschaft zu thematisieren ist.
+
+Four Theories of the Press: The Authoritarian, Libertarian, Social Responsibility, and Soviet Communist Concepts of What the Press Should Be and Do
+
+Qualitative research practice: A guide for social science students and researchers
+
+Das Islambild von ARD und ZDF
+
+Full text: http://www.bpb.de/apuz/30402/das-islambild-von-ard-und-zdf?p=all
+
+Von Modernisierungs- über Dependenz- zu Globalisierungstheorien
+
+Der fundamentale Wandel der Welt wird heute sozialwissenschaftlich mit ganz unterschiedlichen Begriffen beschrieben. Zu diesen zählen Globalisierung und Individualisierung, Mediatisierung und Ökonomisierung.
+
+Transnationale politische Kommunikation: Konventionelle Sichtweisen und neue Realitäten
+
+Politische Kommunikationssysteme sind dynamisch und entwickeln sich ständig weiter. Gerade wenn wir glauben, ihre Funktionsweise verstanden zu haben, ändern sich die Dinge. Manchmal erscheinen die Veränderungen als evolutionär, im Sinne einer konsequenten Schrittfolge, die zu einem vorhersehbaren Ziel führt. Dann wieder nimmt die Entwicklung neue Wendungen in unerwartete Richtungen. Gerade in jüngerer Zeit haben transnationale Trends in der politischen Kommunikation, die sich in vielen Ländern beobachten lassen, einige unerwartete Wendungen Entwicklungen erkennen lassen. Einerseits stellen diese Entwicklungen den bisherigen Forschungsstand, wie er aus vielen Vergleichsstudien gewonnen wurde, in Frage, andererseits bestätigen sie den bisherigen Wissensstand. Es ist noch nicht abzusehen, wohin die Entwicklung führen wird. Deutlich wird aber schon jetzt, dass manche der gerade etablierten Sichtweisen bereits wieder überdacht werden müssen. Dieses Kapitel rekapituliert zunächst einige der etablierten, aus komparativen Studien gewonnenen transnationalen Trends in der politischen Kommunikation. Es wendet sich dann jüngeren Entwicklungen zu, die diese etablierten Sichtweisen teilweise bestätigen, aber auch grundlegend in Frage stellen. Das Kapitel schliesst mit Überlegungen darüber, was die international vergleichende politische Kommunikationsforschung aus den neuen Realitäten lernen kann und wohin diese neuen Pfade fuhren mögen.
+
+Communicating Terror: The Rhetorical Dimensions of Terrorism
+
+The only book to examine terrorism as a rhetorical act "This is an excellent text in furthering our understanding of the web of language and how it creates our mediated realities - which reflect our culture, politics, religion, economics, etc. Students really like the case studies and how it complements the theory and practice of rhetoric. I think this book has applications for almost any course in communication." -J. Gregory Payne, Emerson College Concise, succinct, and provocative, Communicating Terror, Second Edition explores multiple rhetorical dimensions of terrorism, connects terrorism to communication theories, and helps readers understand how this violence creates a public discourse for multiple target audiences. Author Joseph S. Tuman uses fascinating case studies and examples as he explores both dissent terrorism and state terror and looks at terrorism from a communicative perspective. Presenting terrorism as a process of communication between terrorists and multiple audiences, this book examines a range of rhetorical components, including definitions and labels, symbolism in terrorism, the relationship between terror and the media, and public oratory about terrorism-by both victims of terrorism and terrorists themselves. New to the Second Edition Includes three new chapters on public address and speeches concerning terrorism, symbols and targets of terror, and terrorism, rhetorical theory, and mass media; Offers new examples, case studies, speeches, and topic coverage, including expanded coverage of the Internet and the "War on Terror;" new material on Iran, Cambodia, Rwanda, Hamas and Hezbollah, and dirty bombs; Provides expanded treatment of rhetoric and theory with a focus on ideological criticism, neo-classical criticism, dramatism, and media-centered terrorism; Examines diverse acts of terrorism-not just 9/11 or the recent events in the Middle East-to show the history and various usages of these acts as a medium for communication; Includes real case studies of terrorists and terror acts that make applying rhetorical theory practical and accessible. Intended Audience Communicating Terror, Second Edition is ideal for use in a wide range of courses, including Media & Politics, Terrorism, Media & Society, Rhetorical Theory/Analysis/Criticism, Defense and National Security, and Political Communication.
+
+The abstract for this document is available on CSA Illumina.To view the Abstract, click the Abstract button above the document title.
+
+Political Communication Messages: Pictures of Our World on International Television News: Pictures of Our World on Television News
+
+Television news is an excellent means of comparing political communication across countries. News programs are part of almost every television system in the world. They are usually broadcast at prime time and audiences consistently rate them as the most important of all available information programs (Straubhaar et al. 1992; Hajok and Schorb 1998). Television news provides “survival-relevant information about novel events” (Newhagen and Levy 1998, 10). It also influences political orientation, informs opinion building, and serves as a control mechanism of state power. In the pluralist societies of the western world, television news exerts a strong influence on the very nature of political communication (Kamps 1999, 141). According to Schaap et al. (1998) the research literature on television news can be organized according to the fields of mass communication, with a focus on journalist working routines (Esser 1998), audience reception and the effects of television news at the individual level (Jensen 1998; Zillmann et al. 1998), and public opinion formation at the societal level. Thus, Iyengar and Kinder note for the United States: “television news obviously possesses the potential to shape American public opinion profoundly” (Iyengar and Kinder 1987, 1). This chapter will elaborate on a fourth approach to examining television news: the content and structure of television news (Bonfadelli 2000, 33–6). In a comparative empirical study, we have analyzed news programs from different countries according to three main categories of content and structure: news geography, issue/actor representation, and topical integration.
+
+Recommended publications
+
+Die Privatisierung des Öffentlichen: Zur Karriere des Gefühls und des Intimen in den Massenmedien
+
+El recuerdo colectivo y el terrorismo en Italia. Ceremonias conmemorativas: de los medios de comunic...
+
+Ana Lisa TotaRead more
+
+Es braucht kulturell eingebundenes Kapital: Die Finanzinvestoren und die Finanzierungsprobleme der M...
+
+P ZwickyView full-text
+
+Radio: Publizistische Versorgung
+
+Linards UdrisRead more
+
+Discover the world's research
+
+Join ResearchGate to find the people and research you need to help your work.
+
+ResearchGate iOS App
+
+Get it from the App Store now.
+
+Keep up with your stats and more
+
+Access scientific knowledge from anywhere
+
+Discover by subject area
+
+Welcome back! Please log in.
