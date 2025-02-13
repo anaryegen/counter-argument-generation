@@ -1,2 +1,2 @@
-# counter-perspective-generation
+# counter-argument-generation
 
