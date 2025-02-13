@@ -1,16 +1,8 @@
-# from datasets import load_dataset
-import glob
-import pandas as pd
-import time
 import json
 import argparse 
-import random
 
-import httpx
 from tqdm import tqdm
 import cohere
-
-from datasets import load_dataset
 
 
 if __name__ == '__main__':
@@ -21,20 +13,6 @@ if __name__ == '__main__':
             type=str,
             required=True,
             help="API key for Cohere",
-        )
-        parser.add_argument(
-            "--data_name",
-            type=str,
-            default='candela',
-            choices=['cmv', 'conan', 'persuasive', 'opinion', 'candela'],
-            help="Path to the data with claims to counter",
-            # nargs='+'
-        )
-        parser.add_argument(
-            "--data_path",
-            type=str,
-            default='data/data.jsonl',
-            help="Path to the data with claims to counter",
         )
         parser.add_argument(
             "--output_file",
@@ -50,65 +28,19 @@ if __name__ == '__main__':
         )
         args = parser.parse_args()
 
-def rag(data_name: str):
-    
-    argument = []
-    counter_argument = []
-    if data_name == 'cmv':
-        res_file = args.output_file
-        data = [eval(l) for l in open(args.data_path).readlines()]
-        for l in data:
-            argument.append(l['argument'].strip())  
-            counter_argument.append(l['counter-argument'].strip())
-    
-    if data_name == 'candela':
-        res_file = args.output_file
-        argument = open("candela_data/argument_150.txt").readlines()
-        counter_argument = open("candela_data/counter_150.txt").readlines()
+def run(data_name: str):
 
-    if data_name =='conan':
-        print('LOADING DATA: ')
-        res_file = args.output_file
-        data = load_dataset("HiTZ/CONAN-EUS", 'en')
-        data = pd.DataFrame(data['test']).drop_duplicates(['HS'])
-        argument = data['HS'].to_list()
-        counter_argument = data['CN'].to_list()
+    res_file = args.output_file
+    argument = open("data/argument.txt").readlines()
+    counter_argument = open("data/counter-argument.txt").readlines()
 
-
-    if data_name == 'persuasive':
-        res_file = args.output_file
-        data = load_dataset("Anthropic/persuasion")
-        data = pd.DataFrame(data['train'])
-        argument = data[data['rating_final'] == '1 - Strongly oppose'].drop_duplicates('claim')['claim'].to_list()
-        argument += data[data['rating_final'] == '2 - Oppose'].drop_duplicates('claim')['claim'].to_list()
-        counter_argument = data[data['rating_final'] == '1 - Strongly oppose'].drop_duplicates('claim')['argument'].to_list()
-        counter_argument += data[data['rating_final'] == '2 - Oppose'].drop_duplicates('claim')['argument'].to_list()
-        argument = argument
-        counter_argument = counter_argument
-
-    if data_name == 'opinion':
-        res_file = args.output_file
-        data = [eval(l) for l in open('mistral-opinions-norag-qa.jsonl').readlines()]
-        argument = [] 
-        for l in data:
-            argument.append(l['argument'].strip())
-        counter_argument = argument # temporal
-
-    
     print("\tNumber of claims: " , len(argument))
     print("\tNumber of counter-claims: " , len(counter_argument))
     assert len(argument) == len(counter_argument), "The length of argument and counter-argument are different. Please check your data."
 
-
-
-
-    # count = 0
-    results = open(res_file , 'w')
+    output_file = open(res_file , 'w')
     for claim, counter_claim in tqdm(zip(argument, counter_argument), total=len(argument)):
-        # count += 1
-        # if count % 10 == 0:
-            # to comply with the 10 API calls/min restriction
-            # time.sleep(60)
+
         questions = get_questions(claim)
         if args.get_external_knowledge:
             qacontext = get_qacontext(questions)
@@ -128,8 +60,8 @@ def rag(data_name: str):
                     'counter-argument': counter_claim # "gold" counter-claim
                 }
         
-        json.dump(output, results)
-        results.write('\n')
+        json.dump(output, output_file, indent=4)
+        # output_file.write('\n')
 
 
 def get_questions(claim: str):
@@ -161,7 +93,6 @@ def get_questions(claim: str):
     return questions
 
 def get_qacontext(questions: dict):
-    # questions = eval(questions)
     context = []
     co = cohere.Client(args.api_key)
     if not questions:
@@ -213,6 +144,5 @@ def get_counter_claim(claim:str, qacontext:str):
     
     return counter.message.content[0].text, qacontext
 
-# client = httpx.Client(timeout=None)
 co = cohere.ClientV2(args.api_key)
-rag(args.data_name)
+run(args.data_name)
