@@ -1,6 +1,0 @@
-/gaueko0/users/ayeginbergenov001/.local/lib/python3.9/site-packages/transformers/utils/hub.py:128: FutureWarning: Using `TRANSFORMERS_CACHE` is deprecated and will be removed in v5 of Transformers. Use `HF_HOME` instead.
-  warnings.warn(
-Traceback (most recent call last):
-  File "/gaueko0/users/ayeginbergenov001/rag-arg/evaluation/Vicuna/vicuna_eval_scores.py", line 68, in <module>
-    counter_claims.append(line['model'])
-KeyError: 'model'
