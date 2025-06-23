@@ -15,6 +15,7 @@ This work investigates the role of dynamic external knowledge integration in imp
 - **Source**: Built upon the CANDELA corpus from r/ChangeMyView subreddit debates
 - **Size**: 150 high-quality argument-counter-argument pairs  
 - **Format**: 3-sentence structured arguments focusing on main claim, supporting evidence, and examples
+- **Data**: [🤗 Counter-argument](https://huggingface.co/datasets/HiTZ/counter-argument)
 
 ### Data Statistics
 | Component | Original | Intermediate | Final |
