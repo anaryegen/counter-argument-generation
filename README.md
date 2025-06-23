@@ -45,8 +45,9 @@ The study evaluated counter-arguments across five key dimensions:
 If you use this work in your research, please cite:
 
 ```bibtex
-@article{yeginbergen2025dynamic,
+@inproceedings{yeginbergen2025dynamic,
   title={Dynamic Knowledge Integration for Evidence-Driven Counter-Argument Generation with Large Language Models},
   author={Yeginbergen, Anar and Oronoz, Maite and Agerri, Rodrigo},
+  booktitle={ACL Findings},
   year={2025}
 }
